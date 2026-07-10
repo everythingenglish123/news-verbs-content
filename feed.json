@@ -2,6 +2,736 @@
   "updated": "",
   "stories": [
     {
+      "id": "ukraine-drone-oil-strikes-2026",
+      "headline": "Ukraine hits Russian oil sites with drones",
+      "badge": "World",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n12-russia-oil.png",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Drone offensive hits Russian oil tankers and refineries at 'industrial scale' as Moscow bans diesel exports",
+          "url": "https://www.foxnews.com/world/drone-offensive-hits-russian-oil-tankers-refineries-industrial-scale-moscow-bans-diesel-exports"
+        },
+        {
+          "title": "Russia bans diesel exports after Ukrainian attacks, straining already tense global market",
+          "url": "https://www.cnn.com/2026/07/09/business/russia-diesel-ban-ukrainian-strikes-intl"
+        },
+        {
+          "title": "Russia Bans Diesel Exports to Ensure Domestic Supply After Targeted Ukrainian Drone Strikes",
+          "url": "https://www.themoscowtimes.com/2026/07/08/russia-bans-diesel-exports-to-ensure-domestic-supply-after-targeted-ukrainian-drone-strikes-a93202"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "In July 2026, Ukraine {{carried out}} a large drone offensive that lasted about three days. Ukraine said its forces {{stepped up}} attacks on Russian [[oil tankers]] and [[refineries]]. One Ukrainian commander described the campaign as reaching an \"industrial scale.\" According to reports, the [[drones]] {{set off}} fires at several energy sites, and Ukraine claimed it had hit 21 [[vessels]], including 19 oil tankers, near Crimea.",
+          "verbs": [
+            {
+              "display": "carried out",
+              "base": "carry out",
+              "wrong": "To move something away from a place",
+              "correct": "To do or complete a planned task or action",
+              "correctFirst": false
+            },
+            {
+              "display": "stepped up",
+              "base": "step up",
+              "wrong": "To climb onto a higher place",
+              "correct": "To increase the amount or intensity of an activity",
+              "correctFirst": true
+            },
+            {
+              "display": "set off",
+              "base": "set off",
+              "wrong": "To leave and begin a journey",
+              "correct": "To cause something to start suddenly, such as a fire or alarm",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "The strikes {{knocked out}} part of Russia's oil production. According to reports, the Omsk [[refinery]] in Siberia, which is Russia's largest, {{shut down}} some operations after it was hit. The plant sits about 1,700 miles from Ukrainian territory and normally makes around 460,000 [[barrels]] of [[fuel]] a day. Two industry sources said work at the site stopped for a time.",
+          "verbs": [
+            {
+              "display": "knocked out",
+              "base": "knock out",
+              "wrong": "To hit a person until they lose consciousness",
+              "correct": "To destroy or stop something from working",
+              "correctFirst": false
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "wrong": "To close and lock a door firmly",
+              "correct": "To stop operating or close, often for a period of time",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Inside Russia, the attacks led to serious [[fuel shortages]]. Long lines {{built up}} at [[gas stations]] in several regions, and some areas {{brought in}} limits on how much fuel drivers could buy. Prices {{went up}} quickly. One Russian official said the situation at filling stations was \"causing concern\" among the public, and reports said some stations {{ran out}} of [[gasoline]].",
+          "verbs": [
+            {
+              "display": "built up",
+              "base": "build up",
+              "wrong": "To construct a tall structure",
+              "correct": "To increase or grow larger gradually over time",
+              "correctFirst": true
+            },
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "wrong": "To carry something inside from outdoors",
+              "correct": "To introduce a new rule, law, or system",
+              "correctFirst": false
+            },
+            {
+              "display": "went up",
+              "base": "go up",
+              "wrong": "To move to a higher floor of a building",
+              "correct": "To rise or increase in level or amount",
+              "correctFirst": true
+            },
+            {
+              "display": "ran out",
+              "base": "run out",
+              "wrong": "To leave a place quickly by running",
+              "correct": "To have no more of something left",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "In response, Russia {{hit back}} at the pressure on its fuel market by cutting exports. Russian officials said they would {{hold back}} [[diesel]] [[exports]] until July 31 to keep enough fuel at home. To {{deal with}} the shortages, reports said Russia planned to buy fuel from other countries and had already started importing gasoline from India. Analysts said the [[export ban]] could push global diesel prices higher.",
+          "verbs": [
+            {
+              "display": "hit back",
+              "base": "hit back",
+              "wrong": "To return to a place you came from",
+              "correct": "To respond to an attack or criticism",
+              "correctFirst": true
+            },
+            {
+              "display": "hold back",
+              "base": "hold back",
+              "wrong": "To physically restrain a person from moving",
+              "correct": "To keep or stop something from being released or given",
+              "correctFirst": false
+            },
+            {
+              "display": "deal with",
+              "base": "deal with",
+              "wrong": "To sell or trade goods with someone",
+              "correct": "To take action to solve a problem or handle a situation",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Carry out",
+          "def": "To do or complete a planned task or action",
+          "ex": [
+            "The doctors will carry out the tests tomorrow morning.",
+            "Soldiers carried out their orders without delay.",
+            "The company carried out a survey of its workers."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase the amount or intensity of an activity",
+          "ex": [
+            "Police stepped up patrols after the robberies.",
+            "The team stepped up its efforts to finish on time.",
+            "Factories stepped up production before the holidays."
+          ]
+        },
+        {
+          "verb": "Set off",
+          "def": "To cause something to start suddenly, such as a fire or alarm",
+          "ex": [
+            "The smoke set off the fire alarm in the building.",
+            "A small spark set off the explosion.",
+            "His comment set off an argument at the table."
+          ]
+        },
+        {
+          "verb": "Knock out",
+          "def": "To destroy or stop something from working",
+          "ex": [
+            "The storm knocked out power across the city.",
+            "The strike knocked out the factory for a week.",
+            "A single hit knocked out the machine."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To stop operating or close, often for a period of time",
+          "ex": [
+            "The plant shut down after the accident.",
+            "They shut down the website for repairs.",
+            "The store shut down for the holidays."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To increase or grow larger gradually over time",
+          "ex": [
+            "Traffic built up during the morning rush.",
+            "Pressure built up inside the pipe.",
+            "Her savings built up over many years."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To introduce a new rule, law, or system",
+          "ex": [
+            "The government brought in a new tax.",
+            "The school brought in stricter rules.",
+            "The city brought in a ban on plastic bags."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To rise or increase in level or amount",
+          "ex": [
+            "Food prices went up last month.",
+            "The temperature went up during the afternoon.",
+            "Rents have gone up across the city."
+          ]
+        },
+        {
+          "verb": "Run out",
+          "def": "To have no more of something left",
+          "ex": [
+            "We ran out of milk this morning.",
+            "The car ran out of gas on the highway.",
+            "They ran out of tickets within an hour."
+          ]
+        },
+        {
+          "verb": "Hit back",
+          "def": "To respond to an attack or criticism",
+          "ex": [
+            "The player hit back at the unfair comments.",
+            "The company hit back at the false claims.",
+            "She hit back with a strong statement."
+          ]
+        },
+        {
+          "verb": "Hold back",
+          "def": "To keep or stop something from being released or given",
+          "ex": [
+            "The company held back the report for a week.",
+            "He held back part of the payment.",
+            "The dam holds back millions of gallons of water."
+          ]
+        },
+        {
+          "verb": "Deal with",
+          "def": "To take action to solve a problem or handle a situation",
+          "ex": [
+            "Managers must deal with customer complaints.",
+            "The city is dealing with heavy traffic.",
+            "She dealt with the problem calmly."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "oil tankers",
+          "def": "Large ships that carry oil across the sea",
+          "ex": [
+            "The oil tankers were anchored near the port.",
+            "Drones struck several oil tankers off the coast."
+          ]
+        },
+        {
+          "word": "refineries",
+          "def": "Factories where crude oil is turned into fuel and other products",
+          "ex": [
+            "The country has several large refineries.",
+            "The refineries were forced to stop work after the strikes."
+          ]
+        },
+        {
+          "word": "drones",
+          "def": "Small aircraft that fly without a pilot on board",
+          "ex": [
+            "The army used drones to watch the border.",
+            "Drones flew deep into enemy territory."
+          ]
+        },
+        {
+          "word": "vessels",
+          "def": "Ships or large boats",
+          "ex": [
+            "Many vessels were docked in the harbor.",
+            "The navy sent vessels to protect the coast."
+          ]
+        },
+        {
+          "word": "refinery",
+          "def": "A factory where crude oil is turned into fuel and other products",
+          "ex": [
+            "The refinery makes thousands of barrels a day.",
+            "The refinery stopped work after it was hit."
+          ]
+        },
+        {
+          "word": "barrels",
+          "def": "Units used to measure amounts of oil",
+          "ex": [
+            "The refinery makes thousands of barrels a day.",
+            "Oil is often sold by the barrel."
+          ]
+        },
+        {
+          "word": "fuel",
+          "def": "A material such as gasoline or diesel that is burned to produce power",
+          "ex": [
+            "The car needs more fuel for the trip.",
+            "Fuel became hard to find during the shortage."
+          ]
+        },
+        {
+          "word": "fuel shortages",
+          "def": "Situations where there is not enough fuel for people who need it",
+          "ex": [
+            "The war caused serious fuel shortages.",
+            "Fuel shortages led to long lines at stations."
+          ]
+        },
+        {
+          "word": "gas stations",
+          "def": "Places where drivers stop to buy fuel for their vehicles",
+          "ex": [
+            "Long lines formed at gas stations across the city.",
+            "Many gas stations ran low on fuel."
+          ]
+        },
+        {
+          "word": "gasoline",
+          "def": "A liquid fuel used to power most cars",
+          "ex": [
+            "Gasoline prices rose sharply this week.",
+            "They bought gasoline from another country."
+          ]
+        },
+        {
+          "word": "diesel",
+          "def": "A type of fuel used in trucks, buses, and some cars",
+          "ex": [
+            "Trucks usually run on diesel.",
+            "Russia stopped selling diesel to other countries."
+          ]
+        },
+        {
+          "word": "exports",
+          "def": "Goods that a country sells to other countries",
+          "ex": [
+            "Oil is one of the country's main exports.",
+            "The government limited its exports of fuel."
+          ]
+        },
+        {
+          "word": "export ban",
+          "def": "An official rule that stops a country from selling certain goods abroad",
+          "ex": [
+            "The export ban lasted for several weeks.",
+            "The export ban pushed prices higher."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "Ukraine carried out a large drone offensive that lasted about three days.",
+          "a": true,
+          "why": "Ukraine carried out (did) the planned offensive. This matches what happened."
+        },
+        {
+          "s": "Ukraine called off its attacks on Russian oil tankers and refineries.",
+          "a": false,
+          "why": "Ukraine stepped up (increased) its attacks. Call off means to cancel, which is not what happened."
+        },
+        {
+          "s": "Inside Russia, some gas stations ran out of gasoline during the shortages.",
+          "a": true,
+          "why": "The stations ran out (had none left) of gasoline. This matches the reports."
+        },
+        {
+          "s": "Russia stepped up its diesel exports until the end of July.",
+          "a": false,
+          "why": "Russia held back (stopped) its diesel exports. Step up means to increase, which is the opposite of what happened."
+        },
+        {
+          "s": "To deal with the shortages, Russia planned to buy fuel from other countries.",
+          "a": true,
+          "why": "Russia moved to deal with (handle) the shortages by importing fuel. This is correct."
+        },
+        {
+          "s": "As fuel became hard to find, prices went down across Russia.",
+          "a": false,
+          "why": "Prices went up (rose) during the shortage. Go down means to fall, which is the opposite of what happened."
+        }
+      ],
+      "number": 13
+    },
+    {
+      "id": "cyclospora-outbreak-2026",
+      "headline": "A tiny parasite makes over 1,000 people sick",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n13-parasite.png",
+      "position": "center 62%",
+      "sources": [
+        {
+          "title": "STAT: Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+          "url": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/"
+        },
+        {
+          "title": "CDC: Surveillance of Cyclosporiasis",
+          "url": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+        },
+        {
+          "title": "CNN: An outbreak of diarrhea caused by a parasite has hit thousands of people",
+          "url": "https://www.cnn.com/2026/07/09/health/prevent-parasite-cyclospora"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "In July 2026, health officials say a tiny [[parasite]] called cyclospora has {{broken out}} across the United States. The CDC reported that this [[outbreak]] has made more than 1,000 people sick so far this year. The parasite is microscopic, so people cannot see it on their food. Health officials are working to {{find out}} where the [[contaminated]] food {{comes from}}.",
+          "verbs": [
+            {
+              "display": "broken out",
+              "base": "break out",
+              "wrong": "To escape from a closed or locked place",
+              "correct": "To start suddenly and spread",
+              "correctFirst": false
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "wrong": "To search a place very carefully",
+              "correct": "To discover a fact after searching or trying",
+              "correctFirst": false
+            },
+            {
+              "display": "comes from",
+              "base": "come from",
+              "wrong": "To arrive at a place on time",
+              "correct": "To have as a source or origin",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Cyclospora usually spreads through [[contaminated]] fresh [[produce]], such as fruits and vegetables. When people {{come down with}} the illness, they often have long-lasting [[diarrhea]] and stomach pain. The [[infection]], which doctors call [[cyclosporiasis]], is not usually dangerous. Still, some patients {{end up}} needing medical care to {{deal with}} their [[symptoms]].",
+          "verbs": [
+            {
+              "display": "come down with",
+              "base": "come down with",
+              "wrong": "To move from a higher place to a lower one",
+              "correct": "To become sick with an illness",
+              "correctFirst": false
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "wrong": "To finish a job completely",
+              "correct": "To reach a final situation or place",
+              "correctFirst": true
+            },
+            {
+              "display": "deal with",
+              "base": "deal with",
+              "wrong": "To buy and sell something for money",
+              "correct": "To take action to handle a problem",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Health officials say the germs can get onto fresh food when [[irrigation]] water on farms is dirty. The CDC is {{looking into}} the outbreak, and its scientists are {{carrying out}} tests to learn more about it. Officials also {{warn of}} the danger of eating unwashed [[produce]]. They want people to be careful at home.",
+          "verbs": [
+            {
+              "display": "looking into",
+              "base": "look into",
+              "wrong": "To stare deeply inside a container",
+              "correct": "To examine or investigate something",
+              "correctFirst": true
+            },
+            {
+              "display": "carrying out",
+              "base": "carry out",
+              "wrong": "To lift something and take it outside",
+              "correct": "To do or complete a task",
+              "correctFirst": false
+            },
+            {
+              "display": "warn of",
+              "base": "warn of",
+              "wrong": "To keep someone safe from harm",
+              "correct": "To tell people about a possible danger",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "To stay safe, health officials tell people to {{wash off}} fresh fruits and vegetables under running water. Washing can help {{get rid of}} many germs, but it may not remove every one. Experts also suggest buying whole heads of [[lettuce]] and removing the outer leaves. Cooking vegetables can {{cut down on}} the risk of getting sick too.",
+          "verbs": [
+            {
+              "display": "wash off",
+              "base": "wash off",
+              "wrong": "To dry food gently with a clean cloth",
+              "correct": "To remove something by cleaning it with water",
+              "correctFirst": true
+            },
+            {
+              "display": "get rid of",
+              "base": "get rid of",
+              "wrong": "To hide something so no one can see it",
+              "correct": "To remove or throw away something unwanted",
+              "correctFirst": false
+            },
+            {
+              "display": "cut down on",
+              "base": "cut down on",
+              "wrong": "To chop something into small pieces",
+              "correct": "To reduce the amount of something",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Break out",
+          "def": "To start suddenly and spread",
+          "ex": [
+            "A fire can break out when someone forgets to turn off the stove.",
+            "The disease broke out in several cities at the same time.",
+            "Fighting broke out between the two teams after the game."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To discover a fact after searching or trying",
+          "ex": [
+            "I want to find out what time the store opens.",
+            "She found out that her flight was delayed.",
+            "Scientists are trying to find out how the parasite spreads."
+          ]
+        },
+        {
+          "verb": "Come from",
+          "def": "To have as a source or origin",
+          "ex": [
+            "Most of this fruit comes from local farms.",
+            "The noise was coming from the kitchen.",
+            "Health officials want to know where the germs come from."
+          ]
+        },
+        {
+          "verb": "Come down with",
+          "def": "To become sick with an illness",
+          "ex": [
+            "I think I am coming down with a cold.",
+            "He came down with the flu after his trip.",
+            "Many students came down with a stomach bug last week."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To reach a final situation or place",
+          "ex": [
+            "If you eat bad food, you may end up in the hospital.",
+            "We got lost and ended up in the wrong town.",
+            "She ended up loving the job she was afraid to take."
+          ]
+        },
+        {
+          "verb": "Deal with",
+          "def": "To take action to handle a problem",
+          "ex": [
+            "Doctors know how to deal with this illness.",
+            "The manager dealt with the complaint quickly.",
+            "It is hard to deal with so many problems at once."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To examine or investigate something",
+          "ex": [
+            "The police are looking into the accident.",
+            "Officials will look into the cause of the outbreak.",
+            "I need to look into cheaper travel options."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do or complete a task",
+          "ex": [
+            "The team carried out several tests on the water.",
+            "Nurses carry out the doctor's instructions.",
+            "They carried out the plan without any problems."
+          ]
+        },
+        {
+          "verb": "Warn of",
+          "def": "To tell people about a possible danger",
+          "ex": [
+            "Officials warn of the risk of eating unwashed food.",
+            "The report warns of higher prices next year.",
+            "Signs on the beach warn of strong waves."
+          ]
+        },
+        {
+          "verb": "Wash off",
+          "def": "To remove something by cleaning it with water",
+          "ex": [
+            "Please wash off the dirt before you eat the apple.",
+            "The rain washed off the mud from the car.",
+            "You should wash off any soap under running water."
+          ]
+        },
+        {
+          "verb": "Get rid of",
+          "def": "To remove or throw away something unwanted",
+          "ex": [
+            "Washing food helps get rid of many germs.",
+            "We got rid of the old furniture last month.",
+            "It is hard to get rid of a bad habit."
+          ]
+        },
+        {
+          "verb": "Cut down on",
+          "def": "To reduce the amount of something",
+          "ex": [
+            "Cooking vegetables can cut down on the risk of getting sick.",
+            "The doctor told him to cut down on sugar.",
+            "We are trying to cut down on how much water we use."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "parasite",
+          "def": "A tiny living thing that lives on or inside another animal or person and can cause harm",
+          "ex": [
+            "A parasite can make a person very sick.",
+            "Doctors found a parasite in the water."
+          ]
+        },
+        {
+          "word": "outbreak",
+          "def": "A sudden start of a disease that spreads to many people",
+          "ex": [
+            "The outbreak reached many states this summer.",
+            "Health officials are trying to stop the outbreak."
+          ]
+        },
+        {
+          "word": "contaminated",
+          "def": "Made dirty or unsafe by germs or harmful things",
+          "ex": [
+            "The fruit was contaminated with a parasite.",
+            "People should not drink contaminated water."
+          ]
+        },
+        {
+          "word": "produce",
+          "def": "Fresh fruits and vegetables",
+          "ex": [
+            "She buys fresh produce at the market every week.",
+            "Wash all produce before you eat it."
+          ]
+        },
+        {
+          "word": "diarrhea",
+          "def": "An illness that makes a person go to the toilet often with loose, watery waste",
+          "ex": [
+            "The parasite can cause diarrhea for many days.",
+            "He stayed home because of bad diarrhea."
+          ]
+        },
+        {
+          "word": "infection",
+          "def": "An illness caused by germs entering the body",
+          "ex": [
+            "The infection made her feel weak and tired.",
+            "Clean hands can help stop an infection."
+          ]
+        },
+        {
+          "word": "cyclosporiasis",
+          "def": "The stomach illness caused by the cyclospora parasite",
+          "ex": [
+            "Doctors treat cyclosporiasis with medicine.",
+            "Cyclosporiasis often starts with watery diarrhea."
+          ]
+        },
+        {
+          "word": "symptoms",
+          "def": "Signs of an illness that a sick person feels or shows",
+          "ex": [
+            "Stomach pain and diarrhea are common symptoms.",
+            "Tell your doctor about all of your symptoms."
+          ]
+        },
+        {
+          "word": "irrigation",
+          "def": "The supply of water to farm fields to help crops grow",
+          "ex": [
+            "Dirty irrigation water can spread germs to food.",
+            "The farm uses river water for irrigation."
+          ]
+        },
+        {
+          "word": "lettuce",
+          "def": "A green leafy vegetable that people often eat raw in salads",
+          "ex": [
+            "She washed the lettuce before making the salad.",
+            "Buy whole heads of lettuce instead of bagged leaves."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "Health officials are carrying out tests to study the outbreak.",
+          "a": true,
+          "why": "The scientists really are doing tests. Carry out means to do or complete a task, so this is correct."
+        },
+        {
+          "s": "Officials say the parasite comes down with dirty food and water.",
+          "a": false,
+          "why": "The parasite comes from contaminated food and water. Come down with means to get sick, so it cannot describe where the parasite starts."
+        },
+        {
+          "s": "Some sick people end up needing medical care.",
+          "a": true,
+          "why": "A few patients do reach that final situation. End up means to reach a final result, so this is correct."
+        },
+        {
+          "s": "To stay safe, doctors tell people to cut down on fresh fruit and vegetables.",
+          "a": false,
+          "why": "Doctors want people to wash off (clean) fresh fruit and vegetables before eating. Cut down on means to reduce something, which is not the advice."
+        },
+        {
+          "s": "Officials warn of the danger of eating unwashed produce.",
+          "a": true,
+          "why": "Officials really do tell people about this danger. Warn of means to tell people about a possible danger, so this is correct."
+        },
+        {
+          "s": "The CDC is washing off the outbreak to learn more about it.",
+          "a": false,
+          "why": "The CDC is looking into the outbreak. Wash off means to clean something with water, so it does not describe studying the outbreak."
+        }
+      ],
+      "number": 12
+    },
+    {
       "id": "trump-iran-ceasefire-over-2026",
       "number": 11,
       "headline": "Trump says the ceasefire with Iran is over",
