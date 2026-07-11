@@ -1,12 +1,12 @@
 {
-  "updated": "",
+  "updated": "2026-07-11",
   "stories": [
     {
       "id": "ukraine-drone-oil-strikes-2026",
       "headline": "Ukraine hits Russian oil sites with drones",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n12-russia-oil.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n12-russia-oil.png",
       "position": "center 45%",
       "sources": [
         {
@@ -24,7 +24,7 @@
       ],
       "chunks": [
         {
-          "text": "In July 2026, Ukraine {{carried out}} a large drone offensive that lasted about three days. Ukraine said its forces {{stepped up}} attacks on Russian [[oil tankers]] and [[refineries]]. One Ukrainian commander described the campaign as reaching an \"industrial scale.\" According to reports, the [[drones]] {{set off}} fires at several energy sites, and Ukraine claimed it had hit 21 [[vessels]], including 19 oil tankers, near Crimea.",
+          "text": "Ukraine {{carried out}} a large drone offensive that lasted about three days. Ukraine said its forces {{stepped up}} attacks on Russian [[oil tankers]] and [[refineries]]. One Ukrainian commander described the campaign as reaching an \"industrial scale.\" According to reports, the [[drones]] {{set off}} fires at several energy sites, and Ukraine claimed it had hit 21 [[vessels]], including 19 oil tankers, near Crimea.",
           "verbs": [
             {
               "display": "carried out",
@@ -383,7 +383,7 @@
       "headline": "A tiny parasite makes over 1,000 people sick",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n13-parasite.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n13-parasite.png",
       "position": "center 62%",
       "sources": [
         {
@@ -401,7 +401,7 @@
       ],
       "chunks": [
         {
-          "text": "In July 2026, health officials say a tiny [[parasite]] called cyclospora has {{broken out}} across the United States. The CDC reported that this [[outbreak]] has made more than 1,000 people sick so far this year. The parasite is microscopic, so people cannot see it on their food. Health officials are working to {{find out}} where the [[contaminated]] food {{comes from}}.",
+          "text": "Health officials say a tiny [[parasite]] called cyclospora has {{broken out}} across the United States. The CDC reported that this [[outbreak]] has made more than 1,000 people sick so far this year. The parasite is microscopic, so people cannot see it on their food. Health officials are working to {{find out}} where the [[contaminated]] food comes from.",
           "verbs": [
             {
               "display": "broken out",
@@ -416,13 +416,6 @@
               "wrong": "To search a place very carefully",
               "correct": "To discover a fact after searching or trying",
               "correctFirst": false
-            },
-            {
-              "display": "comes from",
-              "base": "come from",
-              "wrong": "To arrive at a place on time",
-              "correct": "To have as a source or origin",
-              "correctFirst": true
             }
           ]
         },
@@ -453,7 +446,7 @@
           ]
         },
         {
-          "text": "Health officials say the germs can get onto fresh food when [[irrigation]] water on farms is dirty. The CDC is {{looking into}} the outbreak, and its scientists are {{carrying out}} tests to learn more about it. Officials also {{warn of}} the danger of eating unwashed [[produce]]. They want people to be careful at home.",
+          "text": "Health officials say the germs can get onto fresh food when [[irrigation]] water on farms is dirty. The CDC is {{looking into}} the outbreak, and its scientists are {{carrying out}} tests to learn more about it. Officials also warn of the danger of eating unwashed [[produce]]. They want people to be careful at home.",
           "verbs": [
             {
               "display": "looking into",
@@ -468,13 +461,6 @@
               "wrong": "To lift something and take it outside",
               "correct": "To do or complete a task",
               "correctFirst": false
-            },
-            {
-              "display": "warn of",
-              "base": "warn of",
-              "wrong": "To keep someone safe from harm",
-              "correct": "To tell people about a possible danger",
-              "correctFirst": true
             }
           ]
         },
@@ -525,15 +511,6 @@
           ]
         },
         {
-          "verb": "Come from",
-          "def": "To have as a source or origin",
-          "ex": [
-            "Most of this fruit comes from local farms.",
-            "The noise was coming from the kitchen.",
-            "Health officials want to know where the germs come from."
-          ]
-        },
-        {
           "verb": "Come down with",
           "def": "To become sick with an illness",
           "ex": [
@@ -576,15 +553,6 @@
             "The team carried out several tests on the water.",
             "Nurses carry out the doctor's instructions.",
             "They carried out the plan without any problems."
-          ]
-        },
-        {
-          "verb": "Warn of",
-          "def": "To tell people about a possible danger",
-          "ex": [
-            "Officials warn of the risk of eating unwashed food.",
-            "The report warns of higher prices next year.",
-            "Signs on the beach warn of strong waves."
           ]
         },
         {
@@ -737,7 +705,7 @@
       "headline": "Trump says the ceasefire with Iran is over",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n4-iran-ceasefire.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n4-iran-ceasefire.png",
       "position": "center 66%",
       "sources": [
         {
@@ -755,7 +723,7 @@
       ],
       "chunks": [
         {
-          "text": "On July 8, 2026, as a NATO [[summit]] {{wrapped up}} in Ankara, Turkey, U.S. President Trump told reporters that he believes the [[ceasefire]] with Iran is 'over.' The deal, signed only three weeks earlier, had promised peace. Trump said he no longer wanted to deal with Iran's leaders. His words {{set off}} worry among the [[allies]] who had gathered, because a wider [[conflict]] could spread across the region.",
+          "text": "As a NATO [[summit]] {{wrapped up}} in Ankara, Turkey, U.S. President Trump told reporters that he believes the [[ceasefire]] with Iran is 'over.' The deal, signed only three weeks earlier, had promised peace. Trump said he no longer wanted to deal with Iran's leaders. His words {{set off}} worry among the [[allies]] who had gathered, because a wider [[conflict]] could spread across the region.",
           "verbs": [
             {
               "display": "wrapped up",
@@ -1091,7 +1059,7 @@
         {
           "s": "As the NATO summit wrapped up in Ankara, Trump said he believes the ceasefire with Iran is over.",
           "a": true,
-          "why": "Wrap up means to finish or come to an end, which the NATO summit did on July 8, 2026."
+          "why": "Wrap up means to finish or come to an end, which the NATO summit did."
         },
         {
           "s": "Trump complained that several European nations had carried on when he asked them for more help.",
@@ -1106,7 +1074,7 @@
       "headline": "Man returns a painting worth thousands",
       "badge": "Culture",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n5-painting.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n5-painting.png",
       "position": "center 45%",
       "sources": [
         {
@@ -1124,7 +1092,7 @@
       ],
       "chunks": [
         {
-          "text": "On July 8, 2026, in Spain, a 57-year-old man named Andrés Hurtado {{picked up}} a small painting that was leaning against a garden wall in Seville. Hurtado, a former supermarket worker from Murcia, thought someone had {{thrown it away}}. He was not really interested in the picture itself. He only wanted the beautiful golden [[frame]], so he took the painting home with him.",
+          "text": "In Spain, a 57-year-old man named Andrés Hurtado {{picked up}} a small painting that was leaning against a garden wall in Seville. Hurtado, a former supermarket worker from Murcia, thought someone had {{thrown it away}}. He was not really interested in the picture itself. He only wanted the beautiful golden [[frame]], so he took the painting home with him.",
           "verbs": [
             {
               "display": "picked up",
@@ -1443,7 +1411,7 @@
       "headline": "Farage quits his seat and asks voters to decide",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n6-farage.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n6-farage.png",
       "position": "center 38%",
       "sources": [
         {
@@ -1461,7 +1429,7 @@
       ],
       "chunks": [
         {
-          "text": "On July 7, 2026, Nigel Farage, the leader of Reform UK, said he would {{step down}} from his [[seat]] in Parliament. He explained that he would {{hand in}} his resignation as a [[lawmaker]] and then {{run for}} the same seat again in a [[by-election]]. Farage represents the [[constituency]] of Clacton in eastern England, which he won in 2024. He said he wanted local [[voters]] to decide his future.",
+          "text": "Nigel Farage, the leader of Reform UK, said he would {{step down}} from his [[seat]] in Parliament. He explained that he would {{hand in}} his resignation as a [[lawmaker]] and then {{run for}} the same seat again in a [[by-election]]. Farage represents the [[constituency]] of Clacton in eastern England, which he won in 2024. He said he wanted local [[voters]] to decide his future.",
           "verbs": [
             {
               "display": "step down",
@@ -1761,7 +1729,7 @@
         {
           "s": "Nigel Farage decided to step down from his seat in Parliament.",
           "a": true,
-          "why": "Farage stepped down (left his position), which he announced on July 7, 2026."
+          "why": "Farage stepped down (left his position), which is exactly what he announced."
         },
         {
           "s": "Farage said he would carry on in his seat instead of leaving Parliament.",
@@ -1796,7 +1764,7 @@
       "headline": "A record heat wave hits the United States",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n7-heatwave.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n7-heatwave.png",
       "position": "center 50%",
       "sources": [
         {
@@ -1814,7 +1782,7 @@
       ],
       "chunks": [
         {
-          "text": "A dangerous [[heat wave]] {{heated up}} much of the United States over the July 4 holiday weekend in 2026. A large [[heat dome]] settled over the country, and the extreme heat {{set in}} from the Midwest to the East Coast. Officials said about 40 million people were under a [[heat alert]] on Sunday. Weather forecasters {{warned of}} a serious danger to people's health.",
+          "text": "A dangerous [[heat wave]] {{heated up}} much of the United States over the July 4 holiday weekend. A large [[heat dome]] settled over the country, and the extreme heat {{set in}} from the Midwest to the East Coast. Officials said about 40 million people were under a [[heat alert]] on Sunday. Weather forecasters warned of a serious danger to people's health.",
           "verbs": [
             {
               "display": "heated up",
@@ -1828,13 +1796,6 @@
               "base": "set in",
               "wrong": "To place something inside a container",
               "correct": "To begin and seem likely to continue",
-              "correctFirst": true
-            },
-            {
-              "display": "warned of",
-              "base": "warn of",
-              "wrong": "To keep a danger away from a place",
-              "correct": "To tell people about a possible danger",
               "correctFirst": true
             }
           ]
@@ -1935,15 +1896,6 @@
             "The cold weather set in early that winter.",
             "Once the heat set in, it stayed for many days.",
             "Tiredness set in after the long trip."
-          ]
-        },
-        {
-          "verb": "Warn of",
-          "def": "To tell people about a possible danger",
-          "ex": [
-            "Forecasters warned of heavy rain and strong winds.",
-            "Doctors warned of the risks of staying in the sun too long.",
-            "The signs warn of a dangerous road ahead."
           ]
         },
         {
@@ -2133,7 +2085,7 @@
       "headline": "Police find a stolen Picasso in a drug raid",
       "badge": "Culture",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n8-picasso.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n8-picasso.png",
       "position": "center 40%",
       "sources": [
         {
@@ -2151,7 +2103,7 @@
       ],
       "chunks": [
         {
-          "text": "In June 2026, French police {{carried out}} a [[raid]] on a house in Champigny-sur-Marne, near Paris. Officers went in to {{look for}} [[cannabis]] and cash, police said. Instead, they {{came across}} a stolen [[portrait]] by Pablo Picasso. Police said the [[painting]] is worth about 12 million euros. It shows Marie-Thérèse Walter, the artist's famous [[muse]].",
+          "text": "French police {{carried out}} a [[raid]] on a house in Champigny-sur-Marne, near Paris. Officers went in to look for [[cannabis]] and cash, police said. Instead, they {{came across}} a stolen [[portrait]] by Pablo Picasso. Police said the [[painting]] is worth about 12 million euros. It shows Marie-Thérèse Walter, the artist's famous [[muse]].",
           "verbs": [
             {
               "display": "carried out",
@@ -2159,13 +2111,6 @@
               "wrong": "To carry something outside to another place",
               "correct": "To do or perform something, such as a plan or task",
               "correctFirst": false
-            },
-            {
-              "display": "look for",
-              "base": "look for",
-              "wrong": "To take care of or watch over someone",
-              "correct": "To try to find someone or something",
-              "correctFirst": true
             },
             {
               "display": "came across",
@@ -2256,15 +2201,6 @@
             "The police carried out a raid on the house early in the morning.",
             "Doctors carried out several tests before the operation.",
             "The team carried out the plan exactly as they had agreed."
-          ]
-        },
-        {
-          "verb": "Look for",
-          "def": "To try to find someone or something",
-          "ex": [
-            "The officers were looking for drugs when they entered the house.",
-            "She is looking for her keys all over the kitchen.",
-            "We spent an hour looking for a good place to eat."
           ]
         },
         {
@@ -2494,7 +2430,7 @@
       "headline": "New cells bring back sight in mice",
       "badge": "Science",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n9-stemcell.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n9-stemcell.png",
       "position": "center 41%",
       "sources": [
         {
@@ -2512,7 +2448,7 @@
       ],
       "chunks": [
         {
-          "text": "In July 2026, scientists at Duke University said they had {{carried out}} an exciting experiment. A team led by Professor Sharon Gerecht {{set out}} to grow tiny [[blood vessels]] for the [[retina]] using [[stem cells]]. These special cells are very hard to make, but the scientists {{came up with}} a clever way to grow them in the lab. Their goal was to help people who are slowly losing their [[sight]].",
+          "text": "Scientists at Duke University said they had {{carried out}} an exciting experiment. A team led by Professor Sharon Gerecht {{set out}} to grow tiny [[blood vessels]] for the [[retina]] using [[stem cells]]. These special cells are very hard to make, but the scientists {{came up with}} a clever way to grow them in the lab. Their goal was to help people who are slowly losing their [[sight]].",
           "verbs": [
             {
               "display": "carried out",
@@ -2538,28 +2474,14 @@
           ]
         },
         {
-          "text": "The researchers used [[stem cells]] that can turn into almost any cell in the body. In the lab, these cells slowly {{grew into}} the [[tissue]] that lines the [[blood vessels]] in the eye. To copy [[eye disease]], the team put the [[tissue]] under stress, and it started to {{break down}} in the same way it does in sick patients. Cells like these normally {{come from}} the body itself, so making them outside the body was a real [[breakthrough]].",
+          "text": "The researchers used [[stem cells]] that can turn into almost any cell in the body. In the lab, these cells slowly grew into the [[tissue]] that lines the [[blood vessels]] in the eye. To copy [[eye disease]], the team put the [[tissue]] under stress, and it started to {{break down}} in the same way it does in sick patients. Cells like these normally come from the body itself, so making them outside the body was a real [[breakthrough]].",
           "verbs": [
-            {
-              "display": "grew into",
-              "base": "grow into",
-              "wrong": "To fit inside a very small space",
-              "correct": "To slowly develop and become something",
-              "correctFirst": false
-            },
             {
               "display": "break down",
               "base": "break down",
               "wrong": "To knock a wall or door to the ground",
               "correct": "To stop working or fall apart",
               "correctFirst": true
-            },
-            {
-              "display": "come from",
-              "base": "come from",
-              "wrong": "To arrive at a place after a long trip",
-              "correct": "To have as a source or origin",
-              "correctFirst": false
             }
           ]
         },
@@ -2590,7 +2512,7 @@
           ]
         },
         {
-          "text": "Professor Gerecht said the results {{point to}} a hopeful future, but she was careful. So far the method has only been tested in mice, so scientists cannot say yet that it will work in humans. They still need to {{work on}} safety before any tests in people. Doctors do not {{rule out}} problems, and they say a real treatment for [[diabetic retinopathy]], a leading cause of [[blindness]], may still be many years away.",
+          "text": "Professor Gerecht said the results {{point to}} a hopeful future, but she was careful. So far the method has only been tested in mice, so scientists cannot say yet that it will work in humans. They still need to work on safety before any tests in people. Doctors do not {{rule out}} problems, and they say a real treatment for [[diabetic retinopathy]], a leading cause of [[blindness]], may still be many years away.",
           "verbs": [
             {
               "display": "point to",
@@ -2598,13 +2520,6 @@
               "wrong": "To touch a spot with one finger",
               "correct": "To suggest or show that something is likely",
               "correctFirst": false
-            },
-            {
-              "display": "work on",
-              "base": "work on",
-              "wrong": "To travel to a job in the morning",
-              "correct": "To spend time trying to improve something",
-              "correctFirst": true
             },
             {
               "display": "rule out",
@@ -2645,30 +2560,12 @@
           ]
         },
         {
-          "verb": "Grow into",
-          "def": "To slowly develop and become something",
-          "ex": [
-            "The small seed grew into a tall tree.",
-            "Over time, the cells grew into healthy tissue.",
-            "The little club grew into a large company."
-          ]
-        },
-        {
           "verb": "Break down",
           "def": "To stop working or fall apart",
           "ex": [
             "The old car broke down on the highway.",
             "When the tissue was stressed, it began to break down.",
             "The machine broke down and had to be repaired."
-          ]
-        },
-        {
-          "verb": "Come from",
-          "def": "To have as a source or origin",
-          "ex": [
-            "These cells come from the human body.",
-            "Most of the money comes from local people.",
-            "The word comes from an old language."
           ]
         },
         {
@@ -2705,15 +2602,6 @@
             "The results point to a hopeful future.",
             "All the signs point to good news.",
             "The tests point to a serious problem."
-          ]
-        },
-        {
-          "verb": "Work on",
-          "def": "To spend time trying to improve something",
-          "ex": [
-            "The team is working on the safety of the treatment.",
-            "She is working on her pronunciation every day.",
-            "Engineers worked on the design for many months."
           ]
         },
         {
@@ -2847,7 +2735,7 @@
       "headline": "A 1,000-year-old Viking workshop is found in Denmark",
       "badge": "History",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n10-viking.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n10-viking.png",
       "position": "center 60%",
       "sources": [
         {
@@ -2924,27 +2812,13 @@
           ]
         },
         {
-          "text": "The Vikings did not use all of this cloth themselves. Instead, they {{built up}} a wide trade network and sold their [[goods]] far away. Some of the [[coins]] discovered at the site {{came from}} present-day France and Germany. The museum says Arabic coins from the Middle East also {{add to}} the picture of long-distance [[trade]].",
+          "text": "The Vikings did not use all of this cloth themselves. Instead, they {{built up}} a wide trade network and sold their [[goods]] far away. Some of the [[coins]] discovered at the site came from present-day France and Germany. The museum says Arabic coins from the Middle East also add to the picture of long-distance [[trade]].",
           "verbs": [
             {
               "display": "built up",
               "base": "build up",
               "wrong": "To construct a large building",
               "correct": "To develop or increase something over time",
-              "correctFirst": true
-            },
-            {
-              "display": "came from",
-              "base": "come from",
-              "wrong": "To arrive at a place after travelling",
-              "correct": "To have as an origin or source",
-              "correctFirst": false
-            },
-            {
-              "display": "add to",
-              "base": "add to",
-              "wrong": "To join numbers together to reach a total",
-              "correct": "To increase or make something greater",
               "correctFirst": true
             }
           ]
@@ -3054,24 +2928,6 @@
             "The Vikings built up a wide trade network.",
             "She built up a successful business over ten years.",
             "The runner slowly built up her strength."
-          ]
-        },
-        {
-          "verb": "Come from",
-          "def": "To have as an origin or source",
-          "ex": [
-            "Some of the coins came from France and Germany.",
-            "This coffee comes from Brazil.",
-            "Where does your family come from?"
-          ]
-        },
-        {
-          "verb": "Add to",
-          "def": "To increase or make something greater",
-          "ex": [
-            "The Arabic coins add to the picture of trade.",
-            "The bad weather added to their problems.",
-            "New details add to our understanding of the site."
           ]
         },
         {
@@ -3230,7 +3086,7 @@
       "headline": "Italy may put solar panels between train tracks",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n11-solar.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n11-solar.png",
       "position": "center 42%",
       "sources": [
         {
@@ -3248,7 +3104,7 @@
       ],
       "chunks": [
         {
-          "text": "In July 2026, news reports said Italy may become the next country to {{roll out}} a solar railway. The idea comes from Sun-Ways, a Swiss start-up that {{came up with}} a way to place [[solar panels]] between train [[tracks]]. After a Swiss [[pilot project]] passed its one-year mark with strong results, supporters say Italy could {{end up}} building its own line that turns unused rail space into [[clean energy]].",
+          "text": "News reports said Italy may become the next country to {{roll out}} a solar railway. The idea comes from Sun-Ways, a Swiss start-up that {{came up with}} a way to place [[solar panels]] between train [[tracks]]. After a Swiss [[pilot project]] passed its one-year mark with strong results, supporters say Italy could {{end up}} building its own line that turns unused rail space into [[clean energy]].",
           "verbs": [
             {
               "display": "roll out",
@@ -3583,7 +3439,7 @@
       "headline": "Taylor Swift and Travis Kelce get married",
       "badge": "Entertainment",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n1-wedding.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n1-wedding.png",
       "position": "center 45%",
       "sources": [
         {
@@ -3601,7 +3457,7 @@
       ],
       "chunks": [
         {
-          "text": "Taylor Swift, one of the most famous singers in the world, has married the American football star Travis Kelce. According to news reports, the [[ceremony]] was held on Friday, July 3, 2026, at Madison Square Garden, a huge [[arena]] in New York City. Hundreds of fans {{turned up}} outside, hoping to see the two stars. For weeks, people had {{looked forward to}} the big day.",
+          "text": "Taylor Swift, one of the most famous singers in the world, has married the American football star Travis Kelce. According to news reports, the [[ceremony]] was held at Madison Square Garden, a huge [[arena]] in New York City. Hundreds of fans {{turned up}} outside, hoping to see the two stars. For weeks, people had {{looked forward to}} the big day.",
           "verbs": [
             {
               "display": "turned up",
@@ -3904,7 +3760,7 @@
       "headline": "Man saved from rubble after eight days",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n3-rescue.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n3-rescue.png",
       "position": "center 50%",
       "sources": [
         {
@@ -4289,7 +4145,7 @@
       "headline": "Giraffes can do simple math",
       "badge": "Nature",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/n2-giraffes.png",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n2-giraffes.png",
       "position": "center 15%",
       "sources": [
         {
@@ -4385,15 +4241,8 @@
           ]
         },
         {
-          "text": "For a long time, people thought that only humans and a few [[clever]] animals, such as [[primates]] and [[crows]], had a sense of numbers. This new study {{adds to}} a growing list of animals that can count in some way. The researchers now want to {{carry on}} their work with other zoo animals. They hope it will help us {{figure out}} more about how animal minds work.",
+          "text": "For a long time, people thought that only humans and a few [[clever]] animals, such as [[primates]] and [[crows]], had a sense of numbers. This new study adds to a growing list of animals that can count in some way. The researchers now want to {{carry on}} their work with other zoo animals. They hope it will help us {{figure out}} more about how animal minds work.",
           "verbs": [
-            {
-              "display": "adds to",
-              "base": "add to",
-              "wrong": "To replace earlier studies with new results",
-              "correct": "To make something larger or greater",
-              "correctFirst": true
-            },
             {
               "display": "carry on",
               "base": "carry on",
@@ -4491,15 +4340,6 @@
             "The giraffes could tell apart large and small amounts.",
             "The twins are hard to tell apart.",
             "Can you tell apart the real one and the copy?"
-          ]
-        },
-        {
-          "verb": "Add to",
-          "def": "To make something larger or greater",
-          "ex": [
-            "The study adds to what we know about animals.",
-            "The news added to their worry.",
-            "New facts add to the mystery."
           ]
         },
         {
@@ -4601,6 +4441,696 @@
           "s": "The researchers want to carry on their work with other zoo animals.",
           "a": true,
           "why": "The team wants to carry on (continue) their research to learn more about how animal minds work."
+        }
+      ]
+    },
+    {
+      "id": "china-rocket-recovery-2026",
+      "number": 15,
+      "headline": "China lands a rocket booster on a ship at sea",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n15-china-rocket.png",
+      "position": "center 62%",
+      "sources": [
+        {
+          "title": "Making history! China lands rocket during an orbital launch for 1st time ever",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever"
+        },
+        {
+          "title": "China becomes second country to recover orbital booster with Long March 10B",
+          "url": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/"
+        },
+        {
+          "title": "China Successfully Launches, Retrieves Reusable Rocket Booster",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/china-successfully-launches-retrieves-reusable-rocket-booster"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "China has {{pulled off}} a major step in [[space travel]]. From the Hainan Commercial Space Launch Site, a new rocket called the Long March-10B {{took off}}, carried a [[satellite]] into [[orbit]], and then guided its huge lower part, or [[booster]], safely back to Earth. China became only the second country, after the United States, to recover an orbital rocket so it can be used again.",
+          "verbs": [
+            {
+              "display": "pulled off",
+              "base": "pull off",
+              "wrong": "To move to the side of a road and stop",
+              "correct": "To succeed in doing something difficult",
+              "correctFirst": true
+            },
+            {
+              "display": "took off",
+              "base": "take off",
+              "wrong": "To remove a piece of clothing quickly",
+              "correct": "To leave the ground and begin to fly",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "After the rocket climbed high into the sky, its [[first stage]] separated and {{came down}} toward the sea. About six minutes later, a giant net on a [[floating platform]] caught it. Chinese engineers had {{set up}} this [[net capture]] system, and they had never {{tried out}} such a design in a real flight before.",
+          "verbs": [
+            {
+              "display": "came down",
+              "base": "come down",
+              "wrong": "To become ill after catching a virus",
+              "correct": "To move down toward a lower place",
+              "correctFirst": true
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "wrong": "To trick someone so they take the blame",
+              "correct": "To create or establish something new",
+              "correctFirst": false
+            },
+            {
+              "display": "tried out",
+              "base": "try out",
+              "wrong": "To leave a place in a hurry",
+              "correct": "To test something to see if it works",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Landing a booster is difficult, but it {{pays off}}. Normally, rockets are used only once and then {{thrown away}}. If the same booster can fly again and again, companies can {{cut down}} their costs and launch far more often. For years, the American company SpaceX has led this field, and China is now working hard to {{catch up}}.",
+          "verbs": [
+            {
+              "display": "pays off",
+              "base": "pay off",
+              "wrong": "To give someone money to stay quiet",
+              "correct": "To bring a good result after effort",
+              "correctFirst": false
+            },
+            {
+              "display": "thrown away",
+              "base": "throw away",
+              "wrong": "To waste a good chance",
+              "correct": "To get rid of something you do not want",
+              "correctFirst": true
+            },
+            {
+              "display": "cut down",
+              "base": "cut down",
+              "wrong": "To make something fall by cutting it",
+              "correct": "To reduce the amount of something",
+              "correctFirst": false
+            },
+            {
+              "display": "catch up",
+              "base": "catch up",
+              "wrong": "To meet and talk with a friend after a long time",
+              "correct": "To reach the same level or position as someone ahead",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The Long March-10B stands about 63 meters tall, and one day it may help {{carry out}} China's plan to send [[astronauts]] to the Moon. Engineers now want to {{look over}} the returned booster, and they hope to fly it again before the end of the year. If everything {{goes ahead}} as planned, [[reusable]] Chinese rockets could soon become normal.",
+          "verbs": [
+            {
+              "display": "carry out",
+              "base": "carry out",
+              "wrong": "To move something away from a place",
+              "correct": "To do or complete a planned task or action",
+              "correctFirst": false
+            },
+            {
+              "display": "look over",
+              "base": "look over",
+              "wrong": "To fail to notice a mistake",
+              "correct": "To examine or check something carefully",
+              "correctFirst": true
+            },
+            {
+              "display": "goes ahead",
+              "base": "go ahead",
+              "wrong": "To move in front of others in a race",
+              "correct": "To happen or continue as planned",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pull off",
+          "def": "To succeed in doing something difficult",
+          "ex": [
+            "The team pulled off a surprising win in the final minute.",
+            "It was a hard plan, but they pulled it off.",
+            "She pulled off the difficult trick on her first try."
+          ]
+        },
+        {
+          "verb": "Take off",
+          "def": "To leave the ground and begin to fly",
+          "ex": [
+            "The plane took off on time.",
+            "We watched the rocket take off into the sky.",
+            "The birds took off when they heard the noise."
+          ]
+        },
+        {
+          "verb": "Come down",
+          "def": "To move down toward a lower place",
+          "ex": [
+            "The balloon slowly came down into the field.",
+            "Rain came down hard all afternoon.",
+            "The climber came down from the mountain before dark."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create or establish something new",
+          "ex": [
+            "They set up a new company last year.",
+            "The teacher set up the room before class.",
+            "Engineers set up a system to test the rocket."
+          ]
+        },
+        {
+          "verb": "Try out",
+          "def": "To test something to see if it works",
+          "ex": [
+            "He tried out the new bike before buying it.",
+            "The chefs tried out a new recipe.",
+            "Scientists tried out the design in the lab."
+          ]
+        },
+        {
+          "verb": "Pay off",
+          "def": "To bring a good result after effort",
+          "ex": [
+            "All her hard work finally paid off.",
+            "The training paid off when the team won.",
+            "Saving money now will pay off later."
+          ]
+        },
+        {
+          "verb": "Throw away",
+          "def": "To get rid of something you do not want",
+          "ex": [
+            "Do not throw away those old letters.",
+            "He threw away the broken toy.",
+            "We should not throw away food that is still good."
+          ]
+        },
+        {
+          "verb": "Cut down",
+          "def": "To reduce the amount of something",
+          "ex": [
+            "The company wants to cut down its costs.",
+            "I am trying to cut down my screen time.",
+            "They cut down the number of flights."
+          ]
+        },
+        {
+          "verb": "Catch up",
+          "def": "To reach the same level or position as someone ahead",
+          "ex": [
+            "She ran fast to catch up with the group.",
+            "Our team is trying to catch up with the leaders.",
+            "He studied hard to catch up in class."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do or complete a planned task or action",
+          "ex": [
+            "The doctors will carry out the tests tomorrow.",
+            "Soldiers carried out their orders.",
+            "The company carried out a survey of its workers."
+          ]
+        },
+        {
+          "verb": "Look over",
+          "def": "To examine or check something carefully",
+          "ex": [
+            "Please look over my report before I send it.",
+            "The judges looked over each project.",
+            "She looked over the car before the trip."
+          ]
+        },
+        {
+          "verb": "Go ahead",
+          "def": "To happen or continue as planned",
+          "ex": [
+            "The concert will go ahead despite the rain.",
+            "If the plan goes ahead, work starts in May.",
+            "The wedding went ahead as planned."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "space travel",
+          "def": "The activity of flying and exploring in space",
+          "ex": [
+            "Space travel is very expensive.",
+            "She dreams of a career in space travel."
+          ]
+        },
+        {
+          "word": "satellite",
+          "def": "A machine sent into space to travel around the Earth",
+          "ex": [
+            "The satellite sends TV signals to homes.",
+            "A new weather satellite was launched today."
+          ]
+        },
+        {
+          "word": "orbit",
+          "def": "The curved path an object follows around a planet",
+          "ex": [
+            "The spacecraft reached orbit safely.",
+            "The Moon stays in orbit around the Earth."
+          ]
+        },
+        {
+          "word": "booster",
+          "def": "The powerful lower part of a rocket that lifts it off the ground",
+          "ex": [
+            "The booster fell away after two minutes.",
+            "Engineers hope to reuse the booster."
+          ]
+        },
+        {
+          "word": "first stage",
+          "def": "The bottom section of a rocket that fires first",
+          "ex": [
+            "The first stage burns the most fuel.",
+            "The first stage came back to Earth."
+          ]
+        },
+        {
+          "word": "floating platform",
+          "def": "A large flat structure that sits on the surface of the sea",
+          "ex": [
+            "The rocket landed on a floating platform.",
+            "Workers waited on the floating platform."
+          ]
+        },
+        {
+          "word": "net capture",
+          "def": "A way of catching a falling rocket part in a large net",
+          "ex": [
+            "The net capture system worked perfectly.",
+            "Net capture is a new idea in spaceflight."
+          ]
+        },
+        {
+          "word": "astronauts",
+          "def": "People who are trained to travel and work in space",
+          "ex": [
+            "The astronauts spent six months in space.",
+            "China wants to send astronauts to the Moon."
+          ]
+        },
+        {
+          "word": "reusable",
+          "def": "Able to be used more than once",
+          "ex": [
+            "Reusable rockets can save a lot of money.",
+            "The company builds reusable parts."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "The Long March-10B took off and carried a satellite into orbit.",
+          "a": true,
+          "why": "Take off means to leave the ground and begin to fly, which the rocket did before releasing its satellite."
+        },
+        {
+          "s": "After separating, the booster was thrown away into the ocean.",
+          "a": false,
+          "why": "The booster was caught in a net to be used again, so it was not thrown away, which means to get rid of something."
+        },
+        {
+          "s": "Chinese engineers set up a net system to catch the booster.",
+          "a": true,
+          "why": "Set up means to create or establish something new, which is what the engineers did with the net system."
+        },
+        {
+          "s": "China has already caught up with SpaceX and now leads the field.",
+          "a": false,
+          "why": "SpaceX has led for years, so China is still trying to catch up, not leading."
+        },
+        {
+          "s": "Reusing boosters could help companies cut down their costs.",
+          "a": true,
+          "why": "Cut down means to reduce, and flying the same booster again cuts down launch costs."
+        },
+        {
+          "s": "Engineers said the landing had failed and did not pay off.",
+          "a": false,
+          "why": "The landing succeeded, so the effort did pay off, which means to bring a good result."
+        }
+      ]
+    },
+    {
+      "id": "eu-meta-addictive-design-2026",
+      "number": 14,
+      "headline": "Europe says Instagram and Facebook are too addictive",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n14-eu-meta.png",
+      "position": "center 56%",
+      "sources": [
+        {
+          "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579"
+        },
+        {
+          "title": "EU says 'addictive' features on Instagram and Facebook breach its rules",
+          "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules"
+        },
+        {
+          "title": "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope",
+          "url": "https://www.theregister.com/personal-tech/2026/07/10/eu-puts-addictive-design-of-facebook-instagram-under-the-dsa-microscope/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "The European Union has {{spoken out}} against two of the world's most popular apps. Officials said that Instagram and Facebook, which are both owned by the company Meta, are designed to be too [[addictive]]. They believe the apps break a European law called the Digital Services Act, because their design can harm users' health and [[wellbeing]].",
+          "verbs": [
+            {
+              "display": "spoken out",
+              "base": "speak out",
+              "wrong": "To say something quietly so others cannot hear",
+              "correct": "To publicly say what you think, especially to protest",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The [[regulators]] {{pointed out}} three features that keep people using the apps for hours. One feature, called [[infinite scroll]], lets a [[feed]] load forever; videos {{start up}} on their own through [[autoplay]]; and the app keeps {{serving up}} posts it thinks you will like. Together, officials said, these tricks push the brain into \"autopilot,\" so users {{end up}} scrolling without really deciding to.",
+          "verbs": [
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "wrong": "To choose one person or thing from a group",
+              "correct": "To tell someone a fact or show them something they may not have noticed",
+              "correctFirst": false
+            },
+            {
+              "display": "start up",
+              "base": "start up",
+              "wrong": "To stand up suddenly in surprise",
+              "correct": "To begin or start operating",
+              "correctFirst": true
+            },
+            {
+              "display": "serving up",
+              "base": "serve up",
+              "wrong": "To wait on customers in a restaurant",
+              "correct": "To present or offer something",
+              "correctFirst": false
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "wrong": "To finish a task completely and stop",
+              "correct": "To reach a final situation or place",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Europe now wants Meta to {{turn off}} infinite scroll and autoplay unless a user chooses them, and to {{cut down}} how much the app decides for each person. Meta does not agree. It says it has already {{brought in}} strong rules to protect [[teenagers]], and that the check does not fairly show the steps it has taken.",
+          "verbs": [
+            {
+              "display": "turn off",
+              "base": "turn off",
+              "wrong": "To leave a road and take a smaller one",
+              "correct": "To stop a machine or feature from working",
+              "correctFirst": false
+            },
+            {
+              "display": "cut down",
+              "base": "cut down",
+              "wrong": "To make something fall by cutting it",
+              "correct": "To reduce the amount of something",
+              "correctFirst": true
+            },
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "wrong": "To earn a certain amount of money",
+              "correct": "To introduce a new rule, law, or system",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "If Meta cannot win the argument, it may have to {{pay out}} a very large [[fine]], up to 6% of the money it makes around the world each year. The company can still respond before Europe {{hands down}} a final decision in the coming months. Many doctors say that endless scrolling can {{bring on}} [[anxiety]] and low moods in young people, and some want the apps to {{take away}} these features for good.",
+          "verbs": [
+            {
+              "display": "pay out",
+              "base": "pay out",
+              "wrong": "To succeed after a lot of effort",
+              "correct": "To pay a large amount of money",
+              "correctFirst": true
+            },
+            {
+              "display": "hands down",
+              "base": "hand down",
+              "wrong": "To give something to a younger family member",
+              "correct": "To officially give a decision or judgment",
+              "correctFirst": false
+            },
+            {
+              "display": "bring on",
+              "base": "bring on",
+              "wrong": "To hire or start using someone new",
+              "correct": "To cause something, often something unpleasant, to happen",
+              "correctFirst": true
+            },
+            {
+              "display": "take away",
+              "base": "take away",
+              "wrong": "To subtract one number from another",
+              "correct": "To remove something and carry it to another place",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Speak out",
+          "def": "To publicly say what you think, especially to protest",
+          "ex": [
+            "She spoke out against the new law.",
+            "More people are speaking out about the problem.",
+            "He was brave to speak out at the meeting."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell someone a fact or show them something they may not have noticed",
+          "ex": [
+            "She pointed out a mistake in my essay.",
+            "He pointed out that the shop was closed.",
+            "The guide pointed out the oldest building."
+          ]
+        },
+        {
+          "verb": "Start up",
+          "def": "To begin or start operating",
+          "ex": [
+            "The engine started up with a loud noise.",
+            "The videos start up on their own.",
+            "The machine takes a minute to start up."
+          ]
+        },
+        {
+          "verb": "Serve up",
+          "def": "To present or offer something",
+          "ex": [
+            "The app keeps serving up new videos.",
+            "The website serves up ads between posts.",
+            "Radio stations serve up the same songs all day."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To reach a final situation or place",
+          "ex": [
+            "We ended up staying home all day.",
+            "If you are not careful, you end up spending hours online.",
+            "They got lost and ended up in the wrong town."
+          ]
+        },
+        {
+          "verb": "Turn off",
+          "def": "To stop a machine or feature from working",
+          "ex": [
+            "Please turn off the lights when you leave.",
+            "You can turn off autoplay in the settings.",
+            "He turned off his phone during dinner."
+          ]
+        },
+        {
+          "verb": "Cut down",
+          "def": "To reduce the amount of something",
+          "ex": [
+            "I want to cut down my screen time.",
+            "The company cut down its spending.",
+            "Try to cut down on sugar."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To introduce a new rule, law, or system",
+          "ex": [
+            "The school brought in a new phone rule.",
+            "The city brought in a law to reduce noise.",
+            "They brought in stronger safety checks."
+          ]
+        },
+        {
+          "verb": "Pay out",
+          "def": "To pay a large amount of money",
+          "ex": [
+            "The company had to pay out a huge fine.",
+            "Insurance will pay out after the accident.",
+            "They paid out millions to the workers."
+          ]
+        },
+        {
+          "verb": "Hand down",
+          "def": "To officially give a decision or judgment",
+          "ex": [
+            "The judge will hand down a decision next week.",
+            "The court handed down a heavy fine.",
+            "Officials handed down their ruling today."
+          ]
+        },
+        {
+          "verb": "Bring on",
+          "def": "To cause something, often something unpleasant, to happen",
+          "ex": [
+            "Too much stress can bring on headaches.",
+            "The bad news brought on a wave of worry.",
+            "Cold weather can bring on a cold."
+          ]
+        },
+        {
+          "verb": "Take away",
+          "def": "To remove something and carry it to another place",
+          "ex": [
+            "Waiters came to take away the plates.",
+            "The storm took away part of the roof.",
+            "Please take away these old boxes."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "addictive",
+          "def": "Very hard to stop using or doing",
+          "ex": [
+            "Many games are designed to be addictive.",
+            "Sugar can be addictive for some people."
+          ]
+        },
+        {
+          "word": "wellbeing",
+          "def": "The state of being healthy and happy",
+          "ex": [
+            "The school cares about students' wellbeing.",
+            "Exercise is good for your wellbeing."
+          ]
+        },
+        {
+          "word": "regulators",
+          "def": "Officials who make sure companies follow the rules",
+          "ex": [
+            "Regulators fined the bank last year.",
+            "The regulators asked the company for answers."
+          ]
+        },
+        {
+          "word": "infinite scroll",
+          "def": "A design that lets a feed keep loading new posts without ever ending",
+          "ex": [
+            "Infinite scroll makes it hard to stop.",
+            "The app removed infinite scroll for teenagers."
+          ]
+        },
+        {
+          "word": "autoplay",
+          "def": "A setting that makes videos start playing on their own",
+          "ex": [
+            "Turn off autoplay to save data.",
+            "Autoplay started the next video at once."
+          ]
+        },
+        {
+          "word": "feed",
+          "def": "The stream of posts you see when you open a social media app",
+          "ex": [
+            "Her feed was full of holiday photos.",
+            "The app changed how the feed works."
+          ]
+        },
+        {
+          "word": "fine",
+          "def": "Money that must be paid as a punishment",
+          "ex": [
+            "He paid a fine for parking there.",
+            "The company faces a huge fine."
+          ]
+        },
+        {
+          "word": "anxiety",
+          "def": "A feeling of worry or fear",
+          "ex": [
+            "She felt anxiety before the exam.",
+            "Too much news can cause anxiety."
+          ]
+        },
+        {
+          "word": "teenagers",
+          "def": "Young people between about 13 and 19 years old",
+          "ex": [
+            "The app is popular with teenagers.",
+            "Many teenagers use their phones late at night."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "The European Union spoke out against Instagram and Facebook's design.",
+          "a": true,
+          "why": "Speak out means to publicly say what you think, which the EU did against the two apps."
+        },
+        {
+          "s": "The regulators pointed out only one feature that keeps people hooked.",
+          "a": false,
+          "why": "The regulators pointed out three features, not one: infinite scroll, autoplay, and personalized posts."
+        },
+        {
+          "s": "Europe wants Meta to turn off infinite scroll and autoplay by default.",
+          "a": true,
+          "why": "Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."
+        },
+        {
+          "s": "Meta agreed at once and brought in all the changes the EU asked for.",
+          "a": false,
+          "why": "Meta did not agree; it disputed the findings, so it did not bring in, or introduce, the changes."
+        },
+        {
+          "s": "If Meta loses, it could pay out up to 6% of its yearly global turnover.",
+          "a": true,
+          "why": "Pay out means to pay a large amount, and the fine could reach 6% of Meta's yearly turnover."
+        },
+        {
+          "s": "Doctors say that endless scrolling helps take away anxiety in young people.",
+          "a": false,
+          "why": "Doctors warn that scrolling can bring on, or cause, anxiety; it does not take it away."
         }
       ]
     }
