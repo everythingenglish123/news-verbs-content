@@ -2094,7 +2094,7 @@
         {
           "s": "Some outdoor events were called off for safety.",
           "a": true,
-          "why": "Correct. The events were called off, which means they were cancelled for safety."
+          "why": "Correct. The events were called off, which means they were canceled for safety."
         },
         {
           "s": "Officials asked people to call off drinking water during the heat.",
@@ -2819,7 +2819,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/viking-textile-workshop-2026/1.mp3"
         },
         {
-          "text": "The team {{found out}} that the site covered about 100,000 square metres, far bigger than a normal [[settlement]] would need. Workers there processed [[flax]] and turned it into thread and cloth. Archaeologists {{turned up}} many [[loom weights]] and [[spindle whorls]], which are small tools used to spin and weave. These finds {{point to}} skilled [[craft]] work on an industrial scale, the experts say.",
+          "text": "The team {{found out}} that the site covered about 100,000 square meters, far bigger than a normal [[settlement]] would need. Workers there processed [[flax]] and turned it into thread and cloth. Archaeologists {{turned up}} many [[loom weights]] and [[spindle whorls]], which are small tools used to spin and weave. These finds {{point to}} skilled [[craft]] work on an industrial scale, the experts say.",
           "verbs": [
             {
               "display": "found out",
@@ -2859,7 +2859,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/viking-textile-workshop-2026/3.mp3"
         },
         {
-          "text": "This discovery {{points to}} a well-organised society, not a wild and backward one, historian Kasper Andersen said. Researchers will now {{look into}} the thousands of objects they collected to learn more. It may take several years to {{find out}} exactly how the [[artefacts]] were made. Even so, the workshop has already helped experts {{set up}} a new picture of how Vikings ran large [[craft]] centres.",
+          "text": "This discovery {{points to}} a well-organized society, not a wild and backward one, historian Kasper Andersen said. Researchers will now {{look into}} the thousands of objects they collected to learn more. It may take several years to {{find out}} exactly how the [[artifacts]] were made. Even so, the workshop has already helped experts {{set up}} a new picture of how Vikings ran large [[craft]] centers.",
           "verbs": [
             {
               "display": "points to",
@@ -3075,11 +3075,11 @@
           ]
         },
         {
-          "word": "artefacts",
+          "word": "artifacts",
           "def": "Objects made by people in the past that are studied today",
           "ex": [
-            "It may take years to study all the artefacts.",
-            "The artefacts include beads and tools."
+            "It may take years to study all the artifacts.",
+            "The artifacts include beads and tools."
           ]
         }
       ],
@@ -3674,7 +3674,7 @@
           "def": "To work together with someone",
           "ex": [
             "McCartney teamed up with Swift to perform.",
-            "The two singers teamed up for a new song.",
+            "She teamed up with a famous producer for her new song.",
             "He teamed up with a friend to start a business."
           ]
         },
@@ -5532,9 +5532,9 @@
           "why": "On its way, Bavi passed by the Philippines and Taiwan, where it killed and hurt many people."
         },
         {
-          "s": "Officials set up shelters so families would have a safe place to stay.",
-          "a": true,
-          "why": "Officials set up shelters where families could stay safe until the danger passed."
+          "s": "Officials refused to set up shelters, so families had to stay in their own homes.",
+          "a": false,
+          "why": "False. Officials set up shelters where families could stay safe until the danger passed."
         },
         {
           "s": "Only a few workers were ready to help during the storm.",
@@ -5886,9 +5886,9 @@
           "why": "The two sides do not agree, and neither one will back down."
         },
         {
-          "s": "Apple wants a judge to step in and stop OpenAI from using its trade secrets.",
-          "a": true,
-          "why": "Apple wants a judge to step in and stop OpenAI from using : false}, {trade secrets."
+          "s": "OpenAI has asked a judge to step in and stop Apple from selling the iPhone.",
+          "a": false,
+          "why": "False. It is Apple that wants a judge to step in and stop OpenAI from using its trade secrets."
         }
       ]
     }
