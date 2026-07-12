@@ -355,19 +355,9 @@
           "why": "Ukraine carried out (did) the planned offensive. This matches what happened."
         },
         {
-          "s": "Ukraine called off its attacks on Russian oil tankers and refineries.",
+          "s": "As fuel became hard to find, prices went down across Russia.",
           "a": false,
-          "why": "Ukraine stepped up (increased) its attacks. Call off means to cancel, which is not what happened."
-        },
-        {
-          "s": "Inside Russia, some gas stations ran out of gasoline during the shortages.",
-          "a": true,
-          "why": "The stations ran out (had none left) of gasoline. This matches the reports."
-        },
-        {
-          "s": "Russia stepped up its diesel exports until the end of July.",
-          "a": false,
-          "why": "Russia held back (stopped) its diesel exports. Step up means to increase, which is the opposite of what happened."
+          "why": "Prices went up (rose) during the shortage. Go down means to fall, which is the opposite of what happened."
         },
         {
           "s": "To deal with the shortages, Russia planned to buy fuel from other countries.",
@@ -375,9 +365,19 @@
           "why": "Russia moved to deal with (handle) the shortages by importing fuel. This is correct."
         },
         {
-          "s": "As fuel became hard to find, prices went down across Russia.",
+          "s": "Inside Russia, some gas stations ran out of gasoline during the shortages.",
+          "a": true,
+          "why": "The stations ran out (had none left) of gasoline. This matches the reports."
+        },
+        {
+          "s": "Ukraine called off its attacks on Russian oil tankers and refineries.",
           "a": false,
-          "why": "Prices went up (rose) during the shortage. Go down means to fall, which is the opposite of what happened."
+          "why": "Ukraine stepped up (increased) its attacks. Call off means to cancel, which is not what happened."
+        },
+        {
+          "s": "Russia stepped up its diesel exports until the end of July.",
+          "a": false,
+          "why": "Russia held back (stopped) its diesel exports. Step up means to increase, which is the opposite of what happened."
         }
       ],
       "number": 13
@@ -675,14 +675,14 @@
       ],
       "tf": [
         {
+          "s": "The CDC is washing off the outbreak to learn more about it.",
+          "a": false,
+          "why": "The CDC is looking into the outbreak. Wash off means to clean something with water, so it does not describe studying the outbreak."
+        },
+        {
           "s": "Health officials are carrying out tests to study the outbreak.",
           "a": true,
           "why": "The scientists really are doing tests. Carry out means to do or complete a task, so this is correct."
-        },
-        {
-          "s": "Officials say the parasite comes down with dirty food and water.",
-          "a": false,
-          "why": "The parasite comes from contaminated food and water. Come down with means to get sick, so it cannot describe where the parasite starts."
         },
         {
           "s": "Some sick people end up needing medical care.",
@@ -695,14 +695,14 @@
           "why": "Doctors want people to wash off (clean) fresh fruit and vegetables before eating. Cut down on means to reduce something, which is not the advice."
         },
         {
+          "s": "Officials say the parasite comes down with dirty food and water.",
+          "a": false,
+          "why": "The parasite comes from contaminated food and water. Come down with means to get sick, so it cannot describe where the parasite starts."
+        },
+        {
           "s": "Officials warn of the danger of eating unwashed produce.",
           "a": true,
           "why": "Officials really do tell people about this danger. Warn of means to tell people about a possible danger, so this is correct."
-        },
-        {
-          "s": "The CDC is washing off the outbreak to learn more about it.",
-          "a": false,
-          "why": "The CDC is looking into the outbreak. Wash off means to clean something with water, so it does not describe studying the outbreak."
         }
       ],
       "number": 12
@@ -1049,16 +1049,6 @@
       ],
       "tf": [
         {
-          "s": "Fighting broke out after Iran attacked three commercial vessels in the Strait of Hormuz.",
-          "a": true,
-          "why": "Break out means to start suddenly, which is what the fighting did after the attacks on the ships."
-        },
-        {
-          "s": "After Iran's attacks in the Strait of Hormuz, the United States backed down.",
-          "a": false,
-          "why": "The United States stepped up its response and struck more than 80 targets. Back down means to stop demanding or arguing for something, which is not what the United States did."
-        },
-        {
           "s": "Iran hit back at Kuwait and Bahrain by firing missiles and drones.",
           "a": true,
           "why": "Hit back means to respond to an attack, which is what Iran did against the two countries that host American bases."
@@ -1069,14 +1059,24 @@
           "why": "The diplomats hoped to come up with a new deal (think one up). Rule out means to decide something will not happen, the opposite of what they wanted."
         },
         {
+          "s": "Trump complained that several European nations had carried on when he asked them for more help.",
+          "a": false,
+          "why": "Several European nations turned Trump down (refused his request). Carry on means to continue doing something, which does not describe refusing to help."
+        },
+        {
           "s": "As the NATO summit wrapped up in Ankara, Trump said he believes the ceasefire with Iran is over.",
           "a": true,
           "why": "Wrap up means to finish or come to an end, which the NATO summit did."
         },
         {
-          "s": "Trump complained that several European nations had carried on when he asked them for more help.",
+          "s": "After Iran's attacks in the Strait of Hormuz, the United States backed down.",
           "a": false,
-          "why": "Several European nations turned Trump down (refused his request). Carry on means to continue doing something, which does not describe refusing to help."
+          "why": "The United States stepped up its response and struck more than 80 targets. Back down means to stop demanding or arguing for something, which is not what the United States did."
+        },
+        {
+          "s": "Fighting broke out after Iran attacked three commercial vessels in the Strait of Hormuz.",
+          "a": true,
+          "why": "Break out means to start suddenly, which is what the fighting did after the attacks on the ships."
         }
       ]
     },
@@ -1390,14 +1390,14 @@
       ],
       "tf": [
         {
-          "s": "Hurtado threw away the painting because he was drawn to its golden frame.",
-          "a": false,
-          "why": "Hurtado picked up the painting (took it from the wall) because he liked the frame. Throw away means to get rid of something as trash, which is the opposite of what he did."
-        },
-        {
           "s": "Hurtado found out that the painting was worth about 150,000 euros.",
           "a": true,
           "why": "Hurtado found out (learned) the value after using an AI tool and getting confirmation from an auction house."
+        },
+        {
+          "s": "Hurtado held on to the painting and did not return it to the family.",
+          "a": false,
+          "why": "Hurtado gave the painting back and handed it over to the police. Hold on to means to keep something, which is the opposite of what he did."
         },
         {
           "s": "The family gave the painting back by accident while they loaded their car.",
@@ -1410,14 +1410,14 @@
           "why": "The painting turned out to be (was shown to be) a genuine Sorolla, and an auction house in Madrid confirmed it."
         },
         {
-          "s": "Hurtado held on to the painting and did not return it to the family.",
-          "a": false,
-          "why": "Hurtado gave the painting back and handed it over to the police. Hold on to means to keep something, which is the opposite of what he did."
-        },
-        {
           "s": "Hurtado's honesty paid off, and the grateful family prepared a reward for him.",
           "a": true,
           "why": "His honesty paid off (brought a good result), and the grateful family prepared a reward for returning the painting."
+        },
+        {
+          "s": "Hurtado threw away the painting because he was drawn to its golden frame.",
+          "a": false,
+          "why": "Hurtado picked up the painting (took it from the wall) because he liked the frame. Throw away means to get rid of something as trash, which is the opposite of what he did."
         }
       ]
     },
@@ -1757,9 +1757,9 @@
           "why": "Farage stepped down (left his seat). Carry on means to continue, the opposite of what he did."
         },
         {
-          "s": "A parliamentary watchdog began to look into the donations Farage received.",
-          "a": true,
-          "why": "The watchdog looked into (started to investigate) the donations, which is happening."
+          "s": "Reform UK ruled out paying for the by-election.",
+          "a": false,
+          "why": "Reform UK offered to pay for the by-election. Rule out means to decide against something, which is untrue here."
         },
         {
           "s": "Farage owned up to wrongdoing over the donations.",
@@ -1767,14 +1767,14 @@
           "why": "Farage did not own up to (admit) any wrongdoing. He said he had done nothing wrong."
         },
         {
+          "s": "A parliamentary watchdog began to look into the donations Farage received.",
+          "a": true,
+          "why": "The watchdog looked into (started to investigate) the donations, which is happening."
+        },
+        {
           "s": "Farage said he would run for his old seat again in the by-election.",
           "a": true,
           "why": "Farage will run for (compete for) his seat again, which he announced."
-        },
-        {
-          "s": "Reform UK ruled out paying for the by-election.",
-          "a": false,
-          "why": "Reform UK offered to pay for the by-election. Rule out means to decide against something, which is untrue here."
         }
       ]
     },
@@ -2072,9 +2072,9 @@
       ],
       "tf": [
         {
-          "s": "Forecasters warned of a serious danger to people's health.",
+          "s": "Overnight, the air did not cool down much, and the low stayed near 80 degrees.",
           "a": true,
-          "why": "Correct. Forecasters warned of the danger, which means they told people about a possible danger."
+          "why": "Correct. The air did not cool down, which means it did not become cooler; the low stayed near 80 degrees."
         },
         {
           "s": "The extreme heat cooled off from the Midwest to the East Coast.",
@@ -2082,14 +2082,14 @@
           "why": "The correct verb is set in. The heat began and continued across the region; it did not cool off, which would mean become less hot."
         },
         {
-          "s": "Overnight, the air did not cool down much, and the low stayed near 80 degrees.",
-          "a": true,
-          "why": "Correct. The air did not cool down, which means it did not become cooler; the low stayed near 80 degrees."
-        },
-        {
           "s": "Temperatures let up above 100 degrees Fahrenheit in many cities.",
           "a": false,
           "why": "The correct verb is shot up. Temperatures rose quickly above 100 degrees; let up would mean they became less strong."
+        },
+        {
+          "s": "Forecasters warned of a serious danger to people's health.",
+          "a": true,
+          "why": "Correct. Forecasters warned of the danger, which means they told people about a possible danger."
         },
         {
           "s": "Some outdoor events were called off for safety.",
@@ -2421,11 +2421,6 @@
       ],
       "tf": [
         {
-          "s": "Police officers came across the stolen Picasso while searching the house.",
-          "a": true,
-          "why": "Police came across the painting, which means they found it by chance during the drug raid."
-        },
-        {
           "s": "Police made off with the stolen painting during the raid near Paris.",
           "a": false,
           "why": "Police came across and recovered the painting. Make off with means to steal something and quickly leave, which is not what the police did."
@@ -2436,14 +2431,19 @@
           "why": "The man owned up to the thefts, which means he admitted that he had done them."
         },
         {
-          "s": "The security guard gave back the painting while he worked at the warehouse.",
-          "a": false,
-          "why": "The guard made off with the painting, which means he stole it. Give back means to return something to its owner, the opposite of what he did."
-        },
-        {
           "s": "The stolen portrait turned up next to cash and drugs during the raid.",
           "a": true,
           "why": "The portrait turned up, which means it was found, next to the cash and drugs in the house."
+        },
+        {
+          "s": "Police officers came across the stolen Picasso while searching the house.",
+          "a": true,
+          "why": "Police came across the painting, which means they found it by chance during the drug raid."
+        },
+        {
+          "s": "The security guard gave back the painting while he worked at the warehouse.",
+          "a": false,
+          "why": "The guard made off with the painting, which means he stole it. Give back means to return something to its owner, the opposite of what he did."
         },
         {
           "s": "Police said the valuable Picasso will be taken away from its owner.",
@@ -2730,9 +2730,9 @@
       ],
       "tf": [
         {
-          "s": "The scientists carried out their eye experiment at Duke University.",
+          "s": "The scientists came up with a new way to grow the special cells in the lab.",
           "a": true,
-          "why": "They did carry out (perform) the experiment at Duke University, so this is true."
+          "why": "They came up with (thought of) a clever new way to grow the cells, so this is true."
         },
         {
           "s": "In the lab, the stem cells broke down before they could form new tissue.",
@@ -2745,19 +2745,19 @@
           "why": "The cells brought back the mice's vision (made it return), which really happened in the study."
         },
         {
+          "s": "Professor Gerecht said the results rule out a hopeful future.",
+          "a": false,
+          "why": "The results point to a hopeful future (they suggest good things are likely). Rule out means to say something is not possible, the opposite of what she meant."
+        },
+        {
           "s": "In the treated mice, the cells broke down the eye's blood vessels.",
           "a": false,
           "why": "The cells built up strong new blood vessels (made them grow stronger). Break down means to make something fall apart, the opposite of what the cells did."
         },
         {
-          "s": "The scientists came up with a new way to grow the special cells in the lab.",
+          "s": "The scientists carried out their eye experiment at Duke University.",
           "a": true,
-          "why": "They came up with (thought of) a clever new way to grow the cells, so this is true."
-        },
-        {
-          "s": "Professor Gerecht said the results rule out a hopeful future.",
-          "a": false,
-          "why": "The results point to a hopeful future (they suggest good things are likely). Rule out means to say something is not possible, the opposite of what she meant."
+          "why": "They did carry out (perform) the experiment at Duke University, so this is true."
         }
       ]
     },
@@ -3085,9 +3085,19 @@
       ],
       "tf": [
         {
+          "s": "Researchers will now set up the thousands of objects to learn more about them.",
+          "a": false,
+          "why": "The researchers will look into the objects (examine and study them). Set up means to create or arrange something new, which is not what they will do."
+        },
+        {
           "s": "Archaeologists dug up about 82 pit houses near Aarhus.",
           "a": true,
           "why": "This is correct. The archaeologists dug up the pit houses, meaning they removed them from the ground by digging."
+        },
+        {
+          "s": "The experts carried out a ten-month excavation at Soften.",
+          "a": true,
+          "why": "This is correct. Carry out means to do or complete a task, and the experts completed a ten-month excavation."
         },
         {
           "s": "Archaeologists set up about 82 pit houses near Aarhus.",
@@ -3103,16 +3113,6 @@
           "s": "The Vikings found out a wide trade network and sold their goods far away.",
           "a": false,
           "why": "The Vikings built up a wide trade network (developed it over time). Find out means to discover a fact, which does not fit here."
-        },
-        {
-          "s": "The experts carried out a ten-month excavation at Soften.",
-          "a": true,
-          "why": "This is correct. Carry out means to do or complete a task, and the experts completed a ten-month excavation."
-        },
-        {
-          "s": "Researchers will now set up the thousands of objects to learn more about them.",
-          "a": false,
-          "why": "The researchers will look into the objects (examine and study them). Set up means to create or arrange something new, which is not what they will do."
         }
       ]
     },
@@ -3442,6 +3442,16 @@
       ],
       "tf": [
         {
+          "s": "Rete Ferroviaria Italiana is the company that looks into Italy's rail network.",
+          "a": false,
+          "why": "Rete Ferroviaria Italiana looks after (takes care of) Italy's rail network. Look into means to investigate a problem, which is not its role."
+        },
+        {
+          "s": "Experts warn that safety checks could drag on for up to three years.",
+          "a": true,
+          "why": "Drag on means to continue for too long, and experts really did warn the checks could last up to three years."
+        },
+        {
           "s": "Sun-Ways came up with a way to put solar panels between train tracks.",
           "a": true,
           "why": "Sun-Ways came up with (thought of) the idea, which is exactly what the company did."
@@ -3455,16 +3465,6 @@
           "s": "The Swiss company set up its test track in Buttes in April 2025.",
           "a": true,
           "why": "The company set up (built and arranged) the test track, which is what really happened."
-        },
-        {
-          "s": "Rete Ferroviaria Italiana is the company that looks into Italy's rail network.",
-          "a": false,
-          "why": "Rete Ferroviaria Italiana looks after (takes care of) Italy's rail network. Look into means to investigate a problem, which is not its role."
-        },
-        {
-          "s": "Experts warn that safety checks could drag on for up to three years.",
-          "a": true,
-          "why": "Drag on means to continue for too long, and experts really did warn the checks could last up to three years."
         },
         {
           "s": "After the strong Swiss results, Italy could give up building its own solar railway.",
@@ -3767,19 +3767,9 @@
       ],
       "tf": [
         {
-          "s": "For weeks before the wedding, people had looked forward to the big day.",
-          "a": true,
-          "why": "For weeks, people had looked forward to (felt excited about) the wedding."
-        },
-        {
-          "s": "Hundreds of fans took part in the wedding outside the arena, hoping to see the two stars.",
+          "s": "Even after the wedding was over, fans kept looking forward to the couple's big day.",
           "a": false,
-          "why": "Hundreds of fans turned up (arrived) outside the arena. They did not take part in (join) the wedding, which was held inside."
-        },
-        {
-          "s": "The wedding went ahead without any problems, just as planned.",
-          "a": true,
-          "why": "The wedding went ahead (happened as planned) without any problems."
+          "why": "People looked forward to (felt excited about) the wedding for weeks before it happened. You cannot look forward to a day that has already passed."
         },
         {
           "s": "After the ceremony, the party went ahead late into the night.",
@@ -3787,14 +3777,24 @@
           "why": "After the ceremony, the party carried on (continued) late into the night. Go ahead means to happen as planned, not to continue for hours."
         },
         {
+          "s": "For weeks before the wedding, people had looked forward to the big day.",
+          "a": true,
+          "why": "For weeks, people had looked forward to (felt excited about) the wedding."
+        },
+        {
+          "s": "The wedding went ahead without any problems, just as planned.",
+          "a": true,
+          "why": "The wedding went ahead (happened as planned) without any problems."
+        },
+        {
+          "s": "Hundreds of fans took part in the wedding outside the arena, hoping to see the two stars.",
+          "a": false,
+          "why": "Hundreds of fans turned up (arrived) outside the arena. They did not take part in (join) the wedding, which was held inside."
+        },
+        {
           "s": "Famous guests such as Tom Hanks and Tom Brady took part in the celebration.",
           "a": true,
           "why": "The actor Tom Hanks and the football player Tom Brady both took part in (joined) the celebration."
-        },
-        {
-          "s": "Even after the wedding was over, fans kept looking forward to the couple's big day.",
-          "a": false,
-          "why": "People looked forward to (felt excited about) the wedding for weeks before it happened. You cannot look forward to a day that has already passed."
         }
       ]
     },
@@ -4156,11 +4156,6 @@
       ],
       "tf": [
         {
-          "s": "Rescue teams from seven countries teamed up to save the trapped man.",
-          "a": true,
-          "why": "Rescue teams from seven countries teamed up (joined together) to save him."
-        },
-        {
           "s": "For eight long days, the security guard held up under tons of rubble with almost no food or water.",
           "a": false,
           "why": "The man held on (survived in a hard situation) for eight days. Hold up means to stay strong and not fall, which describes the booth, not a person."
@@ -4171,9 +4166,14 @@
           "why": "The workers refused to give up, and in the end their effort paid off (brought a good result)."
         },
         {
-          "s": "Gil brought about his own terrible ordeal under the rubble.",
+          "s": "After more than 70 hours of digging, the tired rescue teams gave up, and the man was found alive.",
           "a": false,
-          "why": "Gil did not cause what happened to him. Bring about means to cause something to happen, but it was the earthquake that trapped him. Doctors say he is getting over the ordeal."
+          "why": "The rescue workers refused to give up. After more than 70 hours their effort paid off and they dug the man out alive."
+        },
+        {
+          "s": "Rescue teams from seven countries teamed up to save the trapped man.",
+          "a": true,
+          "why": "Rescue teams from seven countries teamed up (joined together) to save him."
         },
         {
           "s": "Doctors say Gil is slowly getting over his terrible ordeal.",
@@ -4181,9 +4181,9 @@
           "why": "At the hospital, doctors say he is slowly getting over (recovering from) the ordeal and is now in good condition."
         },
         {
-          "s": "After more than 70 hours of digging, the tired rescue teams gave up, and the man was found alive.",
+          "s": "Gil brought about his own terrible ordeal under the rubble.",
           "a": false,
-          "why": "The rescue workers refused to give up. After more than 70 hours their effort paid off and they dug the man out alive."
+          "why": "Gil did not cause what happened to him. Bring about means to cause something to happen, but it was the earthquake that trapped him. Doctors say he is getting over the ordeal."
         }
       ]
     },
@@ -4465,11 +4465,6 @@
       ],
       "tf": [
         {
-          "s": "Scientists found out that giraffes can do simple math.",
-          "a": true,
-          "why": "Researchers at the University of Barcelona found out (discovered) that giraffes can do simple math."
-        },
-        {
           "s": "Researchers carried on a new study with four giraffes at a zoo in Spain.",
           "a": false,
           "why": "The researchers carried out (performed) a new study. Carry on means to continue something that is already happening."
@@ -4485,14 +4480,19 @@
           "why": "Sometimes the scientists took away (removed) a few pieces. Pick out means to choose one thing from several, not to remove one."
         },
         {
-          "s": "This new study takes away from the growing list of animals that can count in some way.",
-          "a": false,
-          "why": "The study adds to (makes bigger) the growing list of animals that can count. Take away from means to make smaller, the opposite."
+          "s": "Scientists found out that giraffes can do simple math.",
+          "a": true,
+          "why": "Researchers at the University of Barcelona found out (discovered) that giraffes can do simple math."
         },
         {
           "s": "The researchers want to carry on their work with other zoo animals.",
           "a": true,
           "why": "The team wants to carry on (continue) their research to learn more about how animal minds work."
+        },
+        {
+          "s": "This new study takes away from the growing list of animals that can count in some way.",
+          "a": false,
+          "why": "The study adds to (makes bigger) the growing list of animals that can count. Take away from means to make smaller, the opposite."
         }
       ]
     },
@@ -4819,19 +4819,19 @@
           "why": "Take off means to leave the ground and begin to fly, which the rocket did before releasing its satellite."
         },
         {
+          "s": "China has already caught up with SpaceX and now leads the field.",
+          "a": false,
+          "why": "SpaceX has led for years, so China is still trying to catch up, not leading."
+        },
+        {
           "s": "After separating, the booster was thrown away into the ocean.",
           "a": false,
           "why": "The booster was caught in a net to be used again, so it was not thrown away, which means to get rid of something."
         },
         {
-          "s": "Chinese engineers set up a net system to catch the booster.",
-          "a": true,
-          "why": "Set up means to create or establish something new, which is what the engineers did with the net system."
-        },
-        {
-          "s": "China has already caught up with SpaceX and now leads the field.",
+          "s": "Engineers said the landing had failed and did not pay off.",
           "a": false,
-          "why": "SpaceX has led for years, so China is still trying to catch up, not leading."
+          "why": "The landing succeeded, so the effort did pay off, which means to bring a good result."
         },
         {
           "s": "Reusing boosters could help companies cut down their costs.",
@@ -4839,9 +4839,9 @@
           "why": "Cut down means to reduce, and flying the same booster again cuts down launch costs."
         },
         {
-          "s": "Engineers said the landing had failed and did not pay off.",
-          "a": false,
-          "why": "The landing succeeded, so the effort did pay off, which means to bring a good result."
+          "s": "Chinese engineers set up a net system to catch the booster.",
+          "a": true,
+          "why": "Set up means to create or establish something new, which is what the engineers did with the net system."
         }
       ]
     },
@@ -5163,9 +5163,9 @@
       ],
       "tf": [
         {
-          "s": "The European Union spoke out against Instagram and Facebook's design.",
+          "s": "Europe wants Meta to turn off infinite scroll and autoplay by default.",
           "a": true,
-          "why": "Speak out means to publicly say what you think, which the EU did against the two apps."
+          "why": "Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."
         },
         {
           "s": "The regulators pointed out only one feature that keeps people hooked.",
@@ -5173,14 +5173,14 @@
           "why": "The regulators pointed out three features, not one: infinite scroll, autoplay, and personalized posts."
         },
         {
-          "s": "Europe wants Meta to turn off infinite scroll and autoplay by default.",
-          "a": true,
-          "why": "Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."
-        },
-        {
           "s": "Meta agreed at once and brought in all the changes the EU asked for.",
           "a": false,
           "why": "Meta did not agree; it disputed the findings, so it did not bring in, or introduce, the changes."
+        },
+        {
+          "s": "The European Union spoke out against Instagram and Facebook's design.",
+          "a": true,
+          "why": "Speak out means to publicly say what you think, which the EU did against the two apps."
         },
         {
           "s": "If Meta loses, it could pay out up to 6% of its yearly global turnover.",
@@ -5512,14 +5512,9 @@
       ],
       "tf": [
         {
-          "s": "Officials moved more than 1.7 million people away from the coast in Zhejiang before the storm arrived.",
-          "a": true,
-          "why": "The story says officials moved out more than 1.7 million people from towns near the coast in Zhejiang province."
-        },
-        {
-          "s": "Typhoon Bavi reached the coast in the middle of the day on Monday.",
+          "s": "Only a few workers were ready to help during the storm.",
           "a": false,
-          "why": "The storm reached the coastal city of Yuhuan late on Saturday night, not on Monday."
+          "why": "More than 17,000 rescue workers were standing by in Fujian province alone."
         },
         {
           "s": "Airlines called off hundreds of flights because of the storm.",
@@ -5527,19 +5522,24 @@
           "why": "The story says airlines called off hundreds of flights for the weekend."
         },
         {
+          "s": "Typhoon Bavi reached the coast in the middle of the day on Monday.",
+          "a": false,
+          "why": "The storm reached the coastal city of Yuhuan late on Saturday night, not on Monday."
+        },
+        {
           "s": "The storm passed by the Philippines and Taiwan before it reached China.",
           "a": true,
           "why": "On its way, Bavi passed by the Philippines and Taiwan, where it killed and hurt many people."
         },
         {
+          "s": "Officials moved more than 1.7 million people away from the coast in Zhejiang before the storm arrived.",
+          "a": true,
+          "why": "The story says officials moved out more than 1.7 million people from towns near the coast in Zhejiang province."
+        },
+        {
           "s": "Officials refused to set up shelters, so families had to stay in their own homes.",
           "a": false,
           "why": "False. Officials set up shelters where families could stay safe until the danger passed."
-        },
-        {
-          "s": "Only a few workers were ready to help during the storm.",
-          "a": false,
-          "why": "More than 17,000 rescue workers were standing by in Fujian province alone."
         }
       ]
     },
@@ -5861,24 +5861,9 @@
       ],
       "tf": [
         {
-          "s": "Apple has filed a lawsuit against OpenAI.",
-          "a": true,
-          "why": "The story says Apple filed a lawsuit against OpenAI, the maker of ChatGPT."
-        },
-        {
-          "s": "Apple says its former workers sent private files to their personal email accounts.",
-          "a": true,
-          "why": "Apple's court papers say the workers sent off private company files to their own personal email accounts before leaving."
-        },
-        {
-          "s": "OpenAI agreed that it had taken Apple's secrets.",
+          "s": "OpenAI has asked a judge to step in and stop Apple from selling the iPhone.",
           "a": false,
-          "why": "OpenAI hit back at the claims and said it has no interest in other companies' secrets."
-        },
-        {
-          "s": "Apple's Siri will soon run on Google's Gemini instead of ChatGPT.",
-          "a": true,
-          "why": "Apple announced that Siri will run on Google's Gemini system instead of ChatGPT."
+          "why": "False. It is Apple that wants a judge to step in and stop OpenAI from using its trade secrets."
         },
         {
           "s": "Both companies quickly agreed and ended the argument.",
@@ -5886,9 +5871,24 @@
           "why": "The two sides do not agree, and neither one will back down."
         },
         {
-          "s": "OpenAI has asked a judge to step in and stop Apple from selling the iPhone.",
+          "s": "Apple has filed a lawsuit against OpenAI.",
+          "a": true,
+          "why": "The story says Apple filed a lawsuit against OpenAI, the maker of ChatGPT."
+        },
+        {
+          "s": "Apple's Siri will soon run on Google's Gemini instead of ChatGPT.",
+          "a": true,
+          "why": "Apple announced that Siri will run on Google's Gemini system instead of ChatGPT."
+        },
+        {
+          "s": "OpenAI agreed that it had taken Apple's secrets.",
           "a": false,
-          "why": "False. It is Apple that wants a judge to step in and stop OpenAI from using its trade secrets."
+          "why": "OpenAI hit back at the claims and said it has no interest in other companies' secrets."
+        },
+        {
+          "s": "Apple says its former workers sent private files to their personal email accounts.",
+          "a": true,
+          "why": "Apple's court papers say the workers sent off private company files to their own personal email accounts before leaving."
         }
       ]
     }
