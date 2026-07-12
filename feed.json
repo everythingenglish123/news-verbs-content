@@ -29,23 +29,23 @@
             {
               "display": "carried out",
               "base": "carry out",
-              "wrong": "To move something away from a place",
+              "wrong": "To win a battle after long fighting",
               "correct": "To do or complete a planned task or action",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "stepped up",
               "base": "step up",
-              "wrong": "To climb onto a higher place",
+              "wrong": "To aim at more important targets",
               "correct": "To increase the amount or intensity of an activity",
               "correctFirst": true
             },
             {
               "display": "set off",
               "base": "set off",
-              "wrong": "To leave and begin a journey",
+              "wrong": "To destroy something in an explosion",
               "correct": "To cause something to start suddenly, such as a fire or alarm",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/ukraine-drone-oil-strikes-2026/1.mp3"
@@ -56,14 +56,14 @@
             {
               "display": "knocked out",
               "base": "knock out",
-              "wrong": "To hit a person until they lose consciousness",
+              "wrong": "To reduce something to half its size",
               "correct": "To destroy or stop something from working",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "shut down",
               "base": "shut down",
-              "wrong": "To close and lock a door firmly",
+              "wrong": "To move work to a safer place",
               "correct": "To stop operating or close, often for a period of time",
               "correctFirst": true
             }
@@ -76,28 +76,28 @@
             {
               "display": "built up",
               "base": "build up",
-              "wrong": "To construct a tall structure",
+              "wrong": "To appear suddenly all at once",
               "correct": "To increase or grow larger gradually over time",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "brought in",
               "base": "bring in",
-              "wrong": "To carry something inside from outdoors",
+              "wrong": "To ask people to follow a rule voluntarily",
               "correct": "To introduce a new rule, law, or system",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "went up",
               "base": "go up",
-              "wrong": "To move to a higher floor of a building",
+              "wrong": "To change many times in one day",
               "correct": "To rise or increase in level or amount",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "ran out",
               "base": "run out",
-              "wrong": "To leave a place quickly by running",
+              "wrong": "To close early for the day",
               "correct": "To have no more of something left",
               "correctFirst": false
             }
@@ -110,21 +110,21 @@
             {
               "display": "hit back",
               "base": "hit back",
-              "wrong": "To return to a place you came from",
+              "wrong": "To protect your economy from losses",
               "correct": "To respond to an attack or criticism",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "hold back",
               "base": "hold back",
-              "wrong": "To physically restrain a person from moving",
+              "wrong": "To sell something only inside your own country",
               "correct": "To keep or stop something from being released or given",
               "correctFirst": false
             },
             {
               "display": "deal with",
               "base": "deal with",
-              "wrong": "To sell or trade goods with someone",
+              "wrong": "To ask other countries for help",
               "correct": "To take action to solve a problem or handle a situation",
               "correctFirst": true
             }
@@ -410,16 +410,16 @@
             {
               "display": "broken out",
               "base": "break out",
-              "wrong": "To escape from a closed or locked place",
+              "wrong": "To move from animals to people",
               "correct": "To start suddenly and spread",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "find out",
               "base": "find out",
-              "wrong": "To search a place very carefully",
+              "wrong": "To test food in a laboratory",
               "correct": "To discover a fact after searching or trying",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cyclospora-outbreak-2026/1.mp3"
@@ -430,23 +430,23 @@
             {
               "display": "come down with",
               "base": "come down with",
-              "wrong": "To move from a higher place to a lower one",
+              "wrong": "To pass an illness to another person",
               "correct": "To become sick with an illness",
               "correctFirst": false
             },
             {
               "display": "end up",
               "base": "end up",
-              "wrong": "To finish a job completely",
+              "wrong": "To wait a long time to see a doctor",
               "correct": "To reach a final situation or place",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "deal with",
               "base": "deal with",
-              "wrong": "To buy and sell something for money",
+              "wrong": "To take medicine every day",
               "correct": "To take action to handle a problem",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cyclospora-outbreak-2026/2.mp3"
@@ -457,14 +457,14 @@
             {
               "display": "looking into",
               "base": "look into",
-              "wrong": "To stare deeply inside a container",
+              "wrong": "To count the number of sick people",
               "correct": "To examine or investigate something",
               "correctFirst": true
             },
             {
               "display": "carrying out",
               "base": "carry out",
-              "wrong": "To lift something and take it outside",
+              "wrong": "To share results with the public",
               "correct": "To do or complete a task",
               "correctFirst": false
             }
@@ -477,23 +477,23 @@
             {
               "display": "wash off",
               "base": "wash off",
-              "wrong": "To dry food gently with a clean cloth",
+              "wrong": "To soak food in clean water",
               "correct": "To remove something by cleaning it with water",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "get rid of",
               "base": "get rid of",
-              "wrong": "To hide something so no one can see it",
+              "wrong": "To kill germs with high heat",
               "correct": "To remove or throw away something unwanted",
               "correctFirst": false
             },
             {
               "display": "cut down on",
               "base": "cut down on",
-              "wrong": "To chop something into small pieces",
+              "wrong": "To remove something completely",
               "correct": "To reduce the amount of something",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cyclospora-outbreak-2026/4.mp3"
@@ -736,14 +736,14 @@
             {
               "display": "wrapped up",
               "base": "wrap up",
-              "wrong": "To cover something with paper or cloth",
+              "wrong": "To reach an important agreement",
               "correct": "To come to an end or finish",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "set off",
               "base": "set off",
-              "wrong": "To leave and begin a journey",
+              "wrong": "To spread quickly from person to person",
               "correct": "To cause something to begin or happen suddenly",
               "correctFirst": true
             }
@@ -756,21 +756,21 @@
             {
               "display": "broke out",
               "base": "break out",
-              "wrong": "To escape from a place such as a prison",
+              "wrong": "To become worse step by step",
               "correct": "To start suddenly, especially fighting or trouble",
               "correctFirst": true
             },
             {
               "display": "stepped up",
               "base": "step up",
-              "wrong": "To move forward and volunteer for a task",
+              "wrong": "To answer an attack with force",
               "correct": "To increase something or do more of it",
               "correctFirst": false
             },
             {
               "display": "hit back",
               "base": "hit back",
-              "wrong": "To return to the place you came from",
+              "wrong": "To defend your own territory",
               "correct": "To attack or respond to someone who has attacked you",
               "correctFirst": true
             }
@@ -783,28 +783,28 @@
             {
               "display": "rule out",
               "base": "rule out",
-              "wrong": "To make an official law or decision",
+              "wrong": "To refuse to talk about a subject",
               "correct": "To decide that something is not possible or will not happen",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "back down",
               "base": "back down",
-              "wrong": "To move backward away from danger",
+              "wrong": "To wait for the other side to act first",
               "correct": "To stop demanding something or stop arguing during a disagreement",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "pointed out",
               "base": "point out",
-              "wrong": "To choose one person or thing from a group",
+              "wrong": "To warn someone about a future danger",
               "correct": "To tell someone a fact or show them something they may not have noticed",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "carry on",
               "base": "carry on",
-              "wrong": "To lift and move something to another place",
+              "wrong": "To start something again after it failed",
               "correct": "To continue doing something",
               "correctFirst": true
             }
@@ -817,23 +817,23 @@
             {
               "display": "spoke out",
               "base": "speak out",
-              "wrong": "To say something quietly so others cannot hear",
+              "wrong": "To take one side in a conflict",
               "correct": "To publicly say what you think, especially to protest against something",
               "correctFirst": false
             },
             {
               "display": "turned him down",
               "base": "turn down",
-              "wrong": "To lower the volume or level of something",
+              "wrong": "To ignore a request completely",
               "correct": "To refuse an offer or request",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "come up with",
               "base": "come up with",
-              "wrong": "To walk up and approach someone",
+              "wrong": "To sign an official agreement",
               "correct": "To think of an idea, plan, or solution",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/trump-iran-ceasefire-over-2026/4.mp3"
@@ -1109,16 +1109,16 @@
             {
               "display": "picked up",
               "base": "pick up",
-              "wrong": "To choose something carefully from a group",
+              "wrong": "To notice something interesting on the street",
               "correct": "To lift or take something from a surface",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "thrown it away",
               "base": "throw away",
-              "wrong": "To give something to another person as a gift",
+              "wrong": "To leave something outside your house",
               "correct": "To get rid of something you do not want",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/sorolla-painting-returned-2026/1.mp3"
@@ -1129,16 +1129,16 @@
             {
               "display": "found out",
               "base": "find out",
-              "wrong": "To search everywhere for something you lost",
+              "wrong": "To begin to believe something new",
               "correct": "To learn a fact or piece of information",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "turned out",
               "base": "turn out",
-              "wrong": "To make or produce something in large amounts",
+              "wrong": "To be worth more than expected",
               "correct": "To be shown to be true in the end",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/sorolla-painting-returned-2026/2.mp3"
@@ -1149,23 +1149,23 @@
             {
               "display": "left it behind",
               "base": "leave behind",
-              "wrong": "To move something to a safer place",
+              "wrong": "To lose something during a busy day",
               "correct": "To forget to take something with you",
               "correctFirst": false
             },
             {
               "display": "hold on to",
               "base": "hold on to",
-              "wrong": "To grab something tightly with your hands",
+              "wrong": "To sell something for a high price",
               "correct": "To keep something and not give it away",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "give it back",
               "base": "give back",
-              "wrong": "To give something for free to a good cause",
+              "wrong": "To ask for money before returning something",
               "correct": "To return something to its owner",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/sorolla-painting-returned-2026/3.mp3"
@@ -1176,30 +1176,30 @@
             {
               "display": "handed the painting over",
               "base": "hand over",
-              "wrong": "To pass something across so another person can carry it",
+              "wrong": "To show something to an expert",
               "correct": "To give something to someone, especially a person in authority",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "ended up",
               "base": "end up",
-              "wrong": "To finish a piece of work completely",
+              "wrong": "To be sold at an auction",
               "correct": "To reach a final situation or place",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "looked up to",
               "base": "look up to",
-              "wrong": "To search for information about someone",
+              "wrong": "To thank someone for their help",
               "correct": "To admire and respect someone",
               "correctFirst": false
             },
             {
               "display": "paid off",
               "base": "pay off",
-              "wrong": "To finish paying money that you owe",
+              "wrong": "To make someone famous very quickly",
               "correct": "To bring a good result after effort",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/sorolla-painting-returned-2026/4.mp3"
@@ -1450,21 +1450,21 @@
             {
               "display": "step down",
               "base": "step down",
-              "wrong": "To walk down from a stage or platform",
+              "wrong": "To take a break from work for some time",
               "correct": "To leave an important job or position",
               "correctFirst": false
             },
             {
               "display": "hand in",
               "base": "hand in",
-              "wrong": "To offer your help to someone in charge",
+              "wrong": "To announce something to the public",
               "correct": "To give a document or piece of work to someone in charge",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "run for",
               "base": "run for",
-              "wrong": "To hurry quickly toward a place",
+              "wrong": "To ask people to vote in an election",
               "correct": "To compete in an election for a position",
               "correctFirst": false
             }
@@ -1477,14 +1477,14 @@
             {
               "display": "look into",
               "base": "look into",
-              "wrong": "To search inside a place for a lost object",
+              "wrong": "To ask someone questions in public",
               "correct": "To examine or investigate something carefully",
               "correctFirst": true
             },
             {
               "display": "pointed out",
               "base": "point out",
-              "wrong": "To aim your finger straight at a person",
+              "wrong": "To criticize someone in the news",
               "correct": "To tell someone about a fact or show them something",
               "correctFirst": false
             }
@@ -1497,23 +1497,23 @@
             {
               "display": "own up to",
               "base": "own up to",
-              "wrong": "To take full control of something you own",
+              "wrong": "To say sorry for a mistake",
               "correct": "To admit that you did something wrong",
               "correctFirst": true
             },
             {
               "display": "back down",
               "base": "back down",
-              "wrong": "To move backward away from danger",
+              "wrong": "To stay silent about a problem",
               "correct": "To stop demanding something or to give in during an argument",
               "correctFirst": false
             },
             {
               "display": "speak out",
               "base": "speak out",
-              "wrong": "To speak in a louder voice so people can hear",
+              "wrong": "To defend yourself in a court",
               "correct": "To say publicly what you think, especially to protest",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/farage-resigns-byelection-2026/3.mp3"
@@ -1524,28 +1524,28 @@
             {
               "display": "stand down",
               "base": "stand down",
-              "wrong": "To stand firm and refuse to give up",
+              "wrong": "To lose your job in an election",
               "correct": "To leave a job or official position",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "ruled out",
               "base": "rule out",
-              "wrong": "To make an official rule about something",
+              "wrong": "To delay a decision until later",
               "correct": "To decide that something is not possible or will not happen",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "carry on",
               "base": "carry on",
-              "wrong": "To carry something from one place to another",
+              "wrong": "To spend more money on something",
               "correct": "To continue doing something",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "take on",
               "base": "take on",
-              "wrong": "To hire or employ a new person",
+              "wrong": "To easily defeat a weaker opponent",
               "correct": "To compete or fight against someone",
               "correctFirst": true
             }
@@ -1807,16 +1807,16 @@
             {
               "display": "heated up",
               "base": "heat up",
-              "wrong": "To cook food quickly on a stove",
+              "wrong": "To stay hot for many days",
               "correct": "To become hotter",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "set in",
               "base": "set in",
-              "wrong": "To place something inside a container",
+              "wrong": "To spread quickly from place to place",
               "correct": "To begin and seem likely to continue",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/us-heat-wave-deaths-2026/1.mp3"
@@ -1827,21 +1827,21 @@
             {
               "display": "shot up",
               "base": "shoot up",
-              "wrong": "To fire a gun into the air",
+              "wrong": "To stay at a very high level",
               "correct": "To rise very quickly",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "cool down",
               "base": "cool down",
-              "wrong": "To calm a person who is angry",
+              "wrong": "To become fresh and comfortable",
               "correct": "To become cooler",
               "correctFirst": false
             },
             {
               "display": "cool off",
               "base": "cool off",
-              "wrong": "To slowly lose interest in something",
+              "wrong": "To take a rest in the shade",
               "correct": "To make yourself less hot",
               "correctFirst": true
             }
@@ -1854,16 +1854,16 @@
             {
               "display": "pointed out",
               "base": "point out",
-              "wrong": "To show a direction with your finger",
+              "wrong": "To prove something with numbers",
               "correct": "To tell someone a fact they may not know",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "look out for",
               "base": "look out for",
-              "wrong": "To search carefully for a lost thing",
+              "wrong": "To visit someone every day",
               "correct": "To take care to protect someone",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/us-heat-wave-deaths-2026/3.mp3"
@@ -1874,30 +1874,30 @@
             {
               "display": "deal with",
               "base": "deal with",
-              "wrong": "To buy and sell goods for money",
+              "wrong": "To stay away from something dangerous",
               "correct": "To take action to solve a problem",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "carry on",
               "base": "carry on",
-              "wrong": "To lift and move something heavy",
+              "wrong": "To remember to do something important",
               "correct": "To continue doing something",
               "correctFirst": true
             },
             {
               "display": "called off",
               "base": "call off",
-              "wrong": "To shout loudly to get attention",
+              "wrong": "To move an event indoors for safety",
               "correct": "To cancel a planned event",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "let up",
               "base": "let up",
-              "wrong": "To allow someone to come inside",
+              "wrong": "To move away to a different region",
               "correct": "To become less strong",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/us-heat-wave-deaths-2026/4.mp3"
@@ -2132,16 +2132,16 @@
             {
               "display": "carried out",
               "base": "carry out",
-              "wrong": "To carry something outside to another place",
+              "wrong": "To plan something in secret",
               "correct": "To do or perform something, such as a plan or task",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "came across",
               "base": "come across",
-              "wrong": "To cross a road or a river to reach the other side",
+              "wrong": "To find something after a long search",
               "correct": "To find something by chance, without looking for it",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/picasso-recovered-paris-2026/1.mp3"
@@ -2152,16 +2152,16 @@
             {
               "display": "turned up",
               "base": "turn up",
-              "wrong": "To increase the sound or level of something",
+              "wrong": "To be hidden in a very strange place",
               "correct": "To be found or to appear, often by chance",
               "correctFirst": false
             },
             {
               "display": "ended up",
               "base": "end up",
-              "wrong": "To finish or stop doing something",
+              "wrong": "To be kept as a secret for years",
               "correct": "To finally be in a place or situation, often by chance",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/picasso-recovered-paris-2026/2.mp3"
@@ -2172,14 +2172,14 @@
             {
               "display": "made off with",
               "base": "make off with",
-              "wrong": "To create something using the materials you have",
+              "wrong": "To hide something in a safe place",
               "correct": "To steal something and quickly leave",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "get away with",
               "base": "get away with",
-              "wrong": "To escape from a place by running very fast",
+              "wrong": "To hide from the police for a long time",
               "correct": "To do something wrong and not be punished for it",
               "correctFirst": true
             }
@@ -2192,28 +2192,28 @@
             {
               "display": "tracked down",
               "base": "track down",
-              "wrong": "To follow the marks or tracks left by an animal",
+              "wrong": "To watch someone secretly for many days",
               "correct": "To find someone or something after searching hard",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "owned up to",
               "base": "own up to",
-              "wrong": "To take ownership of a company or a property",
+              "wrong": "To give information about other criminals",
               "correct": "To admit that you did something wrong",
               "correctFirst": false
             },
             {
               "display": "took away",
               "base": "take away",
-              "wrong": "To subtract one number from another number",
+              "wrong": "To lock something in a safe place",
               "correct": "To remove something and carry it to another place",
               "correctFirst": false
             },
             {
               "display": "given back",
               "base": "give back",
-              "wrong": "To move backward to make more space",
+              "wrong": "To put something back where it was found",
               "correct": "To return something to its owner",
               "correctFirst": true
             }
@@ -2481,21 +2481,21 @@
             {
               "display": "carried out",
               "base": "carry out",
-              "wrong": "To take something outside of a building",
+              "wrong": "To repeat an experiment to check the results",
               "correct": "To do or perform a task or experiment",
               "correctFirst": true
             },
             {
               "display": "set out",
               "base": "set out",
-              "wrong": "To arrange objects neatly in a row",
+              "wrong": "To promise to finish something important",
               "correct": "To begin a task with a clear goal",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "came up with",
               "base": "come up with",
-              "wrong": "To walk toward someone from behind",
+              "wrong": "To copy a method from another team",
               "correct": "To think of a new idea or plan",
               "correctFirst": true
             }
@@ -2508,9 +2508,9 @@
             {
               "display": "break down",
               "base": "break down",
-              "wrong": "To knock a wall or door to the ground",
+              "wrong": "To change into a different form",
               "correct": "To stop working or fall apart",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/stem-cell-sight-2026/2.mp3"
@@ -2521,23 +2521,23 @@
             {
               "display": "built up",
               "base": "build up",
-              "wrong": "To construct a tall building from bricks",
+              "wrong": "To join two things together",
               "correct": "To make something grow stronger or bigger over time",
               "correctFirst": true
             },
             {
               "display": "brought the animals' sight back",
               "base": "bring back",
-              "wrong": "To carry an object home from a store",
+              "wrong": "To make something better than before",
               "correct": "To make something return",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "end up",
               "base": "end up",
-              "wrong": "To finish a job and tidy everything away",
+              "wrong": "To stay the same without any change",
               "correct": "To finally be in a situation or place",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/stem-cell-sight-2026/3.mp3"
@@ -2548,14 +2548,14 @@
             {
               "display": "point to",
               "base": "point to",
-              "wrong": "To touch a spot with one finger",
+              "wrong": "To promise that something will happen",
               "correct": "To suggest or show that something is likely",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "rule out",
               "base": "rule out",
-              "wrong": "To draw a straight line with a ruler",
+              "wrong": "To warn people about a danger",
               "correct": "To decide that something is not possible",
               "correctFirst": false
             }
@@ -2790,28 +2790,28 @@
             {
               "display": "dug up",
               "base": "dig up",
-              "wrong": "To clean the dirt off an old object",
+              "wrong": "To discover something by accident",
               "correct": "To remove something from the ground by digging",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "made up",
               "base": "make up",
-              "wrong": "To invent a story that is not true",
+              "wrong": "To be built close together",
               "correct": "To form or be the parts of something",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "date back",
               "base": "date back",
-              "wrong": "To write the correct date on an old object",
+              "wrong": "To be older than anything else in the area",
               "correct": "To have existed since a particular time in the past",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "carried out",
               "base": "carry out",
-              "wrong": "To carry heavy objects out of a place",
+              "wrong": "To lead a team of many workers",
               "correct": "To do or complete a task",
               "correctFirst": true
             }
@@ -2824,23 +2824,23 @@
             {
               "display": "found out",
               "base": "find out",
-              "wrong": "To locate an object that was lost",
+              "wrong": "To measure something very carefully",
               "correct": "To learn or discover a fact",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "turned up",
               "base": "turn up",
-              "wrong": "To dig into the soil and turn it over",
+              "wrong": "To collect objects and store them safely",
               "correct": "To be found or appear, often by chance",
               "correctFirst": false
             },
             {
               "display": "point to",
               "base": "point to",
-              "wrong": "To show a direction with your finger",
+              "wrong": "To prove something without any doubt",
               "correct": "To suggest that something is true",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/viking-textile-workshop-2026/2.mp3"
@@ -2851,7 +2851,7 @@
             {
               "display": "built up",
               "base": "build up",
-              "wrong": "To construct a large building",
+              "wrong": "To become rich by selling goods",
               "correct": "To develop or increase something over time",
               "correctFirst": true
             }
@@ -2864,28 +2864,28 @@
             {
               "display": "points to",
               "base": "point to",
-              "wrong": "To show a direction with your finger",
+              "wrong": "To remind people of an earlier time",
               "correct": "To suggest that something is true",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "look into",
               "base": "look into",
-              "wrong": "To look inside a container or hole",
+              "wrong": "To clean and repair old objects",
               "correct": "To examine or investigate something",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "find out",
               "base": "find out",
-              "wrong": "To locate an object that was lost",
+              "wrong": "To test old objects in a laboratory",
               "correct": "To learn or discover a fact",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To arrange objects for a display",
+              "wrong": "To correct an old mistake",
               "correct": "To create or establish something new",
               "correctFirst": false
             }
@@ -3145,23 +3145,23 @@
             {
               "display": "roll out",
               "base": "roll out",
-              "wrong": "To move away by turning over and over on the ground",
+              "wrong": "To test something in one small area",
               "correct": "To start using or introducing something widely",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "came up with",
               "base": "come up with",
-              "wrong": "To move up close to someone from behind",
+              "wrong": "To be the first to use a new invention",
               "correct": "To think of or produce a new idea or plan",
               "correctFirst": true
             },
             {
               "display": "end up",
               "base": "end up",
-              "wrong": "To finish something completely and then stop",
+              "wrong": "To agree to pay for a large project",
               "correct": "To finally be in a particular situation or place",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/italy-solar-railway-2026/1.mp3"
@@ -3172,16 +3172,16 @@
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To place something in a higher position",
+              "wrong": "To pay for something to be built",
               "correct": "To build or arrange something so it is ready to use",
               "correctFirst": true
             },
             {
               "display": "taken up",
               "base": "take up",
-              "wrong": "To begin a new hobby or activity",
+              "wrong": "To repair something quickly",
               "correct": "To lift or remove something from its place",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/italy-solar-railway-2026/2.mp3"
@@ -3192,23 +3192,23 @@
             {
               "display": "came out",
               "base": "come out",
-              "wrong": "To become known to the public for the first time",
+              "wrong": "To be checked by other scientists",
               "correct": "To end or result in a particular way",
               "correctFirst": false
             },
             {
               "display": "held up",
               "base": "hold up",
-              "wrong": "To stop or delay someone or something",
+              "wrong": "To need very few repairs",
               "correct": "To stay strong and not fail under pressure",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "find out",
               "base": "find out",
-              "wrong": "To search for and locate a lost object",
+              "wrong": "To prove that something is dangerous",
               "correct": "To learn a fact or piece of information",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/italy-solar-railway-2026/3.mp3"
@@ -3219,28 +3219,28 @@
             {
               "display": "teamed up",
               "base": "team up",
-              "wrong": "To divide people into separate groups",
+              "wrong": "To sign a business contract",
               "correct": "To join with someone to work together",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "looks after",
               "base": "look after",
-              "wrong": "To search for something that is missing",
+              "wrong": "To own something valuable",
               "correct": "To take care of or be responsible for something",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "catch on",
               "base": "catch on",
-              "wrong": "To grab and hold onto something tightly",
+              "wrong": "To be copied without permission",
               "correct": "To become popular or widely used",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "drag on",
               "base": "drag on",
-              "wrong": "To pull something heavy along the ground",
+              "wrong": "To become more difficult over time",
               "correct": "To continue for too long in a slow, boring way",
               "correctFirst": false
             }
@@ -3502,14 +3502,14 @@
             {
               "display": "turned up",
               "base": "turn up",
-              "wrong": "To wait outside for a long time",
+              "wrong": "To wait for many hours to see someone",
               "correct": "To arrive or appear somewhere",
               "correctFirst": false
             },
             {
               "display": "looked forward to",
               "base": "look forward to",
-              "wrong": "To prepare carefully for a special event",
+              "wrong": "To make careful plans for a special day",
               "correct": "To feel excited about something in the future",
               "correctFirst": true
             }
@@ -3522,23 +3522,23 @@
             {
               "display": "gave away",
               "base": "give away",
-              "wrong": "To spend money on a big celebration",
+              "wrong": "To share the cost of something with others",
               "correct": "To give something to others for free",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "handed out",
               "base": "hand out",
-              "wrong": "To choose which groups will receive help",
+              "wrong": "To divide money fairly between people",
               "correct": "To give something to many people",
               "correctFirst": true
             },
             {
               "display": "giving back",
               "base": "give back",
-              "wrong": "To thank your fans for their support",
+              "wrong": "To pay someone for their help",
               "correct": "To do something good for others in return",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/swift-kelce-wedding-charity-2026/2.mp3"
@@ -3549,21 +3549,21 @@
             {
               "display": "showed up",
               "base": "show up",
-              "wrong": "To be invited to an important event",
+              "wrong": "To be seen by news cameras",
               "correct": "To arrive or attend an event",
               "correctFirst": true
             },
             {
               "display": "took part in",
               "base": "take part in",
-              "wrong": "To watch an activity without joining",
+              "wrong": "To be a special guest at an event",
               "correct": "To be involved in an activity with others",
               "correctFirst": false
             },
             {
               "display": "teamed up with",
               "base": "team up with",
-              "wrong": "To surprise someone with a special performance",
+              "wrong": "To sing a song for someone special",
               "correct": "To work together with someone",
               "correctFirst": true
             }
@@ -3576,30 +3576,30 @@
             {
               "display": "went ahead",
               "base": "go ahead",
-              "wrong": "To be planned in secret",
+              "wrong": "To be a great success",
               "correct": "To happen or continue as planned",
               "correctFirst": false
             },
             {
               "display": "carried on",
               "base": "carry on",
-              "wrong": "To become louder and more exciting",
+              "wrong": "To become bigger and louder",
               "correct": "To continue doing something",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "turned out",
               "base": "turn out",
-              "wrong": "To be remembered for many years",
+              "wrong": "To be planned down to the last detail",
               "correct": "To end up being a certain way",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "stood out",
               "base": "stand out",
-              "wrong": "To cost more than anything else",
+              "wrong": "To be talked about in the news",
               "correct": "To be the most noticeable thing",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/swift-kelce-wedding-charity-2026/4.mp3"
@@ -3827,14 +3827,14 @@
             {
               "display": "pulled a man out",
               "base": "pull out",
-              "wrong": "To carry an injured person to safety",
+              "wrong": "To help someone walk out of a dangerous place",
               "correct": "To remove someone from a place, especially from danger",
               "correctFirst": true
             },
             {
               "display": "came down",
               "base": "come down",
-              "wrong": "To shake hard during an earthquake",
+              "wrong": "To break into many small pieces",
               "correct": "To fall down",
               "correctFirst": false
             }
@@ -3847,23 +3847,23 @@
             {
               "display": "ended up",
               "base": "end up",
-              "wrong": "To wait in one place for a long time",
+              "wrong": "To hide somewhere to stay safe",
               "correct": "To finally be in a particular situation",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "held up",
               "base": "hold up",
-              "wrong": "To slowly crack and fall apart",
+              "wrong": "To keep something safe inside it",
               "correct": "To stay strong and not fall or fail",
               "correctFirst": false
             },
             {
               "display": "held on",
               "base": "hold on",
-              "wrong": "To grip something tightly with your hands",
+              "wrong": "To stay calm and quiet in danger",
               "correct": "To survive or continue in a hard situation",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/venezuela-earthquake-rescue-2026/2.mp3"
@@ -3874,28 +3874,28 @@
             {
               "display": "teamed up",
               "base": "team up",
-              "wrong": "To travel to a place from many countries",
+              "wrong": "To arrive at the same time",
               "correct": "To join together to work with others",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "dig out",
               "base": "dig out",
-              "wrong": "To break through a thick concrete wall",
+              "wrong": "To break a hole in something hard",
               "correct": "To remove someone or something by digging",
               "correctFirst": true
             },
             {
               "display": "give up",
               "base": "give up",
-              "wrong": "To pass the work to another team",
+              "wrong": "To take a rest after working too long",
               "correct": "To stop trying",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "paid off",
               "base": "pay off",
-              "wrong": "To cost a large amount of money",
+              "wrong": "To be finished at last",
               "correct": "To bring a good result after effort",
               "correctFirst": true
             }
@@ -3908,23 +3908,23 @@
             {
               "display": "getting over",
               "base": "get over",
-              "wrong": "To climb over a wall or barrier",
+              "wrong": "To try to forget something bad that happened",
               "correct": "To recover from something difficult",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "turned out",
               "base": "turn out",
-              "wrong": "To happen again a short time later",
+              "wrong": "To be reported in the news many times",
               "correct": "To end up being a certain way",
               "correctFirst": true
             },
             {
               "display": "brought about",
               "base": "bring about",
-              "wrong": "To bring people together after a disaster",
+              "wrong": "To remind people of something good",
               "correct": "To cause something to happen",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/venezuela-earthquake-rescue-2026/4.mp3"
@@ -4216,23 +4216,23 @@
             {
               "display": "found out",
               "base": "find out",
-              "wrong": "To make a result known to everyone",
+              "wrong": "To prove something that people already believed",
               "correct": "To learn or discover something",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "carried out",
               "base": "carry out",
-              "wrong": "To plan a study before starting it",
+              "wrong": "To pay for and support a piece of research",
               "correct": "To do or perform a task",
               "correctFirst": false
             },
             {
               "display": "work out",
               "base": "work out",
-              "wrong": "To pick an answer by luck",
+              "wrong": "To notice something quickly without thinking",
               "correct": "To find the answer to something",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/giraffes-math-barcelona-2026/1.mp3"
@@ -4243,21 +4243,21 @@
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To fill something to the top",
+              "wrong": "To hide something so it cannot be seen easily",
               "correct": "To prepare or arrange something",
               "correctFirst": false
             },
             {
               "display": "took away",
               "base": "take away",
-              "wrong": "To divide something into equal parts",
+              "wrong": "To count how many things are left",
               "correct": "To remove something",
               "correctFirst": true
             },
             {
               "display": "pick out",
               "base": "pick out",
-              "wrong": "To reach for the nearest thing",
+              "wrong": "To point at something you want",
               "correct": "To choose one thing from several",
               "correctFirst": true
             }
@@ -4270,23 +4270,23 @@
             {
               "display": "rule out",
               "base": "rule out",
-              "wrong": "To test something one more time",
+              "wrong": "To show that an idea is only partly true",
               "correct": "To decide that something is not possible",
               "correctFirst": false
             },
             {
               "display": "keep track of",
               "base": "keep track of",
-              "wrong": "To remember something for many years",
+              "wrong": "To compare two numbers to see which is bigger",
               "correct": "To follow the number or progress of something",
               "correctFirst": true
             },
             {
               "display": "tell apart",
               "base": "tell apart",
-              "wrong": "To separate things into groups",
+              "wrong": "To choose the thing that you like best",
               "correct": "To see the difference between things",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/giraffes-math-barcelona-2026/3.mp3"
@@ -4297,16 +4297,16 @@
             {
               "display": "carry on",
               "base": "carry on",
-              "wrong": "To start something again from the beginning",
+              "wrong": "To repeat the same test one more time",
               "correct": "To continue doing something",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "figure out",
               "base": "figure out",
-              "wrong": "To guess something without thinking",
+              "wrong": "To watch something very closely for a long time",
               "correct": "To understand or solve something",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/giraffes-math-barcelona-2026/4.mp3"
@@ -4525,16 +4525,16 @@
             {
               "display": "pulled off",
               "base": "pull off",
-              "wrong": "To move to the side of a road and stop",
+              "wrong": "To try something for the first time",
               "correct": "To succeed in doing something difficult",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "took off",
               "base": "take off",
-              "wrong": "To remove a piece of clothing quickly",
+              "wrong": "To break away from another part",
               "correct": "To leave the ground and begin to fly",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/china-rocket-recovery-2026/1.mp3"
@@ -4545,21 +4545,21 @@
             {
               "display": "came down",
               "base": "come down",
-              "wrong": "To become ill after catching a virus",
+              "wrong": "To slow down before landing",
               "correct": "To move down toward a lower place",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To trick someone so they take the blame",
+              "wrong": "To invent something completely new",
               "correct": "To create or establish something new",
               "correctFirst": false
             },
             {
               "display": "tried out",
               "base": "try out",
-              "wrong": "To leave a place in a hurry",
+              "wrong": "To practice something many times",
               "correct": "To test something to see if it works",
               "correctFirst": true
             }
@@ -4572,30 +4572,30 @@
             {
               "display": "pays off",
               "base": "pay off",
-              "wrong": "To give someone money to stay quiet",
+              "wrong": "To become easier with practice",
               "correct": "To bring a good result after effort",
               "correctFirst": false
             },
             {
               "display": "thrown away",
               "base": "throw away",
-              "wrong": "To waste a good chance",
+              "wrong": "To let something fall into the sea",
               "correct": "To get rid of something you do not want",
               "correctFirst": true
             },
             {
               "display": "cut down",
               "base": "cut down",
-              "wrong": "To make something fall by cutting it",
+              "wrong": "To share costs with other companies",
               "correct": "To reduce the amount of something",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "catch up",
               "base": "catch up",
-              "wrong": "To meet and talk with a friend after a long time",
+              "wrong": "To copy another company's design",
               "correct": "To reach the same level or position as someone ahead",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/china-rocket-recovery-2026/3.mp3"
@@ -4606,23 +4606,23 @@
             {
               "display": "carry out",
               "base": "carry out",
-              "wrong": "To move something away from a place",
+              "wrong": "To announce a plan to the world",
               "correct": "To do or complete a planned task or action",
               "correctFirst": false
             },
             {
               "display": "look over",
               "base": "look over",
-              "wrong": "To fail to notice a mistake",
+              "wrong": "To repair something before using it again",
               "correct": "To examine or check something carefully",
               "correctFirst": true
             },
             {
               "display": "goes ahead",
               "base": "go ahead",
-              "wrong": "To move in front of others in a race",
+              "wrong": "To finish earlier than expected",
               "correct": "To happen or continue as planned",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/china-rocket-recovery-2026/4.mp3"
@@ -4874,7 +4874,7 @@
             {
               "display": "spoken out",
               "base": "speak out",
-              "wrong": "To say something quietly so others cannot hear",
+              "wrong": "To start a legal case against someone",
               "correct": "To publicly say what you think, especially to protest",
               "correctFirst": true
             }
@@ -4887,28 +4887,28 @@
             {
               "display": "pointed out",
               "base": "point out",
-              "wrong": "To choose one person or thing from a group",
+              "wrong": "To officially declare something illegal",
               "correct": "To tell someone a fact or show them something they may not have noticed",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "start up",
               "base": "start up",
-              "wrong": "To stand up suddenly in surprise",
+              "wrong": "To play without any sound",
               "correct": "To begin or start operating",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "serving up",
               "base": "serve up",
-              "wrong": "To wait on customers in a restaurant",
+              "wrong": "To save something for you to watch later",
               "correct": "To present or offer something",
               "correctFirst": false
             },
             {
               "display": "end up",
               "base": "end up",
-              "wrong": "To finish a task completely and stop",
+              "wrong": "To lose track of time completely",
               "correct": "To reach a final situation or place",
               "correctFirst": true
             }
@@ -4921,23 +4921,23 @@
             {
               "display": "turn off",
               "base": "turn off",
-              "wrong": "To leave a road and take a smaller one",
+              "wrong": "To make a feature harder to find",
               "correct": "To stop a machine or feature from working",
               "correctFirst": false
             },
             {
               "display": "cut down",
               "base": "cut down",
-              "wrong": "To make something fall by cutting it",
+              "wrong": "To let users make every choice",
               "correct": "To reduce the amount of something",
               "correctFirst": true
             },
             {
               "display": "brought in",
               "base": "bring in",
-              "wrong": "To earn a certain amount of money",
+              "wrong": "To promise stronger rules for the future",
               "correct": "To introduce a new rule, law, or system",
-              "correctFirst": false
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/eu-meta-addictive-design-2026/3.mp3"
@@ -4948,28 +4948,28 @@
             {
               "display": "pay out",
               "base": "pay out",
-              "wrong": "To succeed after a lot of effort",
+              "wrong": "To lose money because of falling sales",
               "correct": "To pay a large amount of money",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "hands down",
               "base": "hand down",
-              "wrong": "To give something to a younger family member",
+              "wrong": "To discuss a decision in private",
               "correct": "To officially give a decision or judgment",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "bring on",
               "base": "bring on",
-              "wrong": "To hire or start using someone new",
+              "wrong": "To make an illness harder to treat",
               "correct": "To cause something, often something unpleasant, to happen",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "take away",
               "base": "take away",
-              "wrong": "To subtract one number from another",
+              "wrong": "To hide a feature from young users",
               "correct": "To remove something and carry it to another place",
               "correctFirst": false
             }
@@ -5223,23 +5223,23 @@
             {
               "display": "moved in",
               "base": "move in",
-              "wrong": "To start living in a new home",
+              "wrong": "To grow stronger very quickly",
               "correct": "To come closer and arrive, in a threatening way",
               "correctFirst": true
             },
             {
               "display": "moved out",
               "base": "move out",
-              "wrong": "To leave your home to go and live somewhere else",
+              "wrong": "To warn people that danger is coming",
               "correct": "To make people leave a place",
               "correctFirst": false
             },
             {
               "display": "put out",
               "base": "put out",
-              "wrong": "To stop a fire from burning",
+              "wrong": "To raise a warning to a higher level",
               "correct": "To produce or give out something, such as a warning",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/typhoon-bavi-china-2026/1.mp3"
@@ -5250,21 +5250,21 @@
             {
               "display": "built up",
               "base": "build up",
-              "wrong": "To make a new building",
+              "wrong": "To move quickly across the ocean",
               "correct": "To slowly become bigger or stronger",
               "correctFirst": true
             },
             {
               "display": "passed by",
               "base": "pass by",
-              "wrong": "To choose not to take a chance",
+              "wrong": "To stop in a place for a short time",
               "correct": "To move past a place without stopping",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "knock down",
               "base": "knock down",
-              "wrong": "To lower the price of something",
+              "wrong": "To pull something out of the ground",
               "correct": "To hit something so hard that it falls to the ground",
               "correctFirst": true
             }
@@ -5277,21 +5277,21 @@
             {
               "display": "shut down",
               "base": "shut down",
-              "wrong": "To turn off a computer",
+              "wrong": "To force people to stay in their homes",
               "correct": "To stop something from working or being open",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
               "display": "called off",
               "base": "call off",
-              "wrong": "To telephone someone quickly",
+              "wrong": "To move something to a later date",
               "correct": "To cancel something that was planned",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To trick someone so they look guilty",
+              "wrong": "To pay the cost of something for other people",
               "correct": "To create or arrange something",
               "correctFirst": true
             }
@@ -5304,21 +5304,21 @@
             {
               "display": "teamed up",
               "base": "team up",
-              "wrong": "To choose the players for a sports team",
+              "wrong": "To share information with each other",
               "correct": "To join with others to work together",
               "correctFirst": true
             },
             {
               "display": "standing by",
               "base": "stand by",
-              "wrong": "To stand quietly next to someone",
+              "wrong": "To promise to support a person no matter what",
               "correct": "To be ready to help or act at any moment",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "pay off",
               "base": "pay off",
-              "wrong": "To pay back all the money you owe",
+              "wrong": "To happen exactly the way it was planned",
               "correct": "To bring a good result after hard work",
               "correctFirst": true
             }
@@ -5567,53 +5567,53 @@
       ],
       "chunks": [
         {
-          "text": "Two of the biggest names in [[technology]] have {{fallen out}}. Apple, the company behind the iPhone, has filed a [[lawsuit]] against OpenAI, the maker of ChatGPT. Apple {{points out}} that a few of its workers left the company and joined OpenAI, and it claims they took secret information with them to help {{come up with}} a new AI [[device]].",
+          "text": "Two of the biggest names in technology have {{fallen out}}. Apple, the company behind the iPhone, has filed a [[lawsuit]] against OpenAI, the maker of ChatGPT. A few of Apple's workers left the company and joined OpenAI, and Apple claims they {{walked off with}} [[confidential]] information to help {{come up with}} a new AI [[device]].",
           "verbs": [
             {
               "display": "fallen out",
               "base": "fall out",
-              "wrong": "To accidentally drop from a pocket or bag",
+              "wrong": "To become less successful than a rival",
               "correct": "To stop being friends or partners after a disagreement",
               "correctFirst": true
             },
             {
-              "display": "points out",
-              "base": "point out",
-              "wrong": "To aim your finger in a direction",
-              "correct": "To tell someone about a fact or detail",
+              "display": "walked off with",
+              "base": "walk off with",
+              "wrong": "To leave a job suddenly, without warning",
+              "correct": "To take something that does not belong to you",
               "correctFirst": false
             },
             {
               "display": "come up with",
               "base": "come up with",
-              "wrong": "To reach the top of a hill",
+              "wrong": "To improve a product that already exists",
               "correct": "To think of or create a new idea or plan",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/apple-openai-lawsuit-2026/1.mp3"
         },
         {
-          "text": "In its court papers, Apple {{sets out}} how it believes the [[theft]] happened. It says that before these workers left, they {{sent off}} private company files to their own personal email accounts. Apple now wants a [[judge]] to {{step in}} and stop OpenAI from using any of its [[trade secrets]].",
+          "text": "In its court papers, Apple {{lays out}} how it believes the [[theft]] happened. It says that before these workers left, they {{sent off}} private company files to their own personal email accounts. Apple now wants a [[judge]] to {{step in}} and stop OpenAI from using any of its [[trade secrets]].",
           "verbs": [
             {
-              "display": "sets out",
-              "base": "set out",
-              "wrong": "To begin a long journey",
-              "correct": "To explain or describe something clearly, step by step",
-              "correctFirst": true
+              "display": "lays out",
+              "base": "lay out",
+              "wrong": "To prove that something really happened",
+              "correct": "To explain or describe something clearly and in detail",
+              "correctFirst": false
             },
             {
               "display": "sent off",
               "base": "send off",
-              "wrong": "To make a player leave a game",
+              "wrong": "To hide something so that nobody can find it",
               "correct": "To send something to a place, often by email or mail",
               "correctFirst": false
             },
             {
               "display": "step in",
               "base": "step in",
-              "wrong": "To walk into a room",
+              "wrong": "To make the final decision in a court case",
               "correct": "To get involved in order to help or stop a problem",
               "correctFirst": true
             }
@@ -5621,54 +5621,54 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/apple-openai-lawsuit-2026/2.mp3"
         },
         {
-          "text": "OpenAI quickly {{hit back}} at the [[claims]]. A [[spokesperson]] for the company said that OpenAI has no interest in other companies' secrets, and that its lawyers are still {{looking over}} the papers. So far, the two sides do not agree, and neither one will {{back down}}.",
+          "text": "OpenAI quickly {{hit back}} at the [[claims]]. A [[spokesperson]] for the company said that OpenAI has no interest in other companies' secrets, and that its lawyers are still {{going over}} the papers. So far, the two sides do not agree, and neither one will {{back down}}.",
           "verbs": [
             {
               "display": "hit back",
               "base": "hit back",
-              "wrong": "To punch someone who hit you first",
+              "wrong": "To refuse to answer questions about a problem",
               "correct": "To reply strongly to an attack or criticism",
-              "correctFirst": true
+              "correctFirst": false
             },
             {
-              "display": "looking over",
-              "base": "look over",
-              "wrong": "To ignore a mistake on purpose",
+              "display": "going over",
+              "base": "go over",
+              "wrong": "To correct the mistakes in a document",
               "correct": "To examine or check something carefully",
-              "correctFirst": false
+              "correctFirst": true
             },
             {
               "display": "back down",
               "base": "back down",
-              "wrong": "To slowly walk backward",
+              "wrong": "To admit that you did something wrong",
               "correct": "To stop demanding something or stop arguing",
-              "correctFirst": true
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/apple-openai-lawsuit-2026/3.mp3"
         },
         {
-          "text": "The fight comes as Apple {{moves away}} from OpenAI in another way. Apple has announced that its voice [[assistant]], Siri, will soon {{run on}} Google's Gemini system instead of ChatGPT. Many people had expected the two companies to {{team up}} for years to come, so the sudden change has surprised the whole tech world.",
+          "text": "The fight comes as Apple {{moves away}} from OpenAI in another way. Apple has announced that its voice [[assistant]], Siri, will soon {{run on}} Google's Gemini system instead of ChatGPT. Many people had expected the two companies to {{stick together}} for years to come, so the sudden change has surprised the whole tech world.",
           "verbs": [
             {
               "display": "moves away",
               "base": "move away",
-              "wrong": "To go and live in a different town",
+              "wrong": "To end a contract immediately",
               "correct": "To slowly stop using or being connected to something",
               "correctFirst": true
             },
             {
               "display": "run on",
               "base": "run on",
-              "wrong": "To keep talking for far too long",
+              "wrong": "To be owned by another company",
               "correct": "To work using a certain kind of power or system",
               "correctFirst": false
             },
             {
-              "display": "team up",
-              "base": "team up",
-              "wrong": "To choose the players for a sports team",
-              "correct": "To join with others to work together",
+              "display": "stick together",
+              "base": "stick together",
+              "wrong": "To share their technology with each other",
+              "correct": "To stay united and continue to support each other",
               "correctFirst": true
             }
           ],
@@ -5680,126 +5680,126 @@
           "verb": "Fall out",
           "def": "To stop being friends or partners after a disagreement",
           "ex": [
-            "The two partners fell out over money.",
-            "They fell out after a big argument.",
-            "Old friends sometimes fall out and stop talking."
+            "The two singers fell out and never worked together again.",
+            "He fell out with his business partner over money.",
+            "Old friends sometimes fall out over small things."
           ]
         },
         {
-          "verb": "Point out",
-          "def": "To tell someone about a fact or detail",
+          "verb": "Walk off with",
+          "def": "To take something that does not belong to you",
           "ex": [
-            "She pointed out a mistake in the report.",
-            "He pointed out that the price was too high.",
-            "The teacher pointed out the correct answer."
+            "Someone walked off with my phone at the gym.",
+            "A visitor walked off with two books from the library.",
+            "The thief walked off with her purse in seconds."
           ]
         },
         {
           "verb": "Come up with",
           "def": "To think of or create a new idea or plan",
           "ex": [
-            "The team came up with a clever idea.",
-            "She came up with a new name for the app.",
-            "Can you come up with a better plan?"
+            "She came up with a great name for the show.",
+            "We need to come up with a plan by Friday.",
+            "He came up with a faster way to finish the job."
           ]
         },
         {
-          "verb": "Set out",
-          "def": "To explain or describe something clearly, step by step",
+          "verb": "Lay out",
+          "def": "To explain or describe something clearly and in detail",
           "ex": [
-            "The report sets out the main problems.",
-            "The letter set out all the rules.",
-            "He set out his plan in three simple steps."
+            "The teacher laid out the rules on the first day.",
+            "The report lays out the plan step by step.",
+            "She laid out her ideas at the meeting."
           ]
         },
         {
           "verb": "Send off",
           "def": "To send something to a place, often by email or mail",
           "ex": [
-            "She sent off the files by email.",
-            "He sent off the letter yesterday.",
-            "They sent off the forms to the office."
+            "I sent off the forms this morning.",
+            "He sent off an email before leaving work.",
+            "She sent off the package to her sister."
           ]
         },
         {
           "verb": "Step in",
           "def": "To get involved in order to help or stop a problem",
           "ex": [
-            "A judge had to step in and decide.",
-            "The boss stepped in to solve the fight.",
-            "Police stepped in to stop the trouble."
+            "The teacher stepped in to stop the argument.",
+            "The government stepped in to save the bank.",
+            "A stranger stepped in and helped the lost child."
           ]
         },
         {
           "verb": "Hit back",
           "def": "To reply strongly to an attack or criticism",
           "ex": [
-            "The company hit back at the claims.",
-            "She hit back at her critics online.",
-            "The team hit back with a strong reply."
+            "The actor hit back at the newspaper's story.",
+            "The company hit back at the report with facts.",
+            "She hit back at her critics in an interview."
           ]
         },
         {
-          "verb": "Look over",
+          "verb": "Go over",
           "def": "To examine or check something carefully",
           "ex": [
-            "Lawyers are looking over the papers.",
-            "Please look over my work before I send it.",
-            "She looked over the contract twice."
+            "Go over your answers before the test ends.",
+            "The lawyer went over the contract twice.",
+            "We went over the plan one more time."
           ]
         },
         {
           "verb": "Back down",
           "def": "To stop demanding something or stop arguing",
           "ex": [
-            "Neither side would back down.",
-            "He refused to back down in the fight.",
-            "The company would not back down."
+            "Neither driver would back down after the accident.",
+            "He refused to back down in the debate.",
+            "The company finally backed down and changed the rule."
           ]
         },
         {
           "verb": "Move away",
           "def": "To slowly stop using or being connected to something",
           "ex": [
-            "The firm is moving away from old software.",
-            "They moved away from paper and went digital.",
-            "The company moved away from that partner."
+            "The firm is moving away from paper documents.",
+            "Many companies moved away from that old software.",
+            "She moved away from her early singing style."
           ]
         },
         {
           "verb": "Run on",
           "def": "To work using a certain kind of power or system",
           "ex": [
-            "The new phone runs on a faster system.",
             "This car runs on electricity.",
-            "The app runs on the latest software."
+            "The new phone runs on a faster system.",
+            "The whole factory runs on solar power."
           ]
         },
         {
-          "verb": "Team up",
-          "def": "To join with others to work together",
+          "verb": "Stick together",
+          "def": "To stay united and continue to support each other",
           "ex": [
-            "The two countries teamed up to fight the fire.",
-            "She teamed up with a friend for the project.",
-            "Doctors teamed up to help the patients."
+            "Our family sticks together in hard times.",
+            "The players stuck together after the loss.",
+            "Good friends stick together no matter what."
           ]
         }
       ],
       "wordDefs": [
-        {
-          "word": "technology",
-          "def": "Machines, computers, and tools made by science",
-          "ex": [
-            "Technology changes very fast.",
-            "She works in technology."
-          ]
-        },
         {
           "word": "lawsuit",
           "def": "A legal case that one person or company brings against another in court",
           "ex": [
             "The company faced a big lawsuit.",
             "They started a lawsuit last year."
+          ]
+        },
+        {
+          "word": "confidential",
+          "def": "Meant to be kept secret and not shared with others",
+          "ex": [
+            "The doctor keeps patient records confidential.",
+            "This report is confidential, so do not share it."
           ]
         },
         {
