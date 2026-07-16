@@ -25,14 +25,14 @@
       ],
       "chunks": [
         {
-          "text": "Regulators in the United States are {{looking into}} a White House worker who ran the president's [[teleprompter]]. His job was to load the words that President Trump reads during his speeches. Because of this, the worker could {{find out}} exactly what the president would say before anyone else. Officials say he used this early [[access]] to bet money, and he {{ended up}} making almost $100,000.",
+          "text": "Regulators in the United States are {{digging into}} a White House worker who ran the president's [[teleprompter]]. His job was to load the words that President Trump reads during his speeches. Because of this, the worker could {{find out}} exactly what the president would say before anyone else. Officials say he used this early [[access]] to bet money, and the bets {{panned out}}, earning him almost $100,000.",
           "verbs": [
             {
-              "display": "looking into",
-              "base": "look into",
-              "correct": "To try to discover the facts about a problem or crime",
-              "wrong": "To secretly watch a person in order to catch them",
-              "correctFirst": true
+              "display": "digging into",
+              "base": "dig into",
+              "correct": "To search deeply for the facts about a problem or topic",
+              "wrong": "To criticize or attack a person with harsh words",
+              "correctFirst": false
             },
             {
               "display": "find out",
@@ -42,24 +42,24 @@
               "correctFirst": false
             },
             {
-              "display": "ended up",
-              "base": "end up",
-              "correct": "To finally be in a certain situation or result after a process",
-              "wrong": "To finish or complete a job completely",
+              "display": "panned out",
+              "base": "pan out",
+              "correct": "To develop and result in a particular way, often successfully",
+              "wrong": "To happen or unfold slowly over a period of time",
               "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/trump-teleprompter-bet-2026/1.mp3"
         },
         {
-          "text": "The bets were placed on a [[prediction]] website called Kalshi. On the site, users try to {{work out}} which exact words a speaker will use. Because the worker had already {{gone through}} the president's scripts, he could easily {{cash in on}} what he knew. This gave him an unfair [[advantage]] over other users, who were only guessing.",
+          "text": "The bets were placed on a [[prediction]] website called Kalshi. On the site, users try to {{suss out}} which exact words a speaker will use. Because the worker had already {{gone through}} the president's scripts, he could easily {{cash in on}} what he knew. This gave him an unfair [[advantage]] over other users, who were only guessing.",
           "verbs": [
             {
-              "display": "work out",
-              "base": "work out",
-              "correct": "To find an answer by thinking or calculating",
-              "wrong": "To plan the details of something in advance",
-              "correctFirst": true
+              "display": "suss out",
+              "base": "suss out",
+              "correct": "To discover or figure something out by thinking carefully",
+              "wrong": "To pick one thing out from a larger group of choices",
+              "correctFirst": false
             },
             {
               "display": "gone through",
@@ -79,7 +79,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/trump-teleprompter-bet-2026/2.mp3"
         },
         {
-          "text": "The scheme did not stay secret for long. Kalshi's [[security]] team {{picked up on}} the strange betting pattern and {{handed over}} the case to a government [[agency]], the CFTC. The company also {{shut down}} his account and kept about $90,000 of his winnings.",
+          "text": "The scheme did not stay secret for long. Kalshi's [[security]] team {{picked up on}} the strange betting pattern and {{handed over}} the case to a government [[agency]], the CFTC. The company also {{closed down}} his account and kept about $90,000 of his winnings.",
           "verbs": [
             {
               "display": "picked up on",
@@ -96,17 +96,17 @@
               "correctFirst": false
             },
             {
-              "display": "shut down",
-              "base": "shut down",
-              "correct": "To close or stop something from working",
-              "wrong": "To turn something off briefly and then start it again",
+              "display": "closed down",
+              "base": "close down",
+              "correct": "To stop a business, service, or account from operating",
+              "wrong": "To briefly pause something and then start it up again",
               "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/trump-teleprompter-bet-2026/3.mp3"
         },
         {
-          "text": "For now, the worker has been {{put on}} unpaid leave while the [[investigation]] {{carries on}}. Officials want to know whether he broke any rules by using [[private]] information. In the end, the CFTC may make him {{give back}} most of the money he won.",
+          "text": "For now, the worker has been {{put on}} unpaid leave while the [[investigation]] {{keeps on}} running. Officials want to know whether he broke any rules by using [[private]] information. In the end, the CFTC may make him {{give back}} most of the money he won.",
           "verbs": [
             {
               "display": "put on",
@@ -116,11 +116,11 @@
               "correctFirst": false
             },
             {
-              "display": "carries on",
-              "base": "carry on",
-              "correct": "To continue doing something",
-              "wrong": "To perform or complete a planned task",
-              "correctFirst": true
+              "display": "keeps on",
+              "base": "keep on",
+              "correct": "To continue doing something without stopping",
+              "wrong": "To start something again after it has stopped",
+              "correctFirst": false
             },
             {
               "display": "give back",
@@ -135,12 +135,12 @@
       ],
       "vocab": [
         {
-          "verb": "Look into",
-          "def": "To try to discover the facts about a problem or crime",
+          "verb": "Dig into",
+          "def": "To search deeply for the facts about a problem or topic",
           "ex": [
-            "The police will look into the missing money.",
-            "Reporters looked into the company's strange deals.",
-            "We are looking into why the app keeps crashing."
+            "Reporters dug into the company's secret deals.",
+            "The team will dig into the cause of the crash.",
+            "We are digging into why sales dropped last month."
           ]
         },
         {
@@ -153,21 +153,21 @@
           ]
         },
         {
-          "verb": "End up",
-          "def": "To finally be in a certain situation or result after a process",
+          "verb": "Pan out",
+          "def": "To develop and result in a particular way, often successfully",
           "ex": [
-            "We got lost and ended up at the wrong hotel.",
-            "If you rush, you may end up making mistakes.",
-            "He ended up paying more than he planned."
+            "We hoped the plan would pan out well.",
+            "Her risky idea panned out better than expected.",
+            "If the deal pans out, we will open a new store."
           ]
         },
         {
-          "verb": "Work out",
-          "def": "To find an answer by thinking or calculating",
+          "verb": "Suss out",
+          "def": "To discover or figure something out by thinking carefully",
           "ex": [
-            "Can you work out how much we owe?",
-            "She worked out the puzzle in a few minutes.",
-            "I could not work out what he meant."
+            "I need to suss out how this machine works.",
+            "She quickly sussed out the best route to the airport.",
+            "They sussed out the answer before anyone else."
           ]
         },
         {
@@ -207,12 +207,12 @@
           ]
         },
         {
-          "verb": "Shut down",
-          "def": "To close or stop something from working",
+          "verb": "Close down",
+          "def": "To stop a business, service, or account from operating",
           "ex": [
-            "The city shut down the old factory last year.",
-            "Please shut down the computer before you leave.",
-            "They shut down the website for repairs."
+            "The city closed down the old factory last year.",
+            "Officials may close down the shop for safety reasons.",
+            "The bank closed down his account without any warning."
           ]
         },
         {
@@ -225,12 +225,12 @@
           ]
         },
         {
-          "verb": "Carry on",
-          "def": "To continue doing something",
+          "verb": "Keep on",
+          "def": "To continue doing something without stopping",
           "ex": [
-            "Please carry on with your work.",
-            "They carried on talking for hours.",
-            "The show carried on despite the rain."
+            "Please keep on working until the bell rings.",
+            "They kept on talking for hours.",
+            "The show kept on despite the heavy rain."
           ]
         },
         {
@@ -311,14 +311,14 @@
       ],
       "tf": [
         {
-          "s": "Kalshi shut down its whole website after the scandal.",
+          "s": "Kalshi closed down its whole website after the scandal.",
           "a": false,
-          "why": "Kalshi shut down only the worker's account, not the entire website."
+          "why": "Kalshi closed down only the worker's account, not the entire website."
         },
         {
-          "s": "Regulators are looking into the worker who ran the president's teleprompter.",
+          "s": "Regulators are digging into the worker who ran the president's teleprompter.",
           "a": true,
-          "why": "The story says regulators are looking into the White House worker who operated the teleprompter."
+          "why": "The story says regulators are digging into the White House worker who operated the teleprompter."
         },
         {
           "s": "Kalshi's security team picked up on the strange betting pattern.",
@@ -393,15 +393,8 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cuba-power-grid-2026/1.mp3"
         },
         {
-          "text": "The blackouts {{come from}} two deeper problems. First, the island is {{running out of}} fuel to power its plants, partly because of new US [[sanctions]] on countries that sell oil to Cuba. Second, many power stations are very old, built long ago in the 1960s and 1980s. On Tuesday, a single [[unit]] in the east of the country failed, and that quickly {{set off}} the wider collapse.",
+          "text": "The blackouts come from two deeper problems. First, the island is {{running out of}} fuel to power its plants, partly because of new US [[sanctions]] on countries that sell oil to Cuba. Second, many power stations are very old, built long ago in the 1960s and 1980s. On Tuesday, a single [[unit]] in the east of the country failed, and that quickly {{set off}} the wider collapse.",
           "verbs": [
-            {
-              "display": "come from",
-              "base": "come from",
-              "wrong": "To depend on something in order to keep going",
-              "correct": "To be caused by something",
-              "correctFirst": false
-            },
             {
               "display": "running out of",
               "base": "run out of",
@@ -500,15 +493,6 @@
             "The factory shut down for the holidays.",
             "The computer shut down without warning.",
             "They had to shut down the plant for repairs."
-          ]
-        },
-        {
-          "verb": "Come from",
-          "def": "To be caused by something",
-          "ex": [
-            "Most of the noise comes from the street outside.",
-            "Her strength comes from years of training.",
-            "The bad smell came from the kitchen."
           ]
         },
         {
@@ -707,7 +691,7 @@
       ],
       "chunks": [
         {
-          "text": "In China, a new [[regulation]] has {{shut down}} one of the most personal uses of AI. Millions of people had been chatting with [[virtual]] \"companion\" apps that could act like a close friend or even a romantic [[partner]]. Now the government wants technology companies to {{turn off}} these features. Officials say the apps were built to {{draw in}} lonely users and keep them coming back.",
+          "text": "In China, a new [[regulation]] has {{shut down}} one of the most personal uses of AI. Millions of people had been chatting with [[virtual]] \"companion\" apps that could act like a close friend or even a romantic [[partner]]. Now the government wants technology companies to {{turn off}} these features. Officials say the apps were built to {{reel in}} lonely users and keep them coming back.",
           "verbs": [
             {
               "display": "shut down",
@@ -724,11 +708,11 @@
               "correctFirst": false
             },
             {
-              "display": "draw in",
-              "base": "draw in",
-              "correct": "To attract someone and get them interested or involved",
-              "wrong": "To secretly collect personal information about someone",
-              "correctFirst": false
+              "display": "reel in",
+              "base": "reel in",
+              "correct": "To attract someone and gradually pull them into something",
+              "wrong": "To bring something under control and limit it",
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/china-ai-companion-chatbots-2026/1.mp3"
@@ -835,12 +819,12 @@
           ]
         },
         {
-          "verb": "Draw in",
-          "def": "To attract someone and get them interested or involved",
+          "verb": "Reel in",
+          "def": "To attract someone and gradually pull them into something",
           "ex": [
-            "The bright signs draw in tourists every night.",
-            "The store used free samples to draw in customers.",
-            "The movie drew in huge crowds on its first day."
+            "The bright signs reel in tourists every night.",
+            "The store used free samples to reel in customers.",
+            "Streaming services reel in new viewers with free trials."
           ]
         },
         {
@@ -1034,9 +1018,9 @@
           "why": "The rules are meant to look after people's mental health, not company profits."
         },
         {
-          "s": "The new rules draw in children by giving them special AI companions.",
+          "s": "The new rules keep out adults but let children use special AI companions.",
           "a": false,
-          "why": "The rules keep out minors, so they do not draw in children at all."
+          "why": "The rules actually keep out minors under 18, so children cannot use these apps at all."
         }
       ]
     },
@@ -1091,7 +1075,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/luxor-tomb-paser-2026/1.mp3"
         },
         {
-          "text": "What makes the tomb special is that its walls still {{show off}} colorful painted scenes. Time has not {{worn away}} the bright [[images]], which show Paser worshipping the gods inside sacred [[shrines]]. Another painting shows him seated beside his wife, in front of a table piled with [[offerings]]. The art really {{stands out}} because its colors have lasted for more than 3,000 years.",
+          "text": "What makes the tomb special is that its walls still {{show off}} colorful painted scenes. Time has not {{worn away}} the bright [[images]], which show Paser worshipping the gods inside sacred [[shrines]]. Another painting shows him seated beside his wife, in front of a table piled with [[offerings]]. The art really {{leaps out}} because its colors have lasted for more than 3,000 years.",
           "verbs": [
             {
               "display": "show off",
@@ -1108,11 +1092,11 @@
               "correctFirst": false
             },
             {
-              "display": "stands out",
-              "base": "stand out",
-              "correct": "To be easily noticed because of being special or different",
-              "wrong": "To continue to exist without being destroyed",
-              "correctFirst": true
+              "display": "leaps out",
+              "base": "leap out",
+              "correct": "To be very noticeable and catch the eye at once",
+              "wrong": "To jump out suddenly from a hidden place",
+              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/luxor-tomb-paser-2026/2.mp3"
@@ -1145,7 +1129,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/luxor-tomb-paser-2026/3.mp3"
         },
         {
-          "text": "News of the find has {{drawn in}} attention from around the world. Officials hope the painted walls will {{shed light on}} Paser's life and his exact [[role]] in Egyptian society. Researchers still need to {{look into}} the writing on the walls to learn his full [[titles]]. The discovery is a reminder of how much [[history]] still lies buried under Luxor's sands.",
+          "text": "News of the find has {{drawn in}} attention from around the world. Officials hope the painted walls will {{shed light on}} Paser's life and his exact [[role]] in Egyptian society. Researchers still need to {{pore over}} the writing on the walls to learn his full [[titles]]. The discovery is a reminder of how much [[history]] still lies buried under Luxor's sands.",
           "verbs": [
             {
               "display": "drawn in",
@@ -1162,10 +1146,10 @@
               "correctFirst": true
             },
             {
-              "display": "look into",
-              "base": "look into",
-              "correct": "To examine something carefully to learn the truth",
-              "wrong": "To quickly find a fact by checking a book or list",
+              "display": "pore over",
+              "base": "pore over",
+              "correct": "To read or study something very carefully",
+              "wrong": "To pour a liquid slowly over the surface of something",
               "correctFirst": false
             }
           ],
@@ -1219,12 +1203,12 @@
           ]
         },
         {
-          "verb": "Stand out",
-          "def": "To be easily noticed because of being special or different",
+          "verb": "Leap out",
+          "def": "To be very noticeable and catch the eye at once",
           "ex": [
-            "Her bright coat made her stand out in the crowd.",
-            "One answer really stood out as the best.",
-            "The old church stands out among the new buildings."
+            "The bright red title leaps out from the page.",
+            "Her name leaped out at me from the long list.",
+            "One careless mistake leaps out as soon as you read it."
           ]
         },
         {
@@ -1273,12 +1257,12 @@
           ]
         },
         {
-          "verb": "Look into",
-          "def": "To examine something carefully to learn the truth",
+          "verb": "Pore over",
+          "def": "To read or study something very carefully",
           "ex": [
-            "The police will look into the crime.",
-            "We should look into cheaper options.",
-            "Managers looked into why sales had fallen."
+            "She pored over the map for hours.",
+            "The students pore over their notes before the exam.",
+            "He pored over every page of the old letter."
           ]
         }
       ],
@@ -1381,14 +1365,14 @@
           "why": "The team did not come across the tomb by luck; they had worked at the site since 2018 before their digging paid off."
         },
         {
-          "s": "The bright painted walls really stand out because their colors have lasted so long.",
+          "s": "The bright painted walls really leap out because their colors have lasted so long.",
           "a": true,
-          "why": "The story says the art stands out because its colors have lasted for more than 3,000 years."
+          "why": "The story says the art leaps out because its colors have lasted for more than 3,000 years."
         },
         {
-          "s": "Researchers already know all of Paser's titles and no longer need to look into the walls.",
+          "s": "Researchers already know all of Paser's titles and no longer need to pore over the walls.",
           "a": false,
-          "why": "Researchers still need to look into the writing on the walls to learn his full titles."
+          "why": "Researchers still need to pore over the writing on the walls to learn his full titles."
         },
         {
           "s": "Archaeologists dug up the ancient tomb near the city of Luxor.",
@@ -1502,7 +1486,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/daylight-saving-vote-2026/3.mp3"
         },
         {
-          "text": "The bill now {{moves on}} to the Senate, where its future is far from clear. Not every lawmaker {{goes along with}} the idea. [[Critics]] warn that winter mornings would stay dark for much longer, which could be [[risky]] for children who walk to school. Others recall that the country tried permanent daylight time back in 1973 but gave up on it within a year. For now, Americans must wait to see whether the Senate will {{take up}} the bill.",
+          "text": "The bill now {{moves on}} to the Senate, where its future is far from clear. Not every lawmaker {{goes along with}} the idea. [[Critics]] warn that winter mornings would stay dark for much longer, which could be [[risky]] for children who walk to school. Others recall that the country tried permanent daylight time back in 1973 but gave up on it within a year. For now, Americans must wait to see whether the Senate will {{take on}} the bill.",
           "verbs": [
             {
               "display": "moves on",
@@ -1519,11 +1503,11 @@
               "correctFirst": false
             },
             {
-              "display": "take up",
-              "base": "take up",
-              "correct": "To begin to deal with or consider something",
-              "wrong": "To accept an offer that someone has made",
-              "correctFirst": false
+              "display": "take on",
+              "base": "take on",
+              "correct": "To accept and start dealing with a difficult task or responsibility",
+              "wrong": "To compete or fight against a strong opponent",
+              "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/daylight-saving-vote-2026/4.mp3"
@@ -1630,12 +1614,12 @@
           ]
         },
         {
-          "verb": "Take up",
-          "def": "To begin to deal with or consider something",
+          "verb": "Take on",
+          "def": "To accept and start dealing with a difficult task or responsibility",
           "ex": [
-            "The Senate will take up the bill next week.",
-            "The board took up the issue at its meeting.",
-            "They will take up the matter after the holidays."
+            "The Senate will take on the bill next week.",
+            "She agreed to take on more work at the office.",
+            "The team took on a difficult project this year."
           ]
         }
       ],
@@ -1825,7 +1809,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/new-york-data-centers-2026/2.mp3"
         },
         {
-          "text": "During the pause, state agencies will {{look into}} how the centers affect energy, water, and air quality. Experts will {{carry out}} a detailed environmental study before any new rules are made. The state also plans to {{set up}} guidelines so that nearby [[communities]] gain real benefits, like better local [[infrastructure]]. The moratorium only covers the largest projects, those that need 50 [[megawatts]] of power or more.",
+          "text": "During the pause, state agencies will {{look into}} how the centers affect energy, water, and air quality. Experts will {{press ahead with}} a detailed environmental study before any new rules are made. The state also plans to {{set up}} guidelines so that nearby [[communities]] gain real benefits, like better local [[infrastructure]]. The moratorium only covers the largest projects, those that need 50 [[megawatts]] of power or more.",
           "verbs": [
             {
               "display": "look into",
@@ -1835,11 +1819,11 @@
               "correctFirst": false
             },
             {
-              "display": "carry out",
-              "base": "carry out",
-              "correct": "To do or complete a task or plan",
-              "wrong": "To keep doing something in the same way as before",
-              "correctFirst": true
+              "display": "press ahead with",
+              "base": "press ahead with",
+              "correct": "To continue doing something in a determined way, especially despite difficulties",
+              "wrong": "To do something quickly and carelessly in order to save time",
+              "correctFirst": false
             },
             {
               "display": "set up",
@@ -1942,12 +1926,12 @@
           ]
         },
         {
-          "verb": "Carry out",
-          "def": "To do or complete a task or plan",
+          "verb": "Press ahead with",
+          "def": "To continue doing something in a determined way, especially despite difficulties",
           "ex": [
-            "The team carried out the plan without any problems.",
-            "Doctors carried out several tests on the patient.",
-            "They will carry out the repairs next month."
+            "The company decided to press ahead with the new project despite the risks.",
+            "They pressed ahead with the plan even after the long delay.",
+            "The government will press ahead with the reforms next year."
           ]
         },
         {
@@ -2097,7 +2081,7 @@
         {
           "s": "During the pause, state agencies will look into how the centers affect energy, water, and air.",
           "a": true,
-          "why": "Agencies will look into these effects and carry out a detailed study before any new rules are made."
+          "why": "Agencies will look into these effects and press ahead with a detailed study before any new rules are made."
         },
         {
           "s": "Many residents have spoken out because they fear higher utility bills.",
@@ -2135,7 +2119,7 @@
       ],
       "chunks": [
         {
-          "text": "Every year on July 14, France celebrates Bastille Day, the country's national day. This year, France {{put on}} its yearly [[military]] parade down the famous Champs-Élysées [[avenue]] in Paris. Soldiers, tanks, and planes moved slowly along the wide street while huge crowds {{turned out}} to watch. The holiday {{looks back}} at a key moment in French history and gives the whole nation a chance to feel proud.",
+          "text": "Every year on July 14, France celebrates Bastille Day, the country's national day. This year, France {{put on}} its yearly [[military]] parade down the famous Champs-Élysées [[avenue]] in Paris. Soldiers, tanks, and planes moved slowly along the wide street while huge crowds {{turned up}} to watch. The holiday {{looks back}} at a key moment in French history and gives the whole nation a chance to feel proud.",
           "verbs": [
             {
               "display": "put on",
@@ -2145,11 +2129,11 @@
               "correctFirst": false
             },
             {
-              "display": "turned out",
-              "base": "turn out",
-              "correct": "To come or appear somewhere, especially in large numbers",
-              "wrong": "To make or produce something in large amounts",
-              "correctFirst": true
+              "display": "turned up",
+              "base": "turn up",
+              "correct": "To arrive or come to a place, especially in large numbers",
+              "wrong": "To be found by chance after having been lost",
+              "correctFirst": false
             },
             {
               "display": "looks back",
@@ -2254,12 +2238,12 @@
           ]
         },
         {
-          "verb": "Turn out",
-          "def": "To come or appear somewhere, especially in large numbers",
+          "verb": "Turn up",
+          "def": "To arrive or come to a place, especially in large numbers",
           "ex": [
-            "Thousands of fans turned out to see the band.",
-            "Many people turn out to vote every year.",
-            "A huge crowd turned out for the free show."
+            "Thousands of fans turned up to see the band.",
+            "Many people turn up early to get good seats.",
+            "A huge crowd turned up for the free show."
           ]
         },
         {
@@ -2436,9 +2420,9 @@
           "why": "It was his last Bastille Day parade before he steps down as president next year."
         },
         {
-          "s": "Only a few people turned out to watch the parade.",
+          "s": "Only a few people turned up to watch the parade.",
           "a": false,
-          "why": "Huge crowds turned out to watch the parade along the Champs-Élysées."
+          "why": "Huge crowds turned up to watch the parade along the Champs-Élysées."
         },
         {
           "s": "Zelenskyy looked on from a special stand as a guest of honor.",
@@ -2503,14 +2487,14 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cannabis-dementia-medicine-2026/1.mp3"
         },
         {
-          "text": "The study, called the LiBBY trial, was {{carried out}} on about 120 people whose dementia was very advanced. Their average age was 80, and most were eligible for [[hospice]] care. Nurses {{handed out}} the medicine as a fast-acting oil that patients could swallow. For 12 weeks, the team {{kept track of}} how each person's [[behavior]] and mood changed.",
+          "text": "The researchers {{went about}} the LiBBY trial with great care, testing about 120 people whose dementia was very advanced. Their average age was 80, and most were eligible for [[hospice]] care. Nurses {{handed out}} the medicine as a fast-acting oil that patients could swallow. For 12 weeks, the team {{kept track of}} how each person's [[behavior]] and mood changed.",
           "verbs": [
             {
-              "display": "carried out",
-              "base": "carry out",
-              "correct": "To do or perform a planned task or study",
-              "wrong": "To make plans for a future task",
-              "correctFirst": true
+              "display": "went about",
+              "base": "go about",
+              "correct": "To begin or deal with a task in a particular way",
+              "wrong": "To travel or move around from place to place",
+              "correctFirst": false
             },
             {
               "display": "handed out",
@@ -2530,7 +2514,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cannabis-dementia-medicine-2026/2.mp3"
         },
         {
-          "text": "The results {{turned out}} to be very strong. Close to 90 percent of the patients on the medicine got better, while far fewer improved on a [[placebo]]. That large gap made the study {{stand out}} to other researchers. One lead doctor said it is rare to see so many patients [[respond]] so well to a new drug.",
+          "text": "The results {{turned out}} to be very strong. Close to 90 percent of the patients on the medicine got better, while far fewer improved on a [[placebo]]. That large gap made the study {{jump out}} at other researchers. One lead doctor said it is rare to see so many patients [[respond]] so well to a new drug.",
           "verbs": [
             {
               "display": "turned out",
@@ -2540,24 +2524,24 @@
               "correctFirst": false
             },
             {
-              "display": "stand out",
-              "base": "stand out",
-              "correct": "To be easily noticed as special or important",
-              "wrong": "To cause strong disagreement among people",
+              "display": "jump out",
+              "base": "jump out",
+              "correct": "To be immediately noticeable or obvious",
+              "wrong": "To suddenly appear and surprise someone",
               "correctFirst": true
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cannabis-dementia-medicine-2026/3.mp3"
         },
         {
-          "text": "Still, the researchers {{point out}} that this is a controlled medical treatment, not the same as [[recreational]] cannabis products sold in stores. The medicine was made in a lab and given under close [[supervision]]. Side effects were mild, and doctors could not {{rule out}} that some were caused by the illness itself. As they {{look ahead}}, the team hopes larger trials will confirm these hopeful results.",
+          "text": "Still, the researchers {{spell out}} that this is a controlled medical treatment, not the same as [[recreational]] cannabis products sold in stores. The medicine was made in a lab and given under close [[supervision]]. Side effects were mild, and doctors could not {{rule out}} that some were caused by the illness itself. As they {{look ahead}}, the team hopes larger trials will confirm these hopeful results.",
           "verbs": [
             {
-              "display": "point out",
-              "base": "point out",
-              "correct": "To tell people about an important fact",
-              "wrong": "To argue strongly against an idea",
-              "correctFirst": false
+              "display": "spell out",
+              "base": "spell out",
+              "correct": "To explain something clearly and in detail",
+              "wrong": "To say the letters of a word one by one",
+              "correctFirst": true
             },
             {
               "display": "rule out",
@@ -2606,12 +2590,12 @@
           ]
         },
         {
-          "verb": "Carry out",
-          "def": "To do or perform a planned task or study",
+          "verb": "Go about",
+          "def": "To begin or deal with a task in a particular way",
           "ex": [
-            "Scientists carried out the experiment twice.",
-            "The team will carry out the plan tomorrow.",
-            "They carried out a survey of the town."
+            "She knew just how to go about the job.",
+            "They went about the repairs with great care.",
+            "He was not sure how to go about it."
           ]
         },
         {
@@ -2642,21 +2626,21 @@
           ]
         },
         {
-          "verb": "Stand out",
-          "def": "To be easily noticed as special or important",
+          "verb": "Jump out",
+          "def": "To be immediately noticeable or obvious",
           "ex": [
-            "Her bright coat made her stand out.",
-            "One answer stood out from the rest.",
-            "His talent stands out in the group."
+            "One name jumped out at me from the long list.",
+            "The bold title jumps out on the page.",
+            "A single mistake jumped out at the teacher."
           ]
         },
         {
-          "verb": "Point out",
-          "def": "To tell people about an important fact",
+          "verb": "Spell out",
+          "def": "To explain something clearly and in detail",
           "ex": [
-            "She pointed out a mistake in the report.",
-            "He pointed out that the store was closed.",
-            "The guide pointed out the oldest building."
+            "The teacher spelled out the rules for the class.",
+            "Please spell out exactly what you need.",
+            "The manager spelled out the plan step by step."
           ]
         },
         {
@@ -2774,9 +2758,9 @@
           "why": "The story says nurses handed out the medicine as a fast-acting oil for patients to swallow."
         },
         {
-          "s": "The researchers point out that this is a controlled treatment, not recreational cannabis.",
+          "s": "The researchers spell out that this is a controlled treatment, not recreational cannabis.",
           "a": true,
-          "why": "They point out that the medicine is a controlled medical treatment, not the same as recreational cannabis products."
+          "why": "They spell out that the medicine is a controlled medical treatment, not the same as recreational cannabis products."
         },
         {
           "s": "The medicine calmed down only a very small number of patients.",
@@ -2836,15 +2820,8 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/lindsey-graham-dies-2026/1.mp3"
         },
         {
-          "text": "At first, doctors were not sure what had happened. Later, a medical examiner {{pointed to}} a problem called an aortic [[dissection]], which is a serious tear in the body's main blood [[vessel]]. This kind of illness can {{come on}} very fast and give almost no warning. Only two days earlier, Graham had {{flown back}} from a trip to Ukraine, where he had met the country's leader.",
+          "text": "At first, doctors were not sure what had happened. Later, a medical examiner pointed to a problem called an aortic [[dissection]], which is a serious tear in the body's main blood [[vessel]]. This kind of illness can {{come on}} very fast and give almost no warning. Only two days earlier, Graham had {{flown back}} from a trip to Ukraine, where he had met the country's leader.",
           "verbs": [
-            {
-              "display": "pointed to",
-              "base": "point to",
-              "correct": "To suggest something as the likely cause or reason",
-              "wrong": "To show or mention something so that others notice it",
-              "correctFirst": false
-            },
             {
               "display": "come on",
               "base": "come on",
@@ -2943,15 +2920,6 @@
             "His grades went downhill after he stopped studying.",
             "The old house has gone downhill over the years.",
             "Her health went downhill during the cold winter."
-          ]
-        },
-        {
-          "verb": "Point to",
-          "def": "To suggest something as the likely cause or reason",
-          "ex": [
-            "The evidence points to a small mistake in the plan.",
-            "All the signs pointed to bad weather ahead.",
-            "The report points to money as the main problem."
           ]
         },
         {
@@ -3108,9 +3076,9 @@
           "why": "The story says Graham passed away on Saturday evening at the age of 71."
         },
         {
-          "s": "A medical examiner pointed to a car accident as the cause of Graham's death.",
+          "s": "Doctors say Graham came down with a mild illness and soon made a full recovery.",
           "a": false,
-          "why": "The medical examiner pointed to an aortic dissection, not a car accident."
+          "why": "False. Graham came down with a serious illness and passed away; he did not recover."
         },
         {
           "s": "Graham had just flown back from a trip to Canada.",
@@ -3185,14 +3153,14 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/exercise-heart-nerves-2026/1.mp3"
         },
         {
-          "text": "To find these changes, the team {{carried out}} a study on rats. The animals {{worked out}} on a regular plan for ten weeks, a bit like a person going to the gym. Using powerful 3D imaging, the scientists could {{zoom in}} on small [[clusters]] of nerve cells near the heart. These cells act like a [[dimmer]] switch that turns the heartbeat up or down.",
+          "text": "To find these changes, the team {{set about}} a study on rats. The animals {{worked out}} on a regular plan for ten weeks, a bit like a person going to the gym. Using powerful 3D imaging, the scientists could {{zoom in}} on small [[clusters]] of nerve cells near the heart. These cells act like a [[dimmer]] switch that turns the heartbeat up or down.",
           "verbs": [
             {
-              "display": "carried out",
-              "base": "carry out",
-              "correct": "To do or complete a planned task or study",
-              "wrong": "To plan and prepare something in advance",
-              "correctFirst": false
+              "display": "set about",
+              "base": "set about",
+              "correct": "To start doing a task in a determined way",
+              "wrong": "To do a task in a particular, careful way",
+              "correctFirst": true
             },
             {
               "display": "worked out",
@@ -3212,7 +3180,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/exercise-heart-nerves-2026/2.mp3"
         },
         {
-          "text": "The results {{turned out}} to be very unusual. On the right side of the heart, the trained rats {{ended up}} with about four times more [[neurons]], the special cells that carry nerve signals. On the left side, the number of cells stayed the same, but each one nearly doubled in size. Exercise did not shape the two sides in the same way, and that difference [[intrigued]] the scientists.",
+          "text": "The results {{turned out}} to be very unusual. On the right side of the heart, the trained rats {{wound up with}} about four times more [[neurons]], the special cells that carry nerve signals. On the left side, the number of cells stayed the same, but each one nearly doubled in size. Exercise did not shape the two sides in the same way, and that difference [[intrigued]] the scientists.",
           "verbs": [
             {
               "display": "turned out",
@@ -3222,17 +3190,17 @@
               "correctFirst": true
             },
             {
-              "display": "ended up",
-              "base": "end up",
-              "correct": "To finally be in a certain state or situation",
-              "wrong": "To reach a goal after a lot of effort",
+              "display": "wound up with",
+              "base": "wind up with",
+              "correct": "To finally have something as a result",
+              "wrong": "To deliberately gather a large amount of something over time",
               "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/exercise-heart-nerves-2026/3.mp3"
         },
         {
-          "text": "The team hopes these findings will {{open up}} new ways to treat heart problems. Doctors already work on these nerves to calm a racing heart, and knowing which side to {{focus on}} could make the treatment far better. This could help people with [[arrhythmias]], chest pain, and other conditions. For now the work is at an early stage, so scientists must {{follow up}} with studies in humans before any [[therapy]] is ready.",
+          "text": "The team hopes these findings will {{open up}} new ways to treat heart problems. Doctors already work on these nerves to calm a racing heart, and knowing which side to focus on could make the treatment far better. This could help people with [[arrhythmias]], chest pain, and other conditions. For now the work is at an early stage, so scientists must {{follow up}} with studies in humans before any [[therapy]] is ready.",
           "verbs": [
             {
               "display": "open up",
@@ -3240,13 +3208,6 @@
               "correct": "To create new chances or possibilities",
               "wrong": "To make an existing treatment work faster",
               "correctFirst": true
-            },
-            {
-              "display": "focus on",
-              "base": "focus on",
-              "correct": "To give special attention to one thing",
-              "wrong": "To spend time repairing or improving something",
-              "correctFirst": false
             },
             {
               "display": "follow up",
@@ -3288,12 +3249,12 @@
           ]
         },
         {
-          "verb": "Carry out",
-          "def": "To do or complete a planned task or study",
+          "verb": "Set about",
+          "def": "To start doing a task in a determined way",
           "ex": [
-            "The team carried out a series of tests.",
-            "Doctors carry out this operation every day.",
-            "We will carry out the survey next month."
+            "She set about the task as soon as she arrived.",
+            "They set about cleaning the whole house.",
+            "He set about the repairs without any delay."
           ]
         },
         {
@@ -3324,12 +3285,12 @@
           ]
         },
         {
-          "verb": "End up",
-          "def": "To finally be in a certain state or situation",
+          "verb": "Wind up with",
+          "def": "To finally have something as a result",
           "ex": [
-            "We ended up staying home all day.",
-            "He ended up as the team leader.",
-            "They ended up with more money than expected."
+            "We wound up with more work than we expected.",
+            "If you rush, you might wind up with a mess.",
+            "They wound up with a much bigger team than planned."
           ]
         },
         {
@@ -3339,15 +3300,6 @@
             "This job could open up new chances for you.",
             "The new road opened up the whole region.",
             "Learning English opened up many doors for her."
-          ]
-        },
-        {
-          "verb": "Focus on",
-          "def": "To give special attention to one thing",
-          "ex": [
-            "Let's focus on the main problem first.",
-            "She focuses on her health these days.",
-            "The study focused on older patients."
           ]
         },
         {
@@ -3433,14 +3385,14 @@
           "why": "Exercise also reshapes the tiny nerves that take care of the heart's rhythm, not just the muscle."
         },
         {
-          "s": "The team carried out their study on rats over a ten-week period.",
+          "s": "The team set about their study by training rats for ten weeks.",
           "a": true,
-          "why": "The rats worked out on a regular plan for ten weeks during the study."
+          "why": "The team set about a study in which the rats worked out on a regular plan for ten weeks."
         },
         {
-          "s": "On the right side of the heart, the trained rats ended up with about four times more nerve cells.",
+          "s": "On the right side of the heart, the trained rats wound up with about four times more nerve cells.",
           "a": true,
-          "why": "The story says the trained rats ended up with roughly four times more neurons on the right side."
+          "why": "The story says the trained rats wound up with roughly four times more neurons on the right side."
         },
         {
           "s": "Doctors can already follow up the exercise study with a finished human treatment today.",
@@ -3483,7 +3435,7 @@
       ],
       "chunks": [
         {
-          "text": "Doctors have long wondered how people can keep their minds sharp as they grow older. Now, a large study across Latin America has {{set out}} to answer that question. Scientists {{teamed up}} with older adults in 11 countries and {{carried out}} a two year program to protect memory and slow mental [[decline]]. The results were shared at a major [[dementia]] conference in July 2026.",
+          "text": "Doctors have long wondered how people can keep their minds sharp as they grow older. Now, a large study across Latin America has {{set out}} to answer that question. Scientists {{teamed up}} with older adults in 11 countries and {{rolled out}} a two year program to protect memory and slow mental [[decline]]. The results were shared at a major [[dementia]] conference in July 2026.",
           "verbs": [
             {
               "display": "set out",
@@ -3500,10 +3452,10 @@
               "correctFirst": false
             },
             {
-              "display": "carried out",
-              "base": "carry out",
-              "correct": "To do or complete a planned task",
-              "wrong": "To plan something carefully before it begins",
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To introduce a new plan or program",
+              "wrong": "To explain every part of a plan in detail",
               "correctFirst": false
             }
           ],
@@ -3611,12 +3563,12 @@
           ]
         },
         {
-          "verb": "Carry out",
-          "def": "To do or complete a planned task",
+          "verb": "Roll out",
+          "def": "To introduce a new plan or program",
           "ex": [
-            "The workers carried out the repairs quickly.",
-            "Scientists carry out tests before selling a drug.",
-            "They carried out the plan without any problems."
+            "The company will roll out a new phone next month.",
+            "They rolled out the program in ten schools.",
+            "The city plans to roll out free buses this year."
           ]
         },
         {
@@ -3777,9 +3729,9 @@
       ],
       "tf": [
         {
-          "s": "Scientists carried out the study in 11 Latin American countries.",
+          "s": "Scientists rolled out a two year program in 11 Latin American countries.",
           "a": true,
-          "why": "The study was carried out across 11 countries in Latin America."
+          "why": "Scientists rolled out the program across 11 countries in Latin America."
         },
         {
           "s": "Adults in the lighter group often fell behind on memory tests.",
@@ -3886,7 +3838,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/giant-telescope-first-turn-2026/2.mp3"
         },
         {
-          "text": "The numbers behind the project are hard to imagine. Right now, the metal parts {{add up to}} about 3,500 metric tons. That weight will {{go up}} to more than 4,600 metric tons once the mirrors and science [[instruments]] are in place. Because the whole thing can turn, the telescope will be able to {{point at}} any area of the sky and study faraway [[galaxies]].",
+          "text": "The numbers behind the project are hard to imagine. Right now, the metal parts {{add up to}} about 3,500 metric tons. That weight will {{go up}} to more than 4,600 metric tons once the mirrors and science [[instruments]] are in place. Because the whole thing can turn, the telescope will be able to point at any area of the sky and study faraway [[galaxies]].",
           "verbs": [
             {
               "display": "add up to",
@@ -3900,13 +3852,6 @@
               "base": "go up",
               "wrong": "To rise above and pass a fixed limit",
               "correct": "To rise or become higher in amount",
-              "correctFirst": false
-            },
-            {
-              "display": "point at",
-              "base": "point at",
-              "wrong": "To show or mention something so that others notice it",
-              "correct": "To aim something toward a particular direction",
               "correctFirst": false
             }
           ],
@@ -4011,15 +3956,6 @@
             "House prices went up again this year.",
             "The temperature will go up tomorrow afternoon.",
             "Ticket costs have gone up since last summer."
-          ]
-        },
-        {
-          "verb": "Point at",
-          "def": "To aim something toward a particular direction",
-          "ex": [
-            "She pointed at the map to show the way.",
-            "Do not point at people; it is rude.",
-            "The guide pointed at the tall mountain ahead."
           ]
         },
         {
@@ -4143,9 +4079,9 @@
           "why": "The story says the structure is held up by a layer of oil only 80 microns thin."
         },
         {
-          "s": "Once finished, the telescope will only be able to point at one fixed spot in the sky.",
+          "s": "The telescope's main mirror will be made up of a single giant piece of glass.",
           "a": false,
-          "why": "Because the whole thing can turn, the telescope will be able to point at any area of the sky."
+          "why": "False. The mirror will be made up of 798 separate segments of special glass."
         }
       ]
     },
@@ -4200,7 +4136,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/multilingual-brain-aging-2026/1.mp3"
         },
         {
-          "text": "The researchers used a form of [[artificial intelligence]] to {{work out}} each person's 'brain age' from patterns of brain [[connectivity]]. They {{looked at}} 144 people in the Basque region who spoke between one and four languages, such as Spanish, Basque, French, and English. As the number of languages grew, the brains appeared younger and younger. People who spoke two languages had brains that seemed about six years younger, while those who spoke four {{ended up}} with brains that looked around thirteen years younger.",
+          "text": "The researchers used a form of [[artificial intelligence]] to {{work out}} each person's 'brain age' from patterns of brain [[connectivity]]. They looked at 144 people in the Basque region who spoke between one and four languages, such as Spanish, Basque, French, and English. As the number of languages grew, the brains appeared younger and younger. People who spoke two languages had brains that seemed about six years younger, while those who spoke four {{ended up}} with brains that looked around thirteen years younger.",
           "verbs": [
             {
               "display": "work out",
@@ -4208,13 +4144,6 @@
               "correct": "To calculate or figure something out",
               "wrong": "To guess an answer without any real evidence",
               "correctFirst": true
-            },
-            {
-              "display": "looked at",
-              "base": "look at",
-              "correct": "To examine or study something carefully",
-              "wrong": "To quickly glance at something without much thought",
-              "correctFirst": false
             },
             {
               "display": "ended up",
@@ -4316,15 +4245,6 @@
             "Can you work out how much we owe?",
             "She worked out the answer in her head.",
             "It took me a while to work out the problem."
-          ]
-        },
-        {
-          "verb": "Look at",
-          "def": "To examine or study something carefully",
-          "ex": [
-            "The doctor looked at the results closely.",
-            "Let's look at the numbers before we decide.",
-            "She looked at the map to find the road."
           ]
         },
         {
@@ -4459,9 +4379,9 @@
       ],
       "tf": [
         {
-          "s": "The researchers looked at 144 people in the Basque region who spoke between one and four languages.",
+          "s": "The team set out to test whether knowing more than one language can slow brain aging.",
           "a": true,
-          "why": "The study examined 144 multilingual people in the Basque region of Spain."
+          "why": "Correct. The researchers set out to test whether speaking several languages slows this kind of aging."
         },
         {
           "s": "People who spoke four languages ended up with brains that looked older than their real age.",
@@ -4568,15 +4488,8 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/kids-social-media-limits-2026/2.mp3"
         },
         {
-          "text": "People who support the rules {{point to}} studies that connect heavy app use with worse mental health among teenagers. They argue that the apps are built to {{draw in}} young users and keep them scrolling for hours. To deal with this, the EU may make companies {{turn off}} features like [[autoplay]] and endless scrolling. Many parents also worry about the [[anxiety]] and lost sleep that come with constant use.",
+          "text": "People who support the rules point to studies that connect heavy app use with worse mental health among teenagers. They argue that the apps are built to {{draw in}} young users and keep them scrolling for hours. To deal with this, the EU may make companies {{turn off}} features like [[autoplay]] and endless scrolling. Many parents also worry about the [[anxiety]] and lost sleep that come with constant use.",
           "verbs": [
-            {
-              "display": "point to",
-              "base": "point to",
-              "correct": "To mention something as evidence or proof",
-              "wrong": "To suggest what is likely to happen in the future",
-              "correctFirst": true
-            },
             {
               "display": "draw in",
               "base": "draw in",
@@ -4675,15 +4588,6 @@
             "She heads up the marketing team.",
             "A famous scientist will head up the new center.",
             "He headed up the project for three years."
-          ]
-        },
-        {
-          "verb": "Point to",
-          "def": "To mention something as evidence or proof",
-          "ex": [
-            "Doctors point to studies about healthy eating.",
-            "She pointed to the numbers to prove her case.",
-            "Critics point to the many mistakes in the report."
           ]
         },
         {
@@ -4810,9 +4714,9 @@
           "why": "The ban would be for children under 13. After that age, teenagers would gradually be allowed to join once platforms are safer."
         },
         {
-          "s": "Supporters of the rules point to studies showing that social media improves teens' mental health.",
+          "s": "Under the plan, children under 13 could still freely sign up for any social media app.",
           "a": false,
-          "why": "Supporters point to studies that connect heavy app use with worse mental health, not better."
+          "why": "False. Under the new idea, children under 13 would not be able to sign up for social media at all."
         },
         {
           "s": "Ursula von der Leyen heads up the European Commission.",
@@ -4909,7 +4813,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/detroit-zoo-gorilla-2026/2.mp3"
         },
         {
-          "text": "The new baby is a western lowland gorilla, a [[species]] that is critically [[endangered]] in the wild. Their numbers have {{fallen off}} sharply because of hunting and lost forests. Zoos across the country {{team up}} through a special breeding program to help the [[population]] grow. Each new birth {{adds to}} the genetic [[diversity]] that these animals need to survive.",
+          "text": "The new baby is a western lowland gorilla, a [[species]] that is critically [[endangered]] in the wild. Their numbers have {{fallen off}} sharply because of hunting and lost forests. Zoos across the country {{team up}} through a special breeding program to help the [[population]] grow. Each new birth adds to the genetic [[diversity]] that these animals need to survive.",
           "verbs": [
             {
               "display": "fallen off",
@@ -4924,19 +4828,12 @@
               "correct": "To join with others to work toward a shared goal",
               "wrong": "To compete against one another in a contest",
               "correctFirst": true
-            },
-            {
-              "display": "adds to",
-              "base": "add to",
-              "correct": "To make something larger or greater",
-              "wrong": "To agree with something that was already said",
-              "correctFirst": false
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/detroit-zoo-gorilla-2026/3.mp3"
         },
         {
-          "text": "The zoo has not yet decided when visitors can {{drop by}} to meet the baby. Keepers do not want to {{rush into}} anything, and the timing will {{depend on}} what Tulivu needs as a new mother. For now, the family is {{settling in}} behind the scenes at the Great Apes of Harambee building. The baby is a half-sister to Motema, another young gorilla born at the zoo in 2024.",
+          "text": "The zoo has not yet decided when visitors can {{drop by}} to meet the baby. Keepers do not want to rush into anything, and the timing will depend on what Tulivu needs as a new mother. For now, the family is {{settling in}} behind the scenes at the Great Apes of Harambee building. The baby is a half-sister to Motema, another young gorilla born at the zoo in 2024.",
           "verbs": [
             {
               "display": "drop by",
@@ -4944,20 +4841,6 @@
               "correct": "To visit a place for a short time",
               "wrong": "To leave a place quietly without saying goodbye",
               "correctFirst": true
-            },
-            {
-              "display": "rush into",
-              "base": "rush into",
-              "correct": "To do something too quickly without careful thought",
-              "wrong": "To run inside a building to escape danger",
-              "correctFirst": false
-            },
-            {
-              "display": "depend on",
-              "base": "depend on",
-              "correct": "To be decided or affected by something else",
-              "wrong": "To trust someone to give you help",
-              "correctFirst": false
             },
             {
               "display": "settling in",
@@ -5044,39 +4927,12 @@
           ]
         },
         {
-          "verb": "Add to",
-          "def": "To make something larger or greater",
-          "ex": [
-            "The bad weather added to our problems.",
-            "Each gift added to the growing pile.",
-            "Her kind words added to his confidence."
-          ]
-        },
-        {
           "verb": "Drop by",
           "def": "To visit a place for a short time",
           "ex": [
             "Feel free to drop by my office anytime.",
             "She dropped by to say hello on her way home.",
             "We dropped by the store for some milk."
-          ]
-        },
-        {
-          "verb": "Rush into",
-          "def": "To do something too quickly without careful thought",
-          "ex": [
-            "Do not rush into buying the first car you see.",
-            "They rushed into the deal and later regretted it.",
-            "He rushed into marriage after only a month."
-          ]
-        },
-        {
-          "verb": "Depend on",
-          "def": "To be decided or affected by something else",
-          "ex": [
-            "Our trip depends on the weather.",
-            "The price depends on how many you buy.",
-            "Whether we go out depends on the time."
           ]
         },
         {
@@ -5180,9 +5036,9 @@
           "why": "The story says their numbers have fallen off sharply because of hunting and lost forests."
         },
         {
-          "s": "The zoo wants to rush into letting visitors meet the baby right away.",
+          "s": "Visitors can already drop by the zoo today to meet the new baby gorilla.",
           "a": false,
-          "why": "False. Keepers do not want to rush into anything, and the timing will depend on what Tulivu needs."
+          "why": "False. The zoo has not yet decided when visitors can drop by to meet the baby."
         },
         {
           "s": "Zoos across the country team up through a breeding program to help gorillas.",
