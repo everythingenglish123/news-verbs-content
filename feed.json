@@ -30,7 +30,7 @@
             {
               "display": "digging into",
               "base": "dig into",
-              "correct": "To search deeply for the facts about a problem or topic",
+              "correct": "To search deeply for the facts about a topic",
               "wrong": "To criticize or attack a person with harsh words",
               "correctFirst": false
             },
@@ -44,7 +44,7 @@
             {
               "display": "panned out",
               "base": "pan out",
-              "correct": "To develop and result in a particular way, often successfully",
+              "correct": "To develop and result in a particular way",
               "wrong": "To happen or unfold slowly over a period of time",
               "correctFirst": true
             }
@@ -57,21 +57,21 @@
             {
               "display": "suss out",
               "base": "suss out",
-              "correct": "To discover or figure something out by thinking carefully",
+              "correct": "To discover or figure something out by thinking",
               "wrong": "To pick one thing out from a larger group of choices",
               "correctFirst": false
             },
             {
               "display": "gone through",
               "base": "go through",
-              "correct": "To look at or read something carefully from start to finish",
+              "correct": "To read or examine something carefully in full",
               "wrong": "To quickly search something to find one hidden item",
               "correctFirst": false
             },
             {
               "display": "cash in on",
               "base": "cash in on",
-              "correct": "To use a situation to make money or gain an advantage",
+              "correct": "To use a situation to make money or profit",
               "wrong": "To exchange something like a ticket for money",
               "correctFirst": true
             }
@@ -91,15 +91,15 @@
             {
               "display": "handed over",
               "base": "hand over",
-              "correct": "To give something or someone to another person in charge",
+              "correct": "To give something or someone to another person",
               "wrong": "To turn in a finished piece of work to a boss",
               "correctFirst": false
             },
             {
               "display": "closed down",
               "base": "close down",
-              "correct": "To stop a business, service, or account from operating",
-              "wrong": "To briefly pause something and then start it up again",
+              "correct": "To stop a business or service from operating",
+              "wrong": "To briefly pause something and start it again",
               "correctFirst": true
             }
           ],
@@ -136,7 +136,7 @@
       "vocab": [
         {
           "verb": "Dig into",
-          "def": "To search deeply for the facts about a problem or topic",
+          "def": "To search deeply for the facts about a topic",
           "ex": [
             "Reporters dug into the company's secret deals.",
             "The team will dig into the cause of the crash.",
@@ -154,7 +154,7 @@
         },
         {
           "verb": "Pan out",
-          "def": "To develop and result in a particular way, often successfully",
+          "def": "To develop and result in a particular way",
           "ex": [
             "We hoped the plan would pan out well.",
             "Her risky idea panned out better than expected.",
@@ -163,7 +163,7 @@
         },
         {
           "verb": "Suss out",
-          "def": "To discover or figure something out by thinking carefully",
+          "def": "To discover or figure something out by thinking",
           "ex": [
             "I need to suss out how this machine works.",
             "She quickly sussed out the best route to the airport.",
@@ -172,7 +172,7 @@
         },
         {
           "verb": "Go through",
-          "def": "To look at or read something carefully from start to finish",
+          "def": "To read or examine something carefully in full",
           "ex": [
             "Please go through the report before the meeting.",
             "He went through every page of the contract.",
@@ -181,7 +181,7 @@
         },
         {
           "verb": "Cash in on",
-          "def": "To use a situation to make money or gain an advantage",
+          "def": "To use a situation to make money or profit",
           "ex": [
             "The store cashed in on the busy holiday season.",
             "He tried to cash in on the sudden fame.",
@@ -199,7 +199,7 @@
         },
         {
           "verb": "Hand over",
-          "def": "To give something or someone to another person in charge",
+          "def": "To give something or someone to another person",
           "ex": [
             "The guard handed over the keys to his boss.",
             "Please hand over your ticket at the door.",
@@ -208,7 +208,7 @@
         },
         {
           "verb": "Close down",
-          "def": "To stop a business, service, or account from operating",
+          "def": "To stop a business or service from operating",
           "ex": [
             "The city closed down the old factory last year.",
             "Officials may close down the shop for safety reasons.",
@@ -433,7 +433,7 @@
               "display": "bring back",
               "base": "bring back",
               "wrong": "To carry something home with you from a trip",
-              "correct": "To make something work or exist again after it stopped",
+              "correct": "To make something work or exist again",
               "correctFirst": false
             }
           ],
@@ -446,7 +446,7 @@
               "display": "log on",
               "base": "log on",
               "wrong": "To switch on a computer or phone",
-              "correct": "To connect and sign in to a computer system or the internet",
+              "correct": "To sign in to a computer system",
               "correctFirst": true
             },
             {
@@ -460,7 +460,7 @@
               "display": "put up with",
               "base": "put up with",
               "wrong": "To get ready for a hard time that is coming",
-              "correct": "To accept something difficult or unpleasant without complaining",
+              "correct": "To accept something unpleasant without complaining",
               "correctFirst": true
             }
           ],
@@ -533,7 +533,7 @@
         },
         {
           "verb": "Bring back",
-          "def": "To make something work or exist again after it stopped",
+          "def": "To make something work or exist again",
           "ex": [
             "The crews worked hard to bring back power.",
             "The city wants to bring back its old tram line.",
@@ -542,7 +542,7 @@
         },
         {
           "verb": "Log on",
-          "def": "To connect and sign in to a computer system or the internet",
+          "def": "To sign in to a computer system",
           "ex": [
             "I could not log on to the website.",
             "She logs on every morning to check her email.",
@@ -560,7 +560,7 @@
         },
         {
           "verb": "Put up with",
-          "def": "To accept something difficult or unpleasant without complaining",
+          "def": "To accept something unpleasant without complaining",
           "ex": [
             "She puts up with a long drive to work.",
             "I cannot put up with this noise anymore.",
@@ -703,14 +703,14 @@
             {
               "display": "turn off",
               "base": "turn off",
-              "correct": "To stop a machine or feature from working, using a switch or setting",
-              "wrong": "To lower the volume or strength of something without stopping it",
+              "correct": "To stop a machine or feature from working",
+              "wrong": "To lower the volume or strength of something",
               "correctFirst": false
             },
             {
               "display": "reel in",
               "base": "reel in",
-              "correct": "To attract someone and gradually pull them into something",
+              "correct": "To attract someone and pull them into something",
               "wrong": "To bring something under control and limit it",
               "correctFirst": true
             }
@@ -737,7 +737,7 @@
             {
               "display": "keep out",
               "base": "keep out",
-              "correct": "To stop someone from entering or taking part in something",
+              "correct": "To stop someone from entering or taking part",
               "wrong": "To set special rules for one group of people",
               "correctFirst": false
             }
@@ -757,7 +757,7 @@
             {
               "display": "grown attached to",
               "base": "grow attached to",
-              "correct": "To develop a strong emotional connection to someone or something",
+              "correct": "To develop a strong emotional bond with someone or something",
               "wrong": "To slowly start to rely on something and be unable to stop",
               "correctFirst": false,
               "kind": "expression"
@@ -785,7 +785,7 @@
             {
               "display": "taking advantage of",
               "base": "take advantage of",
-              "correct": "To unfairly use someone's weakness for your own benefit",
+              "correct": "To unfairly use someone's weakness for gain",
               "wrong": "To make good use of a helpful opportunity",
               "correctFirst": false,
               "kind": "expression"
@@ -793,8 +793,8 @@
             {
               "display": "make up for",
               "base": "make up for",
-              "correct": "To replace something good that is missing, or to compensate for a loss",
-              "wrong": "To completely replace something and be exactly as good as it",
+              "correct": "To do something good to balance out a loss",
+              "wrong": "To replace something and be exactly as good",
               "correctFirst": true
             }
           ],
@@ -813,7 +813,7 @@
         },
         {
           "verb": "Turn off",
-          "def": "To stop a machine or feature from working, using a switch or setting",
+          "def": "To stop a machine or feature from working",
           "ex": [
             "Please turn off the lights when you leave.",
             "She turned off the alarm and went back to sleep.",
@@ -822,7 +822,7 @@
         },
         {
           "verb": "Reel in",
-          "def": "To attract someone and gradually pull them into something",
+          "def": "To attract someone and pull them into something",
           "ex": [
             "The bright signs reel in tourists every night.",
             "The store used free samples to reel in customers.",
@@ -849,7 +849,7 @@
         },
         {
           "verb": "Keep out",
-          "def": "To stop someone from entering or taking part in something",
+          "def": "To stop someone from entering or taking part",
           "ex": [
             "A tall fence keeps out wild animals.",
             "The sign told visitors to keep out.",
@@ -867,7 +867,7 @@
         },
         {
           "verb": "Grow attached to",
-          "def": "To develop a strong emotional connection to someone or something",
+          "def": "To develop a strong emotional bond with someone or something",
           "ex": [
             "Children often grow attached to their toys.",
             "He grew attached to the old house over the years.",
@@ -895,7 +895,7 @@
         },
         {
           "verb": "Take advantage of",
-          "def": "To unfairly use someone's weakness for your own benefit",
+          "def": "To unfairly use someone's weakness for gain",
           "ex": [
             "Scammers take advantage of trusting people.",
             "The company took advantage of its workers.",
@@ -905,7 +905,7 @@
         },
         {
           "verb": "Make up for",
-          "def": "To replace something good that is missing, or to compensate for a loss",
+          "def": "To do something good to balance out a loss",
           "ex": [
             "He bought flowers to make up for being late.",
             "Nothing can make up for lost time.",
@@ -1443,7 +1443,7 @@
             {
               "display": "make use of",
               "base": "make use of",
-              "correct": "To use something that is available for a good purpose",
+              "correct": "To use something that is available to you",
               "wrong": "To enjoy something in your free time",
               "correctFirst": false,
               "kind": "expression"
@@ -1459,7 +1459,7 @@
             {
               "display": "throw off",
               "base": "throw off",
-              "correct": "To disturb or upset something so it stops working normally",
+              "correct": "To disturb or upset how something works",
               "wrong": "To make someone feel very tired",
               "correctFirst": true
             }
@@ -1513,7 +1513,7 @@
             {
               "display": "take on",
               "base": "take on",
-              "correct": "To accept and start dealing with a difficult task or responsibility",
+              "correct": "To accept and start dealing with a hard task",
               "wrong": "To compete or fight against a strong opponent",
               "correctFirst": true
             }
@@ -1551,7 +1551,7 @@
         },
         {
           "verb": "Make use of",
-          "def": "To use something that is available for a good purpose",
+          "def": "To use something that is available to you",
           "ex": [
             "We should make use of the free library.",
             "She made use of her lunch break to study.",
@@ -1571,7 +1571,7 @@
         },
         {
           "verb": "Throw off",
-          "def": "To disturb or upset something so it stops working normally",
+          "def": "To disturb or upset how something works",
           "ex": [
             "The loud noise threw off my concentration.",
             "A late flight can throw off your whole schedule.",
@@ -1625,7 +1625,7 @@
         },
         {
           "verb": "Take on",
-          "def": "To accept and start dealing with a difficult task or responsibility",
+          "def": "To accept and start dealing with a hard task",
           "ex": [
             "The Senate will take on the bill next week.",
             "She agreed to take on more work at the office.",
@@ -1804,7 +1804,7 @@
             {
               "display": "spoken out",
               "base": "speak out",
-              "correct": "To publicly say what you think, especially against something",
+              "correct": "To publicly say what you think against something",
               "wrong": "To talk more loudly so that others can hear",
               "correctFirst": true
             },
@@ -1831,8 +1831,8 @@
             {
               "display": "press ahead with",
               "base": "press ahead with",
-              "correct": "To continue doing something in a determined way, especially despite difficulties",
-              "wrong": "To do something quickly and carelessly in order to save time",
+              "correct": "To continue something in a determined way",
+              "wrong": "To do something quickly and carelessly",
               "correctFirst": false
             },
             {
@@ -1910,7 +1910,7 @@
         },
         {
           "verb": "Speak out",
-          "def": "To publicly say what you think, especially against something",
+          "def": "To publicly say what you think against something",
           "ex": [
             "Many workers spoke out against the new rule.",
             "She is not afraid to speak out when something is wrong.",
@@ -1937,7 +1937,7 @@
         },
         {
           "verb": "Press ahead with",
-          "def": "To continue doing something in a determined way, especially despite difficulties",
+          "def": "To continue something in a determined way",
           "ex": [
             "The company decided to press ahead with the new project despite the risks.",
             "They pressed ahead with the plan even after the long delay.",
@@ -2141,7 +2141,7 @@
             {
               "display": "turned up",
               "base": "turn up",
-              "correct": "To arrive or come to a place, especially in large numbers",
+              "correct": "To arrive or come to a place in large numbers",
               "wrong": "To be found by chance after having been lost",
               "correctFirst": false
             },
@@ -2195,7 +2195,7 @@
             {
               "display": "marched past",
               "base": "march past",
-              "correct": "To walk past a place in a formal group, as in a parade",
+              "correct": "To walk past a place in a formal group",
               "wrong": "To move to the very front and lead a parade",
               "correctFirst": false
             },
@@ -2250,7 +2250,7 @@
         },
         {
           "verb": "Turn up",
-          "def": "To arrive or come to a place, especially in large numbers",
+          "def": "To arrive or come to a place in large numbers",
           "ex": [
             "Thousands of fans turned up to see the band.",
             "Many people turn up early to get good seats.",
@@ -2304,7 +2304,7 @@
         },
         {
           "verb": "March past",
-          "def": "To walk past a place in a formal group, as in a parade",
+          "def": "To walk past a place in a formal group",
           "ex": [
             "The soldiers marched past the cheering crowd.",
             "The band will march past the town hall.",
@@ -2559,7 +2559,7 @@
             {
               "display": "rule out",
               "base": "rule out",
-              "correct": "To decide that something is not possible or not the cause",
+              "correct": "To decide that something is not possible",
               "wrong": "To fully explain the reason for something",
               "correctFirst": true
             },
@@ -2659,7 +2659,7 @@
         },
         {
           "verb": "Rule out",
-          "def": "To decide that something is not possible or not the cause",
+          "def": "To decide that something is not possible",
           "ex": [
             "Doctors ruled out a heart problem.",
             "We cannot rule out bad weather.",
@@ -2819,7 +2819,7 @@
             {
               "display": "come down with",
               "base": "come down with",
-              "correct": "To start to have an illness, usually one that is not serious",
+              "correct": "To start to have an illness that is not serious",
               "wrong": "To slowly develop a serious, long-lasting disease",
               "correctFirst": false
             },
@@ -2920,7 +2920,7 @@
         },
         {
           "verb": "Come down with",
-          "def": "To start to have an illness, usually one that is not serious",
+          "def": "To start to have an illness that is not serious",
           "ex": [
             "I think I am coming down with a cold.",
             "She came down with the flu right before the trip.",
@@ -3200,7 +3200,7 @@
             {
               "display": "turned out",
               "base": "turn out",
-              "correct": "To be shown to be true or to happen in a certain way in the end",
+              "correct": "To happen or be shown to be true in the end",
               "wrong": "To go exactly as the scientists had predicted",
               "correctFirst": true
             },
@@ -3293,7 +3293,7 @@
         },
         {
           "verb": "Turn out",
-          "def": "To be shown to be true or to happen in a certain way in the end",
+          "def": "To happen or be shown to be true in the end",
           "ex": [
             "The news turned out to be false.",
             "Everything turned out fine in the end.",
@@ -3896,7 +3896,7 @@
               "display": "look forward to",
               "base": "look forward to",
               "wrong": "To carefully plan and prepare for a future event",
-              "correct": "To feel happy and excited about something that will happen",
+              "correct": "To feel happy and excited about a future event",
               "correctFirst": true
             }
           ],
@@ -3996,7 +3996,7 @@
         },
         {
           "verb": "Look forward to",
-          "def": "To feel happy and excited about something that will happen",
+          "def": "To feel happy and excited about a future event",
           "ex": [
             "I look forward to seeing you next week.",
             "The kids look forward to summer vacation every year.",
@@ -4139,7 +4139,7 @@
             {
               "display": "pointed out",
               "base": "point out",
-              "correct": "To tell people a fact or show them something they may not have noticed",
+              "correct": "To tell people a fact they may not have noticed",
               "wrong": "To prove that something is completely true",
               "correctFirst": false
             },
@@ -4179,14 +4179,14 @@
             {
               "display": "stands out",
               "base": "stand out",
-              "correct": "To be clearly noticed because it is special or important",
+              "correct": "To be clearly noticed as important",
               "wrong": "To be the main cause of a result",
               "correctFirst": false
             },
             {
               "display": "picked up",
               "base": "pick up",
-              "correct": "To learn a skill or language, often without formal study",
+              "correct": "To learn a skill or language informally",
               "wrong": "To formally study a subject in a class",
               "correctFirst": false
             },
@@ -4206,7 +4206,7 @@
             {
               "display": "looked into",
               "base": "look into",
-              "correct": "To examine or investigate something to learn more about it",
+              "correct": "To examine or investigate something carefully",
               "wrong": "To take care of and be responsible for something",
               "correctFirst": false
             },
@@ -4240,7 +4240,7 @@
         },
         {
           "verb": "Point out",
-          "def": "To tell people a fact or show them something they may not have noticed",
+          "def": "To tell people a fact they may not have noticed",
           "ex": [
             "The teacher pointed out my spelling mistake.",
             "She pointed out that the store was already closed.",
@@ -4276,7 +4276,7 @@
         },
         {
           "verb": "Stand out",
-          "def": "To be clearly noticed because it is special or important",
+          "def": "To be clearly noticed as important",
           "ex": [
             "Her bright coat made her stand out in the crowd.",
             "One answer stood out as the best.",
@@ -4285,7 +4285,7 @@
         },
         {
           "verb": "Pick up",
-          "def": "To learn a skill or language, often without formal study",
+          "def": "To learn a skill or language informally",
           "ex": [
             "He picked up French while living in Paris.",
             "Children pick up new words very fast.",
@@ -4303,7 +4303,7 @@
         },
         {
           "verb": "Look into",
-          "def": "To examine or investigate something to learn more about it",
+          "def": "To examine or investigate something carefully",
           "ex": [
             "The police are looking into the crime.",
             "We will look into the problem tomorrow.",
@@ -4464,7 +4464,7 @@
             {
               "display": "kicked off",
               "base": "kick off",
-              "correct": "To start or begin, especially an event or a trend",
+              "correct": "To start or begin an event or activity",
               "wrong": "To become popular very quickly",
               "correctFirst": false
             },
@@ -4511,7 +4511,7 @@
             {
               "display": "draw in",
               "base": "draw in",
-              "correct": "To attract someone and get their interest or attention",
+              "correct": "To attract someone and get their interest",
               "wrong": "To trap someone so that they cannot escape",
               "correctFirst": false
             },
@@ -4545,7 +4545,7 @@
             {
               "display": "put forward",
               "base": "put forward",
-              "correct": "To suggest or present a plan or idea for others to consider",
+              "correct": "To suggest or present a plan or idea to others",
               "wrong": "To move an event or meeting to an earlier time",
               "correctFirst": false
             }
@@ -4565,7 +4565,7 @@
         },
         {
           "verb": "Kick off",
-          "def": "To start or begin, especially an event or a trend",
+          "def": "To start or begin an event or activity",
           "ex": [
             "The festival kicks off on Friday evening.",
             "A new fashion trend kicked off in Tokyo.",
@@ -4610,7 +4610,7 @@
         },
         {
           "verb": "Draw in",
-          "def": "To attract someone and get their interest or attention",
+          "def": "To attract someone and get their interest",
           "ex": [
             "The bright lights drew in a big crowd.",
             "The story drew in readers from the first page.",
@@ -4646,7 +4646,7 @@
         },
         {
           "verb": "Put forward",
-          "def": "To suggest or present a plan or idea for others to consider",
+          "def": "To suggest or present a plan or idea to others",
           "ex": [
             "She put forward a new idea at the meeting.",
             "The team put forward three possible solutions.",
@@ -4789,7 +4789,7 @@
             {
               "display": "gathered around",
               "base": "gather around",
-              "correct": "To come together in a group near someone or something",
+              "correct": "To come together in a group near something",
               "wrong": "To collect and store things for later use",
               "correctFirst": false
             }
@@ -4802,7 +4802,7 @@
             {
               "display": "took to",
               "base": "take to",
-              "correct": "To start to like or be good at something quickly",
+              "correct": "To start to like something quickly",
               "wrong": "To carry something to a new place",
               "correctFirst": false
             },
@@ -4883,7 +4883,7 @@
         },
         {
           "verb": "Gather around",
-          "def": "To come together in a group near someone or something",
+          "def": "To come together in a group near something",
           "ex": [
             "The children gathered around the storyteller.",
             "We gathered around the fire to keep warm.",
@@ -4892,7 +4892,7 @@
         },
         {
           "verb": "Take to",
-          "def": "To start to like or be good at something quickly",
+          "def": "To start to like something quickly",
           "ex": [
             "The puppy took to its new home right away.",
             "She took to painting as soon as she tried it.",
@@ -5106,14 +5106,14 @@
               "display": "stepped up",
               "base": "step up",
               "wrong": "To aim at more important targets",
-              "correct": "To increase the amount or intensity of an activity",
+              "correct": "To increase or intensify an activity",
               "correctFirst": true
             },
             {
               "display": "set off",
               "base": "set off",
               "wrong": "To destroy something in an explosion",
-              "correct": "To cause something to start suddenly, such as a fire or alarm",
+              "correct": "To cause something to start suddenly",
               "correctFirst": true
             }
           ],
@@ -5133,7 +5133,7 @@
               "display": "shut down",
               "base": "shut down",
               "wrong": "To move work to a safer place",
-              "correct": "To stop operating or close, often for a period of time",
+              "correct": "To stop operating or close",
               "correctFirst": true
             }
           ],
@@ -5146,7 +5146,7 @@
               "display": "built up",
               "base": "build up",
               "wrong": "To appear suddenly all at once",
-              "correct": "To increase or grow larger gradually over time",
+              "correct": "To increase or grow larger gradually",
               "correctFirst": false
             },
             {
@@ -5187,14 +5187,14 @@
               "display": "hold back",
               "base": "hold back",
               "wrong": "To sell something only inside your own country",
-              "correct": "To keep or stop something from being released or given",
+              "correct": "To keep or stop something from being released",
               "correctFirst": false
             },
             {
               "display": "deal with",
               "base": "deal with",
               "wrong": "To ask other countries for help",
-              "correct": "To take action to solve a problem or handle a situation",
+              "correct": "To take action to solve a problem",
               "correctFirst": true
             }
           ],
@@ -5213,7 +5213,7 @@
         },
         {
           "verb": "Step up",
-          "def": "To increase the amount or intensity of an activity",
+          "def": "To increase or intensify an activity",
           "ex": [
             "Police stepped up patrols after the robberies.",
             "The team stepped up its efforts to finish on time.",
@@ -5222,7 +5222,7 @@
         },
         {
           "verb": "Set off",
-          "def": "To cause something to start suddenly, such as a fire or alarm",
+          "def": "To cause something to start suddenly",
           "ex": [
             "The smoke set off the fire alarm in the building.",
             "A small spark set off the explosion.",
@@ -5240,7 +5240,7 @@
         },
         {
           "verb": "Shut down",
-          "def": "To stop operating or close, often for a period of time",
+          "def": "To stop operating or close",
           "ex": [
             "The plant shut down after the accident.",
             "They shut down the website for repairs.",
@@ -5249,7 +5249,7 @@
         },
         {
           "verb": "Build up",
-          "def": "To increase or grow larger gradually over time",
+          "def": "To increase or grow larger gradually",
           "ex": [
             "Traffic built up during the morning rush.",
             "Pressure built up inside the pipe.",
@@ -5294,7 +5294,7 @@
         },
         {
           "verb": "Hold back",
-          "def": "To keep or stop something from being released or given",
+          "def": "To keep or stop something from being released",
           "ex": [
             "The company held back the report for a week.",
             "He held back part of the payment.",
@@ -5303,7 +5303,7 @@
         },
         {
           "verb": "Deal with",
-          "def": "To take action to solve a problem or handle a situation",
+          "def": "To take action to solve a problem",
           "ex": [
             "Managers must deal with customer complaints.",
             "The city is dealing with heavy traffic.",
@@ -5487,7 +5487,7 @@
               "display": "find out",
               "base": "find out",
               "wrong": "To test food in a laboratory",
-              "correct": "To discover a fact after searching or trying",
+              "correct": "To discover a fact after searching",
               "correctFirst": true
             }
           ],
@@ -5547,14 +5547,14 @@
               "display": "wash off",
               "base": "wash off",
               "wrong": "To soak food in clean water",
-              "correct": "To remove something by cleaning it with water",
+              "correct": "To remove something by cleaning it",
               "correctFirst": false
             },
             {
               "display": "get rid of",
               "base": "get rid of",
               "wrong": "To kill germs with high heat",
-              "correct": "To remove or throw away something unwanted",
+              "correct": "To remove or throw away something",
               "correctFirst": false,
               "kind": "expression"
             },
@@ -5581,7 +5581,7 @@
         },
         {
           "verb": "Find out",
-          "def": "To discover a fact after searching or trying",
+          "def": "To discover a fact after searching",
           "ex": [
             "I want to find out what time the store opens.",
             "She found out that her flight was delayed.",
@@ -5635,7 +5635,7 @@
         },
         {
           "verb": "Wash off",
-          "def": "To remove something by cleaning it with water",
+          "def": "To remove something by cleaning it",
           "ex": [
             "Please wash off the dirt before you eat the apple.",
             "The rain washed off the mud from the car.",
@@ -5644,7 +5644,7 @@
         },
         {
           "verb": "Get rid of",
-          "def": "To remove or throw away something unwanted",
+          "def": "To remove or throw away something",
           "ex": [
             "Washing food helps get rid of many germs.",
             "We got rid of the old furniture last month.",
@@ -5828,7 +5828,7 @@
               "display": "broke out",
               "base": "break out",
               "wrong": "To become worse step by step",
-              "correct": "To start suddenly, especially fighting or trouble",
+              "correct": "To start suddenly, as fighting",
               "correctFirst": true
             },
             {
@@ -5842,7 +5842,7 @@
               "display": "hit back",
               "base": "hit back",
               "wrong": "To defend your own territory",
-              "correct": "To attack or respond to someone who has attacked you",
+              "correct": "To respond with force to an attack",
               "correctFirst": true
             }
           ],
@@ -5855,21 +5855,21 @@
               "display": "rule out",
               "base": "rule out",
               "wrong": "To refuse to talk about a subject",
-              "correct": "To decide that something is not possible or will not happen",
+              "correct": "To decide something is not possible",
               "correctFirst": true
             },
             {
               "display": "back down",
               "base": "back down",
               "wrong": "To wait for the other side to act first",
-              "correct": "To stop demanding something or stop arguing during a disagreement",
+              "correct": "To stop demanding something in an argument",
               "correctFirst": false
             },
             {
               "display": "pointed out",
               "base": "point out",
               "wrong": "To warn someone about a future danger",
-              "correct": "To tell someone a fact or show them something they may not have noticed",
+              "correct": "To tell someone a fact they may not know",
               "correctFirst": true
             },
             {
@@ -5889,7 +5889,7 @@
               "display": "spoke out",
               "base": "speak out",
               "wrong": "To take one side in a conflict",
-              "correct": "To publicly say what you think, especially to protest against something",
+              "correct": "To publicly say your views in protest",
               "correctFirst": false
             },
             {
@@ -5931,7 +5931,7 @@
         },
         {
           "verb": "Break out",
-          "def": "To start suddenly, especially fighting or trouble",
+          "def": "To start suddenly, as fighting",
           "ex": [
             "Fighting broke out near the border last night.",
             "A fire broke out in the old factory.",
@@ -5949,7 +5949,7 @@
         },
         {
           "verb": "Hit back",
-          "def": "To attack or respond to someone who has attacked you",
+          "def": "To respond with force to an attack",
           "ex": [
             "The country hit back after the first strike.",
             "She hit back at her critics in a strong statement.",
@@ -5958,7 +5958,7 @@
         },
         {
           "verb": "Rule out",
-          "def": "To decide that something is not possible or will not happen",
+          "def": "To decide something is not possible",
           "ex": [
             "The president did not rule out further talks.",
             "Doctors have ruled out a serious illness.",
@@ -5967,7 +5967,7 @@
         },
         {
           "verb": "Back down",
-          "def": "To stop demanding something or stop arguing during a disagreement",
+          "def": "To stop demanding something in an argument",
           "ex": [
             "Neither leader was willing to back down.",
             "After hours of arguing, she finally backed down.",
@@ -5976,7 +5976,7 @@
         },
         {
           "verb": "Point out",
-          "def": "To tell someone a fact or show them something they may not have noticed",
+          "def": "To tell someone a fact they may not know",
           "ex": [
             "Officials pointed out that the threat was still real.",
             "She pointed out a mistake in the report.",
@@ -5994,7 +5994,7 @@
         },
         {
           "verb": "Speak out",
-          "def": "To publicly say what you think, especially to protest against something",
+          "def": "To publicly say your views in protest",
           "ex": [
             "Several countries spoke out against the attacks.",
             "She was not afraid to speak out about the problem.",
@@ -6248,7 +6248,7 @@
               "display": "handed the painting over",
               "base": "hand over",
               "wrong": "To show something to an expert",
-              "correct": "To give something to someone, especially a person in authority",
+              "correct": "To give something to someone in charge",
               "correctFirst": false
             },
             {
@@ -6342,7 +6342,7 @@
         },
         {
           "verb": "Hand over",
-          "def": "To give something to someone, especially a person in authority",
+          "def": "To give something to someone in charge",
           "ex": [
             "The thief had to hand over the stolen bag.",
             "She handed over her passport at the airport.",
@@ -6529,7 +6529,7 @@
               "display": "hand in",
               "base": "hand in",
               "wrong": "To announce something to the public",
-              "correct": "To give a document or piece of work to someone in charge",
+              "correct": "To give a document to someone in charge",
               "correctFirst": false
             },
             {
@@ -6556,7 +6556,7 @@
               "display": "pointed out",
               "base": "point out",
               "wrong": "To criticize someone in the news",
-              "correct": "To tell someone about a fact or show them something",
+              "correct": "To tell someone about a fact",
               "correctFirst": false
             }
           ],
@@ -6576,14 +6576,14 @@
               "display": "back down",
               "base": "back down",
               "wrong": "To stay silent about a problem",
-              "correct": "To stop demanding something or to give in during an argument",
+              "correct": "To stop demanding something or give in",
               "correctFirst": false
             },
             {
               "display": "speak out",
               "base": "speak out",
               "wrong": "To defend yourself in a court",
-              "correct": "To say publicly what you think, especially to protest",
+              "correct": "To say publicly what you think",
               "correctFirst": false
             }
           ],
@@ -6603,7 +6603,7 @@
               "display": "ruled out",
               "base": "rule out",
               "wrong": "To delay a decision until later",
-              "correct": "To decide that something is not possible or will not happen",
+              "correct": "To decide something is not possible",
               "correctFirst": false
             },
             {
@@ -6636,7 +6636,7 @@
         },
         {
           "verb": "Hand in",
-          "def": "To give a document or piece of work to someone in charge",
+          "def": "To give a document to someone in charge",
           "ex": [
             "You must hand in your report by Friday.",
             "The minister handed in her resignation this morning.",
@@ -6663,7 +6663,7 @@
         },
         {
           "verb": "Point out",
-          "def": "To tell someone about a fact or show them something",
+          "def": "To tell someone about a fact",
           "ex": [
             "She pointed out a mistake in the report.",
             "He pointed out that the rules had changed.",
@@ -6681,7 +6681,7 @@
         },
         {
           "verb": "Back down",
-          "def": "To stop demanding something or to give in during an argument",
+          "def": "To stop demanding something or give in",
           "ex": [
             "The company refused to back down over the pay cuts.",
             "He would not back down, even under pressure.",
@@ -6690,7 +6690,7 @@
         },
         {
           "verb": "Speak out",
-          "def": "To say publicly what you think, especially to protest",
+          "def": "To say publicly what you think",
           "ex": [
             "Many workers spoke out against the new rules.",
             "She is not afraid to speak out in public.",
@@ -6708,7 +6708,7 @@
         },
         {
           "verb": "Rule out",
-          "def": "To decide that something is not possible or will not happen",
+          "def": "To decide something is not possible",
           "ex": [
             "The doctors ruled out a serious illness.",
             "The party ruled out working with its rivals.",
@@ -7204,14 +7204,14 @@
               "display": "carried out",
               "base": "carry out",
               "wrong": "To plan something in secret",
-              "correct": "To do or perform something, such as a plan or task",
+              "correct": "To do or perform a task or plan",
               "correctFirst": true
             },
             {
               "display": "came across",
               "base": "come across",
               "wrong": "To find something after a long search",
-              "correct": "To find something by chance, without looking for it",
+              "correct": "To find something by chance or by luck",
               "correctFirst": true
             }
           ],
@@ -7231,7 +7231,7 @@
               "display": "ended up",
               "base": "end up",
               "wrong": "To be kept as a secret for years",
-              "correct": "To finally be in a place or situation, often by chance",
+              "correct": "To finally be in a place or situation",
               "correctFirst": false
             }
           ],
@@ -7278,7 +7278,7 @@
               "display": "took away",
               "base": "take away",
               "wrong": "To lock something in a safe place",
-              "correct": "To remove something and carry it to another place",
+              "correct": "To remove something and carry it away",
               "correctFirst": false
             },
             {
@@ -7295,7 +7295,7 @@
       "vocab": [
         {
           "verb": "Carry out",
-          "def": "To do or perform something, such as a plan or task",
+          "def": "To do or perform a task or plan",
           "ex": [
             "The police carried out a raid on the house early in the morning.",
             "Doctors carried out several tests before the operation.",
@@ -7304,7 +7304,7 @@
         },
         {
           "verb": "Come across",
-          "def": "To find something by chance, without looking for it",
+          "def": "To find something by chance or by luck",
           "ex": [
             "During the raid, police came across a famous stolen painting.",
             "I came across an old photo while cleaning my room.",
@@ -7322,7 +7322,7 @@
         },
         {
           "verb": "End up",
-          "def": "To finally be in a place or situation, often by chance",
+          "def": "To finally be in a place or situation",
           "ex": [
             "The stolen artwork ended up in a drug dealer's house.",
             "We got lost and ended up on the wrong side of town.",
@@ -7367,7 +7367,7 @@
         },
         {
           "verb": "Take away",
-          "def": "To remove something and carry it to another place",
+          "def": "To remove something and carry it away",
           "ex": [
             "Officers took away the drugs and cash as evidence.",
             "The waiter took away our empty plates.",
@@ -7593,7 +7593,7 @@
               "display": "built up",
               "base": "build up",
               "wrong": "To join two things together",
-              "correct": "To make something grow stronger or bigger over time",
+              "correct": "To make something grow stronger",
               "correctFirst": true
             },
             {
@@ -7673,7 +7673,7 @@
         },
         {
           "verb": "Build up",
-          "def": "To make something grow stronger or bigger over time",
+          "def": "To make something grow stronger",
           "ex": [
             "Exercise helps you build up your strength.",
             "The cells built up strong new blood vessels.",
@@ -8244,14 +8244,14 @@
               "display": "set up",
               "base": "set up",
               "wrong": "To pay for something to be built",
-              "correct": "To build or arrange something so it is ready to use",
+              "correct": "To build and prepare something for use",
               "correctFirst": true
             },
             {
               "display": "taken up",
               "base": "take up",
               "wrong": "To repair something quickly",
-              "correct": "To lift or remove something from its place",
+              "correct": "To lift something up and remove it",
               "correctFirst": true
             }
           ],
@@ -8271,7 +8271,7 @@
               "display": "held up",
               "base": "hold up",
               "wrong": "To need very few repairs",
-              "correct": "To stay strong and not fail under pressure",
+              "correct": "To stay strong and not fail",
               "correctFirst": false
             },
             {
@@ -8298,7 +8298,7 @@
               "display": "looks after",
               "base": "look after",
               "wrong": "To own something valuable",
-              "correct": "To take care of or be responsible for something",
+              "correct": "To care for or manage something",
               "correctFirst": true
             },
             {
@@ -8349,7 +8349,7 @@
         },
         {
           "verb": "Set up",
-          "def": "To build or arrange something so it is ready to use",
+          "def": "To build and prepare something for use",
           "ex": [
             "The team set up the test track in just a few weeks.",
             "Please set up the equipment before the visitors arrive.",
@@ -8358,7 +8358,7 @@
         },
         {
           "verb": "Take up",
-          "def": "To lift or remove something from its place",
+          "def": "To lift something up and remove it",
           "ex": [
             "Workers can take up the panels for cleaning and repairs.",
             "They took up the old floor to fix the pipes below.",
@@ -8376,7 +8376,7 @@
         },
         {
           "verb": "Hold up",
-          "def": "To stay strong and not fail under pressure",
+          "def": "To stay strong and not fail",
           "ex": [
             "The bridge held up well during the heavy storm.",
             "The panels held up after thousands of trains passed.",
@@ -8403,7 +8403,7 @@
         },
         {
           "verb": "Look after",
-          "def": "To take care of or be responsible for something",
+          "def": "To care for or manage something",
           "ex": [
             "This company looks after Italy's rail network.",
             "Can you look after my bag for a minute?",
@@ -8901,7 +8901,7 @@
               "display": "pulled a man out",
               "base": "pull out",
               "wrong": "To help someone walk out of a dangerous place",
-              "correct": "To remove someone from a place, especially from danger",
+              "correct": "To remove someone from a dangerous place",
               "correctFirst": true
             },
             {
@@ -9006,7 +9006,7 @@
       "vocab": [
         {
           "verb": "Pull out",
-          "def": "To remove someone from a place, especially from danger",
+          "def": "To remove someone from a dangerous place",
           "ex": [
             "Rescuers pulled a man out of the rubble.",
             "Firefighters pulled two children out of the burning house.",
@@ -9669,7 +9669,7 @@
               "display": "catch up",
               "base": "catch up",
               "wrong": "To copy another company's design",
-              "correct": "To reach the same level or position as someone ahead",
+              "correct": "To reach the same level as someone ahead",
               "correctFirst": false
             }
           ],
@@ -9778,7 +9778,7 @@
         },
         {
           "verb": "Catch up",
-          "def": "To reach the same level or position as someone ahead",
+          "def": "To reach the same level as someone ahead",
           "ex": [
             "She ran fast to catch up with the group.",
             "Our team is trying to catch up with the leaders.",
@@ -9950,7 +9950,7 @@
               "display": "spoken out",
               "base": "speak out",
               "wrong": "To start a legal case against someone",
-              "correct": "To publicly say what you think, especially to protest",
+              "correct": "To publicly say what you think",
               "correctFirst": true
             }
           ],
@@ -9963,7 +9963,7 @@
               "display": "pointed out",
               "base": "point out",
               "wrong": "To officially declare something illegal",
-              "correct": "To tell someone a fact or show them something they may not have noticed",
+              "correct": "To tell someone about a fact or detail",
               "correctFirst": true
             },
             {
@@ -10038,14 +10038,14 @@
               "display": "bring on",
               "base": "bring on",
               "wrong": "To make an illness harder to treat",
-              "correct": "To cause something, often something unpleasant, to happen",
+              "correct": "To cause something unpleasant to happen",
               "correctFirst": false
             },
             {
               "display": "take away",
               "base": "take away",
               "wrong": "To hide a feature from young users",
-              "correct": "To remove something and carry it to another place",
+              "correct": "To remove something and carry it away",
               "correctFirst": false
             }
           ],
@@ -10055,7 +10055,7 @@
       "vocab": [
         {
           "verb": "Speak out",
-          "def": "To publicly say what you think, especially to protest",
+          "def": "To publicly say what you think",
           "ex": [
             "She spoke out against the new law.",
             "More people are speaking out about the problem.",
@@ -10064,7 +10064,7 @@
         },
         {
           "verb": "Point out",
-          "def": "To tell someone a fact or show them something they may not have noticed",
+          "def": "To tell someone about a fact or detail",
           "ex": [
             "She pointed out a mistake in my essay.",
             "He pointed out that the shop was closed.",
@@ -10145,7 +10145,7 @@
         },
         {
           "verb": "Bring on",
-          "def": "To cause something, often something unpleasant, to happen",
+          "def": "To cause something unpleasant to happen",
           "ex": [
             "Too much stress can bring on headaches.",
             "The bad news brought on a wave of worry.",
@@ -10154,7 +10154,7 @@
         },
         {
           "verb": "Take away",
-          "def": "To remove something and carry it to another place",
+          "def": "To remove something and carry it away",
           "ex": [
             "Waiters came to take away the plates.",
             "The storm took away part of the roof.",
@@ -10299,7 +10299,7 @@
               "display": "moved in",
               "base": "move in",
               "wrong": "To grow stronger very quickly",
-              "correct": "To come closer and arrive, in a threatening way",
+              "correct": "To come closer in a threatening way",
               "correctFirst": true
             },
             {
@@ -10313,7 +10313,7 @@
               "display": "put out",
               "base": "put out",
               "wrong": "To raise a warning to a higher level",
-              "correct": "To produce or give out something, such as a warning",
+              "correct": "To produce or give out something",
               "correctFirst": false
             }
           ],
@@ -10340,7 +10340,7 @@
               "display": "knock down",
               "base": "knock down",
               "wrong": "To pull something out of the ground",
-              "correct": "To hit something so hard that it falls to the ground",
+              "correct": "To hit something so it falls to the ground",
               "correctFirst": true
             }
           ],
@@ -10404,7 +10404,7 @@
       "vocab": [
         {
           "verb": "Move in",
-          "def": "To come closer and arrive, in a threatening way",
+          "def": "To come closer in a threatening way",
           "ex": [
             "Dark clouds moved in before the rain started.",
             "The army moved in on the town at night.",
@@ -10422,7 +10422,7 @@
         },
         {
           "verb": "Put out",
-          "def": "To produce or give out something, such as a warning",
+          "def": "To produce or give out something",
           "ex": [
             "The office put out a new report today.",
             "The government put out a warning about the storm.",
@@ -10449,7 +10449,7 @@
         },
         {
           "verb": "Knock down",
-          "def": "To hit something so hard that it falls to the ground",
+          "def": "To hit something so it falls to the ground",
           "ex": [
             "The strong wind knocked down several trees.",
             "The car knocked down a road sign.",
@@ -10648,7 +10648,7 @@
               "display": "fallen out",
               "base": "fall out",
               "wrong": "To become less successful than a rival",
-              "correct": "To stop being friends or partners after a disagreement",
+              "correct": "To stop being partners after a quarrel",
               "correctFirst": true
             },
             {
@@ -10675,7 +10675,7 @@
               "display": "lays out",
               "base": "lay out",
               "wrong": "To prove that something really happened",
-              "correct": "To explain or describe something clearly and in detail",
+              "correct": "To explain or describe something clearly",
               "correctFirst": false
             },
             {
@@ -10729,14 +10729,14 @@
               "display": "moves away",
               "base": "move away",
               "wrong": "To end a contract immediately",
-              "correct": "To slowly stop using or being connected to something",
+              "correct": "To gradually stop using something",
               "correctFirst": true
             },
             {
               "display": "run on",
               "base": "run on",
               "wrong": "To be owned by another company",
-              "correct": "To work using a certain kind of power or system",
+              "correct": "To work using a certain kind of power",
               "correctFirst": false
             },
             {
@@ -10753,7 +10753,7 @@
       "vocab": [
         {
           "verb": "Fall out",
-          "def": "To stop being friends or partners after a disagreement",
+          "def": "To stop being partners after a quarrel",
           "ex": [
             "The two singers fell out and never worked together again.",
             "He fell out with his business partner over money.",
@@ -10780,7 +10780,7 @@
         },
         {
           "verb": "Lay out",
-          "def": "To explain or describe something clearly and in detail",
+          "def": "To explain or describe something clearly",
           "ex": [
             "The teacher laid out the rules on the first day.",
             "The report lays out the plan step by step.",
@@ -10834,7 +10834,7 @@
         },
         {
           "verb": "Move away",
-          "def": "To slowly stop using or being connected to something",
+          "def": "To gradually stop using something",
           "ex": [
             "The firm is moving away from paper documents.",
             "Many companies moved away from that old software.",
@@ -10843,7 +10843,7 @@
         },
         {
           "verb": "Run on",
-          "def": "To work using a certain kind of power or system",
+          "def": "To work using a certain kind of power",
           "ex": [
             "This car runs on electricity.",
             "The new phone runs on a faster system.",
