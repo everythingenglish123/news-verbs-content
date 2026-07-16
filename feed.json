@@ -759,7 +759,8 @@
               "base": "grow attached to",
               "correct": "To develop a strong emotional connection to someone or something",
               "wrong": "To slowly start to rely on something and be unable to stop",
-              "correctFirst": false
+              "correctFirst": false,
+              "kind": "expression"
             },
             {
               "display": "broke down",
@@ -786,7 +787,8 @@
               "base": "take advantage of",
               "correct": "To unfairly use someone's weakness for your own benefit",
               "wrong": "To make good use of a helpful opportunity",
-              "correctFirst": false
+              "correctFirst": false,
+              "kind": "expression"
             },
             {
               "display": "make up for",
@@ -870,7 +872,8 @@
             "Children often grow attached to their toys.",
             "He grew attached to the old house over the years.",
             "It is easy to grow attached to a pet."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Break down",
@@ -897,7 +900,8 @@
             "Scammers take advantage of trusting people.",
             "The company took advantage of its workers.",
             "Don't let anyone take advantage of your kindness."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Make up for",
@@ -1143,7 +1147,8 @@
               "base": "shed light on",
               "correct": "To give new information that helps explain something",
               "wrong": "To give final proof that something is definitely true",
-              "correctFirst": true
+              "correctFirst": true,
+              "kind": "expression"
             },
             {
               "display": "pore over",
@@ -1254,7 +1259,8 @@
             "The letters shed light on his secret life.",
             "New tests shed light on how the disease spreads.",
             "Her story sheds light on what really happened."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Pore over",
@@ -1439,14 +1445,16 @@
               "base": "make use of",
               "correct": "To use something that is available for a good purpose",
               "wrong": "To enjoy something in your free time",
-              "correctFirst": false
+              "correctFirst": false,
+              "kind": "expression"
             },
             {
               "display": "get used to",
               "base": "get used to",
               "correct": "To slowly become comfortable with something new",
               "wrong": "To learn how to do something difficult for the first time",
-              "correctFirst": false
+              "correctFirst": false,
+              "kind": "expression"
             },
             {
               "display": "throw off",
@@ -1548,7 +1556,8 @@
             "We should make use of the free library.",
             "She made use of her lunch break to study.",
             "The team made use of the extra time to practice."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Get used to",
@@ -1557,7 +1566,8 @@
             "It takes time to get used to a new city.",
             "He got used to waking up early for work.",
             "You will get used to the different food soon."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Throw off",
@@ -2194,7 +2204,8 @@
               "base": "take part",
               "correct": "To be involved in an activity or event",
               "wrong": "To happen or occur at a particular place",
-              "correctFirst": true
+              "correctFirst": true,
+              "kind": "expression"
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/france-bastille-day-2026/3.mp3"
@@ -2307,7 +2318,8 @@
             "She wants to take part in the race.",
             "Many countries took part in the games.",
             "He took part in the school play."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Step down",
@@ -2508,7 +2520,8 @@
               "base": "keep track of",
               "correct": "To watch or follow something carefully over time",
               "wrong": "To count the total number of things",
-              "correctFirst": true
+              "correctFirst": true,
+              "kind": "expression"
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/cannabis-dementia-medicine-2026/2.mp3"
@@ -2614,7 +2627,8 @@
             "I keep track of my spending each month.",
             "Doctors keep track of the patient's weight.",
             "He kept track of every game they played."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Turn out",
@@ -3147,7 +3161,8 @@
               "base": "take care of",
               "correct": "To be responsible for something and control it",
               "wrong": "To keep something safe from harm or damage",
-              "correctFirst": false
+              "correctFirst": false,
+              "kind": "expression"
             }
           ],
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/exercise-heart-nerves-2026/1.mp3"
@@ -3246,7 +3261,8 @@
             "This software takes care of all the payments now.",
             "One manager takes care of the entire office.",
             "These cells take care of the heartbeat."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Set about",
@@ -3496,7 +3512,8 @@
               "base": "take part",
               "correct": "To be one of the people doing an activity",
               "wrong": "To play a specific role in a performance",
-              "correctFirst": true
+              "correctFirst": true,
+              "kind": "expression"
             },
             {
               "display": "fell behind",
@@ -3605,7 +3622,8 @@
             "Hundreds of students took part in the race.",
             "Will you take part in the meeting tomorrow?",
             "She takes part in a dance class every week."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Fall behind",
@@ -5537,7 +5555,8 @@
               "base": "get rid of",
               "wrong": "To kill germs with high heat",
               "correct": "To remove or throw away something unwanted",
-              "correctFirst": false
+              "correctFirst": false,
+              "kind": "expression"
             },
             {
               "display": "cut down on",
@@ -5630,7 +5649,8 @@
             "Washing food helps get rid of many germs.",
             "We got rid of the old furniture last month.",
             "It is hard to get rid of a bad habit."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Cut down on",
@@ -8609,7 +8629,8 @@
               "base": "take part in",
               "wrong": "To be a special guest at an event",
               "correct": "To be involved in an activity with others",
-              "correctFirst": false
+              "correctFirst": false,
+              "kind": "expression"
             },
             {
               "display": "teamed up with",
@@ -8718,7 +8739,8 @@
             "Famous guests took part in the celebration.",
             "Students took part in the contest.",
             "She took part in the charity run."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Team up with",
@@ -9330,7 +9352,8 @@
               "base": "keep track of",
               "wrong": "To compare two numbers to see which is bigger",
               "correct": "To follow the number or progress of something",
-              "correctFirst": true
+              "correctFirst": true,
+              "kind": "expression"
             },
             {
               "display": "tell apart",
@@ -9434,7 +9457,8 @@
             "Giraffes can keep track of small numbers.",
             "I keep track of my spending.",
             "It's hard to keep track of all the changes."
-          ]
+          ],
+          "kind": "expression"
         },
         {
           "verb": "Tell apart",
