@@ -52,13 +52,13 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/trump-teleprompter-bet-2026/1.mp3"
         },
         {
-          "text": "The bets were placed on a [[prediction]] website called Kalshi. On the site, users try to {{suss out}} which exact words a speaker will use. Because the worker had already {{gone through}} the president's scripts, he could easily {{cash in on}} what he knew. This gave him an unfair [[advantage]] over other users, who were only guessing.",
+          "text": "The bets were placed on a [[prediction]] website called Kalshi. On the site, users try to {{pin down}} which exact words a speaker will use. Because the worker had already {{gone through}} the president's scripts, he could easily {{cash in on}} what he knew. This gave him an unfair [[advantage]] over other users, who were only guessing.",
           "verbs": [
             {
-              "display": "suss out",
-              "base": "suss out",
-              "correct": "To discover or figure something out by thinking",
-              "wrong": "To pick one thing out from a larger group of choices",
+              "display": "pin down",
+              "base": "pin down",
+              "correct": "To find out exactly what something is or will be",
+              "wrong": "To hold someone still so they cannot move away",
               "correctFirst": false
             },
             {
@@ -162,12 +162,12 @@
           ]
         },
         {
-          "verb": "Suss out",
-          "def": "To discover or figure something out by thinking",
+          "verb": "Pin down",
+          "def": "To find out exactly what something is or will be",
           "ex": [
-            "I need to suss out how this machine works.",
-            "She quickly sussed out the best route to the airport.",
-            "They sussed out the answer before anyone else."
+            "The scientists could not pin down the cause of the illness.",
+            "Let's pin down a date for the meeting next week.",
+            "She finally pinned down what was wrong with the engine."
           ]
         },
         {
@@ -1411,7 +1411,7 @@
       ],
       "chunks": [
         {
-          "text": "The US House of Representatives wants to {{do away with}} the twice-a-year clock changes. On Tuesday, lawmakers {{voted for}} a [[bill]] called the Sunshine Protection Act by 308 votes to 117. The plan would {{bring in}} permanent daylight saving time all across the country. Many supporters say the change is long [[overdue]].",
+          "text": "The US House of Representatives wants to {{do away with}} the twice-a-year clock changes. On Tuesday, lawmakers {{voted for}} a [[bill]] called the Sunshine Protection Act by 308 votes to 117. The plan would {{lock in}} permanent daylight saving time all across the country. Many supporters say the change is long [[overdue]].",
           "verbs": [
             {
               "display": "do away with",
@@ -1428,10 +1428,10 @@
               "correctFirst": false
             },
             {
-              "display": "bring in",
-              "base": "bring in",
-              "correct": "To introduce a new law, rule, or system",
-              "wrong": "To officially announce the results of a vote",
+              "display": "lock in",
+              "base": "lock in",
+              "correct": "To make something permanent so it cannot change",
+              "wrong": "To close a place with a key so no one can leave",
               "correctFirst": true
             }
           ],
@@ -1541,12 +1541,12 @@
           ]
         },
         {
-          "verb": "Bring in",
-          "def": "To introduce a new law, rule, or system",
+          "verb": "Lock in",
+          "def": "To make something permanent so it cannot change",
           "ex": [
-            "The school brought in a new dress code.",
-            "The government wants to bring in stricter safety laws.",
-            "They brought in a rule to reduce noise at night."
+            "The company locked in a low price for the whole year.",
+            "They locked in the deal before costs went up.",
+            "Signing early lets you lock in your seat."
           ]
         },
         {
@@ -1722,9 +1722,9 @@
           "why": "The story says lawmakers voted for the bill by 308 votes to 117."
         },
         {
-          "s": "The bill would bring in permanent standard time and make winter evenings darker.",
+          "s": "The bill would lock in permanent standard time and make winter evenings darker.",
           "a": false,
-          "why": "The bill would bring in permanent daylight saving time, not standard time, so evenings would be lighter."
+          "why": "The bill would lock in permanent daylight saving time, not standard time, so evenings would be lighter."
         },
         {
           "s": "President Trump has come out against the plan and refused to sign it.",
@@ -4452,7 +4452,7 @@
       ],
       "chunks": [
         {
-          "text": "A growing number of governments are trying to {{clamp down}} on children's use of social media. The trend {{kicked off}} in Australia, which {{brought in}} a ban on the apps for anyone under 16. Now the European Union is thinking about a similar [[policy]] for the young people in its member countries. Leaders say the plan is meant to protect [[minors]] from harm.",
+          "text": "A growing number of governments are trying to {{clamp down}} on children's use of social media. The trend {{kicked off}} in Australia, which {{rolled out}} a ban on the apps for anyone under 16. Now the European Union is thinking about a similar [[policy]] for the young people in its member countries. Leaders say the plan is meant to protect [[minors]] from harm.",
           "verbs": [
             {
               "display": "clamp down",
@@ -4469,10 +4469,10 @@
               "correctFirst": false
             },
             {
-              "display": "brought in",
-              "base": "bring in",
-              "correct": "To introduce a new law, rule, or system",
-              "wrong": "To put a rule into practice slowly over many years",
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To officially start or introduce something new",
+              "wrong": "To slowly cancel a rule that is no longer needed",
               "correctFirst": false
             }
           ],
@@ -4573,12 +4573,12 @@
           ]
         },
         {
-          "verb": "Bring in",
-          "def": "To introduce a new law, rule, or system",
+          "verb": "Roll out",
+          "def": "To officially start or introduce something new",
           "ex": [
-            "The country brought in a new tax this year.",
-            "The school brought in a rule about phones.",
-            "The government wants to bring in tougher checks."
+            "The company will roll out the new app next month.",
+            "The city rolled out a plan to plant more trees.",
+            "They rolled out the update to all users at once."
           ]
         },
         {
