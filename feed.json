@@ -52,15 +52,8 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/trump-teleprompter-bet-2026/1.mp3"
         },
         {
-          "text": "The bets were placed on a [[prediction]] website called Kalshi. On the site, users try to {{pin down}} which exact words a speaker will use. Because the worker had already {{gone through}} the president's scripts, he could easily {{cash in on}} what he knew. This gave him an unfair [[advantage]] over other users, who were only guessing.",
+          "text": "The bets were placed on a [[prediction]] website called Kalshi. On the site, users try to predict which exact words a speaker will use. Because the worker had already {{gone through}} the president's scripts, he could easily {{cash in on}} what he knew. This gave him an unfair [[advantage]] over other users, who were only guessing.",
           "verbs": [
-            {
-              "display": "pin down",
-              "base": "pin down",
-              "correct": "To find out exactly what something is or will be",
-              "wrong": "To hold someone still so they cannot move away",
-              "correctFirst": false
-            },
             {
               "display": "gone through",
               "base": "go through",
@@ -159,15 +152,6 @@
             "We hoped the plan would pan out well.",
             "Her risky idea panned out better than expected.",
             "If the deal pans out, we will open a new store."
-          ]
-        },
-        {
-          "verb": "Pin down",
-          "def": "To find out exactly what something is or will be",
-          "ex": [
-            "The scientists could not pin down the cause of the illness.",
-            "Let's pin down a date for the meeting next week.",
-            "She finally pinned down what was wrong with the engine."
           ]
         },
         {
