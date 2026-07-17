@@ -1133,15 +1133,8 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/luxor-tomb-paser-2026/3.mp3"
         },
         {
-          "text": "News of the find has {{drawn in}} attention from around the world. Officials hope the painted walls will {{shed light on}} Paser's life and his exact [[role]] in Egyptian society. Researchers still need to {{pore over}} the writing on the walls to learn his full [[titles]]. The discovery is a reminder of how much [[history]] still lies buried under Luxor's sands.",
+          "text": "News of the find has drawn attention from around the world. Officials hope the painted walls will {{shed light on}} Paser's life and his exact [[role]] in Egyptian society. Researchers still need to {{pore over}} the writing on the walls to learn his full [[titles]]. The discovery is a reminder of how much [[history]] still lies buried under Luxor's sands.",
           "verbs": [
-            {
-              "display": "drawn in",
-              "base": "draw in",
-              "correct": "To attract people's interest and attention",
-              "wrong": "To bring crowds of tourists to visit a place",
-              "correctFirst": true
-            },
             {
               "display": "shed light on",
               "base": "shed light on",
@@ -1241,15 +1234,6 @@
             "Please clear away the plates after dinner.",
             "Workers cleared away the broken glass.",
             "She cleared away the papers on her desk."
-          ]
-        },
-        {
-          "verb": "Draw in",
-          "def": "To attract people's interest and attention",
-          "ex": [
-            "The bright signs drew in many shoppers.",
-            "A good title draws in new readers.",
-            "The show drew in a huge audience."
           ]
         },
         {
@@ -2854,7 +2838,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/lindsey-graham-dies-2026/2.mp3"
         },
         {
-          "text": "Graham had {{taken up}} politics many years earlier and had {{carried on}} in public office ever since. He was first {{voted in}} to the Senate in 2002. Around the world, he was known for his strong [[views]] on war, peace, and foreign [[affairs]].",
+          "text": "Graham had {{taken up}} politics many years earlier and had {{stayed on}} in public office ever since. He was first {{voted in}} to the Senate in 2002. Around the world, he was known for his strong [[views]] on war, peace, and foreign [[affairs]].",
           "verbs": [
             {
               "display": "taken up",
@@ -2864,10 +2848,10 @@
               "correctFirst": false
             },
             {
-              "display": "carried on",
-              "base": "carry on",
-              "correct": "To continue doing something",
-              "wrong": "To behave in a loud or silly way",
+              "display": "stayed on",
+              "base": "stay on",
+              "correct": "To remain in a job or position",
+              "wrong": "To keep a light or device switched on",
               "correctFirst": true
             },
             {
@@ -2964,12 +2948,12 @@
           ]
         },
         {
-          "verb": "Carry on",
-          "def": "To continue doing something",
+          "verb": "Stay on",
+          "def": "To remain in a job or position",
           "ex": [
-            "Please carry on with your work.",
-            "The team carried on playing in the rain.",
-            "He carried on talking even after the bell rang."
+            "She stayed on at the company for another five years.",
+            "He stayed on as coach after the season ended.",
+            "They asked her to stay on and lead the team."
           ]
         },
         {
@@ -3168,13 +3152,13 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/exercise-heart-nerves-2026/1.mp3"
         },
         {
-          "text": "To find these changes, the team {{set about}} a study on rats. The animals {{worked out}} on a regular plan for ten weeks, a bit like a person going to the gym. Using powerful 3D imaging, the scientists could {{zoom in}} on small [[clusters]] of nerve cells near the heart. These cells act like a [[dimmer]] switch that turns the heartbeat up or down.",
+          "text": "To find these changes, the team {{set up}} a study on rats. The animals {{worked out}} on a regular plan for ten weeks, a bit like a person going to the gym. Using powerful 3D imaging, the scientists could {{zoom in}} on small [[clusters]] of nerve cells near the heart. These cells act like a [[dimmer]] switch that turns the heartbeat up or down.",
           "verbs": [
             {
-              "display": "set about",
-              "base": "set about",
-              "correct": "To start doing a task in a determined way",
-              "wrong": "To do a task in a particular, careful way",
+              "display": "set up",
+              "base": "set up",
+              "correct": "To start or organize something new",
+              "wrong": "To trick someone into taking the blame",
               "correctFirst": true
             },
             {
@@ -3265,12 +3249,12 @@
           "kind": "expression"
         },
         {
-          "verb": "Set about",
-          "def": "To start doing a task in a determined way",
+          "verb": "Set up",
+          "def": "To start or organize something new",
           "ex": [
-            "She set about the task as soon as she arrived.",
-            "They set about cleaning the whole house.",
-            "He set about the repairs without any delay."
+            "They set up a new company last year.",
+            "We set up the tent before it got dark.",
+            "The city set up a program to help students."
           ]
         },
         {
@@ -3533,7 +3517,7 @@
           "audio": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/audio/healthy-habits-aging-brain-2026/3.mp3"
         },
         {
-          "text": "Experts {{point out}} that structure and social support make a real difference. Meeting in groups kept people [[motivated]] and helped them worry less. The scientists say a healthy lifestyle can help {{ward off}} memory loss and may {{carry on}} protecting the brain for years. They hope more countries will bring this kind of [[affordable]] program to people who want to age well.",
+          "text": "Experts {{point out}} that structure and social support make a real difference. Meeting in groups kept people [[motivated]] and helped them worry less. The scientists say a healthy lifestyle can help {{ward off}} memory loss and may {{keep on}} protecting the brain for years. They hope more countries will bring this kind of [[affordable]] program to people who want to age well.",
           "verbs": [
             {
               "display": "point out",
@@ -3550,10 +3534,10 @@
               "correctFirst": true
             },
             {
-              "display": "carry on",
-              "base": "carry on",
+              "display": "keep on",
+              "base": "keep on",
               "correct": "To continue doing something",
-              "wrong": "To behave in a wild or excited way",
+              "wrong": "To store something for later use",
               "correctFirst": false
             }
           ],
@@ -3662,12 +3646,12 @@
           ]
         },
         {
-          "verb": "Carry on",
+          "verb": "Keep on",
           "def": "To continue doing something",
           "ex": [
-            "Please carry on with your work.",
-            "She carried on singing even after the mistake.",
-            "We must carry on despite the bad weather."
+            "He kept on working even after dark.",
+            "They keep on trying new ideas.",
+            "She kept on running despite the rain."
           ]
         }
       ],
