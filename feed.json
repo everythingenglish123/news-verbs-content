@@ -1,6 +1,720 @@
 {
-  "updated": "2026-07-11",
+  "updated": "2026-07-18",
   "stories": [
+    {
+      "id": "exoplanet-atmosphere-lhs1140b-2026",
+      "number": 36,
+      "headline": "Scientists find air around a faraway planet",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n36-exoplanet-flat.png",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Potential Atmosphere Detected on Habitable-Zone Exoplanet LHS 1140b",
+          "url": "https://www.sci.news/astronomy/atmosphere-habitable-zone-exoplanet-lhs-1140b-14925.html"
+        },
+        {
+          "title": "Astronomers spot first atmosphere around a potentially habitable alien world",
+          "url": "https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world"
+        },
+        {
+          "title": "Rocky Planet 48 Light-Years Away May Be First in a Habitable Zone With a Confirmed Atmosphere",
+          "url": "https://www.discovermagazine.com/rocky-planet-48-light-years-away-may-be-first-in-a-habitable-zone-with-a-confirmed-atmosphere-49391"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "For the first time ever, scientists have {{picked up}} signs of air around a small, rocky planet far from Earth. The planet is called LHS 1140 b, and it sits about 48 [[light-years]] away. It moves around its star in the [[habitable zone]], the area where the temperature could be just right for water. Finding air around such a planet is a big deal, because a planet needs air to {{hold on to}} heat and to protect any life. But this discovery soon {{turned into}} a real mystery.",
+          "verbs": [
+            {
+              "display": "picked up",
+              "base": "pick up",
+              "correct": "To notice or detect something",
+              "wrong": "To lift something off the ground",
+              "correctFirst": true
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something and not lose it",
+              "wrong": "To grab a rail for safety",
+              "correctFirst": false
+            },
+            {
+              "display": "turned into",
+              "base": "turn into",
+              "correct": "To become something different",
+              "wrong": "To enter a road by turning",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "LHS 1140 b is what scientists call a [[super-Earth]], which means it is rocky like Earth but much bigger. It goes around a small, cool red star. To study it, a team from Harvard University {{set out}} to watch the planet with a powerful [[telescope]] in Chile. In 2024, the telescope {{came across}} [[helium]] gas leaking from the top of the planet's air and floating out into space. Because the star {{gives off}} strong [[radiation]], it slowly {{strips away}} this gas.",
+          "verbs": [
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To start trying to do something",
+              "wrong": "To place objects in a row",
+              "correctFirst": true
+            },
+            {
+              "display": "came across",
+              "base": "come across",
+              "correct": "To find something by chance",
+              "wrong": "To walk to the other side",
+              "correctFirst": false
+            },
+            {
+              "display": "gives off",
+              "base": "give off",
+              "correct": "To send out light, heat, or gas",
+              "wrong": "To give a gift to someone",
+              "correctFirst": true
+            },
+            {
+              "display": "strips away",
+              "base": "strip away",
+              "correct": "To slowly remove something",
+              "wrong": "To pull the skin off a fruit",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Here is where the mystery {{comes in}}. When the same team {{went back}} to check their work in 2025, the helium signal had completely disappeared. One scientist said it was a rare chance to watch the air of a faraway planet change in such a short time. In other words, the planet's air may be changing in ways we can actually see. Still, the researchers are careful. They cannot be sure yet, and more work is needed to {{figure out}} what is really {{going on}}.",
+          "verbs": [
+            {
+              "display": "comes in",
+              "base": "come in",
+              "correct": "To become important in a situation",
+              "wrong": "To enter a room",
+              "correctFirst": true
+            },
+            {
+              "display": "went back",
+              "base": "go back",
+              "correct": "To return to a place or time",
+              "wrong": "To support a plan fully",
+              "correctFirst": false
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To understand something after thinking",
+              "wrong": "To draw a shape on paper",
+              "correctFirst": true
+            },
+            {
+              "display": "going on",
+              "base": "go on",
+              "correct": "To be happening",
+              "wrong": "To step onto a stage",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "To clear things up, the team will soon {{carry out}} new studies with the James Webb Space Telescope, the most powerful space telescope ever built. Their main goal is to {{track down}} water, which would prove the air is real and [[stable]]. If they can {{pull off}} this hard task, LHS 1140 b could become one of the best places to search for life beyond Earth. And that brings us a little closer to a question people have asked for thousands of years: are we alone?",
+          "verbs": [
+            {
+              "display": "carry out",
+              "base": "carry out",
+              "correct": "To do or perform a task",
+              "wrong": "To lift and take something outside",
+              "correctFirst": true
+            },
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find something after searching",
+              "wrong": "To follow a railway track",
+              "correctFirst": false
+            },
+            {
+              "display": "pull off",
+              "base": "pull off",
+              "correct": "To succeed at something difficult",
+              "wrong": "To remove a sticker",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pick up",
+          "def": "To notice or detect something",
+          "ex": [
+            "Scientists picked up signs of air on the planet.",
+            "The machine picked up a weak signal.",
+            "Doctors can pick up early signs of illness."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something and not lose it",
+          "ex": [
+            "A planet needs air to hold on to heat.",
+            "Hold on to your ticket until the end.",
+            "She held on to hope during hard times."
+          ]
+        },
+        {
+          "verb": "Turn into",
+          "def": "To become something different",
+          "ex": [
+            "The discovery turned into a mystery.",
+            "The rain turned into snow.",
+            "His idea turned into a real business."
+          ]
+        },
+        {
+          "verb": "Set out",
+          "def": "To start trying to do something",
+          "ex": [
+            "The team set out to study the planet.",
+            "They set out to break the record.",
+            "We set out to learn the truth."
+          ]
+        },
+        {
+          "verb": "Come across",
+          "def": "To find something by chance",
+          "ex": [
+            "The telescope came across escaping gas.",
+            "I came across an old photo.",
+            "She came across a great deal online."
+          ]
+        },
+        {
+          "verb": "Give off",
+          "def": "To send out light, heat, or gas",
+          "ex": [
+            "The star gives off strong radiation.",
+            "The fire gave off a lot of heat.",
+            "These flowers give off a sweet smell."
+          ]
+        },
+        {
+          "verb": "Strip away",
+          "def": "To slowly remove something",
+          "ex": [
+            "Radiation slowly strips the gas away.",
+            "The wind stripped away the old paint.",
+            "Time stripped away the color of the sign."
+          ]
+        },
+        {
+          "verb": "Come in",
+          "def": "To become important in a situation",
+          "ex": [
+            "Here is where the mystery comes in.",
+            "This is where money comes in.",
+            "Skill comes in when the game gets hard."
+          ]
+        },
+        {
+          "verb": "Go back",
+          "def": "To return to a place or time",
+          "ex": [
+            "The team went back to check the results.",
+            "Let's go back to the start.",
+            "She went back to her hometown."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand something after thinking",
+          "ex": [
+            "Scientists need to figure out what happened.",
+            "I can't figure out this puzzle.",
+            "We figured out a better way."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To be happening",
+          "ex": [
+            "Nobody knew what was going on.",
+            "The show went on for hours.",
+            "Tell me what is going on."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do or perform a task",
+          "ex": [
+            "The team will carry out new studies.",
+            "Doctors carried out several tests.",
+            "They carried out the plan carefully."
+          ]
+        },
+        {
+          "verb": "Track down",
+          "def": "To find something after searching",
+          "ex": [
+            "The team hopes to track down water.",
+            "Police tracked down the missing car.",
+            "I tracked down an old friend."
+          ]
+        },
+        {
+          "verb": "Pull off",
+          "def": "To succeed at something difficult",
+          "ex": [
+            "If they pull it off, it will be huge.",
+            "The team pulled off a surprising win.",
+            "She pulled off a difficult trick."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "light-years",
+          "def": "The huge distance light travels in one year",
+          "ex": [
+            "The star is many light-years away.",
+            "Space is measured in light-years."
+          ]
+        },
+        {
+          "word": "habitable zone",
+          "def": "The area around a star where liquid water could exist",
+          "ex": [
+            "Earth sits in the Sun's habitable zone.",
+            "Planets in the habitable zone may hold water."
+          ]
+        },
+        {
+          "word": "super-Earth",
+          "def": "A rocky planet bigger than Earth but smaller than Neptune",
+          "ex": [
+            "A super-Earth can be several times heavier than Earth.",
+            "Scientists study super-Earths for signs of life."
+          ]
+        },
+        {
+          "word": "telescope",
+          "def": "A tool that makes faraway things look closer",
+          "ex": [
+            "The telescope showed distant stars.",
+            "A big telescope can see far into space."
+          ]
+        },
+        {
+          "word": "helium",
+          "def": "A very light gas found in stars and balloons",
+          "ex": [
+            "Helium makes balloons float.",
+            "The star loses helium into space."
+          ]
+        },
+        {
+          "word": "radiation",
+          "def": "Energy that travels as rays or waves",
+          "ex": [
+            "The Sun sends out strong radiation.",
+            "Too much radiation can be harmful."
+          ]
+        },
+        {
+          "word": "stable",
+          "def": "Steady and not likely to change",
+          "ex": [
+            "A stable atmosphere does not change fast.",
+            "The ladder felt stable and safe."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "Scientists picked up signs of air around the rocky planet LHS 1140 b.",
+          "a": true,
+          "why": "For the first time, scientists picked up signs of an atmosphere around LHS 1140 b."
+        },
+        {
+          "s": "When the team went back in 2025, the helium signal was even stronger than before.",
+          "a": false,
+          "why": "When the team went back in 2025, the helium signal had completely disappeared, not grown stronger."
+        },
+        {
+          "s": "The star gives off strong radiation that strips gas away from the planet.",
+          "a": true,
+          "why": "The star gives off strong radiation, and this slowly strips helium gas away from the planet."
+        },
+        {
+          "s": "The scientists are completely sure they have figured out what is going on.",
+          "a": false,
+          "why": "The scientists are careful and cannot be sure yet what is going on, so more work is needed."
+        },
+        {
+          "s": "The team will carry out new studies with the James Webb Space Telescope.",
+          "a": true,
+          "why": "The team will carry out new studies with the James Webb Space Telescope over the next few years."
+        },
+        {
+          "s": "The team hopes to track down oil on the planet.",
+          "a": false,
+          "why": "The team hopes to track down water, not oil, which would show the air is real and stable."
+        }
+      ]
+    },
+    {
+      "id": "china-ai-cooperation-2026",
+      "number": 35,
+      "headline": "China says no country should control AI",
+      "badge": "World",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n35-ai-governance-flat.png",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "China's Xi Jinping launches new AI alliance: What is it?",
+          "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it"
+        },
+        {
+          "title": "Xi offers AI olive branch to the world, calling for 'symphony of global cooperation'",
+          "url": "https://fortune.com/2026/07/17/xi-jinping-ai-cooperation-organization-shanghai/"
+        },
+        {
+          "title": "29 Nations Join China-Led World AI Cooperation Organization",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/29-nations-join-china-led-world-ai-cooperation-organization/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "The world is changing fast because of [[artificial intelligence]], and now China wants countries to work together on it. On July 17, 2026, at a big meeting in Shanghai, President Xi Jinping said that no single country should control this powerful technology alone. To {{back up}} his words, China {{set up}} a new international group and asked other nations to join. Xi warned that the world should not let one country {{take over}} the future of AI.",
+          "verbs": [
+            {
+              "display": "back up",
+              "base": "back up",
+              "correct": "To support or prove something",
+              "wrong": "To move a car backward",
+              "correctFirst": true
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create or start something",
+              "wrong": "To trick someone on purpose",
+              "correctFirst": false
+            },
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To take control of something",
+              "wrong": "To lift something and carry it",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The new group is called the World Artificial Intelligence Cooperation Organization. Twenty-nine countries have already {{signed up}}, including Brazil, Indonesia, and South Africa. Its main job is [[governance]], which means making fair rules for how AI is used. Right now, a few rich countries lead the way, and many poorer nations are afraid of being {{left behind}}. China says it wants to {{bring in}} these [[developing countries]] and give them a real voice.",
+          "verbs": [
+            {
+              "display": "signed up",
+              "base": "sign up",
+              "correct": "To officially join something",
+              "wrong": "To write your name for fun",
+              "correctFirst": true
+            },
+            {
+              "display": "left behind",
+              "base": "leave behind",
+              "correct": "To fail to include someone",
+              "wrong": "To forget an object at home",
+              "correctFirst": false
+            },
+            {
+              "display": "bring in",
+              "base": "bring in",
+              "correct": "To include or involve someone",
+              "wrong": "To carry something inside a building",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "To show it is serious, China made some big promises. It will {{hand out}} 5,000 training places so people in poorer countries can {{pick up}} new AI skills. It also offered to share weather AI to help 30 nations get ready for storms and floods. But experts {{point out}} that China is not doing this only out of [[kindness]]. The United States has {{cut off}} China from some [[advanced]] computer chips, so building new [[alliances]] helps China too.",
+          "verbs": [
+            {
+              "display": "hand out",
+              "base": "hand out",
+              "correct": "To give something to many people",
+              "wrong": "To pass control to someone else",
+              "correctFirst": true
+            },
+            {
+              "display": "pick up",
+              "base": "pick up",
+              "correct": "To learn something informally",
+              "wrong": "To lift something off the ground",
+              "correctFirst": false
+            },
+            {
+              "display": "point out",
+              "base": "point out",
+              "correct": "To draw attention to a fact",
+              "wrong": "To aim a finger at a place",
+              "correctFirst": true
+            },
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To block someone from something",
+              "wrong": "To slice a piece with a knife",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "China is also thinking about the future. It hopes the new group will help {{draw up}} global rules for AI at the United Nations. It is not clear yet whether rival powers like the United States and its [[allies]] will {{join in}}. Some countries may {{hold back}} and wait to see what happens. But for millions of people in [[developing]] nations, the message is simple: they will finally get a chance to shape the future of AI, instead of watching from the outside.",
+          "verbs": [
+            {
+              "display": "draw up",
+              "base": "draw up",
+              "correct": "To prepare or write something",
+              "wrong": "To pull a picture upward",
+              "correctFirst": true
+            },
+            {
+              "display": "join in",
+              "base": "join in",
+              "correct": "To take part in an activity",
+              "wrong": "To connect two pipes together",
+              "correctFirst": false
+            },
+            {
+              "display": "hold back",
+              "base": "hold back",
+              "correct": "To wait and not act yet",
+              "wrong": "To grab something from behind",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Back up",
+          "def": "To support or prove something",
+          "ex": [
+            "Scientists backed up their idea with new data.",
+            "Can you back up your claim with proof?",
+            "She backed up her friend during the meeting."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create or start something",
+          "ex": [
+            "China set up a new international group.",
+            "They set up a small business last year.",
+            "We set up the room for the party."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To take control of something",
+          "ex": [
+            "No country should take over the future of AI.",
+            "A big company took over the small one.",
+            "She took over the team when the boss left."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "def": "To officially join something",
+          "ex": [
+            "Twenty-nine countries signed up to the group.",
+            "I signed up for an English class.",
+            "Many people signed up to help."
+          ]
+        },
+        {
+          "verb": "Leave behind",
+          "def": "To fail to include someone",
+          "ex": [
+            "Poorer nations are afraid of being left behind.",
+            "The fast runners left the others behind.",
+            "New rules should not leave anyone behind."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To include or involve someone",
+          "ex": [
+            "China wants to bring these countries in.",
+            "The school brought in a new teacher.",
+            "They brought in experts to help."
+          ]
+        },
+        {
+          "verb": "Hand out",
+          "def": "To give something to many people",
+          "ex": [
+            "China will hand out 5,000 training places.",
+            "Teachers handed out the test papers.",
+            "Workers handed out free water."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To learn something informally",
+          "ex": [
+            "People can pick up new AI skills.",
+            "She picked up Spanish while living abroad.",
+            "Children pick up habits from their parents."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To draw attention to a fact",
+          "ex": [
+            "Experts point out that China wants power too.",
+            "He pointed out a mistake in my work.",
+            "She pointed out the risks of the plan."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To block someone from something",
+          "ex": [
+            "The United States cut off China from some chips.",
+            "The storm cut off power to the town.",
+            "They cut off his phone service."
+          ]
+        },
+        {
+          "verb": "Draw up",
+          "def": "To prepare or write something",
+          "ex": [
+            "The group hopes to draw up global rules.",
+            "Lawyers drew up a new contract.",
+            "We drew up a plan for the trip."
+          ]
+        },
+        {
+          "verb": "Join in",
+          "def": "To take part in an activity",
+          "ex": [
+            "It is not clear if rivals will join in.",
+            "Everyone joined in the song.",
+            "Please join in the discussion."
+          ]
+        },
+        {
+          "verb": "Hold back",
+          "def": "To wait and not act yet",
+          "ex": [
+            "Some countries may hold back and wait.",
+            "She held back and did not speak.",
+            "He held back until he was sure."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "artificial intelligence",
+          "def": "Computer systems that can think and learn like people",
+          "ex": [
+            "Artificial intelligence can write and translate text.",
+            "Many phones now use artificial intelligence."
+          ]
+        },
+        {
+          "word": "governance",
+          "def": "The rules and decisions used to control something",
+          "ex": [
+            "Good governance keeps a country fair.",
+            "The company improved its governance."
+          ]
+        },
+        {
+          "word": "developing countries",
+          "def": "Poorer countries that are still building their economies",
+          "ex": [
+            "Many developing countries need clean water.",
+            "The plan will help developing countries grow."
+          ]
+        },
+        {
+          "word": "kindness",
+          "def": "The quality of being friendly and caring",
+          "ex": [
+            "She helped them out of kindness.",
+            "A small act of kindness can help a lot."
+          ]
+        },
+        {
+          "word": "advanced",
+          "def": "Very modern and highly developed",
+          "ex": [
+            "The lab uses advanced computers.",
+            "China wants advanced technology."
+          ]
+        },
+        {
+          "word": "alliances",
+          "def": "Agreements between groups to work together",
+          "ex": [
+            "The country built new alliances abroad.",
+            "Strong alliances keep nations safe."
+          ]
+        },
+        {
+          "word": "allies",
+          "def": "Friends or partners who support each other",
+          "ex": [
+            "The US and its allies met to talk.",
+            "Good allies help each other."
+          ]
+        },
+        {
+          "word": "developing",
+          "def": "Still growing or being built",
+          "ex": [
+            "Developing nations want a fair chance.",
+            "This is a developing part of the city."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "China set up a new group for countries to work on AI together.",
+          "a": true,
+          "why": "China set up the World Artificial Intelligence Cooperation Organization for countries to work together."
+        },
+        {
+          "s": "Twenty-nine countries have already signed up to the new group.",
+          "a": true,
+          "why": "Twenty-nine countries, including Brazil and Indonesia, have signed up."
+        },
+        {
+          "s": "China refused to hand out any training places to poorer countries.",
+          "a": false,
+          "why": "China said it will hand out 5,000 training places to poorer countries."
+        },
+        {
+          "s": "Experts point out that China is not helping only out of kindness.",
+          "a": true,
+          "why": "Experts point out that new alliances help China in its race with the United States."
+        },
+        {
+          "s": "The United States brought China in and shared all its advanced chips.",
+          "a": false,
+          "why": "The United States cut off China from some advanced chips, it did not share them."
+        },
+        {
+          "s": "Xi Jinping wants one single country to take over the future of AI.",
+          "a": false,
+          "why": "Xi said no single country should take over or control the future of AI."
+        }
+      ]
+    },
     {
       "id": "ai-blood-test-cancer-2026",
       "number": 34,
@@ -5661,6 +6375,1386 @@
       ]
     },
     {
+      "id": "apple-openai-lawsuit-2026",
+      "number": 17,
+      "headline": "Apple takes OpenAI to court over stolen secrets",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n17-apple-openai-flat.png",
+      "position": "center 48%",
+      "sources": [
+        {
+          "title": "Apple sues OpenAI alleging trade secret theft",
+          "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
+        },
+        {
+          "title": "Apple accuses OpenAI of using stolen trade secrets in new lawsuit",
+          "url": "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit"
+        },
+        {
+          "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
+          "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Two of the biggest names in technology have {{fallen out}}. Apple, the company behind the iPhone, has filed a [[lawsuit]] against OpenAI, the maker of ChatGPT. A few of Apple's workers left the company and joined OpenAI, and Apple claims they {{walked off with}} [[confidential]] information to help {{come up with}} a new AI [[device]].",
+          "verbs": [
+            {
+              "display": "fallen out",
+              "base": "fall out",
+              "wrong": "To become less successful than a rival",
+              "correct": "To stop being partners after a quarrel",
+              "correctFirst": true
+            },
+            {
+              "display": "walked off with",
+              "base": "walk off with",
+              "wrong": "To leave a job suddenly, without warning",
+              "correct": "To take something that does not belong to you",
+              "correctFirst": false
+            },
+            {
+              "display": "come up with",
+              "base": "come up with",
+              "wrong": "To improve a product that already exists",
+              "correct": "To think of or create a new idea or plan",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "In its court papers, Apple {{lays out}} how it believes the [[theft]] happened. It says that before these workers left, they {{sent off}} private company files to their own personal email accounts. Apple now wants a [[judge]] to {{step in}} and stop OpenAI from using any of its [[trade secrets]].",
+          "verbs": [
+            {
+              "display": "lays out",
+              "base": "lay out",
+              "wrong": "To prove that something really happened",
+              "correct": "To explain or describe something clearly",
+              "correctFirst": false
+            },
+            {
+              "display": "sent off",
+              "base": "send off",
+              "wrong": "To hide something so that nobody can find it",
+              "correct": "To send something to a place, often by email or mail",
+              "correctFirst": false
+            },
+            {
+              "display": "step in",
+              "base": "step in",
+              "wrong": "To make the final decision in a court case",
+              "correct": "To get involved in order to help or stop a problem",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "OpenAI quickly {{hit back}} at the [[claims]]. A [[spokesperson]] for the company said that OpenAI has no interest in other companies' secrets, and that its lawyers are still {{going over}} the papers. So far, the two sides do not agree, and neither one will {{back down}}.",
+          "verbs": [
+            {
+              "display": "hit back",
+              "base": "hit back",
+              "wrong": "To refuse to answer questions about a problem",
+              "correct": "To reply strongly to an attack or criticism",
+              "correctFirst": false
+            },
+            {
+              "display": "going over",
+              "base": "go over",
+              "wrong": "To correct the mistakes in a document",
+              "correct": "To examine or check something carefully",
+              "correctFirst": true
+            },
+            {
+              "display": "back down",
+              "base": "back down",
+              "wrong": "To admit that you did something wrong",
+              "correct": "To stop demanding something or stop arguing",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "The fight comes as Apple {{moves away}} from OpenAI in another way. Apple has announced that its voice [[assistant]], Siri, will soon {{run on}} Google's Gemini system instead of ChatGPT. Many people had expected the two companies to {{stick together}} for years to come, so the sudden change has surprised the whole tech world.",
+          "verbs": [
+            {
+              "display": "moves away",
+              "base": "move away",
+              "wrong": "To end a contract immediately",
+              "correct": "To gradually stop using something",
+              "correctFirst": true
+            },
+            {
+              "display": "run on",
+              "base": "run on",
+              "wrong": "To be owned by another company",
+              "correct": "To work using a certain kind of power",
+              "correctFirst": false
+            },
+            {
+              "display": "stick together",
+              "base": "stick together",
+              "wrong": "To share their technology with each other",
+              "correct": "To stay united and continue to support each other",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Fall out",
+          "def": "To stop being partners after a quarrel",
+          "ex": [
+            "The two singers fell out and never worked together again.",
+            "He fell out with his business partner over money.",
+            "Old friends sometimes fall out over small things."
+          ]
+        },
+        {
+          "verb": "Walk off with",
+          "def": "To take something that does not belong to you",
+          "ex": [
+            "Someone walked off with my phone at the gym.",
+            "A visitor walked off with two books from the library.",
+            "The thief walked off with her purse in seconds."
+          ]
+        },
+        {
+          "verb": "Come up with",
+          "def": "To think of or create a new idea or plan",
+          "ex": [
+            "She came up with a great name for the show.",
+            "We need to come up with a plan by Friday.",
+            "He came up with a faster way to finish the job."
+          ]
+        },
+        {
+          "verb": "Lay out",
+          "def": "To explain or describe something clearly",
+          "ex": [
+            "The teacher laid out the rules on the first day.",
+            "The report lays out the plan step by step.",
+            "She laid out her ideas at the meeting."
+          ]
+        },
+        {
+          "verb": "Send off",
+          "def": "To send something to a place, often by email or mail",
+          "ex": [
+            "I sent off the forms this morning.",
+            "He sent off an email before leaving work.",
+            "She sent off the package to her sister."
+          ]
+        },
+        {
+          "verb": "Step in",
+          "def": "To get involved in order to help or stop a problem",
+          "ex": [
+            "The teacher stepped in to stop the argument.",
+            "The government stepped in to save the bank.",
+            "A stranger stepped in and helped the lost child."
+          ]
+        },
+        {
+          "verb": "Hit back",
+          "def": "To reply strongly to an attack or criticism",
+          "ex": [
+            "The actor hit back at the newspaper's story.",
+            "The company hit back at the report with facts.",
+            "She hit back at her critics in an interview."
+          ]
+        },
+        {
+          "verb": "Go over",
+          "def": "To examine or check something carefully",
+          "ex": [
+            "Go over your answers before the test ends.",
+            "The lawyer went over the contract twice.",
+            "We went over the plan one more time."
+          ]
+        },
+        {
+          "verb": "Back down",
+          "def": "To stop demanding something or stop arguing",
+          "ex": [
+            "Neither driver would back down after the accident.",
+            "He refused to back down in the debate.",
+            "The company finally backed down and changed the rule."
+          ]
+        },
+        {
+          "verb": "Move away",
+          "def": "To gradually stop using something",
+          "ex": [
+            "The firm is moving away from paper documents.",
+            "Many companies moved away from that old software.",
+            "She moved away from her early singing style."
+          ]
+        },
+        {
+          "verb": "Run on",
+          "def": "To work using a certain kind of power",
+          "ex": [
+            "This car runs on electricity.",
+            "The new phone runs on a faster system.",
+            "The whole factory runs on solar power."
+          ]
+        },
+        {
+          "verb": "Stick together",
+          "def": "To stay united and continue to support each other",
+          "ex": [
+            "Our family sticks together in hard times.",
+            "The players stuck together after the loss.",
+            "Good friends stick together no matter what."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "lawsuit",
+          "def": "A legal case that one person or company brings against another in court",
+          "ex": [
+            "The company faced a big lawsuit.",
+            "They started a lawsuit last year."
+          ]
+        },
+        {
+          "word": "confidential",
+          "def": "Meant to be kept secret and not shared with others",
+          "ex": [
+            "The doctor keeps patient records confidential.",
+            "This report is confidential, so do not share it."
+          ]
+        },
+        {
+          "word": "device",
+          "def": "A machine or tool made for a certain job, like a phone",
+          "ex": [
+            "This device can take photos.",
+            "A new device came out this month."
+          ]
+        },
+        {
+          "word": "theft",
+          "def": "The crime of stealing something",
+          "ex": [
+            "The theft happened at night.",
+            "Police are looking into the theft."
+          ]
+        },
+        {
+          "word": "judge",
+          "def": "A person who leads a court and decides legal cases",
+          "ex": [
+            "The judge listened to both sides.",
+            "A judge will decide the case."
+          ]
+        },
+        {
+          "word": "trade secrets",
+          "def": "Private business information that a company keeps hidden from others",
+          "ex": [
+            "The recipe is a trade secret.",
+            "They protect their trade secrets carefully."
+          ]
+        },
+        {
+          "word": "claims",
+          "def": "Statements that something is true, even without full proof yet",
+          "ex": [
+            "He made big claims about the product.",
+            "The claims were hard to believe."
+          ]
+        },
+        {
+          "word": "spokesperson",
+          "def": "A person who speaks to the public for a company or group",
+          "ex": [
+            "A spokesperson answered the questions.",
+            "The spokesperson read a short statement."
+          ]
+        },
+        {
+          "word": "assistant",
+          "def": "A person or program that helps you do things",
+          "ex": [
+            "The voice assistant set an alarm.",
+            "My assistant booked the meeting."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "OpenAI has asked a judge to step in and stop Apple from selling the iPhone.",
+          "a": false,
+          "why": "False. It is Apple that wants a judge to step in and stop OpenAI from using its trade secrets."
+        },
+        {
+          "s": "Both companies quickly agreed and ended the argument.",
+          "a": false,
+          "why": "The two sides do not agree, and neither one will back down."
+        },
+        {
+          "s": "Apple has filed a lawsuit against OpenAI.",
+          "a": true,
+          "why": "The story says Apple filed a lawsuit against OpenAI, the maker of ChatGPT."
+        },
+        {
+          "s": "Apple's Siri will soon run on Google's Gemini instead of ChatGPT.",
+          "a": true,
+          "why": "Apple announced that Siri will run on Google's Gemini system instead of ChatGPT."
+        },
+        {
+          "s": "OpenAI agreed that it had taken Apple's secrets.",
+          "a": false,
+          "why": "OpenAI hit back at the claims and said it has no interest in other companies' secrets."
+        },
+        {
+          "s": "Apple says its former workers sent private files to their personal email accounts.",
+          "a": true,
+          "why": "Apple's court papers say the workers sent off private company files to their own personal email accounts before leaving."
+        }
+      ]
+    },
+    {
+      "id": "typhoon-bavi-china-2026",
+      "number": 16,
+      "headline": "A huge typhoon forces a million people from their homes",
+      "badge": "World",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n16-typhoon-bavi-flat.png",
+      "position": "center 80%",
+      "sources": [
+        {
+          "title": "More than 1.7 million evacuated as Typhoon Bavi makes landfall in China",
+          "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
+        },
+        {
+          "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
+          "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
+        },
+        {
+          "title": "China evacuates over one million as Typhoon Bavi nears",
+          "url": "https://www.usnews.com/news/world/articles/2026-07-11/china-evacuates-over-one-million-as-typhoon-bavi-nears"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A powerful storm called Typhoon Bavi has {{moved in}} on eastern China. Before it reached land, officials {{moved out}} more than 1.7 million people from towns near the [[coast]] in Zhejiang [[province]]. China's weather service {{put out}} an orange [[alert]], the second-highest warning level.",
+          "verbs": [
+            {
+              "display": "moved in",
+              "base": "move in",
+              "wrong": "To grow stronger very quickly",
+              "correct": "To come closer in a threatening way",
+              "correctFirst": true
+            },
+            {
+              "display": "moved out",
+              "base": "move out",
+              "wrong": "To warn people that danger is coming",
+              "correct": "To make people leave a place",
+              "correctFirst": false
+            },
+            {
+              "display": "put out",
+              "base": "put out",
+              "wrong": "To raise a warning to a higher level",
+              "correct": "To produce or give out something",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Out at sea, Bavi had {{built up}} into a huge [[typhoon]] with winds near 89 miles per hour. On its way, it {{passed by}} the Philippines and Taiwan, where the storm killed and hurt many people. Weather [[forecasters]] warned that it could {{knock down}} trees and flood streets when it reached the coastal city of Yuhuan late on Saturday night.",
+          "verbs": [
+            {
+              "display": "built up",
+              "base": "build up",
+              "wrong": "To move quickly across the ocean",
+              "correct": "To slowly become bigger or stronger",
+              "correctFirst": true
+            },
+            {
+              "display": "passed by",
+              "base": "pass by",
+              "wrong": "To stop in a place for a short time",
+              "correct": "To move past a place without stopping",
+              "correctFirst": true
+            },
+            {
+              "display": "knock down",
+              "base": "knock down",
+              "wrong": "To pull something out of the ground",
+              "correct": "To hit something so it falls to the ground",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The typhoon {{shut down}} normal life across the [[region]]. Airlines {{called off}} hundreds of flights, and fast trains and [[ferry]] services stopped for the weekend. Officials also {{set up}} [[shelters]] where families could stay safe until the danger passed.",
+          "verbs": [
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "wrong": "To force people to stay in their homes",
+              "correct": "To stop something from working or being open",
+              "correctFirst": false
+            },
+            {
+              "display": "called off",
+              "base": "call off",
+              "wrong": "To move something to a later date",
+              "correct": "To cancel something that was planned",
+              "correctFirst": true
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "wrong": "To pay the cost of something for other people",
+              "correct": "To create or arrange something",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Rescue teams {{teamed up}} to get ready for the worst. In Fujian province, more than 17,000 [[rescue]] workers were {{standing by}}, ready to help, and the government promised millions of dollars for relief. Officials hoped that all of this careful planning would {{pay off}} and keep people safe.",
+          "verbs": [
+            {
+              "display": "teamed up",
+              "base": "team up",
+              "wrong": "To share information with each other",
+              "correct": "To join with others to work together",
+              "correctFirst": true
+            },
+            {
+              "display": "standing by",
+              "base": "stand by",
+              "wrong": "To promise to support a person no matter what",
+              "correct": "To be ready to help or act at any moment",
+              "correctFirst": true
+            },
+            {
+              "display": "pay off",
+              "base": "pay off",
+              "wrong": "To happen exactly the way it was planned",
+              "correct": "To bring a good result after hard work",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Move in",
+          "def": "To come closer in a threatening way",
+          "ex": [
+            "Dark clouds moved in before the rain started.",
+            "The army moved in on the town at night.",
+            "A cold front is moving in from the north."
+          ]
+        },
+        {
+          "verb": "Move out",
+          "def": "To make people leave a place",
+          "ex": [
+            "Police moved out the crowd for safety.",
+            "The town moved out families before the flood.",
+            "They moved out everyone near the fire."
+          ]
+        },
+        {
+          "verb": "Put out",
+          "def": "To produce or give out something",
+          "ex": [
+            "The office put out a new report today.",
+            "The government put out a warning about the storm.",
+            "The company put out a short statement."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To slowly become bigger or stronger",
+          "ex": [
+            "Traffic builds up during rush hour.",
+            "Pressure was building up before the storm.",
+            "Excitement built up before the game."
+          ]
+        },
+        {
+          "verb": "Pass by",
+          "def": "To move past a place without stopping",
+          "ex": [
+            "The storm passed by the coast during the night.",
+            "We passed by your house on the way home.",
+            "A parade passed by the school."
+          ]
+        },
+        {
+          "verb": "Knock down",
+          "def": "To hit something so it falls to the ground",
+          "ex": [
+            "The strong wind knocked down several trees.",
+            "The car knocked down a road sign.",
+            "Workers knocked down the old wall."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To stop something from working or being open",
+          "ex": [
+            "The storm shut down the whole airport.",
+            "They shut down the factory for the holiday.",
+            "Bad weather shut down the roads."
+          ]
+        },
+        {
+          "verb": "Call off",
+          "def": "To cancel something that was planned",
+          "ex": [
+            "They called off the match because of rain.",
+            "The trip was called off at the last minute.",
+            "Officials called off the event for safety."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create or arrange something",
+          "ex": [
+            "The city set up shelters for the storm.",
+            "They set up a new website in one day.",
+            "We set up a meeting for Monday."
+          ]
+        },
+        {
+          "verb": "Team up",
+          "def": "To join with others to work together",
+          "ex": [
+            "The two countries teamed up to fight the fire.",
+            "She teamed up with a friend for the project.",
+            "Doctors teamed up to help the patients."
+          ]
+        },
+        {
+          "verb": "Stand by",
+          "def": "To be ready to help or act at any moment",
+          "ex": [
+            "Rescue teams were standing by all night.",
+            "Doctors stood by in case of an accident.",
+            "Please stand by for more news."
+          ]
+        },
+        {
+          "verb": "Pay off",
+          "def": "To bring a good result after hard work",
+          "ex": [
+            "All her practice finally paid off.",
+            "The careful plan paid off in the end.",
+            "Their hard work paid off with a win."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "coast",
+          "def": "The land next to the sea",
+          "ex": [
+            "They live near the coast.",
+            "We walked along the coast."
+          ]
+        },
+        {
+          "word": "province",
+          "def": "A large area of a country, like a state",
+          "ex": [
+            "China has many provinces.",
+            "She grew up in a small province."
+          ]
+        },
+        {
+          "word": "alert",
+          "def": "A warning that danger may be coming",
+          "ex": [
+            "The city sent out a flood alert.",
+            "People got a weather alert on their phones."
+          ]
+        },
+        {
+          "word": "typhoon",
+          "def": "A very strong tropical storm with powerful winds",
+          "ex": [
+            "The typhoon brought heavy rain.",
+            "Typhoons are common in this area."
+          ]
+        },
+        {
+          "word": "forecasters",
+          "def": "People who study and say what the weather will be",
+          "ex": [
+            "Forecasters said it would rain.",
+            "The forecasters were right about the storm."
+          ]
+        },
+        {
+          "word": "region",
+          "def": "A large area of land",
+          "ex": [
+            "This region is very dry.",
+            "The storm hit the whole region."
+          ]
+        },
+        {
+          "word": "ferry",
+          "def": "A boat that carries people or cars across water",
+          "ex": [
+            "We took the ferry to the island.",
+            "The ferry runs every hour."
+          ]
+        },
+        {
+          "word": "shelters",
+          "def": "Safe places where people can stay during danger",
+          "ex": [
+            "The shelters were full of families.",
+            "They opened shelters before the storm."
+          ]
+        },
+        {
+          "word": "rescue",
+          "def": "The act of saving someone from danger",
+          "ex": [
+            "The rescue took many hours.",
+            "Rescue teams reached the village."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "Only a few workers were ready to help during the storm.",
+          "a": false,
+          "why": "More than 17,000 rescue workers were standing by in Fujian province alone."
+        },
+        {
+          "s": "Airlines called off hundreds of flights because of the storm.",
+          "a": true,
+          "why": "The story says airlines called off hundreds of flights for the weekend."
+        },
+        {
+          "s": "Typhoon Bavi reached the coast in the middle of the day on Monday.",
+          "a": false,
+          "why": "The storm reached the coastal city of Yuhuan late on Saturday night, not on Monday."
+        },
+        {
+          "s": "The storm passed by the Philippines and Taiwan before it reached China.",
+          "a": true,
+          "why": "On its way, Bavi passed by the Philippines and Taiwan, where it killed and hurt many people."
+        },
+        {
+          "s": "Officials moved more than 1.7 million people away from the coast in Zhejiang before the storm arrived.",
+          "a": true,
+          "why": "The story says officials moved out more than 1.7 million people from towns near the coast in Zhejiang province."
+        },
+        {
+          "s": "Officials refused to set up shelters, so families had to stay in their own homes.",
+          "a": false,
+          "why": "False. Officials set up shelters where families could stay safe until the danger passed."
+        }
+      ]
+    },
+    {
+      "id": "china-rocket-recovery-2026",
+      "number": 15,
+      "headline": "China lands a rocket booster on a ship at sea",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n15-china-rocket.png",
+      "position": "center 62%",
+      "sources": [
+        {
+          "title": "Making history! China lands rocket during an orbital launch for 1st time ever",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever"
+        },
+        {
+          "title": "China becomes second country to recover orbital booster with Long March 10B",
+          "url": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/"
+        },
+        {
+          "title": "China Successfully Launches, Retrieves Reusable Rocket Booster",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/china-successfully-launches-retrieves-reusable-rocket-booster"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "China has {{pulled off}} a major step in [[space travel]]. From the Hainan Commercial Space Launch Site, a new rocket called the Long March-10B {{took off}}, carried a [[satellite]] into [[orbit]], and then guided its huge lower part, or [[booster]], safely back to Earth. China became only the second country, after the United States, to recover an orbital rocket so it can be used again.",
+          "verbs": [
+            {
+              "display": "pulled off",
+              "base": "pull off",
+              "wrong": "To try something for the first time",
+              "correct": "To succeed in doing something difficult",
+              "correctFirst": false
+            },
+            {
+              "display": "took off",
+              "base": "take off",
+              "wrong": "To break away from another part",
+              "correct": "To leave the ground and begin to fly",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "After the rocket climbed high into the sky, its [[first stage]] separated and {{came down}} toward the sea. About six minutes later, a giant net on a [[floating platform]] caught it. Chinese engineers had {{set up}} this [[net capture]] system, and they had never {{tried out}} such a design in a real flight before.",
+          "verbs": [
+            {
+              "display": "came down",
+              "base": "come down",
+              "wrong": "To slow down before landing",
+              "correct": "To move down toward a lower place",
+              "correctFirst": false
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "wrong": "To invent something completely new",
+              "correct": "To create or establish something new",
+              "correctFirst": false
+            },
+            {
+              "display": "tried out",
+              "base": "try out",
+              "wrong": "To practice something many times",
+              "correct": "To test something to see if it works",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Landing a booster is difficult, but it {{pays off}}. Normally, rockets are used only once and then {{thrown away}}. If the same booster can fly again and again, companies can {{cut down}} their costs and launch far more often. For years, the American company SpaceX has led this field, and China is now working hard to {{catch up}}.",
+          "verbs": [
+            {
+              "display": "pays off",
+              "base": "pay off",
+              "wrong": "To become easier with practice",
+              "correct": "To bring a good result after effort",
+              "correctFirst": false
+            },
+            {
+              "display": "thrown away",
+              "base": "throw away",
+              "wrong": "To let something fall into the sea",
+              "correct": "To get rid of something you do not want",
+              "correctFirst": true
+            },
+            {
+              "display": "cut down",
+              "base": "cut down",
+              "wrong": "To share costs with other companies",
+              "correct": "To reduce the amount of something",
+              "correctFirst": true
+            },
+            {
+              "display": "catch up",
+              "base": "catch up",
+              "wrong": "To copy another company's design",
+              "correct": "To reach the same level as someone ahead",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "The Long March-10B stands about 63 meters tall, and one day it may help {{carry out}} China's plan to send [[astronauts]] to the Moon. Engineers now want to {{look over}} the returned booster, and they hope to fly it again before the end of the year. If everything {{goes ahead}} as planned, [[reusable]] Chinese rockets could soon become normal.",
+          "verbs": [
+            {
+              "display": "carry out",
+              "base": "carry out",
+              "wrong": "To announce a plan to the world",
+              "correct": "To do or complete a planned task or action",
+              "correctFirst": false
+            },
+            {
+              "display": "look over",
+              "base": "look over",
+              "wrong": "To repair something before using it again",
+              "correct": "To examine or check something carefully",
+              "correctFirst": true
+            },
+            {
+              "display": "goes ahead",
+              "base": "go ahead",
+              "wrong": "To finish earlier than expected",
+              "correct": "To happen or continue as planned",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pull off",
+          "def": "To succeed in doing something difficult",
+          "ex": [
+            "The team pulled off a surprising win in the final minute.",
+            "It was a hard plan, but they pulled it off.",
+            "She pulled off the difficult trick on her first try."
+          ]
+        },
+        {
+          "verb": "Take off",
+          "def": "To leave the ground and begin to fly",
+          "ex": [
+            "The plane took off on time.",
+            "We watched the rocket take off into the sky.",
+            "The birds took off when they heard the noise."
+          ]
+        },
+        {
+          "verb": "Come down",
+          "def": "To move down toward a lower place",
+          "ex": [
+            "The balloon slowly came down into the field.",
+            "Rain came down hard all afternoon.",
+            "The climber came down from the mountain before dark."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create or establish something new",
+          "ex": [
+            "They set up a new company last year.",
+            "The teacher set up the room before class.",
+            "Engineers set up a system to test the rocket."
+          ]
+        },
+        {
+          "verb": "Try out",
+          "def": "To test something to see if it works",
+          "ex": [
+            "He tried out the new bike before buying it.",
+            "The chefs tried out a new recipe.",
+            "Scientists tried out the design in the lab."
+          ]
+        },
+        {
+          "verb": "Pay off",
+          "def": "To bring a good result after effort",
+          "ex": [
+            "All her hard work finally paid off.",
+            "The training paid off when the team won.",
+            "Saving money now will pay off later."
+          ]
+        },
+        {
+          "verb": "Throw away",
+          "def": "To get rid of something you do not want",
+          "ex": [
+            "Do not throw away those old letters.",
+            "He threw away the broken toy.",
+            "We should not throw away food that is still good."
+          ]
+        },
+        {
+          "verb": "Cut down",
+          "def": "To reduce the amount of something",
+          "ex": [
+            "The company wants to cut down its costs.",
+            "I am trying to cut down my screen time.",
+            "They cut down the number of flights."
+          ]
+        },
+        {
+          "verb": "Catch up",
+          "def": "To reach the same level as someone ahead",
+          "ex": [
+            "She ran fast to catch up with the group.",
+            "Our team is trying to catch up with the leaders.",
+            "He studied hard to catch up in class."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do or complete a planned task or action",
+          "ex": [
+            "The doctors will carry out the tests tomorrow.",
+            "Soldiers carried out their orders.",
+            "The company carried out a survey of its workers."
+          ]
+        },
+        {
+          "verb": "Look over",
+          "def": "To examine or check something carefully",
+          "ex": [
+            "Please look over my report before I send it.",
+            "The judges looked over each project.",
+            "She looked over the car before the trip."
+          ]
+        },
+        {
+          "verb": "Go ahead",
+          "def": "To happen or continue as planned",
+          "ex": [
+            "The concert will go ahead despite the rain.",
+            "If the plan goes ahead, work starts in May.",
+            "The wedding went ahead as planned."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "space travel",
+          "def": "The activity of flying and exploring in space",
+          "ex": [
+            "Space travel is very expensive.",
+            "She dreams of a career in space travel."
+          ]
+        },
+        {
+          "word": "satellite",
+          "def": "A machine sent into space to travel around the Earth",
+          "ex": [
+            "The satellite sends TV signals to homes.",
+            "A new weather satellite was launched today."
+          ]
+        },
+        {
+          "word": "orbit",
+          "def": "The curved path an object follows around a planet",
+          "ex": [
+            "The spacecraft reached orbit safely.",
+            "The Moon stays in orbit around the Earth."
+          ]
+        },
+        {
+          "word": "booster",
+          "def": "The powerful lower part of a rocket that lifts it off the ground",
+          "ex": [
+            "The booster fell away after two minutes.",
+            "Engineers hope to reuse the booster."
+          ]
+        },
+        {
+          "word": "first stage",
+          "def": "The bottom section of a rocket that fires first",
+          "ex": [
+            "The first stage burns the most fuel.",
+            "The first stage came back to Earth."
+          ]
+        },
+        {
+          "word": "floating platform",
+          "def": "A large flat structure that sits on the surface of the sea",
+          "ex": [
+            "The rocket landed on a floating platform.",
+            "Workers waited on the floating platform."
+          ]
+        },
+        {
+          "word": "net capture",
+          "def": "A way of catching a falling rocket part in a large net",
+          "ex": [
+            "The net capture system worked perfectly.",
+            "Net capture is a new idea in spaceflight."
+          ]
+        },
+        {
+          "word": "astronauts",
+          "def": "People who are trained to travel and work in space",
+          "ex": [
+            "The astronauts spent six months in space.",
+            "China wants to send astronauts to the Moon."
+          ]
+        },
+        {
+          "word": "reusable",
+          "def": "Able to be used more than once",
+          "ex": [
+            "Reusable rockets can save a lot of money.",
+            "The company builds reusable parts."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "The Long March-10B took off and carried a satellite into orbit.",
+          "a": true,
+          "why": "Take off means to leave the ground and begin to fly, which the rocket did before releasing its satellite."
+        },
+        {
+          "s": "China has already caught up with SpaceX and now leads the field.",
+          "a": false,
+          "why": "SpaceX has led for years, so China is still trying to catch up, not leading."
+        },
+        {
+          "s": "After separating, the booster was thrown away into the ocean.",
+          "a": false,
+          "why": "The booster was caught in a net to be used again, so it was not thrown away, which means to get rid of something."
+        },
+        {
+          "s": "Engineers said the landing had failed and did not pay off.",
+          "a": false,
+          "why": "The landing succeeded, so the effort did pay off, which means to bring a good result."
+        },
+        {
+          "s": "Reusing boosters could help companies cut down their costs.",
+          "a": true,
+          "why": "Cut down means to reduce, and flying the same booster again cuts down launch costs."
+        },
+        {
+          "s": "Chinese engineers set up a net system to catch the booster.",
+          "a": true,
+          "why": "Set up means to create or establish something new, which is what the engineers did with the net system."
+        }
+      ]
+    },
+    {
+      "id": "eu-meta-addictive-design-2026",
+      "number": 14,
+      "headline": "Europe says Instagram and Facebook are too addictive",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n14-eu-meta-flat.png",
+      "position": "center 52%",
+      "sources": [
+        {
+          "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579"
+        },
+        {
+          "title": "EU says 'addictive' features on Instagram and Facebook breach its rules",
+          "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules"
+        },
+        {
+          "title": "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope",
+          "url": "https://www.theregister.com/personal-tech/2026/07/10/eu-puts-addictive-design-of-facebook-instagram-under-the-dsa-microscope/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "The European Union has {{spoken out}} against two of the world's most popular apps. Officials said that Instagram and Facebook, which are both owned by the company Meta, are designed to be too [[addictive]]. They believe the apps break a European law called the Digital Services Act, because their design can harm users' health and [[wellbeing]].",
+          "verbs": [
+            {
+              "display": "spoken out",
+              "base": "speak out",
+              "wrong": "To start a legal case against someone",
+              "correct": "To publicly say what you think",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The [[regulators]] {{pointed out}} three features that keep people using the apps for hours. One feature, called [[infinite scroll]], lets a [[feed]] load forever; videos {{start up}} on their own through [[autoplay]]; and the app keeps {{serving up}} posts it thinks you will like. Together, officials said, these tricks push the brain into \"autopilot,\" so users {{end up}} scrolling without really deciding to.",
+          "verbs": [
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "wrong": "To officially declare something illegal",
+              "correct": "To tell someone about a fact or detail",
+              "correctFirst": true
+            },
+            {
+              "display": "start up",
+              "base": "start up",
+              "wrong": "To play without any sound",
+              "correct": "To begin or start operating",
+              "correctFirst": false
+            },
+            {
+              "display": "serving up",
+              "base": "serve up",
+              "wrong": "To save something for you to watch later",
+              "correct": "To present or offer something",
+              "correctFirst": false
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "wrong": "To lose track of time completely",
+              "correct": "To reach a final situation or place",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Europe now wants Meta to {{turn off}} infinite scroll and autoplay unless a user chooses them, and to {{cut down}} how much the app decides for each person. Meta does not agree. It says it has already {{brought in}} strong rules to protect [[teenagers]], and that the check does not fairly show the steps it has taken.",
+          "verbs": [
+            {
+              "display": "turn off",
+              "base": "turn off",
+              "wrong": "To make a feature harder to find",
+              "correct": "To stop a machine or feature from working",
+              "correctFirst": false
+            },
+            {
+              "display": "cut down",
+              "base": "cut down",
+              "wrong": "To let users make every choice",
+              "correct": "To reduce the amount of something",
+              "correctFirst": true
+            },
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "wrong": "To promise stronger rules for the future",
+              "correct": "To introduce a new rule, law, or system",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "If Meta cannot win the argument, it may have to {{pay out}} a very large [[fine]], up to 6% of the money it makes around the world each year. The company can still respond before Europe {{hands down}} a final decision in the coming months. Many doctors say that endless scrolling can {{bring on}} [[anxiety]] and low moods in young people, and some want the apps to {{take away}} these features for good.",
+          "verbs": [
+            {
+              "display": "pay out",
+              "base": "pay out",
+              "wrong": "To lose money because of falling sales",
+              "correct": "To pay a large amount of money",
+              "correctFirst": false
+            },
+            {
+              "display": "hands down",
+              "base": "hand down",
+              "wrong": "To discuss a decision in private",
+              "correct": "To officially give a decision or judgment",
+              "correctFirst": true
+            },
+            {
+              "display": "bring on",
+              "base": "bring on",
+              "wrong": "To make an illness harder to treat",
+              "correct": "To cause something unpleasant to happen",
+              "correctFirst": false
+            },
+            {
+              "display": "take away",
+              "base": "take away",
+              "wrong": "To hide a feature from young users",
+              "correct": "To remove something and carry it away",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Speak out",
+          "def": "To publicly say what you think",
+          "ex": [
+            "She spoke out against the new law.",
+            "More people are speaking out about the problem.",
+            "He was brave to speak out at the meeting."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell someone about a fact or detail",
+          "ex": [
+            "She pointed out a mistake in my essay.",
+            "He pointed out that the shop was closed.",
+            "The guide pointed out the oldest building."
+          ]
+        },
+        {
+          "verb": "Start up",
+          "def": "To begin or start operating",
+          "ex": [
+            "The engine started up with a loud noise.",
+            "The videos start up on their own.",
+            "The machine takes a minute to start up."
+          ]
+        },
+        {
+          "verb": "Serve up",
+          "def": "To present or offer something",
+          "ex": [
+            "The app keeps serving up new videos.",
+            "The website serves up ads between posts.",
+            "Radio stations serve up the same songs all day."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To reach a final situation or place",
+          "ex": [
+            "We ended up staying home all day.",
+            "If you are not careful, you end up spending hours online.",
+            "They got lost and ended up in the wrong town."
+          ]
+        },
+        {
+          "verb": "Turn off",
+          "def": "To stop a machine or feature from working",
+          "ex": [
+            "Please turn off the lights when you leave.",
+            "You can turn off autoplay in the settings.",
+            "He turned off his phone during dinner."
+          ]
+        },
+        {
+          "verb": "Cut down",
+          "def": "To reduce the amount of something",
+          "ex": [
+            "I want to cut down my screen time.",
+            "The company cut down its spending.",
+            "Try to cut down on sugar."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To introduce a new rule, law, or system",
+          "ex": [
+            "The school brought in a new phone rule.",
+            "The city brought in a law to reduce noise.",
+            "They brought in stronger safety checks."
+          ]
+        },
+        {
+          "verb": "Pay out",
+          "def": "To pay a large amount of money",
+          "ex": [
+            "The company had to pay out a huge fine.",
+            "Insurance will pay out after the accident.",
+            "They paid out millions to the workers."
+          ]
+        },
+        {
+          "verb": "Hand down",
+          "def": "To officially give a decision or judgment",
+          "ex": [
+            "The judge will hand down a decision next week.",
+            "The court handed down a heavy fine.",
+            "Officials handed down their ruling today."
+          ]
+        },
+        {
+          "verb": "Bring on",
+          "def": "To cause something unpleasant to happen",
+          "ex": [
+            "Too much stress can bring on headaches.",
+            "The bad news brought on a wave of worry.",
+            "Cold weather can bring on a cold."
+          ]
+        },
+        {
+          "verb": "Take away",
+          "def": "To remove something and carry it away",
+          "ex": [
+            "Waiters came to take away the plates.",
+            "The storm took away part of the roof.",
+            "Please take away these old boxes."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "addictive",
+          "def": "Very hard to stop using or doing",
+          "ex": [
+            "Many games are designed to be addictive.",
+            "Sugar can be addictive for some people."
+          ]
+        },
+        {
+          "word": "wellbeing",
+          "def": "The state of being healthy and happy",
+          "ex": [
+            "The school cares about students' wellbeing.",
+            "Exercise is good for your wellbeing."
+          ]
+        },
+        {
+          "word": "regulators",
+          "def": "Officials who make sure companies follow the rules",
+          "ex": [
+            "Regulators fined the bank last year.",
+            "The regulators asked the company for answers."
+          ]
+        },
+        {
+          "word": "infinite scroll",
+          "def": "A design that lets a feed keep loading new posts without ever ending",
+          "ex": [
+            "Infinite scroll makes it hard to stop.",
+            "The app removed infinite scroll for teenagers."
+          ]
+        },
+        {
+          "word": "autoplay",
+          "def": "A setting that makes videos start playing on their own",
+          "ex": [
+            "Turn off autoplay to save data.",
+            "Autoplay started the next video at once."
+          ]
+        },
+        {
+          "word": "feed",
+          "def": "The stream of posts you see when you open a social media app",
+          "ex": [
+            "Her feed was full of holiday photos.",
+            "The app changed how the feed works."
+          ]
+        },
+        {
+          "word": "fine",
+          "def": "Money that must be paid as a punishment",
+          "ex": [
+            "He paid a fine for parking there.",
+            "The company faces a huge fine."
+          ]
+        },
+        {
+          "word": "anxiety",
+          "def": "A feeling of worry or fear",
+          "ex": [
+            "She felt anxiety before the exam.",
+            "Too much news can cause anxiety."
+          ]
+        },
+        {
+          "word": "teenagers",
+          "def": "Young people between about 13 and 19 years old",
+          "ex": [
+            "The app is popular with teenagers.",
+            "Many teenagers use their phones late at night."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "Europe wants Meta to turn off infinite scroll and autoplay by default.",
+          "a": true,
+          "why": "Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."
+        },
+        {
+          "s": "The regulators pointed out only one feature that keeps people hooked.",
+          "a": false,
+          "why": "The regulators pointed out three features, not one: infinite scroll, autoplay, and personalized posts."
+        },
+        {
+          "s": "Meta agreed at once and brought in all the changes the EU asked for.",
+          "a": false,
+          "why": "Meta did not agree; it disputed the findings, so it did not bring in, or introduce, the changes."
+        },
+        {
+          "s": "The European Union spoke out against Instagram and Facebook's design.",
+          "a": true,
+          "why": "Speak out means to publicly say what you think, which the EU did against the two apps."
+        },
+        {
+          "s": "If Meta loses, it could pay out up to 6% of its yearly global turnover.",
+          "a": true,
+          "why": "Pay out means to pay a large amount, and the fine could reach 6% of Meta's yearly turnover."
+        },
+        {
+          "s": "Doctors say that endless scrolling helps take away anxiety in young people.",
+          "a": false,
+          "why": "Doctors warn that scrolling can bring on, or cause, anxiety; it does not take it away."
+        }
+      ]
+    },
+    {
       "id": "ukraine-drone-oil-strikes-2026",
       "headline": "Ukraine hits Russian oil sites with drones",
       "badge": "World",
@@ -10106,1386 +12200,6 @@
           "s": "This new study takes away from the growing list of animals that can count in some way.",
           "a": false,
           "why": "The study adds to (makes bigger) the growing list of animals that can count. Take away from means to make smaller, the opposite."
-        }
-      ]
-    },
-    {
-      "id": "china-rocket-recovery-2026",
-      "number": 15,
-      "headline": "China lands a rocket booster on a ship at sea",
-      "badge": "Science",
-      "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n15-china-rocket.png",
-      "position": "center 62%",
-      "sources": [
-        {
-          "title": "Making history! China lands rocket during an orbital launch for 1st time ever",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever"
-        },
-        {
-          "title": "China becomes second country to recover orbital booster with Long March 10B",
-          "url": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/"
-        },
-        {
-          "title": "China Successfully Launches, Retrieves Reusable Rocket Booster",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-10/china-successfully-launches-retrieves-reusable-rocket-booster"
-        }
-      ],
-      "chunks": [
-        {
-          "text": "China has {{pulled off}} a major step in [[space travel]]. From the Hainan Commercial Space Launch Site, a new rocket called the Long March-10B {{took off}}, carried a [[satellite]] into [[orbit]], and then guided its huge lower part, or [[booster]], safely back to Earth. China became only the second country, after the United States, to recover an orbital rocket so it can be used again.",
-          "verbs": [
-            {
-              "display": "pulled off",
-              "base": "pull off",
-              "wrong": "To try something for the first time",
-              "correct": "To succeed in doing something difficult",
-              "correctFirst": false
-            },
-            {
-              "display": "took off",
-              "base": "take off",
-              "wrong": "To break away from another part",
-              "correct": "To leave the ground and begin to fly",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "After the rocket climbed high into the sky, its [[first stage]] separated and {{came down}} toward the sea. About six minutes later, a giant net on a [[floating platform]] caught it. Chinese engineers had {{set up}} this [[net capture]] system, and they had never {{tried out}} such a design in a real flight before.",
-          "verbs": [
-            {
-              "display": "came down",
-              "base": "come down",
-              "wrong": "To slow down before landing",
-              "correct": "To move down toward a lower place",
-              "correctFirst": false
-            },
-            {
-              "display": "set up",
-              "base": "set up",
-              "wrong": "To invent something completely new",
-              "correct": "To create or establish something new",
-              "correctFirst": false
-            },
-            {
-              "display": "tried out",
-              "base": "try out",
-              "wrong": "To practice something many times",
-              "correct": "To test something to see if it works",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "Landing a booster is difficult, but it {{pays off}}. Normally, rockets are used only once and then {{thrown away}}. If the same booster can fly again and again, companies can {{cut down}} their costs and launch far more often. For years, the American company SpaceX has led this field, and China is now working hard to {{catch up}}.",
-          "verbs": [
-            {
-              "display": "pays off",
-              "base": "pay off",
-              "wrong": "To become easier with practice",
-              "correct": "To bring a good result after effort",
-              "correctFirst": false
-            },
-            {
-              "display": "thrown away",
-              "base": "throw away",
-              "wrong": "To let something fall into the sea",
-              "correct": "To get rid of something you do not want",
-              "correctFirst": true
-            },
-            {
-              "display": "cut down",
-              "base": "cut down",
-              "wrong": "To share costs with other companies",
-              "correct": "To reduce the amount of something",
-              "correctFirst": true
-            },
-            {
-              "display": "catch up",
-              "base": "catch up",
-              "wrong": "To copy another company's design",
-              "correct": "To reach the same level as someone ahead",
-              "correctFirst": false
-            }
-          ]
-        },
-        {
-          "text": "The Long March-10B stands about 63 meters tall, and one day it may help {{carry out}} China's plan to send [[astronauts]] to the Moon. Engineers now want to {{look over}} the returned booster, and they hope to fly it again before the end of the year. If everything {{goes ahead}} as planned, [[reusable]] Chinese rockets could soon become normal.",
-          "verbs": [
-            {
-              "display": "carry out",
-              "base": "carry out",
-              "wrong": "To announce a plan to the world",
-              "correct": "To do or complete a planned task or action",
-              "correctFirst": false
-            },
-            {
-              "display": "look over",
-              "base": "look over",
-              "wrong": "To repair something before using it again",
-              "correct": "To examine or check something carefully",
-              "correctFirst": true
-            },
-            {
-              "display": "goes ahead",
-              "base": "go ahead",
-              "wrong": "To finish earlier than expected",
-              "correct": "To happen or continue as planned",
-              "correctFirst": true
-            }
-          ]
-        }
-      ],
-      "vocab": [
-        {
-          "verb": "Pull off",
-          "def": "To succeed in doing something difficult",
-          "ex": [
-            "The team pulled off a surprising win in the final minute.",
-            "It was a hard plan, but they pulled it off.",
-            "She pulled off the difficult trick on her first try."
-          ]
-        },
-        {
-          "verb": "Take off",
-          "def": "To leave the ground and begin to fly",
-          "ex": [
-            "The plane took off on time.",
-            "We watched the rocket take off into the sky.",
-            "The birds took off when they heard the noise."
-          ]
-        },
-        {
-          "verb": "Come down",
-          "def": "To move down toward a lower place",
-          "ex": [
-            "The balloon slowly came down into the field.",
-            "Rain came down hard all afternoon.",
-            "The climber came down from the mountain before dark."
-          ]
-        },
-        {
-          "verb": "Set up",
-          "def": "To create or establish something new",
-          "ex": [
-            "They set up a new company last year.",
-            "The teacher set up the room before class.",
-            "Engineers set up a system to test the rocket."
-          ]
-        },
-        {
-          "verb": "Try out",
-          "def": "To test something to see if it works",
-          "ex": [
-            "He tried out the new bike before buying it.",
-            "The chefs tried out a new recipe.",
-            "Scientists tried out the design in the lab."
-          ]
-        },
-        {
-          "verb": "Pay off",
-          "def": "To bring a good result after effort",
-          "ex": [
-            "All her hard work finally paid off.",
-            "The training paid off when the team won.",
-            "Saving money now will pay off later."
-          ]
-        },
-        {
-          "verb": "Throw away",
-          "def": "To get rid of something you do not want",
-          "ex": [
-            "Do not throw away those old letters.",
-            "He threw away the broken toy.",
-            "We should not throw away food that is still good."
-          ]
-        },
-        {
-          "verb": "Cut down",
-          "def": "To reduce the amount of something",
-          "ex": [
-            "The company wants to cut down its costs.",
-            "I am trying to cut down my screen time.",
-            "They cut down the number of flights."
-          ]
-        },
-        {
-          "verb": "Catch up",
-          "def": "To reach the same level as someone ahead",
-          "ex": [
-            "She ran fast to catch up with the group.",
-            "Our team is trying to catch up with the leaders.",
-            "He studied hard to catch up in class."
-          ]
-        },
-        {
-          "verb": "Carry out",
-          "def": "To do or complete a planned task or action",
-          "ex": [
-            "The doctors will carry out the tests tomorrow.",
-            "Soldiers carried out their orders.",
-            "The company carried out a survey of its workers."
-          ]
-        },
-        {
-          "verb": "Look over",
-          "def": "To examine or check something carefully",
-          "ex": [
-            "Please look over my report before I send it.",
-            "The judges looked over each project.",
-            "She looked over the car before the trip."
-          ]
-        },
-        {
-          "verb": "Go ahead",
-          "def": "To happen or continue as planned",
-          "ex": [
-            "The concert will go ahead despite the rain.",
-            "If the plan goes ahead, work starts in May.",
-            "The wedding went ahead as planned."
-          ]
-        }
-      ],
-      "wordDefs": [
-        {
-          "word": "space travel",
-          "def": "The activity of flying and exploring in space",
-          "ex": [
-            "Space travel is very expensive.",
-            "She dreams of a career in space travel."
-          ]
-        },
-        {
-          "word": "satellite",
-          "def": "A machine sent into space to travel around the Earth",
-          "ex": [
-            "The satellite sends TV signals to homes.",
-            "A new weather satellite was launched today."
-          ]
-        },
-        {
-          "word": "orbit",
-          "def": "The curved path an object follows around a planet",
-          "ex": [
-            "The spacecraft reached orbit safely.",
-            "The Moon stays in orbit around the Earth."
-          ]
-        },
-        {
-          "word": "booster",
-          "def": "The powerful lower part of a rocket that lifts it off the ground",
-          "ex": [
-            "The booster fell away after two minutes.",
-            "Engineers hope to reuse the booster."
-          ]
-        },
-        {
-          "word": "first stage",
-          "def": "The bottom section of a rocket that fires first",
-          "ex": [
-            "The first stage burns the most fuel.",
-            "The first stage came back to Earth."
-          ]
-        },
-        {
-          "word": "floating platform",
-          "def": "A large flat structure that sits on the surface of the sea",
-          "ex": [
-            "The rocket landed on a floating platform.",
-            "Workers waited on the floating platform."
-          ]
-        },
-        {
-          "word": "net capture",
-          "def": "A way of catching a falling rocket part in a large net",
-          "ex": [
-            "The net capture system worked perfectly.",
-            "Net capture is a new idea in spaceflight."
-          ]
-        },
-        {
-          "word": "astronauts",
-          "def": "People who are trained to travel and work in space",
-          "ex": [
-            "The astronauts spent six months in space.",
-            "China wants to send astronauts to the Moon."
-          ]
-        },
-        {
-          "word": "reusable",
-          "def": "Able to be used more than once",
-          "ex": [
-            "Reusable rockets can save a lot of money.",
-            "The company builds reusable parts."
-          ]
-        }
-      ],
-      "tf": [
-        {
-          "s": "The Long March-10B took off and carried a satellite into orbit.",
-          "a": true,
-          "why": "Take off means to leave the ground and begin to fly, which the rocket did before releasing its satellite."
-        },
-        {
-          "s": "China has already caught up with SpaceX and now leads the field.",
-          "a": false,
-          "why": "SpaceX has led for years, so China is still trying to catch up, not leading."
-        },
-        {
-          "s": "After separating, the booster was thrown away into the ocean.",
-          "a": false,
-          "why": "The booster was caught in a net to be used again, so it was not thrown away, which means to get rid of something."
-        },
-        {
-          "s": "Engineers said the landing had failed and did not pay off.",
-          "a": false,
-          "why": "The landing succeeded, so the effort did pay off, which means to bring a good result."
-        },
-        {
-          "s": "Reusing boosters could help companies cut down their costs.",
-          "a": true,
-          "why": "Cut down means to reduce, and flying the same booster again cuts down launch costs."
-        },
-        {
-          "s": "Chinese engineers set up a net system to catch the booster.",
-          "a": true,
-          "why": "Set up means to create or establish something new, which is what the engineers did with the net system."
-        }
-      ]
-    },
-    {
-      "id": "eu-meta-addictive-design-2026",
-      "number": 14,
-      "headline": "Europe says Instagram and Facebook are too addictive",
-      "badge": "Technology",
-      "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n14-eu-meta-flat.png",
-      "position": "center 52%",
-      "sources": [
-        {
-          "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
-          "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579"
-        },
-        {
-          "title": "EU says 'addictive' features on Instagram and Facebook breach its rules",
-          "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules"
-        },
-        {
-          "title": "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope",
-          "url": "https://www.theregister.com/personal-tech/2026/07/10/eu-puts-addictive-design-of-facebook-instagram-under-the-dsa-microscope/"
-        }
-      ],
-      "chunks": [
-        {
-          "text": "The European Union has {{spoken out}} against two of the world's most popular apps. Officials said that Instagram and Facebook, which are both owned by the company Meta, are designed to be too [[addictive]]. They believe the apps break a European law called the Digital Services Act, because their design can harm users' health and [[wellbeing]].",
-          "verbs": [
-            {
-              "display": "spoken out",
-              "base": "speak out",
-              "wrong": "To start a legal case against someone",
-              "correct": "To publicly say what you think",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "The [[regulators]] {{pointed out}} three features that keep people using the apps for hours. One feature, called [[infinite scroll]], lets a [[feed]] load forever; videos {{start up}} on their own through [[autoplay]]; and the app keeps {{serving up}} posts it thinks you will like. Together, officials said, these tricks push the brain into \"autopilot,\" so users {{end up}} scrolling without really deciding to.",
-          "verbs": [
-            {
-              "display": "pointed out",
-              "base": "point out",
-              "wrong": "To officially declare something illegal",
-              "correct": "To tell someone about a fact or detail",
-              "correctFirst": true
-            },
-            {
-              "display": "start up",
-              "base": "start up",
-              "wrong": "To play without any sound",
-              "correct": "To begin or start operating",
-              "correctFirst": false
-            },
-            {
-              "display": "serving up",
-              "base": "serve up",
-              "wrong": "To save something for you to watch later",
-              "correct": "To present or offer something",
-              "correctFirst": false
-            },
-            {
-              "display": "end up",
-              "base": "end up",
-              "wrong": "To lose track of time completely",
-              "correct": "To reach a final situation or place",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "Europe now wants Meta to {{turn off}} infinite scroll and autoplay unless a user chooses them, and to {{cut down}} how much the app decides for each person. Meta does not agree. It says it has already {{brought in}} strong rules to protect [[teenagers]], and that the check does not fairly show the steps it has taken.",
-          "verbs": [
-            {
-              "display": "turn off",
-              "base": "turn off",
-              "wrong": "To make a feature harder to find",
-              "correct": "To stop a machine or feature from working",
-              "correctFirst": false
-            },
-            {
-              "display": "cut down",
-              "base": "cut down",
-              "wrong": "To let users make every choice",
-              "correct": "To reduce the amount of something",
-              "correctFirst": true
-            },
-            {
-              "display": "brought in",
-              "base": "bring in",
-              "wrong": "To promise stronger rules for the future",
-              "correct": "To introduce a new rule, law, or system",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "If Meta cannot win the argument, it may have to {{pay out}} a very large [[fine]], up to 6% of the money it makes around the world each year. The company can still respond before Europe {{hands down}} a final decision in the coming months. Many doctors say that endless scrolling can {{bring on}} [[anxiety]] and low moods in young people, and some want the apps to {{take away}} these features for good.",
-          "verbs": [
-            {
-              "display": "pay out",
-              "base": "pay out",
-              "wrong": "To lose money because of falling sales",
-              "correct": "To pay a large amount of money",
-              "correctFirst": false
-            },
-            {
-              "display": "hands down",
-              "base": "hand down",
-              "wrong": "To discuss a decision in private",
-              "correct": "To officially give a decision or judgment",
-              "correctFirst": true
-            },
-            {
-              "display": "bring on",
-              "base": "bring on",
-              "wrong": "To make an illness harder to treat",
-              "correct": "To cause something unpleasant to happen",
-              "correctFirst": false
-            },
-            {
-              "display": "take away",
-              "base": "take away",
-              "wrong": "To hide a feature from young users",
-              "correct": "To remove something and carry it away",
-              "correctFirst": false
-            }
-          ]
-        }
-      ],
-      "vocab": [
-        {
-          "verb": "Speak out",
-          "def": "To publicly say what you think",
-          "ex": [
-            "She spoke out against the new law.",
-            "More people are speaking out about the problem.",
-            "He was brave to speak out at the meeting."
-          ]
-        },
-        {
-          "verb": "Point out",
-          "def": "To tell someone about a fact or detail",
-          "ex": [
-            "She pointed out a mistake in my essay.",
-            "He pointed out that the shop was closed.",
-            "The guide pointed out the oldest building."
-          ]
-        },
-        {
-          "verb": "Start up",
-          "def": "To begin or start operating",
-          "ex": [
-            "The engine started up with a loud noise.",
-            "The videos start up on their own.",
-            "The machine takes a minute to start up."
-          ]
-        },
-        {
-          "verb": "Serve up",
-          "def": "To present or offer something",
-          "ex": [
-            "The app keeps serving up new videos.",
-            "The website serves up ads between posts.",
-            "Radio stations serve up the same songs all day."
-          ]
-        },
-        {
-          "verb": "End up",
-          "def": "To reach a final situation or place",
-          "ex": [
-            "We ended up staying home all day.",
-            "If you are not careful, you end up spending hours online.",
-            "They got lost and ended up in the wrong town."
-          ]
-        },
-        {
-          "verb": "Turn off",
-          "def": "To stop a machine or feature from working",
-          "ex": [
-            "Please turn off the lights when you leave.",
-            "You can turn off autoplay in the settings.",
-            "He turned off his phone during dinner."
-          ]
-        },
-        {
-          "verb": "Cut down",
-          "def": "To reduce the amount of something",
-          "ex": [
-            "I want to cut down my screen time.",
-            "The company cut down its spending.",
-            "Try to cut down on sugar."
-          ]
-        },
-        {
-          "verb": "Bring in",
-          "def": "To introduce a new rule, law, or system",
-          "ex": [
-            "The school brought in a new phone rule.",
-            "The city brought in a law to reduce noise.",
-            "They brought in stronger safety checks."
-          ]
-        },
-        {
-          "verb": "Pay out",
-          "def": "To pay a large amount of money",
-          "ex": [
-            "The company had to pay out a huge fine.",
-            "Insurance will pay out after the accident.",
-            "They paid out millions to the workers."
-          ]
-        },
-        {
-          "verb": "Hand down",
-          "def": "To officially give a decision or judgment",
-          "ex": [
-            "The judge will hand down a decision next week.",
-            "The court handed down a heavy fine.",
-            "Officials handed down their ruling today."
-          ]
-        },
-        {
-          "verb": "Bring on",
-          "def": "To cause something unpleasant to happen",
-          "ex": [
-            "Too much stress can bring on headaches.",
-            "The bad news brought on a wave of worry.",
-            "Cold weather can bring on a cold."
-          ]
-        },
-        {
-          "verb": "Take away",
-          "def": "To remove something and carry it away",
-          "ex": [
-            "Waiters came to take away the plates.",
-            "The storm took away part of the roof.",
-            "Please take away these old boxes."
-          ]
-        }
-      ],
-      "wordDefs": [
-        {
-          "word": "addictive",
-          "def": "Very hard to stop using or doing",
-          "ex": [
-            "Many games are designed to be addictive.",
-            "Sugar can be addictive for some people."
-          ]
-        },
-        {
-          "word": "wellbeing",
-          "def": "The state of being healthy and happy",
-          "ex": [
-            "The school cares about students' wellbeing.",
-            "Exercise is good for your wellbeing."
-          ]
-        },
-        {
-          "word": "regulators",
-          "def": "Officials who make sure companies follow the rules",
-          "ex": [
-            "Regulators fined the bank last year.",
-            "The regulators asked the company for answers."
-          ]
-        },
-        {
-          "word": "infinite scroll",
-          "def": "A design that lets a feed keep loading new posts without ever ending",
-          "ex": [
-            "Infinite scroll makes it hard to stop.",
-            "The app removed infinite scroll for teenagers."
-          ]
-        },
-        {
-          "word": "autoplay",
-          "def": "A setting that makes videos start playing on their own",
-          "ex": [
-            "Turn off autoplay to save data.",
-            "Autoplay started the next video at once."
-          ]
-        },
-        {
-          "word": "feed",
-          "def": "The stream of posts you see when you open a social media app",
-          "ex": [
-            "Her feed was full of holiday photos.",
-            "The app changed how the feed works."
-          ]
-        },
-        {
-          "word": "fine",
-          "def": "Money that must be paid as a punishment",
-          "ex": [
-            "He paid a fine for parking there.",
-            "The company faces a huge fine."
-          ]
-        },
-        {
-          "word": "anxiety",
-          "def": "A feeling of worry or fear",
-          "ex": [
-            "She felt anxiety before the exam.",
-            "Too much news can cause anxiety."
-          ]
-        },
-        {
-          "word": "teenagers",
-          "def": "Young people between about 13 and 19 years old",
-          "ex": [
-            "The app is popular with teenagers.",
-            "Many teenagers use their phones late at night."
-          ]
-        }
-      ],
-      "tf": [
-        {
-          "s": "Europe wants Meta to turn off infinite scroll and autoplay by default.",
-          "a": true,
-          "why": "Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."
-        },
-        {
-          "s": "The regulators pointed out only one feature that keeps people hooked.",
-          "a": false,
-          "why": "The regulators pointed out three features, not one: infinite scroll, autoplay, and personalized posts."
-        },
-        {
-          "s": "Meta agreed at once and brought in all the changes the EU asked for.",
-          "a": false,
-          "why": "Meta did not agree; it disputed the findings, so it did not bring in, or introduce, the changes."
-        },
-        {
-          "s": "The European Union spoke out against Instagram and Facebook's design.",
-          "a": true,
-          "why": "Speak out means to publicly say what you think, which the EU did against the two apps."
-        },
-        {
-          "s": "If Meta loses, it could pay out up to 6% of its yearly global turnover.",
-          "a": true,
-          "why": "Pay out means to pay a large amount, and the fine could reach 6% of Meta's yearly turnover."
-        },
-        {
-          "s": "Doctors say that endless scrolling helps take away anxiety in young people.",
-          "a": false,
-          "why": "Doctors warn that scrolling can bring on, or cause, anxiety; it does not take it away."
-        }
-      ]
-    },
-    {
-      "id": "typhoon-bavi-china-2026",
-      "number": 16,
-      "headline": "A huge typhoon forces a million people from their homes",
-      "badge": "World",
-      "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n16-typhoon-bavi-flat.png",
-      "position": "center 80%",
-      "sources": [
-        {
-          "title": "More than 1.7 million evacuated as Typhoon Bavi makes landfall in China",
-          "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china"
-        },
-        {
-          "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
-          "url": "https://www.pbs.org/newshour/world/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated"
-        },
-        {
-          "title": "China evacuates over one million as Typhoon Bavi nears",
-          "url": "https://www.usnews.com/news/world/articles/2026-07-11/china-evacuates-over-one-million-as-typhoon-bavi-nears"
-        }
-      ],
-      "chunks": [
-        {
-          "text": "A powerful storm called Typhoon Bavi has {{moved in}} on eastern China. Before it reached land, officials {{moved out}} more than 1.7 million people from towns near the [[coast]] in Zhejiang [[province]]. China's weather service {{put out}} an orange [[alert]], the second-highest warning level.",
-          "verbs": [
-            {
-              "display": "moved in",
-              "base": "move in",
-              "wrong": "To grow stronger very quickly",
-              "correct": "To come closer in a threatening way",
-              "correctFirst": true
-            },
-            {
-              "display": "moved out",
-              "base": "move out",
-              "wrong": "To warn people that danger is coming",
-              "correct": "To make people leave a place",
-              "correctFirst": false
-            },
-            {
-              "display": "put out",
-              "base": "put out",
-              "wrong": "To raise a warning to a higher level",
-              "correct": "To produce or give out something",
-              "correctFirst": false
-            }
-          ]
-        },
-        {
-          "text": "Out at sea, Bavi had {{built up}} into a huge [[typhoon]] with winds near 89 miles per hour. On its way, it {{passed by}} the Philippines and Taiwan, where the storm killed and hurt many people. Weather [[forecasters]] warned that it could {{knock down}} trees and flood streets when it reached the coastal city of Yuhuan late on Saturday night.",
-          "verbs": [
-            {
-              "display": "built up",
-              "base": "build up",
-              "wrong": "To move quickly across the ocean",
-              "correct": "To slowly become bigger or stronger",
-              "correctFirst": true
-            },
-            {
-              "display": "passed by",
-              "base": "pass by",
-              "wrong": "To stop in a place for a short time",
-              "correct": "To move past a place without stopping",
-              "correctFirst": true
-            },
-            {
-              "display": "knock down",
-              "base": "knock down",
-              "wrong": "To pull something out of the ground",
-              "correct": "To hit something so it falls to the ground",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "The typhoon {{shut down}} normal life across the [[region]]. Airlines {{called off}} hundreds of flights, and fast trains and [[ferry]] services stopped for the weekend. Officials also {{set up}} [[shelters]] where families could stay safe until the danger passed.",
-          "verbs": [
-            {
-              "display": "shut down",
-              "base": "shut down",
-              "wrong": "To force people to stay in their homes",
-              "correct": "To stop something from working or being open",
-              "correctFirst": false
-            },
-            {
-              "display": "called off",
-              "base": "call off",
-              "wrong": "To move something to a later date",
-              "correct": "To cancel something that was planned",
-              "correctFirst": true
-            },
-            {
-              "display": "set up",
-              "base": "set up",
-              "wrong": "To pay the cost of something for other people",
-              "correct": "To create or arrange something",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "Rescue teams {{teamed up}} to get ready for the worst. In Fujian province, more than 17,000 [[rescue]] workers were {{standing by}}, ready to help, and the government promised millions of dollars for relief. Officials hoped that all of this careful planning would {{pay off}} and keep people safe.",
-          "verbs": [
-            {
-              "display": "teamed up",
-              "base": "team up",
-              "wrong": "To share information with each other",
-              "correct": "To join with others to work together",
-              "correctFirst": true
-            },
-            {
-              "display": "standing by",
-              "base": "stand by",
-              "wrong": "To promise to support a person no matter what",
-              "correct": "To be ready to help or act at any moment",
-              "correctFirst": true
-            },
-            {
-              "display": "pay off",
-              "base": "pay off",
-              "wrong": "To happen exactly the way it was planned",
-              "correct": "To bring a good result after hard work",
-              "correctFirst": true
-            }
-          ]
-        }
-      ],
-      "vocab": [
-        {
-          "verb": "Move in",
-          "def": "To come closer in a threatening way",
-          "ex": [
-            "Dark clouds moved in before the rain started.",
-            "The army moved in on the town at night.",
-            "A cold front is moving in from the north."
-          ]
-        },
-        {
-          "verb": "Move out",
-          "def": "To make people leave a place",
-          "ex": [
-            "Police moved out the crowd for safety.",
-            "The town moved out families before the flood.",
-            "They moved out everyone near the fire."
-          ]
-        },
-        {
-          "verb": "Put out",
-          "def": "To produce or give out something",
-          "ex": [
-            "The office put out a new report today.",
-            "The government put out a warning about the storm.",
-            "The company put out a short statement."
-          ]
-        },
-        {
-          "verb": "Build up",
-          "def": "To slowly become bigger or stronger",
-          "ex": [
-            "Traffic builds up during rush hour.",
-            "Pressure was building up before the storm.",
-            "Excitement built up before the game."
-          ]
-        },
-        {
-          "verb": "Pass by",
-          "def": "To move past a place without stopping",
-          "ex": [
-            "The storm passed by the coast during the night.",
-            "We passed by your house on the way home.",
-            "A parade passed by the school."
-          ]
-        },
-        {
-          "verb": "Knock down",
-          "def": "To hit something so it falls to the ground",
-          "ex": [
-            "The strong wind knocked down several trees.",
-            "The car knocked down a road sign.",
-            "Workers knocked down the old wall."
-          ]
-        },
-        {
-          "verb": "Shut down",
-          "def": "To stop something from working or being open",
-          "ex": [
-            "The storm shut down the whole airport.",
-            "They shut down the factory for the holiday.",
-            "Bad weather shut down the roads."
-          ]
-        },
-        {
-          "verb": "Call off",
-          "def": "To cancel something that was planned",
-          "ex": [
-            "They called off the match because of rain.",
-            "The trip was called off at the last minute.",
-            "Officials called off the event for safety."
-          ]
-        },
-        {
-          "verb": "Set up",
-          "def": "To create or arrange something",
-          "ex": [
-            "The city set up shelters for the storm.",
-            "They set up a new website in one day.",
-            "We set up a meeting for Monday."
-          ]
-        },
-        {
-          "verb": "Team up",
-          "def": "To join with others to work together",
-          "ex": [
-            "The two countries teamed up to fight the fire.",
-            "She teamed up with a friend for the project.",
-            "Doctors teamed up to help the patients."
-          ]
-        },
-        {
-          "verb": "Stand by",
-          "def": "To be ready to help or act at any moment",
-          "ex": [
-            "Rescue teams were standing by all night.",
-            "Doctors stood by in case of an accident.",
-            "Please stand by for more news."
-          ]
-        },
-        {
-          "verb": "Pay off",
-          "def": "To bring a good result after hard work",
-          "ex": [
-            "All her practice finally paid off.",
-            "The careful plan paid off in the end.",
-            "Their hard work paid off with a win."
-          ]
-        }
-      ],
-      "wordDefs": [
-        {
-          "word": "coast",
-          "def": "The land next to the sea",
-          "ex": [
-            "They live near the coast.",
-            "We walked along the coast."
-          ]
-        },
-        {
-          "word": "province",
-          "def": "A large area of a country, like a state",
-          "ex": [
-            "China has many provinces.",
-            "She grew up in a small province."
-          ]
-        },
-        {
-          "word": "alert",
-          "def": "A warning that danger may be coming",
-          "ex": [
-            "The city sent out a flood alert.",
-            "People got a weather alert on their phones."
-          ]
-        },
-        {
-          "word": "typhoon",
-          "def": "A very strong tropical storm with powerful winds",
-          "ex": [
-            "The typhoon brought heavy rain.",
-            "Typhoons are common in this area."
-          ]
-        },
-        {
-          "word": "forecasters",
-          "def": "People who study and say what the weather will be",
-          "ex": [
-            "Forecasters said it would rain.",
-            "The forecasters were right about the storm."
-          ]
-        },
-        {
-          "word": "region",
-          "def": "A large area of land",
-          "ex": [
-            "This region is very dry.",
-            "The storm hit the whole region."
-          ]
-        },
-        {
-          "word": "ferry",
-          "def": "A boat that carries people or cars across water",
-          "ex": [
-            "We took the ferry to the island.",
-            "The ferry runs every hour."
-          ]
-        },
-        {
-          "word": "shelters",
-          "def": "Safe places where people can stay during danger",
-          "ex": [
-            "The shelters were full of families.",
-            "They opened shelters before the storm."
-          ]
-        },
-        {
-          "word": "rescue",
-          "def": "The act of saving someone from danger",
-          "ex": [
-            "The rescue took many hours.",
-            "Rescue teams reached the village."
-          ]
-        }
-      ],
-      "tf": [
-        {
-          "s": "Only a few workers were ready to help during the storm.",
-          "a": false,
-          "why": "More than 17,000 rescue workers were standing by in Fujian province alone."
-        },
-        {
-          "s": "Airlines called off hundreds of flights because of the storm.",
-          "a": true,
-          "why": "The story says airlines called off hundreds of flights for the weekend."
-        },
-        {
-          "s": "Typhoon Bavi reached the coast in the middle of the day on Monday.",
-          "a": false,
-          "why": "The storm reached the coastal city of Yuhuan late on Saturday night, not on Monday."
-        },
-        {
-          "s": "The storm passed by the Philippines and Taiwan before it reached China.",
-          "a": true,
-          "why": "On its way, Bavi passed by the Philippines and Taiwan, where it killed and hurt many people."
-        },
-        {
-          "s": "Officials moved more than 1.7 million people away from the coast in Zhejiang before the storm arrived.",
-          "a": true,
-          "why": "The story says officials moved out more than 1.7 million people from towns near the coast in Zhejiang province."
-        },
-        {
-          "s": "Officials refused to set up shelters, so families had to stay in their own homes.",
-          "a": false,
-          "why": "False. Officials set up shelters where families could stay safe until the danger passed."
-        }
-      ]
-    },
-    {
-      "id": "apple-openai-lawsuit-2026",
-      "number": 17,
-      "headline": "Apple takes OpenAI to court over stolen secrets",
-      "badge": "Technology",
-      "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n17-apple-openai-flat.png",
-      "position": "center 48%",
-      "sources": [
-        {
-          "title": "Apple sues OpenAI alleging trade secret theft",
-          "url": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html"
-        },
-        {
-          "title": "Apple accuses OpenAI of using stolen trade secrets in new lawsuit",
-          "url": "https://www.cnn.com/2026/07/10/tech/apple-openai-devices-lawsuit"
-        },
-        {
-          "title": "Apple sues OpenAI, alleging the AI company stole trade secrets",
-          "url": "https://www.washingtonpost.com/technology/2026/07/10/apple-sues-openai-alleging-ai-company-stole-trade-secrets/"
-        }
-      ],
-      "chunks": [
-        {
-          "text": "Two of the biggest names in technology have {{fallen out}}. Apple, the company behind the iPhone, has filed a [[lawsuit]] against OpenAI, the maker of ChatGPT. A few of Apple's workers left the company and joined OpenAI, and Apple claims they {{walked off with}} [[confidential]] information to help {{come up with}} a new AI [[device]].",
-          "verbs": [
-            {
-              "display": "fallen out",
-              "base": "fall out",
-              "wrong": "To become less successful than a rival",
-              "correct": "To stop being partners after a quarrel",
-              "correctFirst": true
-            },
-            {
-              "display": "walked off with",
-              "base": "walk off with",
-              "wrong": "To leave a job suddenly, without warning",
-              "correct": "To take something that does not belong to you",
-              "correctFirst": false
-            },
-            {
-              "display": "come up with",
-              "base": "come up with",
-              "wrong": "To improve a product that already exists",
-              "correct": "To think of or create a new idea or plan",
-              "correctFirst": false
-            }
-          ]
-        },
-        {
-          "text": "In its court papers, Apple {{lays out}} how it believes the [[theft]] happened. It says that before these workers left, they {{sent off}} private company files to their own personal email accounts. Apple now wants a [[judge]] to {{step in}} and stop OpenAI from using any of its [[trade secrets]].",
-          "verbs": [
-            {
-              "display": "lays out",
-              "base": "lay out",
-              "wrong": "To prove that something really happened",
-              "correct": "To explain or describe something clearly",
-              "correctFirst": false
-            },
-            {
-              "display": "sent off",
-              "base": "send off",
-              "wrong": "To hide something so that nobody can find it",
-              "correct": "To send something to a place, often by email or mail",
-              "correctFirst": false
-            },
-            {
-              "display": "step in",
-              "base": "step in",
-              "wrong": "To make the final decision in a court case",
-              "correct": "To get involved in order to help or stop a problem",
-              "correctFirst": true
-            }
-          ]
-        },
-        {
-          "text": "OpenAI quickly {{hit back}} at the [[claims]]. A [[spokesperson]] for the company said that OpenAI has no interest in other companies' secrets, and that its lawyers are still {{going over}} the papers. So far, the two sides do not agree, and neither one will {{back down}}.",
-          "verbs": [
-            {
-              "display": "hit back",
-              "base": "hit back",
-              "wrong": "To refuse to answer questions about a problem",
-              "correct": "To reply strongly to an attack or criticism",
-              "correctFirst": false
-            },
-            {
-              "display": "going over",
-              "base": "go over",
-              "wrong": "To correct the mistakes in a document",
-              "correct": "To examine or check something carefully",
-              "correctFirst": true
-            },
-            {
-              "display": "back down",
-              "base": "back down",
-              "wrong": "To admit that you did something wrong",
-              "correct": "To stop demanding something or stop arguing",
-              "correctFirst": false
-            }
-          ]
-        },
-        {
-          "text": "The fight comes as Apple {{moves away}} from OpenAI in another way. Apple has announced that its voice [[assistant]], Siri, will soon {{run on}} Google's Gemini system instead of ChatGPT. Many people had expected the two companies to {{stick together}} for years to come, so the sudden change has surprised the whole tech world.",
-          "verbs": [
-            {
-              "display": "moves away",
-              "base": "move away",
-              "wrong": "To end a contract immediately",
-              "correct": "To gradually stop using something",
-              "correctFirst": true
-            },
-            {
-              "display": "run on",
-              "base": "run on",
-              "wrong": "To be owned by another company",
-              "correct": "To work using a certain kind of power",
-              "correctFirst": false
-            },
-            {
-              "display": "stick together",
-              "base": "stick together",
-              "wrong": "To share their technology with each other",
-              "correct": "To stay united and continue to support each other",
-              "correctFirst": true
-            }
-          ]
-        }
-      ],
-      "vocab": [
-        {
-          "verb": "Fall out",
-          "def": "To stop being partners after a quarrel",
-          "ex": [
-            "The two singers fell out and never worked together again.",
-            "He fell out with his business partner over money.",
-            "Old friends sometimes fall out over small things."
-          ]
-        },
-        {
-          "verb": "Walk off with",
-          "def": "To take something that does not belong to you",
-          "ex": [
-            "Someone walked off with my phone at the gym.",
-            "A visitor walked off with two books from the library.",
-            "The thief walked off with her purse in seconds."
-          ]
-        },
-        {
-          "verb": "Come up with",
-          "def": "To think of or create a new idea or plan",
-          "ex": [
-            "She came up with a great name for the show.",
-            "We need to come up with a plan by Friday.",
-            "He came up with a faster way to finish the job."
-          ]
-        },
-        {
-          "verb": "Lay out",
-          "def": "To explain or describe something clearly",
-          "ex": [
-            "The teacher laid out the rules on the first day.",
-            "The report lays out the plan step by step.",
-            "She laid out her ideas at the meeting."
-          ]
-        },
-        {
-          "verb": "Send off",
-          "def": "To send something to a place, often by email or mail",
-          "ex": [
-            "I sent off the forms this morning.",
-            "He sent off an email before leaving work.",
-            "She sent off the package to her sister."
-          ]
-        },
-        {
-          "verb": "Step in",
-          "def": "To get involved in order to help or stop a problem",
-          "ex": [
-            "The teacher stepped in to stop the argument.",
-            "The government stepped in to save the bank.",
-            "A stranger stepped in and helped the lost child."
-          ]
-        },
-        {
-          "verb": "Hit back",
-          "def": "To reply strongly to an attack or criticism",
-          "ex": [
-            "The actor hit back at the newspaper's story.",
-            "The company hit back at the report with facts.",
-            "She hit back at her critics in an interview."
-          ]
-        },
-        {
-          "verb": "Go over",
-          "def": "To examine or check something carefully",
-          "ex": [
-            "Go over your answers before the test ends.",
-            "The lawyer went over the contract twice.",
-            "We went over the plan one more time."
-          ]
-        },
-        {
-          "verb": "Back down",
-          "def": "To stop demanding something or stop arguing",
-          "ex": [
-            "Neither driver would back down after the accident.",
-            "He refused to back down in the debate.",
-            "The company finally backed down and changed the rule."
-          ]
-        },
-        {
-          "verb": "Move away",
-          "def": "To gradually stop using something",
-          "ex": [
-            "The firm is moving away from paper documents.",
-            "Many companies moved away from that old software.",
-            "She moved away from her early singing style."
-          ]
-        },
-        {
-          "verb": "Run on",
-          "def": "To work using a certain kind of power",
-          "ex": [
-            "This car runs on electricity.",
-            "The new phone runs on a faster system.",
-            "The whole factory runs on solar power."
-          ]
-        },
-        {
-          "verb": "Stick together",
-          "def": "To stay united and continue to support each other",
-          "ex": [
-            "Our family sticks together in hard times.",
-            "The players stuck together after the loss.",
-            "Good friends stick together no matter what."
-          ]
-        }
-      ],
-      "wordDefs": [
-        {
-          "word": "lawsuit",
-          "def": "A legal case that one person or company brings against another in court",
-          "ex": [
-            "The company faced a big lawsuit.",
-            "They started a lawsuit last year."
-          ]
-        },
-        {
-          "word": "confidential",
-          "def": "Meant to be kept secret and not shared with others",
-          "ex": [
-            "The doctor keeps patient records confidential.",
-            "This report is confidential, so do not share it."
-          ]
-        },
-        {
-          "word": "device",
-          "def": "A machine or tool made for a certain job, like a phone",
-          "ex": [
-            "This device can take photos.",
-            "A new device came out this month."
-          ]
-        },
-        {
-          "word": "theft",
-          "def": "The crime of stealing something",
-          "ex": [
-            "The theft happened at night.",
-            "Police are looking into the theft."
-          ]
-        },
-        {
-          "word": "judge",
-          "def": "A person who leads a court and decides legal cases",
-          "ex": [
-            "The judge listened to both sides.",
-            "A judge will decide the case."
-          ]
-        },
-        {
-          "word": "trade secrets",
-          "def": "Private business information that a company keeps hidden from others",
-          "ex": [
-            "The recipe is a trade secret.",
-            "They protect their trade secrets carefully."
-          ]
-        },
-        {
-          "word": "claims",
-          "def": "Statements that something is true, even without full proof yet",
-          "ex": [
-            "He made big claims about the product.",
-            "The claims were hard to believe."
-          ]
-        },
-        {
-          "word": "spokesperson",
-          "def": "A person who speaks to the public for a company or group",
-          "ex": [
-            "A spokesperson answered the questions.",
-            "The spokesperson read a short statement."
-          ]
-        },
-        {
-          "word": "assistant",
-          "def": "A person or program that helps you do things",
-          "ex": [
-            "The voice assistant set an alarm.",
-            "My assistant booked the meeting."
-          ]
-        }
-      ],
-      "tf": [
-        {
-          "s": "OpenAI has asked a judge to step in and stop Apple from selling the iPhone.",
-          "a": false,
-          "why": "False. It is Apple that wants a judge to step in and stop OpenAI from using its trade secrets."
-        },
-        {
-          "s": "Both companies quickly agreed and ended the argument.",
-          "a": false,
-          "why": "The two sides do not agree, and neither one will back down."
-        },
-        {
-          "s": "Apple has filed a lawsuit against OpenAI.",
-          "a": true,
-          "why": "The story says Apple filed a lawsuit against OpenAI, the maker of ChatGPT."
-        },
-        {
-          "s": "Apple's Siri will soon run on Google's Gemini instead of ChatGPT.",
-          "a": true,
-          "why": "Apple announced that Siri will run on Google's Gemini system instead of ChatGPT."
-        },
-        {
-          "s": "OpenAI agreed that it had taken Apple's secrets.",
-          "a": false,
-          "why": "OpenAI hit back at the claims and said it has no interest in other companies' secrets."
-        },
-        {
-          "s": "Apple says its former workers sent private files to their personal email accounts.",
-          "a": true,
-          "why": "Apple's court papers say the workers sent off private company files to their own personal email accounts before leaving."
         }
       ]
     }
