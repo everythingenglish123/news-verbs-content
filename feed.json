@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "stories": [
     {
       "id": "exoplanet-atmosphere-lhs1140b-2026",
@@ -25,7 +25,7 @@
       ],
       "chunks": [
         {
-          "text": "Scientists have {{picked up}} the first signs of air around a small, rocky planet outside our solar system. The planet, called LHS 1140 b, sits about 48 light-years from Earth. It circles its star in the zone where the temperature could be right for water. This is [[a huge deal]], because a planet needs air to {{hold on to}} heat and to give life a chance. But the discovery did not {{turn out}} to be simple.",
+          "text": "Scientists have {{picked up}} the first signs of air around a small, rocky planet outside our solar system. The planet, called LHS 1140 b, sits about 48 light-years from Earth. It circles its star in the zone where the temperature could be right for water. This is [[a huge deal]], because a planet needs air to {{hold on to}} heat and to give life a chance. But the discovery did not {{end up}} being simple.",
           "verbs": [
             {
               "display": "picked up",
@@ -38,14 +38,14 @@
               "display": "hold on to",
               "base": "hold on to",
               "correct": "To keep something and not lose it",
-              "wrong": "To grab a rail for safety",
+              "wrong": "To wait for a short time",
               "correctFirst": false
             },
             {
-              "display": "turn out",
-              "base": "turn out",
-              "correct": "To end or happen in a certain way",
-              "wrong": "To turn a light off",
+              "display": "end up",
+              "base": "end up",
+              "correct": "To be in a situation in the end",
+              "wrong": "To finish or come to an end",
               "correctFirst": true
             }
           ]
@@ -57,28 +57,28 @@
               "display": "set out",
               "base": "set out",
               "correct": "To start trying to do something",
-              "wrong": "To place objects in a row",
+              "wrong": "To arrange objects in a row",
               "correctFirst": true
             },
             {
               "display": "came across",
               "base": "come across",
               "correct": "To find something by chance",
-              "wrong": "To walk to the other side",
+              "wrong": "To seem or appear a certain way",
               "correctFirst": false
             },
             {
               "display": "gives off",
               "base": "give off",
               "correct": "To send out light, heat, or gas",
-              "wrong": "To give a gift to someone",
+              "wrong": "To stop working after a while",
               "correctFirst": true
             },
             {
               "display": "strips away",
               "base": "strip away",
               "correct": "To slowly remove something",
-              "wrong": "To pull the skin off a fruit",
+              "wrong": "To pull something in with gravity",
               "correctFirst": false
             }
           ]
@@ -90,54 +90,54 @@
               "display": "went back",
               "base": "go back",
               "correct": "To return to a place or time",
-              "wrong": "To support a plan fully",
+              "wrong": "To break a promise you made",
               "correctFirst": true
             },
             {
               "display": "find out",
               "base": "find out",
               "correct": "To learn something you did not know",
-              "wrong": "To leave a building quickly",
+              "wrong": "To solve a problem by thinking",
               "correctFirst": false
             },
             {
               "display": "going on",
               "base": "go on",
-              "correct": "To be happening",
-              "wrong": "To step onto a stage",
+              "correct": "To be taking place right now",
+              "wrong": "To continue after a pause",
               "correctFirst": true
             }
           ]
         },
         {
-          "text": "To {{clear up}} the mystery, the team will {{carry out}} new studies with the James Webb Space Telescope, the most powerful space telescope ever built. Their main goal is to {{track down}} water, which would [[prove]] the air is real. If they {{pull off}} this hard job and [[succeed]], LHS 1140 b could become one of the best places to look for life. Scientists around the world will follow the results closely.",
+          "text": "To {{clear up}} the mystery, the team will {{take on}} a bigger study with the James Webb Space Telescope, the most powerful space telescope ever built. Their main goal is to {{track down}} water, which would [[prove]] the air is real. If they {{pull off}} this hard job and [[succeed]], LHS 1140 b could become one of the best places to look for life. Scientists around the world will follow the results closely.",
           "verbs": [
             {
               "display": "clear up",
               "base": "clear up",
               "correct": "To explain or solve something",
-              "wrong": "To tidy a messy room",
+              "wrong": "To become sunny after rain",
               "correctFirst": false
             },
             {
-              "display": "carry out",
-              "base": "carry out",
-              "correct": "To do or perform a task",
-              "wrong": "To lift and take something outside",
+              "display": "take on",
+              "base": "take on",
+              "correct": "To begin to deal with a task",
+              "wrong": "To hire someone for a job",
               "correctFirst": true
             },
             {
               "display": "track down",
               "base": "track down",
               "correct": "To find something after searching",
-              "wrong": "To follow a railway track",
+              "wrong": "To follow how something changes",
               "correctFirst": false
             },
             {
               "display": "pull off",
               "base": "pull off",
               "correct": "To succeed at something difficult",
-              "wrong": "To remove a sticker",
+              "wrong": "To delay something until later",
               "correctFirst": true
             }
           ]
@@ -163,12 +163,12 @@
           ]
         },
         {
-          "verb": "Turn out",
-          "def": "To end or happen in a certain way",
+          "verb": "End up",
+          "def": "To be in a situation in the end",
           "ex": [
-            "The plan turned out well in the end.",
-            "We did not know how it would turn out.",
-            "The results turned out better than expected."
+            "The plan ended up working well.",
+            "We did not know how it would end up.",
+            "She ended up loving the new city."
           ]
         },
         {
@@ -227,7 +227,7 @@
         },
         {
           "verb": "Go on",
-          "def": "To be happening",
+          "def": "To be taking place right now",
           "ex": [
             "Nobody knew what was going on.",
             "The show went on for hours.",
@@ -244,12 +244,12 @@
           ]
         },
         {
-          "verb": "Carry out",
-          "def": "To do or perform a task",
+          "verb": "Take on",
+          "def": "To begin to deal with a task",
           "ex": [
-            "The team will carry out new studies.",
-            "Doctors carried out several tests.",
-            "They carried out the plan carefully."
+            "The team will take on a bigger study.",
+            "She took on a difficult new job.",
+            "They took on the challenge together."
           ]
         },
         {
@@ -367,9 +367,9 @@
           "why": "The team is not certain what happened, and more work is needed to find out what is going on."
         },
         {
-          "s": "The team will carry out new studies with the James Webb Space Telescope.",
+          "s": "The team will take on a bigger study with the James Webb Space Telescope.",
           "a": true,
-          "why": "The team will carry out new studies with the James Webb Space Telescope, the most powerful ever built."
+          "why": "The team will take on a bigger study with the James Webb Space Telescope, the most powerful ever built."
         },
         {
           "s": "The team hopes to track down gold on the planet.",
@@ -408,21 +408,21 @@
               "display": "back up",
               "base": "back up",
               "correct": "To support or prove something",
-              "wrong": "To move a car backward",
+              "wrong": "To make a copy of computer data",
               "correctFirst": true
             },
             {
               "display": "set up",
               "base": "set up",
               "correct": "To create or start something",
-              "wrong": "To trick someone on purpose",
+              "wrong": "To trick or frame someone",
               "correctFirst": false
             },
             {
               "display": "take over",
               "base": "take over",
               "correct": "To take control of something",
-              "wrong": "To lift something and carry it",
+              "wrong": "To watch over and manage a project",
               "correctFirst": true
             }
           ]
@@ -434,54 +434,54 @@
               "display": "signed up",
               "base": "sign up",
               "correct": "To officially join something",
-              "wrong": "To write your name for fun",
+              "wrong": "To log in to a website or app",
               "correctFirst": true
             },
             {
               "display": "left behind",
               "base": "leave behind",
               "correct": "To fail to include someone",
-              "wrong": "To forget an object at home",
+              "wrong": "To forget an object somewhere",
               "correctFirst": false
             },
             {
               "display": "bring in",
               "base": "bring in",
               "correct": "To include or involve someone",
-              "wrong": "To carry something inside a building",
+              "wrong": "To introduce a new law or rule",
               "correctFirst": true
             }
           ]
         },
         {
-          "text": "To show it is serious, China made some big promises. It will {{hand out}} 5,000 training places so people in poorer countries can {{pick up}} new AI skills. But experts {{point out}} that China is not doing this [[purely]] out of kindness. It is in a [[fierce]] race with the United States, which has {{cut off}} China from some advanced computer chips, so making new friends helps China too.",
+          "text": "To show it is serious, China made some big promises. It will {{hand out}} 5,000 training places so people in poorer countries can {{pick up}} new AI skills. But this is not [[purely]] about kindness. China is also {{looking out for}} its own interests, because it is in a [[fierce]] race with the United States, which has {{cut off}} China from some advanced computer chips.",
           "verbs": [
             {
               "display": "hand out",
               "base": "hand out",
               "correct": "To give something to many people",
-              "wrong": "To pass control to someone else",
+              "wrong": "To give control to another person",
               "correctFirst": true
             },
             {
               "display": "pick up",
               "base": "pick up",
               "correct": "To learn something informally",
-              "wrong": "To lift something off the ground",
+              "wrong": "To answer a ringing phone",
               "correctFirst": false
             },
             {
-              "display": "point out",
-              "base": "point out",
-              "correct": "To draw attention to a fact",
-              "wrong": "To aim a finger at a place",
+              "display": "looking out for",
+              "base": "look out for",
+              "correct": "To protect your own interests",
+              "wrong": "To study a problem carefully",
               "correctFirst": true
             },
             {
               "display": "cut off",
               "base": "cut off",
               "correct": "To block someone from something",
-              "wrong": "To slice a piece with a knife",
+              "wrong": "To interrupt someone who is talking",
               "correctFirst": false
             }
           ]
@@ -493,21 +493,21 @@
               "display": "draw up",
               "base": "draw up",
               "correct": "To prepare or write something",
-              "wrong": "To pull a picture upward",
+              "wrong": "To slow down and come to a stop",
               "correctFirst": true
             },
             {
               "display": "join in",
               "base": "join in",
               "correct": "To take part in an activity",
-              "wrong": "To connect two pipes together",
+              "wrong": "To connect two parts together",
               "correctFirst": false
             },
             {
               "display": "hold back",
               "base": "hold back",
               "correct": "To wait and not act yet",
-              "wrong": "To grab something from behind",
+              "wrong": "To keep information secret",
               "correctFirst": true
             }
           ]
@@ -587,12 +587,12 @@
           ]
         },
         {
-          "verb": "Point out",
-          "def": "To draw attention to a fact",
+          "verb": "Look out for",
+          "def": "To protect your own interests",
           "ex": [
-            "Experts point out that China wants power too.",
-            "He pointed out a mistake in my work.",
-            "She pointed out the risks of the plan."
+            "China is looking out for its own interests.",
+            "Good leaders look out for their people.",
+            "Parents always look out for their children."
           ]
         },
         {
@@ -723,9 +723,9 @@
           "why": "China said it will hand out 5,000 training places to poorer countries."
         },
         {
-          "s": "Experts point out that China is not helping only out of kindness.",
+          "s": "China is looking out for its own interests, not helping only out of kindness.",
           "a": true,
-          "why": "Experts point out that China is in a fierce race with the United States, so it is not helping purely out of kindness."
+          "why": "China is in a fierce race with the United States, so it is looking out for its own interests, not helping purely out of kindness."
         },
         {
           "s": "The United States brought China in and shared all its advanced chips.",
