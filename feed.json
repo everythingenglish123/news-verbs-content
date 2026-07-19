@@ -25,7 +25,7 @@
       ],
       "chunks": [
         {
-          "text": "For the first time ever, scientists have {{picked up}} signs of air around a small, rocky planet far from Earth. The planet, called LHS 1140 b, sits about 48 light-years away, in the area where the temperature could be just right for water. Finding air around such a planet is [[a huge deal]], because a planet needs air to {{hold on to}} heat and to protect any life. But the discovery soon {{turned into}} a real [[mystery]], with a strange [[twist]] no one expected.",
+          "text": "Scientists have {{picked up}} the first signs of air around a small, rocky planet outside our solar system. The planet, called LHS 1140 b, sits about 48 light-years from Earth. It circles its star in the zone where the temperature could be right for water. This is [[a huge deal]], because a planet needs air to {{hold on to}} heat and to give life a chance. But the discovery did not {{turn out}} to be simple.",
           "verbs": [
             {
               "display": "picked up",
@@ -42,16 +42,16 @@
               "correctFirst": false
             },
             {
-              "display": "turned into",
-              "base": "turn into",
-              "correct": "To become something different",
-              "wrong": "To enter a road by turning",
+              "display": "turn out",
+              "base": "turn out",
+              "correct": "To end or happen in a certain way",
+              "wrong": "To turn a light off",
               "correctFirst": true
             }
           ]
         },
         {
-          "text": "LHS 1140 b is a super-Earth, which means it is rocky like Earth but much bigger. To study it, a team from Harvard University {{set out}} to watch the planet with a powerful telescope in Chile. In 2024, the telescope {{came across}} helium gas leaking from the top of the planet's air. Because the star {{gives off}} strong radiation, it slowly {{strips away}} this gas. It was a rare [[privilege]] to [[witness]] such a discovery.",
+          "text": "LHS 1140 b is a super-Earth, which means it is rocky like Earth but much bigger. To study it, a team at Harvard University {{set out}} to watch the planet with a powerful telescope in Chile. In 2024, they {{came across}} helium gas escaping from the top of the planet's air. The planet's star {{gives off}} strong radiation, and this slowly {{strips away}} the gas. For the scientists, it was a rare [[privilege]] to [[witness]] this so far from Earth.",
           "verbs": [
             {
               "display": "set out",
@@ -84,7 +84,7 @@
           ]
         },
         {
-          "text": "Here is where things get strange. When the same team {{went back}} to check their work in 2025, the helium signal had completely disappeared. This is where the real puzzle {{comes in}}. Scientists think the planet's air may [[shift]] and change in ways we can actually see. Still, they are not [[certain]] yet, and more work is needed to {{figure out}} what is really {{going on}}.",
+          "text": "In a surprising [[twist]], the signal did not last. When the team {{went back}} to check the planet in 2025, the helium had completely disappeared. Scientists think the air may [[shift]] and change over time, which is why the signal appeared and then vanished. For now, the change is a [[mystery]]. The team is not [[certain]] what happened, and more work is needed to {{find out}} what is {{going on}}.",
           "verbs": [
             {
               "display": "went back",
@@ -94,31 +94,31 @@
               "correctFirst": true
             },
             {
-              "display": "comes in",
-              "base": "come in",
-              "correct": "To become important in a situation",
-              "wrong": "To enter a room",
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn something you did not know",
+              "wrong": "To leave a building quickly",
               "correctFirst": false
-            },
-            {
-              "display": "figure out",
-              "base": "figure out",
-              "correct": "To understand something after thinking",
-              "wrong": "To draw a shape on paper",
-              "correctFirst": true
             },
             {
               "display": "going on",
               "base": "go on",
               "correct": "To be happening",
               "wrong": "To step onto a stage",
-              "correctFirst": false
+              "correctFirst": true
             }
           ]
         },
         {
-          "text": "To clear things up, the team will soon {{carry out}} new studies with the James Webb Space Telescope. Their main goal is to {{track down}} water, which would [[prove]] the air is real. If they {{pull off}} this hard task and [[succeed]], LHS 1140 b could become one of the best places to search for life beyond Earth. And that brings us a little closer to a question people have asked for thousands of years: are we alone?",
+          "text": "To {{clear up}} the mystery, the team will {{carry out}} new studies with the James Webb Space Telescope, the most powerful space telescope ever built. Their main goal is to {{track down}} water, which would [[prove]] the air is real. If they {{pull off}} this hard job and [[succeed]], LHS 1140 b could become one of the best places to look for life. Scientists around the world will follow the results closely.",
           "verbs": [
+            {
+              "display": "clear up",
+              "base": "clear up",
+              "correct": "To explain or solve something",
+              "wrong": "To tidy a messy room",
+              "correctFirst": false
+            },
             {
               "display": "carry out",
               "base": "carry out",
@@ -163,12 +163,12 @@
           ]
         },
         {
-          "verb": "Turn into",
-          "def": "To become something different",
+          "verb": "Turn out",
+          "def": "To end or happen in a certain way",
           "ex": [
-            "The discovery turned into a mystery.",
-            "The rain turned into snow.",
-            "His idea turned into a real business."
+            "The plan turned out well in the end.",
+            "We did not know how it would turn out.",
+            "The results turned out better than expected."
           ]
         },
         {
@@ -217,21 +217,12 @@
           ]
         },
         {
-          "verb": "Come in",
-          "def": "To become important in a situation",
+          "verb": "Find out",
+          "def": "To learn something you did not know",
           "ex": [
-            "This is where the puzzle comes in.",
-            "This is where money comes in.",
-            "Skill comes in when the game gets hard."
-          ]
-        },
-        {
-          "verb": "Figure out",
-          "def": "To understand something after thinking",
-          "ex": [
-            "Scientists need to figure out what happened.",
-            "I can't figure out this puzzle.",
-            "We figured out a better way."
+            "Scientists want to find out what happened.",
+            "I need to find out the truth.",
+            "She found out the answer online."
           ]
         },
         {
@@ -241,6 +232,15 @@
             "Nobody knew what was going on.",
             "The show went on for hours.",
             "Tell me what is going on."
+          ]
+        },
+        {
+          "verb": "Clear up",
+          "def": "To explain or solve something",
+          "ex": [
+            "New studies may clear up the question.",
+            "Let me clear up one point.",
+            "The teacher cleared up our doubts."
           ]
         },
         {
@@ -347,34 +347,34 @@
       ],
       "tf": [
         {
-          "s": "Scientists picked up signs of air around the rocky planet LHS 1140 b.",
+          "s": "Scientists picked up the first signs of air around the rocky planet LHS 1140 b.",
           "a": true,
-          "why": "For the first time, scientists picked up signs of an atmosphere around LHS 1140 b."
+          "why": "For the first time, scientists picked up signs of air around LHS 1140 b."
         },
         {
-          "s": "When the team went back in 2025, the helium signal was even stronger than before.",
+          "s": "When the team went back in 2025, the helium signal was stronger than before.",
           "a": false,
-          "why": "When the team went back in 2025, the helium signal had completely disappeared, not grown stronger."
+          "why": "When the team went back in 2025, the helium had completely disappeared, it did not grow stronger."
         },
         {
-          "s": "The star gives off strong radiation that strips gas away from the planet.",
+          "s": "The planet's star gives off strong radiation that strips the gas away.",
           "a": true,
-          "why": "The star gives off strong radiation, and this slowly strips helium gas away from the planet."
+          "why": "The star gives off strong radiation, and this slowly strips the helium gas away from the planet."
         },
         {
-          "s": "The scientists are completely sure they have figured out what is going on.",
+          "s": "The scientists are certain they know what is going on.",
           "a": false,
-          "why": "The scientists are not certain yet and cannot figure out fully what is going on, so more work is needed."
+          "why": "The team is not certain what happened, and more work is needed to find out what is going on."
         },
         {
           "s": "The team will carry out new studies with the James Webb Space Telescope.",
           "a": true,
-          "why": "The team will carry out new studies with the James Webb Space Telescope over the next few years."
+          "why": "The team will carry out new studies with the James Webb Space Telescope, the most powerful ever built."
         },
         {
-          "s": "The team hopes to track down oil on the planet.",
+          "s": "The team hopes to track down gold on the planet.",
           "a": false,
-          "why": "The team hopes to track down water, not oil, which would prove the air is real."
+          "why": "The team hopes to track down water, not gold, which would prove the air is real."
         }
       ]
     },
