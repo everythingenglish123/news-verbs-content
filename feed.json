@@ -1,6 +1,375 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "stories": [
+    {
+      "id": "spain-world-cup-2026",
+      "number": 37,
+      "headline": "Spain wins the World Cup",
+      "badge": "Sports",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n37-spain-world-cup-flat.png",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship"
+        },
+        {
+          "title": "FIFA World Cup 2026 Final: Argentina vs Spain live updates",
+          "url": "https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-final-2026-argentina-spain-messi-yamal-live-updates-rcna587754"
+        },
+        {
+          "title": "Spain 1-0 Argentina (Jul 19, 2026) Final Score - ESPN",
+          "url": "https://www.espn.com/soccer/match/_/gameId/760517/argentina-spain"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On July 19, 2026, Spain {{pulled off}} one of the biggest wins in their history. At MetLife Stadium near New York, they {{took on}} Argentina in the final of the World Cup, the biggest event in soccer. After 90 minutes, no one had scored, so the game {{went on}} into [[extra time]]. At last, Spain won 1-0 and {{picked up}} the World Cup trophy for the second time.",
+          "verbs": [
+            {
+              "display": "pulled off",
+              "base": "pull off",
+              "correct": "To succeed at something difficult",
+              "wrong": "To drop out of a competition",
+              "correctFirst": true
+            },
+            {
+              "display": "took on",
+              "base": "take on",
+              "correct": "To face or compete against",
+              "wrong": "To hire someone for a job",
+              "correctFirst": false
+            },
+            {
+              "display": "went on",
+              "base": "go on",
+              "correct": "To continue without stopping",
+              "wrong": "To happen or take place",
+              "correctFirst": true
+            },
+            {
+              "display": "picked up",
+              "base": "pick up",
+              "correct": "To lift or collect something",
+              "wrong": "To notice or detect something",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "For most of the match, Spain {{kept up}} the [[pressure]] and controlled the ball. Argentina's goalkeeper, Emi Martinez, was superb and made save after save. Then, deep into extra time, the [[striker]] Ferran Torres {{broke through}}. In the 106th minute, he {{put away}} a shot from close range, and Spain were in front. Martinez set a [[record]] with 11 saves, but he could not {{keep out}} every shot.",
+          "verbs": [
+            {
+              "display": "kept up",
+              "base": "keep up",
+              "correct": "To keep something at the same level",
+              "wrong": "To stop something from falling down",
+              "correctFirst": true
+            },
+            {
+              "display": "broke through",
+              "base": "break through",
+              "correct": "To force a way past a defense",
+              "wrong": "To make an important discovery",
+              "correctFirst": false
+            },
+            {
+              "display": "put away",
+              "base": "put away",
+              "correct": "To score a goal in a game",
+              "wrong": "To put something back in its place",
+              "correctFirst": true
+            },
+            {
+              "display": "keep out",
+              "base": "keep out",
+              "correct": "To stop something from getting in",
+              "wrong": "To avoid getting involved in something",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Argentina had dreamed of winning the World Cup two times [[in a row]]. Their [[star]], Lionel Messi, is now 39, and this was almost certainly his last World Cup. But on this night, he could not {{take over}} the game the way he once did. Spain's young players never {{let up}}, and their [[defense]] stayed strong. Argentina tried to {{fight back}}, but they could not find a way through.",
+          "verbs": [
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To take control of something",
+              "wrong": "To pass another runner in a race",
+              "correctFirst": true
+            },
+            {
+              "display": "let up",
+              "base": "let up",
+              "correct": "To get weaker or slow down",
+              "wrong": "To allow a goal to be scored",
+              "correctFirst": false
+            },
+            {
+              "display": "fight back",
+              "base": "fight back",
+              "correct": "To try hard to recover",
+              "wrong": "To hit someone who attacks you",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "When the final whistle went, the Spanish players fell to the ground in joy. For many fans, the win {{brought back}} happy [[memories]] of 2010, when Spain lifted their first World Cup. Sixteen years later, a new team has {{carried on}} that dream. Now Spanish soccer can {{look forward to}} a bright future, with young stars leading the way.",
+          "verbs": [
+            {
+              "display": "brought back",
+              "base": "bring back",
+              "correct": "To make you remember something",
+              "wrong": "To return something you borrowed",
+              "correctFirst": false
+            },
+            {
+              "display": "carried on",
+              "base": "carry on",
+              "correct": "To keep doing something",
+              "wrong": "To perform or complete a task",
+              "correctFirst": true
+            },
+            {
+              "display": "look forward to",
+              "base": "look forward to",
+              "correct": "To feel happy about something coming",
+              "wrong": "To look straight ahead of you",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pull off",
+          "def": "To succeed at something difficult",
+          "ex": [
+            "Spain pulled off a famous win.",
+            "The team pulled off a surprising victory.",
+            "She pulled off a very hard trick."
+          ]
+        },
+        {
+          "verb": "Take on",
+          "def": "To face or compete against",
+          "ex": [
+            "Spain took on Argentina in the final.",
+            "Our team will take on the champions next week.",
+            "He is ready to take on anyone."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To continue without stopping",
+          "ex": [
+            "The game went on into extra time.",
+            "The match went on for two hours.",
+            "The show went on despite the rain."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To lift or collect something",
+          "ex": [
+            "The captain picked up the trophy.",
+            "She picked up the ball off the grass.",
+            "He picked up his bag and left."
+          ]
+        },
+        {
+          "verb": "Keep up",
+          "def": "To keep something at the same level",
+          "ex": [
+            "Spain kept up the pressure all game.",
+            "Try to keep up a steady speed.",
+            "They kept up their hard work."
+          ]
+        },
+        {
+          "verb": "Break through",
+          "def": "To force a way past a defense",
+          "ex": [
+            "The striker finally broke through.",
+            "The runners broke through the front line.",
+            "Our team broke through in the second half."
+          ]
+        },
+        {
+          "verb": "Put away",
+          "def": "To score a goal in a game",
+          "ex": [
+            "He put away the winning goal.",
+            "She put away an easy chance.",
+            "The striker put away two goals."
+          ]
+        },
+        {
+          "verb": "Keep out",
+          "def": "To stop something from getting in",
+          "ex": [
+            "The goalkeeper could not keep out every shot.",
+            "A good keeper keeps out hard shots.",
+            "The wall helped keep out the wind."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To take control of something",
+          "ex": [
+            "Messi could not take over the game.",
+            "One player tried to take over the match.",
+            "A new coach took over the team."
+          ]
+        },
+        {
+          "verb": "Let up",
+          "def": "To get weaker or slow down",
+          "ex": [
+            "Spain never let up in defense.",
+            "The rain did not let up all day.",
+            "They refused to let up on the attack."
+          ]
+        },
+        {
+          "verb": "Fight back",
+          "def": "To try hard to recover",
+          "ex": [
+            "Argentina tried to fight back.",
+            "The team fought back after halftime.",
+            "She fought back to win the set."
+          ]
+        },
+        {
+          "verb": "Bring back",
+          "def": "To make you remember something",
+          "ex": [
+            "The win brought back happy memories.",
+            "That song brings back old memories.",
+            "The photo brought back her childhood."
+          ]
+        },
+        {
+          "verb": "Carry on",
+          "def": "To keep doing something",
+          "ex": [
+            "A new team carried on the dream.",
+            "They carried on playing in the rain.",
+            "Please carry on with your work."
+          ]
+        },
+        {
+          "verb": "Look forward to",
+          "def": "To feel happy about something coming",
+          "ex": [
+            "Fans look forward to a bright future.",
+            "We look forward to the next game.",
+            "She looks forward to the summer."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "extra time",
+          "def": "More time added at the end of a tied game",
+          "ex": [
+            "The game went to extra time.",
+            "They scored in extra time."
+          ]
+        },
+        {
+          "word": "pressure",
+          "def": "A strong force or heavy stress",
+          "ex": [
+            "The players felt a lot of pressure.",
+            "She works well under pressure."
+          ]
+        },
+        {
+          "word": "striker",
+          "def": "An attacking player who tries to score",
+          "ex": [
+            "The striker scored the winning goal.",
+            "He is the team's best striker."
+          ]
+        },
+        {
+          "word": "record",
+          "def": "The best result ever reached",
+          "ex": [
+            "She set a new world record.",
+            "The goalie broke the save record."
+          ]
+        },
+        {
+          "word": "in a row",
+          "def": "One after another without a break",
+          "ex": [
+            "They won five games in a row.",
+            "It rained three days in a row."
+          ]
+        },
+        {
+          "word": "star",
+          "def": "A very famous and skilled player",
+          "ex": [
+            "He is the star of the team.",
+            "The young star scored twice."
+          ]
+        },
+        {
+          "word": "defense",
+          "def": "The players who stop the other team from scoring",
+          "ex": [
+            "The team has a strong defense.",
+            "Good defense wins games."
+          ]
+        },
+        {
+          "word": "memories",
+          "def": "Things you remember from the past",
+          "ex": [
+            "The trip gave us great memories.",
+            "She has happy memories of school."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "Spain pulled off a 1-0 win over Argentina to take the World Cup.",
+          "a": true,
+          "why": "Spain pulled off a 1-0 win over Argentina in the final to win the World Cup for the second time."
+        },
+        {
+          "s": "Ferran Torres put away the winning goal during extra time.",
+          "a": true,
+          "why": "In the 106th minute of extra time, Ferran Torres put away the shot that won the game."
+        },
+        {
+          "s": "Argentina's goalkeeper kept out every single shot that Spain took.",
+          "a": false,
+          "why": "Emi Martinez made a record 11 saves, but he could not keep out every shot, and Spain scored."
+        },
+        {
+          "s": "Lionel Messi took over the game and led Argentina to victory.",
+          "a": false,
+          "why": "Messi could not take over the game, and Argentina lost the final 1-0."
+        },
+        {
+          "s": "For fans, the win brought back memories of Spain's first title in 2010.",
+          "a": true,
+          "why": "The win brought back happy memories of 2010, when Spain won their first World Cup."
+        },
+        {
+          "s": "Spain's players let up in defense and stopped trying near the end.",
+          "a": false,
+          "why": "Spain's young players never let up, and their defense stayed strong."
+        }
+      ]
+    },
     {
       "id": "exoplanet-atmosphere-lhs1140b-2026",
       "number": 36,
