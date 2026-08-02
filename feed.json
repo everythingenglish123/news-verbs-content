@@ -1815,7 +1815,7 @@
         {
           "s": "Google announces its new phones on August 12.",
           "a": true,
-          "why": "Google announces its new phones on August 12."
+          "why": "Google announces its new phones on August 12, and the rest of the industry is waiting to see whether rivals follow suit and put up their own prices."
         }
       ]
     },
@@ -3566,7 +3566,7 @@
         {
           "s": "Trees with birdsong won out on every measure.",
           "a": true,
-          "why": "Trees with birdsong won out on every measure."
+          "why": "Trees with birdsong won out on every measure. Positive feelings went up, negative feelings went down, stress went down, and the sense of feeling rested went up."
         },
         {
           "s": "Stress went up when people sat among trees and heard birdsong.",
@@ -3985,7 +3985,7 @@
         {
           "s": "Managers have put forward higher pay, large bonuses and 15 company shares for each worker.",
           "a": true,
-          "why": "Managers have put forward higher pay, large bonuses and 15 company shares for each worker."
+          "why": "Managers have put forward higher pay, large bonuses and 15 company shares for each worker, but neither side has backed down."
         }
       ]
     },
@@ -4382,7 +4382,7 @@
         {
           "s": "A team dug up the bones on a ranch in South Dakota in 2021.",
           "a": true,
-          "why": "A team dug up the bones on a ranch in South Dakota in 2021."
+          "why": "A team dug up the bones on a ranch in South Dakota in 2021, and freeing them from the rock and then cleaning up every piece took five years."
         },
         {
           "s": "The furcula shows up in almost every T. rex skeleton that is found.",
@@ -4765,7 +4765,7 @@
         {
           "s": "A Romanian air force F-16 shot down a drone over Buzau County on Friday, July 24.",
           "a": true,
-          "why": "A Romanian air force F-16 shot down a drone over Buzau County on Friday, July 24."
+          "why": "A Romanian air force F-16 shot down a drone over Buzau County on Friday, July 24. Under a NATO air policing mission, Italian Eurofighter Typhoons were in the air and two more Romanian F-16s tracked the drone."
         },
         {
           "s": "Miruta called for less spending on air defense and on anti-drone equipment.",
@@ -4785,7 +4785,7 @@
         {
           "s": "Investigators are combing through the wreckage, and officials are still trying to find out where the drone was launched.",
           "a": true,
-          "why": "Investigators are combing through the wreckage, and officials are still trying to find out where the drone was launched."
+          "why": "Investigators are combing through the wreckage, and officials are still trying to find out where the drone was launched. Reports of drones crossing into Romanian airspace go back to 2022."
         },
         {
           "s": "The drone came down in a crowded city center.",
@@ -5529,7 +5529,7 @@
         {
           "s": "The posts racked up more than a million views and thousands of comments.",
           "a": true,
-          "why": "The posts racked up more than a million views and thousands of comments."
+          "why": "The posts racked up more than a million views and thousands of comments, and some people suggested Churro stay on as a mascot."
         },
         {
           "s": "BC Ferries used a plain lost-and-found notice instead of asking the public online for help.",
@@ -5612,7 +5612,7 @@
               "display": "back them up",
               "base": "back up",
               "correct": "To support a claim with evidence",
-              "wrong": "To make a copy of computer data",
+              "wrong": "To repeat a claim more loudly",
               "correctFirst": true
             }
           ]
@@ -7045,7 +7045,7 @@
         {
           "s": "Sugar, syrup and cream can cancel out whatever benefit the coffee brings.",
           "a": true,
-          "why": "Sugar, syrup and cream can cancel out whatever benefit the coffee brings."
+          "why": "Sugar, syrup and cream can cancel out whatever benefit the coffee brings, and how fast a body breaks caffeine down varies with age, medication and genetics."
         }
       ]
     },
@@ -10610,21 +10610,21 @@
               "display": "come up with",
               "base": "come up with",
               "correct": "To think of a new idea or plan",
-              "wrong": "To finally arrive at a place",
+              "wrong": "To confirm a result that was already known",
               "correctFirst": true
             },
             {
               "display": "pick up",
               "base": "pick up",
               "correct": "To notice or detect something",
-              "wrong": "To lift something up off the ground",
+              "wrong": "To take a blood sample from a patient",
               "correctFirst": false
             },
             {
               "display": "rule out",
               "base": "rule out",
               "correct": "To decide something is not the cause",
-              "wrong": "To make an official new law",
+              "wrong": "To place a patient in a higher risk group",
               "correctFirst": false
             }
           ]
@@ -10650,7 +10650,7 @@
               "display": "narrow down",
               "base": "narrow down",
               "correct": "To reduce something to fewer choices",
-              "wrong": "To make a path more thin",
+              "wrong": "To make a test more accurate",
               "correctFirst": true
             }
           ]
@@ -10662,21 +10662,21 @@
               "display": "cut out",
               "base": "cut out",
               "correct": "To remove or get rid of something",
-              "wrong": "To shape something using scissors",
+              "wrong": "To perform surgery to remove tissue",
               "correctFirst": true
             },
             {
               "display": "go through",
               "base": "go through",
               "correct": "To experience something difficult",
-              "wrong": "To search a place carefully",
+              "wrong": "To wait a long time for a result",
               "correctFirst": false
             },
             {
               "display": "speed up",
               "base": "speed up",
               "correct": "To make something happen faster",
-              "wrong": "To drive above the legal limit",
+              "wrong": "To repeat a test more often",
               "correctFirst": true
             }
           ]
@@ -10688,21 +10688,21 @@
               "display": "roll out",
               "base": "roll out",
               "correct": "To introduce something new to people",
-              "wrong": "To flatten dough with a rolling pin",
+              "wrong": "To withdraw a service from hospitals",
               "correctFirst": false
             },
             {
               "display": "take on",
               "base": "take on",
               "correct": "To begin to deal with something",
-              "wrong": "To hire someone for a job",
+              "wrong": "To be replaced by a different test",
               "correctFirst": true
             },
             {
               "display": "catch on",
               "base": "catch on",
               "correct": "To become popular or widely used",
-              "wrong": "To finally understand something",
+              "wrong": "To be approved by health officials",
               "correctFirst": false
             }
           ]
@@ -11066,14 +11066,14 @@
               "display": "cleared away",
               "base": "clear away",
               "correct": "To remove things to make an area empty",
-              "wrong": "To tidy up plates after a meal",
+              "wrong": "To cut a narrow path through a forest",
               "correctFirst": true
             },
             {
               "display": "come back",
               "base": "come back",
               "correct": "To return after being gone",
-              "wrong": "To reply in a quick, sharp way",
+              "wrong": "To grow taller than before",
               "correctFirst": false
             },
             {
@@ -11106,7 +11106,7 @@
               "display": "wiped out",
               "base": "wipe out",
               "correct": "To destroy something completely",
-              "wrong": "To fall down suddenly while moving fast",
+              "wrong": "To be cleared and then planted again",
               "correctFirst": false
             }
           ]
@@ -11132,7 +11132,7 @@
               "display": "sprang up",
               "base": "spring up",
               "correct": "To appear and grow very quickly",
-              "wrong": "To jump up quickly onto your feet",
+              "wrong": "To be planted in neat rows",
               "correctFirst": false
             }
           ]
@@ -11158,7 +11158,7 @@
               "display": "hold on to",
               "base": "hold on to",
               "correct": "To keep something and not lose it",
-              "wrong": "To grab something tightly with your hands",
+              "wrong": "To plant new trees to replace old ones",
               "correctFirst": false
             }
           ]
@@ -12088,7 +12088,7 @@
           "ipa": "/rʌn aʊt əv/",
           "def": "To have almost none of something left",
           "ex": [
-            "We ran out of milk this morning.",
+            "The island ran out of fuel within days.",
             "The car is running out of gas.",
             "They ran out of tickets before noon."
           ]
@@ -12946,7 +12946,7 @@
               "display": "pore over",
               "base": "pore over",
               "correct": "To read or study something very carefully",
-              "wrong": "To pour a liquid slowly over the surface of something",
+              "wrong": "To photograph a surface in fine detail",
               "correctFirst": false
             }
           ]
@@ -14747,7 +14747,7 @@
               "display": "spell out",
               "base": "spell out",
               "correct": "To explain something clearly and in detail",
-              "wrong": "To say the letters of a word one by one",
+              "wrong": "To sum up a result in a few words",
               "correctFirst": true
             },
             {
@@ -16469,7 +16469,7 @@
             {
               "display": "made up of",
               "base": "make up of",
-              "wrong": "To invent something that is not true",
+              "wrong": "To be polished to an exact shape",
               "correct": "To form the whole of something from smaller parts",
               "correctFirst": true
             },
@@ -17915,7 +17915,7 @@
           "def": "To join with others to work toward a shared goal",
           "ex": [
             "The two schools teamed up for the science fair.",
-            "She teamed up with a friend to start a business.",
+            "The two charities teamed up to deliver food.",
             "Doctors teamed up to find a cure."
           ]
         },
@@ -24083,7 +24083,7 @@
           "ex": [
             "The company teamed up with an Italian partner.",
             "The two schools teamed up to run the event.",
-            "He teamed up with a friend to start a business."
+            "Two schools teamed up to run the summer program."
           ]
         },
         {
