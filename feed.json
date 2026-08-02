@@ -1,6 +1,1847 @@
 {
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "stories": [
+    {
+      "id": "spokane-wildfires-2026",
+      "number": 63,
+      "headline": "A wildfire destroys 640 buildings in one afternoon",
+      "badge": "Nature",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n63-spokane-wildfires-2026-flat.png",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Old Trails fire in northwest Spokane destroys 640 structures",
+          "url": "https://www.spokesman.com/stories/2026/aug/02/wildfire-destroys-640-structures/"
+        },
+        {
+          "title": "The Wildfire Disaster Unfolding In Spokane, Washington",
+          "url": "https://www.forbes.com/sites/marshallshepherd/2026/08/02/the-wildfire-disaster-unfolding-in-spokane-washington/"
+        },
+        {
+          "title": "Fires on more than 250,000 acres of Washington state prompt evacuations",
+          "url": "https://www.usnews.com/news/world/articles/2026-08-01/fires-on-more-than-250-000-acres-of-washington-state-prompt-evacuations"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A [[wildfire]] {{broke out}} on Saturday, August 1, on open ground west of Spokane, in the eastern half of Washington state. Within hours it had {{torn through}} whole streets on the edge of the city. By Sunday the fire chief for the district said 640 [[structures]] had {{burned down}}, most of them houses, and many of them inside the Spokane city [[limits]]. No deaths have been reported.",
+          "verbs": [
+            {
+              "display": "broke out",
+              "base": "break out",
+              "correct": "To start suddenly",
+              "wrong": "To spread from tree to tree",
+              "correctFirst": true
+            },
+            {
+              "display": "torn through",
+              "base": "tear through",
+              "correct": "To move through a place fast and destroy it",
+              "wrong": "To burn slowly along the ground",
+              "correctFirst": false
+            },
+            {
+              "display": "burned down",
+              "base": "burn down",
+              "correct": "To be destroyed completely by fire",
+              "wrong": "To be damaged by heat but still stand",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The wind decided the shape of the day. [[Gusts]] {{picked up}} to between 35 and 45 miles an hour and held there for hours, pushing the flames northeast into a state park. From there the fire jumped a river, climbed the [[bluffs]] on the far side and reached the first houses. [[Crews]] could not {{hold back}} a [[front]] moving that fast, and they could not {{put out}} what was already burning, so they worked instead on getting people away from it.",
+          "verbs": [
+            {
+              "display": "picked up",
+              "base": "pick up",
+              "correct": "To become stronger",
+              "wrong": "To change direction suddenly",
+              "correctFirst": false
+            },
+            {
+              "display": "hold back",
+              "base": "hold back",
+              "correct": "To stop something from advancing",
+              "wrong": "To keep a team in reserve",
+              "correctFirst": true
+            },
+            {
+              "display": "put out",
+              "base": "put out",
+              "correct": "To stop a fire from burning",
+              "wrong": "To warn people living nearby",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Thousands of people were {{moved out}} of their homes across Spokane County, some with a few minutes' [[notice]]. The city {{set up}} its main [[shelter]] in the [[convention center]] downtown. The mayor declared a city [[emergency]], and the governor declared one for the whole state, {{called in}} the [[National Guard]] and {{brought in}} a [[burn ban]] that covers every county. The cause of the fire is still under [[investigation]].",
+          "verbs": [
+            {
+              "display": "moved out",
+              "base": "move out",
+              "correct": "To make people leave a place",
+              "wrong": "To travel to another state",
+              "correctFirst": true
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create and organize something",
+              "wrong": "To pay the cost of something",
+              "correctFirst": false
+            },
+            {
+              "display": "called in",
+              "base": "call in",
+              "correct": "To ask for official help",
+              "wrong": "To report a fire by telephone",
+              "correctFirst": true
+            },
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "correct": "To introduce a new rule",
+              "wrong": "To bring equipment to a place",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Spokane is not alone. Fires across Washington now {{add up}} to more than 250,000 [[acres]], and smoke has {{built up}} over seven counties badly enough for [[air quality]] warnings. Eastern Washington has spent the summer in record [[drought]], and [[forecasters]] expect dry air and more wind rather than rain. A separate fire north of the city started from a single [[ember]] and took three more houses. What made Saturday different was not that a fire started, but that the wind carried it into a place where people live.",
+          "verbs": [
+            {
+              "display": "add up",
+              "base": "add up",
+              "correct": "To reach a total when combined",
+              "wrong": "To be counted by satellite",
+              "correctFirst": false
+            },
+            {
+              "display": "built up",
+              "base": "build up",
+              "correct": "To slowly become thicker",
+              "wrong": "To move away toward the coast",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Break out",
+          "def": "To start suddenly",
+          "ex": [
+            "A fire broke out behind the station.",
+            "Fires break out here every August.",
+            "Two fires had broken out by noon."
+          ],
+          "ipa": "/breɪk aʊt/"
+        },
+        {
+          "verb": "Tear through",
+          "def": "To move through a place fast and destroy it",
+          "ex": [
+            "The flames tore through the whole street.",
+            "A storm tears through the valley each spring.",
+            "Water had torn through the lower floor."
+          ],
+          "ipa": "/tɛər θruː/"
+        },
+        {
+          "verb": "Burn down",
+          "def": "To be destroyed completely by fire",
+          "ex": [
+            "The old mill burned down in an hour.",
+            "Dry houses burn down very quickly.",
+            "Six barns have burned down this year."
+          ],
+          "ipa": "/bərn daʊn/"
+        },
+        {
+          "verb": "Pick up",
+          "def": "To become stronger",
+          "ex": [
+            "The wind picked up after lunch.",
+            "Gusts pick up as the ground heats.",
+            "The breeze had picked up by evening."
+          ],
+          "ipa": "/pɪk ʌp/"
+        },
+        {
+          "verb": "Hold back",
+          "def": "To stop something from advancing",
+          "ex": [
+            "Crews could not hold back the flames.",
+            "A wide road holds back a small fire.",
+            "The water had held back the fire all night."
+          ],
+          "ipa": "/hoʊld bæk/"
+        },
+        {
+          "verb": "Put out",
+          "def": "To stop a fire from burning",
+          "ex": [
+            "They put out the last flames at dawn.",
+            "One truck cannot put out a fire this size.",
+            "The blaze was put out within an hour."
+          ],
+          "ipa": "/pʊt aʊt/"
+        },
+        {
+          "verb": "Move out",
+          "def": "To make people leave a place",
+          "ex": [
+            "Officers moved out the whole street.",
+            "They move out the closest homes first.",
+            "Two villages were moved out on Friday."
+          ],
+          "ipa": "/muːv aʊt/"
+        },
+        {
+          "verb": "Set up",
+          "def": "To create and organize something",
+          "ex": [
+            "The city set up a shelter downtown.",
+            "Volunteers set up a kitchen each evening.",
+            "A second center has been set up nearby."
+          ],
+          "ipa": "/sɛt ʌp/"
+        },
+        {
+          "verb": "Call in",
+          "def": "To ask for official help",
+          "ex": [
+            "The governor called in the National Guard.",
+            "Small towns call in help from the state.",
+            "Extra crews were called in overnight."
+          ],
+          "ipa": "/kɔːl ɪn/"
+        },
+        {
+          "verb": "Bring in",
+          "def": "To introduce a new rule",
+          "ex": [
+            "The state brought in a burn ban.",
+            "Councils bring in water limits each July.",
+            "A curfew was brought in on Sunday."
+          ],
+          "ipa": "/brɪŋ ɪn/"
+        },
+        {
+          "verb": "Add up",
+          "def": "To reach a total when combined",
+          "ex": [
+            "The fires add up to a quarter of a million acres.",
+            "Small losses add up over a season.",
+            "The hours had added up to three full days."
+          ],
+          "ipa": "/æd ʌp/"
+        },
+        {
+          "verb": "Build up",
+          "def": "To slowly become thicker",
+          "ex": [
+            "Smoke built up over the whole valley.",
+            "Haze builds up when there is no wind.",
+            "Dust had built up on every surface."
+          ],
+          "ipa": "/bɪld ʌp/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "wildfire",
+          "def": "A large fire that spreads quickly across open land",
+          "ex": [
+            "The wildfire started on open ground.",
+            "Wildfires move faster uphill."
+          ],
+          "ipa": "/ˈwaɪldfaɪər/"
+        },
+        {
+          "word": "structures",
+          "def": "Buildings of any kind",
+          "ex": [
+            "Six hundred structures were lost.",
+            "Most structures were family homes."
+          ],
+          "ipa": "/ˈstrʌktʃərz/"
+        },
+        {
+          "word": "limits",
+          "def": "The official edge of a city",
+          "ex": [
+            "The fire reached the city limits.",
+            "Inside the limits, the city pays for water."
+          ],
+          "ipa": "/ˈlɪməts/"
+        },
+        {
+          "word": "Gusts",
+          "def": "Sudden strong rushes of wind",
+          "ex": [
+            "Gusts reached 45 miles an hour.",
+            "The gusts lasted most of the afternoon."
+          ],
+          "ipa": "/ɡʌsts/"
+        },
+        {
+          "word": "front",
+          "def": "The leading edge of a moving fire",
+          "ex": [
+            "The front moved a mile in twenty minutes.",
+            "Crews worked ahead of the front all night."
+          ],
+          "ipa": "/frʌnt/"
+        },
+        {
+          "word": "bluffs",
+          "def": "Steep cliffs above a river or shore",
+          "ex": [
+            "The bluffs rise above the river.",
+            "Houses sit along the top of the bluffs."
+          ],
+          "ipa": "/blʌfs/"
+        },
+        {
+          "word": "Crews",
+          "def": "Teams of workers doing one job",
+          "ex": [
+            "Crews worked through the night.",
+            "Six crews came from other counties."
+          ],
+          "ipa": "/kruːz/"
+        },
+        {
+          "word": "shelter",
+          "def": "A safe place for people forced from home",
+          "ex": [
+            "The shelter opened on Saturday night.",
+            "Hundreds slept in the shelter."
+          ],
+          "ipa": "/ˈʃɛltər/"
+        },
+        {
+          "word": "convention center",
+          "def": "A large public hall used for big events",
+          "ex": [
+            "The convention center holds thousands.",
+            "Cots filled the convention center floor."
+          ],
+          "ipa": "/kənˈvɛnʃən ˈsɛntər/"
+        },
+        {
+          "word": "emergency",
+          "def": "An official state allowing extra powers and money",
+          "ex": [
+            "The mayor declared an emergency.",
+            "An emergency frees up state funds."
+          ],
+          "ipa": "/ɪˈmərdʒənsi/"
+        },
+        {
+          "word": "National Guard",
+          "def": "State military units used to help in disasters",
+          "ex": [
+            "The National Guard arrived on Sunday.",
+            "National Guard trucks carried supplies."
+          ],
+          "ipa": "/ˈnæʃənəl ɡɑrd/"
+        },
+        {
+          "word": "burn ban",
+          "def": "A rule stopping all outdoor fires",
+          "ex": [
+            "The burn ban covers every county.",
+            "A burn ban runs until the rain comes."
+          ],
+          "ipa": "/bərn bæn/"
+        },
+        {
+          "word": "investigation",
+          "def": "An official effort to find out what happened",
+          "ex": [
+            "The investigation may take weeks.",
+            "An investigation began on Sunday."
+          ],
+          "ipa": "/ˌɪnˌvɛstəˈɡeɪʃən/"
+        },
+        {
+          "word": "acres",
+          "def": "Units for measuring an area of land",
+          "ex": [
+            "The fires cover 250,000 acres.",
+            "One acre is a little smaller than a soccer field."
+          ],
+          "ipa": "/ˈeɪkərz/"
+        },
+        {
+          "word": "air quality",
+          "def": "How clean or dirty the air is to breathe",
+          "ex": [
+            "Air quality fell to unhealthy levels.",
+            "Air quality warnings covered seven counties."
+          ],
+          "ipa": "/ɛər ˈkwɑləti/"
+        },
+        {
+          "word": "drought",
+          "def": "A long period with far too little rain",
+          "ex": [
+            "The region is in record drought.",
+            "Drought turns grass into fuel."
+          ],
+          "ipa": "/draʊt/"
+        },
+        {
+          "word": "ember",
+          "def": "A small piece of burning material carried by wind",
+          "ex": [
+            "A single ember started the second fire.",
+            "Embers can travel more than a mile."
+          ],
+          "ipa": "/ˈɛmbər/"
+        },
+        {
+          "word": "notice",
+          "def": "A warning given before something happens",
+          "ex": [
+            "Families left with almost no notice.",
+            "A day's notice is rarely enough."
+          ],
+          "ipa": "/ˈnoʊtəs/"
+        },
+        {
+          "word": "forecasters",
+          "def": "People who say what the weather will do",
+          "ex": [
+            "Forecasters expect more wind this week.",
+            "Forecasters warned of dry air."
+          ],
+          "ipa": "/ˈfɔːrkæstərz/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "The wildfire broke out on Saturday, August 1, on open ground west of Spokane.",
+          "a": true,
+          "why": "A wildfire broke out on Saturday, August 1, on open ground west of Spokane, in the eastern half of Washington state."
+        },
+        {
+          "s": "About 640 structures burned down, most of them houses.",
+          "a": true,
+          "why": "By Sunday the fire chief for the district said 640 structures had burned down, most of them houses, and many of them inside the Spokane city limits."
+        },
+        {
+          "s": "Crews were able to hold back the fire before it reached any houses.",
+          "a": false,
+          "why": "Crews could not hold back a front moving that fast, and they could not put out what was already burning, so they worked instead on getting people away from it."
+        },
+        {
+          "s": "The governor called in the National Guard and brought in a burn ban for the whole state.",
+          "a": true,
+          "why": "The governor declared an emergency for the whole state, called in the National Guard and brought in a burn ban that covers every county."
+        },
+        {
+          "s": "Gusts stayed below 20 miles an hour during the fire.",
+          "a": false,
+          "why": "Gusts picked up to between 35 and 45 miles an hour and held there for hours, pushing the flames northeast into a state park."
+        },
+        {
+          "s": "Forecasters expect heavy rain to put out the fires within days.",
+          "a": false,
+          "why": "Eastern Washington has spent the summer in record drought, and forecasters expect dry air and more wind rather than rain."
+        }
+      ]
+    },
+    {
+      "id": "moscow-restaurant-bombing-2026",
+      "number": 62,
+      "headline": "A bomb kills three outside a Moscow restaurant",
+      "badge": "World",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n62-moscow-restaurant-bombing-2026-flat.png",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Female Bomber Kills at Least 3, Injures 21 Near Moscow Restaurant",
+          "url": "https://www.themoscowtimes.com/2026/08/02/female-bomber-kills-at-least-3-injures-21-near-moscow-restaurant-a93395"
+        },
+        {
+          "title": "Moscow mayor calls Saturday's deadly bomb attack on a restaurant a 'terrorist act'",
+          "url": "https://www.news4jax.com/news/world/2026/08/02/moscow-mayor-calls-saturdays-deadly-bomb-attack-on-restaurant-a-terrorist-act/"
+        },
+        {
+          "title": "Three dead including female bomber in Moscow restaurant attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A [[homemade]] bomb {{went off}} outside an Italian restaurant in central Moscow on Saturday evening, August 1. A woman carrying the [[device]] tried to walk in through the front door. A [[security guard]] {{stepped in}} and {{turned her away}}, and the bomb exploded on the street a moment later. Three people were killed, the woman herself, the guard and one customer. Twenty-one others were [[wounded]], six of them [[seriously]].",
+          "verbs": [
+            {
+              "display": "went off",
+              "base": "go off",
+              "correct": "To explode",
+              "wrong": "To be carried into a building",
+              "correctFirst": true
+            },
+            {
+              "display": "stepped in",
+              "base": "step in",
+              "correct": "To get involved in order to stop something",
+              "wrong": "To open a door for a customer",
+              "correctFirst": false
+            },
+            {
+              "display": "turned her away",
+              "base": "turn away",
+              "correct": "To refuse to let someone enter",
+              "wrong": "To look in another direction",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The restaurant sits on Kudrinskaya Square, under one of the seven tall [[Stalin-era]] towers that stand around the city. It had been closed that evening for a [[private event]]. Russia's national [[anti-terrorism committee]] is {{looking into}} the attack but has {{put out}} very little. It has not named the woman, the [[victims]] or any [[suspect]], and it has not {{ruled out}} the possibility that she did not know what she was carrying.",
+          "verbs": [
+            {
+              "display": "looking into",
+              "base": "look into",
+              "correct": "To investigate something carefully",
+              "wrong": "To watch a place from outside",
+              "correctFirst": false
+            },
+            {
+              "display": "put out",
+              "base": "put out",
+              "correct": "To release information to the public",
+              "wrong": "To keep a file for official use only",
+              "correctFirst": true
+            },
+            {
+              "display": "ruled out",
+              "base": "rule out",
+              "correct": "To decide that something is not possible",
+              "wrong": "To question a witness about something",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Nobody has {{come forward}} to say they organized it. The mayor of Moscow, Sergei Sobyanin, called the [[blast]] a brutal [[terrorist act]] and said those behind it would be found. Beyond that, almost nothing [[official]] has been said, and the space has filled with [[guesswork]]. Some Russian [[war bloggers]] blamed Ukraine without offering [[proof]], and Kyiv did not answer them. One Russian newspaper suggested the bomb may have been detonated from a distance by somebody else. So far nothing public {{points to}} any single answer. Russians have {{looked back}} to a café bombing in the same city in 2023, when a woman who carried a hidden bomb to a public event was later sentenced to 27 years in prison.",
+          "verbs": [
+            {
+              "display": "come forward",
+              "base": "come forward",
+              "correct": "To make yourself known in public",
+              "wrong": "To arrive at a place before others",
+              "correctFirst": true
+            },
+            {
+              "display": "points to",
+              "base": "point to",
+              "correct": "To suggest that something is true",
+              "wrong": "To name a person in an official list",
+              "correctFirst": false
+            },
+            {
+              "display": "looked back",
+              "base": "look back",
+              "correct": "To think about something in the past",
+              "wrong": "To turn around to see who is behind",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "What is left is a short list of things nobody can {{clear up}} yet. Investigators must {{track down}} whoever built the device and whoever chose the place and the hour. They are {{holding back}} most of what they know, which is normal early in a case like this but leaves everyone else guessing. The [[square]] is open again, the tower still stands above it, and a restaurant that was closed for a quiet evening has become the address of the worst attack in the [[capital]] this year.",
+          "verbs": [
+            {
+              "display": "clear up",
+              "base": "clear up",
+              "correct": "To explain something that is confusing",
+              "wrong": "To remove damage from a street",
+              "correctFirst": false
+            },
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find someone after searching",
+              "wrong": "To follow a person without being seen",
+              "correctFirst": true
+            },
+            {
+              "display": "holding back",
+              "base": "hold back",
+              "correct": "To refuse to share information",
+              "wrong": "To delay an announcement by a day",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Go off",
+          "def": "To explode",
+          "ex": [
+            "The device went off in the street.",
+            "Old shells sometimes go off when moved.",
+            "A second bomb had gone off an hour earlier."
+          ],
+          "ipa": "/ɡoʊ ɔːf/"
+        },
+        {
+          "verb": "Step in",
+          "def": "To get involved in order to stop something",
+          "ex": [
+            "A guard stepped in before she reached the door.",
+            "Staff step in when an argument starts.",
+            "Nobody had stepped in to stop the fight."
+          ],
+          "ipa": "/stɛp ɪn/"
+        },
+        {
+          "verb": "Turn away",
+          "def": "To refuse to let someone enter",
+          "ex": [
+            "The doorman turned away three people.",
+            "They turn away anyone without a ticket.",
+            "She had been turned away twice that week."
+          ],
+          "ipa": "/tərn əˈweɪ/"
+        },
+        {
+          "verb": "Look into",
+          "def": "To investigate something carefully",
+          "ex": [
+            "Police are looking into the explosion.",
+            "A committee looks into every complaint.",
+            "The matter has been looked into already."
+          ],
+          "ipa": "/lʊk ˈɪntuː/"
+        },
+        {
+          "verb": "Put out",
+          "def": "To release information to the public",
+          "ex": [
+            "The office put out a short statement.",
+            "They put out an update every evening.",
+            "Nothing has been put out since Sunday."
+          ],
+          "ipa": "/pʊt aʊt/"
+        },
+        {
+          "verb": "Rule out",
+          "def": "To decide that something is not possible",
+          "ex": [
+            "Investigators have not ruled out an accident.",
+            "She rules out nothing this early.",
+            "That idea was ruled out on Monday."
+          ],
+          "ipa": "/ruːl aʊt/"
+        },
+        {
+          "verb": "Come forward",
+          "def": "To make yourself known in public",
+          "ex": [
+            "No group came forward to claim the attack.",
+            "Witnesses rarely come forward at once.",
+            "Two people have come forward since Friday."
+          ],
+          "ipa": "/kʌm ˈfɔːrwərd/"
+        },
+        {
+          "verb": "Point to",
+          "def": "To suggest that something is true",
+          "ex": [
+            "The damage points to a small device.",
+            "Every detail points to the same hour.",
+            "Nothing has pointed to a second person."
+          ],
+          "ipa": "/pɔɪnt tuː/"
+        },
+        {
+          "verb": "Look back",
+          "def": "To think about something in the past",
+          "ex": [
+            "The city looked back to an earlier attack.",
+            "People look back at that year with fear.",
+            "She has looked back on it many times."
+          ],
+          "ipa": "/lʊk bæk/"
+        },
+        {
+          "verb": "Clear up",
+          "def": "To explain something that is confusing",
+          "ex": [
+            "One witness cleared up the timing.",
+            "A single test clears up most of the doubt.",
+            "That question has never been cleared up."
+          ],
+          "ipa": "/klɪr ʌp/"
+        },
+        {
+          "verb": "Track down",
+          "def": "To find someone after searching",
+          "ex": [
+            "Officers tracked down the driver in a week.",
+            "It can take years to track down a maker.",
+            "The seller has not been tracked down."
+          ],
+          "ipa": "/træk daʊn/"
+        },
+        {
+          "verb": "Hold back",
+          "def": "To refuse to share information",
+          "ex": [
+            "The committee held back the woman's name.",
+            "Investigators hold back details on purpose.",
+            "Two reports have been held back from the public."
+          ],
+          "ipa": "/hoʊld bæk/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "homemade",
+          "def": "Made at home rather than in a factory",
+          "ex": [
+            "A homemade bomb is hard to trace.",
+            "The parts were homemade and simple."
+          ],
+          "ipa": "/hoʊmˈmeɪd/"
+        },
+        {
+          "word": "device",
+          "def": "A piece of equipment made for one purpose",
+          "ex": [
+            "The device was hidden in a bag.",
+            "Experts examined the device on site."
+          ],
+          "ipa": "/dɪˈvaɪs/"
+        },
+        {
+          "word": "security guard",
+          "def": "A person paid to protect a place",
+          "ex": [
+            "The security guard stood at the door.",
+            "Every entrance has a security guard."
+          ],
+          "ipa": "/sɪˈkjʊrəti ɡɑrd/"
+        },
+        {
+          "word": "wounded",
+          "def": "Injured, especially by a weapon or blast",
+          "ex": [
+            "Twenty-one people were wounded.",
+            "The wounded were taken to two hospitals."
+          ],
+          "ipa": "/ˈwuːndɪd/"
+        },
+        {
+          "word": "Stalin-era",
+          "def": "Built during Stalin's rule in the Soviet Union",
+          "ex": [
+            "Seven Stalin-era towers stand in Moscow.",
+            "The Stalin-era building has thick stone walls."
+          ],
+          "ipa": "/ˈstɑlən ˈɛrə/"
+        },
+        {
+          "word": "private event",
+          "def": "A gathering closed to the general public",
+          "ex": [
+            "The restaurant was booked for a private event.",
+            "A private event means no walk-in guests."
+          ],
+          "ipa": "/ˈpraɪvət ɪˈvɛnt/"
+        },
+        {
+          "word": "anti-terrorism committee",
+          "def": "The state body that handles attacks on the public",
+          "ex": [
+            "The anti-terrorism committee gave a short account.",
+            "An anti-terrorism committee leads the inquiry."
+          ],
+          "ipa": "/ˈænti ˈtɛrərɪzəm kəˈmɪti/"
+        },
+        {
+          "word": "victims",
+          "def": "People harmed by a crime or disaster",
+          "ex": [
+            "The victims have not been named.",
+            "Families of the victims waited outside."
+          ],
+          "ipa": "/ˈvɪktəmz/"
+        },
+        {
+          "word": "suspect",
+          "def": "Someone the police believe may be guilty",
+          "ex": [
+            "No suspect has been arrested.",
+            "The suspect was seen on camera."
+          ],
+          "ipa": "/səˈspɛkt/"
+        },
+        {
+          "word": "terrorist act",
+          "def": "A violent attack meant to frighten the public",
+          "ex": [
+            "The mayor called it a terrorist act.",
+            "A terrorist act is investigated by the state."
+          ],
+          "ipa": "/ˈtɛrərɪst ækt/"
+        },
+        {
+          "word": "official",
+          "def": "Coming from a government or authority",
+          "ex": [
+            "No official statement has been made.",
+            "The official account is only two lines long."
+          ],
+          "ipa": "/əˈfɪʃəl/"
+        },
+        {
+          "word": "guesswork",
+          "def": "Opinions formed without real evidence",
+          "ex": [
+            "The rest is guesswork for now.",
+            "Guesswork spreads fastest online."
+          ],
+          "ipa": "/ˈɡɛswərk/"
+        },
+        {
+          "word": "war bloggers",
+          "def": "People who write online about a war",
+          "ex": [
+            "War bloggers blamed a neighboring country.",
+            "Russian war bloggers have large audiences."
+          ],
+          "ipa": "/wɔːr ˈblɔːɡərz/"
+        },
+        {
+          "word": "proof",
+          "def": "Evidence that shows something is true",
+          "ex": [
+            "They offered no proof at all.",
+            "Proof may take months to gather."
+          ],
+          "ipa": "/pruːf/"
+        },
+        {
+          "word": "blast",
+          "def": "The rush of air and force from an explosion",
+          "ex": [
+            "The blast broke windows across the street.",
+            "People felt the blast a mile away."
+          ],
+          "ipa": "/blæst/"
+        },
+        {
+          "word": "square",
+          "def": "An open public space in a city",
+          "ex": [
+            "The square was closed for two days.",
+            "Four streets meet at the square."
+          ],
+          "ipa": "/skwɛər/"
+        },
+        {
+          "word": "seriously",
+          "def": "In a way that is severe or dangerous",
+          "ex": [
+            "Six people were seriously hurt.",
+            "She was seriously injured but survived."
+          ],
+          "ipa": "/ˈsɪriəsli/"
+        },
+        {
+          "word": "capital",
+          "def": "The city where a country's government sits",
+          "ex": [
+            "Security is tighter in the capital.",
+            "The capital has nine million people."
+          ],
+          "ipa": "/ˈkæpətəl/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "The bomb went off outside an Italian restaurant in central Moscow on Saturday evening, August 1.",
+          "a": true,
+          "why": "A homemade bomb went off outside an Italian restaurant in central Moscow on Saturday evening, August 1."
+        },
+        {
+          "s": "The woman carrying the device reached the inside of the restaurant before it exploded.",
+          "a": false,
+          "why": "A security guard stepped in and turned her away, and the bomb exploded on the street a moment later."
+        },
+        {
+          "s": "Three people were killed, including the woman and the security guard.",
+          "a": true,
+          "why": "Three people were killed, the woman herself, the guard and one customer, and twenty-one others were wounded, six of them seriously."
+        },
+        {
+          "s": "The anti-terrorism committee has named the woman and two suspects.",
+          "a": false,
+          "why": "Russia's national anti-terrorism committee is looking into the attack but has put out very little, and it has not named the woman, the victims or any suspect."
+        },
+        {
+          "s": "A group has come forward to say it organized the attack.",
+          "a": false,
+          "why": "Nobody has come forward to say they organized it, and so far nothing public points to any single answer."
+        },
+        {
+          "s": "The mayor of Moscow called the blast a brutal terrorist act.",
+          "a": true,
+          "why": "The mayor of Moscow, Sergei Sobyanin, called the blast a brutal terrorist act and said those behind it would be found."
+        }
+      ]
+    },
+    {
+      "id": "border-phone-wipe-2026",
+      "number": 61,
+      "headline": "A traveler gave his passcode and his phone erased itself",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n61-border-phone-wipe-2026-flat.png",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "US accuses American of allegedly wiping his phone using a 'duress' password during border search",
+          "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/"
+        },
+        {
+          "title": "Border agents can lie to search your phone, but wiping your own data could land you in prison",
+          "url": "https://reason.com/2026/07/29/border-agents-can-lie-to-search-your-phone-but-wiping-your-own-data-could-land-you-in-prison/"
+        },
+        {
+          "title": "Traveler Gave CBP A Passcode That Wiped His Phone At Atlanta Airport. Now He Faces Five Years In Prison",
+          "url": "https://liveandletsfly.com/cbp-duress-passcode-phone-wipe-atlanta-airport/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Samuel Tunick landed in Atlanta in January 2025 on a [[flight]] from the Dominican Republic. [[Customs]] officers {{pulled him aside}} for a second check and asked him to {{hand over}} the [[passcode]] to his phone. He gave them a code. The screen [[went dark]], [[flashed]] a few times, and the phone appeared to restart. The code he had typed was a [[duress]] code, and it {{wiped out}} everything on the device.",
+          "verbs": [
+            {
+              "display": "pulled him aside",
+              "base": "pull aside",
+              "correct": "To take someone away for questioning",
+              "wrong": "To move a bag off a moving belt",
+              "correctFirst": true
+            },
+            {
+              "display": "hand over",
+              "base": "hand over",
+              "correct": "To give something to a person in authority",
+              "wrong": "To read something out loud to an officer",
+              "correctFirst": false
+            },
+            {
+              "display": "wiped out",
+              "base": "wipe out",
+              "correct": "To erase everything stored on a device",
+              "wrong": "To lock a device until it is unlocked again",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "A duress code is a second passcode that the owner {{sets up}} in advance. When it is typed, it looks exactly like the real one, but instead of opening the phone it orders a [[factory reset]] and destroys the [[encryption]] keys, so the phone {{starts up}} clean and the old files cannot be read. The feature exists to {{keep out}} anyone who forces the owner to unlock a phone, and it is built into GrapheneOS, an [[operating system]] that some people install on their phones in place of the one that comes with them.",
+          "verbs": [
+            {
+              "display": "sets up",
+              "base": "set up",
+              "correct": "To arrange something in advance",
+              "wrong": "To type a code very quickly",
+              "correctFirst": false
+            },
+            {
+              "display": "starts up",
+              "base": "start up",
+              "correct": "To begin working from the beginning",
+              "wrong": "To send a copy of files to a server",
+              "correctFirst": true
+            },
+            {
+              "display": "keep out",
+              "base": "keep out",
+              "correct": "To prevent someone from getting in",
+              "wrong": "To warn the owner about a search",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "The stop happened in January 2025, but the case only became public in July 2026, and it is being fought in court now. [[Prosecutors]] have charged Tunick with destroying property to stop it being [[seized]], a rarely used law that carries up to five years in prison. He has pleaded not [[guilty]]. The officers said they were looking for illegal images, but they gave no reason for that [[suspicion]], and Tunick's [[lawyers]] say they had [[nothing to go on]]. They want a [[judge]] to {{throw out}} the [[evidence]] the officers gathered that day, and they argue that the stop would never {{stand up in court}} if the same thing had happened on a street rather than at an airport.",
+          "verbs": [
+            {
+              "display": "throw out",
+              "base": "throw out",
+              "correct": "To officially reject something",
+              "wrong": "To return property to its owner",
+              "correctFirst": false
+            },
+            {
+              "display": "stand up in court",
+              "base": "stand up in court",
+              "correct": "To be accepted as valid by a judge",
+              "wrong": "To be argued by a lawyer in person",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The case {{comes down to}} an old question with a new object at the center of it. Courts have long allowed officers at a border to search a bag without a [[warrant]], and the government says a phone is no different. Lawyers who work on [[privacy]] say a phone holds a person's whole life, so {{going through}} one is not like opening a suitcase. [[Congress]] has never {{stepped in}} to write a clear rule, and no court has {{sorted out}} the question for good. Until one does, every traveler who is asked for a passcode is standing in the same [[gray area]] Tunick stood in.",
+          "verbs": [
+            {
+              "display": "comes down to",
+              "base": "come down to",
+              "correct": "To be explained by one main question",
+              "wrong": "To reach a court after many years",
+              "correctFirst": false
+            },
+            {
+              "display": "going through",
+              "base": "go through",
+              "correct": "To examine things one after another",
+              "wrong": "To copy files onto another machine",
+              "correctFirst": true
+            },
+            {
+              "display": "stepped in",
+              "base": "step in",
+              "correct": "To get involved in order to act",
+              "wrong": "To vote against a proposed law",
+              "correctFirst": false
+            },
+            {
+              "display": "sorted out",
+              "base": "sort out",
+              "correct": "To settle a question completely",
+              "wrong": "To divide a case into smaller parts",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pull aside",
+          "def": "To take someone away for questioning",
+          "ex": [
+            "An officer pulled her aside at the gate.",
+            "They pull aside about one traveler in twenty.",
+            "He had been pulled aside twice before."
+          ],
+          "ipa": "/pʊl əˈsaɪd/"
+        },
+        {
+          "verb": "Hand over",
+          "def": "To give something to a person in authority",
+          "ex": [
+            "She handed over her passport without a word.",
+            "You must hand over any liquids at security.",
+            "The keys were handed over that afternoon."
+          ],
+          "ipa": "/hænd ˈoʊvər/"
+        },
+        {
+          "verb": "Wipe out",
+          "def": "To erase everything stored on a device",
+          "ex": [
+            "One wrong code wiped out the whole phone.",
+            "A reset wipes out every photograph.",
+            "The laptop had been wiped out before the sale."
+          ],
+          "ipa": "/waɪp aʊt/"
+        },
+        {
+          "verb": "Set up",
+          "def": "To arrange something in advance",
+          "ex": [
+            "He set up a second code months earlier.",
+            "You can set up a backup in two minutes.",
+            "The account had been set up in her name."
+          ],
+          "ipa": "/sɛt ʌp/"
+        },
+        {
+          "verb": "Start up",
+          "def": "To begin working from the beginning",
+          "ex": [
+            "The phone started up as if it were new.",
+            "The machine starts up in ten seconds.",
+            "It had started up three times that night."
+          ],
+          "ipa": "/stɑrt ʌp/"
+        },
+        {
+          "verb": "Keep out",
+          "def": "To prevent someone from getting in",
+          "ex": [
+            "A long password keeps out most attackers.",
+            "The lock kept out everyone but the owner.",
+            "Strangers had been kept out of the building."
+          ],
+          "ipa": "/kiːp aʊt/"
+        },
+        {
+          "verb": "Throw out",
+          "def": "To officially reject something",
+          "ex": [
+            "The judge threw out the whole case.",
+            "Courts throw out evidence taken illegally.",
+            "Her appeal was thrown out in March."
+          ],
+          "ipa": "/θroʊ aʊt/"
+        },
+        {
+          "verb": "Stand up in court",
+          "def": "To be accepted as valid by a judge",
+          "ex": [
+            "That search would never stand up in court.",
+            "Few of these claims stand up in court.",
+            "The contract has stood up in court twice."
+          ],
+          "ipa": "/stænd ʌp ɪn kɔːrt/"
+        },
+        {
+          "verb": "Come down to",
+          "def": "To be explained by one main question",
+          "ex": [
+            "The whole case came down to one photograph.",
+            "It comes down to who owns the data.",
+            "Everything has come down to a single date."
+          ],
+          "ipa": "/kʌm daʊn tuː/"
+        },
+        {
+          "verb": "Go through",
+          "def": "To examine things one after another",
+          "ex": [
+            "Officers went through every message on it.",
+            "She goes through the files each morning.",
+            "They have gone through a thousand photographs."
+          ],
+          "ipa": "/ɡoʊ θruː/"
+        },
+        {
+          "verb": "Step in",
+          "def": "To get involved in order to act",
+          "ex": [
+            "Parliament stepped in after the third case.",
+            "Regulators step in when a company will not.",
+            "A judge has stepped in to stop the sale."
+          ],
+          "ipa": "/stɛp ɪn/"
+        },
+        {
+          "verb": "Sort out",
+          "def": "To settle a question completely",
+          "ex": [
+            "The court sorted out the ownership at last.",
+            "One ruling will not sort out the whole area.",
+            "That argument was sorted out years ago."
+          ],
+          "ipa": "/sɔːrt aʊt/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "Customs",
+          "def": "The service that checks people entering a country",
+          "ex": [
+            "Customs officers work at every airport.",
+            "She was stopped by Customs on the way in."
+          ],
+          "ipa": "/ˈkʌstəmz/"
+        },
+        {
+          "word": "passcode",
+          "def": "A short code that unlocks a device",
+          "ex": [
+            "His passcode was six digits long.",
+            "Never share a passcode with a stranger."
+          ],
+          "ipa": "/?/"
+        },
+        {
+          "word": "duress",
+          "def": "Being forced to do something against your will",
+          "ex": [
+            "A duress code is used under pressure.",
+            "A signature given under duress may not count."
+          ],
+          "ipa": "/ˈdʊrɛs/"
+        },
+        {
+          "word": "factory reset",
+          "def": "Returning a device to the state it was sold in",
+          "ex": [
+            "A factory reset removes every file.",
+            "He ran a factory reset before selling it."
+          ],
+          "ipa": "/ˈfæktəri rɪˈsɛt/"
+        },
+        {
+          "word": "encryption",
+          "def": "A way of scrambling data so others cannot read it",
+          "ex": [
+            "Encryption protects messages in transit.",
+            "Without the key, encryption cannot be undone."
+          ],
+          "ipa": "/ɛnˈkrɪpʃən/"
+        },
+        {
+          "word": "operating system",
+          "def": "The main software that runs a computer or phone",
+          "ex": [
+            "The operating system controls everything else.",
+            "He installed a different operating system."
+          ],
+          "ipa": "/ˈɑpəreɪtɪŋ ˈsɪstəm/"
+        },
+        {
+          "word": "Prosecutors",
+          "def": "Lawyers who bring criminal charges for the state",
+          "ex": [
+            "Prosecutors filed the charge in July.",
+            "Prosecutors must prove the case in court."
+          ],
+          "ipa": "/ˈprɑsɪkjuːtərz/"
+        },
+        {
+          "word": "seized",
+          "def": "Taken by officials under the law",
+          "ex": [
+            "The phone was seized at the airport.",
+            "Officers seized two laptops and a camera."
+          ],
+          "ipa": "/siːzd/"
+        },
+        {
+          "word": "went dark",
+          "def": "Stopped showing any light or image",
+          "ex": [
+            "The whole screen went dark for a second.",
+            "The building went dark just after midnight."
+          ],
+          "ipa": "/wɛnt dɑrk/"
+        },
+        {
+          "word": "flashed",
+          "def": "Shone brightly for a very short time",
+          "ex": [
+            "A warning flashed and then disappeared.",
+            "The light flashed twice and stopped."
+          ],
+          "ipa": "/flæʃt/"
+        },
+        {
+          "word": "nothing to go on",
+          "def": "No information on which to base a decision",
+          "ex": [
+            "With no witnesses, the police had nothing to go on.",
+            "Without a name they had nothing to go on."
+          ],
+          "ipa": "/ˈnʌθɪŋ tuː ɡoʊ ɑn/"
+        },
+        {
+          "word": "evidence",
+          "def": "Facts or objects used to prove something in court",
+          "ex": [
+            "The evidence was gathered in one afternoon.",
+            "A judge decides what evidence a jury hears."
+          ],
+          "ipa": "/ˈɛvədəns/"
+        },
+        {
+          "word": "warrant",
+          "def": "A court paper allowing a search",
+          "ex": [
+            "Police need a warrant to enter a house.",
+            "The search was made without a warrant."
+          ],
+          "ipa": "/ˈwɔːrənt/"
+        },
+        {
+          "word": "privacy",
+          "def": "The right to keep personal things to yourself",
+          "ex": [
+            "Privacy law is changing very slowly.",
+            "She works on privacy for a living."
+          ],
+          "ipa": "/ˈpraɪvəsi/"
+        },
+        {
+          "word": "flight",
+          "def": "A journey by plane",
+          "ex": [
+            "The flight landed just after midnight.",
+            "She books the same flight every year."
+          ],
+          "ipa": "/flaɪt/"
+        },
+        {
+          "word": "guilty",
+          "def": "Judged to have committed a crime",
+          "ex": [
+            "He has not been found guilty of anything.",
+            "A guilty verdict would mean prison."
+          ],
+          "ipa": "/ˈɡɪlti/"
+        },
+        {
+          "word": "lawyers",
+          "def": "People trained to give legal advice",
+          "ex": [
+            "His lawyers filed the papers on Monday.",
+            "Her lawyers asked for more time."
+          ],
+          "ipa": "/ˈlɔːjərz/"
+        },
+        {
+          "word": "suspicion",
+          "def": "A belief that someone may have done wrong",
+          "ex": [
+            "The suspicion was never explained.",
+            "Officers acted on suspicion alone."
+          ],
+          "ipa": "/səˈspɪʃən/"
+        },
+        {
+          "word": "judge",
+          "def": "The official who decides a case in court",
+          "ex": [
+            "A judge will hear the argument in the fall.",
+            "The judge set a date in October."
+          ],
+          "ipa": "/dʒʌdʒ/"
+        },
+        {
+          "word": "Congress",
+          "def": "The body that makes laws in the United States",
+          "ex": [
+            "Congress has not acted on the question.",
+            "A bill sat in Congress for two years."
+          ],
+          "ipa": "/ˈkɑŋɡrəs/"
+        },
+        {
+          "word": "gray area",
+          "def": "A situation where the rules are unclear",
+          "ex": [
+            "Phone searches remain a gray area.",
+            "She works in a legal gray area."
+          ],
+          "ipa": "/ɡreɪ ˈɛriə/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "Samuel Tunick was pulled aside for a second check at the airport in Atlanta.",
+          "a": true,
+          "why": "Customs officers pulled him aside for a second check and asked him to hand over the passcode to his phone."
+        },
+        {
+          "s": "The code Tunick gave the officers unlocked the phone normally.",
+          "a": false,
+          "why": "The code he had typed was a duress code, and it wiped out everything on the device."
+        },
+        {
+          "s": "A duress code is set up in advance and orders a factory reset when it is typed in.",
+          "a": true,
+          "why": "A duress code is a second passcode that the owner sets up in advance, and instead of opening the phone it orders a factory reset and destroys the encryption keys."
+        },
+        {
+          "s": "Tunick could be sent to prison for up to five years.",
+          "a": true,
+          "why": "Prosecutors have charged Tunick with destroying property to stop it being seized, a rarely used law that carries up to five years in prison."
+        },
+        {
+          "s": "The officers gave a clear reason for suspecting Tunick.",
+          "a": false,
+          "why": "The officers said they were looking for illegal images, but they gave no reason for that suspicion, and Tunick's lawyers say they had nothing to go on."
+        },
+        {
+          "s": "Congress has stepped in and written a clear rule about phone searches at the border.",
+          "a": false,
+          "why": "Congress has never stepped in to write a clear rule, and no court has sorted out the question for good."
+        }
+      ]
+    },
+    {
+      "id": "ceuta-crossing-2026",
+      "number": 60,
+      "headline": "Sixty thousand people cross into Ceuta in one day",
+      "badge": "World",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n60-ceuta-crossing-2026-flat.png",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+          "url": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco"
+        },
+        {
+          "title": "Situation in Ceuta 'almost entirely reversed' as death toll climbs to 67, Spain says",
+          "url": "https://www.euronews.com/my-europe/2026/08/01/situation-in-ceuta-almost-entirely-reversed-as-death-toll-climbs-to-67-spain-says"
+        },
+        {
+          "title": "Why Thousands of Moroccan Migrants Crossed Into the Spanish Exclave Ceuta",
+          "url": "https://time.com/article/2026/07/31/ceuta-spain-morocco-africa-explainer/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "About 60,000 people crossed from Morocco into Ceuta on Thursday, July 30. Ceuta is a small Spanish [[enclave]] on the north coast of Africa, with about 83,000 [[residents]]. Most of those who came {{set out}} from beaches near the Moroccan town of Fnideq and swam around the end of a stone [[breakwater]] that stretches into the sea. No city that size can {{take in}} that many people in a single day. At least 72 of them died, most of them [[drowned]] or were [[crushed]] against the rocks, and officials say the number may still {{go up}}.",
+          "verbs": [
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To begin a journey",
+              "wrong": "To wait until dark before moving",
+              "correctFirst": true
+            },
+            {
+              "display": "take in",
+              "base": "take in",
+              "correct": "To provide shelter for people",
+              "wrong": "To count people as they arrive",
+              "correctFirst": false
+            },
+            {
+              "display": "go up",
+              "base": "go up",
+              "correct": "To become higher in number",
+              "wrong": "To be announced by officials",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The reason lies partly in a court case. In June, Spain's Supreme Court {{handed down}} a [[ruling]] that stopped the government from returning people who arrive by sea without first hearing their case. Word {{got around}} on Moroccan social media that anyone who reached Ceuta by water could no longer be {{sent back}} the same day. That was not quite what the court had said, but thousands believed it. For years Moroccan police had {{held back}} crowds at the border fences, and [[youth unemployment]] in Morocco sits near 37 percent.",
+          "verbs": [
+            {
+              "display": "handed down",
+              "base": "hand down",
+              "correct": "To officially give a decision",
+              "wrong": "To send a case to a lower court",
+              "correctFirst": false
+            },
+            {
+              "display": "got around",
+              "base": "get around",
+              "correct": "To become known by many people",
+              "wrong": "To be posted by a government office",
+              "correctFirst": true
+            },
+            {
+              "display": "sent back",
+              "base": "send back",
+              "correct": "To make someone return to their own country",
+              "wrong": "To refuse someone at the border",
+              "correctFirst": false
+            },
+            {
+              "display": "held back",
+              "base": "hold back",
+              "correct": "To stop people from moving forward",
+              "wrong": "To keep a road closed at night",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Spain's answer came quickly. Prime Minister Pedro Sanchez flew to Ceuta on Friday and called the crossing a violation of Spanish [[sovereignty]]. His government {{ruled out}} declaring a national [[emergency]], but it sent extra police, and on Saturday workers {{put up}} a floating [[barrier]] 500 meters long across the sea border. On the other side, Moroccan [[riot police]] used [[tear gas]] and [[water cannon]] to clear people from the gates. Twenty-two European countries {{called for}} emergency talks, Italy suspended passport-free travel with Spain, and France tightened its own border.",
+          "verbs": [
+            {
+              "display": "ruled out",
+              "base": "rule out",
+              "correct": "To decide against something",
+              "wrong": "To announce something officially",
+              "correctFirst": false
+            },
+            {
+              "display": "put up",
+              "base": "put up",
+              "correct": "To build something as a barrier",
+              "wrong": "To repair a damaged fence",
+              "correctFirst": true
+            },
+            {
+              "display": "called for",
+              "base": "call for",
+              "correct": "To publicly ask for something",
+              "wrong": "To agree to a plan without a vote",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "By Saturday morning the flow had reversed. More than 48,000 people were back in Morocco within two days, and Spain's interior minister described Morocco as a partner rather than a threat. The crossings {{died down}} almost as fast as they had begun. The questions they {{brought up}} are much harder to settle. The Civil Guard is still {{going through}} [[fingerprints]] and DNA to [[identify]] the dead, more than a thousand people needed [[medical treatment]], and the city [[morgue]] has received 88 bodies, some of them from earlier attempts in the same two weeks. The new barrier covers 500 meters of the only [[land border]] between the European Union and Africa.",
+          "verbs": [
+            {
+              "display": "died down",
+              "base": "die down",
+              "correct": "To become less strong",
+              "wrong": "To stop for one night only",
+              "correctFirst": true
+            },
+            {
+              "display": "brought up",
+              "base": "bring up",
+              "correct": "To mention a subject",
+              "wrong": "To settle an old argument",
+              "correctFirst": false
+            },
+            {
+              "display": "going through",
+              "base": "go through",
+              "correct": "To examine things one after another",
+              "wrong": "To send evidence to another country",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Set out",
+          "def": "To begin a journey",
+          "ex": [
+            "They set out before sunrise.",
+            "The walkers set out from the village square.",
+            "We will set out as soon as the rain stops."
+          ],
+          "ipa": "/sɛt aʊt/"
+        },
+        {
+          "verb": "Take in",
+          "def": "To provide shelter for people",
+          "ex": [
+            "The school took in forty families that night.",
+            "Small towns cannot take in so many at once.",
+            "She has taken in three students this year."
+          ],
+          "ipa": "/teɪk ɪn/"
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher in number",
+          "ex": [
+            "The total went up again on Sunday.",
+            "Prices go up every summer.",
+            "The count has gone up twice since Friday."
+          ],
+          "ipa": "/ɡoʊ ʌp/"
+        },
+        {
+          "verb": "Hand down",
+          "def": "To officially give a decision",
+          "ex": [
+            "The court handed down its ruling in June.",
+            "Judges hand down sentences in open court.",
+            "A decision was handed down last week."
+          ],
+          "ipa": "/hænd daʊn/"
+        },
+        {
+          "verb": "Get around",
+          "def": "To become known by many people",
+          "ex": [
+            "Word got around within an hour.",
+            "News gets around quickly in a small town.",
+            "The story had gotten around before anyone checked it."
+          ],
+          "ipa": "/ɡɛt əˈraʊnd/"
+        },
+        {
+          "verb": "Send back",
+          "def": "To make someone return to their own country",
+          "ex": [
+            "Most were sent back the following morning.",
+            "The country will not send back anyone under 18.",
+            "They sent back more than forty thousand people."
+          ],
+          "ipa": "/sɛnd bæk/"
+        },
+        {
+          "verb": "Hold back",
+          "def": "To stop people from moving forward",
+          "ex": [
+            "Officers held back the crowd for two hours.",
+            "A thin line of police holds back thousands.",
+            "The barriers had held back the crowd until midnight."
+          ],
+          "ipa": "/hoʊld bæk/"
+        },
+        {
+          "verb": "Rule out",
+          "def": "To decide against something",
+          "ex": [
+            "The government ruled out a state of emergency.",
+            "She rules out nothing at this stage.",
+            "They have ruled out closing the port."
+          ],
+          "ipa": "/ruːl aʊt/"
+        },
+        {
+          "verb": "Put up",
+          "def": "To build something as a barrier",
+          "ex": [
+            "Workers put up a fence along the beach.",
+            "The city puts up flood walls every winter.",
+            "A wall was put up in a single weekend."
+          ],
+          "ipa": "/pʊt ʌp/"
+        },
+        {
+          "verb": "Call for",
+          "def": "To publicly ask for something",
+          "ex": [
+            "Twenty-two countries called for urgent talks.",
+            "Doctors are calling for a change in the law.",
+            "The mayor has called for calm."
+          ],
+          "ipa": "/kɔːl fɔːr/"
+        },
+        {
+          "verb": "Die down",
+          "def": "To become less strong",
+          "ex": [
+            "The wind died down after midnight.",
+            "Anger dies down slowly in a small city.",
+            "The noise had died down by morning."
+          ],
+          "ipa": "/daɪ daʊn/"
+        },
+        {
+          "verb": "Bring up",
+          "def": "To mention a subject",
+          "ex": [
+            "Nobody brought up the cost of the plan.",
+            "She brings up the same point every meeting.",
+            "The report has brought up an old question."
+          ],
+          "ipa": "/brɪŋ ʌp/"
+        },
+        {
+          "verb": "Go through",
+          "def": "To examine things one after another",
+          "ex": [
+            "Officers went through every record by hand.",
+            "He goes through the list twice a day.",
+            "They have gone through nine hundred photographs."
+          ],
+          "ipa": "/ɡoʊ θruː/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "enclave",
+          "def": "A small piece of one country inside another",
+          "ex": [
+            "The enclave lies on the African coast.",
+            "Two Spanish enclaves border Morocco."
+          ],
+          "ipa": "/ˈɑnkleɪv/"
+        },
+        {
+          "word": "residents",
+          "def": "People who live in a place",
+          "ex": [
+            "The city has 83,000 residents.",
+            "Residents watched from their balconies."
+          ],
+          "ipa": "/ˈrɛzɪdənts/"
+        },
+        {
+          "word": "breakwater",
+          "def": "A stone wall built into the sea to block waves",
+          "ex": [
+            "The breakwater reaches far into the water.",
+            "Waves broke hard against the breakwater."
+          ],
+          "ipa": "/ˈbreɪkwɔːtər/"
+        },
+        {
+          "word": "drowned",
+          "def": "Died under water",
+          "ex": [
+            "Several people drowned in the strong current.",
+            "He nearly drowned before a boat reached him."
+          ],
+          "ipa": "/draʊnd/"
+        },
+        {
+          "word": "crushed",
+          "def": "Pressed so hard that the body is injured",
+          "ex": [
+            "Two people were crushed against the fence.",
+            "The crowd crushed him into the wall."
+          ],
+          "ipa": "/krʌʃt/"
+        },
+        {
+          "word": "ruling",
+          "def": "An official decision by a court",
+          "ex": [
+            "The ruling changed what officers may do.",
+            "Both sides studied the ruling closely."
+          ],
+          "ipa": "/ˈruːlɪŋ/"
+        },
+        {
+          "word": "youth unemployment",
+          "def": "The share of young people without work",
+          "ex": [
+            "Youth unemployment is near 37 percent.",
+            "High youth unemployment pushes people to leave."
+          ],
+          "ipa": "/juːθ ˌʌnɪmˈplɔɪmənt/"
+        },
+        {
+          "word": "sovereignty",
+          "def": "A country's right to govern its own land",
+          "ex": [
+            "He called it a violation of sovereignty.",
+            "Both countries claim sovereignty over the port."
+          ],
+          "ipa": "/ˈsɑvrənti/"
+        },
+        {
+          "word": "emergency",
+          "def": "A dangerous situation needing immediate action",
+          "ex": [
+            "The region declared an emergency on Friday.",
+            "An emergency gives the government extra powers."
+          ],
+          "ipa": "/ɪˈmərdʒənsi/"
+        },
+        {
+          "word": "barrier",
+          "def": "Something built to stop people getting through",
+          "ex": [
+            "The barrier floats on the surface of the sea.",
+            "A new barrier went up in one day."
+          ],
+          "ipa": "/ˈbæriər/"
+        },
+        {
+          "word": "riot police",
+          "def": "Officers trained to control large crowds",
+          "ex": [
+            "Riot police lined both sides of the gate.",
+            "The riot police carried shields and helmets."
+          ],
+          "ipa": "/ˈraɪət pəˈliːs/"
+        },
+        {
+          "word": "tear gas",
+          "def": "A gas used to make a crowd move away",
+          "ex": [
+            "Tear gas drifted across the beach.",
+            "Officers fired tear gas near the fence."
+          ],
+          "ipa": "/tɛər ɡæs/"
+        },
+        {
+          "word": "water cannon",
+          "def": "A machine that fires water to push crowds back",
+          "ex": [
+            "A water cannon was parked at the gate.",
+            "Water cannon are used to clear a road."
+          ],
+          "ipa": "/ˈwɔːtər ˈkænən/"
+        },
+        {
+          "word": "fingerprints",
+          "def": "The marks made by the tips of the fingers",
+          "ex": [
+            "Fingerprints help name the dead.",
+            "They took fingerprints from every body."
+          ],
+          "ipa": "/ˈfɪŋɡərprɪnts/"
+        },
+        {
+          "word": "identify",
+          "def": "To say exactly who someone is",
+          "ex": [
+            "It may take weeks to identify everyone.",
+            "Families came to identify their relatives."
+          ],
+          "ipa": "/aɪˈdɛntəfaɪ/"
+        },
+        {
+          "word": "medical treatment",
+          "def": "Care given by doctors or nurses",
+          "ex": [
+            "A thousand people needed medical treatment.",
+            "Medical treatment was free at the port."
+          ],
+          "ipa": "/ˈmɛdəkəl ˈtriːtmənt/"
+        },
+        {
+          "word": "morgue",
+          "def": "A place where dead bodies are kept",
+          "ex": [
+            "The morgue ran out of space.",
+            "Bodies were carried to the morgue all night."
+          ],
+          "ipa": "/mɔːrɡ/"
+        },
+        {
+          "word": "land border",
+          "def": "The line on land where two countries meet",
+          "ex": [
+            "This land border is only a few miles long.",
+            "The land border runs straight into the sea."
+          ],
+          "ipa": "/lænd ˈbɔːrdər/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "About 60,000 people crossed from Morocco into Ceuta on Thursday, July 30.",
+          "a": true,
+          "why": "About 60,000 people crossed from Morocco into Ceuta on Thursday, July 30, and Ceuta itself has only about 83,000 residents."
+        },
+        {
+          "s": "Ceuta was able to take in everyone who arrived that day without difficulty.",
+          "a": false,
+          "why": "No city that size can take in that many people in a single day, and more than a thousand people needed medical treatment."
+        },
+        {
+          "s": "Spain's Supreme Court handed down a ruling in June about returning people who arrive by sea.",
+          "a": true,
+          "why": "In June, Spain's Supreme Court handed down a ruling that stopped the government from returning people who arrive by sea without first hearing their case."
+        },
+        {
+          "s": "Word got around on Moroccan social media that people who reached Ceuta by water could no longer be sent back the same day.",
+          "a": true,
+          "why": "Word got around on Moroccan social media that anyone who reached Ceuta by water could no longer be sent back the same day, although that was not quite what the court had said."
+        },
+        {
+          "s": "The Spanish government ruled out sending extra police to Ceuta.",
+          "a": false,
+          "why": "The government ruled out declaring a national emergency, but it sent extra police, and on Saturday workers put up a floating barrier 500 meters long."
+        },
+        {
+          "s": "The crossings went on for several more weeks after the first day.",
+          "a": false,
+          "why": "The crossings died down almost as fast as they had begun, and by Saturday morning the flow had reversed."
+        }
+      ]
+    },
     {
       "id": "uefa-fifa-boycott-2026",
       "number": 59,
