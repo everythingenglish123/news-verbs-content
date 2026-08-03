@@ -1,6 +1,425 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "stories": [
+    {
+      "id": "danube-wwii-wrecks-2026",
+      "number": 64,
+      "headline": "Low water on the Danube uncovers sunken warships",
+      "badge": "History",
+      "meta": "",
+      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n64-danube-wwii-wrecks-2026-flat.png",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Low water levels: EU clears old Nazi warships from the Danube",
+          "url": "https://www.euronews.com/culture/2026/07/30/low-water-levels-eu-clears-old-nazi-warships-from-the-danube"
+        },
+        {
+          "title": "WWII German Warships Reappear as Danube Drought Exposes Wrecks in Serbia",
+          "url": "https://greekreporter.com/2026/07/31/wwii-german-warships-danube-drought-wrecks-serbia/"
+        },
+        {
+          "title": "Danube WWII wrecks cleanup boosts Serbia economy, environment",
+          "url": "https://www.eib.org/en/stories/danube-cleanup-wwii-wrecks"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "The Danube has fallen so low this summer that a sunken German fleet has {{shown up}} again near Prahovo, a town in eastern Serbia. Photographs published in late July 2026 show rusted [[hulls]] {{sticking out}} of the water along a [[stretch]] that boats normally {{pass over}} without seeing anything. The ships have been down there since 1944. What is different this year is that crews are finally {{pulling them out}}.",
+          "verbs": [
+            {
+              "display": "shown up",
+              "base": "show up",
+              "correct": "To appear after being hidden",
+              "wrong": "To move slowly down the river",
+              "correctFirst": true
+            },
+            {
+              "display": "sticking out",
+              "base": "stick out",
+              "correct": "To rise above the water",
+              "wrong": "To lie on the river bottom",
+              "correctFirst": false
+            },
+            {
+              "display": "pass over",
+              "base": "pass over",
+              "correct": "To travel above something",
+              "wrong": "To wait for a turn to go through",
+              "correctFirst": true
+            },
+            {
+              "display": "pulling them out",
+              "base": "pull out",
+              "correct": "To remove something from a place",
+              "wrong": "To cover something with sand",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "In late 1944, the German navy was {{pulling back}} along the Danube as Soviet forces {{closed in}}. Rather than {{hand the ships over}} to the enemy, the crews sank about 200 of their own [[vessels]] near Prahovo, hoping the [[wrecks]] would block the river and {{hold up}} the Soviet [[advance]]. The plan lasted far longer than they [[intended]]. Eight decades later the hulls are still on the riverbed, and they have narrowed the safe [[channel]] from 180 meters to about 80.",
+          "verbs": [
+            {
+              "display": "pulling back",
+              "base": "pull back",
+              "correct": "To move away from the enemy",
+              "wrong": "To send more soldiers to a battle",
+              "correctFirst": true
+            },
+            {
+              "display": "closed in",
+              "base": "close in",
+              "correct": "To get nearer on all sides",
+              "wrong": "To stop and wait for orders",
+              "correctFirst": false
+            },
+            {
+              "display": "hand the ships over",
+              "base": "hand over",
+              "correct": "To give something to someone else",
+              "wrong": "To hide something from the enemy",
+              "correctFirst": true
+            },
+            {
+              "display": "hold up",
+              "base": "hold up",
+              "correct": "To make something happen later",
+              "wrong": "To send a warning to the army",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "That narrow channel costs Serbia about 5 million euros a year, because ships have to wait their turn to get through. Two boats passing each other can take anywhere from 40 minutes to four hours. [[Surveys]] with sonar and divers in 2021 {{turned up}} 38 wrecks in the worst section, and 21 of them are now being removed. The European Union {{put up}} a [[grant]] of 16.5 million euros through the Western Balkans Investment Framework, part of a project worth about 30 million. Divers {{clear away}} sand and silt with pumps before lifting gear takes each hull off the bottom. Some wrecks are too big or too [[fragile]] to move, so they are buried deeper instead, and others may still have [[ammunition]] on board.",
+          "verbs": [
+            {
+              "display": "turned up",
+              "base": "turn up",
+              "correct": "To find something after a search",
+              "wrong": "To measure the depth of water",
+              "correctFirst": true
+            },
+            {
+              "display": "put up",
+              "base": "put up",
+              "correct": "To give money for something",
+              "wrong": "To ask other countries for help",
+              "correctFirst": false
+            },
+            {
+              "display": "clear away",
+              "base": "clear away",
+              "correct": "To clean dirt or sand from a place",
+              "wrong": "To mark a safe path for ships",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The work is due to {{carry on}} until 2028. Serbia expects [[cargo]] on this part of the river to rise from 12.7 million tons a year in 2019 to 25 million by 2040, and one river ship can move as much grain as 120 trucks. Alessandro Bragonzi, who heads the European Investment Bank's office for the Western Balkans, said the project is an example of the kind of clean transport the bank wants to keep funding. In Prahovo, low water is an old story. The new part is that the ships people there {{grew up}} with may soon be gone [[for good]].",
+          "verbs": [
+            {
+              "display": "carry on",
+              "base": "carry on",
+              "correct": "To continue doing something",
+              "wrong": "To change the plan for a project",
+              "correctFirst": false
+            },
+            {
+              "display": "grew up",
+              "base": "grow up",
+              "correct": "To become an adult",
+              "wrong": "To move to another town",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Show up",
+          "def": "To appear after being hidden",
+          "ex": [
+            "The wrecks show up when the river is low.",
+            "A ship showed up on the sandbank.",
+            "More hulls have shown up this year."
+          ],
+          "ipa": "/ʃoʊ ʌp/"
+        },
+        {
+          "verb": "Stick out",
+          "def": "To rise above the water",
+          "ex": [
+            "The bow sticks out of the river.",
+            "Two masts stuck out above the water.",
+            "Parts of the hull have stuck out all summer."
+          ],
+          "ipa": "/stɪk aʊt/"
+        },
+        {
+          "verb": "Pass over",
+          "def": "To travel above something",
+          "ex": [
+            "Boats pass over the wrecks every day.",
+            "A barge passed over the deep channel.",
+            "Ships have passed over the site for years."
+          ],
+          "ipa": "/pæs ˈoʊvər/"
+        },
+        {
+          "verb": "Pull out",
+          "def": "To remove something from a place",
+          "ex": [
+            "Crews pull out one wreck at a time.",
+            "They pulled the old barge out last year.",
+            "Twenty one ships will be pulled out."
+          ],
+          "ipa": "/pʊl aʊt/"
+        },
+        {
+          "verb": "Pull back",
+          "def": "To move away from the enemy",
+          "ex": [
+            "The navy pulled back along the river.",
+            "Troops pull back when they are losing.",
+            "The army had pulled back by October."
+          ],
+          "ipa": "/pʊl bæk/"
+        },
+        {
+          "verb": "Close in",
+          "def": "To get nearer on all sides",
+          "ex": [
+            "Soviet forces closed in from the east.",
+            "The enemy closes in slowly.",
+            "By October the Red Army had closed in."
+          ],
+          "ipa": "/kloʊz ɪn/"
+        },
+        {
+          "verb": "Hand over",
+          "def": "To give something to someone else",
+          "ex": [
+            "They would not hand the ships over.",
+            "The captain handed over his weapon.",
+            "The port was handed over in 1944."
+          ],
+          "ipa": "/hænd ˈoʊvər/"
+        },
+        {
+          "verb": "Hold up",
+          "def": "To make something happen later",
+          "ex": [
+            "The wrecks held up the Soviet advance.",
+            "Bad weather holds up the divers.",
+            "The work has been held up by low water."
+          ],
+          "ipa": "/hoʊld ʌp/"
+        },
+        {
+          "verb": "Turn up",
+          "def": "To find something after a search",
+          "ex": [
+            "The survey turned up 38 wrecks.",
+            "Divers turn up new pieces each year.",
+            "Sonar has turned up more than expected."
+          ],
+          "ipa": "/tərn ʌp/"
+        },
+        {
+          "verb": "Put up",
+          "def": "To give money for something",
+          "ex": [
+            "The European Union put up the money.",
+            "Governments put up funds for big projects.",
+            "Half the cost was put up by a bank."
+          ],
+          "ipa": "/pʊt ʌp/"
+        },
+        {
+          "verb": "Clear away",
+          "def": "To clean dirt or sand from a place",
+          "ex": [
+            "Divers clear away sand and silt.",
+            "Pumps cleared away the mud.",
+            "The silt has been cleared away."
+          ],
+          "ipa": "/klɪr əˈweɪ/"
+        },
+        {
+          "verb": "Carry on",
+          "def": "To continue doing something",
+          "ex": [
+            "The work will carry on until 2028.",
+            "Crews carry on through the summer.",
+            "The project has carried on for years."
+          ],
+          "ipa": "/ˈkæri ɑn/"
+        },
+        {
+          "verb": "Grow up",
+          "def": "To become an adult",
+          "ex": [
+            "People there grew up with the wrecks.",
+            "Children grow up beside the river.",
+            "She had grown up in Prahovo."
+          ],
+          "ipa": "/ɡroʊ ʌp/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "hulls",
+          "def": "The main bodies of ships",
+          "ex": [
+            "Rusted hulls rise above the water.",
+            "The hulls have been there since 1944."
+          ],
+          "ipa": "/hʌlz/"
+        },
+        {
+          "word": "stretch",
+          "def": "A section of a river or road",
+          "ex": [
+            "This stretch of the river is dangerous.",
+            "Boats avoid the narrow stretch."
+          ],
+          "ipa": "/strɛtʃ/"
+        },
+        {
+          "word": "vessels",
+          "def": "Ships or boats of any size",
+          "ex": [
+            "About 200 vessels were sunk.",
+            "Small vessels can pass safely."
+          ],
+          "ipa": "/ˈvɛsəlz/"
+        },
+        {
+          "word": "wrecks",
+          "def": "Ships that have sunk or been destroyed",
+          "ex": [
+            "Divers found 38 wrecks.",
+            "The wrecks block the channel."
+          ],
+          "ipa": "/rɛks/"
+        },
+        {
+          "word": "advance",
+          "def": "A move forward by an army",
+          "ex": [
+            "The advance was slowed by the river.",
+            "Their advance continued into winter."
+          ],
+          "ipa": "/ədˈvæns/"
+        },
+        {
+          "word": "intended",
+          "def": "Planned or meant to happen",
+          "ex": [
+            "The plan lasted longer than intended.",
+            "They intended to block the river."
+          ],
+          "ipa": "/ɪnˈtɛndəd/"
+        },
+        {
+          "word": "channel",
+          "def": "The deep part of a river where boats can go",
+          "ex": [
+            "The channel is only 80 meters wide.",
+            "Ships must stay inside the channel."
+          ],
+          "ipa": "/ˈtʃænəl/"
+        },
+        {
+          "word": "Surveys",
+          "def": "Careful checks made to collect information",
+          "ex": [
+            "Surveys found 38 wrecks.",
+            "The surveys used sonar and divers."
+          ],
+          "ipa": "/ˈsərveɪz/"
+        },
+        {
+          "word": "grant",
+          "def": "Money given for a special purpose",
+          "ex": [
+            "The grant covers half the cost.",
+            "Serbia received a grant from the EU."
+          ],
+          "ipa": "/ɡrænt/"
+        },
+        {
+          "word": "fragile",
+          "def": "Easily broken or damaged",
+          "ex": [
+            "Some wrecks are too fragile to move.",
+            "The old metal is very fragile."
+          ],
+          "ipa": "/ˈfrædʒəl/"
+        },
+        {
+          "word": "ammunition",
+          "def": "Bullets and shells used in weapons",
+          "ex": [
+            "Some ships still hold ammunition.",
+            "The ammunition makes the work dangerous."
+          ],
+          "ipa": "/ˌæmjəˈnɪʃən/"
+        },
+        {
+          "word": "cargo",
+          "def": "Goods carried by a ship, plane or truck",
+          "ex": [
+            "Cargo on the river is rising.",
+            "One ship carries a lot of cargo."
+          ],
+          "ipa": "/ˈkɑrɡoʊ/"
+        },
+        {
+          "word": "for good",
+          "def": "Forever, with no return",
+          "ex": [
+            "The wrecks may be gone for good.",
+            "He left the town for good."
+          ],
+          "ipa": "/fɔr ɡʊd/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "Rusted hulls are sticking out of the Danube near Prahovo this summer.",
+          "a": true,
+          "why": "Photographs published in late July 2026 show rusted hulls sticking out of the water along a stretch that boats normally pass over without seeing anything."
+        },
+        {
+          "s": "The German navy handed the ships over to Soviet forces in 1944.",
+          "a": false,
+          "why": "Rather than hand the ships over to the enemy, the crews sank about 200 of their own vessels near Prahovo."
+        },
+        {
+          "s": "Serbia put up the grant of 16.5 million euros for the project.",
+          "a": false,
+          "why": "The European Union put up a grant of 16.5 million euros through the Western Balkans Investment Framework."
+        },
+        {
+          "s": "Surveys with sonar and divers turned up 38 wrecks in the worst section.",
+          "a": true,
+          "why": "Surveys with sonar and divers in 2021 turned up 38 wrecks in the worst section, and 21 of them are now being removed."
+        },
+        {
+          "s": "The work is due to carry on until 2028.",
+          "a": true,
+          "why": "The work is due to carry on until 2028."
+        },
+        {
+          "s": "Every wreck will be pulled out of the river.",
+          "a": false,
+          "why": "Some wrecks are too big or too fragile to move, so they are buried deeper instead."
+        }
+      ]
+    },
     {
       "id": "spokane-wildfires-2026",
       "number": 63,
