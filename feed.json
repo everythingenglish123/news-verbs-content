@@ -2,12 +2,1423 @@
   "updated": "2026-08-04",
   "stories": [
     {
+      "id": "us-measles-35-year-high-2026",
+      "number": 68,
+      "headline": "Measles hits a 35-year high in America",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n68-us-measles-35-year-high-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Measles Cases and Outbreaks",
+          "url": "https://www.cdc.gov/measles/data-research/index.html"
+        },
+        {
+          "title": "US adds 53 more measles cases to its 2026 total",
+          "url": "https://www.cidrap.umn.edu/measles/us-adds-53-more-measles-cases-its-2026-total"
+        },
+        {
+          "title": "US highly likely to lose measles elimination status this fall, analysis warns",
+          "url": "https://www.cidrap.umn.edu/measles/us-highly-likely-lose-measles-elimination-status-fall-analysis-warns"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "The United States has [[confirmed]] 2,371 cases of measles in 2026, the worst year since 1991. [[Figures]] that [[health officials]] {{put out}} at the end of July show 53 new cases in a single week, and the total has already {{gone past}} last year's 2,288, which was itself a [[record]]. Thirty-seven separate [[outbreaks]] have {{cropped up}} in 45 states and [[territories]]. No one has died of measles this year. Three people died in 2025, two of them children.",
+          "verbs": [
+            {
+              "display": "put out",
+              "base": "put out",
+              "correct": "To make information public",
+              "wrong": "To delay something until later",
+              "correctFirst": true
+            },
+            {
+              "display": "gone past",
+              "base": "go past",
+              "correct": "To rise above a number",
+              "wrong": "To return to an earlier time",
+              "correctFirst": false
+            },
+            {
+              "display": "cropped up",
+              "base": "crop up",
+              "correct": "To appear without warning",
+              "wrong": "To grow larger every year",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Measles spreads more easily than almost any other disease. If one person has it, up to nine out of ten [[unprotected]] people close to them will {{come down with}} it, and the virus can stay in the air of a room for two hours after the patient has left. About 7 percent of this year's patients have {{ended up}} needing [[hospital care]]. Children aged 5 to 19 account for half of all cases, and children under 5 {{make up}} another [[fifth]].",
+          "verbs": [
+            {
+              "display": "come down with",
+              "base": "come down with",
+              "correct": "To become ill with a disease",
+              "wrong": "To fall to a lower level",
+              "correctFirst": false
+            },
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To be somewhere in the end",
+              "wrong": "To leave before the end",
+              "correctFirst": true
+            },
+            {
+              "display": "make up",
+              "base": "make up",
+              "correct": "To form a total amount",
+              "wrong": "To divide into equal parts",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Ninety-three percent of this year's patients had either never been [[vaccinated]] or could not [[prove]] that they had been. Two [[doses]] of the measles vaccine stop the disease 97 percent of the time, but fewer children are getting them. The [[coverage]] rate among [[kindergarten]] children has {{dropped off}}, from 95.2 percent in the 2019 to 2020 school year to 92.5 percent in 2024 to 2025. That now {{falls short of}} the 95 percent that doctors say a community needs to {{hold back}} an outbreak.",
+          "verbs": [
+            {
+              "display": "dropped off",
+              "base": "drop off",
+              "correct": "To become lower over time",
+              "wrong": "To leave school before finishing",
+              "correctFirst": true
+            },
+            {
+              "display": "falls short of",
+              "base": "fall short of",
+              "correct": "To be less than what is needed",
+              "wrong": "To move more slowly than others",
+              "correctFirst": false
+            },
+            {
+              "display": "hold back",
+              "base": "hold back",
+              "correct": "To stop something from spreading",
+              "wrong": "To wait for a short time",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The United States {{wiped out}} measles in 2000. That does not mean nobody has caught it since. It means health experts could show that the virus had stopped spreading inside the country [[all year round]], and they call that [[elimination]]. A country holds that status only while it stays true, and it loses it if a single [[chain of infection]] {{carries on}} for more than 12 months. Researchers writing in The Lancet say it is [[highly likely]] the United States will lose its status when a Pan American Health Organization [[committee]] meets in November 2026. Health officials say the way to {{turn around}} the numbers has not changed: two doses of the vaccine, [[on time]], for every child. Without that, a disease the country beat 26 years ago will have {{come back}} to stay.",
+          "verbs": [
+            {
+              "display": "wiped out",
+              "base": "wipe out",
+              "correct": "To remove something completely",
+              "wrong": "To weaken something for a while",
+              "correctFirst": false
+            },
+            {
+              "display": "carries on",
+              "base": "carry on",
+              "correct": "To continue without stopping",
+              "wrong": "To do a planned piece of work",
+              "correctFirst": true
+            },
+            {
+              "display": "turn around",
+              "base": "turn around",
+              "correct": "To change from bad to good",
+              "wrong": "To arrive at a place",
+              "correctFirst": false
+            },
+            {
+              "display": "come back",
+              "base": "come back",
+              "correct": "To return after being gone",
+              "wrong": "To become known to the public",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Put out",
+          "def": "To make information public",
+          "ex": [
+            "Health officials put out the figures in July.",
+            "The agency puts out a report every Wednesday.",
+            "They have put out a warning to parents."
+          ],
+          "ipa": "/pʊt aʊt/"
+        },
+        {
+          "verb": "Go past",
+          "def": "To rise above a number",
+          "ex": [
+            "The total has gone past last year's number.",
+            "Cases go past 2,000 almost every summer now.",
+            "Sales went past a million in March."
+          ],
+          "ipa": "/goʊ pæst/"
+        },
+        {
+          "verb": "Crop up",
+          "def": "To appear without warning",
+          "ex": [
+            "Thirty-seven outbreaks have cropped up this year.",
+            "Problems crop up when nobody is watching.",
+            "A new case cropped up in a nearby county."
+          ],
+          "ipa": "/krɑp ʌp/"
+        },
+        {
+          "verb": "Come down with",
+          "def": "To become ill with a disease",
+          "ex": [
+            "Nine out of ten unprotected people will come down with it.",
+            "He comes down with a cold every winter.",
+            "Two teachers came down with measles in May."
+          ],
+          "ipa": "/kʌm daʊn wɪð/"
+        },
+        {
+          "verb": "End up",
+          "def": "To be somewhere in the end",
+          "ex": [
+            "About 7 percent of patients ended up needing hospital care.",
+            "Many children end up in the same clinic.",
+            "She ended up staying in hospital for a week."
+          ],
+          "ipa": "/ɛnd ʌp/"
+        },
+        {
+          "verb": "Make up",
+          "def": "To form a total amount",
+          "ex": [
+            "Children under 5 make up another fifth of cases.",
+            "Nurses made up half of the team.",
+            "Farmers make up most of the village."
+          ],
+          "ipa": "/meɪk ʌp/"
+        },
+        {
+          "verb": "Drop off",
+          "def": "To become lower over time",
+          "ex": [
+            "The coverage rate has dropped off since 2019.",
+            "Visitor numbers drop off after the summer.",
+            "Attendance dropped off in the last two years."
+          ],
+          "ipa": "/drɑp ɔf/"
+        },
+        {
+          "verb": "Fall short of",
+          "def": "To be less than what is needed",
+          "ex": [
+            "That falls short of the 95 percent doctors want.",
+            "The money falls short of what the clinic needs.",
+            "Last year's total fell short of the target."
+          ],
+          "ipa": "/fɔl ʃɔrt əv/"
+        },
+        {
+          "verb": "Hold back",
+          "def": "To stop something from spreading",
+          "ex": [
+            "A community needs 95 percent to hold back an outbreak.",
+            "Clean water holds back many diseases.",
+            "Vaccines held back measles for 25 years."
+          ],
+          "ipa": "/hoʊld bæk/"
+        },
+        {
+          "verb": "Wipe out",
+          "def": "To remove something completely",
+          "ex": [
+            "The United States wiped out measles in 2000.",
+            "Good medicine can wipe out a disease completely.",
+            "The storm wiped out the whole harvest."
+          ],
+          "ipa": "/waɪp aʊt/"
+        },
+        {
+          "verb": "Carry on",
+          "def": "To continue without stopping",
+          "ex": [
+            "The country loses the status if one chain carries on too long.",
+            "The outbreak carries on into a second year.",
+            "Talks carried on until midnight."
+          ],
+          "ipa": "/ˈkæri ɑn/"
+        },
+        {
+          "verb": "Turn around",
+          "def": "To change from bad to good",
+          "ex": [
+            "Officials say two doses would turn around the numbers.",
+            "A good teacher can turn around a whole class.",
+            "The company turned around its losses in one year."
+          ],
+          "ipa": "/tɜrn əˈraʊnd/"
+        },
+        {
+          "verb": "Come back",
+          "def": "To return after being gone",
+          "ex": [
+            "A disease the country beat has come back.",
+            "Old illnesses come back when people stop vaccinating.",
+            "The birds came back to the lake in spring."
+          ],
+          "ipa": "/kʌm bæk/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "confirmed",
+          "def": "Proved to be true by a test",
+          "ex": [
+            "The country has confirmed 2,371 cases.",
+            "Only confirmed cases go into the count."
+          ],
+          "ipa": "/kənˈfɜrmd/"
+        },
+        {
+          "word": "Figures",
+          "def": "Numbers that show facts",
+          "ex": [
+            "Figures for July were released last week.",
+            "The figures surprised many doctors."
+          ],
+          "ipa": "/ˈfɪgjərz/"
+        },
+        {
+          "word": "health officials",
+          "def": "People who run a country's health service",
+          "ex": [
+            "Health officials publish new numbers every week.",
+            "She spoke to health officials in three states."
+          ],
+          "ipa": "/hɛlθ əˈfɪʃəlz/"
+        },
+        {
+          "word": "record",
+          "def": "The highest number ever reached",
+          "ex": [
+            "Last year's total was itself a record.",
+            "The record has been broken twice since 2024."
+          ],
+          "ipa": "/ˈrɛkərd/"
+        },
+        {
+          "word": "outbreaks",
+          "def": "Sudden starts of a disease in a group",
+          "ex": [
+            "Thirty-seven outbreaks began this year.",
+            "Most outbreaks started in one family."
+          ],
+          "ipa": "/ˈaʊtˌbreɪks/"
+        },
+        {
+          "word": "territories",
+          "def": "Areas that belong to a country",
+          "ex": [
+            "Cases were found in 45 states and territories.",
+            "The territories report their numbers separately."
+          ],
+          "ipa": "/ˈtɛrəˌtɔriz/"
+        },
+        {
+          "word": "unprotected",
+          "def": "Without a vaccine to keep you safe",
+          "ex": [
+            "Unprotected people catch it very easily.",
+            "Nine out of ten unprotected children became ill."
+          ],
+          "ipa": "/ˌʌnprəˈtɛktəd/"
+        },
+        {
+          "word": "hospital care",
+          "def": "Treatment given to a patient in hospital",
+          "ex": [
+            "About 7 percent needed hospital care.",
+            "Hospital care is free for young children here."
+          ],
+          "ipa": "/ˈhɑspɪtəl kɛr/"
+        },
+        {
+          "word": "fifth",
+          "def": "One part out of five",
+          "ex": [
+            "Children under 5 are another fifth of cases.",
+            "A fifth of the class was absent."
+          ],
+          "ipa": "/fɪfθ/"
+        },
+        {
+          "word": "vaccinated",
+          "def": "Given a medicine that stops a disease",
+          "ex": [
+            "Most patients had never been vaccinated.",
+            "She was vaccinated as a baby."
+          ],
+          "ipa": "/ˈvæksəˌneɪtəd/"
+        },
+        {
+          "word": "prove",
+          "def": "To show that something is true",
+          "ex": [
+            "They could not prove they had the shots.",
+            "Records prove she was vaccinated in 2019."
+          ],
+          "ipa": "/pruv/"
+        },
+        {
+          "word": "doses",
+          "def": "Measured amounts of medicine",
+          "ex": [
+            "Two doses stop the disease 97 percent of the time.",
+            "The clinic ordered 400 doses."
+          ],
+          "ipa": "/ˈdoʊsəz/"
+        },
+        {
+          "word": "coverage",
+          "def": "How much of a group is protected",
+          "ex": [
+            "The coverage rate has fallen since 2019.",
+            "Coverage is highest in the northern states."
+          ],
+          "ipa": "/ˈkʌvərɪdʒ/"
+        },
+        {
+          "word": "kindergarten",
+          "def": "The first year of school for small children",
+          "ex": [
+            "Kindergarten children need both doses.",
+            "He starts kindergarten in September."
+          ],
+          "ipa": "/ˈkɪndərˌgɑrtən/"
+        },
+        {
+          "word": "all year round",
+          "def": "During every part of the year",
+          "ex": [
+            "The virus was not spreading all year round.",
+            "The clinic stays open all year round."
+          ],
+          "ipa": "/ɔl jɪr raʊnd/"
+        },
+        {
+          "word": "elimination",
+          "def": "No disease spreading inside a country for a year",
+          "ex": [
+            "Doctors call that elimination.",
+            "Elimination does not mean the virus is gone from the world."
+          ],
+          "ipa": "/ɪˌlɪməˈneɪʃən/"
+        },
+        {
+          "word": "chain of infection",
+          "def": "A line of people who pass a disease along",
+          "ex": [
+            "One chain of infection lasting a year is enough.",
+            "Doctors try to break every chain of infection."
+          ],
+          "ipa": "/tʃeɪn əv ɪnˈfɛkʃən/"
+        },
+        {
+          "word": "highly likely",
+          "def": "Almost certain to happen",
+          "ex": [
+            "Researchers say it is highly likely.",
+            "A second wave is highly likely this fall."
+          ],
+          "ipa": "/ˈhaɪli ˈlaɪkli/"
+        },
+        {
+          "word": "committee",
+          "def": "A small group that makes decisions",
+          "ex": [
+            "The committee meets in November 2026.",
+            "A committee of doctors reviews the data."
+          ],
+          "ipa": "/kəˈmɪti/"
+        },
+        {
+          "word": "on time",
+          "def": "At the right moment, not late",
+          "ex": [
+            "Both doses must be given on time.",
+            "The shipment arrived on time."
+          ],
+          "ipa": "/ɑn taɪm/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "The United States has confirmed more measles cases in 2026 than in any year since 1991.",
+          "a": true,
+          "why": "The United States has confirmed 2,371 cases of measles in 2026, the worst year since 1991."
+        },
+        {
+          "s": "Two doses of the vaccine fall short of stopping measles most of the time.",
+          "a": false,
+          "why": "Two doses of the measles vaccine stop the disease 97 percent of the time."
+        },
+        {
+          "s": "Thirty-seven separate outbreaks have cropped up this year.",
+          "a": true,
+          "why": "Thirty-seven separate outbreaks have cropped up in 45 states and territories."
+        },
+        {
+          "s": "Most of this year's patients had come down with measles after two doses of the vaccine.",
+          "a": false,
+          "why": "Ninety-three percent of this year's patients had either never been vaccinated or could not prove that they had been."
+        },
+        {
+          "s": "The United States wiped out measles in 2000.",
+          "a": true,
+          "why": "The United States wiped out measles in 2000."
+        },
+        {
+          "s": "More people died of measles in the United States in 2026 than in 2025.",
+          "a": false,
+          "why": "No one has died of measles this year. Three people died in 2025, two of them children."
+        }
+      ]
+    },
+    {
+      "id": "ebola-no-vaccine-outbreak-2026",
+      "number": 67,
+      "headline": "An Ebola outbreak with no vaccine to stop it",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n67-ebola-no-vaccine-outbreak-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614"
+        },
+        {
+          "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda",
+          "url": "https://www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda"
+        },
+        {
+          "title": "Ebola outbreak, DRC 2026",
+          "url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "An Ebola [[outbreak]] in central Africa has killed more than 1,500 people since May, and this time doctors have no vaccine to {{fall back on}}. The disease {{broke out}} in Ituri, a province in the northeast of the Democratic Republic of the Congo, and the World Health Organization declared a global health [[emergency]] on 17 May 2026. By 30 July the number of [[confirmed cases]] had {{gone up}} to 3,626, and 1,589 people had died. The [[death rate]] is 44 percent, so close to half of the patients do not [[survive]].",
+          "verbs": [
+            {
+              "display": "fall back on",
+              "base": "fall back on",
+              "correct": "To use when nothing else works",
+              "wrong": "To move away from danger",
+              "correctFirst": true
+            },
+            {
+              "display": "broke out",
+              "base": "break out",
+              "correct": "To start suddenly",
+              "wrong": "To stop working properly",
+              "correctFirst": false
+            },
+            {
+              "display": "gone up",
+              "base": "go up",
+              "correct": "To rise to a higher number",
+              "wrong": "To continue for a long time",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Most Ebola outbreaks come from the Zaire [[species]] of the virus, and a vaccine for that one has been [[approved]] since 2019. This outbreak is different. It comes from a species called Bundibugyo, and the vaccine that health teams {{rolled out}} in past outbreaks does nothing against it. There is no proven [[treatment]] either. Scientists are {{carrying out}} tests on possible new vaccines, but none of them is ready. Until one arrives, teams have to {{make do with}} older methods: find patients early, keep them apart from others, and {{track down}} every person they met.",
+          "verbs": [
+            {
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To start using something new",
+              "wrong": "To send workers to an area",
+              "correctFirst": false
+            },
+            {
+              "display": "carrying out",
+              "base": "carry out",
+              "correct": "To do a planned piece of work",
+              "wrong": "To continue without stopping",
+              "correctFirst": true
+            },
+            {
+              "display": "make do with",
+              "base": "make do with",
+              "correct": "To manage with what you have",
+              "wrong": "To take action about a problem",
+              "correctFirst": false
+            },
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find after a long search",
+              "wrong": "To follow how something changes",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The virus has now [[spread]] to five provinces, and Ituri is a busy trading region where people cross [[borders]] every day. Twenty cases {{turned up}} in [[neighboring]] Uganda, where two people died, and a single case was recorded in France. [[Health workers]] have [[paid a heavy price]]: 151 of them have caught the virus and 44 have died. Teams have [[identified]] 17,863 [[contacts]] and are {{checking up on}} more than 13,000 of them.",
+          "verbs": [
+            {
+              "display": "turned up",
+              "base": "turn up",
+              "correct": "To appear in a place",
+              "wrong": "To get worse over time",
+              "correctFirst": false
+            },
+            {
+              "display": "checking up on",
+              "base": "check up on",
+              "correct": "To watch someone's health",
+              "wrong": "To arrive and report your name",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Uganda has not reported a new case since 21 June, which suggests the [[chain of infection]] there has been broken. In the Congo the work continues. European health experts say the risk to people in Europe is very low, because Ebola only {{passes on}} through close contact with blood and other [[body fluids]], not through the air. Aid teams have {{set up}} [[isolation units]] and are training [[local staff]], and health agencies say the outbreak will only {{die out}} when every last chain is found.",
+          "verbs": [
+            {
+              "display": "passes on",
+              "base": "pass on",
+              "correct": "To give a disease to someone",
+              "wrong": "To travel between two towns",
+              "correctFirst": false
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To build and start something",
+              "wrong": "To begin a long journey",
+              "correctFirst": true
+            },
+            {
+              "display": "die out",
+              "base": "die out",
+              "correct": "To stop existing completely",
+              "wrong": "To leave a place for good",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Fall back on",
+          "def": "To use when nothing else works",
+          "ex": [
+            "Doctors had no vaccine to fall back on.",
+            "She falls back on her savings when work is slow.",
+            "The team fell back on an older plan."
+          ],
+          "ipa": "/fɔl bæk ɑn/"
+        },
+        {
+          "verb": "Break out",
+          "def": "To start suddenly",
+          "ex": [
+            "The disease broke out in May.",
+            "Fires often break out in the dry season.",
+            "Fighting has broken out near the border."
+          ],
+          "ipa": "/breɪk aʊt/"
+        },
+        {
+          "verb": "Go up",
+          "def": "To rise to a higher number",
+          "ex": [
+            "The number of cases has gone up again.",
+            "Prices go up every summer.",
+            "Deaths went up sharply in July."
+          ],
+          "ipa": "/goʊ ʌp/"
+        },
+        {
+          "verb": "Roll out",
+          "def": "To start using something new",
+          "ex": [
+            "Health teams rolled out that vaccine in past outbreaks.",
+            "The country rolls out new shots every winter.",
+            "They have rolled out testing in four provinces."
+          ],
+          "ipa": "/roʊl aʊt/"
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do a planned piece of work",
+          "ex": [
+            "Scientists are carrying out tests on new vaccines.",
+            "The nurses carry out the same checks every morning.",
+            "They carried out a study in three provinces."
+          ],
+          "ipa": "/ˈkæri aʊt/"
+        },
+        {
+          "verb": "Make do with",
+          "def": "To manage with what you have",
+          "ex": [
+            "Teams have to make do with older methods.",
+            "She makes do with one small room.",
+            "We made do with what the truck brought."
+          ],
+          "ipa": "/meɪk du wɪð/"
+        },
+        {
+          "verb": "Track down",
+          "def": "To find after a long search",
+          "ex": [
+            "Workers must track down every contact.",
+            "Police tracked down the driver in two days.",
+            "She is trying to track down an old friend."
+          ],
+          "ipa": "/træk daʊn/"
+        },
+        {
+          "verb": "Turn up",
+          "def": "To appear in a place",
+          "ex": [
+            "Twenty cases turned up in Uganda.",
+            "New problems turn up every week.",
+            "A letter has turned up after ten years."
+          ],
+          "ipa": "/tɜrn ʌp/"
+        },
+        {
+          "verb": "Check up on",
+          "def": "To watch someone's health",
+          "ex": [
+            "Teams are checking up on 13,000 contacts.",
+            "She checks up on her parents every evening.",
+            "A nurse checked up on him twice a day."
+          ],
+          "ipa": "/tʃɛk ʌp ɑn/"
+        },
+        {
+          "verb": "Pass on",
+          "def": "To give a disease to someone",
+          "ex": [
+            "Ebola passes on through close contact.",
+            "One child passed the illness on to the whole class.",
+            "Colds pass on quickly in a cold room."
+          ],
+          "ipa": "/pæs ɑn/"
+        },
+        {
+          "verb": "Set up",
+          "def": "To build and start something",
+          "ex": [
+            "Aid teams have set up isolation units.",
+            "She wants to set up a small clinic.",
+            "They set up a testing lab in three days."
+          ],
+          "ipa": "/sɛt ʌp/"
+        },
+        {
+          "verb": "Die out",
+          "def": "To stop existing completely",
+          "ex": [
+            "The outbreak will die out only when every chain is found.",
+            "Old customs die out when nobody teaches them.",
+            "The disease died out in that district last month."
+          ],
+          "ipa": "/daɪ aʊt/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "outbreak",
+          "def": "A sudden start of a disease",
+          "ex": [
+            "The outbreak began in a small town.",
+            "Doctors were sent to the outbreak area."
+          ],
+          "ipa": "/ˈaʊtˌbreɪk/"
+        },
+        {
+          "word": "emergency",
+          "def": "A dangerous situation that needs fast action",
+          "ex": [
+            "The government declared an emergency.",
+            "Nurses work long hours during an emergency."
+          ],
+          "ipa": "/ɪˈmɜrdʒənsi/"
+        },
+        {
+          "word": "confirmed cases",
+          "def": "People proved by a test to have a disease",
+          "ex": [
+            "There were 3,626 confirmed cases in July.",
+            "The lab reported nine new confirmed cases."
+          ],
+          "ipa": "/kənˈfɜrmd ˈkeɪsəz/"
+        },
+        {
+          "word": "death rate",
+          "def": "The share of sick people who die",
+          "ex": [
+            "The death rate is 44 percent.",
+            "A high death rate frightens whole villages."
+          ],
+          "ipa": "/dɛθ reɪt/"
+        },
+        {
+          "word": "survive",
+          "def": "To stay alive after something dangerous",
+          "ex": [
+            "About half of the patients survive.",
+            "She survived the illness after three weeks."
+          ],
+          "ipa": "/sərˈvaɪv/"
+        },
+        {
+          "word": "species",
+          "def": "A group of living things of the same kind",
+          "ex": [
+            "This species of the virus is called Bundibugyo.",
+            "Each species behaves in a different way."
+          ],
+          "ipa": "/ˈspiʃiz/"
+        },
+        {
+          "word": "approved",
+          "def": "Officially accepted for use",
+          "ex": [
+            "The vaccine was approved in 2019.",
+            "No approved medicine exists for this virus."
+          ],
+          "ipa": "/əˈpruvd/"
+        },
+        {
+          "word": "treatment",
+          "def": "Medical care that fights an illness",
+          "ex": [
+            "There is no proven treatment yet.",
+            "The treatment lasted for two months."
+          ],
+          "ipa": "/ˈtritmənt/"
+        },
+        {
+          "word": "spread",
+          "def": "To move to more people or places",
+          "ex": [
+            "The virus has spread to five provinces.",
+            "News of the outbreak spread quickly."
+          ],
+          "ipa": "/sprɛd/"
+        },
+        {
+          "word": "borders",
+          "def": "The lines between two countries",
+          "ex": [
+            "Traders cross the borders every day.",
+            "Both borders were watched by health teams."
+          ],
+          "ipa": "/ˈbɔrdərz/"
+        },
+        {
+          "word": "neighboring",
+          "def": "Next to another country or area",
+          "ex": [
+            "Cases appeared in neighboring Uganda.",
+            "The neighboring province sent doctors."
+          ],
+          "ipa": "/ˈneɪbərɪŋ/"
+        },
+        {
+          "word": "Health workers",
+          "def": "People whose job is caring for the sick",
+          "ex": [
+            "Health workers wear heavy suits all day.",
+            "Many health workers caught the virus."
+          ],
+          "ipa": "/hɛlθ ˈwɜrkərz/"
+        },
+        {
+          "word": "paid a heavy price",
+          "def": "Suffered badly for something",
+          "ex": [
+            "Nurses have paid a heavy price in this outbreak.",
+            "The town paid a heavy price for waiting."
+          ],
+          "ipa": "/peɪd ə ˈhɛvi praɪs/"
+        },
+        {
+          "word": "identified",
+          "def": "Found and named",
+          "ex": [
+            "Teams identified 17,863 contacts.",
+            "Doctors identified the virus in two days."
+          ],
+          "ipa": "/aɪˈdɛntəˌfaɪd/"
+        },
+        {
+          "word": "contacts",
+          "def": "People who were near a sick person",
+          "ex": [
+            "Every one of the contacts is visited daily.",
+            "The contacts stay at home for 21 days."
+          ],
+          "ipa": "/ˈkɑnˌtækts/"
+        },
+        {
+          "word": "chain of infection",
+          "def": "A line of people who pass a disease along",
+          "ex": [
+            "The chain of infection in Uganda has been broken.",
+            "One missed patient can start a new chain of infection."
+          ],
+          "ipa": "/tʃeɪn əv ɪnˈfɛkʃən/"
+        },
+        {
+          "word": "body fluids",
+          "def": "Liquids such as blood inside a person",
+          "ex": [
+            "Ebola travels through body fluids.",
+            "Gloves protect workers from body fluids."
+          ],
+          "ipa": "/ˈbɑdi ˈfluədz/"
+        },
+        {
+          "word": "isolation units",
+          "def": "Rooms where sick people stay apart",
+          "ex": [
+            "Aid teams built isolation units near the town.",
+            "The isolation units were full by Friday."
+          ],
+          "ipa": "/ˌaɪsəˈleɪʃən ˈjunəts/"
+        },
+        {
+          "word": "local staff",
+          "def": "Workers hired from the same area",
+          "ex": [
+            "Doctors are training local staff.",
+            "The local staff know the villages best."
+          ],
+          "ipa": "/ˈloʊkəl stæf/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "There is a vaccine that works against the Bundibugyo species.",
+          "a": false,
+          "why": "The vaccine that health teams normally rely on does nothing against it. There is no proven treatment either."
+        },
+        {
+          "s": "The disease broke out in the province of Ituri.",
+          "a": true,
+          "why": "The disease broke out in Ituri, a province in the northeast of the Democratic Republic of the Congo."
+        },
+        {
+          "s": "Ebola passes on through the air.",
+          "a": false,
+          "why": "Ebola only passes on through close contact with blood and other body fluids, not through the air."
+        },
+        {
+          "s": "More than 3,600 cases had been confirmed by 30 July.",
+          "a": true,
+          "why": "By 30 July the number of confirmed cases had gone up to 3,626."
+        },
+        {
+          "s": "Uganda has reported new cases every week since June.",
+          "a": false,
+          "why": "Uganda has not reported a new case since 21 June."
+        },
+        {
+          "s": "More than 150 health workers have caught the virus.",
+          "a": true,
+          "why": "Health workers have paid a heavy price: 151 of them have caught the virus and 44 have died."
+        }
+      ]
+    },
+    {
+      "id": "boat-maker-gives-company-away-2026",
+      "number": 66,
+      "headline": "A boat maker turned down 400 million dollars",
+      "badge": "General",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n66-boat-maker-gives-company-away-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "He worked 100-hour weeks to save a nearly bankrupt boat company. At 83, he's just turned down $400 million for it",
+          "url": "https://fortune.com/2026/07/29/eddie-smith-jr-turned-down-400-million-offer-for-grady-white-boats-instead-giving-profits-away-to-charity-inspired-by-patagonia-founder-philanthropy/"
+        },
+        {
+          "title": "Grady-White's Owner Is Giving Away His Legendary Boat Company",
+          "url": "https://gardenandgun.com/grady-white-owner"
+        },
+        {
+          "title": "Grady-White's Owner Turned Down $400 Million to Give the Company Away Instead",
+          "url": "https://onthewater.com/grady-whites-owner-turned-down-400-million-to-give-the-company-away-instead"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "An 83-year-old American has {{turned down}} more than 400 million dollars for the company he built. Eddie Smith Jr. owns Grady-White Boats in Greenville, North Carolina, and buyers have spent years trying to get him to sell. In July 2026 he refused for the last time. Rather than {{hold on to}} the money himself, he has [[arranged]] things so that the company's [[profits]] will {{end up}} with [[charities]] instead.",
+          "verbs": [
+            {
+              "display": "turned down",
+              "base": "turn down",
+              "correct": "To refuse an offer",
+              "wrong": "To sign a contract",
+              "correctFirst": true
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something you own",
+              "wrong": "To sell part of a company",
+              "correctFirst": false
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To be somewhere in the end",
+              "wrong": "To finish a job early",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Smith bought Grady-White in 1968, when he was 26 and the business was close to {{going under}}. He {{put in}} 80 to 100 hour weeks in those early years and stopped playing golf for [[decades]]. Over 58 years he {{built up}} a company that now earns hundreds of millions of dollars a year. He never sold shares to the public, never accepted [[outside investors]] and never {{took on}} any [[debt]]. During the [[boom]] of the 1970s he refused to grow the company by 300 or 400 percent, because he believed the boats would get worse.",
+          "verbs": [
+            {
+              "display": "going under",
+              "base": "go under",
+              "correct": "To fail as a business",
+              "wrong": "To move to a bigger factory",
+              "correctFirst": true
+            },
+            {
+              "display": "put in",
+              "base": "put in",
+              "correct": "To give time and effort",
+              "wrong": "To borrow money from a bank",
+              "correctFirst": false
+            },
+            {
+              "display": "built up",
+              "base": "build up",
+              "correct": "To make something grow slowly",
+              "wrong": "To design a new kind of boat",
+              "correctFirst": true
+            },
+            {
+              "display": "took on",
+              "base": "take on",
+              "correct": "To agree to owe money",
+              "wrong": "To repay a loan early",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "What he has {{set up}} is unusual. The [[voting shares]] now sit in a [[trust]] that makes selling the company [[impossible]], so Grady-White should {{live on}} as an [[independent]] business. The other shares went to a charity that will {{give away}} tens of millions of dollars every year to education, [[healthcare]], [[conservation]] and [[local causes]]. Smith copied the idea from Yvon Chouinard, who handed the [[clothing company]] Patagonia to a similar trust in 2022.",
+          "verbs": [
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create something new",
+              "wrong": "To close a business for good",
+              "correctFirst": false
+            },
+            {
+              "display": "live on",
+              "base": "live on",
+              "correct": "To continue to exist",
+              "wrong": "To move to another town",
+              "correctFirst": true
+            },
+            {
+              "display": "give away",
+              "base": "give away",
+              "correct": "To give with no payment",
+              "wrong": "To rent something for a year",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "About 350 people work at the single factory in Greenville. The company shares its profits with them, spends 350,000 to 400,000 dollars a year so that staff can read books, and employs a [[chaplain]]. Smith has {{stepped down}} to an [[honorary role]]. He did not {{pass down}} the company to his family, and he has had [[hard years]]: his wife Jo died in 2021 and his son Chris died of a [[nerve disease]] in 2022. He says a trust will {{look after}} the business better than any owner could. In his words, by not selling, Grady-White will always be Grady-White.",
+          "verbs": [
+            {
+              "display": "stepped down",
+              "base": "step down",
+              "correct": "To leave an important job",
+              "wrong": "To take a longer holiday",
+              "correctFirst": true
+            },
+            {
+              "display": "pass down",
+              "base": "pass down",
+              "correct": "To give to your children",
+              "wrong": "To divide money between workers",
+              "correctFirst": false
+            },
+            {
+              "display": "look after",
+              "base": "look after",
+              "correct": "To keep someone safe and well",
+              "wrong": "To watch a person from far away",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Turn down",
+          "def": "To refuse an offer",
+          "ex": [
+            "She turned down the job because of the long drive.",
+            "He turns down most offers without reading them.",
+            "They have turned down three buyers this year."
+          ],
+          "ipa": "/tɜrn daʊn/"
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something you own",
+          "ex": [
+            "He held on to the house for thirty years.",
+            "She wants to hold on to her old car.",
+            "Families often hold on to land for a long time."
+          ],
+          "ipa": "/hoʊld ɑn tu/"
+        },
+        {
+          "verb": "End up",
+          "def": "To be somewhere in the end",
+          "ex": [
+            "The money ended up in a charity account.",
+            "Most of the boats end up in Florida.",
+            "We ended up at a small hotel near the port."
+          ],
+          "ipa": "/ɛnd ʌp/"
+        },
+        {
+          "verb": "Go under",
+          "def": "To fail as a business",
+          "ex": [
+            "The shop went under after two bad winters.",
+            "Many small firms go under in their first year.",
+            "The factory almost went under in 1968."
+          ],
+          "ipa": "/goʊ ˈʌndər/"
+        },
+        {
+          "verb": "Put in",
+          "def": "To give time and effort",
+          "ex": [
+            "She put in long hours to finish the boat.",
+            "He puts in more work than anyone else.",
+            "They have put in years of effort already."
+          ],
+          "ipa": "/pʊt ɪn/"
+        },
+        {
+          "verb": "Build up",
+          "def": "To make something grow slowly",
+          "ex": [
+            "He built up the company over five decades.",
+            "She is building up a small business at home.",
+            "They built up a good name for quality."
+          ],
+          "ipa": "/bɪld ʌp/"
+        },
+        {
+          "verb": "Take on",
+          "def": "To agree to owe money",
+          "ex": [
+            "The company never took on any debt.",
+            "He refuses to take on more than he can repay.",
+            "Farmers often take on loans in the spring."
+          ],
+          "ipa": "/teɪk ɑn/"
+        },
+        {
+          "verb": "Set up",
+          "def": "To create something new",
+          "ex": [
+            "He set up a trust to protect the company.",
+            "She wants to set up her own workshop.",
+            "They have set up a fund for local schools."
+          ],
+          "ipa": "/sɛt ʌp/"
+        },
+        {
+          "verb": "Live on",
+          "def": "To continue to exist",
+          "ex": [
+            "The company will live on without him.",
+            "His name lives on in the town.",
+            "Old boats live on for many years."
+          ],
+          "ipa": "/lɪv ɑn/"
+        },
+        {
+          "verb": "Give away",
+          "def": "To give with no payment",
+          "ex": [
+            "He gave away the whole company.",
+            "She gives away most of what she earns.",
+            "They have given away thousands of books."
+          ],
+          "ipa": "/gɪv əˈweɪ/"
+        },
+        {
+          "verb": "Step down",
+          "def": "To leave an important job",
+          "ex": [
+            "He stepped down after 58 years.",
+            "She will step down as manager in June.",
+            "Two directors have stepped down this month."
+          ],
+          "ipa": "/stɛp daʊn/"
+        },
+        {
+          "verb": "Pass down",
+          "def": "To give to your children",
+          "ex": [
+            "He did not pass down the company to his family.",
+            "Farmers often pass down land to their sons.",
+            "She passed down her tools to a young worker."
+          ],
+          "ipa": "/pæs daʊn/"
+        },
+        {
+          "verb": "Look after",
+          "def": "To keep someone safe and well",
+          "ex": [
+            "A trust will look after the company now.",
+            "She looks after her neighbor's garden.",
+            "They looked after the workers through hard years."
+          ],
+          "ipa": "/lʊk ˈæftər/"
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "arranged",
+          "def": "Organized so that something happens",
+          "ex": [
+            "He arranged everything before he retired.",
+            "She arranged for the money to go to schools."
+          ],
+          "ipa": "/əˈreɪndʒd/"
+        },
+        {
+          "word": "profits",
+          "def": "The money a business keeps after costs",
+          "ex": [
+            "The profits now go to charity.",
+            "Profits were higher than last year."
+          ],
+          "ipa": "/ˈprɑfɪts/"
+        },
+        {
+          "word": "charities",
+          "def": "Organizations that help people in need",
+          "ex": [
+            "The money goes to charities every year.",
+            "Several charities share the funds."
+          ],
+          "ipa": "/ˈtʃɛrətiz/"
+        },
+        {
+          "word": "decades",
+          "def": "Periods of ten years",
+          "ex": [
+            "He worked there for four decades.",
+            "The town has changed over recent decades."
+          ],
+          "ipa": "/ˈdɛkeɪdz/"
+        },
+        {
+          "word": "outside investors",
+          "def": "People from beyond a firm who provide money",
+          "ex": [
+            "He never accepted outside investors.",
+            "Outside investors wanted a share of the profits."
+          ],
+          "ipa": "/ˈaʊtsaɪd ɪnˈvɛstərz/"
+        },
+        {
+          "word": "debt",
+          "def": "Money that a person or company owes",
+          "ex": [
+            "The company never carried any debt.",
+            "They cleared their debt in five years."
+          ],
+          "ipa": "/dɛt/"
+        },
+        {
+          "word": "boom",
+          "def": "A period of fast business growth",
+          "ex": [
+            "During the boom of the 1970s, sales doubled.",
+            "The boom ended when prices fell."
+          ],
+          "ipa": "/bum/"
+        },
+        {
+          "word": "voting shares",
+          "def": "Parts of a company that give control",
+          "ex": [
+            "The voting shares now sit in a trust.",
+            "Whoever holds the voting shares makes the decisions."
+          ],
+          "ipa": "/ˈvoʊtɪŋ ʃɛrz/"
+        },
+        {
+          "word": "trust",
+          "def": "A legal way to hold and protect property",
+          "ex": [
+            "The trust makes a sale impossible.",
+            "She left the house to her children in a trust."
+          ],
+          "ipa": "/trʌst/"
+        },
+        {
+          "word": "impossible",
+          "def": "Not able to be done",
+          "ex": [
+            "Selling the company is now impossible.",
+            "It is impossible to please everyone."
+          ],
+          "ipa": "/ɪmˈpɑsəbəl/"
+        },
+        {
+          "word": "independent",
+          "def": "Not controlled by another company",
+          "ex": [
+            "Grady-White stays independent.",
+            "She runs an independent workshop."
+          ],
+          "ipa": "/ˌɪndɪˈpɛndənt/"
+        },
+        {
+          "word": "healthcare",
+          "def": "Medical services for people",
+          "ex": [
+            "Some of the money goes to healthcare.",
+            "Healthcare costs have risen sharply."
+          ],
+          "ipa": "/ˈhɛlθkɛr/"
+        },
+        {
+          "word": "conservation",
+          "def": "The protection of nature",
+          "ex": [
+            "The charity supports conservation.",
+            "Conservation groups welcomed the gift."
+          ],
+          "ipa": "/ˌkɑnsərˈveɪʃən/"
+        },
+        {
+          "word": "local causes",
+          "def": "Good works in the nearby area",
+          "ex": [
+            "The money supports local causes.",
+            "He has given to local causes for years."
+          ],
+          "ipa": "/ˈloʊkəl ˈkɔzɪz/"
+        },
+        {
+          "word": "clothing company",
+          "def": "A firm that makes clothes",
+          "ex": [
+            "Patagonia is a clothing company.",
+            "The clothing company gave itself away too."
+          ],
+          "ipa": "/ˈkloʊðɪŋ ˈkʌmpəni/"
+        },
+        {
+          "word": "chaplain",
+          "def": "A priest who works at a company",
+          "ex": [
+            "The factory employs a chaplain.",
+            "A chaplain visits the workers each week."
+          ],
+          "ipa": "/ˈtʃæplɪn/"
+        },
+        {
+          "word": "honorary role",
+          "def": "A title that carries no real duties",
+          "ex": [
+            "He moved to an honorary role.",
+            "An honorary role kept him close to the company."
+          ],
+          "ipa": "/ˈɑnəˌrɛri roʊl/"
+        },
+        {
+          "word": "hard years",
+          "def": "A long period of difficulty",
+          "ex": [
+            "He has had hard years since 2021.",
+            "The family went through hard years together."
+          ],
+          "ipa": "/hɑrd jɪrz/"
+        },
+        {
+          "word": "nerve disease",
+          "def": "An illness that damages the nerves",
+          "ex": [
+            "His son died of a nerve disease.",
+            "A nerve disease can weaken the whole body."
+          ],
+          "ipa": "/nɜrv dɪˈziz/"
+        }
+      ],
+      "tf": [
+        {
+          "s": "Eddie Smith turned down more than 400 million dollars for his company.",
+          "a": true,
+          "why": "An 83-year-old American has turned down more than 400 million dollars for the company he built."
+        },
+        {
+          "s": "Smith passed down the company to his family.",
+          "a": false,
+          "why": "He did not pass down the company to his family. The shares went to a trust and a charity instead."
+        },
+        {
+          "s": "The business was close to going under when Smith bought it in 1968.",
+          "a": true,
+          "why": "Smith bought Grady-White in 1968, when he was 26 and the business was close to going under."
+        },
+        {
+          "s": "Grady-White took on a large amount of debt in the 1970s.",
+          "a": false,
+          "why": "He never sold shares to the public, never accepted outside investors and never took on any debt."
+        },
+        {
+          "s": "Smith has stepped down to an honorary role.",
+          "a": true,
+          "why": "Smith has stepped down to an honorary role."
+        },
+        {
+          "s": "The charity will give away a few thousand dollars each year.",
+          "a": false,
+          "why": "The charity will give away tens of millions of dollars every year, not a few thousand."
+        }
+      ]
+    },
+    {
       "id": "danube-power-crisis-2026",
       "number": 65,
       "headline": "Nuclear plants slow down as the Danube drops",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n65-danube-power-crisis-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n65-danube-power-crisis-2026-flat.webp",
       "position": "center 20%",
       "sources": [
         {
@@ -489,7 +1900,7 @@
       "headline": "Low water on the Danube uncovers sunken warships",
       "badge": "History",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n64-danube-wwii-wrecks-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n64-danube-wwii-wrecks-2026-flat.webp",
       "position": "center 55%",
       "sources": [
         {
@@ -908,7 +2319,7 @@
       "headline": "A wildfire destroys 640 buildings in one afternoon",
       "badge": "Nature",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n63-spokane-wildfires-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n63-spokane-wildfires-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -1364,7 +2775,7 @@
       "headline": "A bomb kills three outside a Moscow restaurant",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n62-moscow-restaurant-bombing-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n62-moscow-restaurant-bombing-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -1811,7 +3222,7 @@
       "headline": "A traveler gave his passcode and his phone erased itself",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n61-border-phone-wipe-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n61-border-phone-wipe-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -2285,7 +3696,7 @@
       "headline": "Sixty thousand people cross into Ceuta in one day",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n60-ceuta-crossing-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n60-ceuta-crossing-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -2749,7 +4160,7 @@
       "headline": "European football votes to boycott the World Cup",
       "badge": "Sports",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n59-uefa-fifa-boycott-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n59-uefa-fifa-boycott-2026-flat.webp",
       "position": "center 55%",
       "sources": [
         {
@@ -3180,7 +4591,7 @@
       "headline": "A US map puts African countries in the wrong places",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n58-africa-map-error-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n58-africa-map-error-2026-flat.webp",
       "position": "center 42%",
       "sources": [
         {
@@ -3680,7 +5091,7 @@
       "headline": "The daughter of a jailed president leads Peru",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n57-peru-fujimori-president-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n57-peru-fujimori-president-2026-flat.webp",
       "position": "center 48%",
       "sources": [
         {
@@ -4136,7 +5547,7 @@
       "headline": "Phones cost more because AI wants the memory",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n56-memory-chip-prices-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n56-memory-chip-prices-2026-flat.webp",
       "position": "center 55%",
       "sources": [
         {
@@ -4567,7 +5978,7 @@
       "headline": "The Louvre reopens its jewel room empty",
       "badge": "Culture",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n55-louvre-gallery-reopens-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n55-louvre-gallery-reopens-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -5024,7 +6435,7 @@
       "headline": "An AI program broke into a company's computers",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n54-ai-agent-intrusion-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n54-ai-agent-intrusion-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -5481,7 +6892,7 @@
       "headline": "A film of the Odyssey fills cinemas",
       "badge": "Entertainment",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n53-odyssey-imax-film-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n53-odyssey-imax-film-2026-flat.webp",
       "position": "center 40%",
       "sources": [
         {
@@ -5911,7 +7322,7 @@
       "headline": "Birdsong in a forest lowers stress",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n52-birdsong-stress-study-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n52-birdsong-forest-stress-2026-flat.webp",
       "position": "center 52%",
       "sources": [
         {
@@ -6333,7 +7744,7 @@
       "headline": "Hyundai workers strike over robots",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n51-hyundai-robot-strike-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n51-hyundai-robot-strike-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -6737,7 +8148,7 @@
       "headline": "A T. rex skeleton sells for 50 million dollars",
       "badge": "General",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n50-trex-auction-record-2026-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n50-trex-auction-record-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -7149,7 +8560,7 @@
       "headline": "Romania shoots down a drone for the first time",
       "badge": "Geopolitics",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n49-romania-drone-shootdown-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n49-romania-drone-shootdown-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -7542,7 +8953,7 @@
       "headline": "The whole of Georgia lost power for nine hours",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n48-georgia-blackout-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n48-georgia-blackout-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -7900,7 +9311,7 @@
       "headline": "Toy donkey goes home after a week on a ferry",
       "badge": "General",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n47-churro-donkey-ferry-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n47-churro-donkey-ferry-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -8296,7 +9707,7 @@
       "headline": "Japan now has cooling booths for one person",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n46-japan-cooling-booths-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n46-japan-cooling-booths-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -8671,7 +10082,7 @@
       "headline": "Hot nights cost people a week of sleep a year",
       "badge": "Science",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n45-hot-nights-sleep-loss-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n45-hot-nights-sleep-loss-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -9025,7 +10436,7 @@
       "headline": "Indian students protest after a medical exam leak",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n44-india-exam-leak-protest-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n44-india-exam-leak-protest-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -9426,7 +10837,7 @@
       "headline": "Five cups of coffee a day appears safe for adults",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n43-coffee-five-cups-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n43-coffee-five-cups-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -9797,7 +11208,7 @@
       "headline": "France bans social media for children under 15",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n42-france-social-media-ban-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n42-france-social-media-ban-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -10181,7 +11592,7 @@
       "headline": "A goalkeeper's mother reached the World Cup",
       "badge": "Sports",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n41-goalkeeper-mother-worldcup-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n41-goalkeeper-mother-worldcup-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -10582,7 +11993,7 @@
       "headline": "Britain changes prime minister without an election",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n40-britain-new-pm-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n40-britain-new-pm-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -10957,7 +12368,7 @@
       "headline": "Trump steps into Spain's big moment",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n39-trump-spain-trophy-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n39-trump-spain-trophy-2026-flat.webp",
       "position": "center 35%",
       "sources": [
         {
@@ -11421,7 +12832,7 @@
       "headline": "A daughter saves her dad's shoe shop",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n38-shoe-shop-tiktok-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n38-shoe-shop-tiktok-2026-flat.webp",
       "position": "center 55%",
       "sources": [
         {
@@ -11902,7 +13313,7 @@
       "headline": "Spain wins the World Cup",
       "badge": "Sports",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n37-spain-world-cup-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n37-spain-world-cup-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -12383,7 +13794,7 @@
       "headline": "Scientists find air around a faraway planet",
       "badge": "Science",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n36-exoplanet-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n36-exoplanet-atmosphere-lhs1140b-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -12864,7 +14275,7 @@
       "headline": "China says no country should control AI",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n35-ai-governance-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n35-china-ai-cooperation-2026-flat.webp",
       "position": "center 40%",
       "sources": [
         {
@@ -13328,7 +14739,7 @@
       "headline": "New AI blood test could catch cancer early",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n34-ai-cancer-test-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n34-ai-blood-test-cancer-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -13784,7 +15195,7 @@
       "headline": "New England's forests grow back after 150 years",
       "badge": "Nature",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n33-new-england-forests-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n33-new-england-forests-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -14240,7 +15651,7 @@
       "headline": "White House worker bet on Trump's words",
       "badge": "General",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n32-teleprompter-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n32-trump-teleprompter-bet-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -14679,7 +16090,7 @@
       "headline": "Cuba's power grid fails for the third time",
       "badge": "General",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n31-cuba-grid-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n31-cuba-power-grid-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -15118,7 +16529,7 @@
       "headline": "China turns off AI companion chatbots",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n30-ai-chatbots-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n30-china-ai-companion-chatbots-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -15578,7 +16989,7 @@
       "headline": "Ancient painted tomb uncovered near Egypt's Luxor",
       "badge": "History",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n29-luxor-tomb-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n29-luxor-tomb-paser-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -16019,7 +17430,7 @@
       "headline": "House votes to make daylight saving time permanent",
       "badge": "General",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n28-daylight-saving-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n28-daylight-saving-vote-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -16479,7 +17890,7 @@
       "headline": "New York pauses giant AI data centers",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n27-ny-data-centers-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n27-new-york-data-centers-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -16935,7 +18346,7 @@
       "headline": "European troops join France's Bastille Day parade",
       "badge": "Geopolitics",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n26-bastille-day-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n26-france-bastille-day-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -17393,7 +18804,7 @@
       "headline": "Cannabis medicine calms agitation in dementia patients",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n25-cannabis-dementia-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n25-cannabis-dementia-medicine-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -17834,7 +19245,7 @@
       "headline": "US senator Lindsey Graham dies at 71",
       "badge": "General",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n24-lindsey-graham-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n24-lindsey-graham-dies-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -18273,7 +19684,7 @@
       "headline": "Exercise reshapes the nerves that run the heart",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n23-exercise-heart-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n23-exercise-heart-nerves-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -18697,7 +20108,7 @@
       "headline": "Healthy habits keep older minds sharp",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n22-aging-brain-habits-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n22-healthy-habits-aging-brain-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -19155,7 +20566,7 @@
       "headline": "Giant telescope in Chile turns for the first time",
       "badge": "Space",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n21-giant-telescope-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n21-giant-telescope-first-turn-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -19594,7 +21005,7 @@
       "headline": "Speaking more languages may keep the brain younger",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n20-multilingual-brain-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n20-multilingual-brain-aging-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -20033,7 +21444,7 @@
       "headline": "Europe considers keeping young children off social media",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n19-kids-social-media-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n19-kids-social-media-limits-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -20472,7 +21883,7 @@
       "headline": "Rare baby gorilla is born at the Detroit Zoo",
       "badge": "Nature",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n18-detroit-gorilla-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n18-detroit-zoo-gorilla-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -20894,7 +22305,7 @@
       "headline": "Apple takes OpenAI to court over stolen secrets",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n17-apple-openai-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n17-apple-openai-lawsuit-2026-flat.webp",
       "position": "center 48%",
       "sources": [
         {
@@ -21341,7 +22752,7 @@
       "headline": "A huge typhoon forces a million people from their homes",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n16-typhoon-bavi-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n16-typhoon-bavi-china-2026-flat.webp",
       "position": "center 80%",
       "sources": [
         {
@@ -21788,7 +23199,7 @@
       "headline": "China lands a rocket booster on a ship at sea",
       "badge": "Science",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n15-china-rocket.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n15-china-rocket-recovery-2026-flat.webp",
       "position": "center 62%",
       "sources": [
         {
@@ -22244,7 +23655,7 @@
       "headline": "Europe says Instagram and Facebook are too addictive",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n14-eu-meta-flat.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n14-eu-meta-addictive-design-2026-flat.webp",
       "position": "center 52%",
       "sources": [
         {
@@ -22699,7 +24110,7 @@
       "headline": "Ukraine hits Russian oil sites with drones",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n12-russia-oil.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n13-ukraine-drone-oil-strikes-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -23155,7 +24566,7 @@
       "headline": "A tiny parasite makes over 1,000 people sick",
       "badge": "Health",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n13-parasite.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n12-cyclospora-outbreak-2026-flat.webp",
       "position": "center 62%",
       "sources": [
         {
@@ -23580,7 +24991,7 @@
       "headline": "Trump says the ceasefire with Iran is over",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n4-iran-ceasefire.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n11-trump-iran-ceasefire-over-2026-flat.webp",
       "position": "center 66%",
       "sources": [
         {
@@ -24036,7 +25447,7 @@
       "headline": "Man returns a painting worth thousands",
       "badge": "Culture",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n5-painting.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n10-sorolla-painting-returned-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -24466,7 +25877,7 @@
       "headline": "Farage quits his seat and asks voters to decide",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n6-farage.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n9-farage-resigns-byelection-2026-flat.webp",
       "position": "center 38%",
       "sources": [
         {
@@ -24922,7 +26333,7 @@
       "headline": "A record heat wave hits the United States",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n7-heatwave.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n8-us-heat-wave-deaths-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -25352,7 +26763,7 @@
       "headline": "Police find a stolen Picasso in a drug raid",
       "badge": "Culture",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n8-picasso.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n7-picasso-recovered-paris-2026-flat.webp",
       "position": "center 40%",
       "sources": [
         {
@@ -25774,7 +27185,7 @@
       "headline": "New cells bring back sight in mice",
       "badge": "Science",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n9-stemcell.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n6-stem-cell-sight-2026-flat.webp",
       "position": "center 41%",
       "sources": [
         {
@@ -26179,7 +27590,7 @@
       "headline": "A 1,000-year-old Viking workshop is found in Denmark",
       "badge": "History",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n10-viking.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n5-viking-textile-workshop-2026-flat.webp",
       "position": "center 60%",
       "sources": [
         {
@@ -26615,7 +28026,7 @@
       "headline": "Italy may put solar panels between train tracks",
       "badge": "Technology",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n11-solar.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n4-italy-solar-railway-2026-flat.webp",
       "position": "center 42%",
       "sources": [
         {
@@ -27062,7 +28473,7 @@
       "headline": "Taylor Swift and Travis Kelce get married",
       "badge": "Entertainment",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n1-wedding.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n3-swift-kelce-wedding-charity-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
@@ -27520,7 +28931,7 @@
       "headline": "Man saved from rubble after eight days",
       "badge": "World",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n3-rescue.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n2-venezuela-earthquake-rescue-2026-flat.webp",
       "position": "center 50%",
       "sources": [
         {
@@ -27976,7 +29387,7 @@
       "headline": "Giraffes can do simple math",
       "badge": "Nature",
       "meta": "",
-      "image": "https://raw.githubusercontent.com/everythingenglish123/news-verbs-content/main/images/n2-giraffes.png",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n1-giraffes-math-barcelona-2026-flat.webp",
       "position": "center 15%",
       "sources": [
         {
