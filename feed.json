@@ -5030,7 +5030,7 @@
               "display": "raked in",
               "base": "rake in",
               "correct": "To earn a lot of money",
-              "wrong": "To spend a large amount on a film",
+              "wrong": "To spend a lot of money on ads",
               "correctFirst": false
             },
             {
@@ -5101,14 +5101,14 @@
               "display": "lined up",
               "base": "line up",
               "correct": "To wait in a line",
-              "wrong": "To travel a long way to an event",
+              "wrong": "To add your name to a list",
               "correctFirst": true
             },
             {
               "display": "take up",
               "base": "take up",
               "correct": "To start using again",
-              "wrong": "To buy equipment from another company",
+              "wrong": "To take control of a company",
               "correctFirst": false
             }
           ]
@@ -5453,7 +5453,7 @@
               "display": "came out",
               "base": "come out",
               "correct": "To be published",
-              "wrong": "To be repeated by another team",
+              "wrong": "To be tested by others",
               "correctFirst": true
             },
             {
@@ -5472,7 +5472,7 @@
               "display": "shut out",
               "base": "shut out",
               "correct": "To block from entering",
-              "wrong": "To make a sound quieter without removing it",
+              "wrong": "To stop a machine working",
               "correctFirst": true
             }
           ]
@@ -5484,7 +5484,7 @@
               "display": "won out",
               "base": "win out",
               "correct": "To succeed in the end",
-              "wrong": "To produce the same result every time",
+              "wrong": "To get support from people",
               "correctFirst": true
             },
             {
@@ -5505,7 +5505,7 @@
               "display": "stands out",
               "base": "stand out",
               "correct": "To be clearly noticeable",
-              "wrong": "To disagree with all the other results",
+              "wrong": "To disagree with other results",
               "correctFirst": true
             }
           ]
@@ -5524,7 +5524,7 @@
               "display": "draws in",
               "base": "draw in",
               "correct": "To attract toward a place",
-              "wrong": "To stop animals from leaving an area",
+              "wrong": "To stop animals leaving an area",
               "correctFirst": false
             },
             {
@@ -5920,7 +5920,7 @@
               "display": "built up",
               "base": "build up",
               "correct": "To grow gradually stronger",
-              "wrong": "To begin suddenly and without warning",
+              "wrong": "To start again after a break",
               "correctFirst": true
             },
             {
@@ -6279,7 +6279,7 @@
               "display": "go for",
               "base": "go for",
               "correct": "To be sold for a price",
-              "wrong": "To be given a value before a sale",
+              "wrong": "To be valued before the sale",
               "correctFirst": false
             },
             {
@@ -6298,14 +6298,14 @@
               "display": "dug up",
               "base": "dig up",
               "correct": "To remove from the ground",
-              "wrong": "To break away the rock around a bone",
+              "wrong": "To break the rock around a bone",
               "correctFirst": false
             },
             {
               "display": "cleaning up",
               "base": "clean up",
               "correct": "To make clean and tidy",
-              "wrong": "To repair a broken piece with plaster",
+              "wrong": "To repair a broken piece",
               "correctFirst": true
             }
           ]
@@ -6317,7 +6317,7 @@
               "display": "shows up",
               "base": "show up",
               "correct": "To appear or be present",
-              "wrong": "To survive a long time without damage",
+              "wrong": "To survive without damage",
               "correctFirst": true
             },
             {
@@ -6336,7 +6336,7 @@
               "display": "hand over",
               "base": "hand over",
               "correct": "To give to someone else",
-              "wrong": "To lend something for a short period",
+              "wrong": "To lend something to a museum",
               "correctFirst": false
             },
             {
@@ -6350,14 +6350,14 @@
               "display": "keep up with",
               "base": "keep up with",
               "correct": "To match the speed of",
-              "wrong": "To be allowed to join the bidding",
+              "wrong": "To be allowed to bid",
               "correctFirst": true
             },
             {
               "display": "come forward",
               "base": "come forward",
               "correct": "To make yourself known",
-              "wrong": "To pay the amount that was promised",
+              "wrong": "To pay the promised amount",
               "correctFirst": false
             },
             {
@@ -12870,7 +12870,7 @@
               "display": "come up with",
               "base": "come up with",
               "correct": "To think of a new idea or plan",
-              "wrong": "To confirm a result that was already known",
+              "wrong": "To face a difficult problem",
               "correctFirst": true
             },
             {
@@ -14220,7 +14220,7 @@
             {
               "display": "broken down",
               "base": "break down",
-              "wrong": "To slowly get worse and weaken over a long time",
+              "wrong": "To begin suddenly, like a fire",
               "correct": "To suddenly stop working",
               "correctFirst": true
             },
@@ -14234,7 +14234,7 @@
             {
               "display": "shut down",
               "base": "shut down",
-              "wrong": "To close a place permanently and never open it again",
+              "wrong": "To stop someone from entering a place",
               "correct": "To stop working or operating completely",
               "correctFirst": false
             }
@@ -14660,7 +14660,7 @@
               "display": "shut down",
               "base": "shut down",
               "correct": "To close or stop something completely",
-              "wrong": "To gradually reduce the size or amount of something",
+              "wrong": "To make a rule that limits an activity",
               "correctFirst": true
             },
             {
@@ -14739,7 +14739,7 @@
               "display": "look after",
               "base": "look after",
               "correct": "To take care of someone or something",
-              "wrong": "To watch or observe something closely over time",
+              "wrong": "To find information in a book or online",
               "correctFirst": true
             },
             {
@@ -15127,7 +15127,7 @@
               "display": "teamed up with",
               "base": "team up with",
               "correct": "To join with someone to work together",
-              "wrong": "To officially become a member of an organization",
+              "wrong": "To reach someone who is ahead of you",
               "correctFirst": false
             },
             {
@@ -15172,7 +15172,7 @@
               "display": "come across",
               "base": "come across",
               "correct": "To find or meet something by chance",
-              "wrong": "To arrive at a place after searching hard for it",
+              "wrong": "To change your opinion and agree",
               "correctFirst": false
             },
             {
@@ -15561,7 +15561,7 @@
               "display": "do away with",
               "base": "do away with",
               "correct": "To get rid of something completely",
-              "wrong": "To replace something old with a newer version",
+              "wrong": "To escape punishment for a bad action",
               "correctFirst": true
             },
             {
@@ -16477,7 +16477,7 @@
               "display": "put on",
               "base": "put on",
               "correct": "To organize and present a public event or show",
-              "wrong": "To make something seem grander or more impressive than it really is",
+              "wrong": "To suggest a plan for others to think about",
               "correctFirst": false
             },
             {
@@ -16556,14 +16556,14 @@
               "display": "steps down",
               "base": "step down",
               "correct": "To leave an important job or position",
-              "wrong": "To move to a lower or less important position at work",
+              "wrong": "To get involved in order to help",
               "correctFirst": false
             },
             {
               "display": "showed up",
               "base": "show up",
               "correct": "To arrive or appear at a place",
-              "wrong": "To make someone look bad in front of others",
+              "wrong": "To guide a visitor around a place",
               "correctFirst": true
             },
             {
@@ -16942,7 +16942,7 @@
               "display": "came out",
               "base": "come out",
               "correct": "To become known or be made public",
-              "wrong": "To be produced and put on sale for the public",
+              "wrong": "To make progress and improve",
               "correctFirst": false
             },
             {
@@ -16975,7 +16975,7 @@
               "display": "kept track of",
               "base": "keep track of",
               "correct": "To watch or follow something carefully over time",
-              "wrong": "To count the total number of things",
+              "wrong": "To move at the same speed as everyone else",
               "correctFirst": true,
               "kind": "expression"
             }
@@ -17409,7 +17409,7 @@
               "display": "flown back",
               "base": "fly back",
               "correct": "To return to a place by plane",
-              "wrong": "To travel away to a distant place by plane",
+              "wrong": "To pass above a place in the air",
               "correctFirst": false
             }
           ]
@@ -17875,7 +17875,7 @@
               "display": "wound up with",
               "base": "wind up with",
               "correct": "To finally have something as a result",
-              "wrong": "To deliberately gather a large amount of something over time",
+              "wrong": "To slowly relax after a busy time",
               "correctFirst": false
             }
           ]
@@ -18265,7 +18265,7 @@
               "display": "signed up",
               "base": "sign up",
               "correct": "To join a program or activity",
-              "wrong": "To write your name to approve a document",
+              "wrong": "To write your name when you arrive",
               "correctFirst": true
             },
             {
@@ -18306,7 +18306,7 @@
               "display": "ended up",
               "base": "end up",
               "correct": "To finally be in a certain situation or result",
-              "wrong": "To reach the end of a long process",
+              "wrong": "To stop an activity before it is finished",
               "correctFirst": true
             }
           ]
@@ -18696,7 +18696,7 @@
             {
               "display": "pulled off",
               "base": "pull off",
-              "wrong": "To manage to finish something at the very last moment",
+              "wrong": "To work together well as one team",
               "correct": "To succeed in doing something difficult",
               "correctFirst": true
             },
@@ -18729,14 +18729,14 @@
             {
               "display": "made up of",
               "base": "make up of",
-              "wrong": "To be polished to an exact shape",
+              "wrong": "To be able to see something with difficulty",
               "correct": "To form the whole of something from smaller parts",
               "correctFirst": true
             },
             {
               "display": "carry out",
               "base": "carry out",
-              "wrong": "To keep doing something without stopping",
+              "wrong": "To continue without stopping",
               "correct": "To do or perform a task",
               "correctFirst": false
             }
@@ -18767,7 +18767,7 @@
             {
               "display": "wrap up",
               "base": "wrap up",
-              "wrong": "To hurry so that a job is finished on time",
+              "wrong": "To hand a job to another team",
               "correct": "To finish or complete something",
               "correctFirst": true
             },
@@ -19136,7 +19136,7 @@
               "display": "come up with",
               "base": "come up with",
               "correct": "To think of or create a new idea or method",
-              "wrong": "To finally agree on something after a long discussion",
+              "wrong": "To face a problem you did not expect",
               "correctFirst": true
             },
             {
@@ -19608,14 +19608,14 @@
               "display": "carry out",
               "base": "carry out",
               "correct": "To do or perform a task, often one that was planned",
-              "wrong": "To continue an activity without stopping",
+              "wrong": "To keep doing an activity in the same way as before",
               "correctFirst": true
             },
             {
               "display": "heads up",
               "base": "head up",
               "correct": "To be the leader of a group or organization",
-              "wrong": "To speak for a group as its main public representative",
+              "wrong": "To speak for a group as its main voice",
               "correctFirst": false
             }
           ]
@@ -19646,7 +19646,7 @@
               "display": "goes along with",
               "base": "go along with",
               "correct": "To agree with or support a plan or idea",
-              "wrong": "To pretend to accept a plan while secretly disagreeing",
+              "wrong": "To finally do something you promised to do",
               "correctFirst": true
             },
             {
@@ -20085,7 +20085,7 @@
               "display": "drop by",
               "base": "drop by",
               "correct": "To visit a place for a short time",
-              "wrong": "To leave a place quietly without saying goodbye",
+              "wrong": "To fall asleep for a short time",
               "correctFirst": true
             },
             {
@@ -20948,7 +20948,7 @@
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To pay the cost of something for other people",
+              "wrong": "To pay the cost for other people",
               "correct": "To create or arrange something",
               "correctFirst": true
             }
@@ -21407,7 +21407,7 @@
             {
               "display": "carry out",
               "base": "carry out",
-              "wrong": "To announce a plan to the world",
+              "wrong": "To announce a plan to the whole world",
               "correct": "To do or complete a planned task or action",
               "correctFirst": false
             },
@@ -21811,7 +21811,7 @@
             {
               "display": "serving up",
               "base": "serve up",
-              "wrong": "To save something for you to watch later",
+              "wrong": "To save something to watch later",
               "correct": "To present or offer something",
               "correctFirst": false
             },
@@ -23187,7 +23187,7 @@
             {
               "display": "carry on",
               "base": "carry on",
-              "wrong": "To start something again after it failed",
+              "wrong": "To wait for a short time",
               "correct": "To continue doing something",
               "correctFirst": true
             }
@@ -23629,7 +23629,7 @@
             {
               "display": "give it back",
               "base": "give back",
-              "wrong": "To ask for money before returning something",
+              "wrong": "To ask for money before returning it",
               "correct": "To return something to its owner",
               "correctFirst": true
             }
@@ -23648,7 +23648,7 @@
             {
               "display": "ended up",
               "base": "end up",
-              "wrong": "To be sold at an auction",
+              "wrong": "To be sold at a public auction",
               "correct": "To reach a final situation or place",
               "correctFirst": true
             },
@@ -24033,7 +24033,7 @@
             {
               "display": "look into",
               "base": "look into",
-              "wrong": "To ask someone questions in public",
+              "wrong": "To ask someone questions in a public meeting",
               "correct": "To examine or investigate something carefully",
               "correctFirst": true
             },
@@ -24052,7 +24052,7 @@
             {
               "display": "own up to",
               "base": "own up to",
-              "wrong": "To say sorry for a mistake",
+              "wrong": "To be as good as people expected",
               "correct": "To admit that you did something wrong",
               "correctFirst": true
             },
@@ -24489,7 +24489,7 @@
             {
               "display": "cool down",
               "base": "cool down",
-              "wrong": "To become fresh and comfortable",
+              "wrong": "To move more slowly",
               "correct": "To become cooler",
               "correctFirst": false
             },
@@ -24548,7 +24548,7 @@
             {
               "display": "let up",
               "base": "let up",
-              "wrong": "To move away to a different region",
+              "wrong": "To move to another region",
               "correct": "To become less strong",
               "correctFirst": false
             }
@@ -25360,7 +25360,7 @@
             {
               "display": "brought the animals' sight back",
               "base": "bring back",
-              "wrong": "To make something better than before",
+              "wrong": "To start talking about a topic",
               "correct": "To make something return",
               "correctFirst": true
             },
@@ -25386,7 +25386,7 @@
             {
               "display": "rule out",
               "base": "rule out",
-              "wrong": "To warn people about a danger",
+              "wrong": "To warn people about a possible danger",
               "correct": "To decide that something is not possible",
               "correctFirst": false
             }
@@ -25720,7 +25720,7 @@
             {
               "display": "dug up",
               "base": "dig up",
-              "wrong": "To discover something by accident",
+              "wrong": "To build a house or wall out of wood and stone",
               "correct": "To remove something from the ground by digging",
               "correctFirst": true
             },
@@ -25779,7 +25779,7 @@
             {
               "display": "built up",
               "base": "build up",
-              "wrong": "To become rich by selling goods",
+              "wrong": "To make an agreement with another country",
               "correct": "To develop or increase something over time",
               "correctFirst": true
             }
@@ -25812,7 +25812,7 @@
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To correct an old mistake",
+              "wrong": "To explain something clearly in writing",
               "correct": "To create or establish something new",
               "correctFirst": false
             }
@@ -26156,7 +26156,7 @@
             {
               "display": "roll out",
               "base": "roll out",
-              "wrong": "To test something in one small area",
+              "wrong": "To test something in one small area first",
               "correct": "To start using or introducing something widely",
               "correctFirst": true
             },
@@ -26170,7 +26170,7 @@
             {
               "display": "end up",
               "base": "end up",
-              "wrong": "To agree to pay for a large project",
+              "wrong": "To reach the same level as another country",
               "correct": "To finally be in a particular situation or place",
               "correctFirst": false
             }
@@ -26248,7 +26248,7 @@
             {
               "display": "drag on",
               "base": "drag on",
-              "wrong": "To become more difficult over time",
+              "wrong": "To become more and more difficult over time",
               "correct": "To continue for too long in a slow, boring way",
               "correctFirst": false
             }
@@ -26636,7 +26636,7 @@
             {
               "display": "giving back",
               "base": "give back",
-              "wrong": "To pay someone for their help",
+              "wrong": "To stop refusing and finally agree",
               "correct": "To do something good for others in return",
               "correctFirst": true
             }
@@ -26675,7 +26675,7 @@
             {
               "display": "went ahead",
               "base": "go ahead",
-              "wrong": "To be a great success",
+              "wrong": "To make progress in your career",
               "correct": "To happen or continue as planned",
               "correctFirst": false
             },
@@ -27068,7 +27068,7 @@
             {
               "display": "came down",
               "base": "come down",
-              "wrong": "To break into many small pieces",
+              "wrong": "To shake very hard",
               "correct": "To fall down",
               "correctFirst": false
             }
@@ -27120,14 +27120,14 @@
             {
               "display": "give up",
               "base": "give up",
-              "wrong": "To take a rest after working too long",
+              "wrong": "To take a short break",
               "correct": "To stop trying",
               "correctFirst": true
             },
             {
               "display": "paid off",
               "base": "pay off",
-              "wrong": "To be finished at last",
+              "wrong": "To delay something until later",
               "correct": "To bring a good result after effort",
               "correctFirst": true
             }
@@ -27517,21 +27517,21 @@
             {
               "display": "found out",
               "base": "find out",
-              "wrong": "To prove something that people already believed",
+              "wrong": "To share a fact with the public",
               "correct": "To learn or discover something",
               "correctFirst": false
             },
             {
               "display": "carried out",
               "base": "carry out",
-              "wrong": "To pay for and support a piece of research",
+              "wrong": "To plan something in detail",
               "correct": "To do or perform a task",
               "correctFirst": false
             },
             {
               "display": "work out",
               "base": "work out",
-              "wrong": "To notice something quickly without thinking",
+              "wrong": "To notice something without thinking",
               "correct": "To find the answer to something",
               "correctFirst": false
             }
@@ -27543,14 +27543,14 @@
             {
               "display": "set up",
               "base": "set up",
-              "wrong": "To hide something so it cannot be seen easily",
+              "wrong": "To hide something from view",
               "correct": "To prepare or arrange something",
               "correctFirst": false
             },
             {
               "display": "took away",
               "base": "take away",
-              "wrong": "To count how many things are left",
+              "wrong": "To put things in a row",
               "correct": "To remove something",
               "correctFirst": true
             },
@@ -27603,7 +27603,7 @@
             {
               "display": "figure out",
               "base": "figure out",
-              "wrong": "To watch something very closely for a long time",
+              "wrong": "To watch something very closely",
               "correct": "To understand or solve something",
               "correctFirst": false
             }
