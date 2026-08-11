@@ -2,6 +2,1781 @@
   "updated": "2026-08-11",
   "stories": [
     {
+      "id": "midlife-risks-dementia-2026",
+      "number": 73,
+      "headline": "Three midlife risks are linked to dementia",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n73-midlife-risks-dementia-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Avoiding These 3 Things in Midlife Is Linked to 13 More Dementia-Free Years",
+          "url": "https://time.com/article/2026/08/07/midlife-risk-factors-dementia/"
+        },
+        {
+          "title": "3 things to avoid in middle age could mean 13 more years without dementia, study finds",
+          "url": "https://www.foxnews.com/health/3-things-avoid-middle-age-could-mean-13-more-years-without-dementia-study-finds"
+        },
+        {
+          "title": "Avoiding 3 risk factors in midlife could add 13 dementia-free years",
+          "url": "https://www.medicalnewstoday.com/articles/avoiding-3-risk-factors-in-midlife-could-add-13-dementia-free-years"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A long American study {{took in}} 12,409 adults who {{started off}} with no sign of [[dementia]]. Researchers {{kept track of}} them for about 26 years, and the results were published in the journal Neurology on August 5. The work asked a simple question: how much does health in [[midlife]] change what happens later? It looked at three [[risk factors]]: [[high blood pressure]], [[diabetes]] and [[smoking]].",
+          "verbs": [
+            {
+              "display": "took in",
+              "base": "take in",
+              "correct": "To include people in a study",
+              "wrong": "To follow a patient for one year",
+              "correctFirst": true
+            },
+            {
+              "display": "started off",
+              "base": "start off",
+              "correct": "To be in a state at the beginning",
+              "wrong": "To leave a study before it ends",
+              "correctFirst": false
+            },
+            {
+              "display": "kept track of",
+              "base": "keep track of",
+              "correct": "To follow something over a long time",
+              "wrong": "To treat an illness with medicine",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "Adults who had none of the three in middle age {{went on}} to live about 30 years without dementia after the study began. Adults who had all three managed about 17. The [[gap]] {{adds up to}} roughly 13 years. People with all three were also about 2.7 times more likely to [[develop]] dementia at some point. The same [[pattern]] {{came through}} for men and women, with only small differences.",
+          "verbs": [
+            {
+              "display": "went on",
+              "base": "go on",
+              "correct": "To continue living for a period",
+              "wrong": "To take part in a second study",
+              "correctFirst": false
+            },
+            {
+              "display": "adds up to",
+              "base": "add up to",
+              "correct": "To reach a total of a certain amount",
+              "wrong": "To count the years without dementia",
+              "correctFirst": true
+            },
+            {
+              "display": "came through",
+              "base": "come through",
+              "correct": "To show clearly in the results",
+              "wrong": "To appear in men but not in women",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "The three factors were measured together, so the study cannot {{single out}} which one matters most. It also cannot {{tell apart}} a real [[cause]] from a [[coincidence]]. This is [[observational]] work: it watched what happened to people who already smoked or already had [[raised]] blood pressure. Money, education and [[genes]] shape health as well, and they may {{make up}} part of the gap.",
+          "verbs": [
+            {
+              "display": "single out",
+              "base": "single out",
+              "correct": "To choose one thing out of a group",
+              "wrong": "To measure two things at once",
+              "correctFirst": true
+            },
+            {
+              "display": "tell apart",
+              "base": "tell apart",
+              "correct": "To see the difference between two things",
+              "wrong": "To explain a result to the public",
+              "correctFirst": false
+            },
+            {
+              "display": "make up",
+              "base": "make up",
+              "correct": "To form one part of a whole",
+              "wrong": "To cancel out an earlier finding",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The numbers are real, but they are not a promise. Nobody can say that if you {{steer clear of}} cigarettes today, or {{cut out}} sugar, or {{get into}} walking, your own dementia will be {{pushed back}} [[by]] 13 years. What the study does show is that the three conditions doctors already treat in [[middle age]] are the same ones sitting beside dementia [[decades]] later. The [[funders]] were the National Institutes of Health.",
+          "verbs": [
+            {
+              "display": "steer clear of",
+              "base": "steer clear of",
+              "correct": "To keep away from something harmful",
+              "wrong": "To cut down slowly over many years",
+              "correctFirst": false
+            },
+            {
+              "display": "cut out",
+              "base": "cut out",
+              "correct": "To stop eating a type of food",
+              "wrong": "To eat a smaller amount each day",
+              "correctFirst": true
+            },
+            {
+              "display": "get into",
+              "base": "get into",
+              "correct": "To begin doing an activity often",
+              "wrong": "To reach an older age in good health",
+              "correctFirst": false
+            },
+            {
+              "display": "pushed back",
+              "base": "push back",
+              "correct": "To make something happen later",
+              "wrong": "To lower the risk of an illness",
+              "correctFirst": true
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Take in",
+          "ipa": "/teɪk ɪn/",
+          "def": "To include people in a study",
+          "ex": [
+            "The study took in 12,409 adults with no sign of dementia.",
+            "The gym takes in new members every month.",
+            "The survey took in people from ten different cities."
+          ]
+        },
+        {
+          "verb": "Start off",
+          "ipa": "/stɑrt ɔf/",
+          "def": "To be in a state at the beginning",
+          "ex": [
+            "All the adults in the study started off with no sign of dementia.",
+            "The meeting started off with a short introduction.",
+            "She started off nervous but soon relaxed."
+          ]
+        },
+        {
+          "verb": "Keep track of",
+          "ipa": "/kip træk ʌv/",
+          "def": "To follow something over a long time",
+          "ex": [
+            "Researchers kept track of the adults for about 26 years.",
+            "He keeps track of his spending every week.",
+            "The app helps you keep track of your sleep."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "ipa": "/ɡoʊ ɑn/",
+          "def": "To continue living for a period",
+          "ex": [
+            "Adults with none of the three risks went on to live about 30 years without dementia.",
+            "She went on to become a successful doctor.",
+            "The old dog went on for another two years."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "ipa": "/æd ʌp tu/",
+          "def": "To reach a total of a certain amount",
+          "ex": [
+            "The gap between the two groups adds up to roughly 13 years.",
+            "These small expenses add up to a large bill.",
+            "The votes added up to a clear win."
+          ]
+        },
+        {
+          "verb": "Come through",
+          "ipa": "/kʌm θru/",
+          "def": "To show clearly in the results",
+          "ex": [
+            "The same pattern came through for both men and women.",
+            "Her hard work came through in the final score.",
+            "The good news finally came through this morning."
+          ]
+        },
+        {
+          "verb": "Single out",
+          "ipa": "/ˈsɪŋɡəl aʊt/",
+          "def": "To choose one thing out of a group",
+          "ex": [
+            "The study could not single out which risk factor mattered most.",
+            "The teacher singled out one student for praise.",
+            "It is hard to single out the best restaurant in town."
+          ]
+        },
+        {
+          "verb": "Tell apart",
+          "ipa": "/tɛl əˈpɑrt/",
+          "def": "To see the difference between two things",
+          "ex": [
+            "The study cannot tell apart a real cause from a coincidence.",
+            "Even close friends could not tell apart the twin sisters.",
+            "It is hard to tell apart the two brands of coffee."
+          ]
+        },
+        {
+          "verb": "Make up",
+          "ipa": "/meɪk ʌp/",
+          "def": "To form one part of a whole",
+          "ex": [
+            "Money, education and genes may make up part of the gap.",
+            "Women make up half of the company's staff.",
+            "Fruit and vegetables make up most of her diet."
+          ]
+        },
+        {
+          "verb": "Steer clear of",
+          "ipa": "/stɪr klɪr ʌv/",
+          "def": "To keep away from something harmful",
+          "ex": [
+            "Doctors say steering clear of cigarettes helps protect the brain.",
+            "He steers clear of fast food during the week.",
+            "It is smart to steer clear of strangers online."
+          ]
+        },
+        {
+          "verb": "Cut out",
+          "ipa": "/kʌt aʊt/",
+          "def": "To stop eating a type of food",
+          "ex": [
+            "Cutting out sugar in middle age may lower the risk of dementia.",
+            "She cut out red meat last year.",
+            "He is trying to cut out snacks before bed."
+          ]
+        },
+        {
+          "verb": "Get into",
+          "ipa": "/ɡɛt ˈɪntu/",
+          "def": "To begin doing an activity often",
+          "ex": [
+            "Getting into walking in middle age may support a healthy brain.",
+            "My brother got into cycling last summer.",
+            "It is never too late to get into a new hobby."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "ipa": "/pʊʃ bæk/",
+          "def": "To make something happen later",
+          "ex": [
+            "Nobody can say your own dementia risk will be pushed back by 13 years.",
+            "The airline pushed back the flight by two hours.",
+            "They pushed back the meeting to next week."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "dementia",
+          "ipa": "/dɪˈmɛnʃə/",
+          "def": "An illness that slowly damages the memory",
+          "ex": [
+            "The study followed adults with no sign of dementia at the start.",
+            "Her grandmother lives with early stage dementia."
+          ]
+        },
+        {
+          "word": "midlife",
+          "ipa": "/ˈmɪdlaɪf/",
+          "def": "The middle years of a person's life",
+          "ex": [
+            "The study looked at three risk factors present in midlife.",
+            "He started running again in his midlife."
+          ]
+        },
+        {
+          "word": "risk factors",
+          "ipa": "/rɪsk ˈfæktərz/",
+          "def": "Things that make an illness more likely",
+          "ex": [
+            "The study looked at three risk factors: blood pressure, diabetes and smoking.",
+            "Doctors ask about risk factors before surgery."
+          ]
+        },
+        {
+          "word": "high blood pressure",
+          "ipa": "/haɪ blʌd ˈprɛʃər/",
+          "def": "Blood pushing too hard inside the body",
+          "ex": [
+            "High blood pressure was one of the three risks the study measured.",
+            "Too much salt can cause high blood pressure."
+          ]
+        },
+        {
+          "word": "diabetes",
+          "ipa": "/ˌdaɪəˈbiːtiːz/",
+          "def": "An illness in which blood sugar stays too high",
+          "ex": [
+            "Diabetes was one of the three conditions linked to dementia risk.",
+            "Her uncle manages his diabetes with diet and medicine."
+          ]
+        },
+        {
+          "word": "smoking",
+          "ipa": "/ˈsmoʊkɪŋ/",
+          "def": "The habit of using cigarettes",
+          "ex": [
+            "Smoking was the third risk factor in the study.",
+            "Smoking is not allowed inside the restaurant."
+          ]
+        },
+        {
+          "word": "develop",
+          "ipa": "/dɪˈvɛləp/",
+          "def": "To begin to have an illness",
+          "ex": [
+            "People with all three risks were more likely to develop dementia.",
+            "Some plants develop mold if they stay too wet."
+          ]
+        },
+        {
+          "word": "pattern",
+          "ipa": "/ˈpætərn/",
+          "def": "A result that repeats in the same way",
+          "ex": [
+            "The same pattern came through for both men and women.",
+            "The teacher noticed a pattern in the students' mistakes."
+          ]
+        },
+        {
+          "word": "observational",
+          "ipa": "/əbˌzɜrvˈeɪʃənəl/",
+          "def": "Watching what happens without changing it",
+          "ex": [
+            "This is observational work, so it watched people without changing their lives.",
+            "Observational research does not control what people eat or do."
+          ]
+        },
+        {
+          "word": "raised",
+          "ipa": "/reɪzd/",
+          "def": "Higher than the normal level",
+          "ex": [
+            "Some adults in the study already had raised blood pressure.",
+            "A fever means your body temperature is raised."
+          ]
+        },
+        {
+          "word": "genes",
+          "ipa": "/dʒiːnz/",
+          "def": "Instructions passed down from your parents",
+          "ex": [
+            "Genes may shape health as well as habits.",
+            "Eye color is decided mostly by genes."
+          ]
+        },
+        {
+          "word": "gap",
+          "ipa": "/gæp/",
+          "def": "The space or difference between two things",
+          "ex": [
+            "The gap between the two groups adds up to roughly 13 years.",
+            "There is a big gap in price between the two phones."
+          ]
+        },
+        {
+          "word": "middle age",
+          "ipa": "/ˈmɪdəl eɪdʒ/",
+          "def": "The years between about 45 and 65",
+          "ex": [
+            "The three conditions are the ones doctors already treat in middle age.",
+            "He took up swimming in middle age."
+          ]
+        },
+        {
+          "word": "decades",
+          "ipa": "/ˈdɛkeɪdz/",
+          "def": "Periods of ten years",
+          "ex": [
+            "The same risks sit beside dementia decades later.",
+            "The old bridge has stood for several decades."
+          ]
+        },
+        {
+          "word": "funders",
+          "ipa": "/ˈfʌndərz/",
+          "def": "The people who paid for the research",
+          "ex": [
+            "The funders of the study were the National Institutes of Health.",
+            "The charity thanked its funders at the event."
+          ]
+        },
+        {
+          "word": "cause",
+          "ipa": "/kɔz/",
+          "def": "The thing that makes something happen",
+          "ex": [
+            "The study cannot tell apart a real cause from a coincidence.",
+            "Doctors are still looking for the cause of the illness."
+          ]
+        },
+        {
+          "word": "coincidence",
+          "ipa": "/koʊˈɪnsɪdəns/",
+          "def": "Two things happening together by chance",
+          "ex": [
+            "The study cannot rule out coincidence as an explanation.",
+            "Meeting her there was pure coincidence."
+          ]
+        },
+        {
+          "word": "by",
+          "ipa": "/baɪ/",
+          "def": "Showing the size of a change",
+          "ex": [
+            "Nobody can say your own dementia risk will be pushed back by 13 years.",
+            "Prices went up by ten percent this year."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "The study took in more than 12,000 adults and followed them for about 26 years",
+          "a": true,
+          "why": "A long American study took in 12,409 adults who started off with no sign of dementia. Researchers kept track of them for about 26 years."
+        },
+        {
+          "s": "The gap between the two groups adds up to roughly 13 years",
+          "a": true,
+          "why": "The gap adds up to roughly 13 years."
+        },
+        {
+          "s": "The study can tell apart a cause from a coincidence",
+          "a": false,
+          "why": "It also cannot tell apart a real cause from a coincidence."
+        },
+        {
+          "s": "The study can single out which of the three factors matters most",
+          "a": false,
+          "why": "The three factors were measured together, so the study cannot single out which one matters most."
+        },
+        {
+          "s": "Adults with none of the three risks went on to live about 30 years without dementia",
+          "a": true,
+          "why": "Adults who had none of the three in middle age went on to live about 30 years without dementia after the study began."
+        },
+        {
+          "s": "The results were published in the journal Neurology on August 5",
+          "a": true,
+          "why": "the results were published in the journal Neurology on August 5"
+        }
+      ]
+    },
+    {
+      "id": "orchid-ai-relationship-ad-2026",
+      "number": 72,
+      "headline": "An ad about love upsets the internet",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n72-orchid-ai-relationship-ad-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "'You literally can't': AI startup Orchid sparks backlash over its 'second brain' assistant",
+          "url": "https://www.euronews.com/culture/2026/08/03/you-literally-cant-ai-startup-orchid-sparks-backlash-over-its-second-brain-assistant"
+        },
+        {
+          "title": "Orchid AI assistant launches, gets backlash for relationship ad",
+          "url": "https://www.fastcompany.com/91581882/orchid-ai-assistant-launches-gets-backlash-for-relationship-ad"
+        },
+        {
+          "title": "'Tech people need to stop': Startup faces backlash after suggesting its AI can save bad relationships",
+          "url": "https://tech.yahoo.com/ai/deals/articles/tech-people-stop-startup-faces-202000866.html"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "An argument {{kicked off}} on July 28, when a short [[advertisement]] for an AI [[assistant]] called Orchid appeared online. The app works by text message and {{sorts out}} small jobs: [[bookings]], [[reminders]], files. In the [[clip]], a man forgets his [[anniversary]] while he is playing a video game. His partner messages the assistant instead, and it {{stands in for}} him. It books a restaurant and sends lilies, because it remembers that she likes them better than roses.",
+          "verbs": [
+            {
+              "display": "kicked off",
+              "base": "kick off",
+              "correct": "To start suddenly and noisily",
+              "wrong": "To end a video with a joke",
+              "correctFirst": true
+            },
+            {
+              "display": "sorts out",
+              "base": "sort out",
+              "correct": "To deal with small tasks",
+              "wrong": "To reply to a message very fast",
+              "correctFirst": false
+            },
+            {
+              "display": "stands in for",
+              "base": "stand in for",
+              "correct": "To do something in place of someone",
+              "wrong": "To send flowers to a partner",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The video {{blew up}}. It reached 3.2 million [[views]] and more than 600 [[replies]] in a few days. Many people who had been ready to {{sign up}} {{turned on}} the company instead. The line that made people angriest was the assistant's own: \"You literally can't. That's why I'm here.\" Its [[critics]] said the app was selling a way to look [[thoughtful]] without doing any of the caring.",
+          "verbs": [
+            {
+              "display": "blew up",
+              "base": "blow up",
+              "correct": "To suddenly get a lot of attention",
+              "wrong": "To delete a post after an argument",
+              "correctFirst": false
+            },
+            {
+              "display": "sign up",
+              "base": "sign up",
+              "correct": "To join a service as a member",
+              "wrong": "To book a table at a restaurant",
+              "correctFirst": true
+            },
+            {
+              "display": "turned on",
+              "base": "turn on",
+              "correct": "To suddenly attack someone",
+              "wrong": "To share a video with a friend",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "A [[licensed therapist]] {{spoke out}} too. She warned that texting a machine instead of your partner is a form of [[triangulation]], where a third person {{cuts in}} on a conversation that two people should be having themselves. Some readers said the whole thing {{put off}} people who had planned to try the app. Others called it [[ragebait]], made to be shared in anger.",
+          "verbs": [
+            {
+              "display": "spoke out",
+              "base": "speak out",
+              "correct": "To say publicly what you think",
+              "wrong": "To answer a message in private",
+              "correctFirst": true
+            },
+            {
+              "display": "cuts in",
+              "base": "cut in",
+              "correct": "To interrupt and take a place",
+              "wrong": "To lower the price of an app",
+              "correctFirst": false
+            },
+            {
+              "display": "put off",
+              "base": "put off",
+              "correct": "To make someone lose interest",
+              "wrong": "To remind someone of a date",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The company has not {{backed down}}. It said it wanted a story built around a real situation rather than a normal product video, and it {{brushed off}} the criticism by leaving the clip online. A second advertisement, which claimed the app could check food for [[allergens]], was quietly deleted. The fight {{sums up}} a question the [[tech industry]] keeps running into: people will let software book a table, but they do not want it to do the caring for them.",
+          "verbs": [
+            {
+              "display": "backed down",
+              "base": "back down",
+              "correct": "To stop defending your position",
+              "wrong": "To repeat a claim more loudly",
+              "correctFirst": false
+            },
+            {
+              "display": "brushed off",
+              "base": "brush off",
+              "correct": "To treat something as unimportant",
+              "wrong": "To take a video off the internet",
+              "correctFirst": true
+            },
+            {
+              "display": "sums up",
+              "base": "sum up",
+              "correct": "To capture the whole of something",
+              "wrong": "To start a new argument online",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Kick off",
+          "ipa": "/kɪk ɔf/",
+          "def": "To start suddenly and noisily",
+          "ex": [
+            "The argument kicked off on July 28, when the ad appeared online.",
+            "The concert kicks off at eight o'clock.",
+            "A small joke kicked off a long argument between them."
+          ]
+        },
+        {
+          "verb": "Sort out",
+          "ipa": "/sɔrt aʊt/",
+          "def": "To deal with small tasks",
+          "ex": [
+            "The assistant sorts out small jobs like bookings and reminders.",
+            "I need to sort out my closet this weekend.",
+            "She sorted out the schedule before the meeting started."
+          ]
+        },
+        {
+          "verb": "Stand in for",
+          "ipa": "/stænd ɪn fɔr/",
+          "def": "To do something in place of someone",
+          "ex": [
+            "The AI assistant stands in for him and books the restaurant.",
+            "My sister stood in for me at the meeting yesterday.",
+            "A backup singer will stand in for the star tonight."
+          ]
+        },
+        {
+          "verb": "Blow up",
+          "ipa": "/bloʊ ʌp/",
+          "def": "To suddenly get a lot of attention",
+          "ex": [
+            "The video blew up and reached millions of views.",
+            "Her post about the recipe blew up overnight.",
+            "A single tweet can blow up in just a few hours."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "ipa": "/saɪn ʌp/",
+          "def": "To join a service as a member",
+          "ex": [
+            "Many people had been ready to sign up before the ad appeared.",
+            "You can sign up for the gym online.",
+            "She signed up for the class at the last minute."
+          ]
+        },
+        {
+          "verb": "Turn on",
+          "ipa": "/tɜrn ɑn/",
+          "def": "To suddenly attack someone",
+          "ex": [
+            "Many people who had planned to sign up turned on the company instead.",
+            "The crowd suddenly turned on the referee after the bad call.",
+            "His own team turned on him when the plan failed."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "ipa": "/spiːk aʊt/",
+          "def": "To say publicly what you think",
+          "ex": [
+            "A licensed therapist spoke out about the ad.",
+            "Employees spoke out against the unfair policy.",
+            "She finally spoke out after staying silent for years."
+          ]
+        },
+        {
+          "verb": "Cut in",
+          "ipa": "/kʌt ɪn/",
+          "def": "To interrupt and take a place",
+          "ex": [
+            "A third person cuts in on a conversation that two people should be having themselves.",
+            "He kept cutting in while she was trying to explain her idea.",
+            "Please do not cut in when someone else is speaking."
+          ]
+        },
+        {
+          "verb": "Put off",
+          "ipa": "/pʊt ɔf/",
+          "def": "To make someone lose interest",
+          "ex": [
+            "The whole thing put off people who had planned to try the app.",
+            "The bad reviews put off many customers.",
+            "Rude service can put off even loyal visitors."
+          ]
+        },
+        {
+          "verb": "Back down",
+          "ipa": "/bæk daʊn/",
+          "def": "To stop defending your position",
+          "ex": [
+            "The company has not backed down despite the criticism.",
+            "He refused to back down during the negotiation.",
+            "She backed down after hearing the new evidence."
+          ]
+        },
+        {
+          "verb": "Brush off",
+          "ipa": "/brʌʃ ɔf/",
+          "def": "To treat something as unimportant",
+          "ex": [
+            "The company brushed off the criticism by leaving the clip online.",
+            "He brushed off the warning and kept driving fast.",
+            "She brushed off the rumors and kept working."
+          ]
+        },
+        {
+          "verb": "Sum up",
+          "ipa": "/sʌm ʌp/",
+          "def": "To capture the whole of something",
+          "ex": [
+            "The fight sums up a question the tech industry keeps running into.",
+            "One photo sums up the whole trip perfectly.",
+            "Her speech summed up the team's whole year."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "advertisement",
+          "ipa": "/ˌædvərˈtaɪzmənt/",
+          "def": "A short film made to sell a product",
+          "ex": [
+            "A short advertisement for the AI assistant appeared online.",
+            "The company paid for an advertisement during the game."
+          ]
+        },
+        {
+          "word": "assistant",
+          "ipa": "/əˈsɪstənt/",
+          "def": "Something that helps you with daily jobs",
+          "ex": [
+            "The AI assistant is called Orchid.",
+            "My phone has a voice assistant built in."
+          ]
+        },
+        {
+          "word": "bookings",
+          "ipa": "/ˈbʊkɪŋz/",
+          "def": "Places or tables kept for you in advance",
+          "ex": [
+            "The assistant handles small jobs like bookings and reminders.",
+            "The restaurant took two hundred bookings for the weekend."
+          ]
+        },
+        {
+          "word": "reminders",
+          "ipa": "/rɪˈmaɪndərz/",
+          "def": "Notes that help you remember to do something",
+          "ex": [
+            "The app sends reminders for important dates.",
+            "I set reminders on my phone for every meeting."
+          ]
+        },
+        {
+          "word": "clip",
+          "ipa": "/klɪp/",
+          "def": "A very short piece of video",
+          "ex": [
+            "In the clip, a man forgets his anniversary.",
+            "She shared a funny clip from the show."
+          ]
+        },
+        {
+          "word": "anniversary",
+          "ipa": "/ˌænəˈvɜrsəri/",
+          "def": "The yearly date of an important event",
+          "ex": [
+            "A man forgets his anniversary while playing a video game.",
+            "They celebrated their tenth wedding anniversary last week."
+          ]
+        },
+        {
+          "word": "views",
+          "ipa": "/vjuːz/",
+          "def": "The number of times a video is watched",
+          "ex": [
+            "The video reached 3.2 million views in a few days.",
+            "Her channel gets thousands of views every day."
+          ]
+        },
+        {
+          "word": "replies",
+          "ipa": "/rɪˈplaɪz/",
+          "def": "Answers written under a public message",
+          "ex": [
+            "The video got more than 600 replies in a few days.",
+            "He read all the replies under his post."
+          ]
+        },
+        {
+          "word": "critics",
+          "ipa": "/ˈkrɪtɪks/",
+          "def": "People who say publicly what is wrong",
+          "ex": [
+            "The app's critics said it was selling fake care.",
+            "Critics gave the new movie mixed reviews."
+          ]
+        },
+        {
+          "word": "thoughtful",
+          "ipa": "/ˈθɔtfəl/",
+          "def": "Careful about the feelings of other people",
+          "ex": [
+            "The ad tried to look thoughtful without any real caring.",
+            "He wrote a thoughtful note to his sick friend."
+          ]
+        },
+        {
+          "word": "licensed therapist",
+          "ipa": "/ˈlaɪsənst ˈθɛrəpɪst/",
+          "def": "A trained expert allowed to treat the mind",
+          "ex": [
+            "A licensed therapist spoke out about the ad.",
+            "She saw a licensed therapist twice a month."
+          ]
+        },
+        {
+          "word": "triangulation",
+          "ipa": "/traɪˌæŋɡjəˈleɪʃən/",
+          "def": "Speaking through a third person, not directly",
+          "ex": [
+            "Texting a machine instead of your partner is a form of triangulation.",
+            "The counselor warned the family about triangulation during arguments."
+          ]
+        },
+        {
+          "word": "ragebait",
+          "ipa": "/ˈreɪdʒbeɪt/",
+          "def": "Content made to make people angry on purpose",
+          "ex": [
+            "Some readers called the ad pure ragebait.",
+            "The channel posts ragebait to get more clicks."
+          ]
+        },
+        {
+          "word": "allergens",
+          "ipa": "/ˈælərdʒənz/",
+          "def": "Foods that make some people sick",
+          "ex": [
+            "The second ad claimed the app could check food for allergens.",
+            "The label lists all the allergens in the recipe."
+          ]
+        },
+        {
+          "word": "tech industry",
+          "ipa": "/tɛk ˈɪndəstri/",
+          "def": "All the companies that make software and devices",
+          "ex": [
+            "The fight sums up a question the tech industry keeps facing.",
+            "The tech industry grows quickly every year."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "The argument kicked off on July 28",
+          "a": true,
+          "why": "An argument kicked off on July 28, when a short advertisement for an AI assistant called Orchid appeared online."
+        },
+        {
+          "s": "The video blew up and reached more than three million views",
+          "a": true,
+          "why": "It reached 3.2 million views and more than 600 replies in a few days."
+        },
+        {
+          "s": "A licensed therapist spoke out in support of the app",
+          "a": false,
+          "why": "A licensed therapist spoke out too. She warned that texting a machine instead of your partner is a form of triangulation."
+        },
+        {
+          "s": "The company backed down and deleted the anniversary advertisement",
+          "a": false,
+          "why": "The company has not backed down."
+        },
+        {
+          "s": "A second advertisement about food allergens was quietly deleted",
+          "a": true,
+          "why": "A second advertisement, which claimed the app could check food for allergens, was quietly deleted."
+        },
+        {
+          "s": "Some people turned on the company instead of signing up",
+          "a": true,
+          "why": "Many people who had been ready to sign up turned on the company instead."
+        }
+      ]
+    },
+    {
+      "id": "parmesan-heat-banks-2026",
+      "number": 71,
+      "headline": "Heat squeezes Italy's Parmesan cheese",
+      "badge": "General",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n71-parmesan-heat-banks-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Italy's $4.7 billion cheese economy is feeling the heat as climate change threatens its cheese banks",
+          "url": "https://fortune.com/2026/08/10/italy-5-billion-cheese-economy-heat-wave-climate-change/"
+        },
+        {
+          "title": "Italy's Parmesan Industry Under Pressure as Extreme Heat Cuts Milk Production",
+          "url": "https://greekreporter.com/2026/07/13/parmesan-heat-milk-production/"
+        },
+        {
+          "title": "Europe's 40C Heatwave Threatens Parmesan Cheese Production",
+          "url": "https://en.sedaily.com/international/2026/07/16/europes-40c-heatwave-threatens-parmesan-cheese-production"
+        },
+        {
+          "title": "Italy's cheese banks feel the heat (video, Reuters)",
+          "url": "https://www.youtube.com/watch?v=xRBX2BezRp8"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A long [[heatwave]] in northern Italy is {{cutting into}} the country's most famous cheese. When the air goes above 40 degrees Celsius, which is 104 Fahrenheit, [[dairy cows]] eat less and give [[up to]] ten [[percent]] less milk. Parmigiano Reggiano is made from that milk. The [[producers]] who {{stand behind}} the name sell about four [[billion]] euros of cheese a year, and a farmer cannot {{make up}} the milk that a hot summer {{takes away}}.",
+          "verbs": [
+            {
+              "display": "takes away",
+              "base": "take away",
+              "correct": "To remove something a person had",
+              "wrong": "To store cheese for a longer time",
+              "correctFirst": false
+            },
+            {
+              "display": "cutting into",
+              "base": "cut into",
+              "correct": "To reduce the amount of something",
+              "wrong": "To move milk from farm to dairy",
+              "correctFirst": true
+            },
+            {
+              "display": "stand behind",
+              "base": "stand behind",
+              "correct": "To support and protect something",
+              "wrong": "To wait for cheese to be ready",
+              "correctFirst": false
+            },
+            {
+              "display": "make up",
+              "base": "make up",
+              "correct": "To replace something that was lost",
+              "wrong": "To decide the price of a product",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The cheese also [[takes a long time]] to make. A [[wheel]] must [[sit]] for at least twelve months, and most are kept for two or three years. About four million wheels a year come from around 300 [[dairies]]. While a wheel waits in [[storage]], money has already {{gone out}} for [[feed]], work and power. No money {{comes in}} for years, so the costs {{pile up}}.",
+          "verbs": [
+            {
+              "display": "gone out",
+              "base": "go out",
+              "correct": "To be spent and leave the farm",
+              "wrong": "To be sold in another country",
+              "correctFirst": false
+            },
+            {
+              "display": "comes in",
+              "base": "come in",
+              "correct": "To arrive as money that is earned",
+              "wrong": "To join a group of producers",
+              "correctFirst": true
+            },
+            {
+              "display": "pile up",
+              "base": "pile up",
+              "correct": "To grow into a large amount",
+              "wrong": "To be counted at the end of a year",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "Italian banks {{thought up}} an answer to this a long time ago. One bank has accepted cheese as [[security]] for a loan since 1953. The farmer gives the bank his wheels, the bank {{puts away}} the cheese in a [[vault]], and the farmer {{takes out}} a [[loan]] worth 60 to 80 percent of what it is worth. One vault holds more than 500,000 wheels.",
+          "verbs": [
+            {
+              "display": "thought up",
+              "base": "think up",
+              "correct": "To invent a clever answer to a problem",
+              "wrong": "To copy an idea from another country",
+              "correctFirst": true
+            },
+            {
+              "display": "puts away",
+              "base": "put away",
+              "correct": "To store something in a safe place",
+              "wrong": "To sell cheese before it is ready",
+              "correctFirst": false
+            },
+            {
+              "display": "takes out",
+              "base": "take out",
+              "correct": "To arrange a loan from a bank",
+              "wrong": "To pay back money that is owed",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "So the weather now reaches the banks. Less milk means fewer wheels, and fewer wheels mean the banks are holding less. Keeping those vaults cool costs about 30 percent more [[electricity]] in the hottest weeks, and the Po River has {{dried up}} to under a third of its normal [[level]]. Farmers can still {{fall back on}} the loans and {{get by}}, but there is less money left at the end of the year.",
+          "verbs": [
+            {
+              "display": "dried up",
+              "base": "dry up",
+              "correct": "To lose most of its water",
+              "wrong": "To be measured twice each summer",
+              "correctFirst": false
+            },
+            {
+              "display": "fall back on",
+              "base": "fall back on",
+              "correct": "To use a support when all else fails",
+              "wrong": "To pay a loan later than agreed",
+              "correctFirst": true
+            },
+            {
+              "display": "get by",
+              "base": "get by",
+              "correct": "To have just enough money to live",
+              "wrong": "To sell a farm and leave the business",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Take away",
+          "ipa": "/teɪk əˈweɪ/",
+          "def": "To remove something a person had",
+          "ex": [
+            "A hot summer takes away much of the farmer's milk.",
+            "The waiter took away our plates after dinner.",
+            "Getting sick took away her energy for weeks."
+          ]
+        },
+        {
+          "verb": "Cut into",
+          "ipa": "/kʌt ˈɪntuː/",
+          "def": "To reduce the amount of something",
+          "ex": [
+            "The heatwave is cutting into Italy's cheese production.",
+            "Rising prices are cutting into our monthly budget.",
+            "The delay cut into the time we had for lunch."
+          ]
+        },
+        {
+          "verb": "Stand behind",
+          "ipa": "/stænd bɪˈhaɪnd/",
+          "def": "To support and protect something",
+          "ex": [
+            "The producers stand behind the Parmigiano Reggiano name.",
+            "This company stands behind every product it sells.",
+            "He stood behind his decision even when others disagreed."
+          ]
+        },
+        {
+          "verb": "Make up",
+          "ipa": "/meɪk ʌp/",
+          "def": "To replace something that was lost",
+          "ex": [
+            "A farmer cannot make up the milk lost in a hot summer.",
+            "She worked extra hours to make up the lost time.",
+            "He will make up the missed classes next week."
+          ]
+        },
+        {
+          "verb": "Go out",
+          "ipa": "/goʊ aʊt/",
+          "def": "To be spent and leave the farm",
+          "ex": [
+            "Money has already gone out for feed and power.",
+            "The rent check goes out on the first of the month.",
+            "Her paycheck went out to cover last month's bills."
+          ]
+        },
+        {
+          "verb": "Come in",
+          "ipa": "/kʌm ɪn/",
+          "def": "To arrive as money that is earned",
+          "ex": [
+            "No money comes in while the cheese sits in storage.",
+            "New income comes in every month from rent.",
+            "Payment finally came in after a long wait."
+          ]
+        },
+        {
+          "verb": "Pile up",
+          "ipa": "/paɪl ʌp/",
+          "def": "To grow into a large amount",
+          "ex": [
+            "The costs pile up while the cheese waits in storage.",
+            "Unpaid bills pile up quickly if you ignore them.",
+            "Emails piled up during her vacation."
+          ]
+        },
+        {
+          "verb": "Think up",
+          "ipa": "/θɪŋk ʌp/",
+          "def": "To invent a clever answer to a problem",
+          "ex": [
+            "Italian banks thought up an answer to the problem long ago.",
+            "The kids thought up a new game for the party.",
+            "Engineers thought up a clever fix for the leak."
+          ]
+        },
+        {
+          "verb": "Put away",
+          "ipa": "/pʊt əˈweɪ/",
+          "def": "To store something in a safe place",
+          "ex": [
+            "The bank puts away the cheese in a vault.",
+            "She puts away her savings every month.",
+            "He put away the tools in the garage."
+          ]
+        },
+        {
+          "verb": "Take out",
+          "ipa": "/teɪk aʊt/",
+          "def": "To arrange a loan from a bank",
+          "ex": [
+            "The farmer takes out a loan against his cheese.",
+            "They took out a loan to buy a new car.",
+            "She takes out a small loan every spring for seeds."
+          ]
+        },
+        {
+          "verb": "Dry up",
+          "ipa": "/draɪ ʌp/",
+          "def": "To lose most of its water",
+          "ex": [
+            "The Po River has dried up to a third of its normal level.",
+            "The pond dried up during the summer heat.",
+            "Streams dry up fast when there is no rain."
+          ]
+        },
+        {
+          "verb": "Fall back on",
+          "ipa": "/fɔl bæk ɑn/",
+          "def": "To use a support when all else fails",
+          "ex": [
+            "Farmers can still fall back on the bank loans.",
+            "He fell back on his savings when work slowed down.",
+            "You can always fall back on a simple plan."
+          ]
+        },
+        {
+          "verb": "Get by",
+          "ipa": "/gɛt baɪ/",
+          "def": "To have just enough money to live",
+          "ex": [
+            "Farmers can still get by, even with less money.",
+            "They get by on a small salary.",
+            "We managed to get by during the hard years."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "heatwave",
+          "ipa": "/ˈhiːtweɪv/",
+          "def": "A long period of unusually hot weather",
+          "ex": [
+            "A long heatwave in northern Italy is hurting cheese production.",
+            "The whole city suffered through a summer heatwave."
+          ]
+        },
+        {
+          "word": "dairy cows",
+          "ipa": "/ˈdɛri kaʊz/",
+          "def": "Cows kept for their milk",
+          "ex": [
+            "Dairy cows eat less in extreme heat.",
+            "The farm keeps forty dairy cows in the north field."
+          ]
+        },
+        {
+          "word": "producers",
+          "ipa": "/prəˈduːsərz/",
+          "def": "The people who make a product",
+          "ex": [
+            "The producers who stand behind the name sell billions of euros of cheese.",
+            "Local producers sell their goods at the market."
+          ]
+        },
+        {
+          "word": "wheel",
+          "ipa": "/wiːl/",
+          "def": "One large round block of hard cheese",
+          "ex": [
+            "A wheel of cheese must sit for at least twelve months.",
+            "He rolled a huge wheel of cheese onto the truck."
+          ]
+        },
+        {
+          "word": "dairies",
+          "ipa": "/ˈdɛriz/",
+          "def": "Farms that make milk into cheese or butter",
+          "ex": [
+            "About 300 dairies make the cheese each year.",
+            "Small dairies in the valley sell fresh milk locally."
+          ]
+        },
+        {
+          "word": "storage",
+          "ipa": "/ˈstɔrɪdʒ/",
+          "def": "A place where goods are kept safely",
+          "ex": [
+            "While a wheel waits in storage, costs keep rising.",
+            "We keep old furniture in storage."
+          ]
+        },
+        {
+          "word": "feed",
+          "ipa": "/fiːd/",
+          "def": "Food grown or bought for farm animals",
+          "ex": [
+            "Money goes out for feed before the cheese is ready.",
+            "The farmer bought more feed for the winter."
+          ]
+        },
+        {
+          "word": "security",
+          "ipa": "/sɪˈkjʊrəti/",
+          "def": "Something a lender can take if a loan fails",
+          "ex": [
+            "The bank accepts cheese wheels as security for a loan.",
+            "The house serves as security for the mortgage."
+          ]
+        },
+        {
+          "word": "vault",
+          "ipa": "/vɔlt/",
+          "def": "A strong locked room used for storage",
+          "ex": [
+            "The bank stores the cheese in a huge vault.",
+            "The jewels were locked inside a bank vault."
+          ]
+        },
+        {
+          "word": "electricity",
+          "ipa": "/ɪˌlɛkˈtrɪsəti/",
+          "def": "The power that runs lights and machines",
+          "ex": [
+            "Cooling the vaults costs more electricity in hot weeks.",
+            "Electricity prices rise every summer."
+          ]
+        },
+        {
+          "word": "level",
+          "ipa": "/ˈlɛvəl/",
+          "def": "How high or low something is",
+          "ex": [
+            "The river has dropped to a third of its normal level.",
+            "The water level in the lake fell sharply."
+          ]
+        },
+        {
+          "word": "loan",
+          "ipa": "/loʊn/",
+          "def": "Money borrowed that must be paid back",
+          "ex": [
+            "The farmer takes out a loan using his cheese as security.",
+            "She paid off her car loan early."
+          ]
+        },
+        {
+          "word": "billion",
+          "ipa": "/ˈbɪljən/",
+          "def": "One thousand million",
+          "ex": [
+            "Producers sell about four billion euros of cheese a year.",
+            "The company is worth two billion dollars."
+          ]
+        },
+        {
+          "word": "percent",
+          "ipa": "/pərˈsɛnt/",
+          "def": "A part out of every hundred",
+          "ex": [
+            "Hot cows can give ten percent less milk.",
+            "Prices rose five percent last year."
+          ]
+        },
+        {
+          "word": "up to",
+          "ipa": "/ʌp tuː/",
+          "def": "As many as, but not more than",
+          "ex": [
+            "In the heat, cows give up to ten percent less milk.",
+            "The elevator can carry up to eight people."
+          ]
+        },
+        {
+          "word": "takes a long time",
+          "ipa": "/teɪks ə lɔŋ taɪm/",
+          "def": "Needs many months or years",
+          "ex": [
+            "The cheese also takes a long time to make.",
+            "Learning a new language takes a long time."
+          ]
+        },
+        {
+          "word": "sit",
+          "ipa": "/sɪt/",
+          "def": "To stay in one place without being used",
+          "ex": [
+            "A wheel of cheese must sit for at least twelve months.",
+            "The wine will sit in the cellar for another year to age properly."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "The heatwave is cutting into Italy's Parmesan production",
+          "a": true,
+          "why": "A long heatwave in northern Italy is cutting into the country's most famous cheese."
+        },
+        {
+          "s": "A farmer can make up the milk that a hot summer takes away",
+          "a": false,
+          "why": "a farmer cannot make up the milk that a hot summer takes away"
+        },
+        {
+          "s": "A wheel of the cheese must sit for at least twelve months",
+          "a": true,
+          "why": "A wheel must sit for at least twelve months, and most are kept for two or three years."
+        },
+        {
+          "s": "The bank puts away the cheese in a vault",
+          "a": true,
+          "why": "the bank puts away the cheese in a vault"
+        },
+        {
+          "s": "A farmer takes out a loan worth the full value of the cheese",
+          "a": false,
+          "why": "the farmer takes out a loan worth 60 to 80 percent of what it is worth"
+        },
+        {
+          "s": "The Po River has dried up to under a third of its normal level",
+          "a": true,
+          "why": "the Po River has dried up to under a third of its normal level"
+        }
+      ]
+    },
+    {
+      "id": "ai-designed-virus-2026",
+      "number": 70,
+      "headline": "AI designs viruses that kill bacteria",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n70-ai-designed-virus-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "AI used to create viruses not found in nature for first time",
+          "url": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time"
+        },
+        {
+          "title": "AI designs synthetic virus in scientific first, raising biosecurity concerns",
+          "url": "https://www.axios.com/2026/08/06/ai-virus-designed-bacteria-viruses"
+        },
+        {
+          "title": "Stanford scientists just used AI to build a virus to target E. coli",
+          "url": "https://globalnews.ca/news/12013346/stanford-ai-virus/"
+        },
+        {
+          "title": "Scientists create new viruses with AI, raising alarms about the future of biosecurity (video, CBS News)",
+          "url": "https://www.youtube.com/watch?v=EdbSZMpJq8A"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Researchers at Stanford University trained an AI model on millions of [[genomes]] from across nature. They {{built on}} one real virus as a [[template]] and asked the model for new ones. It {{churned out}} thousands of designs. About 300 were {{tried out}} in a [[lab]], and 16 of them worked. The [[study]] {{came out}} in the journal Science on August 6 and was [[peer-reviewed]].",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To be published for the first time",
+              "wrong": "To pass a safety check successfully",
+              "correctFirst": false
+            },
+            {
+              "display": "built on",
+              "base": "build on",
+              "correct": "To use an older thing as a base",
+              "wrong": "To grow bacteria in a warm dish",
+              "correctFirst": true
+            },
+            {
+              "display": "churned out",
+              "base": "churn out",
+              "correct": "To produce a great many quickly",
+              "wrong": "To copy a design without changing it",
+              "correctFirst": false
+            },
+            {
+              "display": "tried out",
+              "base": "try out",
+              "correct": "To test something to see if it works",
+              "wrong": "To remove a design from a list",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The new viruses are [[phages]], which attack [[bacteria]] and are [[harmless]] to people. Phages {{go after}} one kind of germ and leave the rest alone. In the lab these ones {{wiped out}} E. coli, including [[strains]] that a natural phage cannot kill. Doctors hope the method will {{break through}} where [[antibiotics]] no longer work. The tests were run on cells in dishes, not in animals and not in people.",
+          "verbs": [
+            {
+              "display": "wiped out",
+              "base": "wipe out",
+              "correct": "To destroy something completely",
+              "wrong": "To count the bacteria in a dish",
+              "correctFirst": false
+            },
+            {
+              "display": "go after",
+              "base": "go after",
+              "correct": "To chase and attack something",
+              "wrong": "To live safely beside another germ",
+              "correctFirst": true
+            },
+            {
+              "display": "break through",
+              "base": "break through",
+              "correct": "To succeed where others have failed",
+              "wrong": "To repeat a result in a second lab",
+              "correctFirst": false
+            }
+          ]
+        },
+        {
+          "text": "A [[commentary]] printed beside the study said the tools to write a viral genome now exist while the rules to control them do not. Biosecurity experts {{called for}} limits before the method spreads. The team says it {{left out}} viruses that [[infect]] humans when it trained the model, so the system has never seen one. Governments have not yet {{drawn up}} rules of their own.",
+          "verbs": [
+            {
+              "display": "called for",
+              "base": "call for",
+              "correct": "To ask publicly for something",
+              "wrong": "To warn about a danger in private",
+              "correctFirst": true
+            },
+            {
+              "display": "left out",
+              "base": "leave out",
+              "correct": "To not include something on purpose",
+              "wrong": "To stop using an older method",
+              "correctFirst": false
+            },
+            {
+              "display": "drawn up",
+              "base": "draw up",
+              "correct": "To write an official document",
+              "wrong": "To argue against a new rule",
+              "correctFirst": true
+            }
+          ]
+        },
+        {
+          "text": "The argument is about speed. Written rules {{fall behind}} laboratory work that moves this fast. Some scientists want to {{rein in}} the most powerful models until safety checks exist, and others want governments to {{clamp down}} on who is allowed to use them. But [[drug-resistant]] bacteria already kill more than a million people a year, so waiting also has a [[price]].",
+          "verbs": [
+            {
+              "display": "fall behind",
+              "base": "fall behind",
+              "correct": "To move more slowly than something",
+              "wrong": "To lose support from other scientists",
+              "correctFirst": false
+            },
+            {
+              "display": "rein in",
+              "base": "rein in",
+              "correct": "To slow something down on purpose",
+              "wrong": "To share a model with other labs",
+              "correctFirst": true
+            },
+            {
+              "display": "clamp down",
+              "base": "clamp down",
+              "correct": "To make strict rules against something",
+              "wrong": "To publish a study before checking it",
+              "correctFirst": false
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come out",
+          "ipa": "/kʌm aʊt/",
+          "def": "To be published for the first time",
+          "ex": [
+            "The study came out in the journal Science.",
+            "Her book comes out next spring.",
+            "The results came out on a Friday morning."
+          ]
+        },
+        {
+          "verb": "Build on",
+          "ipa": "/bɪld ɑn/",
+          "def": "To use an older thing as a base",
+          "ex": [
+            "They built on one real virus as a template.",
+            "The team builds on work done ten years ago.",
+            "Each new study builds on the last one."
+          ]
+        },
+        {
+          "verb": "Churn out",
+          "ipa": "/tʃɜrn aʊt/",
+          "def": "To produce a great many quickly",
+          "ex": [
+            "The model churned out thousands of designs.",
+            "The factory churns out parts all night.",
+            "She churned out three reports in one week."
+          ]
+        },
+        {
+          "verb": "Try out",
+          "ipa": "/traɪ aʊt/",
+          "def": "To test something to see if it works",
+          "ex": [
+            "About 300 designs were tried out in a lab.",
+            "He tried out the new software at home.",
+            "They try out every idea before using it."
+          ]
+        },
+        {
+          "verb": "Wipe out",
+          "ipa": "/waɪp aʊt/",
+          "def": "To destroy something completely",
+          "ex": [
+            "The phages wiped out E. coli in the lab.",
+            "One cold winter wiped out the whole crop.",
+            "A single mistake can wipe out years of work."
+          ]
+        },
+        {
+          "verb": "Go after",
+          "ipa": "/ɡoʊ ˈæftər/",
+          "def": "To chase and attack something",
+          "ex": [
+            "Phages go after one kind of germ.",
+            "The medicine goes after the illness directly.",
+            "Police went after the stolen truck."
+          ]
+        },
+        {
+          "verb": "Break through",
+          "ipa": "/breɪk θruː/",
+          "def": "To succeed where others have failed",
+          "ex": [
+            "Doctors hope the method will break through where antibiotics fail.",
+            "The team finally broke through after ten years.",
+            "New tools often break through old limits."
+          ]
+        },
+        {
+          "verb": "Call for",
+          "ipa": "/kɔl fɔr/",
+          "def": "To ask publicly for something",
+          "ex": [
+            "Experts called for limits before the method spreads.",
+            "Doctors are calling for clearer rules.",
+            "The report calls for more careful testing."
+          ]
+        },
+        {
+          "verb": "Leave out",
+          "ipa": "/liːv aʊt/",
+          "def": "To not include something on purpose",
+          "ex": [
+            "The team left out viruses that infect humans.",
+            "He left out the most important detail.",
+            "Please do not leave out any of the numbers."
+          ]
+        },
+        {
+          "verb": "Draw up",
+          "ipa": "/drɔ ʌp/",
+          "def": "To write an official document",
+          "ex": [
+            "Governments have not yet drawn up rules of their own.",
+            "The lawyers drew up a short agreement.",
+            "They will draw up a plan by Friday."
+          ]
+        },
+        {
+          "verb": "Fall behind",
+          "ipa": "/fɔl bɪˈhaɪnd/",
+          "def": "To move more slowly than something",
+          "ex": [
+            "Written rules fall behind laboratory work.",
+            "Older machines fall behind newer ones quickly.",
+            "He fell behind the rest of the class."
+          ]
+        },
+        {
+          "verb": "Rein in",
+          "ipa": "/reɪn ɪn/",
+          "def": "To slow something down on purpose",
+          "ex": [
+            "Some scientists want to rein in the most powerful models.",
+            "The company reined in its spending.",
+            "Nobody has tried to rein in this technology yet."
+          ]
+        },
+        {
+          "verb": "Clamp down",
+          "ipa": "/klæmp daʊn/",
+          "def": "To make strict rules against something",
+          "ex": [
+            "Others want governments to clamp down on who can use them.",
+            "The city clamped down on late-night noise.",
+            "Schools have clamped down on cheating."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "genomes",
+          "ipa": "/ˈdʒiːnoʊmz/",
+          "def": "The full set of instructions inside a living thing",
+          "ex": [
+            "Scientists compared the genomes of two germs.",
+            "The model read millions of genomes."
+          ]
+        },
+        {
+          "word": "template",
+          "ipa": "/ˈtɛmplət/",
+          "def": "A first example that others copy",
+          "ex": [
+            "They used one real virus as a template.",
+            "The letter follows a simple template."
+          ]
+        },
+        {
+          "word": "lab",
+          "ipa": "/læb/",
+          "def": "A room where scientists do their tests",
+          "ex": [
+            "About 300 designs were built in a lab.",
+            "She works in a hospital lab."
+          ]
+        },
+        {
+          "word": "study",
+          "ipa": "/ˈstʌdi/",
+          "def": "A careful piece of scientific work",
+          "ex": [
+            "The study came out in August.",
+            "A new study says the opposite."
+          ]
+        },
+        {
+          "word": "peer-reviewed",
+          "ipa": "/pɪr rɪˈvjuːd/",
+          "def": "Checked by other scientists before printing",
+          "ex": [
+            "The work was peer-reviewed before printing.",
+            "A peer-reviewed paper carries more weight."
+          ]
+        },
+        {
+          "word": "phages",
+          "ipa": "/ˈfeɪdʒɪz/",
+          "def": "Tiny viruses that attack bacteria only",
+          "ex": [
+            "Phages attack bacteria and not people.",
+            "These phages killed E. coli."
+          ]
+        },
+        {
+          "word": "bacteria",
+          "ipa": "/bækˈtɪriə/",
+          "def": "Very small living things that can cause illness",
+          "ex": [
+            "Some bacteria cause serious illness.",
+            "The bacteria grew quickly in the dish."
+          ]
+        },
+        {
+          "word": "harmless",
+          "ipa": "/ˈhɑrmləs/",
+          "def": "Not able to cause any damage",
+          "ex": [
+            "The new viruses are harmless to people.",
+            "The insect looks scary but is harmless."
+          ]
+        },
+        {
+          "word": "strains",
+          "ipa": "/streɪnz/",
+          "def": "Slightly different types of the same germ",
+          "ex": [
+            "Some strains resist every medicine.",
+            "Two strains of the germ were tested."
+          ]
+        },
+        {
+          "word": "antibiotics",
+          "ipa": "/ˌæntibaɪˈɑtɪks/",
+          "def": "Medicines that kill bacteria",
+          "ex": [
+            "Antibiotics no longer kill this germ.",
+            "Doctors give antibiotics for some infections."
+          ]
+        },
+        {
+          "word": "commentary",
+          "ipa": "/ˈkɑmənˌtɛri/",
+          "def": "A short expert opinion printed beside a study",
+          "ex": [
+            "A commentary was printed beside the study.",
+            "Her commentary warned about the risks."
+          ]
+        },
+        {
+          "word": "infect",
+          "ipa": "/ɪnˈfɛkt/",
+          "def": "To pass an illness into a living thing",
+          "ex": [
+            "These viruses do not infect humans.",
+            "One sick child can infect a whole class."
+          ]
+        },
+        {
+          "word": "drug-resistant",
+          "ipa": "/drʌɡ rɪˈzɪstənt/",
+          "def": "No longer killed by normal medicine",
+          "ex": [
+            "Drug-resistant bacteria kill a million people a year.",
+            "The hospital found a drug-resistant strain."
+          ]
+        },
+        {
+          "word": "price",
+          "ipa": "/praɪs/",
+          "def": "What something costs you in the end",
+          "ex": [
+            "Waiting also has a price.",
+            "Safety comes at a price."
+          ]
+        }
+      ],
+      "tf": [
+        {
+          "s": "The model churned out thousands of virus designs",
+          "a": true,
+          "why": "It churned out thousands of designs."
+        },
+        {
+          "s": "All 300 designs that were tried out in the lab worked",
+          "a": false,
+          "why": "About 300 were tried out in a lab, and 16 of them worked."
+        },
+        {
+          "s": "The new phages wiped out E. coli in the lab",
+          "a": true,
+          "why": "In the lab these ones wiped out E. coli, including strains that a natural phage cannot kill."
+        },
+        {
+          "s": "The team left out viruses that infect humans when it trained the model",
+          "a": true,
+          "why": "The team says it left out viruses that infect humans when it trained the model, so the system has never seen one."
+        },
+        {
+          "s": "Governments have already drawn up rules for this kind of work",
+          "a": false,
+          "why": "Governments have not yet drawn up rules of their own."
+        },
+        {
+          "s": "Some scientists want to rein in the most powerful models",
+          "a": true,
+          "why": "Some scientists want to rein in the most powerful models until safety checks exist."
+        }
+      ]
+    },
+    {
       "id": "looksmaxxing-young-men-2026",
       "number": 69,
       "headline": "Doctors warn about looksmaxxing",
