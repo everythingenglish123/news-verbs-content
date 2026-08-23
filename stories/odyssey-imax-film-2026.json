@@ -1,1 +1,525 @@
-{"id": "odyssey-imax-film-2026", "number": 53, "headline": "A film of the Odyssey fills movie theaters", "badge": "Entertainment", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n53-odyssey-imax-film-2026-flat.webp", "position": "center 40%", "sources": [{"title": "Box Office: 'The Odyssey' Soars to $652 Million Globally After Two Weekends, Including $140 Million in Imax", "url": "https://variety.com/2026/film/box-office/the-odyssey-global-box-office-600-million-imax-1236821428/"}, {"title": "'The Odyssey' extends stay in 70mm Imax theaters as shows sell out weeks in advance", "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html"}, {"title": "Coveted 'The Odyssey' IMAX 70mm Screenings Extended After Weeks Of Sold Out Showings", "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/30/coveted-the-odyssey-imax-70mm-screenings-extended-after-weeks-of-sold-out-showings/"}, {"title": "'The Odyssey' drives summer box office boom through rare IMAX 70mm screenings (video, FOX 5 New York)", "url": "https://www.youtube.com/watch?v=enkP2gVJ-Fg"}], "chunks": [{"text": "The Odyssey is a Greek [[poem]] about 2,800 years old. A film of it has become the biggest movie story of the summer. It {{came out}} on July 17, [[directed]] by Christopher Nolan with Matt Damon as Odysseus, and had {{raked in}} about 652 million dollars [[worldwide]] after only two weekends. About 140 million of that came from IMAX screens alone, which is unusual, because IMAX normally {{makes up}} a small [[share]] of any film's [[earnings]].", "verbs": [{"display": "came out", "base": "come out", "correct": "To be released to the public", "wrong": "To be shown in only a few theaters", "correctFirst": false}, {"display": "raked in", "base": "rake in", "correct": "To earn a lot of money", "wrong": "To spend a lot of money on ads", "correctFirst": false}, {"display": "makes up", "base": "make up", "correct": "To form a part of a whole", "wrong": "To recover money that was lost", "correctFirst": true}]}, {"text": "The reason is the way it was filmed. This is the first full length film [[shot]] entirely on IMAX film cameras, using more than two million feet of [[70mm]] film. Those cameras are heavy, noisy and rare, so most directors {{stay away from}} them and film [[digitally]] instead. The reward is a picture with [[far more]] detail than an ordinary movie image, and one that fills a tall screen [[from top to bottom]] rather than filling only a wide strip across the middle.", "verbs": [{"display": "stay away from", "base": "stay away from", "correct": "To avoid using something", "wrong": "To be unable to pay for something", "correctFirst": true}]}, {"text": "The problem is that [[hardly anywhere]] can show it that way. Only about 25 theaters in the whole United States can [[project]] 70mm IMAX. Seats at those [[screenings]] {{sold out}} [[as much as]] seven weeks ahead. One theater [[chain]] had to {{set up}} a digital [[waiting list]] on its app when new tickets were released. Some people flew hundreds of miles to reach a screen. On July 30 the [[studio]] {{gave in}} to the [[demand]] and [[extended]] the 70mm [[run]] by a month, to September 16.", "verbs": [{"display": "sold out", "base": "sell out", "correct": "To be completely sold", "wrong": "To be offered for sale early", "correctFirst": false}, {"display": "set up", "base": "set up", "correct": "To create or arrange", "wrong": "To make a system work faster", "correctFirst": true}, {"display": "gave in", "base": "give in", "correct": "To agree after resisting", "wrong": "To refuse a request politely", "correctFirst": false}]}, {"text": "The money is not really the interesting part. A story that people have been {{passing down}} since before writing was even common has {{filled up}} theaters in 2026. [[Audiences]] {{lined up}} to see it in the oldest [[format]] available, not the newest one. Whether other studios now {{take up}} film cameras again is a separate question, and an expensive one, because only [[a handful of]] these cameras exist anywhere in the world.", "verbs": [{"display": "passing down", "base": "pass down", "correct": "To give to later generations", "wrong": "To perform live for large audiences", "correctFirst": true}, {"display": "filled up", "base": "fill up", "correct": "To make completely full", "wrong": "To open more screens in a city", "correctFirst": false}, {"display": "lined up", "base": "line up", "correct": "To wait in a line", "wrong": "To buy a better seat", "correctFirst": true}, {"display": "take up", "base": "take up", "correct": "To start using again", "wrong": "To take control of a company", "correctFirst": false}]}], "vocab": [{"verb": "Come out", "ipa": "/kʌm aʊt/", "def": "To be released to the public", "ex": ["The sequel comes out early next year.", "A new version comes out next year.", "Their album came out without any warning."]}, {"verb": "Rake in", "ipa": "/reɪk ɪn/", "def": "To earn a lot of money", "ex": ["The bakery rakes in extra cash during the holidays.", "Small cafes rake in cash during festivals.", "That single film has raked in a fortune."]}, {"verb": "Make up", "ipa": "/meɪk ʌp/", "def": "To form a part of a whole", "ex": ["Students make up nearly half of the gym members.", "Water makes up most of the human body.", "Imports made up a quarter of all sales."]}, {"verb": "Stay away from", "ipa": "/steɪ əˈweɪ frəm/", "def": "To avoid using something", "ex": ["Most bakers stay away from cheap butter.", "She stays away from sugar completely.", "He stayed away from the old machines."]}, {"verb": "Sell out", "ipa": "/sɛl aʊt/", "def": "To be completely sold", "ex": ["The new sneakers sold out within an hour.", "Tickets always sell out before June.", "The first show had sold out by Tuesday."]}, {"verb": "Set up", "ipa": "/sɛt ʌp/", "def": "To create or arrange", "ex": ["They set up a tent before the rain started.", "The city sets up a market every Sunday.", "He set up a fund for young players."]}, {"verb": "Give in", "ipa": "/ɡɪv ɪn/", "def": "To agree after resisting", "ex": ["He finally gave in and bought the ticket.", "She never gives in to pressure.", "They gave in and lowered the price."]}, {"verb": "Pass down", "ipa": "/pæs daʊn/", "def": "To give to later generations", "ex": ["Grandma passed down her old recipes to us.", "Families pass down these songs.", "He passed down the workshop to his daughter."]}, {"verb": "Fill up", "ipa": "/fɪl ʌp/", "def": "To make completely full", "ex": ["The stadium filled up an hour before kickoff.", "Buses fill up quickly in the morning.", "Rain has filled up the reservoir."]}, {"verb": "Line up", "ipa": "/laɪn ʌp/", "def": "To wait in a line", "ex": ["Shoppers lined up outside before the store opened.", "People line up here for tickets.", "We lined up in the cold for an hour."]}, {"verb": "Take up", "ipa": "/teɪk ʌp/", "def": "To start using again", "ex": ["The studio may take up hand-painted sets again.", "She took up the piano after twenty years.", "They may take up the old method again."]}], "wordDefs": [{"word": "poem", "ipa": "/ˈpoʊəm/", "def": "Writing arranged in lines", "ex": ["She memorized a poem for the school contest.", "Children learn the poem at school.", "He wrote a short poem for her birthday."]}, {"word": "directed", "ipa": "/dəˈrɛktɪd/", "def": "Guided the making of a film", "ex": ["He directed a documentary about small farms.", "The movie was directed by a newcomer.", "She directed her first play last spring."]}, {"word": "worldwide", "ipa": "/wərlˈdwaɪd/", "def": "Across the whole world", "ex": ["The brand is known worldwide for its shoes.", "Worldwide sales passed a billion last year.", "The event was streamed worldwide on television."]}, {"word": "share", "ipa": "/ʃɛər/", "def": "A part of a total", "ex": ["He owns a small share of the company.", "Each region gets an equal share.", "Her share of the bill was ten dollars."]}, {"word": "earnings", "ipa": "/ˈərnɪŋz/", "def": "Money a movie or business receives", "ex": ["The store's earnings grew every quarter.", "The earnings surprised everyone at the meeting.", "Earnings dropped sharply during the slow season."]}, {"word": "shot", "ipa": "/ʃɑt/", "def": "Filmed with a camera", "ex": ["The wedding video was shot in one day.", "Most of it was shot outdoors.", "The commercial was shot early in the morning."]}, {"word": "70mm", "ipa": "/ˈsɛvənti ˌmɪləˈmiːtər/", "def": "A wide, very high quality film size", "ex": ["The museum keeps an old 70mm projector.", "Only a few theaters can show 70mm.", "He collects old 70mm film reels."]}, {"word": "digitally", "ipa": "/ˈdɪdʒətəli/", "def": "Recorded as computer data", "ex": ["The photos were stored digitally on a drive.", "The concert was recorded digitally for the archive.", "Most homework is submitted digitally now."]}, {"word": "project", "ipa": "/ˈprɑdʒɛkt/", "def": "To throw a picture onto a screen", "ex": ["The teacher will project the slides on the wall.", "Old machines still project real film today.", "They project the map onto the classroom wall."]}, {"word": "screenings", "ipa": "/ˈskriːnɪŋz/", "def": "Showings of a film", "ex": ["Extra screenings were added for the weekend.", "Both screenings were completely full by noon.", "The festival added late night screenings this year."]}, {"word": "chain", "ipa": "/tʃeɪn/", "def": "A group of shops under one owner", "ex": ["A coffee chain opened near the station.", "The chain owns forty stores across the state.", "The hotel chain added a new location downtown."]}, {"word": "waiting list", "ipa": "/ˈweɪtɪŋ lɪst/", "def": "A list of people waiting for a turn", "ex": ["He added his name to the waiting list.", "The waiting list ran to two thousand.", "She finally got off the waiting list this week."]}, {"word": "studio", "ipa": "/ˈstuːdioʊ/", "def": "A company that makes films", "ex": ["The studio announced a sequel for next year.", "Another studio wanted the story for itself.", "The small studio released three films this year."]}, {"word": "demand", "ipa": "/dɪˈmænd/", "def": "How much people want something", "ex": ["Demand for the new shoes surprised the store.", "Prices rise fast when demand grows quickly.", "The factory could not meet the sudden demand."]}, {"word": "extended", "ipa": "/ɪkˈstɛndɪd/", "def": "Made longer in time", "ex": ["The library extended its hours for exam week.", "They extended the deadline twice last month.", "The airline extended the sale through the weekend."]}, {"word": "run", "ipa": "/rʌn/", "def": "The period a film is shown", "ex": ["The play's run ended after ten weeks.", "A short run sold out at once.", "The show's run was extended twice this year."]}, {"word": "audiences", "ipa": "/ˈɑdiənsəz/", "def": "Groups of people watching", "ex": ["Audiences laughed through the whole performance.", "Younger audiences often find it online instead.", "Audiences clapped loudly at the final scene."]}, {"word": "format", "ipa": "/ˈfɔːrmæt/", "def": "The form something is presented in", "ex": ["The magazine changed its format last year.", "Each format needs a different machine.", "They released the album in a new format."]}, {"word": "far more", "def": "Much more than something else", "ex": ["This laptop costs far more than the old one.", "She has far more experience than the new hire.", "The bridge took far more time to build than planned."]}, {"word": "from top to bottom", "def": "Over the whole length, completely", "ex": ["They cleaned the house from top to bottom before the guests arrived.", "He painted the fence from top to bottom in one afternoon.", "The team checked the report from top to bottom for errors."]}, {"word": "hardly anywhere", "def": "Almost nowhere at all", "ex": ["On Sundays you can find parking hardly anywhere downtown.", "During the storm, buses ran hardly anywhere in the city.", "That old song plays hardly anywhere on the radio now."]}, {"word": "as much as", "def": "As high as, showing a surprising amount", "ex": ["The repair cost as much as a new bicycle.", "Rent here can rise as much as ten percent a year.", "He waited as much as three hours for the bus."]}, {"word": "a handful of", "def": "A small number of", "ex": ["Only a handful of students showed up for practice.", "A handful of shops stayed open during the holiday.", "She kept a handful of coins in her pocket."]}], "mainIdea": [{"s": "A film of an ancient Greek poem earned about 652 million dollars in its first two weekends. Because it was filmed on rare IMAX cameras, few theaters could show it, so demand forced an extension.", "a": true, "why": "It had raked in 652 million dollars after two weekends, and about 140 million came from IMAX screens alone. Because only about 25 theaters could show its 70mm format, the studio extended the run to September."}, {"s": "An ancient Greek story became a film that took in about 652 million dollars around the world. But ticket demand was falling, so the studio shortened its rare 70mm IMAX run to end early.", "a": false, "why": "Close, but demand was not falling, it was far higher than the studio expected. Seats sold out as much as seven weeks ahead, so the studio extended the run instead of cutting it short."}, {"s": "A large format documentary about ocean life opened in IMAX theaters last spring and earned very strongly. Only a small number of theaters worldwide could show its widest picture version at all.", "a": false, "why": "This is about an earlier IMAX documentary, not the 2026 film based on the Greek poem. The article never mentions any documentary about ocean life."}], "tf": [{"s": "The film came out on July 17 and raked in about 652 million dollars in two weekends.", "a": true, "why": "It came out on July 17, directed by Christopher Nolan with Matt Damon as Odysseus, and had raked in about 652 million dollars worldwide after only two weekends."}, {"s": "About 25 theaters in the whole United States can project 70mm IMAX.", "a": true, "why": "Only about 25 theaters in the whole United States can project 70mm IMAX."}, {"s": "Most directors stay away from IMAX film cameras because the cameras are cheap and light.", "a": false, "why": "Those cameras are heavy, noisy and rare, so most directors stay away from them and film digitally instead."}, {"s": "Seats at the 70mm screenings sold out as much as seven weeks ahead.", "a": true, "why": "Seats at those screenings sold out as much as seven weeks ahead."}, {"s": "The studio gave in to the demand and shortened the 70mm run by a month.", "a": false, "why": "On July 30 the studio gave in to the demand and extended the 70mm run by a month, to September 16."}, {"s": "IMAX normally makes up most of any film's earnings.", "a": false, "why": "IMAX normally makes up a small share of any film's earnings, which is why 140 million dollars from IMAX screens was unusual."}]}
+{
+  "id": "odyssey-imax-film-2026",
+  "number": 53,
+  "headline": "A film of the Odyssey fills movie theaters",
+  "badge": "Entertainment",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n53-odyssey-imax-film-2026-flat.webp",
+  "position": "center 40%",
+  "sources": [
+    {
+      "title": "Box Office: 'The Odyssey' Soars to $652 Million Globally After Two Weekends, Including $140 Million in Imax",
+      "url": "https://variety.com/2026/film/box-office/the-odyssey-global-box-office-600-million-imax-1236821428/"
+    },
+    {
+      "title": "'The Odyssey' extends stay in 70mm Imax theaters as shows sell out weeks in advance",
+      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html"
+    },
+    {
+      "title": "Coveted 'The Odyssey' IMAX 70mm Screenings Extended After Weeks Of Sold Out Showings",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/30/coveted-the-odyssey-imax-70mm-screenings-extended-after-weeks-of-sold-out-showings/"
+    },
+    {
+      "title": "'The Odyssey' drives summer box office boom through rare IMAX 70mm screenings (video, FOX 5 New York)",
+      "url": "https://www.youtube.com/watch?v=enkP2gVJ-Fg"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "The Odyssey is a Greek [[poem]] about 2,800 years old. A film of it has become the biggest movie story of the summer. It {{came out}} on July 17, [[directed]] by Christopher Nolan with Matt Damon as Odysseus, and had {{raked in}} about 652 million dollars [[worldwide]] after only two weekends. About 140 million of that came from IMAX screens alone, which is unusual, because IMAX normally {{makes up}} a small [[share]] of any film's [[earnings]].",
+      "verbs": [
+        {
+          "display": "came out",
+          "base": "come out",
+          "correct": "To be released to the public",
+          "wrong": "To be shown in only a few theaters",
+          "correctFirst": false,
+          "why": "Come out means a movie or an album is released for the public to see. This film based on the Odyssey came out on July 17 and became a huge hit."
+        },
+        {
+          "display": "raked in",
+          "base": "rake in",
+          "correct": "To earn a lot of money",
+          "wrong": "To spend a lot of money on ads",
+          "correctFirst": false,
+          "why": "Rake in means to earn a very large amount of money quickly. The film had raked in about 652 million dollars worldwide after only two weekends."
+        },
+        {
+          "display": "makes up",
+          "base": "make up",
+          "correct": "To form a part of a whole",
+          "wrong": "To recover money that was lost",
+          "correctFirst": true,
+          "why": "Make up means to form one part of a bigger total. IMAX screens usually make up only a small share of a film's total earnings."
+        }
+      ]
+    },
+    {
+      "text": "The reason is the way it was filmed. This is the first full length film [[shot]] entirely on IMAX film cameras, using more than two million feet of [[70mm]] film. Those cameras are heavy, noisy and rare, so most directors {{stay away from}} them and film [[digitally]] instead. The reward is a picture with [[far more]] detail than an ordinary movie image, and one that fills a tall screen [[from top to bottom]] rather than filling only a wide strip across the middle.",
+      "verbs": [
+        {
+          "display": "stay away from",
+          "base": "stay away from",
+          "correct": "To avoid using something",
+          "wrong": "To be unable to pay for something",
+          "correctFirst": true,
+          "why": "Stay away from means to avoid using something on purpose. Most directors stay away from heavy IMAX film cameras and shoot digitally instead."
+        }
+      ]
+    },
+    {
+      "text": "The problem is that [[hardly anywhere]] can show it that way. Only about 25 theaters in the whole United States can [[project]] 70mm IMAX. Seats at those [[screenings]] {{sold out}} [[as much as]] seven weeks ahead. One theater [[chain]] had to {{set up}} a digital [[waiting list]] on its app when new tickets were released. Some people flew hundreds of miles to reach a screen. On July 30 the [[studio]] {{gave in}} to the [[demand]] and [[extended]] the 70mm [[run]] by a month, to September 16.",
+      "verbs": [
+        {
+          "display": "sold out",
+          "base": "sell out",
+          "correct": "To be completely sold",
+          "wrong": "To be offered for sale early",
+          "correctFirst": false,
+          "why": "Sell out means every ticket or seat is gone because so many people want it. Seats at the 70mm screenings sold out as much as seven weeks ahead."
+        },
+        {
+          "display": "set up",
+          "base": "set up",
+          "correct": "To create or arrange",
+          "wrong": "To make a system work faster",
+          "correctFirst": true,
+          "why": "Set up means to create something new so people can use it. One theater chain set up a digital waiting list for the sold out screenings."
+        },
+        {
+          "display": "gave in",
+          "base": "give in",
+          "correct": "To agree after resisting",
+          "wrong": "To refuse a request politely",
+          "correctFirst": false,
+          "why": "Give in means to finally agree to a request after resisting it for a while. On July 30 the studio gave in to the demand and extended the run."
+        }
+      ]
+    },
+    {
+      "text": "The money is not really the interesting part. A story that people have been {{passing down}} since before writing was even common has {{filled up}} theaters in 2026. [[Audiences]] {{lined up}} to see it in the oldest [[format]] available, not the newest one. Whether other studios now {{take up}} film cameras again is a separate question, and an expensive one, because only [[a handful of]] these cameras exist anywhere in the world.",
+      "verbs": [
+        {
+          "display": "passing down",
+          "base": "pass down",
+          "correct": "To give to later generations",
+          "wrong": "To perform live for large audiences",
+          "correctFirst": true,
+          "why": "Pass down means to give something, often a story or a tradition, to later generations. The Odyssey is a story people have been passing down for almost three thousand years."
+        },
+        {
+          "display": "filled up",
+          "base": "fill up",
+          "correct": "To make completely full",
+          "wrong": "To open more screens in a city",
+          "correctFirst": false,
+          "why": "Fill up means to become completely full of people or things. This ancient story has filled up movie theaters all across the country in 2026."
+        },
+        {
+          "display": "lined up",
+          "base": "line up",
+          "correct": "To wait in a line",
+          "wrong": "To buy a better seat",
+          "correctFirst": true,
+          "why": "Line up means to wait in a row for your turn. Audiences lined up to see this film in the oldest format available, not the newest one."
+        },
+        {
+          "display": "take up",
+          "base": "take up",
+          "correct": "To start using again",
+          "wrong": "To take control of a company",
+          "correctFirst": false,
+          "why": "Take up means to start doing or using something again after a break. Whether other studios take up film cameras again is still an open question."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "ipa": "/kʌm aʊt/",
+      "def": "To be released to the public",
+      "ex": [
+        "The sequel comes out early next year.",
+        "A new version comes out next year.",
+        "Their album came out without any warning."
+      ]
+    },
+    {
+      "verb": "Rake in",
+      "ipa": "/reɪk ɪn/",
+      "def": "To earn a lot of money",
+      "ex": [
+        "The bakery rakes in extra cash during the holidays.",
+        "Small cafes rake in cash during festivals.",
+        "That single film has raked in a fortune."
+      ]
+    },
+    {
+      "verb": "Make up",
+      "ipa": "/meɪk ʌp/",
+      "def": "To form a part of a whole",
+      "ex": [
+        "Students make up nearly half of the gym members.",
+        "Water makes up most of the human body.",
+        "Imports made up a quarter of all sales."
+      ]
+    },
+    {
+      "verb": "Stay away from",
+      "ipa": "/steɪ əˈweɪ frəm/",
+      "def": "To avoid using something",
+      "ex": [
+        "Most bakers stay away from cheap butter.",
+        "She stays away from sugar completely.",
+        "He stayed away from the old machines."
+      ]
+    },
+    {
+      "verb": "Sell out",
+      "ipa": "/sɛl aʊt/",
+      "def": "To be completely sold",
+      "ex": [
+        "The new sneakers sold out within an hour.",
+        "Tickets always sell out before June.",
+        "The first show had sold out by Tuesday."
+      ]
+    },
+    {
+      "verb": "Set up",
+      "ipa": "/sɛt ʌp/",
+      "def": "To create or arrange",
+      "ex": [
+        "They set up a tent before the rain started.",
+        "The city sets up a market every Sunday.",
+        "He set up a fund for young players."
+      ]
+    },
+    {
+      "verb": "Give in",
+      "ipa": "/ɡɪv ɪn/",
+      "def": "To agree after resisting",
+      "ex": [
+        "He finally gave in and bought the ticket.",
+        "She never gives in to pressure.",
+        "They gave in and lowered the price."
+      ]
+    },
+    {
+      "verb": "Pass down",
+      "ipa": "/pæs daʊn/",
+      "def": "To give to later generations",
+      "ex": [
+        "Grandma passed down her old recipes to us.",
+        "Families pass down these songs.",
+        "He passed down the workshop to his daughter."
+      ]
+    },
+    {
+      "verb": "Fill up",
+      "ipa": "/fɪl ʌp/",
+      "def": "To make completely full",
+      "ex": [
+        "The stadium filled up an hour before kickoff.",
+        "Buses fill up quickly in the morning.",
+        "Rain has filled up the reservoir."
+      ]
+    },
+    {
+      "verb": "Line up",
+      "ipa": "/laɪn ʌp/",
+      "def": "To wait in a line",
+      "ex": [
+        "Shoppers lined up outside before the store opened.",
+        "People line up here for tickets.",
+        "We lined up in the cold for an hour."
+      ]
+    },
+    {
+      "verb": "Take up",
+      "ipa": "/teɪk ʌp/",
+      "def": "To start using again",
+      "ex": [
+        "The studio may take up hand-painted sets again.",
+        "She took up the piano after twenty years.",
+        "They may take up the old method again."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "poem",
+      "ipa": "/ˈpoʊəm/",
+      "def": "Writing arranged in lines",
+      "ex": [
+        "She memorized a poem for the school contest.",
+        "Children learn the poem at school.",
+        "He wrote a short poem for her birthday."
+      ]
+    },
+    {
+      "word": "directed",
+      "ipa": "/dəˈrɛktɪd/",
+      "def": "Guided the making of a film",
+      "ex": [
+        "He directed a documentary about small farms.",
+        "The movie was directed by a newcomer.",
+        "She directed her first play last spring."
+      ]
+    },
+    {
+      "word": "worldwide",
+      "ipa": "/wərlˈdwaɪd/",
+      "def": "Across the whole world",
+      "ex": [
+        "The brand is known worldwide for its shoes.",
+        "Worldwide sales passed a billion last year.",
+        "The event was streamed worldwide on television."
+      ]
+    },
+    {
+      "word": "share",
+      "ipa": "/ʃɛər/",
+      "def": "A part of a total",
+      "ex": [
+        "He owns a small share of the company.",
+        "Each region gets an equal share.",
+        "Her share of the bill was ten dollars."
+      ]
+    },
+    {
+      "word": "earnings",
+      "ipa": "/ˈərnɪŋz/",
+      "def": "Money a movie or business receives",
+      "ex": [
+        "The store's earnings grew every quarter.",
+        "The earnings surprised everyone at the meeting.",
+        "Earnings dropped sharply during the slow season."
+      ]
+    },
+    {
+      "word": "shot",
+      "ipa": "/ʃɑt/",
+      "def": "Filmed with a camera",
+      "ex": [
+        "The wedding video was shot in one day.",
+        "Most of it was shot outdoors.",
+        "The commercial was shot early in the morning."
+      ]
+    },
+    {
+      "word": "70mm",
+      "ipa": "/ˈsɛvənti ˌmɪləˈmiːtər/",
+      "def": "A wide, very high quality film size",
+      "ex": [
+        "The museum keeps an old 70mm projector.",
+        "Only a few theaters can show 70mm.",
+        "He collects old 70mm film reels."
+      ]
+    },
+    {
+      "word": "digitally",
+      "ipa": "/ˈdɪdʒətəli/",
+      "def": "Recorded as computer data",
+      "ex": [
+        "The photos were stored digitally on a drive.",
+        "The concert was recorded digitally for the archive.",
+        "Most homework is submitted digitally now."
+      ]
+    },
+    {
+      "word": "project",
+      "ipa": "/ˈprɑdʒɛkt/",
+      "def": "To throw a picture onto a screen",
+      "ex": [
+        "The teacher will project the slides on the wall.",
+        "Old machines still project real film today.",
+        "They project the map onto the classroom wall."
+      ]
+    },
+    {
+      "word": "screenings",
+      "ipa": "/ˈskriːnɪŋz/",
+      "def": "Showings of a film",
+      "ex": [
+        "Extra screenings were added for the weekend.",
+        "Both screenings were completely full by noon.",
+        "The festival added late night screenings this year."
+      ]
+    },
+    {
+      "word": "chain",
+      "ipa": "/tʃeɪn/",
+      "def": "A group of shops under one owner",
+      "ex": [
+        "A coffee chain opened near the station.",
+        "The chain owns forty stores across the state.",
+        "The hotel chain added a new location downtown."
+      ]
+    },
+    {
+      "word": "waiting list",
+      "ipa": "/ˈweɪtɪŋ lɪst/",
+      "def": "A list of people waiting for a turn",
+      "ex": [
+        "He added his name to the waiting list.",
+        "The waiting list ran to two thousand.",
+        "She finally got off the waiting list this week."
+      ]
+    },
+    {
+      "word": "studio",
+      "ipa": "/ˈstuːdioʊ/",
+      "def": "A company that makes films",
+      "ex": [
+        "The studio announced a sequel for next year.",
+        "Another studio wanted the story for itself.",
+        "The small studio released three films this year."
+      ]
+    },
+    {
+      "word": "demand",
+      "ipa": "/dɪˈmænd/",
+      "def": "How much people want something",
+      "ex": [
+        "Demand for the new shoes surprised the store.",
+        "Prices rise fast when demand grows quickly.",
+        "The factory could not meet the sudden demand."
+      ]
+    },
+    {
+      "word": "extended",
+      "ipa": "/ɪkˈstɛndɪd/",
+      "def": "Made longer in time",
+      "ex": [
+        "The library extended its hours for exam week.",
+        "They extended the deadline twice last month.",
+        "The airline extended the sale through the weekend."
+      ]
+    },
+    {
+      "word": "run",
+      "ipa": "/rʌn/",
+      "def": "The period a film is shown",
+      "ex": [
+        "The play's run ended after ten weeks.",
+        "A short run sold out at once.",
+        "The show's run was extended twice this year."
+      ]
+    },
+    {
+      "word": "audiences",
+      "ipa": "/ˈɑdiənsəz/",
+      "def": "Groups of people watching",
+      "ex": [
+        "Audiences laughed through the whole performance.",
+        "Younger audiences often find it online instead.",
+        "Audiences clapped loudly at the final scene."
+      ]
+    },
+    {
+      "word": "format",
+      "ipa": "/ˈfɔːrmæt/",
+      "def": "The form something is presented in",
+      "ex": [
+        "The magazine changed its format last year.",
+        "Each format needs a different machine.",
+        "They released the album in a new format."
+      ]
+    },
+    {
+      "word": "far more",
+      "def": "Much more than something else",
+      "ex": [
+        "This laptop costs far more than the old one.",
+        "She has far more experience than the new hire.",
+        "The bridge took far more time to build than planned."
+      ]
+    },
+    {
+      "word": "from top to bottom",
+      "def": "Over the whole length, completely",
+      "ex": [
+        "They cleaned the house from top to bottom before the guests arrived.",
+        "He painted the fence from top to bottom in one afternoon.",
+        "The team checked the report from top to bottom for errors."
+      ]
+    },
+    {
+      "word": "hardly anywhere",
+      "def": "Almost nowhere at all",
+      "ex": [
+        "On Sundays you can find parking hardly anywhere downtown.",
+        "During the storm, buses ran hardly anywhere in the city.",
+        "That old song plays hardly anywhere on the radio now."
+      ]
+    },
+    {
+      "word": "as much as",
+      "def": "As high as, showing a surprising amount",
+      "ex": [
+        "The repair cost as much as a new bicycle.",
+        "Rent here can rise as much as ten percent a year.",
+        "He waited as much as three hours for the bus."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "A small number of",
+      "ex": [
+        "Only a handful of students showed up for practice.",
+        "A handful of shops stayed open during the holiday.",
+        "She kept a handful of coins in her pocket."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A film of an ancient Greek poem earned about 652 million dollars in its first two weekends. Because it was filmed on rare IMAX cameras, few theaters could show it, so demand forced an extension.",
+      "a": true,
+      "why": "It had raked in 652 million dollars after two weekends, and about 140 million came from IMAX screens alone. Because only about 25 theaters could show its 70mm format, the studio extended the run to September."
+    },
+    {
+      "s": "An ancient Greek story became a film that took in about 652 million dollars around the world. But ticket demand was falling, so the studio shortened its rare 70mm IMAX run to end early.",
+      "a": false,
+      "why": "Close, but demand was not falling, it was far higher than the studio expected. Seats sold out as much as seven weeks ahead, so the studio extended the run instead of cutting it short."
+    },
+    {
+      "s": "A large format documentary about ocean life opened in IMAX theaters last spring and earned very strongly. Only a small number of theaters worldwide could show its widest picture version at all.",
+      "a": false,
+      "why": "This is about an earlier IMAX documentary, not the 2026 film based on the Greek poem. The article never mentions any documentary about ocean life."
+    }
+  ],
+  "tf": [
+    {
+      "s": "The film came out on July 17 and raked in about 652 million dollars in two weekends.",
+      "a": true,
+      "why": "It came out on July 17, directed by Christopher Nolan with Matt Damon as Odysseus, and had raked in about 652 million dollars worldwide after only two weekends."
+    },
+    {
+      "s": "About 25 theaters in the whole United States can project 70mm IMAX.",
+      "a": true,
+      "why": "Only about 25 theaters in the whole United States can project 70mm IMAX."
+    },
+    {
+      "s": "Most directors stay away from IMAX film cameras because the cameras are cheap and light.",
+      "a": false,
+      "why": "Those cameras are heavy, noisy and rare, so most directors stay away from them and film digitally instead."
+    },
+    {
+      "s": "Seats at the 70mm screenings sold out as much as seven weeks ahead.",
+      "a": true,
+      "why": "Seats at those screenings sold out as much as seven weeks ahead."
+    },
+    {
+      "s": "The studio gave in to the demand and shortened the 70mm run by a month.",
+      "a": false,
+      "why": "On July 30 the studio gave in to the demand and extended the 70mm run by a month, to September 16."
+    },
+    {
+      "s": "IMAX normally makes up most of any film's earnings.",
+      "a": false,
+      "why": "IMAX normally makes up a small share of any film's earnings, which is why 140 million dollars from IMAX screens was unusual."
+    }
+  ]
+}

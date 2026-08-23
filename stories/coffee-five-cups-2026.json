@@ -1,1 +1,492 @@
-{"id": "coffee-five-cups-2026", "number": 43, "headline": "Five cups of coffee a day appears safe for adults", "badge": "Health", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n43-coffee-five-cups-2026-flat.webp", "position": "center 50%", "sources": [{"title": "Coffee lovers can take heart: Up to 5 cups a day appears safe for most adults, experts say", "url": "https://www.foxnews.com/food-drink/coffee-lovers-can-take-heart-up-5-cups-day-appears-safe-most-adults-experts-say"}, {"title": "Coffee: Up to 5 cups a day safe for heart health, AHA says", "url": "https://www.medicalnewstoday.com/articles/up-to-5-coffees-a-day-safe-for-heart-health-says-aha-what-coffee-type-is-best"}, {"title": "Coffee and heart health: How many cups of caffeinated coffee are safe to drink each day?", "url": "https://newsroom.heart.org/news/coffee-and-heart-health-how-many-cups-of-caffeinated-coffee-are-safe-to-drink-each-day"}, {"title": "Study: Five cups of coffee per day safe for most adults (video, NPR)", "url": "https://www.youtube.com/watch?v=qPP_v5VtirI"}], "chunks": [{"text": "Most healthy adults can drink [[up to]] five cups of coffee a day without raising their risk of heart disease, [[according to]] a scientific statement from the American Heart Association published on July 20 in the journal Circulation. Five 8-ounce cups of black coffee {{add up to}} about 400 milligrams of [[caffeine]], the daily [[figure]] the review {{settled on}}. The number is [[the easy part]].", "verbs": [{"display": "add up to", "base": "add up to", "correct": "To reach a total of a certain amount", "wrong": "To increase something by adding more", "correctFirst": true}, {"display": "settled on", "base": "settle on", "correct": "To decide on something after considering it", "wrong": "To become calm and relaxed after a while", "correctFirst": false}]}, {"text": "How the coffee is made [[matters]]. Coffee [[brewed]] without a paper [[filter]], including espresso, French press and Turkish-style coffee, contains cafestol, a natural [[compound]] that raises LDL [[cholesterol]], the kind linked to [[clogged]] [[arteries]]. A paper filter {{keeps out}} cafestol, and instant coffee does not contain it, so neither was [[tied to]] higher cholesterol. The caffeine is not [[the issue]]: decaffeinated espresso raised LDL too.", "verbs": [{"display": "keeps out", "base": "keep out", "correct": "To stop something from getting into a place", "wrong": "To stay within an agreed limit or rule", "correctFirst": true}]}, {"text": "Researchers reviewed 28 [[long-term]] studies and linked three and a half to five cups a day with a 20 to 30 percent lower risk of type 2 [[diabetes]]. Almost all of that evidence is [[observational]], meaning it [[tracks]] habits [[rather than]] testing them, so they cannot {{rule out}} that coffee drinkers [[differ]] [[in other ways]]. Caffeine was {{left out}} of the association's 2026 dietary guidance because the evidence was [[not solid enough]]. \"What matters most isn't just how much coffee you drink, it is how it's prepared, what you are adding to it, and how your own body responds,\" said Michelle Routhenstein, a preventive cardiology dietitian.", "verbs": [{"display": "rule out", "base": "rule out", "correct": "To say that something is definitely not possible", "wrong": "To give an official judgment on a question", "correctFirst": false}, {"display": "left out", "base": "leave out", "correct": "To not include something in a list or plan", "wrong": "To stop doing something for a short time", "correctFirst": true}]}, {"text": "Energy drinks and caffeine shots are [[a separate case]], holding three to four times the caffeine by volume and linked to high [[blood pressure]] and irregular heartbeats. Sugar, syrup and cream can {{cancel out}} whatever benefit the coffee brings, and how fast a body {{breaks caffeine down}} [[varies]] with age, medication and genetics. Five cups is a [[ceiling]], not [[a target]].", "verbs": [{"display": "cancel out", "base": "cancel out", "correct": "To remove the effect of something else", "wrong": "To stop an event before it happens", "correctFirst": false}, {"display": "breaks caffeine down", "base": "break down", "correct": "To separate a substance into simpler parts", "wrong": "To stop working correctly for a while", "correctFirst": true}]}], "vocab": [{"verb": "Add up to", "ipa": "/æd ʌp tuː/", "def": "To reach a total of a certain amount", "ex": ["The grocery items added up to almost sixty dollars.", "Those small savings add up to a large sum.", "His weekly hours add up to about thirty."]}, {"verb": "Settle on", "ipa": "/ˈsɛtəl ɑn/", "def": "To decide on something after considering it", "ex": ["We finally settled on a restaurant for the party.", "After a long talk, they settled on a simple plan.", "I could not settle on a color for the walls."]}, {"verb": "Keep out", "ipa": "/kiːp aʊt/", "def": "To stop something from getting into a place", "ex": ["Thick curtains keep the sunlight out of the bedroom.", "A tight lid keeps water out of the bag.", "We put up a fence to keep rabbits out of the garden."]}, {"verb": "Rule out", "ipa": "/ruːl aʊt/", "def": "To say that something is definitely not possible", "ex": ["Doctors ruled out any serious illness after the tests.", "We cannot rule out rain on Saturday.", "The police have not ruled out a simple mistake."]}, {"verb": "Leave out", "ipa": "/liːv aʊt/", "def": "To not include something in a list or plan", "ex": ["He left out one important step in the instructions.", "Do not leave your sister out of the game.", "She left that detail out of her report."]}, {"verb": "Cancel out", "ipa": "/ˈkænsəl aʊt/", "def": "To remove the effect of something else", "ex": ["One bad grade canceled out weeks of hard work.", "A late night can cancel out a good workout.", "Her strong finish canceled out the slow start."]}, {"verb": "Break down", "ipa": "/breɪk daʊn/", "def": "To separate a substance into simpler parts", "ex": ["Enzymes break down sugar during digestion.", "Bacteria break down dead leaves in the soil.", "Heat breaks down the vitamins in vegetables."]}], "wordDefs": [{"word": "figure", "ipa": "/ˈfɪɡjər/", "def": "A number that has been counted or measured", "ex": ["The final figure was higher than we expected.", "She wrote the figure down on a small card.", "The sales figure surprised everyone at the meeting."]}, {"word": "the easy part", "ipa": "/ðə ˈiːzi pɑrt/", "def": "The simple side of something more complicated", "ex": ["Buying the paint was the easy part of the job.", "Choosing a date is the easy part of planning a party.", "Packing was the easy part of moving house."]}, {"word": "tied to", "ipa": "/taɪd tuː/", "def": "Connected with something else", "ex": ["His bonus is tied to how well the team does.", "The price of bread is tied to the cost of wheat.", "Her mood is often tied to the weather."]}, {"word": "the issue", "ipa": "/ðə ˈɪʃuː/", "def": "The real problem or main point", "ex": ["Money was never the issue for them.", "The issue is not the price, it is the quality.", "Trust was the issue in their partnership."]}, {"word": "tracks", "ipa": "/træks/", "def": "Follows and records something over time", "ex": ["The app tracks how far I walk each day.", "A nurse tracks his blood pressure every morning.", "The system tracks every purchase made online."]}, {"word": "rather than", "ipa": "/ˈræðər ðən/", "def": "Instead of something else", "ex": ["I would like tea rather than juice.", "We walked to the store rather than driving.", "He studies at night rather than in the morning."]}, {"word": "differ", "ipa": "/ˈdɪfər/", "def": "Be different from each other", "ex": ["Our opinions differ on almost everything.", "The two recipes differ only a little.", "The two reports differ on the final numbers."]}, {"word": "in other ways", "ipa": "/ɪn ˈʌðər weɪz/", "def": "In different respects", "ex": ["The job pays less, but it is better in other ways.", "He is quiet, but he shows his feelings in other ways.", "The city has changed in other ways too."]}, {"word": "not solid enough", "ipa": "/nɑt ˈsɑləd ɪˈnʌf/", "def": "Not strong or reliable enough", "ex": ["The plan was not solid enough to win support.", "The ice was not solid enough to walk on.", "Her argument was not solid enough to convince the judge."]}, {"word": "varies", "ipa": "/ˈvɛriz/", "def": "Changes depending on the situation", "ex": ["The price of fruit varies with the season.", "My energy varies from day to day.", "Attendance varies a lot from week to week."]}, {"word": "a target", "ipa": "/ə ˈtɑrɡət/", "def": "A result you are aiming for", "ex": ["The team set a target of ten new members.", "Saving fifty dollars a week is a target for me.", "The runner set a target time for the race."]}, {"word": "caffeine", "ipa": "/kəˈfiːn/", "def": "The substance in coffee that keeps you awake", "ex": ["Caffeine is not the problem here.", "Too much caffeine can make it hard to sleep.", "She avoids caffeine after lunch every day."]}, {"word": "cholesterol", "ipa": "/kəˈlɛstərəl/", "def": "A fatty substance carried in the blood", "ex": ["His cholesterol dropped after he changed his diet.", "High cholesterol is a known risk.", "The doctor checked her cholesterol during the visit."]}, {"word": "arteries", "ipa": "/ˈɑrtəriz/", "def": "The tubes carrying blood from the heart", "ex": ["Fat can build up in the arteries.", "Blocked arteries cause heart attacks.", "Doctors examined his arteries for signs of damage."]}, {"word": "filter", "ipa": "/ˈfɪltər/", "def": "Something that removes particles from a liquid", "ex": ["The water filter needs to be replaced monthly.", "Use a fresh filter each time.", "A good air filter improves indoor air quality."]}, {"word": "compound", "ipa": "/ˈkɑmpaʊnd/", "def": "A substance made of combined chemicals", "ex": ["Scientists identified a new compound in the soil sample.", "This compound occurs naturally.", "The chemical compound reacted quickly with water."]}, {"word": "observational", "ipa": "/ˌɑbzərˈveɪʃənəl/", "def": "Watching what people do without changing it", "ex": ["Observational studies cannot prove cause.", "Their conclusions came from observational data alone.", "Observational research cannot show what caused the change."]}, {"word": "diabetes", "ipa": "/ˌdaɪəˈbiːtiz/", "def": "A disease affecting how the body uses sugar", "ex": ["Her grandfather has managed diabetes for many years.", "Type 2 diabetes is very common.", "Diabetes runs in several branches of my family."]}, {"word": "blood pressure", "ipa": "/blʌd ˈprɛʃər/", "def": "The force of blood against the vessel walls", "ex": ["Regular exercise can lower blood pressure over time.", "Her blood pressure is checked monthly.", "He takes medicine to control his blood pressure."]}, {"word": "up to", "ipa": "/ʌp tuː/", "def": "As many as, but not more than", "ex": ["The store offers discounts up to forty percent.", "The room holds up to fifty people.", "Tickets cost up to twenty dollars each."]}, {"word": "brewed", "ipa": "/bruːd/", "def": "Made by passing hot water through something", "ex": ["The tea was brewed for exactly five minutes.", "She brewed a fresh pot of tea.", "He brewed a strong pot for the morning meeting."]}, {"word": "according to", "def": "As stated by a source", "ex": ["According to the report, sales rose last quarter.", "According to my doctor, I should rest more.", "The bridge is old, according to city records."]}, {"word": "matters", "def": "Is important", "ex": ["In the end, only your effort matters.", "It matters how you treat your coworkers.", "What matters most is that everyone stays safe."]}, {"word": "clogged", "def": "Blocked so nothing can pass through", "ex": ["The drain was clogged with hair and soap.", "A clogged filter can damage the engine.", "Rush hour left the highway completely clogged."]}, {"word": "long-term", "def": "Continuing over a long period", "ex": ["The company is planning for long-term growth.", "Smoking causes long-term damage to the lungs.", "They rented the apartment on a long-term lease."]}, {"word": "a separate case", "def": "A different situation to consider on its own", "ex": ["Each complaint is treated as a separate case.", "His illness turned out to be a separate case.", "The lawyer handled it as a separate case entirely."]}, {"word": "ceiling", "def": "The highest amount allowed", "ex": ["The company set a ceiling on yearly bonuses.", "There is a ceiling on how much you can borrow.", "Their savings hit a ceiling at ten thousand dollars."]}], "mainIdea": [{"s": "A major heart health group says adults can safely drink up to five cups of coffee a day. But how the coffee is brewed matters, since unfiltered coffee can raise harmful cholesterol.", "a": true, "why": "The American Heart Association's July statement backs up to five cups a day. But it says unfiltered coffee like espresso raises LDL cholesterol, while filtered coffee does not."}, {"s": "The review found that drinking coffee actually lowers a person's risk of heart disease and diabetes. It also found that espresso is the safest way to brew coffee for a healthy heart.", "a": false, "why": "Close, but the statement says coffee appears safe, not that it lowers heart disease risk. Espresso also raises cholesterol instead of being the safest brewing method."}, {"s": "A separate report found that energy drink sales rose sharply among teenagers in the United States this year. Officials warned that heavy use is linked to anxiety and poor sleep.", "a": false, "why": "This story is about a heart health review of ordinary coffee, not about energy drink sales among teenagers."}], "tf": [{"s": "A paper filter keeps cafestol out of the cup.", "a": true, "why": "A paper filter keeps cafestol out of the cup, and instant coffee does not contain it, so neither was tied to higher cholesterol."}, {"s": "Five 8-ounce cups of black coffee add up to about 800 milligrams of caffeine.", "a": false, "why": "Five 8-ounce cups of black coffee add up to about 400 milligrams of caffeine, the daily figure the review settled on."}, {"s": "Coffee drinkers in the studies might simply have other healthy habits", "a": true, "why": "The studies only observed habits, so other factors could explain the lower diabetes risk."}, {"s": "The association left energy drinks out of its 2026 dietary guidance.", "a": false, "why": "The association left caffeine out of its 2026 dietary guidance because the evidence was not solid enough."}, {"s": "How fast a body breaks caffeine down is the same for everyone.", "a": false, "why": "How fast a body breaks caffeine down varies with age, medication and genetics."}, {"s": "Sugar, syrup and cream can cancel out whatever benefit the coffee brings.", "a": true, "why": "Sugar, syrup and cream can cancel out whatever benefit the coffee brings, and how fast a body breaks caffeine down varies with age, medication and genetics."}]}
+{
+  "id": "coffee-five-cups-2026",
+  "number": 43,
+  "headline": "Five cups of coffee a day appears safe for adults",
+  "badge": "Health",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n43-coffee-five-cups-2026-flat.webp",
+  "position": "center 50%",
+  "sources": [
+    {
+      "title": "Coffee lovers can take heart: Up to 5 cups a day appears safe for most adults, experts say",
+      "url": "https://www.foxnews.com/food-drink/coffee-lovers-can-take-heart-up-5-cups-day-appears-safe-most-adults-experts-say"
+    },
+    {
+      "title": "Coffee: Up to 5 cups a day safe for heart health, AHA says",
+      "url": "https://www.medicalnewstoday.com/articles/up-to-5-coffees-a-day-safe-for-heart-health-says-aha-what-coffee-type-is-best"
+    },
+    {
+      "title": "Coffee and heart health: How many cups of caffeinated coffee are safe to drink each day?",
+      "url": "https://newsroom.heart.org/news/coffee-and-heart-health-how-many-cups-of-caffeinated-coffee-are-safe-to-drink-each-day"
+    },
+    {
+      "title": "Study: Five cups of coffee per day safe for most adults (video, NPR)",
+      "url": "https://www.youtube.com/watch?v=qPP_v5VtirI"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "Most healthy adults can drink [[up to]] five cups of coffee a day without raising their risk of heart disease, [[according to]] a scientific statement from the American Heart Association published on July 20 in the journal Circulation. Five 8-ounce cups of black coffee {{add up to}} about 400 milligrams of [[caffeine]], the daily [[figure]] the review {{settled on}}. The number is [[the easy part]].",
+      "verbs": [
+        {
+          "display": "add up to",
+          "base": "add up to",
+          "correct": "To reach a total of a certain amount",
+          "wrong": "To increase something by adding more",
+          "correctFirst": true,
+          "why": "Add up to means that smaller amounts combine into one final total. Your daily spending, your weekly hours at work, or several small snacks can all add up to a surprising number."
+        },
+        {
+          "display": "settled on",
+          "base": "settle on",
+          "correct": "To decide on something after considering it",
+          "wrong": "To become calm and relaxed after a while",
+          "correctFirst": false,
+          "why": "Settle on means to finally choose one option after considering others, the way researchers settle on one clear number. It suggests a careful decision, not a rushed guess."
+        }
+      ]
+    },
+    {
+      "text": "How the coffee is made [[matters]]. Coffee [[brewed]] without a paper [[filter]], including espresso, French press and Turkish-style coffee, contains cafestol, a natural [[compound]] that raises LDL [[cholesterol]], the kind linked to [[clogged]] [[arteries]]. A paper filter {{keeps out}} cafestol, and instant coffee does not contain it, so neither was [[tied to]] higher cholesterol. The caffeine is not [[the issue]]: decaffeinated espresso raised LDL too.",
+      "verbs": [
+        {
+          "display": "keeps out",
+          "base": "keep out",
+          "correct": "To stop something from getting into a place",
+          "wrong": "To stay within an agreed limit or rule",
+          "correctFirst": true,
+          "why": "Keep out means to stop something from entering a place, like a filter keeping cafestol out of your cup. We also use it for keeping cold air, bugs, or noise outside."
+        }
+      ]
+    },
+    {
+      "text": "Researchers reviewed 28 [[long-term]] studies and linked three and a half to five cups a day with a 20 to 30 percent lower risk of type 2 [[diabetes]]. Almost all of that evidence is [[observational]], meaning it [[tracks]] habits [[rather than]] testing them, so they cannot {{rule out}} that coffee drinkers [[differ]] [[in other ways]]. Caffeine was {{left out}} of the association's 2026 dietary guidance because the evidence was [[not solid enough]]. \"What matters most isn't just how much coffee you drink, it is how it's prepared, what you are adding to it, and how your own body responds,\" said Michelle Routhenstein, a preventive cardiology dietitian.",
+      "verbs": [
+        {
+          "display": "rule out",
+          "base": "rule out",
+          "correct": "To say that something is definitely not possible",
+          "wrong": "To give an official judgment on a question",
+          "correctFirst": false,
+          "why": "Rule out means to decide that something is definitely not the explanation. Because the coffee studies only observed people, scientists cannot rule out that other habits caused the health difference."
+        },
+        {
+          "display": "left out",
+          "base": "leave out",
+          "correct": "To not include something in a list or plan",
+          "wrong": "To stop doing something for a short time",
+          "correctFirst": true,
+          "why": "Leave out means to not include something in a plan or a decision, often on purpose. Something can be left out for lack of proof, for lack of space, or simply by mistake."
+        }
+      ]
+    },
+    {
+      "text": "Energy drinks and caffeine shots are [[a separate case]], holding three to four times the caffeine by volume and linked to high [[blood pressure]] and irregular heartbeats. Sugar, syrup and cream can {{cancel out}} whatever benefit the coffee brings, and how fast a body {{breaks caffeine down}} [[varies]] with age, medication and genetics. Five cups is a [[ceiling]], not [[a target]].",
+      "verbs": [
+        {
+          "display": "cancel out",
+          "base": "cancel out",
+          "correct": "To remove the effect of something else",
+          "wrong": "To stop an event before it happens",
+          "correctFirst": false,
+          "why": "Cancel out means that one thing removes the effect of another, so they balance to nothing. Sugar and cream in your coffee can cancel out any health benefit from the coffee itself."
+        },
+        {
+          "display": "breaks caffeine down",
+          "base": "break down",
+          "correct": "To separate a substance into simpler parts",
+          "wrong": "To stop working correctly for a while",
+          "correctFirst": true,
+          "why": "Break down means to separate something into smaller, simpler parts, especially in chemistry or digestion. Your body slowly breaks down caffeine over several hours, and that speed depends on the person."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Add up to",
+      "ipa": "/æd ʌp tuː/",
+      "def": "To reach a total of a certain amount",
+      "ex": [
+        "The grocery items added up to almost sixty dollars.",
+        "Those small savings add up to a large sum.",
+        "His weekly hours add up to about thirty."
+      ]
+    },
+    {
+      "verb": "Settle on",
+      "ipa": "/ˈsɛtəl ɑn/",
+      "def": "To decide on something after considering it",
+      "ex": [
+        "We finally settled on a restaurant for the party.",
+        "After a long talk, they settled on a simple plan.",
+        "I could not settle on a color for the walls."
+      ]
+    },
+    {
+      "verb": "Keep out",
+      "ipa": "/kiːp aʊt/",
+      "def": "To stop something from getting into a place",
+      "ex": [
+        "Thick curtains keep the sunlight out of the bedroom.",
+        "A tight lid keeps water out of the bag.",
+        "We put up a fence to keep rabbits out of the garden."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "ipa": "/ruːl aʊt/",
+      "def": "To say that something is definitely not possible",
+      "ex": [
+        "Doctors ruled out any serious illness after the tests.",
+        "We cannot rule out rain on Saturday.",
+        "The police have not ruled out a simple mistake."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "ipa": "/liːv aʊt/",
+      "def": "To not include something in a list or plan",
+      "ex": [
+        "He left out one important step in the instructions.",
+        "Do not leave your sister out of the game.",
+        "She left that detail out of her report."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "ipa": "/ˈkænsəl aʊt/",
+      "def": "To remove the effect of something else",
+      "ex": [
+        "One bad grade canceled out weeks of hard work.",
+        "A late night can cancel out a good workout.",
+        "Her strong finish canceled out the slow start."
+      ]
+    },
+    {
+      "verb": "Break down",
+      "ipa": "/breɪk daʊn/",
+      "def": "To separate a substance into simpler parts",
+      "ex": [
+        "Enzymes break down sugar during digestion.",
+        "Bacteria break down dead leaves in the soil.",
+        "Heat breaks down the vitamins in vegetables."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "figure",
+      "ipa": "/ˈfɪɡjər/",
+      "def": "A number that has been counted or measured",
+      "ex": [
+        "The final figure was higher than we expected.",
+        "She wrote the figure down on a small card.",
+        "The sales figure surprised everyone at the meeting."
+      ]
+    },
+    {
+      "word": "the easy part",
+      "ipa": "/ðə ˈiːzi pɑrt/",
+      "def": "The simple side of something more complicated",
+      "ex": [
+        "Buying the paint was the easy part of the job.",
+        "Choosing a date is the easy part of planning a party.",
+        "Packing was the easy part of moving house."
+      ]
+    },
+    {
+      "word": "tied to",
+      "ipa": "/taɪd tuː/",
+      "def": "Connected with something else",
+      "ex": [
+        "His bonus is tied to how well the team does.",
+        "The price of bread is tied to the cost of wheat.",
+        "Her mood is often tied to the weather."
+      ]
+    },
+    {
+      "word": "the issue",
+      "ipa": "/ðə ˈɪʃuː/",
+      "def": "The real problem or main point",
+      "ex": [
+        "Money was never the issue for them.",
+        "The issue is not the price, it is the quality.",
+        "Trust was the issue in their partnership."
+      ]
+    },
+    {
+      "word": "tracks",
+      "ipa": "/træks/",
+      "def": "Follows and records something over time",
+      "ex": [
+        "The app tracks how far I walk each day.",
+        "A nurse tracks his blood pressure every morning.",
+        "The system tracks every purchase made online."
+      ]
+    },
+    {
+      "word": "rather than",
+      "ipa": "/ˈræðər ðən/",
+      "def": "Instead of something else",
+      "ex": [
+        "I would like tea rather than juice.",
+        "We walked to the store rather than driving.",
+        "He studies at night rather than in the morning."
+      ]
+    },
+    {
+      "word": "differ",
+      "ipa": "/ˈdɪfər/",
+      "def": "Be different from each other",
+      "ex": [
+        "Our opinions differ on almost everything.",
+        "The two recipes differ only a little.",
+        "The two reports differ on the final numbers."
+      ]
+    },
+    {
+      "word": "in other ways",
+      "ipa": "/ɪn ˈʌðər weɪz/",
+      "def": "In different respects",
+      "ex": [
+        "The job pays less, but it is better in other ways.",
+        "He is quiet, but he shows his feelings in other ways.",
+        "The city has changed in other ways too."
+      ]
+    },
+    {
+      "word": "not solid enough",
+      "ipa": "/nɑt ˈsɑləd ɪˈnʌf/",
+      "def": "Not strong or reliable enough",
+      "ex": [
+        "The plan was not solid enough to win support.",
+        "The ice was not solid enough to walk on.",
+        "Her argument was not solid enough to convince the judge."
+      ]
+    },
+    {
+      "word": "varies",
+      "ipa": "/ˈvɛriz/",
+      "def": "Changes depending on the situation",
+      "ex": [
+        "The price of fruit varies with the season.",
+        "My energy varies from day to day.",
+        "Attendance varies a lot from week to week."
+      ]
+    },
+    {
+      "word": "a target",
+      "ipa": "/ə ˈtɑrɡət/",
+      "def": "A result you are aiming for",
+      "ex": [
+        "The team set a target of ten new members.",
+        "Saving fifty dollars a week is a target for me.",
+        "The runner set a target time for the race."
+      ]
+    },
+    {
+      "word": "caffeine",
+      "ipa": "/kəˈfiːn/",
+      "def": "The substance in coffee that keeps you awake",
+      "ex": [
+        "Caffeine is not the problem here.",
+        "Too much caffeine can make it hard to sleep.",
+        "She avoids caffeine after lunch every day."
+      ]
+    },
+    {
+      "word": "cholesterol",
+      "ipa": "/kəˈlɛstərəl/",
+      "def": "A fatty substance carried in the blood",
+      "ex": [
+        "His cholesterol dropped after he changed his diet.",
+        "High cholesterol is a known risk.",
+        "The doctor checked her cholesterol during the visit."
+      ]
+    },
+    {
+      "word": "arteries",
+      "ipa": "/ˈɑrtəriz/",
+      "def": "The tubes carrying blood from the heart",
+      "ex": [
+        "Fat can build up in the arteries.",
+        "Blocked arteries cause heart attacks.",
+        "Doctors examined his arteries for signs of damage."
+      ]
+    },
+    {
+      "word": "filter",
+      "ipa": "/ˈfɪltər/",
+      "def": "Something that removes particles from a liquid",
+      "ex": [
+        "The water filter needs to be replaced monthly.",
+        "Use a fresh filter each time.",
+        "A good air filter improves indoor air quality."
+      ]
+    },
+    {
+      "word": "compound",
+      "ipa": "/ˈkɑmpaʊnd/",
+      "def": "A substance made of combined chemicals",
+      "ex": [
+        "Scientists identified a new compound in the soil sample.",
+        "This compound occurs naturally.",
+        "The chemical compound reacted quickly with water."
+      ]
+    },
+    {
+      "word": "observational",
+      "ipa": "/ˌɑbzərˈveɪʃənəl/",
+      "def": "Watching what people do without changing it",
+      "ex": [
+        "Observational studies cannot prove cause.",
+        "Their conclusions came from observational data alone.",
+        "Observational research cannot show what caused the change."
+      ]
+    },
+    {
+      "word": "diabetes",
+      "ipa": "/ˌdaɪəˈbiːtiz/",
+      "def": "A disease affecting how the body uses sugar",
+      "ex": [
+        "Her grandfather has managed diabetes for many years.",
+        "Type 2 diabetes is very common.",
+        "Diabetes runs in several branches of my family."
+      ]
+    },
+    {
+      "word": "blood pressure",
+      "ipa": "/blʌd ˈprɛʃər/",
+      "def": "The force of blood against the vessel walls",
+      "ex": [
+        "Regular exercise can lower blood pressure over time.",
+        "Her blood pressure is checked monthly.",
+        "He takes medicine to control his blood pressure."
+      ]
+    },
+    {
+      "word": "up to",
+      "ipa": "/ʌp tuː/",
+      "def": "As many as, but not more than",
+      "ex": [
+        "The store offers discounts up to forty percent.",
+        "The room holds up to fifty people.",
+        "Tickets cost up to twenty dollars each."
+      ]
+    },
+    {
+      "word": "brewed",
+      "ipa": "/bruːd/",
+      "def": "Made by passing hot water through something",
+      "ex": [
+        "The tea was brewed for exactly five minutes.",
+        "She brewed a fresh pot of tea.",
+        "He brewed a strong pot for the morning meeting."
+      ]
+    },
+    {
+      "word": "according to",
+      "def": "As stated by a source",
+      "ex": [
+        "According to the report, sales rose last quarter.",
+        "According to my doctor, I should rest more.",
+        "The bridge is old, according to city records."
+      ]
+    },
+    {
+      "word": "matters",
+      "def": "Is important",
+      "ex": [
+        "In the end, only your effort matters.",
+        "It matters how you treat your coworkers.",
+        "What matters most is that everyone stays safe."
+      ]
+    },
+    {
+      "word": "clogged",
+      "def": "Blocked so nothing can pass through",
+      "ex": [
+        "The drain was clogged with hair and soap.",
+        "A clogged filter can damage the engine.",
+        "Rush hour left the highway completely clogged."
+      ]
+    },
+    {
+      "word": "long-term",
+      "def": "Continuing over a long period",
+      "ex": [
+        "The company is planning for long-term growth.",
+        "Smoking causes long-term damage to the lungs.",
+        "They rented the apartment on a long-term lease."
+      ]
+    },
+    {
+      "word": "a separate case",
+      "def": "A different situation to consider on its own",
+      "ex": [
+        "Each complaint is treated as a separate case.",
+        "His illness turned out to be a separate case.",
+        "The lawyer handled it as a separate case entirely."
+      ]
+    },
+    {
+      "word": "ceiling",
+      "def": "The highest amount allowed",
+      "ex": [
+        "The company set a ceiling on yearly bonuses.",
+        "There is a ceiling on how much you can borrow.",
+        "Their savings hit a ceiling at ten thousand dollars."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A major heart health group says adults can safely drink up to five cups of coffee a day. But how the coffee is brewed matters, since unfiltered coffee can raise harmful cholesterol.",
+      "a": true,
+      "why": "The American Heart Association's July statement backs up to five cups a day. But it says unfiltered coffee like espresso raises LDL cholesterol, while filtered coffee does not."
+    },
+    {
+      "s": "The review found that drinking coffee actually lowers a person's risk of heart disease and diabetes. It also found that espresso is the safest way to brew coffee for a healthy heart.",
+      "a": false,
+      "why": "Close, but the statement says coffee appears safe, not that it lowers heart disease risk. Espresso also raises cholesterol instead of being the safest brewing method."
+    },
+    {
+      "s": "A separate report found that energy drink sales rose sharply among teenagers in the United States this year. Officials warned that heavy use is linked to anxiety and poor sleep.",
+      "a": false,
+      "why": "This story is about a heart health review of ordinary coffee, not about energy drink sales among teenagers."
+    }
+  ],
+  "tf": [
+    {
+      "s": "A paper filter keeps cafestol out of the cup.",
+      "a": true,
+      "why": "A paper filter keeps cafestol out of the cup, and instant coffee does not contain it, so neither was tied to higher cholesterol."
+    },
+    {
+      "s": "Five 8-ounce cups of black coffee add up to about 800 milligrams of caffeine.",
+      "a": false,
+      "why": "Five 8-ounce cups of black coffee add up to about 400 milligrams of caffeine, the daily figure the review settled on."
+    },
+    {
+      "s": "Coffee drinkers in the studies might simply have other healthy habits",
+      "a": true,
+      "why": "The studies only observed habits, so other factors could explain the lower diabetes risk."
+    },
+    {
+      "s": "The association left energy drinks out of its 2026 dietary guidance.",
+      "a": false,
+      "why": "The association left caffeine out of its 2026 dietary guidance because the evidence was not solid enough."
+    },
+    {
+      "s": "How fast a body breaks caffeine down is the same for everyone.",
+      "a": false,
+      "why": "How fast a body breaks caffeine down varies with age, medication and genetics."
+    },
+    {
+      "s": "Sugar, syrup and cream can cancel out whatever benefit the coffee brings.",
+      "a": true,
+      "why": "Sugar, syrup and cream can cancel out whatever benefit the coffee brings, and how fast a body breaks caffeine down varies with age, medication and genetics."
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "id": "creator-earnings-study-2026",
+  "number": 84,
+  "headline": "Study: most online creators earn less than you think",
+  "badge": "Culture",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n84-creator-earnings-study-2026-flat.webp",
+  "position": "center 45%",
+  "sources": [
+    {
+      "title": "A 67% Majority of Creators Earn Less Than $10,000 per Year, Study Finds (TheWrap)",
+      "url": "https://www.thewrap.com/media-platforms/tv/creators-annual-salary-2026-study/"
+    },
+    {
+      "title": "CreatorIQ Study Reveals a Growing Authenticity Gap (CreatorIQ)",
+      "url": "https://www.creatoriq.com/press/releases/creatoriq-state-of-creators-report-2026"
+    },
+    {
+      "title": "67% Of Creators Earn Under $10,000 A Year While Pay Still Favors Reach, Study Finds (NetInfluencer)",
+      "url": "https://www.netinfluencer.com/67-percent-of-creators-earn-under-10000-usd-a-year-while-pay-still-favors-reach-over-engagement-study-finds/"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "Being an online [[creator]] looks like a [[dream job]]. But a large new study says the money is much smaller than most fans imagine. Researchers [[surveyed]] 5,095 creators in around 100 [[regions]] this year. Two thirds said their videos and posts {{bring in}} less than ten thousand dollars a year. Six in ten creators cannot {{get by}} on what they earn online, so many {{turn to}} teaching, office work, or delivery jobs to pay the [[bills]].",
+      "verbs": [
+        {
+          "display": "bring in",
+          "base": "bring in",
+          "correct": "To earn money for a person or business",
+          "wrong": "To count coins at the end of a day",
+          "correctFirst": true,
+          "why": "Bring in means to earn or produce income for a person or business. Two thirds of the creators said their videos and posts bring in less than ten thousand dollars a year."
+        },
+        {
+          "display": "get by",
+          "base": "get by",
+          "correct": "To survive with just enough money",
+          "wrong": "To save money for the future",
+          "correctFirst": false,
+          "why": "Get by means to survive on the minimum you have, without much extra. Six in ten creators cannot get by on what they earn from their online work."
+        },
+        {
+          "display": "turn to",
+          "base": "turn to",
+          "correct": "To use something as a source of help",
+          "wrong": "To refuse an offer politely",
+          "correctFirst": true,
+          "why": "Turn to means to go to something or someone for help when you need it. Many creators turn to teaching, office work, or delivery jobs to pay their bills."
+        }
+      ]
+    },
+    {
+      "text": "The study also shows how hard the work is. Creators often spend years {{building up}} a [[following]] from zero. They must {{keep up with}} new [[trends]], new apps, and [[constant]] posting [[schedules]]. And with millions of [[channels]] online, it is hard to {{stand out}} in a crowded [[feed]]. The report found that pay follows size: creators with more [[followers]] and views earn more, even when smaller channels get warmer comments from their fans.",
+      "verbs": [
+        {
+          "display": "building up",
+          "base": "build up",
+          "correct": "To grow something slowly over time",
+          "wrong": "To repair something old and broken",
+          "correctFirst": false,
+          "why": "Build up means to grow something gradually, adding a little more each time. Creators often spend years building up a following, starting with almost no fans at all."
+        },
+        {
+          "display": "keep up with",
+          "base": "keep up with",
+          "correct": "To stay current with changes",
+          "wrong": "To watch something from far away",
+          "correctFirst": true,
+          "why": "Keep up with means to move at the same pace as something that keeps changing. Creators must keep up with new trends, new apps, and constant posting schedules."
+        },
+        {
+          "display": "stand out",
+          "base": "stand out",
+          "correct": "To be easy to notice among others",
+          "wrong": "To wait quietly in a long line",
+          "correctFirst": false,
+          "why": "Stand out means to be noticeably different or better than everything around it. With millions of channels online, it is hard for any one creator to stand out."
+        }
+      ]
+    },
+    {
+      "text": "So who actually makes money? Only a small group at the top. Almost every big name {{started out}} small, with few fans and years of low pay. The winners often {{cash in on}} their [[fame]] by selling their own products: about half of the creators in the study have [[launched]] their own [[brand]] or plan to start one. Most [[top earners]] still depend on paid posts for companies, mostly on Instagram and TikTok. But many others {{give up}} and go back to [[full-time]] jobs when the money stays small.",
+      "verbs": [
+        {
+          "display": "started out",
+          "base": "start out",
+          "correct": "To begin a career or journey",
+          "wrong": "To finish a project early",
+          "correctFirst": true,
+          "why": "Start out means to begin something, usually in a small or simple way. Almost every famous creator started out small, with few fans and years of low pay."
+        },
+        {
+          "display": "cash in on",
+          "base": "cash in on",
+          "correct": "To make money from a success",
+          "wrong": "To lose money on a bad plan",
+          "correctFirst": false,
+          "why": "Cash in on means to turn your popularity or a trend into real money. Successful creators often cash in on their fame by launching their own brand of products."
+        },
+        {
+          "display": "give up",
+          "base": "give up",
+          "correct": "To stop trying to do something",
+          "wrong": "To try harder than before",
+          "correctFirst": true,
+          "why": "Give up means to stop trying because something feels too hard or too slow. Many creators give up and return to full-time jobs when the money stays small."
+        }
+      ]
+    },
+    {
+      "text": "The report's advice is honest: treat creating like a slow business, not a [[lottery ticket]]. Most successful creators earn from many places, like [[ads]], [[tips]], and product sales, and the small numbers {{add up}} month after month. For a [[patient]] few, the years of work finally {{pay off}} with a real [[career]]. The study found one more surprise: 42 percent of creators worry that deals with companies could cost them their fans' [[trust]]. Even in a dream job, nothing is free.",
+      "verbs": [
+        {
+          "display": "add up",
+          "base": "add up",
+          "correct": "To slowly become a large amount",
+          "wrong": "To disappear little by little",
+          "correctFirst": false,
+          "why": "Add up means that small amounts combine over time into something much bigger. For patient creators, small payments from ads, tips, and sales add up month after month."
+        },
+        {
+          "display": "pay off",
+          "base": "pay off",
+          "correct": "To bring success after hard work",
+          "wrong": "To cause problems after a delay",
+          "correctFirst": true,
+          "why": "Pay off means that hard work eventually brings a real reward or success. For a patient few, years of effort finally pay off with a real, lasting career."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Bring in",
+      "ipa": "/brɪŋ ɪn/",
+      "def": "To earn money for a person or business",
+      "ex": [
+        "The food truck brings in good money every summer.",
+        "Her online shop brought in enough to pay the rent.",
+        "Ticket sales bring in most of the team's money."
+      ]
+    },
+    {
+      "verb": "Get by",
+      "ipa": "/ɡɛt baɪ/",
+      "def": "To survive with just enough money",
+      "ex": [
+        "They get by on one salary and a small garden.",
+        "As a student, he got by on rice and beans.",
+        "We can get by without a car in this city."
+      ]
+    },
+    {
+      "verb": "Turn to",
+      "ipa": "/tɜrn tu/",
+      "def": "To use something as a source of help",
+      "ex": [
+        "When the crops failed, farmers turned to fishing.",
+        "She turned to her sister for advice.",
+        "Many families turn to food banks in hard times."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "ipa": "/bɪld ʌp/",
+      "def": "To grow something slowly over time",
+      "ex": [
+        "He built up his savings over ten years.",
+        "The coach built up the team's confidence.",
+        "She is building up her strength after the injury."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "ipa": "/kip ʌp wɪθ/",
+      "def": "To stay current with changes",
+      "ex": [
+        "It is hard to keep up with new phone models.",
+        "Doctors read journals to keep up with new research.",
+        "He cannot keep up with all the homework."
+      ]
+    },
+    {
+      "verb": "Stand out",
+      "ipa": "/stænd aʊt/",
+      "def": "To be easy to notice among others",
+      "ex": [
+        "Her red coat stands out in the gray crowd.",
+        "One answer stood out as the best.",
+        "Good service makes a small hotel stand out."
+      ]
+    },
+    {
+      "verb": "Start out",
+      "ipa": "/stɑrt aʊt/",
+      "def": "To begin a career or journey",
+      "ex": [
+        "The famous chef started out washing dishes.",
+        "We started out early to beat the traffic.",
+        "The company started out in a garage."
+      ]
+    },
+    {
+      "verb": "Cash in on",
+      "ipa": "/kæʃ ɪn ɑn/",
+      "def": "To make money from a success",
+      "ex": [
+        "The city cashed in on the festival with hotel taxes.",
+        "He cashed in on the trend and sold thousands of hats.",
+        "Stores cash in on holidays with special sales."
+      ]
+    },
+    {
+      "verb": "Give up",
+      "ipa": "/ɡɪv ʌp/",
+      "def": "To stop trying to do something",
+      "ex": [
+        "Do not give up after one bad test.",
+        "She almost gave up learning the violin.",
+        "He gave up and asked for directions."
+      ]
+    },
+    {
+      "verb": "Add up",
+      "ipa": "/æd ʌp/",
+      "def": "To slowly become a large amount",
+      "ex": [
+        "Small daily costs add up fast.",
+        "The minutes of practice added up to real skill.",
+        "Those short car trips add up over a year."
+      ]
+    },
+    {
+      "verb": "Pay off",
+      "ipa": "/peɪ ɔf/",
+      "def": "To bring success after hard work",
+      "ex": [
+        "All that studying paid off on exam day.",
+        "Her early mornings at the pool finally paid off.",
+        "Careful planning pays off on long trips."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "dream job",
+      "ipa": "/drim dʒɑb/",
+      "def": "The perfect job a person wishes to have",
+      "ex": [
+        "Being a pilot was his dream job as a kid.",
+        "She finally got her dream job at the zoo.",
+        "A dream job still has boring days."
+      ]
+    },
+    {
+      "word": "trends",
+      "ipa": "/trɛndz/",
+      "def": "New styles or ideas that many people copy",
+      "ex": [
+        "Fashion trends change every season.",
+        "The app shows you the latest trends.",
+        "Some trends from the 1990s are back."
+      ]
+    },
+    {
+      "word": "channels",
+      "ipa": "/ˈtʃænəlz/",
+      "def": "Pages where creators post their videos",
+      "ex": [
+        "She follows three cooking channels.",
+        "Some channels post a new video every day.",
+        "Kids' channels are popular on the app."
+      ]
+    },
+    {
+      "word": "feed",
+      "ipa": "/fid/",
+      "def": "The stream of posts an app shows you",
+      "ex": [
+        "My feed is full of cat videos.",
+        "He checks his feed before breakfast.",
+        "The new post appeared at the top of her feed."
+      ]
+    },
+    {
+      "word": "followers",
+      "ipa": "/ˈfɑloʊərz/",
+      "def": "People who choose to see your posts",
+      "ex": [
+        "The chef has two million followers.",
+        "She thanked her followers for their support.",
+        "New followers joined after the funny video."
+      ]
+    },
+    {
+      "word": "fame",
+      "ipa": "/feɪm/",
+      "def": "Being known by many people",
+      "ex": [
+        "The song brought her sudden fame.",
+        "He says fame did not change him.",
+        "Fame can disappear as fast as it comes."
+      ]
+    },
+    {
+      "word": "brand",
+      "ipa": "/brænd/",
+      "def": "A company name and the products it sells",
+      "ex": [
+        "She started her own clothing brand.",
+        "The brand is famous for cheap, strong shoes.",
+        "Which brand of phone do you use?"
+      ]
+    },
+    {
+      "word": "lottery ticket",
+      "ipa": "/ˈlɑtəri ˈtɪkɪt/",
+      "def": "A paper you buy for a chance to win money",
+      "ex": [
+        "He buys one lottery ticket every Friday.",
+        "A winning lottery ticket changed her life.",
+        "The old lottery ticket was worth nothing."
+      ]
+    },
+    {
+      "word": "tips",
+      "ipa": "/tɪps/",
+      "def": "Small amounts of money given to thank someone",
+      "ex": [
+        "Waiters here live mostly on tips.",
+        "The singer collects tips in a guitar case.",
+        "Good service brings bigger tips."
+      ]
+    },
+    {
+      "word": "trust",
+      "ipa": "/trʌst/",
+      "def": "Belief that someone is honest",
+      "ex": [
+        "Trust takes years to build.",
+        "She lost his trust after the lie.",
+        "Doctors need the trust of their patients."
+      ]
+    },
+    {
+      "word": "creator",
+      "ipa": "/kriˈeɪtər/",
+      "def": "A person who makes online videos and posts",
+      "ex": [
+        "The creator answers fan questions on Fridays.",
+        "A famous creator visited our school.",
+        "Each creator has a different style."
+      ]
+    },
+    {
+      "word": "surveyed",
+      "ipa": "/sərˈveɪd/",
+      "def": "Asked many people official questions",
+      "ex": [
+        "The city surveyed drivers about the new road.",
+        "We surveyed 200 students about lunch.",
+        "The station surveyed listeners for song ideas."
+      ]
+    },
+    {
+      "word": "regions",
+      "ipa": "/ˈridʒənz/",
+      "def": "Large areas of a country or the world",
+      "ex": [
+        "Rice grows in the wetter regions.",
+        "Some regions get snow all year.",
+        "The app works in over 50 regions."
+      ]
+    },
+    {
+      "word": "bills",
+      "ipa": "/bɪlz/",
+      "def": "Papers that ask you to pay money",
+      "ex": [
+        "The electricity bills arrive monthly.",
+        "He pays his bills the day they come.",
+        "Winter heating bills can be painful."
+      ]
+    },
+    {
+      "word": "following",
+      "ipa": "/ˈfɑloʊɪŋ/",
+      "def": "The group of fans who support someone",
+      "ex": [
+        "The band has a loyal following in Brazil.",
+        "Her following doubled after the interview.",
+        "A small following can still support a shop."
+      ]
+    },
+    {
+      "word": "constant",
+      "ipa": "/ˈkɑnstənt/",
+      "def": "Happening all the time without stopping",
+      "ex": [
+        "The constant noise kept us awake.",
+        "Babies need constant attention.",
+        "There was constant rain all weekend."
+      ]
+    },
+    {
+      "word": "schedules",
+      "ipa": "/ˈskɛdʒulz/",
+      "def": "Plans that list times for doing things",
+      "ex": [
+        "The train schedules changed this week.",
+        "Busy schedules leave little time for rest.",
+        "Coaches build strict practice schedules."
+      ]
+    },
+    {
+      "word": "launched",
+      "ipa": "/lɔntʃt/",
+      "def": "Started something new for the public",
+      "ex": [
+        "The company launched a cheaper phone.",
+        "She launched a podcast about cooking.",
+        "They launched the service in ten cities."
+      ]
+    },
+    {
+      "word": "top earners",
+      "ipa": "/tɑp ˈɜrnərz/",
+      "def": "The people who make the most money",
+      "ex": [
+        "Surgeons are among the top earners.",
+        "The top earners pay higher taxes.",
+        "Only top earners can afford that street."
+      ]
+    },
+    {
+      "word": "full-time",
+      "ipa": "/fʊl taɪm/",
+      "def": "Taking all of your normal working hours",
+      "ex": [
+        "She found a full-time job at the library.",
+        "Full-time work leaves him tired.",
+        "He switched from part-time to full-time."
+      ]
+    },
+    {
+      "word": "ads",
+      "ipa": "/ædz/",
+      "def": "Short paid messages that sell things",
+      "ex": [
+        "The game shows ads between levels.",
+        "Car ads fill the sports break.",
+        "She skips ads whenever possible."
+      ]
+    },
+    {
+      "word": "patient",
+      "ipa": "/ˈpeɪʃənt/",
+      "def": "Able to wait calmly without anger",
+      "ex": [
+        "Be patient, the bread needs an hour.",
+        "A patient teacher repeats things kindly.",
+        "Fishing rewards patient people."
+      ]
+    },
+    {
+      "word": "career",
+      "ipa": "/kəˈrɪr/",
+      "def": "The working life a person builds over years",
+      "ex": [
+        "Her nursing career lasted forty years.",
+        "He changed his career at thirty-five.",
+        "A sports career can be short."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A big new study of more than five thousand creators found that most earn under ten thousand dollars a year. Many need other jobs, and only a small group gets rich.",
+      "a": true,
+      "why": "67 percent of the 5,095 creators surveyed bring in less than that, and six in ten cannot get by on online money alone."
+    },
+    {
+      "s": "A new study found that most online creators earn around ten thousand a month from their videos. Half of them also make extra money selling their own brands.",
+      "a": false,
+      "why": "Close, but the study says under ten thousand a YEAR, not a month. The brand number is real, but the pay number is flipped."
+    },
+    {
+      "s": "The biggest video apps promised to pay every small creator a salary starting next year. The plan is meant to help tiny channels compete with famous stars.",
+      "a": false,
+      "why": "The article reports a survey about what creators already earn. No app promised anyone a salary."
+    }
+  ],
+  "tf": [
+    {
+      "s": "Two thirds of the creators said their content brings in less than ten thousand dollars a year",
+      "a": true,
+      "why": "The survey of 5,095 creators found 67 percent earn under that amount from their posts and videos."
+    },
+    {
+      "s": "Most creators can easily get by on their online money alone",
+      "a": false,
+      "why": "Six in ten cannot get by on it, so many turn to teaching, office work, or delivery jobs."
+    },
+    {
+      "s": "The study says warm comments matter more for pay than follower numbers",
+      "a": false,
+      "why": "Pay follows size. Creators with more followers and views earn more, even when small channels get warmer comments."
+    },
+    {
+      "s": "About half of the creators have launched their own brand or plan to start one",
+      "a": true,
+      "why": "Top creators often cash in on their fame by selling their own products."
+    },
+    {
+      "s": "The report compares creating to a lottery ticket that pays off fast",
+      "a": false,
+      "why": "It says the opposite. Creating is a slow business where small numbers add up month after month."
+    },
+    {
+      "s": "Some creators worry that deals with companies could cost them their fans' trust",
+      "a": true,
+      "why": "42 percent worry that such deals could damage the trust they built up with their audience."
+    }
+  ]
+}

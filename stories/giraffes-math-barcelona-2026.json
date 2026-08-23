@@ -1,1 +1,528 @@
-{"id": "giraffes-math-barcelona-2026", "number": 1, "headline": "Giraffes can do simple math", "badge": "Nature", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n1-giraffes-math-barcelona-2026-flat.webp", "position": "center 15%", "sources": [{"title": "Study finds giraffes may be capable of rudimentary math - UPI", "url": "https://www.upi.com/Odd_News/2026/07/01/spain-University-of-Barcelona-zoo-giraffes-math/3071782924817/"}, {"title": "Giraffes combine quantities similarly to addition - University of Barcelona", "url": "https://www.neurociencies.ub.edu/a-study-by-the-university-of-barcelona-shows-that-giraffes-combine-quantities-similarly-to-addition/"}, {"title": "Giraffes combine quantities similarly to addition - Phys.org", "url": "https://phys.org/news/2026-06-giraffes-combine-quantities-similarly-addition.html"}, {"title": "9@9: Giraffes can do math (video, WGN Living)", "url": "https://www.youtube.com/watch?v=MUnqWxA35Sg"}], "chunks": [{"text": "Scientists have {{found out}} that giraffes can do simple math. [[Researchers]] at the University of Barcelona {{carried out}} a study with four giraffes at a zoo in Spain. They wanted to see [[whether]] the animals could {{work out}} which [[amount]] of food was bigger. The results [[surprised]] many people.", "verbs": [{"display": "found out", "base": "find out", "wrong": "To share a fact with the public", "correct": "To learn or discover something", "correctFirst": false}, {"display": "carried out", "base": "carry out", "wrong": "To plan something in detail", "correct": "To do or perform a task", "correctFirst": false}, {"display": "work out", "base": "work out", "wrong": "To smell the difference in food type", "correct": "To find the answer to something", "correctFirst": false}]}, {"text": "In the test, the scientists {{set up}} [[clear]] [[containers]] with different numbers of carrot and vegetable pieces. Sometimes they added more pieces, and sometimes they {{took away}} a few. Each time, the giraffes had to {{pick out}} the container with more food. To get the [[reward]], the animals used their long [[tongues]] to reach it.", "verbs": [{"display": "set up", "base": "set up", "wrong": "To hide something from view", "correct": "To prepare or arrange something", "correctFirst": false}, {"display": "took away", "base": "take away", "wrong": "To put things in a row", "correct": "To remove something", "correctFirst": true}, {"display": "pick out", "base": "pick out", "wrong": "To point at something you want", "correct": "To choose one thing from several", "correctFirst": true}]}, {"text": "When the scientists added pieces, the giraffes did [[far better]] than [[luck]] [[alone]] would explain. [[According to the study]], they chose the larger amount about 68 percent of the time. This helped the team {{rule out}} the idea that the animals were only [[guessing]]. The results [[suggest]] giraffes can {{keep track of}} small numbers and can {{tell apart}} large and small amounts of food. However, the animals could not [[solve]] harder tasks, [[such as]] [[subtraction]].", "verbs": [{"display": "rule out", "base": "rule out", "wrong": "To show that an idea is only partly true", "correct": "To decide that something is not possible", "correctFirst": false}, {"display": "keep track of", "base": "keep track of", "wrong": "To multiply two numbers together quickly", "correct": "To follow the number or progress of something", "correctFirst": true, "kind": "expression"}, {"display": "tell apart", "base": "tell apart", "wrong": "To choose the thing that you like best", "correct": "To see the difference between things", "correctFirst": true}]}, {"text": "[[For a long time]], people thought that only humans and a few [[clever]] animals, such as [[primates]] and crows, had [[a sense of]] numbers. This new study adds to [[a growing list]] of animals that can count [[in some way]]. The researchers now want to {{carry on}} their work with other zoo animals. They hope it will help us {{figure out}} more about how animal minds work.", "verbs": [{"display": "carry on", "base": "carry on", "wrong": "To repeat the same test one more time", "correct": "To continue doing something", "correctFirst": true}, {"display": "figure out", "base": "figure out", "wrong": "To watch something very closely", "correct": "To understand or solve something", "correctFirst": false}]}], "vocab": [{"verb": "Find out", "ipa": "/faɪnd aʊt/", "def": "To learn or discover something", "ex": ["I called the school to find out about the schedule change.", "I want to find out what happened.", "We found out the truth later."]}, {"verb": "Carry out", "ipa": "/ˈkæri aʊt/", "def": "To do or perform a task", "ex": ["The class carried out a small experiment with plants.", "Doctors carried out several tests before the surgery began.", "They carried out the plan carefully."]}, {"verb": "Work out", "ipa": "/wərk aʊt/", "def": "To find the answer to something", "ex": ["He tried to work out why the printer stopped working.", "I can't work out this problem.", "She worked out the cost in her head."]}, {"verb": "Set up", "ipa": "/sɛt ʌp/", "def": "To prepare or arrange something", "ex": ["We set up the tables and chairs before the guests arrived.", "They set up an experiment to test the new idea.", "We set up the room for the meeting."]}, {"verb": "Take away", "ipa": "/teɪk əˈweɪ/", "def": "To remove something", "ex": ["The waiter took away our plates as soon as we finished.", "Please take away these empty plates.", "The nurse took away the old bandage."]}, {"verb": "Pick out", "ipa": "/pɪk aʊt/", "def": "To choose one thing from several", "ex": ["He picked out a birthday card for his grandmother.", "She picked out a dress from the rack.", "Can you pick out your bag from these?"]}, {"verb": "Rule out", "ipa": "/ruːl aʊt/", "def": "To decide that something is not possible", "ex": ["The mechanic ruled out a battery problem after testing it.", "Doctors ruled out a serious illness.", "We can't rule out bad weather."]}, {"verb": "Keep track of", "ipa": "/kiːp træk əv/", "def": "To follow the number or progress of something", "ex": ["She keeps track of her workouts in a small notebook.", "I keep track of my spending.", "It's hard to keep track of all the changes."], "kind": "expression"}, {"verb": "Tell apart", "ipa": "/tɛl əˈpɑrt/", "def": "To see the difference between things", "ex": ["It's hard to tell apart the two brothers on the phone.", "The twins are hard to tell apart.", "Can you tell apart the real one and the copy?"]}, {"verb": "Carry on", "ipa": "/ˈkæri ɑn/", "def": "To continue doing something", "ex": ["The band carried on playing after the lights went out.", "They carried on despite the rain.", "Please carry on without me if I am running late."]}, {"verb": "Figure out", "ipa": "/ˈfɪɡjər aʊt/", "def": "To understand or solve something", "ex": ["We need to figure out how to fix the leaking faucet.", "I finally figured out the answer.", "Let's figure out a plan before the trip next week."]}], "wordDefs": [{"word": "whether", "ipa": "/ˈwɛðər/", "def": "Used when there is a choice or a doubt between two possibilities", "ex": ["I don't know whether to call him or send a message.", "She asked whether the store was open on Sunday.", "He wondered whether the bus would come on time."]}, {"word": "surprised", "ipa": "/sərˈpraɪzd/", "def": "Made someone feel shock because something was not expected", "ex": ["The ending of the book surprised me.", "My friends surprised me with a cake on my birthday.", "Her quick reply surprised everyone in the meeting."]}, {"word": "far better", "ipa": "/fɑr ˈbɛtər/", "def": "Much better than something else", "ex": ["This coffee is far better than the one at work.", "Her second try was far better than her first.", "The new phone battery is far better than the old one."]}, {"word": "luck", "ipa": "/lʌk/", "def": "Good or bad things that happen by chance", "ex": ["I won the game by pure luck.", "Good luck with your test tomorrow!", "We found the lost ring by pure luck."]}, {"word": "guessing", "ipa": "/ˈɡɛsɪŋ/", "def": "Giving an answer without knowing if it is correct", "ex": ["I was just guessing the answer on the last question.", "Stop guessing and read the instructions.", "He kept guessing the price of the used car."]}, {"word": "suggest", "ipa": "/səˈdʒɛst/", "def": "To say that something is probably true, or to give an idea", "ex": ["The dark clouds suggest that rain is coming.", "Can you suggest a good place for dinner?", "Her tired eyes suggest she did not sleep well."]}, {"word": "solve", "ipa": "/sɑlv/", "def": "To find an answer to a problem", "ex": ["It took me an hour to solve the puzzle.", "We need to solve this problem before Friday.", "Detectives worked all night to solve the case."]}, {"word": "such as", "ipa": "/sʌtʃ əz/", "def": "Used to give an example of something", "ex": ["I enjoy sports such as tennis and swimming.", "Bring warm clothes, such as a coat and gloves.", "Some fruits, such as bananas, are easy to pack."]}, {"word": "a sense of", "ipa": "/ə sɛns əv/", "def": "A feeling or an understanding of something", "ex": ["She has a sense of humor that makes everyone laugh.", "After the long trip I had a sense of calm.", "Winning the race gave him a sense of pride."]}, {"word": "a growing list", "ipa": "/ə ˈɡroʊɪŋ lɪst/", "def": "A list of things that keeps getting longer", "ex": ["There is a growing list of jobs I need to do at home.", "He added the novel to a growing list of books to read.", "The city has a growing list of parks to visit."]}, {"word": "in some way", "ipa": "/ɪn sʌm weɪ/", "def": "Somehow, or to a certain degree", "ex": ["Every job helps people in some way.", "The song reminded me of my childhood in some way.", "The two stories are connected in some way."]}, {"word": "Researchers", "ipa": "/ˈriːsərtʃərz/", "def": "People who study something carefully", "ex": ["Researchers at the university studied sleep patterns in teens.", "The researchers published their results in a journal.", "A team of researchers traveled to study the coral reef."]}, {"word": "containers", "ipa": "/kənˈteɪnərz/", "def": "Objects that hold things inside", "ex": ["He stacked the containers neatly in the garage.", "The kitchen has containers for rice and beans.", "Workers loaded the containers onto the ship."]}, {"word": "reward", "ipa": "/rɪˈwɔːrd/", "def": "Something given for good performance", "ex": ["The dog gets a reward for sitting still.", "A small reward kept the children interested.", "The company offered a reward for the missing wallet."]}, {"word": "tongues", "ipa": "/tʌŋz/", "def": "The soft moving parts inside the mouth", "ex": ["The lizard flicked its tongue to catch a fly.", "Dogs pant with their tongues to cool down.", "The child stuck out his tongue at his sister."]}, {"word": "amount", "ipa": "/əˈmaʊnt/", "def": "How much of something there is", "ex": ["The amount of water was too small.", "She measured the exact amount of sugar.", "A large amount of traffic slowed the drive home."]}, {"word": "clever", "ipa": "/ˈklɛvər/", "def": "Quick to learn and understand", "ex": ["Crows are surprisingly clever birds.", "That was a clever way to solve it.", "She gave a clever answer during the interview."]}, {"word": "primates", "ipa": "/ˈpraɪmeɪts/", "def": "The animal group including apes and monkeys", "ex": ["Scientists study how primates communicate with each other.", "The zoo built a new home for its primates.", "Some primates use simple tools to find food."]}, {"word": "subtraction", "ipa": "/səbˈtrækʃən/", "def": "Removing one number from another", "ex": ["Subtraction is harder than counting.", "The class practiced subtraction all week.", "She checked her subtraction twice before handing in the test."]}, {"word": "clear", "def": "Able to be seen through", "ex": ["The clear glass let sunlight fill the room.", "She poured the drink into a clear cup.", "A clear plastic cover protected the poster."]}, {"word": "according to the study", "def": "As stated in the study", "ex": ["According to the study, sleep improves memory.", "According to the study, most workers felt happier.", "According to the study, exercise lowers stress levels."]}, {"word": "alone", "def": "By itself, without anything else", "ex": ["Hard work alone will not guarantee success.", "The plan failed because money alone was not enough.", "Talent alone does not make someone a good leader."]}, {"word": "for a long time", "def": "During a long period", "ex": ["They lived in that house for a long time.", "She studied piano for a long time as a child.", "The company struggled for a long time before improving."]}], "mainIdea": [{"s": "Four giraffes usually chose the container with more food, so it seems they can tell small numbers apart. They could not do harder math, such as subtraction.", "a": true, "why": "They picked the larger amount about 68 percent of the time, which is better than guessing. But the study says they could not solve harder tasks such as subtraction."}, {"s": "Scientists in Spain tested four zoo giraffes and found they can add and subtract small amounts of food. They say the animals are now as clever as primates.", "a": false, "why": "Close, but subtraction was too hard for the giraffes. The study only shows they can tell a larger amount of food from a smaller one."}, {"s": "Zoos in Spain have started giving giraffes puzzle feeders to keep their minds busy. Keepers say the animals now eat more slowly and seem much calmer.", "a": false, "why": "This story is about a test of whether giraffes can compare amounts of food. It is not about how zoos feed them."}], "tf": [{"s": "Researchers carried on a new study with four giraffes at a zoo in Spain.", "a": false, "why": "The researchers carried out (performed) a new study. Carry on means to continue something that is already happening."}, {"s": "In the test, the giraffes had to pick out the container that held more food.", "a": true, "why": "Each time, the giraffes had to pick out (choose) the container with more food to get the reward."}, {"s": "Sometimes the scientists picked out a few pieces of food from the containers.", "a": false, "why": "Sometimes the scientists took away (removed) a few pieces. Pick out means to choose one thing from several, not to remove one."}, {"s": "Scientists found out that giraffes can do simple math.", "a": true, "why": "Researchers at the University of Barcelona found out (discovered) that giraffes can do simple math."}, {"s": "The researchers want to carry on their work with other zoo animals.", "a": true, "why": "The team wants to carry on (continue) their research to learn more about how animal minds work."}, {"s": "This new study shows that giraffes cannot count in any way at all", "a": false, "why": "The study suggests giraffes can keep track of small numbers, adding them to the growing list of counting animals."}]}
+{
+  "id": "giraffes-math-barcelona-2026",
+  "number": 1,
+  "headline": "Giraffes can do simple math",
+  "badge": "Nature",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n1-giraffes-math-barcelona-2026-flat.webp",
+  "position": "center 15%",
+  "sources": [
+    {
+      "title": "Study finds giraffes may be capable of rudimentary math - UPI",
+      "url": "https://www.upi.com/Odd_News/2026/07/01/spain-University-of-Barcelona-zoo-giraffes-math/3071782924817/"
+    },
+    {
+      "title": "Giraffes combine quantities similarly to addition - University of Barcelona",
+      "url": "https://www.neurociencies.ub.edu/a-study-by-the-university-of-barcelona-shows-that-giraffes-combine-quantities-similarly-to-addition/"
+    },
+    {
+      "title": "Giraffes combine quantities similarly to addition - Phys.org",
+      "url": "https://phys.org/news/2026-06-giraffes-combine-quantities-similarly-addition.html"
+    },
+    {
+      "title": "9@9: Giraffes can do math (video, WGN Living)",
+      "url": "https://www.youtube.com/watch?v=MUnqWxA35Sg"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "Scientists have {{found out}} that giraffes can do simple math. [[Researchers]] at the University of Barcelona {{carried out}} a study with four giraffes at a zoo in Spain. They wanted to see [[whether]] the animals could {{work out}} which [[amount]] of food was bigger. The results [[surprised]] many people.",
+      "verbs": [
+        {
+          "display": "found out",
+          "base": "find out",
+          "wrong": "To share a fact with the public",
+          "correct": "To learn or discover something",
+          "correctFirst": false,
+          "why": "We use find out when you discover information, such as a secret, a price, or a result. Be careful: you learn a skill, but you find out a fact."
+        },
+        {
+          "display": "carried out",
+          "base": "carry out",
+          "wrong": "To plan something in detail",
+          "correct": "To do or perform a task",
+          "correctFirst": false,
+          "why": "Carry out is the formal way to say do a task that was planned: scientists carry out studies, and companies carry out plans. In everyday talk, people usually just say do."
+        },
+        {
+          "display": "work out",
+          "base": "work out",
+          "wrong": "To smell the difference in food type",
+          "correct": "To find the answer to something",
+          "correctFirst": false,
+          "why": "Here work out means to calculate in your head. Be careful: work out is also very common for exercising at the gym."
+        }
+      ]
+    },
+    {
+      "text": "In the test, the scientists {{set up}} [[clear]] [[containers]] with different numbers of carrot and vegetable pieces. Sometimes they added more pieces, and sometimes they {{took away}} a few. Each time, the giraffes had to {{pick out}} the container with more food. To get the [[reward]], the animals used their long [[tongues]] to reach it.",
+      "verbs": [
+        {
+          "display": "set up",
+          "base": "set up",
+          "wrong": "To hide something from view",
+          "correct": "To prepare or arrange something",
+          "correctFirst": false,
+          "why": "You set up anything that needs arranging before it is ready to use: an experiment, a tent, a new phone."
+        },
+        {
+          "display": "took away",
+          "base": "take away",
+          "wrong": "To put things in a row",
+          "correct": "To remove something",
+          "correctFirst": true,
+          "why": "Take away is the opposite of add: the scientists sometimes added pieces of food and sometimes took a few pieces away."
+        },
+        {
+          "display": "pick out",
+          "base": "pick out",
+          "wrong": "To point at something you want",
+          "correct": "To choose one thing from several",
+          "correctFirst": true,
+          "why": "Pick out means to choose after looking carefully at all the options: a shirt in a store, a face in a crowd, the container with more carrots."
+        }
+      ]
+    },
+    {
+      "text": "When the scientists added pieces, the giraffes did [[far better]] than [[luck]] [[alone]] would explain. [[According to the study]], they chose the larger amount about 68 percent of the time. This helped the team {{rule out}} the idea that the animals were only [[guessing]]. The results [[suggest]] giraffes can {{keep track of}} small numbers and can {{tell apart}} large and small amounts of food. However, the animals could not [[solve]] harder tasks, [[such as]] [[subtraction]].",
+      "verbs": [
+        {
+          "display": "rule out",
+          "base": "rule out",
+          "wrong": "To show that an idea is only partly true",
+          "correct": "To decide that something is not possible",
+          "correctFirst": false,
+          "why": "When you rule out an idea, you decide it cannot be the answer and stop thinking about it. The giraffes' results were too good to be luck, so the team ruled luck out."
+        },
+        {
+          "display": "keep track of",
+          "base": "keep track of",
+          "wrong": "To multiply two numbers together quickly",
+          "correct": "To follow the number or progress of something",
+          "correctFirst": true,
+          "kind": "expression",
+          "why": "You keep track of things that change, so you always know their number or state: your spending, the score, the days until vacation."
+        },
+        {
+          "display": "tell apart",
+          "base": "tell apart",
+          "wrong": "To choose the thing that you like best",
+          "correct": "To see the difference between things",
+          "correctFirst": true,
+          "why": "If you can tell two things apart, you never confuse them. Notice the word order: we say tell them apart, not tell apart them."
+        }
+      ]
+    },
+    {
+      "text": "[[For a long time]], people thought that only humans and a few [[clever]] animals, such as [[primates]] and crows, had [[a sense of]] numbers. This new study adds to [[a growing list]] of animals that can count [[in some way]]. The researchers now want to {{carry on}} their work with other zoo animals. They hope it will help us {{figure out}} more about how animal minds work.",
+      "verbs": [
+        {
+          "display": "carry on",
+          "base": "carry on",
+          "wrong": "To repeat the same test one more time",
+          "correct": "To continue doing something",
+          "correctFirst": true,
+          "why": "Carry on means to continue, especially after a pause or a problem. Americans use it too, but it is even more common in British English."
+        },
+        {
+          "display": "figure out",
+          "base": "figure out",
+          "wrong": "To watch something very closely",
+          "correct": "To understand or solve something",
+          "correctFirst": false,
+          "why": "Figure out means to understand something after thinking hard: a problem, a reason, even a person. It is one of the most common phrasal verbs in American English."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Find out",
+      "ipa": "/faɪnd aʊt/",
+      "def": "To learn or discover something",
+      "ex": [
+        "I called the school to find out about the schedule change.",
+        "I want to find out what happened.",
+        "We found out the truth later."
+      ]
+    },
+    {
+      "verb": "Carry out",
+      "ipa": "/ˈkæri aʊt/",
+      "def": "To do or perform a task",
+      "ex": [
+        "The class carried out a small experiment with plants.",
+        "Doctors carried out several tests before the surgery began.",
+        "They carried out the plan carefully."
+      ]
+    },
+    {
+      "verb": "Work out",
+      "ipa": "/wərk aʊt/",
+      "def": "To find the answer to something",
+      "ex": [
+        "He tried to work out why the printer stopped working.",
+        "I can't work out this problem.",
+        "She worked out the cost in her head."
+      ]
+    },
+    {
+      "verb": "Set up",
+      "ipa": "/sɛt ʌp/",
+      "def": "To prepare or arrange something",
+      "ex": [
+        "We set up the tables and chairs before the guests arrived.",
+        "They set up an experiment to test the new idea.",
+        "We set up the room for the meeting."
+      ]
+    },
+    {
+      "verb": "Take away",
+      "ipa": "/teɪk əˈweɪ/",
+      "def": "To remove something",
+      "ex": [
+        "The waiter took away our plates as soon as we finished.",
+        "Please take away these empty plates.",
+        "The nurse took away the old bandage."
+      ]
+    },
+    {
+      "verb": "Pick out",
+      "ipa": "/pɪk aʊt/",
+      "def": "To choose one thing from several",
+      "ex": [
+        "He picked out a birthday card for his grandmother.",
+        "She picked out a dress from the rack.",
+        "Can you pick out your bag from these?"
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "ipa": "/ruːl aʊt/",
+      "def": "To decide that something is not possible",
+      "ex": [
+        "The mechanic ruled out a battery problem after testing it.",
+        "Doctors ruled out a serious illness.",
+        "We can't rule out bad weather."
+      ]
+    },
+    {
+      "verb": "Keep track of",
+      "ipa": "/kiːp træk əv/",
+      "def": "To follow the number or progress of something",
+      "ex": [
+        "She keeps track of her workouts in a small notebook.",
+        "I keep track of my spending.",
+        "It's hard to keep track of all the changes."
+      ],
+      "kind": "expression"
+    },
+    {
+      "verb": "Tell apart",
+      "ipa": "/tɛl əˈpɑrt/",
+      "def": "To see the difference between things",
+      "ex": [
+        "It's hard to tell apart the two brothers on the phone.",
+        "The twins are hard to tell apart.",
+        "Can you tell apart the real one and the copy?"
+      ]
+    },
+    {
+      "verb": "Carry on",
+      "ipa": "/ˈkæri ɑn/",
+      "def": "To continue doing something",
+      "ex": [
+        "The band carried on playing after the lights went out.",
+        "They carried on despite the rain.",
+        "Please carry on without me if I am running late."
+      ]
+    },
+    {
+      "verb": "Figure out",
+      "ipa": "/ˈfɪɡjər aʊt/",
+      "def": "To understand or solve something",
+      "ex": [
+        "We need to figure out how to fix the leaking faucet.",
+        "I finally figured out the answer.",
+        "Let's figure out a plan before the trip next week."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "whether",
+      "ipa": "/ˈwɛðər/",
+      "def": "Used when there is a choice or a doubt between two possibilities",
+      "ex": [
+        "I don't know whether to call him or send a message.",
+        "She asked whether the store was open on Sunday.",
+        "He wondered whether the bus would come on time."
+      ]
+    },
+    {
+      "word": "surprised",
+      "ipa": "/sərˈpraɪzd/",
+      "def": "Made someone feel shock because something was not expected",
+      "ex": [
+        "The ending of the book surprised me.",
+        "My friends surprised me with a cake on my birthday.",
+        "Her quick reply surprised everyone in the meeting."
+      ]
+    },
+    {
+      "word": "far better",
+      "ipa": "/fɑr ˈbɛtər/",
+      "def": "Much better than something else",
+      "ex": [
+        "This coffee is far better than the one at work.",
+        "Her second try was far better than her first.",
+        "The new phone battery is far better than the old one."
+      ]
+    },
+    {
+      "word": "luck",
+      "ipa": "/lʌk/",
+      "def": "Good or bad things that happen by chance",
+      "ex": [
+        "I won the game by pure luck.",
+        "Good luck with your test tomorrow!",
+        "We found the lost ring by pure luck."
+      ]
+    },
+    {
+      "word": "guessing",
+      "ipa": "/ˈɡɛsɪŋ/",
+      "def": "Giving an answer without knowing if it is correct",
+      "ex": [
+        "I was just guessing the answer on the last question.",
+        "Stop guessing and read the instructions.",
+        "He kept guessing the price of the used car."
+      ]
+    },
+    {
+      "word": "suggest",
+      "ipa": "/səˈdʒɛst/",
+      "def": "To say that something is probably true, or to give an idea",
+      "ex": [
+        "The dark clouds suggest that rain is coming.",
+        "Can you suggest a good place for dinner?",
+        "Her tired eyes suggest she did not sleep well."
+      ]
+    },
+    {
+      "word": "solve",
+      "ipa": "/sɑlv/",
+      "def": "To find an answer to a problem",
+      "ex": [
+        "It took me an hour to solve the puzzle.",
+        "We need to solve this problem before Friday.",
+        "Detectives worked all night to solve the case."
+      ]
+    },
+    {
+      "word": "such as",
+      "ipa": "/sʌtʃ əz/",
+      "def": "Used to give an example of something",
+      "ex": [
+        "I enjoy sports such as tennis and swimming.",
+        "Bring warm clothes, such as a coat and gloves.",
+        "Some fruits, such as bananas, are easy to pack."
+      ]
+    },
+    {
+      "word": "a sense of",
+      "ipa": "/ə sɛns əv/",
+      "def": "A feeling or an understanding of something",
+      "ex": [
+        "She has a sense of humor that makes everyone laugh.",
+        "After the long trip I had a sense of calm.",
+        "Winning the race gave him a sense of pride."
+      ]
+    },
+    {
+      "word": "a growing list",
+      "ipa": "/ə ˈɡroʊɪŋ lɪst/",
+      "def": "A list of things that keeps getting longer",
+      "ex": [
+        "There is a growing list of jobs I need to do at home.",
+        "He added the novel to a growing list of books to read.",
+        "The city has a growing list of parks to visit."
+      ]
+    },
+    {
+      "word": "in some way",
+      "ipa": "/ɪn sʌm weɪ/",
+      "def": "Somehow, or to a certain degree",
+      "ex": [
+        "Every job helps people in some way.",
+        "The song reminded me of my childhood in some way.",
+        "The two stories are connected in some way."
+      ]
+    },
+    {
+      "word": "Researchers",
+      "ipa": "/ˈriːsərtʃərz/",
+      "def": "People who study something carefully",
+      "ex": [
+        "Researchers at the university studied sleep patterns in teens.",
+        "The researchers published their results in a journal.",
+        "A team of researchers traveled to study the coral reef."
+      ]
+    },
+    {
+      "word": "containers",
+      "ipa": "/kənˈteɪnərz/",
+      "def": "Objects that hold things inside",
+      "ex": [
+        "He stacked the containers neatly in the garage.",
+        "The kitchen has containers for rice and beans.",
+        "Workers loaded the containers onto the ship."
+      ]
+    },
+    {
+      "word": "reward",
+      "ipa": "/rɪˈwɔːrd/",
+      "def": "Something given for good performance",
+      "ex": [
+        "The dog gets a reward for sitting still.",
+        "A small reward kept the children interested.",
+        "The company offered a reward for the missing wallet."
+      ]
+    },
+    {
+      "word": "tongues",
+      "ipa": "/tʌŋz/",
+      "def": "The soft moving parts inside the mouth",
+      "ex": [
+        "The lizard flicked its tongue to catch a fly.",
+        "Dogs pant with their tongues to cool down.",
+        "The child stuck out his tongue at his sister."
+      ]
+    },
+    {
+      "word": "amount",
+      "ipa": "/əˈmaʊnt/",
+      "def": "How much of something there is",
+      "ex": [
+        "The amount of water was too small.",
+        "She measured the exact amount of sugar.",
+        "A large amount of traffic slowed the drive home."
+      ]
+    },
+    {
+      "word": "clever",
+      "ipa": "/ˈklɛvər/",
+      "def": "Quick to learn and understand",
+      "ex": [
+        "Crows are surprisingly clever birds.",
+        "That was a clever way to solve it.",
+        "She gave a clever answer during the interview."
+      ]
+    },
+    {
+      "word": "primates",
+      "ipa": "/ˈpraɪmeɪts/",
+      "def": "The animal group including apes and monkeys",
+      "ex": [
+        "Scientists study how primates communicate with each other.",
+        "The zoo built a new home for its primates.",
+        "Some primates use simple tools to find food."
+      ]
+    },
+    {
+      "word": "subtraction",
+      "ipa": "/səbˈtrækʃən/",
+      "def": "Removing one number from another",
+      "ex": [
+        "Subtraction is harder than counting.",
+        "The class practiced subtraction all week.",
+        "She checked her subtraction twice before handing in the test."
+      ]
+    },
+    {
+      "word": "clear",
+      "def": "Able to be seen through",
+      "ex": [
+        "The clear glass let sunlight fill the room.",
+        "She poured the drink into a clear cup.",
+        "A clear plastic cover protected the poster."
+      ]
+    },
+    {
+      "word": "according to the study",
+      "def": "As stated in the study",
+      "ex": [
+        "According to the study, sleep improves memory.",
+        "According to the study, most workers felt happier.",
+        "According to the study, exercise lowers stress levels."
+      ]
+    },
+    {
+      "word": "alone",
+      "def": "By itself, without anything else",
+      "ex": [
+        "Hard work alone will not guarantee success.",
+        "The plan failed because money alone was not enough.",
+        "Talent alone does not make someone a good leader."
+      ]
+    },
+    {
+      "word": "for a long time",
+      "def": "During a long period",
+      "ex": [
+        "They lived in that house for a long time.",
+        "She studied piano for a long time as a child.",
+        "The company struggled for a long time before improving."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Four giraffes usually chose the container with more food, so it seems they can tell small numbers apart. They could not do harder math, such as subtraction.",
+      "a": true,
+      "why": "They picked the larger amount about 68 percent of the time, which is better than guessing. But the study says they could not solve harder tasks such as subtraction."
+    },
+    {
+      "s": "Scientists in Spain tested four zoo giraffes and found they can add and subtract small amounts of food. They say the animals are now as clever as primates.",
+      "a": false,
+      "why": "Close, but subtraction was too hard for the giraffes. The study only shows they can tell a larger amount of food from a smaller one."
+    },
+    {
+      "s": "Zoos in Spain have started giving giraffes puzzle feeders to keep their minds busy. Keepers say the animals now eat more slowly and seem much calmer.",
+      "a": false,
+      "why": "This story is about a test of whether giraffes can compare amounts of food. It is not about how zoos feed them."
+    }
+  ],
+  "tf": [
+    {
+      "s": "Researchers carried on a new study with four giraffes at a zoo in Spain.",
+      "a": false,
+      "why": "The researchers carried out (performed) a new study. Carry on means to continue something that is already happening."
+    },
+    {
+      "s": "In the test, the giraffes had to pick out the container that held more food.",
+      "a": true,
+      "why": "Each time, the giraffes had to pick out (choose) the container with more food to get the reward."
+    },
+    {
+      "s": "Sometimes the scientists picked out a few pieces of food from the containers.",
+      "a": false,
+      "why": "Sometimes the scientists took away (removed) a few pieces. Pick out means to choose one thing from several, not to remove one."
+    },
+    {
+      "s": "Scientists found out that giraffes can do simple math.",
+      "a": true,
+      "why": "Researchers at the University of Barcelona found out (discovered) that giraffes can do simple math."
+    },
+    {
+      "s": "The researchers want to carry on their work with other zoo animals.",
+      "a": true,
+      "why": "The team wants to carry on (continue) their research to learn more about how animal minds work."
+    },
+    {
+      "s": "This new study shows that giraffes cannot count in any way at all",
+      "a": false,
+      "why": "The study suggests giraffes can keep track of small numbers, adding them to the growing list of counting animals."
+    }
+  ]
+}

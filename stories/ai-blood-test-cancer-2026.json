@@ -1,1 +1,549 @@
-{"id": "ai-blood-test-cancer-2026", "number": 34, "headline": "New AI blood test could catch cancer early", "badge": "Health", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n34-ai-blood-test-cancer-2026-flat.webp", "position": "center 50%", "sources": [{"title": "NHS AI blood test could reduce invasive womb cancer checks", "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/"}, {"title": "Thousands of women could avoid painful cancer exam with new AI blood test", "url": "https://www.femtechworld.co.uk/news/cancer/thousands-of-women-could-avoid-painful-cancer-exam-with-new-ai-blood-test-onc26/"}, {"title": "Thousands of women could be spared painful cancer exam by new NHS AI blood test", "url": "https://www.aol.co.uk/articles/thousands-women-could-spared-painful-230113000.html"}], "chunks": [{"text": "Scientists in Britain have {{come up with}} a new blood test that can help find cancer. The test uses artificial intelligence, [[a kind of]] smart computer program, to {{pick up}} [[early signs]] of the [[disease]]. Doctors hope it will {{rule out}} cancer in many patients quickly, so they do not need [[painful]] [[exams]]. It could be good news for women who [[worry about]] [[womb]] cancer.", "verbs": [{"display": "come up with", "base": "come up with", "correct": "To think of a new idea or plan", "wrong": "To face a difficult problem", "correctFirst": true}, {"display": "pick up", "base": "pick up", "correct": "To notice or detect something", "wrong": "To take a blood sample from a patient", "correctFirst": false}, {"display": "rule out", "base": "rule out", "correct": "To decide something is not the cause", "wrong": "To place a patient in a higher risk group", "correctFirst": false}]}, {"text": "The test works [[in a simple way]]. A [[nurse]] takes a small [[sample]] of blood from the patient. Then the computer {{looks over}} about 30 [[chemical]] signs in the blood and {{breaks down}} the results into three groups: low [[risk]], medium risk, and high risk. This helps doctors {{narrow down}} which patients [[truly]] need more tests.", "verbs": [{"display": "looks over", "base": "look over", "correct": "To examine something carefully", "wrong": "To print a copy of the results", "correctFirst": true}, {"display": "breaks down", "base": "break down", "correct": "To separate something into parts", "wrong": "To suddenly stop working", "correctFirst": false}, {"display": "narrow down", "base": "narrow down", "correct": "To reduce something to fewer choices", "wrong": "To make a test more accurate", "correctFirst": true}]}, {"text": "For many patients, this test could {{cut out}} [[the need for]] painful exams. [[Right now]], women with worrying [[symptoms]] often have to {{go through}} an [[uncomfortable]] check at the hospital. The new test is very [[accurate]], and in one large study it [[correctly]] found more than 99 percent of real cancers. It can also {{speed up}} the whole process, so patients do not wait and worry [[for so long]].", "verbs": [{"display": "cut out", "base": "cut out", "correct": "To remove something completely", "wrong": "To perform surgery to remove tissue", "correctFirst": true}, {"display": "go through", "base": "go through", "correct": "To experience something difficult", "wrong": "To wait a long time for a result", "correctFirst": false}, {"display": "speed up", "base": "speed up", "correct": "To make something happen faster", "wrong": "To repeat a test more often", "correctFirst": true}]}, {"text": "In a large [[trial]], the test was used on more than 16,000 patients in England, and it costs only about 30 pounds. Some British hospitals have already begun to {{roll out}} the test for their patients. [[Over time]], doctors hope it will {{take on}} other kinds of cancer too, [[such as]] lung and stomach cancer. If it keeps working well, this cheap and simple test may {{catch on}} in hospitals [[around the globe]].", "verbs": [{"display": "roll out", "base": "roll out", "correct": "To introduce something new to people", "wrong": "To withdraw a service from hospitals", "correctFirst": false}, {"display": "take on", "base": "take on", "correct": "To begin to handle something", "wrong": "To be replaced by a different test", "correctFirst": true}, {"display": "catch on", "base": "catch on", "correct": "To become popular or widely used", "wrong": "To be recalled by the manufacturer", "correctFirst": false}]}], "vocab": [{"verb": "Come up with", "ipa": "/kʌm ʌp wɪð/", "def": "To think of a new idea or plan", "ex": ["Our family came up with a fun plan for the weekend trip.", "She came up with a great idea for the project.", "Can you come up with a better plan?"]}, {"verb": "Pick up", "ipa": "/pɪk ʌp/", "def": "To notice or detect something", "ex": ["The smoke alarm picked up a small fire in the kitchen.", "Good doctors pick up small changes in health.", "The machine picked up a weak signal."]}, {"verb": "Rule out", "ipa": "/ruːl aʊt/", "def": "To decide something is not the cause", "ex": ["The mechanic ruled out the battery as the cause of the noise.", "We cannot rule out rain for tomorrow.", "The results ruled out a serious problem."]}, {"verb": "Look over", "ipa": "/lʊk ˈoʊvər/", "def": "To examine something carefully", "ex": ["The buyer looked over the used car before making an offer.", "Please look over my report before I send it.", "She looked over the papers one more time."]}, {"verb": "Break down", "ipa": "/breɪk daʊn/", "def": "To separate something into parts", "ex": ["The bank broke down the loan into smaller monthly payments.", "Let me break down the plan into simple steps.", "The teacher broke down the hard idea for us."]}, {"verb": "Narrow down", "ipa": "/ˈnɛroʊ daʊn/", "def": "To reduce something to fewer choices", "ex": ["She narrowed down her choices to two pairs of shoes.", "We narrowed down the list to three names.", "Try to narrow down your choices."]}, {"verb": "Cut out", "ipa": "/kʌt aʊt/", "def": "To remove something completely", "ex": ["She cut out coffee shop visits to save more money.", "He cut out sugar to feel healthier.", "This tool cuts out extra work."]}, {"verb": "Go through", "ipa": "/ɡoʊ θruː/", "def": "To experience something difficult", "ex": ["The family went through a difficult year after the accident.", "She went through a hard time last year.", "We had to go through a long check at the airport."]}, {"verb": "Speed up", "ipa": "/spiːd ʌp/", "def": "To make something happen faster", "ex": ["The new app helped speed up the checkout process at the store.", "New machines speed up the work.", "They tried to speed up the project."]}, {"verb": "Roll out", "ipa": "/roʊl aʊt/", "def": "To introduce something new to people", "ex": ["The school will roll out a new reading program this fall.", "The company rolled out a new app.", "The city will roll out the plan next month."]}, {"verb": "Take on", "ipa": "/teɪk ɑn/", "def": "To begin to handle something", "ex": ["He decided to take on extra chores to earn some money.", "She took on a difficult new job.", "The team took on a big challenge."]}, {"verb": "Catch on", "ipa": "/kætʃ ɑn/", "def": "To become popular or widely used", "ex": ["The new phone case quickly caught on with teenagers.", "The new idea quickly caught on.", "Slang words catch on fast among young people."]}], "wordDefs": [{"word": "early signs", "ipa": "/ˈərli saɪnz/", "def": "The first small things that show something is starting", "ex": ["The mechanic noticed early signs of engine trouble.", "Teachers watch for early signs of reading problems.", "There were early signs of trouble in the marriage."]}, {"word": "painful", "ipa": "/ˈpeɪnfəl/", "def": "Causing pain, or hard to experience", "ex": ["The blister on her heel was painful all day.", "It was painful to watch the team lose again.", "His sunburn felt painful after the beach trip."]}, {"word": "worry about", "ipa": "/ˈwəri əˈbaʊt/", "def": "To feel nervous or afraid about something", "ex": ["Don't worry about the noise, it's just the pipes.", "He tends to worry about small mistakes at work.", "She worries about her grades before every exam."]}, {"word": "in a simple way", "ipa": "/ɪn ə ˈsɪmpəl weɪ/", "def": "Without anything complicated", "ex": ["The coach explained the rule in a simple way.", "He fixed the printer in a simple way.", "She described the recipe in a simple way for beginners."]}, {"word": "risk", "ipa": "/rɪsk/", "def": "The chance that something bad will happen", "ex": ["Investing in stocks always carries some risk.", "The doctor explained the risk of the surgery.", "Driving in the storm was too much of a risk."]}, {"word": "truly", "ipa": "/ˈtruːli/", "def": "Really, in fact", "ex": ["The gift truly surprised her.", "He was truly grateful for their help.", "This movie was truly one of a kind."]}, {"word": "the need for", "ipa": "/ðə niːd fɔːr/", "def": "The fact that something is necessary", "ex": ["Video calls reduced the need for business travel.", "The flood showed the need for better drains.", "She stressed the need for more sleep."]}, {"word": "uncomfortable", "ipa": "/ənˈkʌmfərtəbəl/", "def": "Not pleasant to feel or to do", "ex": ["The long flight left him uncomfortable and tired.", "Her new shoes felt uncomfortable after an hour.", "The silence at dinner was uncomfortable for everyone."]}, {"word": "accurate", "ipa": "/ˈækjərət/", "def": "Correct and exact, with no mistakes", "ex": ["The weather report was surprisingly accurate today.", "His memory of the event was very accurate.", "The scale gives an accurate reading every time."]}, {"word": "correctly", "ipa": "/kəˈrɛktli/", "def": "In the right way, with no mistakes", "ex": ["He fixed the shelf correctly the second time.", "She spelled every word correctly on the test.", "The recipe worked because we measured correctly."]}, {"word": "such as", "ipa": "/sʌtʃ əz/", "def": "For example", "ex": ["She likes outdoor hobbies such as hiking and biking.", "Bring documents such as your passport and ticket.", "Some fruits, such as apples, keep for weeks."]}, {"word": "disease", "ipa": "/dɪˈziːz/", "def": "An illness of the body", "ex": ["The vaccine protects children from the disease.", "Doctors are studying a rare disease in the village.", "Good diet can lower the risk of disease."]}, {"word": "womb", "ipa": "/wuːm/", "def": "The organ where a baby grows", "ex": ["The scan showed the baby growing in the womb.", "Doctors checked the health of her womb.", "The twins shared the same womb before birth."]}, {"word": "nurse", "ipa": "/nərs/", "def": "A person trained to care for the sick", "ex": ["The nurse checked his blood pressure twice.", "A kind nurse helped calm the frightened child.", "She trained for years to become a nurse."]}, {"word": "sample", "ipa": "/ˈsæmpəl/", "def": "A small amount taken for testing", "ex": ["The lab needs a small sample of your blood.", "He gave out free samples at the store.", "A sample of the fabric was sent to the factory."]}, {"word": "chemical", "ipa": "/ˈkɛməkəl/", "def": "Relating to substances in the body", "ex": ["The factory released a chemical smell into the air.", "Farmers use a chemical spray to protect crops.", "The lab tested the water for chemical traces."]}, {"word": "exams", "ipa": "/ɪɡˈzæmz/", "def": "Physical checks carried out by a doctor", "ex": ["Exams often take place at the hospital.", "She was nervous before her school exams.", "The clinic scheduled his exams for next Tuesday."]}, {"word": "symptoms", "ipa": "/ˈsɪmptəmz/", "def": "Signs that show a person is ill", "ex": ["His cold symptoms included a cough and fever.", "The nurse asked about her symptoms in detail.", "Early symptoms of the flu can be mild."]}, {"word": "trial", "ipa": "/ˈtraɪəl/", "def": "A careful test of something new", "ex": ["The company ran a trial of the new product.", "Twelve volunteers took part in the drug trial.", "The judge set a date for the trial."]}, {"word": "a kind of", "def": "A type of something", "ex": ["A guitar is a kind of musical instrument.", "This soup is a kind of stew with beans.", "That job is a kind of volunteer work."]}, {"word": "right now", "def": "At this moment, currently", "ex": ["Right now, the kitchen is full of smoke.", "She is out of the office right now.", "Right now, the shop has no bread left."]}, {"word": "for so long", "def": "For a very long time", "ex": ["He waited for so long that he fell asleep.", "They lived in that house for so long.", "Nobody expected the meeting to last for so long."]}, {"word": "over time", "def": "As more time passes, gradually", "ex": ["His handwriting got neater over time.", "The bridge weakened over time from the wind.", "Their friendship grew stronger over time."]}, {"word": "around the globe", "def": "In all parts of the world", "ex": ["The show is watched by fans around the globe.", "Prices for coffee rose around the globe this year.", "Volunteers came together from around the globe."]}], "mainIdea": [{"s": "British scientists made a blood test that uses AI to find early signs of cancer and sort patients by risk. It found over 99 percent of real cancers in a large trial.", "a": true, "why": "The article says the test found more than 99 percent of real cancers in a trial of over 16,000 patients. It studies blood samples to sort patients into low, medium, and high risk groups."}, {"s": "This new AI blood test already replaces every cancer exam in hospitals nationwide, doctors now say. It already works for every kind of cancer, not just cancer in the womb.", "a": false, "why": "Close, but only some hospitals have started using the test, not every hospital nationwide. Doctors also only hope it will work for other cancers like lung and stomach in the future."}, {"s": "A separate team of researchers is testing a new vaccine that may help prevent some types of cancer. Early results from that unrelated trial are expected within two years.", "a": false, "why": "This is about a different research project on a cancer vaccine, not the AI blood test. The real story is about a blood test that helps doctors avoid painful exams."}], "tf": [{"s": "Scientists came up with a blood test that uses AI to help find cancer.", "a": true, "why": "British scientists came up with the new AI blood test to help find cancer early."}, {"s": "The test can pick up early signs of cancer from a sample of blood.", "a": true, "why": "The test picks up early signs of the disease by studying about 30 chemical signs in the blood."}, {"s": "The new test forces every patient to go through more painful exams than before.", "a": false, "why": "The test could cut out painful exams, so many patients go through fewer of them, not more."}, {"s": "In a large trial, the test correctly found more than 99 percent of real cancers.", "a": true, "why": "In a study of more than 16,000 patients, the test found over 99 percent of real cancers."}, {"s": "Doctors say the test can only take on womb cancer and no other kind.", "a": false, "why": "Doctors hope the test will take on other cancers too, such as lung and stomach cancer."}, {"s": "The test is so expensive that hospitals refuse to roll it out.", "a": false, "why": "The test costs only about 30 pounds, and some hospitals have already begun to roll it out."}]}
+{
+  "id": "ai-blood-test-cancer-2026",
+  "number": 34,
+  "headline": "New AI blood test could catch cancer early",
+  "badge": "Health",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n34-ai-blood-test-cancer-2026-flat.webp",
+  "position": "center 50%",
+  "sources": [
+    {
+      "title": "NHS AI blood test could reduce invasive womb cancer checks",
+      "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/"
+    },
+    {
+      "title": "Thousands of women could avoid painful cancer exam with new AI blood test",
+      "url": "https://www.femtechworld.co.uk/news/cancer/thousands-of-women-could-avoid-painful-cancer-exam-with-new-ai-blood-test-onc26/"
+    },
+    {
+      "title": "Thousands of women could be spared painful cancer exam by new NHS AI blood test",
+      "url": "https://www.aol.co.uk/articles/thousands-women-could-spared-painful-230113000.html"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "Scientists in Britain have {{come up with}} a new blood test that can help find cancer. The test uses artificial intelligence, [[a kind of]] smart computer program, to {{pick up}} [[early signs]] of the [[disease]]. Doctors hope it will {{rule out}} cancer in many patients quickly, so they do not need [[painful]] [[exams]]. It could be good news for women who [[worry about]] [[womb]] cancer.",
+      "verbs": [
+        {
+          "display": "come up with",
+          "base": "come up with",
+          "correct": "To think of a new idea or plan",
+          "wrong": "To face a difficult problem",
+          "correctFirst": true,
+          "why": "Come up with means to think of a new plan or solution, often after real effort. Scientists come up with tests, and teams come up with fresh ideas."
+        },
+        {
+          "display": "pick up",
+          "base": "pick up",
+          "correct": "To notice or detect something",
+          "wrong": "To take a blood sample from a patient",
+          "correctFirst": false,
+          "why": "Here pick up means to notice or detect something small, the way this test picks up early signs of cancer in a blood sample."
+        },
+        {
+          "display": "rule out",
+          "base": "rule out",
+          "correct": "To decide something is not the cause",
+          "wrong": "To place a patient in a higher risk group",
+          "correctFirst": false,
+          "why": "When doctors rule out cancer, they decide it is not the cause of the symptoms and can stop worrying about it. This new test helps them do that fast."
+        }
+      ]
+    },
+    {
+      "text": "The test works [[in a simple way]]. A [[nurse]] takes a small [[sample]] of blood from the patient. Then the computer {{looks over}} about 30 [[chemical]] signs in the blood and {{breaks down}} the results into three groups: low [[risk]], medium risk, and high risk. This helps doctors {{narrow down}} which patients [[truly]] need more tests.",
+      "verbs": [
+        {
+          "display": "looks over",
+          "base": "look over",
+          "correct": "To examine something carefully",
+          "wrong": "To print a copy of the results",
+          "correctFirst": true,
+          "why": "Look over means to examine something carefully, checking each detail one by one. Here the computer looks over dozens of chemical signs in a blood sample."
+        },
+        {
+          "display": "breaks down",
+          "base": "break down",
+          "correct": "To separate something into parts",
+          "wrong": "To suddenly stop working",
+          "correctFirst": false,
+          "why": "Break down means to separate something into smaller parts so it is easier to understand. The computer breaks the results down into three simple risk groups."
+        },
+        {
+          "display": "narrow down",
+          "base": "narrow down",
+          "correct": "To reduce something to fewer choices",
+          "wrong": "To make a test more accurate",
+          "correctFirst": true,
+          "why": "Narrow down means to reduce a large group of options to just a few. Doctors use this test to narrow down which patients truly need further exams."
+        }
+      ]
+    },
+    {
+      "text": "For many patients, this test could {{cut out}} [[the need for]] painful exams. [[Right now]], women with worrying [[symptoms]] often have to {{go through}} an [[uncomfortable]] check at the hospital. The new test is very [[accurate]], and in one large study it [[correctly]] found more than 99 percent of real cancers. It can also {{speed up}} the whole process, so patients do not wait and worry [[for so long]].",
+      "verbs": [
+        {
+          "display": "cut out",
+          "base": "cut out",
+          "correct": "To remove something completely",
+          "wrong": "To perform surgery to remove tissue",
+          "correctFirst": true,
+          "why": "Cut out means to remove something completely, so it no longer happens at all. This test could cut out the need for many painful hospital exams."
+        },
+        {
+          "display": "go through",
+          "base": "go through",
+          "correct": "To experience something difficult",
+          "wrong": "To wait a long time for a result",
+          "correctFirst": false,
+          "why": "Go through means to experience something difficult, from a hard illness to an uncomfortable medical exam. Many women go through this kind of check to detect cancer early."
+        },
+        {
+          "display": "speed up",
+          "base": "speed up",
+          "correct": "To make something happen faster",
+          "wrong": "To repeat a test more often",
+          "correctFirst": true,
+          "why": "Speed up means to make a process happen faster than before. This test can speed up diagnosis, so patients do not wait and worry for weeks."
+        }
+      ]
+    },
+    {
+      "text": "In a large [[trial]], the test was used on more than 16,000 patients in England, and it costs only about 30 pounds. Some British hospitals have already begun to {{roll out}} the test for their patients. [[Over time]], doctors hope it will {{take on}} other kinds of cancer too, [[such as]] lung and stomach cancer. If it keeps working well, this cheap and simple test may {{catch on}} in hospitals [[around the globe]].",
+      "verbs": [
+        {
+          "display": "roll out",
+          "base": "roll out",
+          "correct": "To introduce something new to people",
+          "wrong": "To withdraw a service from hospitals",
+          "correctFirst": false,
+          "why": "Roll out means to introduce something new to a group of people, usually gradually. Some British hospitals have already begun to roll out this new blood test."
+        },
+        {
+          "display": "take on",
+          "base": "take on",
+          "correct": "To begin to handle something",
+          "wrong": "To be replaced by a different test",
+          "correctFirst": true,
+          "why": "Take on means to begin to handle a new task or responsibility. Doctors hope this test can take on other cancers too, such as lung and stomach cancer."
+        },
+        {
+          "display": "catch on",
+          "base": "catch on",
+          "correct": "To become popular or widely used",
+          "wrong": "To be recalled by the manufacturer",
+          "correctFirst": false,
+          "why": "Catch on means to become popular and widely used, often faster than people expect. If it keeps working well, this cheap test may catch on in hospitals everywhere."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come up with",
+      "ipa": "/kʌm ʌp wɪð/",
+      "def": "To think of a new idea or plan",
+      "ex": [
+        "Our family came up with a fun plan for the weekend trip.",
+        "She came up with a great idea for the project.",
+        "Can you come up with a better plan?"
+      ]
+    },
+    {
+      "verb": "Pick up",
+      "ipa": "/pɪk ʌp/",
+      "def": "To notice or detect something",
+      "ex": [
+        "The smoke alarm picked up a small fire in the kitchen.",
+        "Good doctors pick up small changes in health.",
+        "The machine picked up a weak signal."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "ipa": "/ruːl aʊt/",
+      "def": "To decide something is not the cause",
+      "ex": [
+        "The mechanic ruled out the battery as the cause of the noise.",
+        "We cannot rule out rain for tomorrow.",
+        "The results ruled out a serious problem."
+      ]
+    },
+    {
+      "verb": "Look over",
+      "ipa": "/lʊk ˈoʊvər/",
+      "def": "To examine something carefully",
+      "ex": [
+        "The buyer looked over the used car before making an offer.",
+        "Please look over my report before I send it.",
+        "She looked over the papers one more time."
+      ]
+    },
+    {
+      "verb": "Break down",
+      "ipa": "/breɪk daʊn/",
+      "def": "To separate something into parts",
+      "ex": [
+        "The bank broke down the loan into smaller monthly payments.",
+        "Let me break down the plan into simple steps.",
+        "The teacher broke down the hard idea for us."
+      ]
+    },
+    {
+      "verb": "Narrow down",
+      "ipa": "/ˈnɛroʊ daʊn/",
+      "def": "To reduce something to fewer choices",
+      "ex": [
+        "She narrowed down her choices to two pairs of shoes.",
+        "We narrowed down the list to three names.",
+        "Try to narrow down your choices."
+      ]
+    },
+    {
+      "verb": "Cut out",
+      "ipa": "/kʌt aʊt/",
+      "def": "To remove something completely",
+      "ex": [
+        "She cut out coffee shop visits to save more money.",
+        "He cut out sugar to feel healthier.",
+        "This tool cuts out extra work."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "ipa": "/ɡoʊ θruː/",
+      "def": "To experience something difficult",
+      "ex": [
+        "The family went through a difficult year after the accident.",
+        "She went through a hard time last year.",
+        "We had to go through a long check at the airport."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "ipa": "/spiːd ʌp/",
+      "def": "To make something happen faster",
+      "ex": [
+        "The new app helped speed up the checkout process at the store.",
+        "New machines speed up the work.",
+        "They tried to speed up the project."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "ipa": "/roʊl aʊt/",
+      "def": "To introduce something new to people",
+      "ex": [
+        "The school will roll out a new reading program this fall.",
+        "The company rolled out a new app.",
+        "The city will roll out the plan next month."
+      ]
+    },
+    {
+      "verb": "Take on",
+      "ipa": "/teɪk ɑn/",
+      "def": "To begin to handle something",
+      "ex": [
+        "He decided to take on extra chores to earn some money.",
+        "She took on a difficult new job.",
+        "The team took on a big challenge."
+      ]
+    },
+    {
+      "verb": "Catch on",
+      "ipa": "/kætʃ ɑn/",
+      "def": "To become popular or widely used",
+      "ex": [
+        "The new phone case quickly caught on with teenagers.",
+        "The new idea quickly caught on.",
+        "Slang words catch on fast among young people."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "early signs",
+      "ipa": "/ˈərli saɪnz/",
+      "def": "The first small things that show something is starting",
+      "ex": [
+        "The mechanic noticed early signs of engine trouble.",
+        "Teachers watch for early signs of reading problems.",
+        "There were early signs of trouble in the marriage."
+      ]
+    },
+    {
+      "word": "painful",
+      "ipa": "/ˈpeɪnfəl/",
+      "def": "Causing pain, or hard to experience",
+      "ex": [
+        "The blister on her heel was painful all day.",
+        "It was painful to watch the team lose again.",
+        "His sunburn felt painful after the beach trip."
+      ]
+    },
+    {
+      "word": "worry about",
+      "ipa": "/ˈwəri əˈbaʊt/",
+      "def": "To feel nervous or afraid about something",
+      "ex": [
+        "Don't worry about the noise, it's just the pipes.",
+        "He tends to worry about small mistakes at work.",
+        "She worries about her grades before every exam."
+      ]
+    },
+    {
+      "word": "in a simple way",
+      "ipa": "/ɪn ə ˈsɪmpəl weɪ/",
+      "def": "Without anything complicated",
+      "ex": [
+        "The coach explained the rule in a simple way.",
+        "He fixed the printer in a simple way.",
+        "She described the recipe in a simple way for beginners."
+      ]
+    },
+    {
+      "word": "risk",
+      "ipa": "/rɪsk/",
+      "def": "The chance that something bad will happen",
+      "ex": [
+        "Investing in stocks always carries some risk.",
+        "The doctor explained the risk of the surgery.",
+        "Driving in the storm was too much of a risk."
+      ]
+    },
+    {
+      "word": "truly",
+      "ipa": "/ˈtruːli/",
+      "def": "Really, in fact",
+      "ex": [
+        "The gift truly surprised her.",
+        "He was truly grateful for their help.",
+        "This movie was truly one of a kind."
+      ]
+    },
+    {
+      "word": "the need for",
+      "ipa": "/ðə niːd fɔːr/",
+      "def": "The fact that something is necessary",
+      "ex": [
+        "Video calls reduced the need for business travel.",
+        "The flood showed the need for better drains.",
+        "She stressed the need for more sleep."
+      ]
+    },
+    {
+      "word": "uncomfortable",
+      "ipa": "/ənˈkʌmfərtəbəl/",
+      "def": "Not pleasant to feel or to do",
+      "ex": [
+        "The long flight left him uncomfortable and tired.",
+        "Her new shoes felt uncomfortable after an hour.",
+        "The silence at dinner was uncomfortable for everyone."
+      ]
+    },
+    {
+      "word": "accurate",
+      "ipa": "/ˈækjərət/",
+      "def": "Correct and exact, with no mistakes",
+      "ex": [
+        "The weather report was surprisingly accurate today.",
+        "His memory of the event was very accurate.",
+        "The scale gives an accurate reading every time."
+      ]
+    },
+    {
+      "word": "correctly",
+      "ipa": "/kəˈrɛktli/",
+      "def": "In the right way, with no mistakes",
+      "ex": [
+        "He fixed the shelf correctly the second time.",
+        "She spelled every word correctly on the test.",
+        "The recipe worked because we measured correctly."
+      ]
+    },
+    {
+      "word": "such as",
+      "ipa": "/sʌtʃ əz/",
+      "def": "For example",
+      "ex": [
+        "She likes outdoor hobbies such as hiking and biking.",
+        "Bring documents such as your passport and ticket.",
+        "Some fruits, such as apples, keep for weeks."
+      ]
+    },
+    {
+      "word": "disease",
+      "ipa": "/dɪˈziːz/",
+      "def": "An illness of the body",
+      "ex": [
+        "The vaccine protects children from the disease.",
+        "Doctors are studying a rare disease in the village.",
+        "Good diet can lower the risk of disease."
+      ]
+    },
+    {
+      "word": "womb",
+      "ipa": "/wuːm/",
+      "def": "The organ where a baby grows",
+      "ex": [
+        "The scan showed the baby growing in the womb.",
+        "Doctors checked the health of her womb.",
+        "The twins shared the same womb before birth."
+      ]
+    },
+    {
+      "word": "nurse",
+      "ipa": "/nərs/",
+      "def": "A person trained to care for the sick",
+      "ex": [
+        "The nurse checked his blood pressure twice.",
+        "A kind nurse helped calm the frightened child.",
+        "She trained for years to become a nurse."
+      ]
+    },
+    {
+      "word": "sample",
+      "ipa": "/ˈsæmpəl/",
+      "def": "A small amount taken for testing",
+      "ex": [
+        "The lab needs a small sample of your blood.",
+        "He gave out free samples at the store.",
+        "A sample of the fabric was sent to the factory."
+      ]
+    },
+    {
+      "word": "chemical",
+      "ipa": "/ˈkɛməkəl/",
+      "def": "Relating to substances in the body",
+      "ex": [
+        "The factory released a chemical smell into the air.",
+        "Farmers use a chemical spray to protect crops.",
+        "The lab tested the water for chemical traces."
+      ]
+    },
+    {
+      "word": "exams",
+      "ipa": "/ɪɡˈzæmz/",
+      "def": "Physical checks carried out by a doctor",
+      "ex": [
+        "Exams often take place at the hospital.",
+        "She was nervous before her school exams.",
+        "The clinic scheduled his exams for next Tuesday."
+      ]
+    },
+    {
+      "word": "symptoms",
+      "ipa": "/ˈsɪmptəmz/",
+      "def": "Signs that show a person is ill",
+      "ex": [
+        "His cold symptoms included a cough and fever.",
+        "The nurse asked about her symptoms in detail.",
+        "Early symptoms of the flu can be mild."
+      ]
+    },
+    {
+      "word": "trial",
+      "ipa": "/ˈtraɪəl/",
+      "def": "A careful test of something new",
+      "ex": [
+        "The company ran a trial of the new product.",
+        "Twelve volunteers took part in the drug trial.",
+        "The judge set a date for the trial."
+      ]
+    },
+    {
+      "word": "a kind of",
+      "def": "A type of something",
+      "ex": [
+        "A guitar is a kind of musical instrument.",
+        "This soup is a kind of stew with beans.",
+        "That job is a kind of volunteer work."
+      ]
+    },
+    {
+      "word": "right now",
+      "def": "At this moment, currently",
+      "ex": [
+        "Right now, the kitchen is full of smoke.",
+        "She is out of the office right now.",
+        "Right now, the shop has no bread left."
+      ]
+    },
+    {
+      "word": "for so long",
+      "def": "For a very long time",
+      "ex": [
+        "He waited for so long that he fell asleep.",
+        "They lived in that house for so long.",
+        "Nobody expected the meeting to last for so long."
+      ]
+    },
+    {
+      "word": "over time",
+      "def": "As more time passes, gradually",
+      "ex": [
+        "His handwriting got neater over time.",
+        "The bridge weakened over time from the wind.",
+        "Their friendship grew stronger over time."
+      ]
+    },
+    {
+      "word": "around the globe",
+      "def": "In all parts of the world",
+      "ex": [
+        "The show is watched by fans around the globe.",
+        "Prices for coffee rose around the globe this year.",
+        "Volunteers came together from around the globe."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "British scientists made a blood test that uses AI to find early signs of cancer and sort patients by risk. It found over 99 percent of real cancers in a large trial.",
+      "a": true,
+      "why": "The article says the test found more than 99 percent of real cancers in a trial of over 16,000 patients. It studies blood samples to sort patients into low, medium, and high risk groups."
+    },
+    {
+      "s": "This new AI blood test already replaces every cancer exam in hospitals nationwide, doctors now say. It already works for every kind of cancer, not just cancer in the womb.",
+      "a": false,
+      "why": "Close, but only some hospitals have started using the test, not every hospital nationwide. Doctors also only hope it will work for other cancers like lung and stomach in the future."
+    },
+    {
+      "s": "A separate team of researchers is testing a new vaccine that may help prevent some types of cancer. Early results from that unrelated trial are expected within two years.",
+      "a": false,
+      "why": "This is about a different research project on a cancer vaccine, not the AI blood test. The real story is about a blood test that helps doctors avoid painful exams."
+    }
+  ],
+  "tf": [
+    {
+      "s": "Scientists came up with a blood test that uses AI to help find cancer.",
+      "a": true,
+      "why": "British scientists came up with the new AI blood test to help find cancer early."
+    },
+    {
+      "s": "The test can pick up early signs of cancer from a sample of blood.",
+      "a": true,
+      "why": "The test picks up early signs of the disease by studying about 30 chemical signs in the blood."
+    },
+    {
+      "s": "The new test forces every patient to go through more painful exams than before.",
+      "a": false,
+      "why": "The test could cut out painful exams, so many patients go through fewer of them, not more."
+    },
+    {
+      "s": "In a large trial, the test correctly found more than 99 percent of real cancers.",
+      "a": true,
+      "why": "In a study of more than 16,000 patients, the test found over 99 percent of real cancers."
+    },
+    {
+      "s": "Doctors say the test can only take on womb cancer and no other kind.",
+      "a": false,
+      "why": "Doctors hope the test will take on other cancers too, such as lung and stomach cancer."
+    },
+    {
+      "s": "The test is so expensive that hospitals refuse to roll it out.",
+      "a": false,
+      "why": "The test costs only about 30 pounds, and some hospitals have already begun to roll it out."
+    }
+  ]
+}

@@ -1,1 +1,530 @@
-{"id":"walkable-neighborhoods-2026","number":75,"headline":"Walkable streets help people stay healthy","badge":"Health","meta":"","image":"https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n75-walkable-neighborhoods-2026-flat.webp","position":"center 50%","sources":[{"title":"Built to Move: The Benefits of Walkable Communities (NIH News in Health)","url":"https://newsinhealth.nih.gov/2026/08/built-move"},{"title":"Walkable, greener neighborhoods linked to better physical and mental health (Phys.org)","url":"https://phys.org/news/2026-07-walkable-greener-neighborhoods-linked-physical.html"},{"title":"Walkable Neighborhoods Can Boost Physical Activity (Washington State University)","url":"https://medicine.wsu.edu/news/2026/03/31/walkable-neighborhoods-can-boost-physical-activity/"},{"title":"The design of your city can help make you healthier (video, CBC News)","url":"https://www.youtube.com/watch?v=J-5jQ6JhRJc"}],"chunks":[{"text":"How far can you walk from your [[front door]]? In some [[neighborhoods]], people can {{get around}} on foot all day: the school, the store, and the park are just minutes away. In others, every little [[errand]] means a car trip that {{eats up}} time. This month, the National Institutes of Health {{put out}} its regular health [[newsletter]] with a big question: can the [[design]] of your street make you healthier?","verbs":[{"display":"get around","base":"get around","correct":"To move from place to place","wrong":"To travel a very long way","correctFirst":true},{"display":"eats up","base":"eat up","correct":"To use a lot of something","wrong":"To make something go faster","correctFirst":false},{"display":"put out","base":"put out","correct":"To publish something for readers","wrong":"To research something closely","correctFirst":false}]},{"text":"The answer seems to be yes. One large study found that people who moved to more [[walkable]] cities {{ended up}} walking about 1,100 extra steps every day. Those steps {{add up}} to almost one extra hour of [[movement]] every week. Over the years, that movement helps people stay at a healthy weight and lowers the [[risk]] of [[heart disease]], [[diabetes]], high [[blood pressure]], and depression.","verbs":[{"display":"ended up","base":"end up","correct":"To finally be in a situation","wrong":"To try very hard to change","correctFirst":true},{"display":"add up","base":"add up","correct":"To slowly become a big total","wrong":"To be too small to matter","correctFirst":false}]},{"text":"Streets can change, and [[residents]] can [[lead the way]]. In one Stanford University project, neighbors {{team up}}, walk their own streets, and {{point out}} problems to local leaders: missing [[crosswalks]] or dark corners. They also {{send in}} photos to [[city planners]] through a phone app. The project has spread to more than 30 US states and 30 countries, and many [[fixes]] are cheap: paint a crosswalk, add a [[bench]], improve the [[lighting]].","verbs":[{"display":"team up","base":"team up","correct":"To join others to work together","wrong":"To have a friendly contest","correctFirst":false},{"display":"point out","base":"point out","correct":"To show something to someone","wrong":"To repair something broken","correctFirst":true},{"display":"send in","base":"send in","correct":"To submit something to a group","wrong":"To print something on paper","correctFirst":true}]},{"text":"You do not have to wait for your city to change. Doctors suggest small moves: park a little farther away, [[take the stairs]], or walk to the store [[instead of]] driving. Try to {{map out}} a short walking [[route]] near your home, then {{stick to}} your plan even on busy days. The [[effort]] {{pays off}} with a stronger heart and a better [[mood]].","verbs":[{"display":"map out","base":"map out","correct":"To plan something in detail","wrong":"To measure a long distance","correctFirst":false},{"display":"stick to","base":"stick to","correct":"To keep following a plan","wrong":"To change a plan quickly","correctFirst":true},{"display":"pays off","base":"pay off","correct":"To bring a good result","wrong":"To cost more than expected","correctFirst":false}]}],"vocab":[{"verb":"Get around","ipa":"/ɡɛt əˈraʊnd/","def":"To move from place to place","ex":["Without a car, she gets around by bike and bus.","Tourists can get around the old town easily on foot.","After his surgery, he needed a cane to get around."]},{"verb":"Eat up","ipa":"/it ʌp/","def":"To use a lot of something","ex":["Video games can eat up a whole weekend if you let them.","The long commute eats up two hours of her day.","Repairs ate up most of our vacation budget."]},{"verb":"Put out","ipa":"/pʊt aʊt/","def":"To publish something for readers","ex":["The band put out a new album in June.","Our teacher puts out a reading list each semester.","The city put out a report about air quality."]},{"verb":"End up","ipa":"/ɛnd ʌp/","def":"To finally be in a situation","ex":["We got lost and ended up in a tiny fishing village.","If you skip breakfast, you end up hungry all morning.","He started as a helper and ended up running the shop."]},{"verb":"Add up","ipa":"/æd ʌp/","def":"To slowly become a big total","ex":["Small savings add up to real money over a year.","The points added up quickly, and she won the game.","A few minutes of practice each day adds up."]},{"verb":"Team up","ipa":"/tim ʌp/","def":"To join others to work together","ex":["The two schools teamed up to clean the beach.","Police teamed up with local shops to stop thieves.","We teamed up with another family for the road trip."]},{"verb":"Point out","ipa":"/pɔɪnt aʊt/","def":"To show something to someone","ex":["The guide pointed out a castle on the hill.","My coach pointed out a mistake in my swing.","She pointed out that the price did not include tax."]},{"verb":"Send in","ipa":"/sɛnd ɪn/","def":"To submit something to a group","ex":["Fans can send in questions before the show.","He sent in his application two days early.","Viewers sent in storm photos to the news station."]},{"verb":"Map out","ipa":"/mæp aʊt/","def":"To plan something in detail","ex":["They mapped out the whole trip on the kitchen table.","The coach mapped out a training plan for the season.","Before writing, she maps out her main ideas."]},{"verb":"Stick to","ipa":"/stɪk tu/","def":"To keep following a plan","ex":["He stuck to his diet even during the holidays.","Let's stick to the schedule so we finish on time.","She stuck to her budget at the mall."]},{"verb":"Pay off","ipa":"/peɪ ɔf/","def":"To bring a good result","ex":["All those early mornings finally paid off at the race.","Learning a second language pays off in many jobs.","Her patience paid off when the deal was signed."]}],"wordDefs":[{"word":"neighborhoods","ipa":"/ˈneɪbərˌhʊdz/","def":"Areas of a town where people live","ex":["Our neighborhoods have small parks every few blocks.","Some neighborhoods are quiet, and others are full of shops.","The two neighborhoods meet at the river."]},{"word":"errand","ipa":"/ˈɛrənd/","def":"A short trip to do a small task","ex":["She ran one last errand before dinner.","Buying stamps was his first errand of the day.","I have an errand to do at the bank."]},{"word":"newsletter","ipa":"/ˈnuzˌlɛtər/","def":"A short regular report sent to readers","ex":["The club emails a newsletter every Friday.","Her recipe appeared in the school newsletter.","Sign here to get our free newsletter."]},{"word":"design","ipa":"/dɪˈzaɪn/","def":"The way something is planned and built","ex":["The design of the chair makes it easy to stack.","Good design can make a small home feel big.","Students voted on the design of the new gym."]},{"word":"walkable","ipa":"/ˈwɔkəbəl/","def":"Easy and pleasant to travel on foot","ex":["The hotel is in a very walkable part of town.","City leaders promised to make downtown more walkable.","A walkable street needs wide sidewalks."]},{"word":"risk","ipa":"/rɪsk/","def":"The chance that something bad happens","ex":["Smoking raises the risk of many illnesses.","There is little risk of rain today.","Wearing a helmet lowers the risk of injury."]},{"word":"diabetes","ipa":"/ˌdaɪəˈbitiz/","def":"An illness that changes how the body uses sugar","ex":["Her doctor tested her for diabetes last spring.","People with diabetes watch what they eat.","Exercise can help prevent some kinds of diabetes."]},{"word":"blood pressure","ipa":"/blʌd ˈprɛʃər/","def":"The force of blood pushing in your body","ex":["The nurse checked his blood pressure twice.","High blood pressure often has no clear signs.","Less salt can lower your blood pressure."]},{"word":"residents","ipa":"/ˈrɛzɪdənts/","def":"The people who live in a place","ex":["Residents complained about the noisy construction.","The building's residents share a small garden.","Local residents voted for a new library."]},{"word":"crosswalks","ipa":"/ˈkrɔsˌwɔks/","def":"Marked places where people cross the street","ex":["Drivers must stop for people at crosswalks.","The city painted bright yellow crosswalks near schools.","Use the crosswalks, even when the road looks empty."]},{"word":"bench","ipa":"/bɛntʃ/","def":"A long seat for two or more people","ex":["An old man fed birds from a bench.","We rested on a bench halfway up the hill.","The players waited on the bench for their turn."]},{"word":"lighting","ipa":"/ˈlaɪtɪŋ/","def":"The lights that make a place bright","ex":["Better lighting made the park feel safe at night.","The store changed its lighting to save energy.","Soft lighting makes the cafe feel warm."]},{"word":"instead of","ipa":"/ɪnˈstɛd ʌv/","def":"In the place of something else","ex":["She drinks tea instead of coffee.","We stayed home instead of going out.","He walked instead of taking the bus."]},{"word":"route","ipa":"/rut/","def":"A path you follow to get somewhere","ex":["The bus route passes right by my house.","We chose the mountain route for the views.","Runners followed a route along the river."]},{"word":"effort","ipa":"/ˈɛfərt/","def":"Hard work you do to reach a goal","ex":["It took real effort to finish the essay.","The team's effort showed in the final score.","With a little effort, the garden looked new again."]},{"word":"heart disease","ipa":"/hɑrt dɪˈziz/","def":"An illness of the heart and blood flow","ex":["Heart disease runs in his family.","Exercise lowers the chance of heart disease.","Doctors check for early signs of heart disease."]},{"word":"movement","ipa":"/ˈmuvmənt/","def":"The act of moving your body","ex":["Dance class is a fun hour of movement.","The doctor said any movement helps, even cleaning.","Cats notice the smallest movement."]},{"word":"lead the way","ipa":"/lid ðə weɪ/","def":"To go first and show others how","ex":["Small towns often lead the way in recycling.","Let the guide lead the way through the caves.","Parents lead the way, and the kids follow."]},{"word":"city planners","ipa":"/ˈsɪti ˈplænərz/","def":"People who design how a city grows","ex":["City planners added bike lanes downtown.","The flood forced city planners to think again.","City planners studied the noisy crossing."]},{"word":"fixes","ipa":"/ˈfɪksɪz/","def":"Solutions to problems","ex":["Quick fixes rarely last long.","The mechanic listed three possible fixes.","Cheap fixes saved the old playground."]},{"word":"take the stairs","ipa":"/teɪk ðə stɛrz/","def":"To use the stairs, not the elevator","ex":["I take the stairs to my third-floor office.","Take the stairs when the elevator line is long.","Let's take the stairs, it is only two floors."]},{"word":"mood","ipa":"/mud/","def":"The way you feel at a moment","ex":["Good music puts me in a great mood.","His mood improved after lunch.","The rainy week ruined her mood."]},{"word":"front door","ipa":"/frʌnt dɔr/","def":"The main entrance of a home","ex":["Leave the package by the front door.","The key opens only the front door.","Someone knocked on the front door at noon."]}],"mainIdea":[{"s":"Streets built for walking can make people healthier. Research links walkable neighborhoods to more daily steps and a lower risk of several serious illnesses.","a":true,"why":"The article says walkable streets added about 1,100 daily steps and lowered the risk of heart disease, diabetes, high blood pressure, and depression."},{"s":"Living on a walkable street means people no longer need any other exercise. Doctors now tell patients to skip the gym and simply stroll to the store.","a":false,"why":"Close, but the article never says walking replaces all other exercise. It says walkable streets quietly add healthy movement to normal days."},{"s":"A new phone app turns walking into a points game for prizes. Players in thirty countries compete each week by choosing stairs and counting every step.","a":false,"why":"The article is about how street design shapes health, not about a step-counting game with prizes."}],"tf":[{"s":"People who moved to more walkable cities ended up walking about 1,100 extra steps a day","a":true,"why":"One large study found that people who moved to more walkable cities ended up walking about 1,100 extra steps every day."},{"s":"The extra steps add up to almost an hour of movement a week","a":true,"why":"The article says those daily steps add up to almost one extra hour of movement every week."},{"s":"The NIH put out a newsletter saying street design has no effect on health","a":false,"why":"It is the opposite. The newsletter's big question is whether street design can make you healthier, and the answer seems to be yes."},{"s":"Neighbors in the Stanford project team up and send in photos through a phone app","a":true,"why":"Residents team up, walk their streets, point out problems, and send in photos to city planners through a phone app."},{"s":"Regular walking raises the risk of high blood pressure","a":false,"why":"It is the opposite. The article says walking lowers the risk of heart disease, diabetes, high blood pressure, and depression."},{"s":"Residents have no way to point out problems to city leaders","a":false,"why":"In the Stanford project, residents point out problems to local leaders, like missing crosswalks and dark corners."}]}
+{
+  "id": "walkable-neighborhoods-2026",
+  "number": 75,
+  "headline": "Walkable streets help people stay healthy",
+  "badge": "Health",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n75-walkable-neighborhoods-2026-flat.webp",
+  "position": "center 50%",
+  "sources": [
+    {
+      "title": "Built to Move: The Benefits of Walkable Communities (NIH News in Health)",
+      "url": "https://newsinhealth.nih.gov/2026/08/built-move"
+    },
+    {
+      "title": "Walkable, greener neighborhoods linked to better physical and mental health (Phys.org)",
+      "url": "https://phys.org/news/2026-07-walkable-greener-neighborhoods-linked-physical.html"
+    },
+    {
+      "title": "Walkable Neighborhoods Can Boost Physical Activity (Washington State University)",
+      "url": "https://medicine.wsu.edu/news/2026/03/31/walkable-neighborhoods-can-boost-physical-activity/"
+    },
+    {
+      "title": "The design of your city can help make you healthier (video, CBC News)",
+      "url": "https://www.youtube.com/watch?v=J-5jQ6JhRJc"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "How far can you walk from your [[front door]]? In some [[neighborhoods]], people can {{get around}} on foot all day: the school, the store, and the park are just minutes away. In others, every little [[errand]] means a car trip that {{eats up}} time. This month, the National Institutes of Health {{put out}} its regular health [[newsletter]] with a big question: can the [[design]] of your street make you healthier?",
+      "verbs": [
+        {
+          "display": "get around",
+          "base": "get around",
+          "correct": "To move from place to place",
+          "wrong": "To travel a very long way",
+          "correctFirst": true,
+          "why": "Get around means to move easily from one place to another. In some neighborhoods, people can get around on foot for almost every daily errand."
+        },
+        {
+          "display": "eats up",
+          "base": "eat up",
+          "correct": "To use a lot of something",
+          "wrong": "To make something go faster",
+          "correctFirst": false,
+          "why": "Eat up means to use a large amount of something, especially your time. A car trip for every small errand eats up minutes that a short walk would not."
+        },
+        {
+          "display": "put out",
+          "base": "put out",
+          "correct": "To publish something for readers",
+          "wrong": "To research something closely",
+          "correctFirst": false,
+          "why": "Put out means to release something so readers or the public can see it. The National Institutes of Health put out its regular newsletter with this month's big question."
+        }
+      ]
+    },
+    {
+      "text": "The answer seems to be yes. One large study found that people who moved to more [[walkable]] cities {{ended up}} walking about 1,100 extra steps every day. Those steps {{add up}} to almost one extra hour of [[movement]] every week. Over the years, that movement helps people stay at a healthy weight and lowers the [[risk]] of [[heart disease]], [[diabetes]], high [[blood pressure]], and depression.",
+      "verbs": [
+        {
+          "display": "ended up",
+          "base": "end up",
+          "correct": "To finally be in a situation",
+          "wrong": "To try very hard to change",
+          "correctFirst": true,
+          "why": "End up means to finally arrive at a result, sometimes without planning for it. People who moved to walkable cities ended up walking about 1,100 extra steps a day."
+        },
+        {
+          "display": "add up",
+          "base": "add up",
+          "correct": "To slowly become a big total",
+          "wrong": "To be too small to matter",
+          "correctFirst": false,
+          "why": "Add up means small amounts slowly combine into something much bigger. Those extra daily steps add up to almost one extra hour of movement every week."
+        }
+      ]
+    },
+    {
+      "text": "Streets can change, and [[residents]] can [[lead the way]]. In one Stanford University project, neighbors {{team up}}, walk their own streets, and {{point out}} problems to local leaders: missing [[crosswalks]] or dark corners. They also {{send in}} photos to [[city planners]] through a phone app. The project has spread to more than 30 US states and 30 countries, and many [[fixes]] are cheap: paint a crosswalk, add a [[bench]], improve the [[lighting]].",
+      "verbs": [
+        {
+          "display": "team up",
+          "base": "team up",
+          "correct": "To join others to work together",
+          "wrong": "To have a friendly contest",
+          "correctFirst": false,
+          "why": "Team up means to join with other people to work toward the same goal. In this project, neighbors team up to walk their own streets and check for problems."
+        },
+        {
+          "display": "point out",
+          "base": "point out",
+          "correct": "To show something to someone",
+          "wrong": "To repair something broken",
+          "correctFirst": true,
+          "why": "Point out means to show or mention something so another person notices it too. Neighbors point out problems like missing crosswalks or dark corners to local leaders."
+        },
+        {
+          "display": "send in",
+          "base": "send in",
+          "correct": "To submit something to a group",
+          "wrong": "To print something on paper",
+          "correctFirst": true,
+          "why": "Send in means to submit something, often by mail or an app, to a group that will use it. Residents send in photos of street problems to city planners."
+        }
+      ]
+    },
+    {
+      "text": "You do not have to wait for your city to change. Doctors suggest small moves: park a little farther away, [[take the stairs]], or walk to the store [[instead of]] driving. Try to {{map out}} a short walking [[route]] near your home, then {{stick to}} your plan even on busy days. The [[effort]] {{pays off}} with a stronger heart and a better [[mood]].",
+      "verbs": [
+        {
+          "display": "map out",
+          "base": "map out",
+          "correct": "To plan something in detail",
+          "wrong": "To measure a long distance",
+          "correctFirst": false,
+          "why": "Map out means to plan every step of something in detail before you start. Try to map out a short walking route near your home for daily exercise."
+        },
+        {
+          "display": "stick to",
+          "base": "stick to",
+          "correct": "To keep following a plan",
+          "wrong": "To change a plan quickly",
+          "correctFirst": true,
+          "why": "Stick to means to keep following a plan without changing it. Once you choose a walking route, stick to it even on your busiest days."
+        },
+        {
+          "display": "pays off",
+          "base": "pay off",
+          "correct": "To bring a good result",
+          "wrong": "To cost more than expected",
+          "correctFirst": false,
+          "why": "Pay off means an effort finally brings a good result. The small effort of walking more pays off with a stronger heart and a better mood."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Get around",
+      "ipa": "/ɡɛt əˈraʊnd/",
+      "def": "To move from place to place",
+      "ex": [
+        "Without a car, she gets around by bike and bus.",
+        "Tourists can get around the old town easily on foot.",
+        "After his surgery, he needed a cane to get around."
+      ]
+    },
+    {
+      "verb": "Eat up",
+      "ipa": "/it ʌp/",
+      "def": "To use a lot of something",
+      "ex": [
+        "Video games can eat up a whole weekend if you let them.",
+        "The long commute eats up two hours of her day.",
+        "Repairs ate up most of our vacation budget."
+      ]
+    },
+    {
+      "verb": "Put out",
+      "ipa": "/pʊt aʊt/",
+      "def": "To publish something for readers",
+      "ex": [
+        "The band put out a new album in June.",
+        "Our teacher puts out a reading list each semester.",
+        "The city put out a report about air quality."
+      ]
+    },
+    {
+      "verb": "End up",
+      "ipa": "/ɛnd ʌp/",
+      "def": "To finally be in a situation",
+      "ex": [
+        "We got lost and ended up in a tiny fishing village.",
+        "If you skip breakfast, you end up hungry all morning.",
+        "He started as a helper and ended up running the shop."
+      ]
+    },
+    {
+      "verb": "Add up",
+      "ipa": "/æd ʌp/",
+      "def": "To slowly become a big total",
+      "ex": [
+        "Small savings add up to real money over a year.",
+        "The points added up quickly, and she won the game.",
+        "A few minutes of practice each day adds up."
+      ]
+    },
+    {
+      "verb": "Team up",
+      "ipa": "/tim ʌp/",
+      "def": "To join others to work together",
+      "ex": [
+        "The two schools teamed up to clean the beach.",
+        "Police teamed up with local shops to stop thieves.",
+        "We teamed up with another family for the road trip."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "ipa": "/pɔɪnt aʊt/",
+      "def": "To show something to someone",
+      "ex": [
+        "The guide pointed out a castle on the hill.",
+        "My coach pointed out a mistake in my swing.",
+        "She pointed out that the price did not include tax."
+      ]
+    },
+    {
+      "verb": "Send in",
+      "ipa": "/sɛnd ɪn/",
+      "def": "To submit something to a group",
+      "ex": [
+        "Fans can send in questions before the show.",
+        "He sent in his application two days early.",
+        "Viewers sent in storm photos to the news station."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "ipa": "/mæp aʊt/",
+      "def": "To plan something in detail",
+      "ex": [
+        "They mapped out the whole trip on the kitchen table.",
+        "The coach mapped out a training plan for the season.",
+        "Before writing, she maps out her main ideas."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "ipa": "/stɪk tu/",
+      "def": "To keep following a plan",
+      "ex": [
+        "He stuck to his diet even during the holidays.",
+        "Let's stick to the schedule so we finish on time.",
+        "She stuck to her budget at the mall."
+      ]
+    },
+    {
+      "verb": "Pay off",
+      "ipa": "/peɪ ɔf/",
+      "def": "To bring a good result",
+      "ex": [
+        "All those early mornings finally paid off at the race.",
+        "Learning a second language pays off in many jobs.",
+        "Her patience paid off when the deal was signed."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "neighborhoods",
+      "ipa": "/ˈneɪbərˌhʊdz/",
+      "def": "Areas of a town where people live",
+      "ex": [
+        "Our neighborhoods have small parks every few blocks.",
+        "Some neighborhoods are quiet, and others are full of shops.",
+        "The two neighborhoods meet at the river."
+      ]
+    },
+    {
+      "word": "errand",
+      "ipa": "/ˈɛrənd/",
+      "def": "A short trip to do a small task",
+      "ex": [
+        "She ran one last errand before dinner.",
+        "Buying stamps was his first errand of the day.",
+        "I have an errand to do at the bank."
+      ]
+    },
+    {
+      "word": "newsletter",
+      "ipa": "/ˈnuzˌlɛtər/",
+      "def": "A short regular report sent to readers",
+      "ex": [
+        "The club emails a newsletter every Friday.",
+        "Her recipe appeared in the school newsletter.",
+        "Sign here to get our free newsletter."
+      ]
+    },
+    {
+      "word": "design",
+      "ipa": "/dɪˈzaɪn/",
+      "def": "The way something is planned and built",
+      "ex": [
+        "The design of the chair makes it easy to stack.",
+        "Good design can make a small home feel big.",
+        "Students voted on the design of the new gym."
+      ]
+    },
+    {
+      "word": "walkable",
+      "ipa": "/ˈwɔkəbəl/",
+      "def": "Easy and pleasant to travel on foot",
+      "ex": [
+        "The hotel is in a very walkable part of town.",
+        "City leaders promised to make downtown more walkable.",
+        "A walkable street needs wide sidewalks."
+      ]
+    },
+    {
+      "word": "risk",
+      "ipa": "/rɪsk/",
+      "def": "The chance that something bad happens",
+      "ex": [
+        "Smoking raises the risk of many illnesses.",
+        "There is little risk of rain today.",
+        "Wearing a helmet lowers the risk of injury."
+      ]
+    },
+    {
+      "word": "diabetes",
+      "ipa": "/ˌdaɪəˈbitiz/",
+      "def": "An illness that changes how the body uses sugar",
+      "ex": [
+        "Her doctor tested her for diabetes last spring.",
+        "People with diabetes watch what they eat.",
+        "Exercise can help prevent some kinds of diabetes."
+      ]
+    },
+    {
+      "word": "blood pressure",
+      "ipa": "/blʌd ˈprɛʃər/",
+      "def": "The force of blood pushing in your body",
+      "ex": [
+        "The nurse checked his blood pressure twice.",
+        "High blood pressure often has no clear signs.",
+        "Less salt can lower your blood pressure."
+      ]
+    },
+    {
+      "word": "residents",
+      "ipa": "/ˈrɛzɪdənts/",
+      "def": "The people who live in a place",
+      "ex": [
+        "Residents complained about the noisy construction.",
+        "The building's residents share a small garden.",
+        "Local residents voted for a new library."
+      ]
+    },
+    {
+      "word": "crosswalks",
+      "ipa": "/ˈkrɔsˌwɔks/",
+      "def": "Marked places where people cross the street",
+      "ex": [
+        "Drivers must stop for people at crosswalks.",
+        "The city painted bright yellow crosswalks near schools.",
+        "Use the crosswalks, even when the road looks empty."
+      ]
+    },
+    {
+      "word": "bench",
+      "ipa": "/bɛntʃ/",
+      "def": "A long seat for two or more people",
+      "ex": [
+        "An old man fed birds from a bench.",
+        "We rested on a bench halfway up the hill.",
+        "The players waited on the bench for their turn."
+      ]
+    },
+    {
+      "word": "lighting",
+      "ipa": "/ˈlaɪtɪŋ/",
+      "def": "The lights that make a place bright",
+      "ex": [
+        "Better lighting made the park feel safe at night.",
+        "The store changed its lighting to save energy.",
+        "Soft lighting makes the cafe feel warm."
+      ]
+    },
+    {
+      "word": "instead of",
+      "ipa": "/ɪnˈstɛd ʌv/",
+      "def": "In the place of something else",
+      "ex": [
+        "She drinks tea instead of coffee.",
+        "We stayed home instead of going out.",
+        "He walked instead of taking the bus."
+      ]
+    },
+    {
+      "word": "route",
+      "ipa": "/rut/",
+      "def": "A path you follow to get somewhere",
+      "ex": [
+        "The bus route passes right by my house.",
+        "We chose the mountain route for the views.",
+        "Runners followed a route along the river."
+      ]
+    },
+    {
+      "word": "effort",
+      "ipa": "/ˈɛfərt/",
+      "def": "Hard work you do to reach a goal",
+      "ex": [
+        "It took real effort to finish the essay.",
+        "The team's effort showed in the final score.",
+        "With a little effort, the garden looked new again."
+      ]
+    },
+    {
+      "word": "heart disease",
+      "ipa": "/hɑrt dɪˈziz/",
+      "def": "An illness of the heart and blood flow",
+      "ex": [
+        "Heart disease runs in his family.",
+        "Exercise lowers the chance of heart disease.",
+        "Doctors check for early signs of heart disease."
+      ]
+    },
+    {
+      "word": "movement",
+      "ipa": "/ˈmuvmənt/",
+      "def": "The act of moving your body",
+      "ex": [
+        "Dance class is a fun hour of movement.",
+        "The doctor said any movement helps, even cleaning.",
+        "Cats notice the smallest movement."
+      ]
+    },
+    {
+      "word": "lead the way",
+      "ipa": "/lid ðə weɪ/",
+      "def": "To go first and show others how",
+      "ex": [
+        "Small towns often lead the way in recycling.",
+        "Let the guide lead the way through the caves.",
+        "Parents lead the way, and the kids follow."
+      ]
+    },
+    {
+      "word": "city planners",
+      "ipa": "/ˈsɪti ˈplænərz/",
+      "def": "People who design how a city grows",
+      "ex": [
+        "City planners added bike lanes downtown.",
+        "The flood forced city planners to think again.",
+        "City planners studied the noisy crossing."
+      ]
+    },
+    {
+      "word": "fixes",
+      "ipa": "/ˈfɪksɪz/",
+      "def": "Solutions to problems",
+      "ex": [
+        "Quick fixes rarely last long.",
+        "The mechanic listed three possible fixes.",
+        "Cheap fixes saved the old playground."
+      ]
+    },
+    {
+      "word": "take the stairs",
+      "ipa": "/teɪk ðə stɛrz/",
+      "def": "To use the stairs, not the elevator",
+      "ex": [
+        "I take the stairs to my third-floor office.",
+        "Take the stairs when the elevator line is long.",
+        "Let's take the stairs, it is only two floors."
+      ]
+    },
+    {
+      "word": "mood",
+      "ipa": "/mud/",
+      "def": "The way you feel at a moment",
+      "ex": [
+        "Good music puts me in a great mood.",
+        "His mood improved after lunch.",
+        "The rainy week ruined her mood."
+      ]
+    },
+    {
+      "word": "front door",
+      "ipa": "/frʌnt dɔr/",
+      "def": "The main entrance of a home",
+      "ex": [
+        "Leave the package by the front door.",
+        "The key opens only the front door.",
+        "Someone knocked on the front door at noon."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Streets built for walking can make people healthier. Research links walkable neighborhoods to more daily steps and a lower risk of several serious illnesses.",
+      "a": true,
+      "why": "The article says walkable streets added about 1,100 daily steps and lowered the risk of heart disease, diabetes, high blood pressure, and depression."
+    },
+    {
+      "s": "Living on a walkable street means people no longer need any other exercise. Doctors now tell patients to skip the gym and simply stroll to the store.",
+      "a": false,
+      "why": "Close, but the article never says walking replaces all other exercise. It says walkable streets quietly add healthy movement to normal days."
+    },
+    {
+      "s": "A new phone app turns walking into a points game for prizes. Players in thirty countries compete each week by choosing stairs and counting every step.",
+      "a": false,
+      "why": "The article is about how street design shapes health, not about a step-counting game with prizes."
+    }
+  ],
+  "tf": [
+    {
+      "s": "People who moved to more walkable cities ended up walking about 1,100 extra steps a day",
+      "a": true,
+      "why": "One large study found that people who moved to more walkable cities ended up walking about 1,100 extra steps every day."
+    },
+    {
+      "s": "The extra steps add up to almost an hour of movement a week",
+      "a": true,
+      "why": "The article says those daily steps add up to almost one extra hour of movement every week."
+    },
+    {
+      "s": "The NIH put out a newsletter saying street design has no effect on health",
+      "a": false,
+      "why": "It is the opposite. The newsletter's big question is whether street design can make you healthier, and the answer seems to be yes."
+    },
+    {
+      "s": "Neighbors in the Stanford project team up and send in photos through a phone app",
+      "a": true,
+      "why": "Residents team up, walk their streets, point out problems, and send in photos to city planners through a phone app."
+    },
+    {
+      "s": "Regular walking raises the risk of high blood pressure",
+      "a": false,
+      "why": "It is the opposite. The article says walking lowers the risk of heart disease, diabetes, high blood pressure, and depression."
+    },
+    {
+      "s": "Residents have no way to point out problems to city leaders",
+      "a": false,
+      "why": "In the Stanford project, residents point out problems to local leaders, like missing crosswalks and dark corners."
+    }
+  ]
+}

@@ -1,1 +1,549 @@
-{"id": "daylight-saving-vote-2026", "number": 28, "headline": "House votes to make daylight saving time permanent", "badge": "General", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n28-daylight-saving-vote-2026-flat.webp", "position": "center 50%", "sources": [{"title": "House passes bill to make daylight saving time permanent", "url": "https://www.cbsnews.com/news/daylight-saving-time-permanent-house-vote/"}, {"title": "House passes bill to make daylight saving time permanent", "url": "https://thehill.com/homenews/house/5968255-house-sunshine-protection-act-daylight-saving-time/"}, {"title": "House passes Trump-backed bill that would make daylight saving time permanent", "url": "https://www.nbcnews.com/politics/congress/house-passes-bill-daylight-saving-time-permanent-sunshine-protection-rcna587531"}, {"title": "House passes Sunshine Protection Act to make daylight saving time permanent (video, NBC Connecticut)", "url": "https://www.youtube.com/watch?v=zaHKTf3ShTo"}], "chunks": [{"text": "The US House of Representatives wants to {{do away with}} the twice-a-year clock changes. On Tuesday, [[lawmakers]] {{voted for}} a [[bill]] called the Sunshine Protection Act by 308 votes to 117. The plan would {{lock in}} [[permanent]] [[daylight saving time]] all across the country. Many [[supporters]] say the change is [[long overdue]].", "verbs": [{"display": "do away with", "base": "do away with", "correct": "To remove something completely", "wrong": "To escape punishment for a bad action", "correctFirst": true}, {"display": "voted for", "base": "vote for", "correct": "To officially support or choose something in a vote", "wrong": "To formally suggest a new law for others to study", "correctFirst": false}, {"display": "lock in", "base": "lock in", "correct": "To make something permanent so it cannot change", "wrong": "To close a place with a key so no one can leave", "correctFirst": true}]}, {"text": "So what does 'changing the clocks' [[actually]] mean? In many countries, people turn their clocks forward by one hour in spring and back again in fall. This [[custom]] is called daylight saving time, and it helps people {{make use of}} the extra evening light in summer. The original goal was also to save energy. But twice each year, millions of people must {{get used to}} a new [[schedule]], and [[the switch]] can {{throw off}} their sleep for several days.", "verbs": [{"display": "make use of", "base": "make use of", "correct": "To use something that is available to you", "wrong": "To enjoy something in your free time", "correctFirst": false, "kind": "expression"}, {"display": "get used to", "base": "get used to", "correct": "To slowly become comfortable with something new", "wrong": "To learn how to do something difficult for the first time", "correctFirst": false, "kind": "expression"}, {"display": "throw off", "base": "throw off", "correct": "To disturb or upset how something works", "wrong": "To make someone feel very tired", "correctFirst": true}]}, {"text": "Many lawmakers were [[eager to]] {{press ahead}} with the plan, and the vote was [[bipartisan]]. They [[argue]] that lighter evenings could {{cut down on}} car accidents and give families more time outdoors after work. Several doctors add that a [[steady]] clock would be better for people. President Trump has {{come out}} [[in favor of]] the [[measure]] and has promised to sign it into law.", "verbs": [{"display": "press ahead", "base": "press ahead", "correct": "To continue with a plan in a determined way", "wrong": "To hurry to finish something before a deadline", "correctFirst": false}, {"display": "cut down on", "base": "cut down on", "correct": "To reduce the amount or number of something", "wrong": "To completely stop doing something", "correctFirst": true}, {"display": "come out", "base": "come out", "correct": "To publicly say what you think or support", "wrong": "To make a public promise or guarantee", "correctFirst": false}]}, {"text": "The bill now {{moves on}} to the [[Senate]], where its future is [[far from clear]]. Not every lawmaker {{goes along with}} the idea. [[Critics]] [[warn]] that winter mornings would stay dark for much longer, which could be risky for children who walk to school. Others recall that the country tried permanent daylight time back in 1973 but [[gave up on]] it [[within a year]]. For now, Americans must [[wait to see]] whether the Senate will {{take on}} the bill.", "verbs": [{"display": "moves on", "base": "move on", "correct": "To go forward to the next stage or step", "wrong": "To forget about the past and continue with life", "correctFirst": true}, {"display": "goes along with", "base": "go along with", "correct": "To agree with or accept an idea or plan", "wrong": "To pretend to agree while secretly disagreeing", "correctFirst": false}, {"display": "take on", "base": "take on", "correct": "To accept and start handling a hard task", "wrong": "To politely refuse an offer of extra work", "correctFirst": true}]}], "vocab": [{"verb": "Do away with", "ipa": "/duː əˈweɪ wɪð/", "def": "To remove something completely", "ex": ["The school did away with the old uniform policy this year.", "They did away with paper tickets last year.", "Some cities have done away with plastic bags."]}, {"verb": "Vote for", "ipa": "/voʊt fɔːr/", "def": "To officially support or choose something in a vote", "ex": ["Employees voted for a new health plan at work.", "She will vote for the candidate she trusts.", "The council voted for a smaller budget this year."]}, {"verb": "Lock in", "ipa": "/lɑk ɪn/", "def": "To make something permanent so it cannot change", "ex": ["The coach helped the rookie lock in a starting spot on the team.", "They locked in the deal before costs went up.", "Signing early lets you lock in your seat."]}, {"verb": "Make use of", "ipa": "/meɪk juːs əv/", "def": "To use something that is available to you", "ex": ["He made use of the free Wi-Fi at the cafe to finish his report.", "She made use of her lunch break to study.", "The team made use of the extra time to practice."], "kind": "expression"}, {"verb": "Get used to", "ipa": "/ɡɛt juːzd tuː/", "def": "To slowly become comfortable with something new", "ex": ["She slowly got used to the cold weather after moving north.", "He got used to waking up early for work.", "You will get used to the different food soon."], "kind": "expression"}, {"verb": "Throw off", "ipa": "/θroʊ ɔːf/", "def": "To disturb or upset how something works", "ex": ["The unexpected guest threw off her plans for the evening.", "A late flight can throw off your whole schedule.", "The sudden change threw off the whole plan."]}, {"verb": "Press ahead", "ipa": "/prɛs əˈhɛd/", "def": "To continue with a plan in a determined way", "ex": ["The team pressed ahead with the merger despite investor concerns.", "They pressed ahead despite the bad weather.", "We will press ahead even if some people disagree."]}, {"verb": "Cut down on", "ipa": "/kʌt daʊn ɑn/", "def": "To reduce the amount or number of something", "ex": ["The city cut down on water use during the drought.", "We cut down on spending this month.", "The doctor told him to cut down on sugar."]}, {"verb": "Come out", "ipa": "/kʌm aʊt/", "def": "To publicly say what you think or support", "ex": ["The company came out in support of the new safety rules.", "Several doctors came out against the idea.", "The senator came out against the new tax plan."]}, {"verb": "Move on", "ipa": "/muːv ɑn/", "def": "To go forward to the next stage or step", "ex": ["The tour group moved on to the next museum stop.", "Let's move on to the next question.", "The project moved on to its final stage."]}, {"verb": "Go along with", "ipa": "/ɡoʊ əˈlɔːŋ wɪð/", "def": "To agree with or accept an idea or plan", "ex": ["My parents went along with my choice to study abroad.", "She went along with the group's decision.", "He went along with the plan to avoid an argument."]}, {"verb": "Take on", "ipa": "/teɪk ɑn/", "def": "To accept and start handling a hard task", "ex": ["The volunteers took on a huge cleanup project after the storm.", "She agreed to take on more work at the office.", "The team took on a difficult project this year."]}], "wordDefs": [{"word": "lawmakers", "ipa": "/ˈlɔːmeɪkərz/", "def": "People whose job is to make the laws of a country", "ex": ["Lawmakers debated the new budget until midnight.", "Local lawmakers visited our school last week.", "Some lawmakers refused to support the proposal."]}, {"word": "permanent", "ipa": "/ˈpərmənənt/", "def": "Lasting for a long time, not just for a short period", "ex": ["The city built a permanent bridge over the river.", "The accident left a permanent mark on his arm.", "He made a permanent change to his diet."]}, {"word": "supporters", "ipa": "/səˈpɔːrtərz/", "def": "People who agree with an idea or a group and help it", "ex": ["The band thanked its supporters after the concert.", "Thousands of supporters waited outside the hall.", "Her supporters donated money to the campaign."]}, {"word": "actually", "ipa": "/ˈæktʃli/", "def": "Really, in fact", "ex": ["He actually enjoys doing his taxes every year.", "Did you actually finish the whole book?", "I did not expect it, but she actually agreed."]}, {"word": "the switch", "ipa": "/ðə swɪtʃ/", "def": "A change from one thing to another", "ex": ["The switch to online classes surprised many students.", "We made the switch to a smaller car last year.", "Employees are nervous about the switch to new software."]}, {"word": "eager to", "ipa": "/ˈiːɡər tuː/", "def": "Wanting very much to do something", "ex": ["He was eager to try the new restaurant downtown.", "She is eager to start her new job.", "We are eager to see the results tomorrow."]}, {"word": "argue", "ipa": "/ˈɑrɡjuː/", "def": "To give reasons for your opinion", "ex": ["Doctors argue that more sleep improves memory.", "Many people argue that public transport should be free.", "My brother and I argue about small things sometimes."]}, {"word": "in favor of", "ipa": "/ɪn ˈfeɪvər əv/", "def": "Supporting an idea or a plan", "ex": ["The board voted in favor of the new policy.", "I am in favor of shorter meetings.", "She spoke in favor of building a new park."]}, {"word": "far from clear", "ipa": "/fɑr frəm klɪr/", "def": "Not certain and not easy to understand", "ex": ["The company's next step is far from clear.", "His reason for leaving is far from clear.", "Whether the plan will work is far from clear."]}, {"word": "warn", "ipa": "/wɔːrn/", "def": "To tell someone about a possible danger or problem", "ex": ["Officials warn drivers about the icy roads ahead.", "Doctors warn that too much sugar is bad for you.", "Teachers warn students not to skip the exam."]}, {"word": "wait to see", "ipa": "/weɪt tuː siː/", "def": "To wait until you know what will happen", "ex": ["Fans will wait to see who wins the award.", "Let's wait to see what he decides.", "I will wait to see if the price drops."]}, {"word": "bill", "ipa": "/bɪl/", "def": "A written plan for a new law", "ex": ["The mayor signed the bill into city law.", "A bill must pass both houses.", "Lawmakers debated the bill for several hours."]}, {"word": "daylight saving time", "ipa": "/ˈdeɪlaɪt ˈseɪvɪŋ taɪm/", "def": "Clock time moved forward one hour in summer", "ex": ["Some countries do not observe daylight saving time at all.", "Not every state uses daylight saving time.", "People often forget to change their clocks for daylight saving time."]}, {"word": "custom", "ipa": "/ˈkʌstəm/", "def": "Something a group has done for a long time", "ex": ["It is a custom to remove your shoes indoors.", "This custom is not followed everywhere.", "Every family has its own holiday custom."]}, {"word": "schedule", "ipa": "/ˈskɛdʒʊl/", "def": "A plan of when things happen", "ex": ["My work schedule changes every two weeks.", "The train schedule was posted at the station.", "He printed his class schedule for the semester."]}, {"word": "bipartisan", "ipa": "/baɪˈpɑrtɪzən/", "def": "Supported by both main political parties", "ex": ["The senators reached a bipartisan agreement on trade.", "Bipartisan bills pass more easily.", "A bipartisan group proposed the new education plan."]}, {"word": "measure", "ipa": "/ˈmɛʒər/", "def": "An official action or proposed law", "ex": ["The council approved a new safety measure.", "This measure needs approval from two committees.", "The city passed a measure to limit noise at night."]}, {"word": "Senate", "ipa": "/ˈsɛnət/", "def": "The upper house of the US Congress", "ex": ["The Senate debated the bill for three days.", "Nothing passes without the Senate.", "The Senate meets several times a week."]}, {"word": "Critics", "ipa": "/ˈkrɪtɪks/", "def": "People who mention problems with something", "ex": ["Critics praised the film for its acting.", "Critics of the plan wrote to Congress.", "Some critics doubted the new policy would work."]}, {"word": "steady", "ipa": "/ˈstɛdi/", "def": "Staying the same and not changing", "ex": ["She kept a steady pace during the marathon.", "He kept a steady speed on the highway.", "The company reported steady growth this quarter."]}, {"word": "long overdue", "def": "Something that should have happened much earlier", "ex": ["The bridge repairs are long overdue after years of delay.", "Her promotion was long overdue, said everyone in the office.", "This apology is long overdue, but I am glad it came."]}, {"word": "gave up on", "def": "Stopped trying to do something", "ex": ["He gave up on the diet after just two days.", "She gave up on her old laptop and bought a new one.", "They gave up on finding a parking spot downtown."]}, {"word": "within a year", "def": "Before one full year had passed", "ex": ["The company doubled its sales within a year of launching.", "We paid off the loan within a year of signing it.", "The new store closed within a year due to low traffic."]}], "mainIdea": [{"s": "Most lawmakers in the House voted for a bill to lock in daylight saving time all year. The bill now goes to the Senate, which has not yet decided whether to pass it.", "a": true, "why": "The House voted 308 to 117 to lock in permanent daylight saving time. The bill still needs Senate approval, and its future there is far from clear."}, {"s": "The bill has already become law after the Senate quickly agreed to the plan. Every lawmaker in Congress went along with the change, and no one raised any concern.", "a": false, "why": "Close, but the bill only passed the House, so it is not law yet. It still needs the Senate, and the story says the outcome there is far from clear."}, {"s": "In the European Union, lawmakers have debated for years whether to end seasonal clock changes. So far, member states have not agreed on one time zone for the group.", "a": false, "why": "This is about the European Union's separate, long debate over ending seasonal clock changes. It is a different country and a different bill from the US House vote."}], "tf": [{"s": "The House voted for the Sunshine Protection Act by 308 votes to 117.", "a": true, "why": "The story says lawmakers voted for the bill by 308 votes to 117."}, {"s": "The bill would lock in permanent standard time and make winter evenings darker.", "a": false, "why": "The bill would lock in permanent daylight saving time, not standard time, so evenings would be lighter."}, {"s": "President Trump has come out against the plan and refused to sign it.", "a": false, "why": "Trump has actually come out in favor of the measure and promised to sign it into law."}, {"s": "The bill now moves on to the Senate, where its future is unclear.", "a": true, "why": "The story says the bill moves on to the Senate, where its future is far from clear."}, {"s": "Permanent daylight saving time would do away with the twice-a-year clock changes.", "a": true, "why": "The plan would do away with the switch, so people would no longer change their clocks each spring and fall."}, {"s": "The United States tried permanent daylight time in 1973, and the change lasted for many years before it ended", "a": false, "why": "The story says the country tried permanent daylight time in 1973 but gave up on it within a year, not many years."}]}
+{
+  "id": "daylight-saving-vote-2026",
+  "number": 28,
+  "headline": "House votes to make daylight saving time permanent",
+  "badge": "General",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n28-daylight-saving-vote-2026-flat.webp",
+  "position": "center 50%",
+  "sources": [
+    {
+      "title": "House passes bill to make daylight saving time permanent",
+      "url": "https://www.cbsnews.com/news/daylight-saving-time-permanent-house-vote/"
+    },
+    {
+      "title": "House passes bill to make daylight saving time permanent",
+      "url": "https://thehill.com/homenews/house/5968255-house-sunshine-protection-act-daylight-saving-time/"
+    },
+    {
+      "title": "House passes Trump-backed bill that would make daylight saving time permanent",
+      "url": "https://www.nbcnews.com/politics/congress/house-passes-bill-daylight-saving-time-permanent-sunshine-protection-rcna587531"
+    },
+    {
+      "title": "House passes Sunshine Protection Act to make daylight saving time permanent (video, NBC Connecticut)",
+      "url": "https://www.youtube.com/watch?v=zaHKTf3ShTo"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "The US House of Representatives wants to {{do away with}} the twice-a-year clock changes. On Tuesday, [[lawmakers]] {{voted for}} a [[bill]] called the Sunshine Protection Act by 308 votes to 117. The plan would {{lock in}} [[permanent]] [[daylight saving time]] all across the country. Many [[supporters]] say the change is [[long overdue]].",
+      "verbs": [
+        {
+          "display": "do away with",
+          "base": "do away with",
+          "correct": "To remove something completely",
+          "wrong": "To escape punishment for a bad action",
+          "correctFirst": true,
+          "why": "Do away with means to end something completely so it no longer happens at all. The House voted to do away with the twice yearly ritual of changing every clock in the country."
+        },
+        {
+          "display": "voted for",
+          "base": "vote for",
+          "correct": "To officially support or choose something in a vote",
+          "wrong": "To formally suggest a new law for others to study",
+          "correctFirst": false,
+          "why": "Vote for means to officially choose or support something, usually by raising a hand or marking a ballot. Most lawmakers voted for the plan, and only a small group opposed it in the end."
+        },
+        {
+          "display": "lock in",
+          "base": "lock in",
+          "correct": "To make something permanent so it cannot change",
+          "wrong": "To close a place with a key so no one can leave",
+          "correctFirst": true,
+          "why": "Lock in means to fix something in place so it cannot easily change later. This bill would lock in daylight saving time for good, so clocks would stay the same all year."
+        }
+      ]
+    },
+    {
+      "text": "So what does 'changing the clocks' [[actually]] mean? In many countries, people turn their clocks forward by one hour in spring and back again in fall. This [[custom]] is called daylight saving time, and it helps people {{make use of}} the extra evening light in summer. The original goal was also to save energy. But twice each year, millions of people must {{get used to}} a new [[schedule]], and [[the switch]] can {{throw off}} their sleep for several days.",
+      "verbs": [
+        {
+          "display": "make use of",
+          "base": "make use of",
+          "correct": "To use something that is available to you",
+          "wrong": "To enjoy something in your free time",
+          "correctFirst": false,
+          "kind": "expression",
+          "why": "Make use of means to use something that is available to you instead of ignoring it. Moving the clock forward lets people make use of extra daylight after work each evening."
+        },
+        {
+          "display": "get used to",
+          "base": "get used to",
+          "correct": "To slowly become comfortable with something new",
+          "wrong": "To learn how to do something difficult for the first time",
+          "correctFirst": false,
+          "kind": "expression",
+          "why": "Get used to means you slowly stop noticing something new because it feels normal to you now. Every spring and fall, huge numbers of people had to get used to a shifted bedtime and wake time."
+        },
+        {
+          "display": "throw off",
+          "base": "throw off",
+          "correct": "To disturb or upset how something works",
+          "wrong": "To make someone feel very tired",
+          "correctFirst": true,
+          "why": "Throw off means to disturb a system or a routine so it stops working smoothly. Losing or gaining that one hour can throw off your sleep and leave you tired for almost a week."
+        }
+      ]
+    },
+    {
+      "text": "Many lawmakers were [[eager to]] {{press ahead}} with the plan, and the vote was [[bipartisan]]. They [[argue]] that lighter evenings could {{cut down on}} car accidents and give families more time outdoors after work. Several doctors add that a [[steady]] clock would be better for people. President Trump has {{come out}} [[in favor of]] the [[measure]] and has promised to sign it into law.",
+      "verbs": [
+        {
+          "display": "press ahead",
+          "base": "press ahead",
+          "correct": "To continue with a plan in a determined way",
+          "wrong": "To hurry to finish something before a deadline",
+          "correctFirst": false,
+          "why": "Press ahead means to keep moving forward with a plan even if it is difficult or risky. Supporters in the House were eager to press ahead, even knowing the Senate might resist the idea."
+        },
+        {
+          "display": "cut down on",
+          "base": "cut down on",
+          "correct": "To reduce the amount or number of something",
+          "wrong": "To completely stop doing something",
+          "correctFirst": true,
+          "why": "Cut down on means to reduce how much of something you do or use. Supporters believe brighter evenings could cut down on the number of car accidents involving pedestrians."
+        },
+        {
+          "display": "come out",
+          "base": "come out",
+          "correct": "To publicly say what you think or support",
+          "wrong": "To make a public promise or guarantee",
+          "correctFirst": false,
+          "why": "Come out means to publicly state your opinion or support for something. The president has come out strongly in favor of this idea and says he will sign it into law."
+        }
+      ]
+    },
+    {
+      "text": "The bill now {{moves on}} to the [[Senate]], where its future is [[far from clear]]. Not every lawmaker {{goes along with}} the idea. [[Critics]] [[warn]] that winter mornings would stay dark for much longer, which could be risky for children who walk to school. Others recall that the country tried permanent daylight time back in 1973 but [[gave up on]] it [[within a year]]. For now, Americans must [[wait to see]] whether the Senate will {{take on}} the bill.",
+      "verbs": [
+        {
+          "display": "moves on",
+          "base": "move on",
+          "correct": "To go forward to the next stage or step",
+          "wrong": "To forget about the past and continue with life",
+          "correctFirst": true,
+          "why": "Move on means to leave one stage behind and continue to the next one. After passing the House, this kind of bill moves on to the Senate for a separate vote."
+        },
+        {
+          "display": "goes along with",
+          "base": "go along with",
+          "correct": "To agree with or accept an idea or plan",
+          "wrong": "To pretend to agree while secretly disagreeing",
+          "correctFirst": false,
+          "why": "Go along with means to accept someone else's plan or idea, even without much enthusiasm. Some members of Congress refused to go along with the idea, worried about darker winter mornings."
+        },
+        {
+          "display": "take on",
+          "base": "take on",
+          "correct": "To accept and start handling a hard task",
+          "wrong": "To politely refuse an offer of extra work",
+          "correctFirst": true,
+          "why": "Take on means to accept a difficult job or responsibility and begin working on it. It is still unclear whether the Senate will take on this bill anytime soon."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Do away with",
+      "ipa": "/duː əˈweɪ wɪð/",
+      "def": "To remove something completely",
+      "ex": [
+        "The school did away with the old uniform policy this year.",
+        "They did away with paper tickets last year.",
+        "Some cities have done away with plastic bags."
+      ]
+    },
+    {
+      "verb": "Vote for",
+      "ipa": "/voʊt fɔːr/",
+      "def": "To officially support or choose something in a vote",
+      "ex": [
+        "Employees voted for a new health plan at work.",
+        "She will vote for the candidate she trusts.",
+        "The council voted for a smaller budget this year."
+      ]
+    },
+    {
+      "verb": "Lock in",
+      "ipa": "/lɑk ɪn/",
+      "def": "To make something permanent so it cannot change",
+      "ex": [
+        "The coach helped the rookie lock in a starting spot on the team.",
+        "They locked in the deal before costs went up.",
+        "Signing early lets you lock in your seat."
+      ]
+    },
+    {
+      "verb": "Make use of",
+      "ipa": "/meɪk juːs əv/",
+      "def": "To use something that is available to you",
+      "ex": [
+        "He made use of the free Wi-Fi at the cafe to finish his report.",
+        "She made use of her lunch break to study.",
+        "The team made use of the extra time to practice."
+      ],
+      "kind": "expression"
+    },
+    {
+      "verb": "Get used to",
+      "ipa": "/ɡɛt juːzd tuː/",
+      "def": "To slowly become comfortable with something new",
+      "ex": [
+        "She slowly got used to the cold weather after moving north.",
+        "He got used to waking up early for work.",
+        "You will get used to the different food soon."
+      ],
+      "kind": "expression"
+    },
+    {
+      "verb": "Throw off",
+      "ipa": "/θroʊ ɔːf/",
+      "def": "To disturb or upset how something works",
+      "ex": [
+        "The unexpected guest threw off her plans for the evening.",
+        "A late flight can throw off your whole schedule.",
+        "The sudden change threw off the whole plan."
+      ]
+    },
+    {
+      "verb": "Press ahead",
+      "ipa": "/prɛs əˈhɛd/",
+      "def": "To continue with a plan in a determined way",
+      "ex": [
+        "The team pressed ahead with the merger despite investor concerns.",
+        "They pressed ahead despite the bad weather.",
+        "We will press ahead even if some people disagree."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "ipa": "/kʌt daʊn ɑn/",
+      "def": "To reduce the amount or number of something",
+      "ex": [
+        "The city cut down on water use during the drought.",
+        "We cut down on spending this month.",
+        "The doctor told him to cut down on sugar."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "ipa": "/kʌm aʊt/",
+      "def": "To publicly say what you think or support",
+      "ex": [
+        "The company came out in support of the new safety rules.",
+        "Several doctors came out against the idea.",
+        "The senator came out against the new tax plan."
+      ]
+    },
+    {
+      "verb": "Move on",
+      "ipa": "/muːv ɑn/",
+      "def": "To go forward to the next stage or step",
+      "ex": [
+        "The tour group moved on to the next museum stop.",
+        "Let's move on to the next question.",
+        "The project moved on to its final stage."
+      ]
+    },
+    {
+      "verb": "Go along with",
+      "ipa": "/ɡoʊ əˈlɔːŋ wɪð/",
+      "def": "To agree with or accept an idea or plan",
+      "ex": [
+        "My parents went along with my choice to study abroad.",
+        "She went along with the group's decision.",
+        "He went along with the plan to avoid an argument."
+      ]
+    },
+    {
+      "verb": "Take on",
+      "ipa": "/teɪk ɑn/",
+      "def": "To accept and start handling a hard task",
+      "ex": [
+        "The volunteers took on a huge cleanup project after the storm.",
+        "She agreed to take on more work at the office.",
+        "The team took on a difficult project this year."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "lawmakers",
+      "ipa": "/ˈlɔːmeɪkərz/",
+      "def": "People whose job is to make the laws of a country",
+      "ex": [
+        "Lawmakers debated the new budget until midnight.",
+        "Local lawmakers visited our school last week.",
+        "Some lawmakers refused to support the proposal."
+      ]
+    },
+    {
+      "word": "permanent",
+      "ipa": "/ˈpərmənənt/",
+      "def": "Lasting for a long time, not just for a short period",
+      "ex": [
+        "The city built a permanent bridge over the river.",
+        "The accident left a permanent mark on his arm.",
+        "He made a permanent change to his diet."
+      ]
+    },
+    {
+      "word": "supporters",
+      "ipa": "/səˈpɔːrtərz/",
+      "def": "People who agree with an idea or a group and help it",
+      "ex": [
+        "The band thanked its supporters after the concert.",
+        "Thousands of supporters waited outside the hall.",
+        "Her supporters donated money to the campaign."
+      ]
+    },
+    {
+      "word": "actually",
+      "ipa": "/ˈæktʃli/",
+      "def": "Really, in fact",
+      "ex": [
+        "He actually enjoys doing his taxes every year.",
+        "Did you actually finish the whole book?",
+        "I did not expect it, but she actually agreed."
+      ]
+    },
+    {
+      "word": "the switch",
+      "ipa": "/ðə swɪtʃ/",
+      "def": "A change from one thing to another",
+      "ex": [
+        "The switch to online classes surprised many students.",
+        "We made the switch to a smaller car last year.",
+        "Employees are nervous about the switch to new software."
+      ]
+    },
+    {
+      "word": "eager to",
+      "ipa": "/ˈiːɡər tuː/",
+      "def": "Wanting very much to do something",
+      "ex": [
+        "He was eager to try the new restaurant downtown.",
+        "She is eager to start her new job.",
+        "We are eager to see the results tomorrow."
+      ]
+    },
+    {
+      "word": "argue",
+      "ipa": "/ˈɑrɡjuː/",
+      "def": "To give reasons for your opinion",
+      "ex": [
+        "Doctors argue that more sleep improves memory.",
+        "Many people argue that public transport should be free.",
+        "My brother and I argue about small things sometimes."
+      ]
+    },
+    {
+      "word": "in favor of",
+      "ipa": "/ɪn ˈfeɪvər əv/",
+      "def": "Supporting an idea or a plan",
+      "ex": [
+        "The board voted in favor of the new policy.",
+        "I am in favor of shorter meetings.",
+        "She spoke in favor of building a new park."
+      ]
+    },
+    {
+      "word": "far from clear",
+      "ipa": "/fɑr frəm klɪr/",
+      "def": "Not certain and not easy to understand",
+      "ex": [
+        "The company's next step is far from clear.",
+        "His reason for leaving is far from clear.",
+        "Whether the plan will work is far from clear."
+      ]
+    },
+    {
+      "word": "warn",
+      "ipa": "/wɔːrn/",
+      "def": "To tell someone about a possible danger or problem",
+      "ex": [
+        "Officials warn drivers about the icy roads ahead.",
+        "Doctors warn that too much sugar is bad for you.",
+        "Teachers warn students not to skip the exam."
+      ]
+    },
+    {
+      "word": "wait to see",
+      "ipa": "/weɪt tuː siː/",
+      "def": "To wait until you know what will happen",
+      "ex": [
+        "Fans will wait to see who wins the award.",
+        "Let's wait to see what he decides.",
+        "I will wait to see if the price drops."
+      ]
+    },
+    {
+      "word": "bill",
+      "ipa": "/bɪl/",
+      "def": "A written plan for a new law",
+      "ex": [
+        "The mayor signed the bill into city law.",
+        "A bill must pass both houses.",
+        "Lawmakers debated the bill for several hours."
+      ]
+    },
+    {
+      "word": "daylight saving time",
+      "ipa": "/ˈdeɪlaɪt ˈseɪvɪŋ taɪm/",
+      "def": "Clock time moved forward one hour in summer",
+      "ex": [
+        "Some countries do not observe daylight saving time at all.",
+        "Not every state uses daylight saving time.",
+        "People often forget to change their clocks for daylight saving time."
+      ]
+    },
+    {
+      "word": "custom",
+      "ipa": "/ˈkʌstəm/",
+      "def": "Something a group has done for a long time",
+      "ex": [
+        "It is a custom to remove your shoes indoors.",
+        "This custom is not followed everywhere.",
+        "Every family has its own holiday custom."
+      ]
+    },
+    {
+      "word": "schedule",
+      "ipa": "/ˈskɛdʒʊl/",
+      "def": "A plan of when things happen",
+      "ex": [
+        "My work schedule changes every two weeks.",
+        "The train schedule was posted at the station.",
+        "He printed his class schedule for the semester."
+      ]
+    },
+    {
+      "word": "bipartisan",
+      "ipa": "/baɪˈpɑrtɪzən/",
+      "def": "Supported by both main political parties",
+      "ex": [
+        "The senators reached a bipartisan agreement on trade.",
+        "Bipartisan bills pass more easily.",
+        "A bipartisan group proposed the new education plan."
+      ]
+    },
+    {
+      "word": "measure",
+      "ipa": "/ˈmɛʒər/",
+      "def": "An official action or proposed law",
+      "ex": [
+        "The council approved a new safety measure.",
+        "This measure needs approval from two committees.",
+        "The city passed a measure to limit noise at night."
+      ]
+    },
+    {
+      "word": "Senate",
+      "ipa": "/ˈsɛnət/",
+      "def": "The upper house of the US Congress",
+      "ex": [
+        "The Senate debated the bill for three days.",
+        "Nothing passes without the Senate.",
+        "The Senate meets several times a week."
+      ]
+    },
+    {
+      "word": "Critics",
+      "ipa": "/ˈkrɪtɪks/",
+      "def": "People who mention problems with something",
+      "ex": [
+        "Critics praised the film for its acting.",
+        "Critics of the plan wrote to Congress.",
+        "Some critics doubted the new policy would work."
+      ]
+    },
+    {
+      "word": "steady",
+      "ipa": "/ˈstɛdi/",
+      "def": "Staying the same and not changing",
+      "ex": [
+        "She kept a steady pace during the marathon.",
+        "He kept a steady speed on the highway.",
+        "The company reported steady growth this quarter."
+      ]
+    },
+    {
+      "word": "long overdue",
+      "def": "Something that should have happened much earlier",
+      "ex": [
+        "The bridge repairs are long overdue after years of delay.",
+        "Her promotion was long overdue, said everyone in the office.",
+        "This apology is long overdue, but I am glad it came."
+      ]
+    },
+    {
+      "word": "gave up on",
+      "def": "Stopped trying to do something",
+      "ex": [
+        "He gave up on the diet after just two days.",
+        "She gave up on her old laptop and bought a new one.",
+        "They gave up on finding a parking spot downtown."
+      ]
+    },
+    {
+      "word": "within a year",
+      "def": "Before one full year had passed",
+      "ex": [
+        "The company doubled its sales within a year of launching.",
+        "We paid off the loan within a year of signing it.",
+        "The new store closed within a year due to low traffic."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Most lawmakers in the House voted for a bill to lock in daylight saving time all year. The bill now goes to the Senate, which has not yet decided whether to pass it.",
+      "a": true,
+      "why": "The House voted 308 to 117 to lock in permanent daylight saving time. The bill still needs Senate approval, and its future there is far from clear."
+    },
+    {
+      "s": "The bill has already become law after the Senate quickly agreed to the plan. Every lawmaker in Congress went along with the change, and no one raised any concern.",
+      "a": false,
+      "why": "Close, but the bill only passed the House, so it is not law yet. It still needs the Senate, and the story says the outcome there is far from clear."
+    },
+    {
+      "s": "In the European Union, lawmakers have debated for years whether to end seasonal clock changes. So far, member states have not agreed on one time zone for the group.",
+      "a": false,
+      "why": "This is about the European Union's separate, long debate over ending seasonal clock changes. It is a different country and a different bill from the US House vote."
+    }
+  ],
+  "tf": [
+    {
+      "s": "The House voted for the Sunshine Protection Act by 308 votes to 117.",
+      "a": true,
+      "why": "The story says lawmakers voted for the bill by 308 votes to 117."
+    },
+    {
+      "s": "The bill would lock in permanent standard time and make winter evenings darker.",
+      "a": false,
+      "why": "The bill would lock in permanent daylight saving time, not standard time, so evenings would be lighter."
+    },
+    {
+      "s": "President Trump has come out against the plan and refused to sign it.",
+      "a": false,
+      "why": "Trump has actually come out in favor of the measure and promised to sign it into law."
+    },
+    {
+      "s": "The bill now moves on to the Senate, where its future is unclear.",
+      "a": true,
+      "why": "The story says the bill moves on to the Senate, where its future is far from clear."
+    },
+    {
+      "s": "Permanent daylight saving time would do away with the twice-a-year clock changes.",
+      "a": true,
+      "why": "The plan would do away with the switch, so people would no longer change their clocks each spring and fall."
+    },
+    {
+      "s": "The United States tried permanent daylight time in 1973, and the change lasted for many years before it ended",
+      "a": false,
+      "why": "The story says the country tried permanent daylight time in 1973 but gave up on it within a year, not many years."
+    }
+  ]
+}

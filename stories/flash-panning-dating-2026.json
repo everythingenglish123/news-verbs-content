@@ -1,0 +1,540 @@
+{
+  "id": "flash-panning-dating-2026",
+  "number": 85,
+  "headline": "Flash-panning: romance that starts hot and ends in silence",
+  "badge": "Culture",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n85-flash-panning-dating-2026-flat.webp",
+  "position": "center 60%",
+  "sources": [
+    {
+      "title": "What is flash-panning? (News in Levels)",
+      "url": "https://www.newsinlevels.com/products/what-is-flash-panning-level-3/"
+    },
+    {
+      "title": "Flashpanning Is Yet Another Troubling Dating Trend Fueled By Commitment-Phobes (Glam)",
+      "url": "https://www.glam.com/1218958/flashpanning-is-yet-another-troubling-dating-trend-fueled-by-commitment-phobes/"
+    },
+    {
+      "title": "New Dating Trend: Flashpanning (G105, iHeart)",
+      "url": "https://g105.iheart.com/content/2019-03-27-new-dating-trend-flashpanning/"
+    },
+    {
+      "title": "Dating Games: What is 'flashpanning?' (video, Susan Winter)",
+      "url": "https://www.youtube.com/watch?v=lzIVwrbXWVA"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "It starts like a movie. Two people meet online and {{hit it off}} so well that they text all night and see each other every day. There are flowers, long walks, and big [[promises]]. She is [[swept off her feet]] and {{falls for}} him completely. The new [[couple]] even {{show off}} the [[romance]] online, where every photo looks like a [[perfect match]]. Dating experts call this [[pattern]] [[flash-panning]], and it has a [[cruel]] ending.",
+      "verbs": [
+        {
+          "display": "hit it off",
+          "base": "hit it off",
+          "correct": "To like each other right away",
+          "wrong": "To argue from the first day",
+          "correctFirst": true,
+          "why": "Hit it off means two people click instantly and feel comfortable together from the very first meeting. This couple hit it off so well they were texting all night."
+        },
+        {
+          "display": "falls for",
+          "base": "fall for",
+          "correct": "To begin to love someone",
+          "wrong": "To wait for someone patiently",
+          "correctFirst": false,
+          "why": "Fall for means to develop strong romantic feelings for someone, often quickly and without much thought. She fell for him fast, before she really knew who he was."
+        },
+        {
+          "display": "show off",
+          "base": "show off",
+          "correct": "To display something proudly",
+          "wrong": "To hide something from friends",
+          "correctFirst": true,
+          "why": "Show off means to display something so others notice and admire it, often on social media. The new couple showed off their romance in picture-perfect photos online."
+        }
+      ]
+    },
+    {
+      "text": "Then [[ordinary]] life {{comes along}}: work schedules, tired evenings, and small [[disagreements]]. For most couples, this is where real love begins. For a flashpanner, it is the [[exit]]. The excitement {{wears off}}, and he begins {{pulling away}}, answering less and less each day. Soon he disappears completely, without a fight and without an [[explanation]]. The person {{left behind}} keeps asking the same question: what did I do wrong?",
+      "verbs": [
+        {
+          "display": "comes along",
+          "base": "come along",
+          "correct": "To arrive or appear",
+          "wrong": "To end very slowly",
+          "correctFirst": false,
+          "why": "Come along means something arrives on its own, without being planned or invited. In a normal relationship, ordinary life comes along and both people adjust together."
+        },
+        {
+          "display": "wears off",
+          "base": "wear off",
+          "correct": "To slowly disappear over time",
+          "wrong": "To grow stronger each day",
+          "correctFirst": true,
+          "why": "Wear off means a strong feeling slowly fades until barely anything of it remains. For a flashpanner, the early excitement wears off the moment real life starts."
+        },
+        {
+          "display": "pulling away",
+          "base": "pull away",
+          "correct": "To slowly become more distant",
+          "wrong": "To share every small secret",
+          "correctFirst": false,
+          "why": "Pull away means someone becomes cooler and more distant, often little by little rather than all at once. He starts pulling away by answering messages later and later."
+        },
+        {
+          "display": "left behind",
+          "base": "leave behind",
+          "correct": "To go away without taking someone",
+          "wrong": "To carry someone a long way",
+          "correctFirst": true,
+          "why": "Leave behind means to go away and leave someone else exactly where they were, often with no warning. A flashpanner disappears completely and leaves the other person behind, confused and hurt."
+        }
+      ]
+    },
+    {
+      "text": "Why do people do this? Relationship expert Susan Winter says flashpanners love the [[electric]] first weeks but cannot {{deal with}} boring Tuesdays and real [[compromise]]. Many never learned that small fights are a normal part of love, and some are afraid to {{open up}} about their deeper feelings. The pattern is not new: a radio show described it back in 2019. It is also different from [[ghosting]], which usually happens after little contact, and from [[love bombing]], where [[extreme]] attention is used for [[control]].",
+      "verbs": [
+        {
+          "display": "deal with",
+          "base": "deal with",
+          "correct": "To handle a difficult situation",
+          "wrong": "To forget an old memory",
+          "correctFirst": true,
+          "why": "Deal with means to face a difficult situation directly instead of avoiding it. Flashpanners love the exciting start but cannot deal with ordinary, boring days."
+        },
+        {
+          "display": "open up",
+          "base": "open up",
+          "correct": "To talk about private feelings",
+          "wrong": "To make a joke of something",
+          "correctFirst": false,
+          "why": "Open up means to share private feelings or fears you would normally keep to yourself. Some flashpanners never open up because closeness itself makes them nervous."
+        }
+      ]
+    },
+    {
+      "text": "The harm is real. After weeks of [[closeness]], the sudden silence can feel like losing a friend, and it can take months to {{get over}} someone who simply disappeared. Experts say the best [[defense]] is a little [[patience]]. So {{watch out for}} the [[warning signs]]: a [[flawless]] first week, gifts and big promises, and [[excitement]] that feels too strong too soon. Real love grows more slowly, and it survives boring Tuesdays.",
+      "verbs": [
+        {
+          "display": "get over",
+          "base": "get over",
+          "correct": "To feel better after something bad",
+          "wrong": "To remember something painful",
+          "correctFirst": true,
+          "why": "Get over means to recover emotionally from something painful until it stops hurting so much. It can take months to get over someone who vanished without any explanation."
+        },
+        {
+          "display": "watch out for",
+          "base": "watch out for",
+          "correct": "To be careful about a danger",
+          "wrong": "To choose quickly without thinking",
+          "correctFirst": false,
+          "why": "Watch out for means to stay alert to early signs of danger so you can protect yourself. Experts say to watch out for gifts and promises that arrive too soon."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Hit it off",
+      "ipa": "/hɪt ɪt ɔf/",
+      "def": "To like each other right away",
+      "ex": [
+        "The two dogs hit it off at the park.",
+        "We hit it off at the conference and stayed friends.",
+        "My mom and my coach hit it off immediately."
+      ]
+    },
+    {
+      "verb": "Fall for",
+      "ipa": "/fɔl fɔr/",
+      "def": "To begin to love someone",
+      "ex": [
+        "He fell for her the first time she laughed.",
+        "People often fall for someone who makes them feel safe.",
+        "She fell for the quiet boy in her art class."
+      ]
+    },
+    {
+      "verb": "Show off",
+      "ipa": "/ʃoʊ ɔf/",
+      "def": "To display something proudly",
+      "ex": [
+        "He loves to show off his new bike.",
+        "The chef showed off her fastest knife skills.",
+        "Kids always show off in front of visitors."
+      ]
+    },
+    {
+      "verb": "Come along",
+      "ipa": "/kʌm əˈlɔŋ/",
+      "def": "To arrive or appear",
+      "ex": [
+        "A great job offer came along last spring.",
+        "Wait patiently, and the right chance will come along.",
+        "Trouble always comes along when you least expect it."
+      ]
+    },
+    {
+      "verb": "Wear off",
+      "ipa": "/wɛr ɔf/",
+      "def": "To slowly disappear over time",
+      "ex": [
+        "The medicine wears off after four hours.",
+        "The paint smell wore off in a few days.",
+        "The fun of the new toy wore off quickly."
+      ]
+    },
+    {
+      "verb": "Pull away",
+      "ipa": "/pʊl əˈweɪ/",
+      "def": "To slowly become more distant",
+      "ex": [
+        "After the argument, she pulled away from her friends.",
+        "He pulled away whenever the talk got serious.",
+        "Teenagers often pull away from their parents for a while."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "ipa": "/liv bɪˈhaɪnd/",
+      "def": "To go away without taking someone",
+      "ex": [
+        "He moved fast and left the others behind.",
+        "She left her gloves behind at the cafe.",
+        "Do not leave your little brother behind."
+      ]
+    },
+    {
+      "verb": "Deal with",
+      "ipa": "/dil wɪθ/",
+      "def": "To handle a difficult situation",
+      "ex": [
+        "Nurses deal with stress every single day.",
+        "She dealt with the angry customer calmly.",
+        "I cannot deal with loud music in the morning."
+      ]
+    },
+    {
+      "verb": "Open up",
+      "ipa": "/ˈoʊpən ʌp/",
+      "def": "To talk about private feelings",
+      "ex": [
+        "It took him years to open up about his childhood.",
+        "She finally opened up to her doctor.",
+        "Some students open up more in small groups."
+      ]
+    },
+    {
+      "verb": "Get over",
+      "ipa": "/ɡɛt ˈoʊvər/",
+      "def": "To feel better after something bad",
+      "ex": [
+        "It took me a month to get over that cold.",
+        "He never got over losing the final game.",
+        "She got over her fear of flying."
+      ]
+    },
+    {
+      "verb": "Watch out for",
+      "ipa": "/wɑtʃ aʊt fɔr/",
+      "def": "To be careful about a danger",
+      "ex": [
+        "Watch out for ice on the steps.",
+        "Drivers should watch out for children near schools.",
+        "Watch out for hidden fees on cheap tickets."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "swept off her feet",
+      "ipa": "/swɛpt ɔf hɜr fit/",
+      "def": "Filled with sudden, strong romantic feelings",
+      "ex": [
+        "She was swept off her feet by the singer.",
+        "Grandma was swept off her feet at a dance in 1970.",
+        "She wants to be swept off her feet, not rushed."
+      ]
+    },
+    {
+      "word": "romance",
+      "ipa": "/roʊˈmæns/",
+      "def": "A relationship full of love and excitement",
+      "ex": [
+        "Their romance began on a train in Italy.",
+        "The movie is a comedy with a little romance.",
+        "A summer romance can end when school starts."
+      ]
+    },
+    {
+      "word": "perfect match",
+      "ipa": "/ˈpɜrfɪkt mætʃ/",
+      "def": "Two people who seem exactly right together",
+      "ex": [
+        "Everyone said they were a perfect match.",
+        "The app promised to find her a perfect match.",
+        "A perfect match on paper can still fail."
+      ]
+    },
+    {
+      "word": "flash-panning",
+      "ipa": "/flæʃ ˈpænɪŋ/",
+      "def": "Starting a romance fast, then leaving when it gets real",
+      "ex": [
+        "Flash-panning leaves people confused and hurt.",
+        "She read an article about flash-panning.",
+        "His third short romance looked like flash-panning."
+      ]
+    },
+    {
+      "word": "disagreements",
+      "ipa": "/ˌdɪsəˈɡrimənts/",
+      "def": "Small fights about ideas or plans",
+      "ex": [
+        "They had disagreements about money.",
+        "Small disagreements are normal between friends.",
+        "The sisters solved their disagreements by talking."
+      ]
+    },
+    {
+      "word": "compromise",
+      "ipa": "/ˈkɑmprəmaɪz/",
+      "def": "Accepting less so both sides are happy",
+      "ex": [
+        "Marriage is full of compromise.",
+        "They reached a compromise about the vacation.",
+        "Compromise means nobody wins everything."
+      ]
+    },
+    {
+      "word": "ghosting",
+      "ipa": "/ˈɡoʊstɪŋ/",
+      "def": "Suddenly ending all contact with no explanation",
+      "ex": [
+        "Ghosting is common on dating apps.",
+        "After two nice chats, he chose ghosting instead of honesty.",
+        "She hates ghosting and always sends a goodbye message."
+      ]
+    },
+    {
+      "word": "love bombing",
+      "ipa": "/lʌv ˈbɑmɪŋ/",
+      "def": "Extreme attention used to control a partner",
+      "ex": [
+        "Daily gifts in week one can be love bombing.",
+        "Love bombing often looks generous at first.",
+        "A counselor explained the danger of love bombing."
+      ]
+    },
+    {
+      "word": "warning signs",
+      "ipa": "/ˈwɔrnɪŋ saɪnz/",
+      "def": "Early clues that something is wrong",
+      "ex": [
+        "The coach noticed warning signs of burnout early.",
+        "Falling grades can be warning signs of stress.",
+        "Dark clouds are warning signs of a storm."
+      ]
+    },
+    {
+      "word": "excitement",
+      "ipa": "/ɪkˈsaɪtmənt/",
+      "def": "A feeling of high energy and interest",
+      "ex": [
+        "The kids screamed with excitement.",
+        "Her excitement about the trip kept her awake.",
+        "The game's excitement lasted until the final second."
+      ]
+    },
+    {
+      "word": "promises",
+      "ipa": "/ˈprɑmɪsɪz/",
+      "def": "Statements that you will surely do something",
+      "ex": [
+        "Politicians make promises before elections.",
+        "He keeps his promises, even small ones.",
+        "Empty promises destroy friendships."
+      ]
+    },
+    {
+      "word": "couple",
+      "ipa": "/ˈkʌpəl/",
+      "def": "Two people in a romantic relationship",
+      "ex": [
+        "The couple danced until midnight.",
+        "An older couple bought the house.",
+        "The couple argued about the map."
+      ]
+    },
+    {
+      "word": "pattern",
+      "ipa": "/ˈpætərn/",
+      "def": "A way things repeat again and again",
+      "ex": [
+        "The detective noticed a pattern in the robberies.",
+        "Her sleep pattern changed in winter.",
+        "The losses followed a clear pattern."
+      ]
+    },
+    {
+      "word": "cruel",
+      "ipa": "/ˈkruəl/",
+      "def": "Causing pain without caring",
+      "ex": [
+        "The joke felt cruel, not funny.",
+        "A cruel wind cut through our coats.",
+        "It was cruel to promise and not come."
+      ]
+    },
+    {
+      "word": "ordinary",
+      "ipa": "/ˈɔrdənɛri/",
+      "def": "Normal and not special",
+      "ex": [
+        "It was an ordinary Tuesday until the call.",
+        "She turns ordinary food into art.",
+        "Ordinary days make up most of life."
+      ]
+    },
+    {
+      "word": "exit",
+      "ipa": "/ˈɛɡzɪt/",
+      "def": "The way out of a place or situation",
+      "ex": [
+        "The exit is behind the stage.",
+        "He looked for an early exit from the deal.",
+        "Use the north exit during the game."
+      ]
+    },
+    {
+      "word": "explanation",
+      "ipa": "/ˌɛkspləˈneɪʃən/",
+      "def": "Words that make something clear",
+      "ex": [
+        "The teacher's explanation helped everyone.",
+        "There was no explanation for the delay.",
+        "Her explanation took only a minute."
+      ]
+    },
+    {
+      "word": "electric",
+      "ipa": "/ɪˈlɛktrɪk/",
+      "def": "Very exciting and full of energy",
+      "ex": [
+        "The mood in the stadium was electric.",
+        "Their first conversation felt electric.",
+        "The city is electric on New Year's Eve."
+      ]
+    },
+    {
+      "word": "extreme",
+      "ipa": "/ɪkˈstrim/",
+      "def": "Far beyond what is normal",
+      "ex": [
+        "The desert has extreme heat.",
+        "He trains at an extreme level.",
+        "Extreme fans slept outside the store."
+      ]
+    },
+    {
+      "word": "control",
+      "ipa": "/kənˈtroʊl/",
+      "def": "Power over another person's choices",
+      "ex": [
+        "The coach lost control of the team.",
+        "Parents slowly give teenagers more control.",
+        "He wanted control, not love."
+      ]
+    },
+    {
+      "word": "closeness",
+      "ipa": "/ˈkloʊsnəs/",
+      "def": "A warm feeling of being connected",
+      "ex": [
+        "The twins share a special closeness.",
+        "Cooking together builds closeness.",
+        "She missed the closeness of her old team."
+      ]
+    },
+    {
+      "word": "defense",
+      "ipa": "/dɪˈfɛns/",
+      "def": "Something that protects you",
+      "ex": [
+        "Sunscreen is your defense against burns.",
+        "Laughter was his defense in hard times.",
+        "The castle's best defense was the sea."
+      ]
+    },
+    {
+      "word": "patience",
+      "ipa": "/ˈpeɪʃəns/",
+      "def": "The ability to wait calmly",
+      "ex": [
+        "Fishing takes patience.",
+        "Her patience with the puppy paid well.",
+        "His patience ran out in the traffic."
+      ]
+    },
+    {
+      "word": "flawless",
+      "ipa": "/ˈflɔləs/",
+      "def": "Perfect, with no mistakes",
+      "ex": [
+        "Her final jump was flawless.",
+        "The diamond looked flawless.",
+        "He gave a flawless answer in the interview."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Flash-panning is a dating pattern where someone starts a romance with great energy and then disappears when ordinary life begins. Experts say daters should learn the signs.",
+      "a": true,
+      "why": "The article describes an intense start, then a sudden exit when schedules and small disagreements arrive."
+    },
+    {
+      "s": "In a pattern called flash-panning, people give new partners extreme attention in order to control them for years. Experts now say it is simply another name for love bombing.",
+      "a": false,
+      "why": "Close, but flashpanners leave when things get real. The article says love bombing is a different pattern, used for control."
+    },
+    {
+      "s": "A dating app added a tool this year that warns users when a new match sends too many messages too quickly. Millions of daters have already turned the new warning on.",
+      "a": false,
+      "why": "No app tool appears in the article. It is about a dating pattern and its warning signs."
+    }
+  ],
+  "tf": [
+    {
+      "s": "In a flash-panning romance, the first days are quiet and slow",
+      "a": false,
+      "why": "The start is intense. The two people hit it off fast, with constant dates, texts, and big promises."
+    },
+    {
+      "s": "Flashpanners often pull away when everyday problems come along",
+      "a": true,
+      "why": "When schedules and small disagreements appear, the excitement wears off and they start to disappear."
+    },
+    {
+      "s": "The expert says many flashpanners never learned that small fights are normal in love",
+      "a": true,
+      "why": "She says they cannot deal with the boring days and compromise that real relationships need."
+    },
+    {
+      "s": "The article says flash-panning and ghosting are exactly the same thing",
+      "a": false,
+      "why": "Ghosting usually happens after little contact. Flash-panning starts with weeks of closeness first."
+    },
+    {
+      "s": "The advice is to watch out for a romance that feels perfect from day one",
+      "a": true,
+      "why": "A flawless first week, early gifts, and big promises can be warning signs."
+    },
+    {
+      "s": "The term flash-panning was invented this summer",
+      "a": false,
+      "why": "A radio show described the pattern back in 2019, but it is getting fresh attention now."
+    }
+  ]
+}

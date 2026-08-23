@@ -1,1 +1,513 @@
-{"id": "birdsong-forest-stress-2026", "number": 52, "headline": "Birdsong in a forest lowers stress", "badge": "Health", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n52-birdsong-forest-stress-2026-flat.webp", "position": "center 52%", "sources": [{"title": "Birdsong and walks in the forest tied to significant mental health benefits", "url": "https://news.ncsu.edu/2026/07/birdsong-and-walks-in-the-forest-tied-to-significant-mental-health-benefits/"}, {"title": "Listening to birdsong in a forest lowered a person's stress during experiment", "url": "https://news.mongabay.com/2026/07/listening-to-birdsong-in-a-forest-lowered-a-persons-stress-during-experiment/"}, {"title": "Birdsong and walks in the forest tied to significant mental health benefits", "url": "https://research.ncsu.edu/birdsong-and-walks-in-the-forest-tied-to-significant-mental-health-benefits/"}], "chunks": [{"text": "[[Researchers]] in the United States have found that where a person sits and what that person hears both change how they feel. The surprising part is that the sound matters about [[as much as]] the place. Their [[study]] {{came out}} on July 17 in the [[journal]] Environmental Conservation. It {{set out to}} separate two things that almost always happen together, which are being in nature and hearing nature.", "verbs": [{"display": "came out", "base": "come out", "correct": "To be published", "wrong": "To be tested by others", "correctFirst": true}, {"display": "set out to", "base": "set out to", "correct": "To intend to do something", "wrong": "To succeed in proving an idea", "correctFirst": false}]}, {"text": "The team recruited 106 [[volunteers]]. Each one sat either on a [[restored]] [[trail]] beside a river or in a [[bare]] [[concrete]] space with no plants at all. Each one wore noise canceling headphones, which {{shut out}} every real sound around them. The headphones then played either recorded birdsong or recorded traffic, chosen [[at random]]. That gave four [[combinations]]. A volunteer could be among trees while hearing cars, or on concrete while hearing birds. Researchers then [[measured]] [[stress]], positive and negative feelings, and how [[rested]] each person said they felt.", "verbs": [{"display": "shut out", "base": "shut out", "correct": "To block from entering", "wrong": "To stop a machine working", "correctFirst": true}]}, {"text": "Trees with birdsong {{won out}} [[on every measure]]. According to the lead researcher, positive feelings {{went up}}, negative feelings {{went down}}, stress {{went down}}, and the sense of feeling rested {{went up}}. Concrete with traffic noise was worst. The two mixed pairs landed [[in between]], and that is the result that {{stands out}}. People on concrete felt better when they heard birds than when they heard cars. People among trees felt worse when they heard cars than when they heard birds. Neither the place [[on its own]] nor the sound on its own decided how they felt.", "verbs": [{"display": "won out", "base": "win out", "correct": "To succeed in the end", "wrong": "To get support from people", "correctFirst": true}, {"display": "went up", "base": "go up", "correct": "To become greater", "wrong": "To rise and then fall again", "correctFirst": false}, {"display": "went down", "base": "go down", "correct": "To become smaller", "wrong": "To drop to nothing at all", "correctFirst": true}, {"display": "stands out", "base": "stand out", "correct": "To be clearly noticeable", "wrong": "To disagree with other results", "correctFirst": true}]}, {"text": "The practical point is about cities. Not every [[neighborhood]] can afford a new park. This study suggests that an empty concrete area gets better [[as soon as]] natural sound {{comes back}}. That can happen through planting that {{draws in}} birds, or [[simply by]] helping people {{block out}} the traffic. The researchers are careful about how far the [[finding]] goes. It was one study, on one [[campus]], with about a hundred people, and it measured how they felt that day [[rather than]] months [[afterwards]].", "verbs": [{"display": "comes back", "base": "come back", "correct": "To return to a place", "wrong": "To become louder than it was", "correctFirst": false}, {"display": "draws in", "base": "draw in", "correct": "To attract toward a place", "wrong": "To stop animals leaving an area", "correctFirst": false}, {"display": "block out", "base": "block out", "correct": "To stop from being heard", "wrong": "To leave a noisy street", "correctFirst": false}]}], "vocab": [{"verb": "Come out", "ipa": "/kʌm aʊt/", "def": "To be published", "ex": ["The magazine's fall issue comes out in September.", "The report comes out every fall.", "A new study came out last week."]}, {"verb": "Set out to", "ipa": "/sɛt aʊt tuː/", "def": "To intend to do something", "ex": ["The team set out to solve the puzzle in a week.", "She set out to visit every island.", "We set out to finish before winter."]}, {"verb": "Shut out", "ipa": "/ʃʌt aʊt/", "def": "To block from entering", "ex": ["The new windows shut out most of the traffic noise.", "The wall shuts out most of the noise.", "He shut out the cold with a heavy door."]}, {"verb": "Win out", "ipa": "/wɪn aʊt/", "def": "To succeed in the end", "ex": ["In the end, her plan won out over the others.", "The simpler design won out.", "Patience usually wins out over speed."]}, {"verb": "Go up", "ipa": "/ɡoʊ ʌp/", "def": "To become greater", "ex": ["Ticket prices went up again this summer.", "Her scores go up every term.", "Numbers have gone up since April."]}, {"verb": "Go down", "ipa": "/ɡoʊ daʊn/", "def": "To become smaller", "ex": ["Her temperature went down after the medicine.", "Costs go down in the winter.", "Sales have gone down for three years."]}, {"verb": "Stand out", "ipa": "/stænd aʊt/", "def": "To be clearly noticeable", "ex": ["His answer stood out from all the others.", "Bright colors stand out on a gray day.", "Her work has always stood out."]}, {"verb": "Come back", "ipa": "/kʌm bæk/", "def": "To return to a place", "ex": ["The swallows come back to the barn every spring.", "He came back after ten years abroad.", "Warm weather has come back at last."]}, {"verb": "Draw in", "ipa": "/drɔː ɪn/", "def": "To attract toward a place", "ex": ["The new bakery draws in customers from nearby towns.", "Wild flowers drew in bees and butterflies.", "The festival has drawn in a huge crowd."]}, {"verb": "Block out", "ipa": "/blɑk aʊt/", "def": "To stop from being heard", "ex": ["He wore headphones to block out the construction noise.", "She uses music to block out the noise.", "Earplugs blocked out almost everything."]}], "wordDefs": [{"word": "researchers", "ipa": "/ˈriːsərtʃərz/", "def": "People who study something carefully", "ex": ["Researchers spent months testing the new vaccine.", "Two researchers checked every result twice.", "The researchers published their findings online."]}, {"word": "study", "ipa": "/ˈstʌdi/", "def": "A piece of careful research", "ex": ["The study looked at sleep patterns in teenagers.", "A later study found the same thing.", "Her study took nearly three years to finish."]}, {"word": "journal", "ipa": "/ˈdʒərnəl/", "def": "A magazine for scientific work", "ex": ["He submitted his paper to a science journal.", "She reads the journal every month.", "The journal only accepts a few papers each year."]}, {"word": "volunteers", "ipa": "/ˌvɑlənˈtɪrz/", "def": "People who offer to join", "ex": ["Volunteers cleaned the beach on Saturday morning.", "The hospital asked for volunteers last week.", "Dozens of volunteers helped after the storm."]}, {"word": "restored", "ipa": "/rɪˈstɔːrd/", "def": "Brought back to good condition", "ex": ["The old theater was restored last year.", "A restored building opened last month.", "They restored the painting to its original color."]}, {"word": "trail", "ipa": "/treɪl/", "def": "A rough path through nature", "ex": ["The trail climbs steeply near the waterfall.", "We walked the whole trail in a day.", "Hikers follow the trail past the old mill."]}, {"word": "bare", "ipa": "/bɛər/", "def": "Empty, with nothing on it", "ex": ["The bare shelf needed a coat of paint.", "A bare wall faced the street.", "Her bare feet touched the cold floor."]}, {"word": "concrete", "ipa": "/kənˈkriːt/", "def": "Hard gray building material", "ex": ["Workers poured fresh concrete for the new sidewalk.", "Concrete gets very hot in summer.", "The bridge rests on thick concrete supports."]}, {"word": "at random", "ipa": "/ət ˈrændəm/", "def": "By chance, not chosen", "ex": ["Winners were chosen at random from the entries.", "The order was decided at random.", "He picked a book at random from the shelf."]}, {"word": "combinations", "ipa": "/ˌkɑmbəˈneɪʃənz/", "def": "Mixes of two or more things", "ex": ["The lock has thousands of possible combinations.", "Some combinations worked better than others.", "The recipe tries new flavor combinations each week."]}, {"word": "measured", "ipa": "/ˈmɛʒərd/", "def": "Found the size or amount of", "ex": ["She measured the room before buying a rug.", "He measured the change over six months.", "The nurse measured his height and weight."]}, {"word": "stress", "ipa": "/strɛs/", "def": "Worry and mental pressure", "ex": ["Moving to a new city added a lot of stress.", "Her stress dropped after the vacation.", "Exercise helps reduce stress after a long day."]}, {"word": "rested", "ipa": "/ˈrɛstɪd/", "def": "Refreshed after resting", "ex": ["He felt rested after sleeping nine hours.", "A short walk left them rested.", "She woke up rested and ready for the trip."]}, {"word": "in between", "ipa": "/ɪn bɪˈtwiːn/", "def": "Partway between two results", "ex": ["The paint color looked in between blue and green.", "The truth is probably in between.", "Her mood stayed in between happy and tired."]}, {"word": "on its own", "ipa": "/ɑn ɪts oʊn/", "def": "By itself, without help", "ex": ["The plant grew tall on its own near the fence.", "Exercise on its own is not enough.", "The machine can start on its own each morning."]}, {"word": "neighborhood", "ipa": "/ˈneɪbərhʊd/", "def": "A local area of a town", "ex": ["Every house in the neighborhood has a garden.", "Every neighborhood should have a park.", "The neighborhood held a picnic in June."]}, {"word": "finding", "ipa": "/ˈfaɪndɪŋ/", "def": "A result of research", "ex": ["The finding changed how doctors treat the illness.", "One finding has already been repeated.", "Their finding appeared in several newspapers."]}, {"word": "campus", "ipa": "/ˈkæmpəs/", "def": "The grounds of a university", "ex": ["The campus library stays open all night.", "Students crossed the campus at noon.", "A new dorm opened on campus this fall."]}, {"word": "afterwards", "ipa": "/ˈæftərwərdz/", "def": "At a later time", "ex": ["They went out for coffee together afterwards.", "Afterwards, nobody could remember the order.", "She felt tired for hours afterwards."]}, {"word": "as much as", "def": "To the same degree as something else", "ex": ["This jacket costs as much as a plane ticket.", "He trusts his sister as much as his best friend.", "The new phone weighs as much as the old one."]}, {"word": "on every measure", "def": "In every way something is judged", "ex": ["The new engine performed better on every measure tested.", "Her essay scored higher on every measure this term.", "The team improved on every measure since last season."]}, {"word": "as soon as", "def": "Immediately when something happens", "ex": ["Call me as soon as you land at the airport.", "She left as soon as the meeting ended.", "We will start as soon as everyone arrives."]}, {"word": "simply by", "def": "Just by doing one simple thing", "ex": ["He saved money simply by walking to work.", "She fixed the lamp simply by tightening a screw.", "You can relax simply by taking a deep breath."]}, {"word": "rather than", "def": "Instead of, in place of something else", "ex": ["He chose the train rather than the bus today.", "She studied at night rather than in the morning.", "They repaired the roof rather than replace it."]}], "mainIdea": [{"s": "A new study found that where a person sits and what they hear change how stressed they feel. People felt best among trees with birdsong and felt worst on bare concrete with traffic noise.", "a": true, "why": "Trees with birdsong won out on every measure, and concrete with traffic noise was worst. The two mixed pairs landed in between, which is the result that stands out."}, {"s": "Researchers found that only the sound a person hears changes their stress, not the place they sit in. People felt best with birdsong and worst with traffic noise, no matter where they sat.", "a": false, "why": "Close, but the study found the place also mattered. People on concrete felt better hearing birds than cars, and people among trees felt worse hearing cars than birds."}, {"s": "A separate study found that parks with more trees see lower crime rates than areas with less greenery. Researchers said planting more trees could help cities save money on policing.", "a": false, "why": "This is about trees and crime rates, a different study entirely. The birdsong study measured stress and mood, not crime."}], "tf": [{"s": "The study came out on July 17 in the journal Environmental Conservation.", "a": true, "why": "Their study came out on July 17 in the journal Environmental Conservation."}, {"s": "The team recruited about a thousand volunteers for the experiment.", "a": false, "why": "The team recruited 106 volunteers."}, {"s": "Trees with birdsong won out on every measure.", "a": true, "why": "Trees with birdsong won out on every measure. Positive feelings went up, negative feelings went down, stress went down, and the sense of feeling rested went up."}, {"s": "Stress went up when people sat among trees and heard birdsong.", "a": false, "why": "Positive feelings went up, negative feelings went down, stress went down, and the sense of feeling rested went up."}, {"s": "The headphones shut out every real sound around the volunteers.", "a": true, "why": "Each one wore noise canceling headphones, which shut out every real sound around them."}, {"s": "The researchers measured how the volunteers felt several months afterwards.", "a": false, "why": "It measured how they felt that day rather than months afterwards."}]}
+{
+  "id": "birdsong-forest-stress-2026",
+  "number": 52,
+  "headline": "Birdsong in a forest lowers stress",
+  "badge": "Health",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n52-birdsong-forest-stress-2026-flat.webp",
+  "position": "center 52%",
+  "sources": [
+    {
+      "title": "Birdsong and walks in the forest tied to significant mental health benefits",
+      "url": "https://news.ncsu.edu/2026/07/birdsong-and-walks-in-the-forest-tied-to-significant-mental-health-benefits/"
+    },
+    {
+      "title": "Listening to birdsong in a forest lowered a person's stress during experiment",
+      "url": "https://news.mongabay.com/2026/07/listening-to-birdsong-in-a-forest-lowered-a-persons-stress-during-experiment/"
+    },
+    {
+      "title": "Birdsong and walks in the forest tied to significant mental health benefits",
+      "url": "https://research.ncsu.edu/birdsong-and-walks-in-the-forest-tied-to-significant-mental-health-benefits/"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "[[Researchers]] in the United States have found that where a person sits and what that person hears both change how they feel. The surprising part is that the sound matters about [[as much as]] the place. Their [[study]] {{came out}} on July 17 in the [[journal]] Environmental Conservation. It {{set out to}} separate two things that almost always happen together, which are being in nature and hearing nature.",
+      "verbs": [
+        {
+          "display": "came out",
+          "base": "come out",
+          "correct": "To be published",
+          "wrong": "To be tested by others",
+          "correctFirst": true,
+          "why": "Come out means a study or report becomes available to the public. Scientists say a paper comes out when a journal finally publishes it."
+        },
+        {
+          "display": "set out to",
+          "base": "set out to",
+          "correct": "To intend to do something",
+          "wrong": "To succeed in proving an idea",
+          "correctFirst": false,
+          "why": "Set out to means you have a clear goal before you begin. This team set out to separate the effect of place from the effect of sound in the experiment."
+        }
+      ]
+    },
+    {
+      "text": "The team recruited 106 [[volunteers]]. Each one sat either on a [[restored]] [[trail]] beside a river or in a [[bare]] [[concrete]] space with no plants at all. Each one wore noise canceling headphones, which {{shut out}} every real sound around them. The headphones then played either recorded birdsong or recorded traffic, chosen [[at random]]. That gave four [[combinations]]. A volunteer could be among trees while hearing cars, or on concrete while hearing birds. Researchers then [[measured]] [[stress]], positive and negative feelings, and how [[rested]] each person said they felt.",
+      "verbs": [
+        {
+          "display": "shut out",
+          "base": "shut out",
+          "correct": "To block from entering",
+          "wrong": "To stop a machine working",
+          "correctFirst": true,
+          "why": "Shut out means to block a sound or a feeling completely. These headphones shut out every real noise so the researchers could control what people heard."
+        }
+      ]
+    },
+    {
+      "text": "Trees with birdsong {{won out}} [[on every measure]]. According to the lead researcher, positive feelings {{went up}}, negative feelings {{went down}}, stress {{went down}}, and the sense of feeling rested {{went up}}. Concrete with traffic noise was worst. The two mixed pairs landed [[in between]], and that is the result that {{stands out}}. People on concrete felt better when they heard birds than when they heard cars. People among trees felt worse when they heard cars than when they heard birds. Neither the place [[on its own]] nor the sound on its own decided how they felt.",
+      "verbs": [
+        {
+          "display": "won out",
+          "base": "win out",
+          "correct": "To succeed in the end",
+          "wrong": "To get support from people",
+          "correctFirst": true,
+          "why": "When something wins out, it beats every alternative in the end. Trees with birdsong won out on every single measure the team tracked."
+        },
+        {
+          "display": "went up",
+          "base": "go up",
+          "correct": "To become greater",
+          "wrong": "To rise and then fall again",
+          "correctFirst": false,
+          "why": "Go up just means a number or a feeling rises. Here positive feelings and the sense of feeling rested both went up after birdsong."
+        },
+        {
+          "display": "went down",
+          "base": "go down",
+          "correct": "To become smaller",
+          "wrong": "To drop to nothing at all",
+          "correctFirst": true,
+          "why": "Go down means a number or a feeling gets smaller. Stress and negative feelings both went down when people listened to birdsong instead of traffic."
+        },
+        {
+          "display": "stands out",
+          "base": "stand out",
+          "correct": "To be clearly noticeable",
+          "wrong": "To disagree with other results",
+          "correctFirst": true,
+          "why": "A result stands out when it surprises you or breaks the pattern you expected. Here the mixed pairs, trees with traffic or concrete with birds, stood out the most."
+        }
+      ]
+    },
+    {
+      "text": "The practical point is about cities. Not every [[neighborhood]] can afford a new park. This study suggests that an empty concrete area gets better [[as soon as]] natural sound {{comes back}}. That can happen through planting that {{draws in}} birds, or [[simply by]] helping people {{block out}} the traffic. The researchers are careful about how far the [[finding]] goes. It was one study, on one [[campus]], with about a hundred people, and it measured how they felt that day [[rather than]] months [[afterwards]].",
+      "verbs": [
+        {
+          "display": "comes back",
+          "base": "come back",
+          "correct": "To return to a place",
+          "wrong": "To become louder than it was",
+          "correctFirst": false,
+          "why": "Come back means to return to a place after being away. When natural sound comes back to a bare space, it can change how people feel there."
+        },
+        {
+          "display": "draws in",
+          "base": "draw in",
+          "correct": "To attract toward a place",
+          "wrong": "To stop animals leaving an area",
+          "correctFirst": false,
+          "why": "Draw in means to attract something toward a place. Trees and plants can draw in birds, adding natural sound even to a plain city block."
+        },
+        {
+          "display": "block out",
+          "base": "block out",
+          "correct": "To stop from being heard",
+          "wrong": "To leave a noisy street",
+          "correctFirst": false,
+          "why": "Block out means to stop a sound from reaching your ears. City planners could help residents block out traffic noise even without a full park."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "ipa": "/kʌm aʊt/",
+      "def": "To be published",
+      "ex": [
+        "The magazine's fall issue comes out in September.",
+        "The report comes out every fall.",
+        "A new study came out last week."
+      ]
+    },
+    {
+      "verb": "Set out to",
+      "ipa": "/sɛt aʊt tuː/",
+      "def": "To intend to do something",
+      "ex": [
+        "The team set out to solve the puzzle in a week.",
+        "She set out to visit every island.",
+        "We set out to finish before winter."
+      ]
+    },
+    {
+      "verb": "Shut out",
+      "ipa": "/ʃʌt aʊt/",
+      "def": "To block from entering",
+      "ex": [
+        "The new windows shut out most of the traffic noise.",
+        "The wall shuts out most of the noise.",
+        "He shut out the cold with a heavy door."
+      ]
+    },
+    {
+      "verb": "Win out",
+      "ipa": "/wɪn aʊt/",
+      "def": "To succeed in the end",
+      "ex": [
+        "In the end, her plan won out over the others.",
+        "The simpler design won out.",
+        "Patience usually wins out over speed."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "ipa": "/ɡoʊ ʌp/",
+      "def": "To become greater",
+      "ex": [
+        "Ticket prices went up again this summer.",
+        "Her scores go up every term.",
+        "Numbers have gone up since April."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "ipa": "/ɡoʊ daʊn/",
+      "def": "To become smaller",
+      "ex": [
+        "Her temperature went down after the medicine.",
+        "Costs go down in the winter.",
+        "Sales have gone down for three years."
+      ]
+    },
+    {
+      "verb": "Stand out",
+      "ipa": "/stænd aʊt/",
+      "def": "To be clearly noticeable",
+      "ex": [
+        "His answer stood out from all the others.",
+        "Bright colors stand out on a gray day.",
+        "Her work has always stood out."
+      ]
+    },
+    {
+      "verb": "Come back",
+      "ipa": "/kʌm bæk/",
+      "def": "To return to a place",
+      "ex": [
+        "The swallows come back to the barn every spring.",
+        "He came back after ten years abroad.",
+        "Warm weather has come back at last."
+      ]
+    },
+    {
+      "verb": "Draw in",
+      "ipa": "/drɔː ɪn/",
+      "def": "To attract toward a place",
+      "ex": [
+        "The new bakery draws in customers from nearby towns.",
+        "Wild flowers drew in bees and butterflies.",
+        "The festival has drawn in a huge crowd."
+      ]
+    },
+    {
+      "verb": "Block out",
+      "ipa": "/blɑk aʊt/",
+      "def": "To stop from being heard",
+      "ex": [
+        "He wore headphones to block out the construction noise.",
+        "She uses music to block out the noise.",
+        "Earplugs blocked out almost everything."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "researchers",
+      "ipa": "/ˈriːsərtʃərz/",
+      "def": "People who study something carefully",
+      "ex": [
+        "Researchers spent months testing the new vaccine.",
+        "Two researchers checked every result twice.",
+        "The researchers published their findings online."
+      ]
+    },
+    {
+      "word": "study",
+      "ipa": "/ˈstʌdi/",
+      "def": "A piece of careful research",
+      "ex": [
+        "The study looked at sleep patterns in teenagers.",
+        "A later study found the same thing.",
+        "Her study took nearly three years to finish."
+      ]
+    },
+    {
+      "word": "journal",
+      "ipa": "/ˈdʒərnəl/",
+      "def": "A magazine for scientific work",
+      "ex": [
+        "He submitted his paper to a science journal.",
+        "She reads the journal every month.",
+        "The journal only accepts a few papers each year."
+      ]
+    },
+    {
+      "word": "volunteers",
+      "ipa": "/ˌvɑlənˈtɪrz/",
+      "def": "People who offer to join",
+      "ex": [
+        "Volunteers cleaned the beach on Saturday morning.",
+        "The hospital asked for volunteers last week.",
+        "Dozens of volunteers helped after the storm."
+      ]
+    },
+    {
+      "word": "restored",
+      "ipa": "/rɪˈstɔːrd/",
+      "def": "Brought back to good condition",
+      "ex": [
+        "The old theater was restored last year.",
+        "A restored building opened last month.",
+        "They restored the painting to its original color."
+      ]
+    },
+    {
+      "word": "trail",
+      "ipa": "/treɪl/",
+      "def": "A rough path through nature",
+      "ex": [
+        "The trail climbs steeply near the waterfall.",
+        "We walked the whole trail in a day.",
+        "Hikers follow the trail past the old mill."
+      ]
+    },
+    {
+      "word": "bare",
+      "ipa": "/bɛər/",
+      "def": "Empty, with nothing on it",
+      "ex": [
+        "The bare shelf needed a coat of paint.",
+        "A bare wall faced the street.",
+        "Her bare feet touched the cold floor."
+      ]
+    },
+    {
+      "word": "concrete",
+      "ipa": "/kənˈkriːt/",
+      "def": "Hard gray building material",
+      "ex": [
+        "Workers poured fresh concrete for the new sidewalk.",
+        "Concrete gets very hot in summer.",
+        "The bridge rests on thick concrete supports."
+      ]
+    },
+    {
+      "word": "at random",
+      "ipa": "/ət ˈrændəm/",
+      "def": "By chance, not chosen",
+      "ex": [
+        "Winners were chosen at random from the entries.",
+        "The order was decided at random.",
+        "He picked a book at random from the shelf."
+      ]
+    },
+    {
+      "word": "combinations",
+      "ipa": "/ˌkɑmbəˈneɪʃənz/",
+      "def": "Mixes of two or more things",
+      "ex": [
+        "The lock has thousands of possible combinations.",
+        "Some combinations worked better than others.",
+        "The recipe tries new flavor combinations each week."
+      ]
+    },
+    {
+      "word": "measured",
+      "ipa": "/ˈmɛʒərd/",
+      "def": "Found the size or amount of",
+      "ex": [
+        "She measured the room before buying a rug.",
+        "He measured the change over six months.",
+        "The nurse measured his height and weight."
+      ]
+    },
+    {
+      "word": "stress",
+      "ipa": "/strɛs/",
+      "def": "Worry and mental pressure",
+      "ex": [
+        "Moving to a new city added a lot of stress.",
+        "Her stress dropped after the vacation.",
+        "Exercise helps reduce stress after a long day."
+      ]
+    },
+    {
+      "word": "rested",
+      "ipa": "/ˈrɛstɪd/",
+      "def": "Refreshed after resting",
+      "ex": [
+        "He felt rested after sleeping nine hours.",
+        "A short walk left them rested.",
+        "She woke up rested and ready for the trip."
+      ]
+    },
+    {
+      "word": "in between",
+      "ipa": "/ɪn bɪˈtwiːn/",
+      "def": "Partway between two results",
+      "ex": [
+        "The paint color looked in between blue and green.",
+        "The truth is probably in between.",
+        "Her mood stayed in between happy and tired."
+      ]
+    },
+    {
+      "word": "on its own",
+      "ipa": "/ɑn ɪts oʊn/",
+      "def": "By itself, without help",
+      "ex": [
+        "The plant grew tall on its own near the fence.",
+        "Exercise on its own is not enough.",
+        "The machine can start on its own each morning."
+      ]
+    },
+    {
+      "word": "neighborhood",
+      "ipa": "/ˈneɪbərhʊd/",
+      "def": "A local area of a town",
+      "ex": [
+        "Every house in the neighborhood has a garden.",
+        "Every neighborhood should have a park.",
+        "The neighborhood held a picnic in June."
+      ]
+    },
+    {
+      "word": "finding",
+      "ipa": "/ˈfaɪndɪŋ/",
+      "def": "A result of research",
+      "ex": [
+        "The finding changed how doctors treat the illness.",
+        "One finding has already been repeated.",
+        "Their finding appeared in several newspapers."
+      ]
+    },
+    {
+      "word": "campus",
+      "ipa": "/ˈkæmpəs/",
+      "def": "The grounds of a university",
+      "ex": [
+        "The campus library stays open all night.",
+        "Students crossed the campus at noon.",
+        "A new dorm opened on campus this fall."
+      ]
+    },
+    {
+      "word": "afterwards",
+      "ipa": "/ˈæftərwərdz/",
+      "def": "At a later time",
+      "ex": [
+        "They went out for coffee together afterwards.",
+        "Afterwards, nobody could remember the order.",
+        "She felt tired for hours afterwards."
+      ]
+    },
+    {
+      "word": "as much as",
+      "def": "To the same degree as something else",
+      "ex": [
+        "This jacket costs as much as a plane ticket.",
+        "He trusts his sister as much as his best friend.",
+        "The new phone weighs as much as the old one."
+      ]
+    },
+    {
+      "word": "on every measure",
+      "def": "In every way something is judged",
+      "ex": [
+        "The new engine performed better on every measure tested.",
+        "Her essay scored higher on every measure this term.",
+        "The team improved on every measure since last season."
+      ]
+    },
+    {
+      "word": "as soon as",
+      "def": "Immediately when something happens",
+      "ex": [
+        "Call me as soon as you land at the airport.",
+        "She left as soon as the meeting ended.",
+        "We will start as soon as everyone arrives."
+      ]
+    },
+    {
+      "word": "simply by",
+      "def": "Just by doing one simple thing",
+      "ex": [
+        "He saved money simply by walking to work.",
+        "She fixed the lamp simply by tightening a screw.",
+        "You can relax simply by taking a deep breath."
+      ]
+    },
+    {
+      "word": "rather than",
+      "def": "Instead of, in place of something else",
+      "ex": [
+        "He chose the train rather than the bus today.",
+        "She studied at night rather than in the morning.",
+        "They repaired the roof rather than replace it."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A new study found that where a person sits and what they hear change how stressed they feel. People felt best among trees with birdsong and felt worst on bare concrete with traffic noise.",
+      "a": true,
+      "why": "Trees with birdsong won out on every measure, and concrete with traffic noise was worst. The two mixed pairs landed in between, which is the result that stands out."
+    },
+    {
+      "s": "Researchers found that only the sound a person hears changes their stress, not the place they sit in. People felt best with birdsong and worst with traffic noise, no matter where they sat.",
+      "a": false,
+      "why": "Close, but the study found the place also mattered. People on concrete felt better hearing birds than cars, and people among trees felt worse hearing cars than birds."
+    },
+    {
+      "s": "A separate study found that parks with more trees see lower crime rates than areas with less greenery. Researchers said planting more trees could help cities save money on policing.",
+      "a": false,
+      "why": "This is about trees and crime rates, a different study entirely. The birdsong study measured stress and mood, not crime."
+    }
+  ],
+  "tf": [
+    {
+      "s": "The study came out on July 17 in the journal Environmental Conservation.",
+      "a": true,
+      "why": "Their study came out on July 17 in the journal Environmental Conservation."
+    },
+    {
+      "s": "The team recruited about a thousand volunteers for the experiment.",
+      "a": false,
+      "why": "The team recruited 106 volunteers."
+    },
+    {
+      "s": "Trees with birdsong won out on every measure.",
+      "a": true,
+      "why": "Trees with birdsong won out on every measure. Positive feelings went up, negative feelings went down, stress went down, and the sense of feeling rested went up."
+    },
+    {
+      "s": "Stress went up when people sat among trees and heard birdsong.",
+      "a": false,
+      "why": "Positive feelings went up, negative feelings went down, stress went down, and the sense of feeling rested went up."
+    },
+    {
+      "s": "The headphones shut out every real sound around the volunteers.",
+      "a": true,
+      "why": "Each one wore noise canceling headphones, which shut out every real sound around them."
+    },
+    {
+      "s": "The researchers measured how the volunteers felt several months afterwards.",
+      "a": false,
+      "why": "It measured how they felt that day rather than months afterwards."
+    }
+  ]
+}

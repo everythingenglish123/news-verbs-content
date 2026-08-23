@@ -1,1 +1,507 @@
-{"id": "us-heat-wave-deaths-2026", "number": 8, "headline": "A record heat wave hits the United States", "badge": "World", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n8-us-heat-wave-deaths-2026-flat.webp", "position": "center 50%", "sources": [{"title": "US heat wave death toll grows", "url": "https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026"}, {"title": "19 deaths in New Jersey likely connected to heat wave, officials say", "url": "https://www.nbcnewyork.com/new-jersey/new-jersey-heat-wave-deaths/6521567/"}, {"title": "Heat-related deaths mount after historic Fourth of July heat wave broiled eastern US", "url": "https://www.foxweather.com/weather-news/heat-related-deaths-extreme-heat-wave-east-coast"}, {"title": "July 4 Heat Wave Shatters More Than 148 Records Across The Eastern US (video, FOX Weather)", "url": "https://www.youtube.com/watch?v=uI5851gVS_0"}], "chunks": [{"text": "A dangerous [[heat wave]] {{heated up}} much of the United States over the July 4 holiday weekend. A large [[heat dome]] [[settled]] over the country, and the [[extreme]] heat {{set in}} from the Midwest to the East Coast. Officials said about 40 million people were under a heat [[alert]] on Sunday. Weather [[forecasters]] [[warned of]] a serious danger to people's health.", "verbs": [{"display": "heated up", "base": "heat up", "wrong": "To stay hot for many days", "correct": "To become hotter", "correctFirst": true}, {"display": "set in", "base": "set in", "wrong": "To announce a new weather warning system", "correct": "To begin and seem likely to continue", "correctFirst": false}]}, {"text": "Forecasters said the heat wave [[broke many old records]]. Temperatures {{shot up}} above 100 degrees Fahrenheit in many cities. In Washington, D.C., the temperature reached 103 degrees on July 4, which officials said was a new record. High [[humidity]] made the air feel even hotter. Overnight, the air did not {{cool down}} much, and [[the low]] stayed near 80 degrees, so many people could not {{cool off}}.", "verbs": [{"display": "shot up", "base": "shoot up", "wrong": "To stay at a very high level", "correct": "To rise very quickly", "correctFirst": false}, {"display": "cool down", "base": "cool down", "wrong": "To move more slowly", "correct": "To become cooler", "correctFirst": false}, {"display": "cool off", "base": "cool off", "wrong": "To take a rest in the shade", "correct": "To make yourself less hot", "correctFirst": true}]}, {"text": "Officials said the heat wave was [[blamed for]] [[at least]] 24 deaths [[across the country]] during the week. In New Jersey, state health officials said about 22 deaths were [[linked to]] the heat. Officials also {{pointed out}} that extreme heat is one of the [[deadliest]] kinds of weather in the United States. Officials asked people to {{look out for}} older neighbors and anyone living without [[air conditioning]].", "verbs": [{"display": "pointed out", "base": "point out", "wrong": "To prove something with numbers", "correct": "To tell someone a fact they may not know", "correctFirst": true}, {"display": "look out for", "base": "look out for", "wrong": "To visit someone every day", "correct": "To take care to protect someone", "correctFirst": false}]}, {"text": "To help people {{deal with}} the heat, many cities opened a [[cooling center]] where [[residents]] could stay cool. Officials asked people to {{carry on}} drinking water and to rest indoors during the hottest hours. Some [[outdoor]] events were {{called off}} [[for safety]]. By early the next week, forecasters said the heat would finally {{let up}} as cooler air [[moved in]].", "verbs": [{"display": "deal with", "base": "deal with", "wrong": "To collect data about heat-related deaths", "correct": "To take action to solve a problem", "correctFirst": true}, {"display": "carry on", "base": "carry on", "wrong": "To remember to do something important", "correct": "To continue doing something", "correctFirst": true}, {"display": "called off", "base": "call off", "wrong": "To move an event indoors for safety", "correct": "To cancel a planned event", "correctFirst": true}, {"display": "let up", "base": "let up", "wrong": "To move to another region", "correct": "To become less strong", "correctFirst": false}]}], "vocab": [{"verb": "Heat up", "ipa": "/hiːt ʌp/", "def": "To become hotter", "ex": ["The engine started to heat up after the long drive.", "The whole region will heat up again later this week.", "The oven needs a few minutes to heat up before baking."]}, {"verb": "Set in", "ipa": "/sɛt ɪn/", "def": "To begin and seem likely to continue", "ex": ["Boredom set in after the third hour of the delay.", "Panic set in when the power went out during the storm.", "Tiredness set in after the long trip."]}, {"verb": "Shoot up", "ipa": "/ʃuːt ʌp/", "def": "To rise very quickly", "ex": ["Ticket prices shot up right before the concert sold out.", "Enrollment shot up after the school added new programs.", "His fever shot up during the night."]}, {"verb": "Cool down", "ipa": "/kuːl daʊn/", "def": "To become cooler", "ex": ["Let the pizza cool down for a minute before you eat it.", "The air finally cooled down after sunset.", "Open a window to help the room cool down."]}, {"verb": "Cool off", "ipa": "/kuːl ɔːf/", "def": "To make yourself less hot", "ex": ["We drank cold water to cool off after the hike.", "She sat in the shade to cool off after her run.", "He stood in front of the fan to cool off after mowing the lawn."]}, {"verb": "Point out", "ipa": "/pɔɪnt aʊt/", "def": "To tell someone a fact they may not know", "ex": ["My sister pointed out a spelling error on the sign.", "She pointed out that the store was already closed.", "The coach pointed out that the field was too wet to play on."]}, {"verb": "Look out for", "ipa": "/lʊk aʊt fɔːr/", "def": "To take care to protect someone", "ex": ["Please look out for icy patches on the sidewalk today.", "Neighbors looked out for each other during the storm.", "Lifeguards look out for swimmers who go too far from shore."]}, {"verb": "Deal with", "ipa": "/diːl wɪð/", "def": "To take action to solve a problem", "ex": ["The school added extra staff to deal with the crowded halls.", "We need a plan to deal with the extra traffic.", "She called a plumber to deal with the leaking pipe."]}, {"verb": "Carry on", "ipa": "/ˈkæri ɑn/", "def": "To continue doing something", "ex": ["The band carried on playing even after the rain started.", "We asked him to carry on without waiting for us.", "Despite the noise, she carried on studying for her exam."]}, {"verb": "Call off", "ipa": "/kɔːl ɔːf/", "def": "To cancel a planned event", "ex": ["The airline called off the flight because of the fog.", "They called off the trip when the weather got worse.", "The school called off recess because of the thunderstorm."]}, {"verb": "Let up", "ipa": "/lɛt ʌp/", "def": "To become less strong", "ex": ["Her headache finally let up after she drank some water.", "Traffic on the highway let up after the game ended.", "The wind began to let up in the evening."]}], "wordDefs": [{"word": "settled", "ipa": "/ˈsɛtəld/", "def": "Moved into a place and stayed there", "ex": ["A thick fog settled over the valley last night.", "Dust settled on the old furniture in the attic.", "The bird settled on the fence and looked at us."]}, {"word": "extreme", "ipa": "/ɛkˈstriːm/", "def": "Very great in degree, far beyond normal", "ex": ["Working in extreme cold is hard on the body.", "The extreme noise gave me a headache.", "She trained under extreme pressure before the competition."]}, {"word": "warned of", "ipa": "/wɔːrnd əv/", "def": "Told people about a possible danger", "ex": ["The teacher warned of a difficult test next week.", "Officials warned of heavy traffic on the highway.", "Doctors warned of the risks of skipping breakfast."]}, {"word": "blamed for", "ipa": "/bleɪmd fɔːr/", "def": "Said to be the cause of something bad", "ex": ["The delay was blamed for the empty shelves.", "He was blamed for the broken window.", "Poor planning was blamed for the failed event."]}, {"word": "at least", "ipa": "/ət liːst/", "def": "Not less than a certain amount", "ex": ["I need at least eight hours of sleep.", "The movie is at least two hours long.", "We should arrive at least an hour early."]}, {"word": "across the country", "ipa": "/əˈkrɔːs ðə ˈkʌntri/", "def": "In all parts of the nation", "ex": ["Prices went up across the country.", "The band played concerts across the country.", "Schools closed early across the country because of snow."]}, {"word": "linked to", "ipa": "/lɪŋkt tuː/", "def": "Connected with something", "ex": ["Poor sleep is often linked to stress.", "The problem was linked to an old cable.", "Her headaches were linked to too much screen time."]}, {"word": "residents", "ipa": "/ˈrɛzɪdənts/", "def": "People who live in a particular place", "ex": ["The residents of the building share a garden.", "Local residents asked for a new bus stop.", "Residents complained about noise from the construction site."]}, {"word": "outdoor", "ipa": "/ˈaʊtdɔːr/", "def": "Happening or used outside", "ex": ["We booked an outdoor table at the restaurant.", "The school has a big outdoor pool.", "They held the wedding in an outdoor garden."]}, {"word": "for safety", "ipa": "/fɔːr ˈseɪfti/", "def": "In order to keep people from harm", "ex": ["The class trip was canceled for safety after the storm.", "We wear helmets for safety when we ride.", "The factory added new rules for safety last year."]}, {"word": "heat wave", "ipa": "/hiːt weɪv/", "def": "A long period of unusually hot weather", "ex": ["The heat wave lasted nine days.", "A heat wave closed several schools.", "Farmers worried the heat wave would ruin the crops."]}, {"word": "heat dome", "ipa": "/hiːt doʊm/", "def": "Trapped hot air that sits over a region", "ex": ["A heat dome covered the whole Midwest.", "The heat dome moved slowly east.", "Meteorologists explained how a heat dome forms."]}, {"word": "forecasters", "ipa": "/ˈfɔːrkæstərz/", "def": "People who say what the weather will do", "ex": ["Forecasters predicted a wet weekend for the coast.", "Local forecasters disagreed about when the rain would start.", "Forecasters use satellites to track storms."]}, {"word": "alert", "ipa": "/əˈlərt/", "def": "An official public warning", "ex": ["The alert covered fifteen states.", "An alert was issued on Saturday night.", "Her phone buzzed with a weather alert."]}, {"word": "humidity", "ipa": "/hjuːˈmɪdəti/", "def": "The amount of water in the air", "ex": ["The humidity made her hair curl in the summer.", "High humidity can make exercise feel harder.", "Humidity dropped once the storm passed."]}, {"word": "deadliest", "ipa": "/ˈdɛdliəst/", "def": "Causing the greatest number of deaths", "ex": ["Car crashes remain one of the deadliest risks for teens.", "The disease was among the deadliest of the century.", "Experts called it the deadliest storm in decades."]}, {"word": "air conditioning", "ipa": "/ɛər kənˈdɪʃənɪŋ/", "def": "A system that cools the air indoors", "ex": ["Many old apartments have no air conditioning.", "The air conditioning broke on the hottest day.", "We installed air conditioning before the summer heat."]}, {"word": "cooling center", "ipa": "/ˈkuːlɪŋ ˈsɛntər/", "def": "A public place people can go to escape the heat", "ex": ["Volunteers handed out water at the cooling center.", "The library became a cooling center during the heat wave.", "Buses took elderly residents to the nearest cooling center."]}, {"word": "broke many old records", "def": "Did better than any earlier result", "ex": ["The runner broke many old records at the state meet.", "This year's harvest broke many old records for the farm.", "The band's new album broke many old records for sales."]}, {"word": "the low", "def": "The lowest temperature recorded in a period", "ex": ["The low tonight will be near freezing.", "Yesterday the low was warmer than normal for winter.", "Farmers watch the low each night during frost season."]}, {"word": "moved in", "def": "Arrived and began to affect an area", "ex": ["A cold front moved in overnight and dropped the temperature.", "Dark clouds moved in just before the game started.", "Thick fog moved in over the harbor at dawn."]}], "mainIdea": [{"s": "A heat wave heated up much of the country and broke many records over the July 4 weekend. Officials blamed the heat for at least two dozen deaths nationwide.", "a": true, "why": "The article says at least two dozen deaths nationwide were blamed on the heat wave, which broke many records."}, {"s": "Extreme heat spread across the nation last week, and officials say it has killed more than a hundred people. Cities opened cooling centers to help residents.", "a": false, "why": "Close, but this overstates the deaths. The article says at least two dozen people died, not more than a hundred."}, {"s": "Dry weather and wind pushed wildfires across the western United States last month. Firefighters said the fires damaged many houses before crews stopped them.", "a": false, "why": "This describes wildfires in the western United States, a separate event. The article covers heat wave deaths, not wildfires."}], "tf": [{"s": "Overnight, the air did not cool down much, and the low stayed near 80 degrees.", "a": true, "why": "Correct. The air did not cool down, which means it did not become cooler; the low stayed near 80 degrees."}, {"s": "The extreme heat cooled off from the Midwest to the East Coast.", "a": false, "why": "The correct verb is set in. The heat began and continued across the region; it did not cool off, which would mean become less hot."}, {"s": "Temperatures let up above 100 degrees Fahrenheit in many cities.", "a": false, "why": "The correct verb is shot up. Temperatures rose quickly above 100 degrees; let up would mean they became less strong."}, {"s": "Over the holiday weekend, a heat wave heated up much of the United States.", "a": true, "why": "Correct. The heat wave heated up (made much hotter) large parts of the country. Heat up means to become or make something hotter."}, {"s": "Some outdoor events were called off for safety.", "a": true, "why": "Correct. The events were called off, which means they were canceled for safety."}, {"s": "Officials asked people to call off drinking water during the heat.", "a": false, "why": "The correct verb is carry on. Officials asked people to continue drinking water; call off would mean to cancel it."}]}
+{
+  "id": "us-heat-wave-deaths-2026",
+  "number": 8,
+  "headline": "A record heat wave hits the United States",
+  "badge": "World",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n8-us-heat-wave-deaths-2026-flat.webp",
+  "position": "center 50%",
+  "sources": [
+    {
+      "title": "US heat wave death toll grows",
+      "url": "https://www.axios.com/2026/07/06/us-heat-wave-death-toll-july-2026"
+    },
+    {
+      "title": "19 deaths in New Jersey likely connected to heat wave, officials say",
+      "url": "https://www.nbcnewyork.com/new-jersey/new-jersey-heat-wave-deaths/6521567/"
+    },
+    {
+      "title": "Heat-related deaths mount after historic Fourth of July heat wave broiled eastern US",
+      "url": "https://www.foxweather.com/weather-news/heat-related-deaths-extreme-heat-wave-east-coast"
+    },
+    {
+      "title": "July 4 Heat Wave Shatters More Than 148 Records Across The Eastern US (video, FOX Weather)",
+      "url": "https://www.youtube.com/watch?v=uI5851gVS_0"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "A dangerous [[heat wave]] {{heated up}} much of the United States over the July 4 holiday weekend. A large [[heat dome]] [[settled]] over the country, and the [[extreme]] heat {{set in}} from the Midwest to the East Coast. Officials said about 40 million people were under a heat [[alert]] on Sunday. Weather [[forecasters]] [[warned of]] a serious danger to people's health.",
+      "verbs": [
+        {
+          "display": "heated up",
+          "base": "heat up",
+          "wrong": "To stay hot for many days",
+          "correct": "To become hotter",
+          "correctFirst": true,
+          "why": "Heat up means to become hotter over a period of time. A dangerous heat wave heated up much of the United States over the July 4th weekend."
+        },
+        {
+          "display": "set in",
+          "base": "set in",
+          "wrong": "To announce a new weather warning system",
+          "correct": "To begin and seem likely to continue",
+          "correctFirst": false,
+          "why": "Set in means a condition begins and looks likely to continue for a while. Extreme heat set in across the country from the Midwest to the East Coast."
+        }
+      ]
+    },
+    {
+      "text": "Forecasters said the heat wave [[broke many old records]]. Temperatures {{shot up}} above 100 degrees Fahrenheit in many cities. In Washington, D.C., the temperature reached 103 degrees on July 4, which officials said was a new record. High [[humidity]] made the air feel even hotter. Overnight, the air did not {{cool down}} much, and [[the low]] stayed near 80 degrees, so many people could not {{cool off}}.",
+      "verbs": [
+        {
+          "display": "shot up",
+          "base": "shoot up",
+          "wrong": "To stay at a very high level",
+          "correct": "To rise very quickly",
+          "correctFirst": false,
+          "why": "Shoot up means to rise very fast in a short amount of time. Temperatures shot up above 100 degrees Fahrenheit in many cities during the heat wave."
+        },
+        {
+          "display": "cool down",
+          "base": "cool down",
+          "wrong": "To move more slowly",
+          "correct": "To become cooler",
+          "correctFirst": false,
+          "why": "Cool down means to become less hot, usually as time passes. Overnight the air did not cool down much, so the heat stayed dangerous even after dark."
+        },
+        {
+          "display": "cool off",
+          "base": "cool off",
+          "wrong": "To take a rest in the shade",
+          "correct": "To make yourself less hot",
+          "correctFirst": true,
+          "why": "Cool off means to do something that makes your own body feel less hot. With the low staying near 80 degrees overnight, many people could not cool off at all."
+        }
+      ]
+    },
+    {
+      "text": "Officials said the heat wave was [[blamed for]] [[at least]] 24 deaths [[across the country]] during the week. In New Jersey, state health officials said about 22 deaths were [[linked to]] the heat. Officials also {{pointed out}} that extreme heat is one of the [[deadliest]] kinds of weather in the United States. Officials asked people to {{look out for}} older neighbors and anyone living without [[air conditioning]].",
+      "verbs": [
+        {
+          "display": "pointed out",
+          "base": "point out",
+          "wrong": "To prove something with numbers",
+          "correct": "To tell someone a fact they may not know",
+          "correctFirst": true,
+          "why": "Point out means to tell someone a fact they might not already know. Officials pointed out that extreme heat is one of the deadliest kinds of weather in the country."
+        },
+        {
+          "display": "look out for",
+          "base": "look out for",
+          "wrong": "To visit someone every day",
+          "correct": "To take care to protect someone",
+          "correctFirst": false,
+          "why": "Look out for here means to check on someone and make sure they are safe. Officials asked people to look out for older neighbors and anyone without air conditioning."
+        }
+      ]
+    },
+    {
+      "text": "To help people {{deal with}} the heat, many cities opened a [[cooling center]] where [[residents]] could stay cool. Officials asked people to {{carry on}} drinking water and to rest indoors during the hottest hours. Some [[outdoor]] events were {{called off}} [[for safety]]. By early the next week, forecasters said the heat would finally {{let up}} as cooler air [[moved in]].",
+      "verbs": [
+        {
+          "display": "deal with",
+          "base": "deal with",
+          "wrong": "To collect data about heat-related deaths",
+          "correct": "To take action to solve a problem",
+          "correctFirst": true,
+          "why": "Deal with means to take practical action to handle a problem or a difficult situation. Cities opened cooling centers to help residents deal with the dangerous heat."
+        },
+        {
+          "display": "carry on",
+          "base": "carry on",
+          "wrong": "To remember to do something important",
+          "correct": "To continue doing something",
+          "correctFirst": true,
+          "why": "Carry on means to continue doing something without stopping. Officials asked people to carry on drinking water through the hottest days."
+        },
+        {
+          "display": "called off",
+          "base": "call off",
+          "wrong": "To move an event indoors for safety",
+          "correct": "To cancel a planned event",
+          "correctFirst": true,
+          "why": "Call off means to cancel an event that had already been planned. Some outdoor events were called off for safety during the worst of the heat."
+        },
+        {
+          "display": "let up",
+          "base": "let up",
+          "wrong": "To move to another region",
+          "correct": "To become less strong",
+          "correctFirst": false,
+          "why": "Let up means to become weaker or less intense. Forecasters said the heat would finally let up as cooler air arrived from the north."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Heat up",
+      "ipa": "/hiːt ʌp/",
+      "def": "To become hotter",
+      "ex": [
+        "The engine started to heat up after the long drive.",
+        "The whole region will heat up again later this week.",
+        "The oven needs a few minutes to heat up before baking."
+      ]
+    },
+    {
+      "verb": "Set in",
+      "ipa": "/sɛt ɪn/",
+      "def": "To begin and seem likely to continue",
+      "ex": [
+        "Boredom set in after the third hour of the delay.",
+        "Panic set in when the power went out during the storm.",
+        "Tiredness set in after the long trip."
+      ]
+    },
+    {
+      "verb": "Shoot up",
+      "ipa": "/ʃuːt ʌp/",
+      "def": "To rise very quickly",
+      "ex": [
+        "Ticket prices shot up right before the concert sold out.",
+        "Enrollment shot up after the school added new programs.",
+        "His fever shot up during the night."
+      ]
+    },
+    {
+      "verb": "Cool down",
+      "ipa": "/kuːl daʊn/",
+      "def": "To become cooler",
+      "ex": [
+        "Let the pizza cool down for a minute before you eat it.",
+        "The air finally cooled down after sunset.",
+        "Open a window to help the room cool down."
+      ]
+    },
+    {
+      "verb": "Cool off",
+      "ipa": "/kuːl ɔːf/",
+      "def": "To make yourself less hot",
+      "ex": [
+        "We drank cold water to cool off after the hike.",
+        "She sat in the shade to cool off after her run.",
+        "He stood in front of the fan to cool off after mowing the lawn."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "ipa": "/pɔɪnt aʊt/",
+      "def": "To tell someone a fact they may not know",
+      "ex": [
+        "My sister pointed out a spelling error on the sign.",
+        "She pointed out that the store was already closed.",
+        "The coach pointed out that the field was too wet to play on."
+      ]
+    },
+    {
+      "verb": "Look out for",
+      "ipa": "/lʊk aʊt fɔːr/",
+      "def": "To take care to protect someone",
+      "ex": [
+        "Please look out for icy patches on the sidewalk today.",
+        "Neighbors looked out for each other during the storm.",
+        "Lifeguards look out for swimmers who go too far from shore."
+      ]
+    },
+    {
+      "verb": "Deal with",
+      "ipa": "/diːl wɪð/",
+      "def": "To take action to solve a problem",
+      "ex": [
+        "The school added extra staff to deal with the crowded halls.",
+        "We need a plan to deal with the extra traffic.",
+        "She called a plumber to deal with the leaking pipe."
+      ]
+    },
+    {
+      "verb": "Carry on",
+      "ipa": "/ˈkæri ɑn/",
+      "def": "To continue doing something",
+      "ex": [
+        "The band carried on playing even after the rain started.",
+        "We asked him to carry on without waiting for us.",
+        "Despite the noise, she carried on studying for her exam."
+      ]
+    },
+    {
+      "verb": "Call off",
+      "ipa": "/kɔːl ɔːf/",
+      "def": "To cancel a planned event",
+      "ex": [
+        "The airline called off the flight because of the fog.",
+        "They called off the trip when the weather got worse.",
+        "The school called off recess because of the thunderstorm."
+      ]
+    },
+    {
+      "verb": "Let up",
+      "ipa": "/lɛt ʌp/",
+      "def": "To become less strong",
+      "ex": [
+        "Her headache finally let up after she drank some water.",
+        "Traffic on the highway let up after the game ended.",
+        "The wind began to let up in the evening."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "settled",
+      "ipa": "/ˈsɛtəld/",
+      "def": "Moved into a place and stayed there",
+      "ex": [
+        "A thick fog settled over the valley last night.",
+        "Dust settled on the old furniture in the attic.",
+        "The bird settled on the fence and looked at us."
+      ]
+    },
+    {
+      "word": "extreme",
+      "ipa": "/ɛkˈstriːm/",
+      "def": "Very great in degree, far beyond normal",
+      "ex": [
+        "Working in extreme cold is hard on the body.",
+        "The extreme noise gave me a headache.",
+        "She trained under extreme pressure before the competition."
+      ]
+    },
+    {
+      "word": "warned of",
+      "ipa": "/wɔːrnd əv/",
+      "def": "Told people about a possible danger",
+      "ex": [
+        "The teacher warned of a difficult test next week.",
+        "Officials warned of heavy traffic on the highway.",
+        "Doctors warned of the risks of skipping breakfast."
+      ]
+    },
+    {
+      "word": "blamed for",
+      "ipa": "/bleɪmd fɔːr/",
+      "def": "Said to be the cause of something bad",
+      "ex": [
+        "The delay was blamed for the empty shelves.",
+        "He was blamed for the broken window.",
+        "Poor planning was blamed for the failed event."
+      ]
+    },
+    {
+      "word": "at least",
+      "ipa": "/ət liːst/",
+      "def": "Not less than a certain amount",
+      "ex": [
+        "I need at least eight hours of sleep.",
+        "The movie is at least two hours long.",
+        "We should arrive at least an hour early."
+      ]
+    },
+    {
+      "word": "across the country",
+      "ipa": "/əˈkrɔːs ðə ˈkʌntri/",
+      "def": "In all parts of the nation",
+      "ex": [
+        "Prices went up across the country.",
+        "The band played concerts across the country.",
+        "Schools closed early across the country because of snow."
+      ]
+    },
+    {
+      "word": "linked to",
+      "ipa": "/lɪŋkt tuː/",
+      "def": "Connected with something",
+      "ex": [
+        "Poor sleep is often linked to stress.",
+        "The problem was linked to an old cable.",
+        "Her headaches were linked to too much screen time."
+      ]
+    },
+    {
+      "word": "residents",
+      "ipa": "/ˈrɛzɪdənts/",
+      "def": "People who live in a particular place",
+      "ex": [
+        "The residents of the building share a garden.",
+        "Local residents asked for a new bus stop.",
+        "Residents complained about noise from the construction site."
+      ]
+    },
+    {
+      "word": "outdoor",
+      "ipa": "/ˈaʊtdɔːr/",
+      "def": "Happening or used outside",
+      "ex": [
+        "We booked an outdoor table at the restaurant.",
+        "The school has a big outdoor pool.",
+        "They held the wedding in an outdoor garden."
+      ]
+    },
+    {
+      "word": "for safety",
+      "ipa": "/fɔːr ˈseɪfti/",
+      "def": "In order to keep people from harm",
+      "ex": [
+        "The class trip was canceled for safety after the storm.",
+        "We wear helmets for safety when we ride.",
+        "The factory added new rules for safety last year."
+      ]
+    },
+    {
+      "word": "heat wave",
+      "ipa": "/hiːt weɪv/",
+      "def": "A long period of unusually hot weather",
+      "ex": [
+        "The heat wave lasted nine days.",
+        "A heat wave closed several schools.",
+        "Farmers worried the heat wave would ruin the crops."
+      ]
+    },
+    {
+      "word": "heat dome",
+      "ipa": "/hiːt doʊm/",
+      "def": "Trapped hot air that sits over a region",
+      "ex": [
+        "A heat dome covered the whole Midwest.",
+        "The heat dome moved slowly east.",
+        "Meteorologists explained how a heat dome forms."
+      ]
+    },
+    {
+      "word": "forecasters",
+      "ipa": "/ˈfɔːrkæstərz/",
+      "def": "People who say what the weather will do",
+      "ex": [
+        "Forecasters predicted a wet weekend for the coast.",
+        "Local forecasters disagreed about when the rain would start.",
+        "Forecasters use satellites to track storms."
+      ]
+    },
+    {
+      "word": "alert",
+      "ipa": "/əˈlərt/",
+      "def": "An official public warning",
+      "ex": [
+        "The alert covered fifteen states.",
+        "An alert was issued on Saturday night.",
+        "Her phone buzzed with a weather alert."
+      ]
+    },
+    {
+      "word": "humidity",
+      "ipa": "/hjuːˈmɪdəti/",
+      "def": "The amount of water in the air",
+      "ex": [
+        "The humidity made her hair curl in the summer.",
+        "High humidity can make exercise feel harder.",
+        "Humidity dropped once the storm passed."
+      ]
+    },
+    {
+      "word": "deadliest",
+      "ipa": "/ˈdɛdliəst/",
+      "def": "Causing the greatest number of deaths",
+      "ex": [
+        "Car crashes remain one of the deadliest risks for teens.",
+        "The disease was among the deadliest of the century.",
+        "Experts called it the deadliest storm in decades."
+      ]
+    },
+    {
+      "word": "air conditioning",
+      "ipa": "/ɛər kənˈdɪʃənɪŋ/",
+      "def": "A system that cools the air indoors",
+      "ex": [
+        "Many old apartments have no air conditioning.",
+        "The air conditioning broke on the hottest day.",
+        "We installed air conditioning before the summer heat."
+      ]
+    },
+    {
+      "word": "cooling center",
+      "ipa": "/ˈkuːlɪŋ ˈsɛntər/",
+      "def": "A public place people can go to escape the heat",
+      "ex": [
+        "Volunteers handed out water at the cooling center.",
+        "The library became a cooling center during the heat wave.",
+        "Buses took elderly residents to the nearest cooling center."
+      ]
+    },
+    {
+      "word": "broke many old records",
+      "def": "Did better than any earlier result",
+      "ex": [
+        "The runner broke many old records at the state meet.",
+        "This year's harvest broke many old records for the farm.",
+        "The band's new album broke many old records for sales."
+      ]
+    },
+    {
+      "word": "the low",
+      "def": "The lowest temperature recorded in a period",
+      "ex": [
+        "The low tonight will be near freezing.",
+        "Yesterday the low was warmer than normal for winter.",
+        "Farmers watch the low each night during frost season."
+      ]
+    },
+    {
+      "word": "moved in",
+      "def": "Arrived and began to affect an area",
+      "ex": [
+        "A cold front moved in overnight and dropped the temperature.",
+        "Dark clouds moved in just before the game started.",
+        "Thick fog moved in over the harbor at dawn."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A heat wave heated up much of the country and broke many records over the July 4 weekend. Officials blamed the heat for at least two dozen deaths nationwide.",
+      "a": true,
+      "why": "The article says at least two dozen deaths nationwide were blamed on the heat wave, which broke many records."
+    },
+    {
+      "s": "Extreme heat spread across the nation last week, and officials say it has killed more than a hundred people. Cities opened cooling centers to help residents.",
+      "a": false,
+      "why": "Close, but this overstates the deaths. The article says at least two dozen people died, not more than a hundred."
+    },
+    {
+      "s": "Dry weather and wind pushed wildfires across the western United States last month. Firefighters said the fires damaged many houses before crews stopped them.",
+      "a": false,
+      "why": "This describes wildfires in the western United States, a separate event. The article covers heat wave deaths, not wildfires."
+    }
+  ],
+  "tf": [
+    {
+      "s": "Overnight, the air did not cool down much, and the low stayed near 80 degrees.",
+      "a": true,
+      "why": "Correct. The air did not cool down, which means it did not become cooler; the low stayed near 80 degrees."
+    },
+    {
+      "s": "The extreme heat cooled off from the Midwest to the East Coast.",
+      "a": false,
+      "why": "The correct verb is set in. The heat began and continued across the region; it did not cool off, which would mean become less hot."
+    },
+    {
+      "s": "Temperatures let up above 100 degrees Fahrenheit in many cities.",
+      "a": false,
+      "why": "The correct verb is shot up. Temperatures rose quickly above 100 degrees; let up would mean they became less strong."
+    },
+    {
+      "s": "Over the holiday weekend, a heat wave heated up much of the United States.",
+      "a": true,
+      "why": "Correct. The heat wave heated up (made much hotter) large parts of the country. Heat up means to become or make something hotter."
+    },
+    {
+      "s": "Some outdoor events were called off for safety.",
+      "a": true,
+      "why": "Correct. The events were called off, which means they were canceled for safety."
+    },
+    {
+      "s": "Officials asked people to call off drinking water during the heat.",
+      "a": false,
+      "why": "The correct verb is carry on. Officials asked people to continue drinking water; call off would mean to cancel it."
+    }
+  ]
+}

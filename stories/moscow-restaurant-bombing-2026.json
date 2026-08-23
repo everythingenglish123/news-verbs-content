@@ -1,1 +1,570 @@
-{"id": "moscow-restaurant-bombing-2026", "number": 62, "headline": "A bomb kills three outside a Moscow restaurant", "badge": "World", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n62-moscow-restaurant-bombing-2026-flat.webp", "position": "center 45%", "sources": [{"title": "Female Bomber Kills at Least 3, Injures 21 Near Moscow Restaurant", "url": "https://www.themoscowtimes.com/2026/08/02/female-bomber-kills-at-least-3-injures-21-near-moscow-restaurant-a93395"}, {"title": "Moscow mayor calls Saturday's deadly bomb attack on a restaurant a 'terrorist act'", "url": "https://www.news4jax.com/news/world/2026/08/02/moscow-mayor-calls-saturdays-deadly-bomb-attack-on-restaurant-a-terrorist-act/"}, {"title": "Three dead including female bomber in Moscow restaurant attack", "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack"}, {"title": "Three people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say (video, AP Archive)", "url": "https://www.youtube.com/watch?v=d7mLM0jNhJI"}], "chunks": [{"text": "A [[homemade]] bomb {{went off}} outside an Italian restaurant in central Moscow on Saturday evening, August 1. A woman carrying the [[device]] tried to walk in through the front door. A [[security guard]] {{stepped in}} and {{turned her away}}, and the bomb exploded on the street [[a moment later]]. Three people were killed, the woman herself, the guard and one customer. Twenty-one others were [[wounded]], six of them [[seriously]].", "verbs": [{"display": "went off", "base": "go off", "correct": "To explode suddenly", "wrong": "To be carried into a building", "correctFirst": true}, {"display": "stepped in", "base": "step in", "correct": "To get involved in order to stop something", "wrong": "To hold the door open for a customer", "correctFirst": false}, {"display": "turned her away", "base": "turn away", "correct": "To refuse to let someone enter", "wrong": "To search a person at the door", "correctFirst": true}]}, {"text": "The restaurant [[sits on]] Kudrinskaya Square, under one of the seven tall [[Stalin-era]] towers that stand around the city. It had been closed that evening for a [[private event]]. Russia's national [[anti-terrorism committee]] is {{looking into}} the attack but has {{put out}} very little. It has not named the woman, the [[victims]] or any [[suspect]], and it has not {{ruled out}} [[the possibility that]] she did not know what she was carrying.", "verbs": [{"display": "looking into", "base": "look into", "correct": "To investigate something carefully", "wrong": "To watch a place from outside", "correctFirst": false}, {"display": "put out", "base": "put out", "correct": "To release information to the public", "wrong": "To send officers to a crime scene", "correctFirst": true}, {"display": "ruled out", "base": "rule out", "correct": "To decide that something is not possible", "wrong": "To question a witness about something", "correctFirst": false}]}, {"text": "Nobody has {{come forward}} to say they organized it. The mayor of Moscow, Sergei Sobyanin, called the [[blast]] a brutal [[terrorist act]] and said those [[behind it]] would be found. [[Beyond that]], almost nothing [[official]] has been said, and the space has filled with [[guesswork]]. Some Russian [[war bloggers]] blamed Ukraine without offering [[proof]], and Kyiv did not answer them. One Russian newspaper suggested the bomb may have been detonated [[from a distance]] by somebody else. So far nothing public {{points to}} any single answer. Russians have {{looked back}} to a café bombing in the same city in 2023, when a woman who carried a hidden bomb to a public event was later [[sentenced to]] 27 years in prison.", "verbs": [{"display": "come forward", "base": "come forward", "correct": "To make yourself known in public", "wrong": "To arrive at a place before others", "correctFirst": true}, {"display": "points to", "base": "point to", "correct": "To suggest that something is true", "wrong": "To name a person in an official list", "correctFirst": false}, {"display": "looked back", "base": "look back", "correct": "To think about something in the past", "wrong": "To repeat an earlier mistake", "correctFirst": true}]}, {"text": "What is left is a short list of things nobody can {{clear up}} yet. Investigators must {{track down}} whoever built the device and whoever chose the place and the hour. They are {{holding back}} most of what they know, which is normal early in a case like this but [[leaves everyone else guessing]]. The [[square]] is open again, the tower still stands above it, and a restaurant that was closed for a quiet evening has become the address of the worst attack in the [[capital]] this year.", "verbs": [{"display": "clear up", "base": "clear up", "correct": "To explain something that is confusing", "wrong": "To close a street to traffic", "correctFirst": false}, {"display": "track down", "base": "track down", "correct": "To find someone after searching", "wrong": "To follow a person without being seen", "correctFirst": true}, {"display": "holding back", "base": "hold back", "correct": "To refuse to share information", "wrong": "To close a case without an answer", "correctFirst": false}]}], "vocab": [{"verb": "Go off", "def": "To explode suddenly", "ex": ["A firework went off early and scared the dog.", "Old shells sometimes go off when moved.", "A second bomb had gone off an hour earlier."], "ipa": "/ɡoʊ ɔːf/"}, {"verb": "Step in", "def": "To get involved in order to stop something", "ex": ["A teacher stepped in before the argument got physical.", "Staff step in when an argument starts.", "Nobody had stepped in to stop the fight."], "ipa": "/stɛp ɪn/"}, {"verb": "Turn away", "def": "To refuse to let someone enter", "ex": ["The bouncer turned away three men at the door.", "They turn away anyone without a ticket.", "She had been turned away twice that week."], "ipa": "/tərn əˈweɪ/"}, {"verb": "Look into", "def": "To investigate something carefully", "ex": ["The school is looking into the missing funds.", "A committee looks into every complaint.", "The matter has been looked into already."], "ipa": "/lʊk ˈɪntuː/"}, {"verb": "Put out", "def": "To release information to the public", "ex": ["The airline put out a statement about the delay.", "They put out an update every evening.", "Nothing has been put out since Sunday."], "ipa": "/pʊt aʊt/"}, {"verb": "Rule out", "def": "To decide that something is not possible", "ex": ["Doctors ruled out a serious illness after the tests.", "She rules out nothing this early.", "That idea was ruled out on Monday."], "ipa": "/ruːl aʊt/"}, {"verb": "Come forward", "def": "To make yourself known in public", "ex": ["A witness finally came forward after the appeal.", "Witnesses rarely come forward at once.", "Two people have come forward since Friday."], "ipa": "/kʌm ˈfɔːrwərd/"}, {"verb": "Point to", "def": "To suggest that something is true", "ex": ["Her test scores point to a real talent for math.", "The results point to a fault in the wiring.", "Nothing has pointed to a second person."], "ipa": "/pɔɪnt tuː/"}, {"verb": "Look back", "def": "To think about something in the past", "ex": ["He likes to look back on his college years.", "People look back at that year with fear.", "She has looked back on it many times."], "ipa": "/lʊk bæk/"}, {"verb": "Clear up", "def": "To explain something that is confusing", "ex": ["The teacher cleared up the confusion about the homework.", "A single test clears up most of the doubt.", "That question has never been cleared up."], "ipa": "/klɪr ʌp/"}, {"verb": "Track down", "def": "To find someone after searching", "ex": ["Detectives tracked down the missing teenager within a day.", "It took months to track down the car's owner.", "The seller has not been tracked down."], "ipa": "/træk daʊn/"}, {"verb": "Hold back", "def": "To refuse to share information", "ex": ["The company held back the true cost of repairs.", "Investigators hold back details on purpose.", "Two reports have been held back from the public."], "ipa": "/hoʊld bæk/"}], "wordDefs": [{"word": "homemade", "def": "Made at home rather than in a factory", "ex": ["She brought a homemade cake to the party.", "He wore a homemade costume for Halloween.", "The bakery sells only homemade bread."], "ipa": "/hoʊmˈmeɪd/"}, {"word": "device", "def": "A piece of equipment made for one purpose", "ex": ["The new device measures your heart rate all day.", "He plugged the device into the wall to charge it.", "This small device can open the garage door remotely."], "ipa": "/dɪˈvaɪs/"}, {"word": "security guard", "def": "A person paid to protect a place", "ex": ["The security guard checked everyone's badge before letting them in.", "Every entrance has a security guard.", "The mall hired a new security guard last week."], "ipa": "/sɪˈkjʊrəti ɡɑrd/"}, {"word": "wounded", "def": "Injured, especially by a weapon or blast", "ex": ["Several soldiers were wounded in the battle.", "The wounded were taken to two hospitals.", "Doctors treated the wounded through the night."], "ipa": "/ˈwuːndɪd/"}, {"word": "Stalin-era", "def": "Built during Stalin's rule in the Soviet Union", "ex": ["Tourists often photograph the Stalin-era architecture downtown.", "The Stalin-era building has thick stone walls.", "Many Stalin-era apartments are still in use today."], "ipa": "/ˈstɑlən ˈɛrə/"}, {"word": "private event", "def": "A gathering closed to the general public", "ex": ["The hotel ballroom was rented for a private event.", "A private event means no walk-in guests.", "Guests needed an invitation to attend the private event."], "ipa": "/ˈpraɪvət ɪˈvɛnt/"}, {"word": "anti-terrorism committee", "def": "The state body that handles attacks on the public", "ex": ["The anti-terrorism committee meets twice a year to review policy.", "Officials from the anti-terrorism committee visited the airport.", "The anti-terrorism committee released new safety guidelines."], "ipa": "/ˈænti ˈtɛrərɪzəm kəˈmɪti/"}, {"word": "victims", "def": "People harmed by a crime or disaster", "ex": ["The victims of the flood received emergency aid.", "Families of the victims waited outside.", "Counselors met with the victims after the accident."], "ipa": "/ˈvɪktəmz/"}, {"word": "suspect", "def": "Someone the police believe may be guilty", "ex": ["Police questioned a suspect for several hours.", "The suspect was seen on camera.", "The suspect denied any involvement in the crime."], "ipa": "/səˈspɛkt/"}, {"word": "terrorist act", "def": "A violent attack meant to frighten the public", "ex": ["Officials described the explosion as a terrorist act.", "A terrorist act is investigated by the state.", "Countries around the world condemned the terrorist act."], "ipa": "/ˈtɛrərɪst ækt/"}, {"word": "official", "def": "Coming from a government or authority", "ex": ["The company has not released an official statement yet.", "The official account is only two lines long.", "An official spokesperson answered questions from reporters."], "ipa": "/əˈfɪʃəl/"}, {"word": "guesswork", "def": "Opinions formed without real evidence", "ex": ["Without real data, planning becomes pure guesswork.", "Guesswork spreads fastest online.", "The mechanic's diagnosis was mostly guesswork."], "ipa": "/ˈɡɛswərk/"}, {"word": "war bloggers", "def": "People who write online about a war", "ex": ["Some war bloggers post daily updates from the front lines.", "Russian war bloggers have large audiences.", "A few war bloggers were later proven wrong about the battle."], "ipa": "/wɔːr ˈblɔːɡərz/"}, {"word": "proof", "def": "Evidence that shows something is true", "ex": ["The lawyer asked for proof before believing the claim.", "Proof may take months to gather.", "Scientists need solid proof before publishing a result."], "ipa": "/pruːf/"}, {"word": "blast", "def": "The rush of air and force from an explosion", "ex": ["The blast shook nearby buildings and set off car alarms.", "People felt the blast a mile away.", "Investigators studied the size of the blast."], "ipa": "/blæst/"}, {"word": "square", "def": "An open public space in a city", "ex": ["Vendors set up stalls in the square every weekend.", "Four streets meet at the square.", "Tourists gathered in the square to watch the parade."], "ipa": "/skwɛər/"}, {"word": "seriously", "def": "In a way that is severe or dangerous", "ex": ["He was seriously ill for most of last winter.", "She was seriously injured but survived.", "The company takes safety seriously after the accident."], "ipa": "/ˈsɪriəsli/"}, {"word": "capital", "def": "The city where a country's government sits", "ex": ["The capital hosts most government offices in the country.", "The capital has nine million people.", "They moved to the capital to find better jobs."], "ipa": "/ˈkæpətəl/"}, {"word": "a moment later", "def": "A short time afterward", "ex": ["The lights went out, and a moment later the room went dark.", "She smiled, and a moment later she started laughing.", "The phone rang, and a moment later it stopped."]}, {"word": "sits on", "def": "Is located on or at", "ex": ["The old church sits on a small hill above town.", "Her office sits on the top floor of the building.", "The town sits on the edge of a wide river."]}, {"word": "the possibility that", "def": "The chance that something might be true", "ex": ["Doctors did not rule out the possibility that the disease could spread.", "We should consider the possibility that the flight will be delayed.", "She mentioned the possibility that she might move abroad."]}, {"word": "behind it", "def": "Responsible for causing something", "ex": ["Nobody knows who is behind it, even after months of study.", "The company's success has a strong team behind it.", "Police say a small group was behind it."]}, {"word": "beyond that", "def": "Apart from what was just said", "ex": ["He gave his name and, beyond that, said nothing else.", "The report covers last month, but beyond that we have no data.", "She likes music, but beyond that she has few hobbies."]}, {"word": "from a distance", "def": "From far away, not up close", "ex": ["You can see the mountain clearly from a distance.", "He watched the parade from a distance, away from the crowd.", "The sound of thunder reached them from a distance."]}, {"word": "sentenced to", "def": "Given as an official punishment", "ex": ["The driver was sentenced to six months for the crash.", "A judge sentenced him to community service last week.", "She was sentenced to pay a large fine."]}, {"word": "leaves everyone else guessing", "def": "Causes people to have no clear answer", "ex": ["His short answer leaves everyone else guessing about the real reason.", "The coach's silence leaves everyone else guessing before the game.", "Her vague email leaves everyone else guessing what she meant."]}], "mainIdea": [{"s": "A bomb went off outside a Moscow restaurant after a security guard turned away the woman carrying it. Three people died, twenty-one were hurt, and no group has come forward to claim it.", "a": true, "why": "A security guard stepped in and turned the woman away before she reached the door. The bomb then exploded outside, killing three and wounding twenty-one people."}, {"s": "Outside a Moscow restaurant, a bomb killed three people after a guard stopped a woman at the entrance. Russian authorities have officially confirmed that a foreign government ordered the attack.", "a": false, "why": "Close, but no suspect or group has been confirmed. War bloggers guessed that Ukraine was behind it, but they offered no proof and Kyiv did not respond."}, {"s": "A different bombing hit a Moscow cafe back in 2023, when a woman carried a hidden device inside. A court later gave the bomber a sentence of 27 years in a Russian prison for that crime.", "a": false, "why": "This story is about an earlier 2023 cafe bombing in Moscow, not the restaurant attack from August 2026."}], "tf": [{"s": "The bomb went off outside an Italian restaurant in central Moscow on Saturday evening, August 1.", "a": true, "why": "A homemade bomb went off outside an Italian restaurant in central Moscow on Saturday evening, August 1."}, {"s": "The woman carrying the device reached the inside of the restaurant before it exploded.", "a": false, "why": "A security guard stepped in and turned her away, and the bomb exploded on the street a moment later."}, {"s": "Three people were killed, including the woman and the security guard.", "a": true, "why": "Three people were killed, the woman herself, the guard and one customer, and twenty-one others were wounded, six of them seriously."}, {"s": "The anti-terrorism committee has named the woman and two suspects.", "a": false, "why": "Russia's national anti-terrorism committee is looking into the attack but has put out very little, and it has not named the woman, the victims or any suspect."}, {"s": "A group has come forward to say it organized the attack.", "a": false, "why": "Nobody has come forward to say they organized it, and so far nothing public points to any single answer."}, {"s": "The mayor of Moscow called the blast a brutal terrorist act.", "a": true, "why": "The mayor of Moscow, Sergei Sobyanin, called the blast a brutal terrorist act and said those behind it would be found."}]}
+{
+  "id": "moscow-restaurant-bombing-2026",
+  "number": 62,
+  "headline": "A bomb kills three outside a Moscow restaurant",
+  "badge": "World",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n62-moscow-restaurant-bombing-2026-flat.webp",
+  "position": "center 45%",
+  "sources": [
+    {
+      "title": "Female Bomber Kills at Least 3, Injures 21 Near Moscow Restaurant",
+      "url": "https://www.themoscowtimes.com/2026/08/02/female-bomber-kills-at-least-3-injures-21-near-moscow-restaurant-a93395"
+    },
+    {
+      "title": "Moscow mayor calls Saturday's deadly bomb attack on a restaurant a 'terrorist act'",
+      "url": "https://www.news4jax.com/news/world/2026/08/02/moscow-mayor-calls-saturdays-deadly-bomb-attack-on-restaurant-a-terrorist-act/"
+    },
+    {
+      "title": "Three dead including female bomber in Moscow restaurant attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack"
+    },
+    {
+      "title": "Three people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say (video, AP Archive)",
+      "url": "https://www.youtube.com/watch?v=d7mLM0jNhJI"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "A [[homemade]] bomb {{went off}} outside an Italian restaurant in central Moscow on Saturday evening, August 1. A woman carrying the [[device]] tried to walk in through the front door. A [[security guard]] {{stepped in}} and {{turned her away}}, and the bomb exploded on the street [[a moment later]]. Three people were killed, the woman herself, the guard and one customer. Twenty-one others were [[wounded]], six of them [[seriously]].",
+      "verbs": [
+        {
+          "display": "went off",
+          "base": "go off",
+          "correct": "To explode suddenly",
+          "wrong": "To be carried into a building",
+          "correctFirst": true,
+          "why": "Go off means to explode or fire suddenly, often without warning. The bomb went off on the street just after the guard stopped the woman from entering."
+        },
+        {
+          "display": "stepped in",
+          "base": "step in",
+          "correct": "To get involved in order to stop something",
+          "wrong": "To hold the door open for a customer",
+          "correctFirst": false,
+          "why": "Step in means to get involved at the right moment to prevent something bad from happening. A security guard stepped in just before the woman reached the restaurant door."
+        },
+        {
+          "display": "turned her away",
+          "base": "turn away",
+          "correct": "To refuse to let someone enter",
+          "wrong": "To search a person at the door",
+          "correctFirst": true,
+          "why": "Turn away means to refuse someone entry and send them back the way they came. The guard turned the woman away, and the bomb exploded on the street moments later."
+        }
+      ]
+    },
+    {
+      "text": "The restaurant [[sits on]] Kudrinskaya Square, under one of the seven tall [[Stalin-era]] towers that stand around the city. It had been closed that evening for a [[private event]]. Russia's national [[anti-terrorism committee]] is {{looking into}} the attack but has {{put out}} very little. It has not named the woman, the [[victims]] or any [[suspect]], and it has not {{ruled out}} [[the possibility that]] she did not know what she was carrying.",
+      "verbs": [
+        {
+          "display": "looking into",
+          "base": "look into",
+          "correct": "To investigate something carefully",
+          "wrong": "To watch a place from outside",
+          "correctFirst": false,
+          "why": "Look into means to investigate a matter carefully. Russia's anti-terrorism committee is looking into the attack but has shared very few details so far."
+        },
+        {
+          "display": "put out",
+          "base": "put out",
+          "correct": "To release information to the public",
+          "wrong": "To send officers to a crime scene",
+          "correctFirst": true,
+          "why": "Put out means to release official information to the public. Investigators have put out very little so far, not even the name of the woman who carried the bomb."
+        },
+        {
+          "display": "ruled out",
+          "base": "rule out",
+          "correct": "To decide that something is not possible",
+          "wrong": "To question a witness about something",
+          "correctFirst": false,
+          "why": "Rule out means to decide that a possibility cannot be true and stop considering it. Officials have not ruled out that the woman herself did not know what she was carrying."
+        }
+      ]
+    },
+    {
+      "text": "Nobody has {{come forward}} to say they organized it. The mayor of Moscow, Sergei Sobyanin, called the [[blast]] a brutal [[terrorist act]] and said those [[behind it]] would be found. [[Beyond that]], almost nothing [[official]] has been said, and the space has filled with [[guesswork]]. Some Russian [[war bloggers]] blamed Ukraine without offering [[proof]], and Kyiv did not answer them. One Russian newspaper suggested the bomb may have been detonated [[from a distance]] by somebody else. So far nothing public {{points to}} any single answer. Russians have {{looked back}} to a café bombing in the same city in 2023, when a woman who carried a hidden bomb to a public event was later [[sentenced to]] 27 years in prison.",
+      "verbs": [
+        {
+          "display": "come forward",
+          "base": "come forward",
+          "correct": "To make yourself known in public",
+          "wrong": "To arrive at a place before others",
+          "correctFirst": true,
+          "why": "Come forward means to make yourself known publicly, often to admit responsibility or share information you have. Nobody has come forward yet to say they organized the bombing."
+        },
+        {
+          "display": "points to",
+          "base": "point to",
+          "correct": "To suggest that something is true",
+          "wrong": "To name a person in an official list",
+          "correctFirst": false,
+          "why": "Point to means to suggest that something is probably true, without proving it completely. So far, nothing public points to any single explanation for the attack."
+        },
+        {
+          "display": "looked back",
+          "base": "look back",
+          "correct": "To think about something in the past",
+          "wrong": "To repeat an earlier mistake",
+          "correctFirst": true,
+          "why": "Look back means to think about a similar event from the past for comparison. Russians have looked back to a 2023 cafe bombing that also used a hidden device."
+        }
+      ]
+    },
+    {
+      "text": "What is left is a short list of things nobody can {{clear up}} yet. Investigators must {{track down}} whoever built the device and whoever chose the place and the hour. They are {{holding back}} most of what they know, which is normal early in a case like this but [[leaves everyone else guessing]]. The [[square]] is open again, the tower still stands above it, and a restaurant that was closed for a quiet evening has become the address of the worst attack in the [[capital]] this year.",
+      "verbs": [
+        {
+          "display": "clear up",
+          "base": "clear up",
+          "correct": "To explain something that is confusing",
+          "wrong": "To close a street to traffic",
+          "correctFirst": false,
+          "why": "Clear up means to explain something clearly so the confusion disappears. Investigators still cannot clear up who built the bomb or why that restaurant was chosen."
+        },
+        {
+          "display": "track down",
+          "base": "track down",
+          "correct": "To find someone after searching",
+          "wrong": "To follow a person without being seen",
+          "correctFirst": true,
+          "why": "Track down means to find someone or something after a long, careful search. Investigators must track down whoever built the device and whoever chose the time and place."
+        },
+        {
+          "display": "holding back",
+          "base": "hold back",
+          "correct": "To refuse to share information",
+          "wrong": "To close a case without an answer",
+          "correctFirst": false,
+          "why": "Hold back means to keep information private instead of sharing it, at least for now. Investigators are holding back most of what they know, which is normal early in a case."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go off",
+      "def": "To explode suddenly",
+      "ex": [
+        "A firework went off early and scared the dog.",
+        "Old shells sometimes go off when moved.",
+        "A second bomb had gone off an hour earlier."
+      ],
+      "ipa": "/ɡoʊ ɔːf/"
+    },
+    {
+      "verb": "Step in",
+      "def": "To get involved in order to stop something",
+      "ex": [
+        "A teacher stepped in before the argument got physical.",
+        "Staff step in when an argument starts.",
+        "Nobody had stepped in to stop the fight."
+      ],
+      "ipa": "/stɛp ɪn/"
+    },
+    {
+      "verb": "Turn away",
+      "def": "To refuse to let someone enter",
+      "ex": [
+        "The bouncer turned away three men at the door.",
+        "They turn away anyone without a ticket.",
+        "She had been turned away twice that week."
+      ],
+      "ipa": "/tərn əˈweɪ/"
+    },
+    {
+      "verb": "Look into",
+      "def": "To investigate something carefully",
+      "ex": [
+        "The school is looking into the missing funds.",
+        "A committee looks into every complaint.",
+        "The matter has been looked into already."
+      ],
+      "ipa": "/lʊk ˈɪntuː/"
+    },
+    {
+      "verb": "Put out",
+      "def": "To release information to the public",
+      "ex": [
+        "The airline put out a statement about the delay.",
+        "They put out an update every evening.",
+        "Nothing has been put out since Sunday."
+      ],
+      "ipa": "/pʊt aʊt/"
+    },
+    {
+      "verb": "Rule out",
+      "def": "To decide that something is not possible",
+      "ex": [
+        "Doctors ruled out a serious illness after the tests.",
+        "She rules out nothing this early.",
+        "That idea was ruled out on Monday."
+      ],
+      "ipa": "/ruːl aʊt/"
+    },
+    {
+      "verb": "Come forward",
+      "def": "To make yourself known in public",
+      "ex": [
+        "A witness finally came forward after the appeal.",
+        "Witnesses rarely come forward at once.",
+        "Two people have come forward since Friday."
+      ],
+      "ipa": "/kʌm ˈfɔːrwərd/"
+    },
+    {
+      "verb": "Point to",
+      "def": "To suggest that something is true",
+      "ex": [
+        "Her test scores point to a real talent for math.",
+        "The results point to a fault in the wiring.",
+        "Nothing has pointed to a second person."
+      ],
+      "ipa": "/pɔɪnt tuː/"
+    },
+    {
+      "verb": "Look back",
+      "def": "To think about something in the past",
+      "ex": [
+        "He likes to look back on his college years.",
+        "People look back at that year with fear.",
+        "She has looked back on it many times."
+      ],
+      "ipa": "/lʊk bæk/"
+    },
+    {
+      "verb": "Clear up",
+      "def": "To explain something that is confusing",
+      "ex": [
+        "The teacher cleared up the confusion about the homework.",
+        "A single test clears up most of the doubt.",
+        "That question has never been cleared up."
+      ],
+      "ipa": "/klɪr ʌp/"
+    },
+    {
+      "verb": "Track down",
+      "def": "To find someone after searching",
+      "ex": [
+        "Detectives tracked down the missing teenager within a day.",
+        "It took months to track down the car's owner.",
+        "The seller has not been tracked down."
+      ],
+      "ipa": "/træk daʊn/"
+    },
+    {
+      "verb": "Hold back",
+      "def": "To refuse to share information",
+      "ex": [
+        "The company held back the true cost of repairs.",
+        "Investigators hold back details on purpose.",
+        "Two reports have been held back from the public."
+      ],
+      "ipa": "/hoʊld bæk/"
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "homemade",
+      "def": "Made at home rather than in a factory",
+      "ex": [
+        "She brought a homemade cake to the party.",
+        "He wore a homemade costume for Halloween.",
+        "The bakery sells only homemade bread."
+      ],
+      "ipa": "/hoʊmˈmeɪd/"
+    },
+    {
+      "word": "device",
+      "def": "A piece of equipment made for one purpose",
+      "ex": [
+        "The new device measures your heart rate all day.",
+        "He plugged the device into the wall to charge it.",
+        "This small device can open the garage door remotely."
+      ],
+      "ipa": "/dɪˈvaɪs/"
+    },
+    {
+      "word": "security guard",
+      "def": "A person paid to protect a place",
+      "ex": [
+        "The security guard checked everyone's badge before letting them in.",
+        "Every entrance has a security guard.",
+        "The mall hired a new security guard last week."
+      ],
+      "ipa": "/sɪˈkjʊrəti ɡɑrd/"
+    },
+    {
+      "word": "wounded",
+      "def": "Injured, especially by a weapon or blast",
+      "ex": [
+        "Several soldiers were wounded in the battle.",
+        "The wounded were taken to two hospitals.",
+        "Doctors treated the wounded through the night."
+      ],
+      "ipa": "/ˈwuːndɪd/"
+    },
+    {
+      "word": "Stalin-era",
+      "def": "Built during Stalin's rule in the Soviet Union",
+      "ex": [
+        "Tourists often photograph the Stalin-era architecture downtown.",
+        "The Stalin-era building has thick stone walls.",
+        "Many Stalin-era apartments are still in use today."
+      ],
+      "ipa": "/ˈstɑlən ˈɛrə/"
+    },
+    {
+      "word": "private event",
+      "def": "A gathering closed to the general public",
+      "ex": [
+        "The hotel ballroom was rented for a private event.",
+        "A private event means no walk-in guests.",
+        "Guests needed an invitation to attend the private event."
+      ],
+      "ipa": "/ˈpraɪvət ɪˈvɛnt/"
+    },
+    {
+      "word": "anti-terrorism committee",
+      "def": "The state body that handles attacks on the public",
+      "ex": [
+        "The anti-terrorism committee meets twice a year to review policy.",
+        "Officials from the anti-terrorism committee visited the airport.",
+        "The anti-terrorism committee released new safety guidelines."
+      ],
+      "ipa": "/ˈænti ˈtɛrərɪzəm kəˈmɪti/"
+    },
+    {
+      "word": "victims",
+      "def": "People harmed by a crime or disaster",
+      "ex": [
+        "The victims of the flood received emergency aid.",
+        "Families of the victims waited outside.",
+        "Counselors met with the victims after the accident."
+      ],
+      "ipa": "/ˈvɪktəmz/"
+    },
+    {
+      "word": "suspect",
+      "def": "Someone the police believe may be guilty",
+      "ex": [
+        "Police questioned a suspect for several hours.",
+        "The suspect was seen on camera.",
+        "The suspect denied any involvement in the crime."
+      ],
+      "ipa": "/səˈspɛkt/"
+    },
+    {
+      "word": "terrorist act",
+      "def": "A violent attack meant to frighten the public",
+      "ex": [
+        "Officials described the explosion as a terrorist act.",
+        "A terrorist act is investigated by the state.",
+        "Countries around the world condemned the terrorist act."
+      ],
+      "ipa": "/ˈtɛrərɪst ækt/"
+    },
+    {
+      "word": "official",
+      "def": "Coming from a government or authority",
+      "ex": [
+        "The company has not released an official statement yet.",
+        "The official account is only two lines long.",
+        "An official spokesperson answered questions from reporters."
+      ],
+      "ipa": "/əˈfɪʃəl/"
+    },
+    {
+      "word": "guesswork",
+      "def": "Opinions formed without real evidence",
+      "ex": [
+        "Without real data, planning becomes pure guesswork.",
+        "Guesswork spreads fastest online.",
+        "The mechanic's diagnosis was mostly guesswork."
+      ],
+      "ipa": "/ˈɡɛswərk/"
+    },
+    {
+      "word": "war bloggers",
+      "def": "People who write online about a war",
+      "ex": [
+        "Some war bloggers post daily updates from the front lines.",
+        "Russian war bloggers have large audiences.",
+        "A few war bloggers were later proven wrong about the battle."
+      ],
+      "ipa": "/wɔːr ˈblɔːɡərz/"
+    },
+    {
+      "word": "proof",
+      "def": "Evidence that shows something is true",
+      "ex": [
+        "The lawyer asked for proof before believing the claim.",
+        "Proof may take months to gather.",
+        "Scientists need solid proof before publishing a result."
+      ],
+      "ipa": "/pruːf/"
+    },
+    {
+      "word": "blast",
+      "def": "The rush of air and force from an explosion",
+      "ex": [
+        "The blast shook nearby buildings and set off car alarms.",
+        "People felt the blast a mile away.",
+        "Investigators studied the size of the blast."
+      ],
+      "ipa": "/blæst/"
+    },
+    {
+      "word": "square",
+      "def": "An open public space in a city",
+      "ex": [
+        "Vendors set up stalls in the square every weekend.",
+        "Four streets meet at the square.",
+        "Tourists gathered in the square to watch the parade."
+      ],
+      "ipa": "/skwɛər/"
+    },
+    {
+      "word": "seriously",
+      "def": "In a way that is severe or dangerous",
+      "ex": [
+        "He was seriously ill for most of last winter.",
+        "She was seriously injured but survived.",
+        "The company takes safety seriously after the accident."
+      ],
+      "ipa": "/ˈsɪriəsli/"
+    },
+    {
+      "word": "capital",
+      "def": "The city where a country's government sits",
+      "ex": [
+        "The capital hosts most government offices in the country.",
+        "The capital has nine million people.",
+        "They moved to the capital to find better jobs."
+      ],
+      "ipa": "/ˈkæpətəl/"
+    },
+    {
+      "word": "a moment later",
+      "def": "A short time afterward",
+      "ex": [
+        "The lights went out, and a moment later the room went dark.",
+        "She smiled, and a moment later she started laughing.",
+        "The phone rang, and a moment later it stopped."
+      ]
+    },
+    {
+      "word": "sits on",
+      "def": "Is located on or at",
+      "ex": [
+        "The old church sits on a small hill above town.",
+        "Her office sits on the top floor of the building.",
+        "The town sits on the edge of a wide river."
+      ]
+    },
+    {
+      "word": "the possibility that",
+      "def": "The chance that something might be true",
+      "ex": [
+        "Doctors did not rule out the possibility that the disease could spread.",
+        "We should consider the possibility that the flight will be delayed.",
+        "She mentioned the possibility that she might move abroad."
+      ]
+    },
+    {
+      "word": "behind it",
+      "def": "Responsible for causing something",
+      "ex": [
+        "Nobody knows who is behind it, even after months of study.",
+        "The company's success has a strong team behind it.",
+        "Police say a small group was behind it."
+      ]
+    },
+    {
+      "word": "beyond that",
+      "def": "Apart from what was just said",
+      "ex": [
+        "He gave his name and, beyond that, said nothing else.",
+        "The report covers last month, but beyond that we have no data.",
+        "She likes music, but beyond that she has few hobbies."
+      ]
+    },
+    {
+      "word": "from a distance",
+      "def": "From far away, not up close",
+      "ex": [
+        "You can see the mountain clearly from a distance.",
+        "He watched the parade from a distance, away from the crowd.",
+        "The sound of thunder reached them from a distance."
+      ]
+    },
+    {
+      "word": "sentenced to",
+      "def": "Given as an official punishment",
+      "ex": [
+        "The driver was sentenced to six months for the crash.",
+        "A judge sentenced him to community service last week.",
+        "She was sentenced to pay a large fine."
+      ]
+    },
+    {
+      "word": "leaves everyone else guessing",
+      "def": "Causes people to have no clear answer",
+      "ex": [
+        "His short answer leaves everyone else guessing about the real reason.",
+        "The coach's silence leaves everyone else guessing before the game.",
+        "Her vague email leaves everyone else guessing what she meant."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A bomb went off outside a Moscow restaurant after a security guard turned away the woman carrying it. Three people died, twenty-one were hurt, and no group has come forward to claim it.",
+      "a": true,
+      "why": "A security guard stepped in and turned the woman away before she reached the door. The bomb then exploded outside, killing three and wounding twenty-one people."
+    },
+    {
+      "s": "Outside a Moscow restaurant, a bomb killed three people after a guard stopped a woman at the entrance. Russian authorities have officially confirmed that a foreign government ordered the attack.",
+      "a": false,
+      "why": "Close, but no suspect or group has been confirmed. War bloggers guessed that Ukraine was behind it, but they offered no proof and Kyiv did not respond."
+    },
+    {
+      "s": "A different bombing hit a Moscow cafe back in 2023, when a woman carried a hidden device inside. A court later gave the bomber a sentence of 27 years in a Russian prison for that crime.",
+      "a": false,
+      "why": "This story is about an earlier 2023 cafe bombing in Moscow, not the restaurant attack from August 2026."
+    }
+  ],
+  "tf": [
+    {
+      "s": "The bomb went off outside an Italian restaurant in central Moscow on Saturday evening, August 1.",
+      "a": true,
+      "why": "A homemade bomb went off outside an Italian restaurant in central Moscow on Saturday evening, August 1."
+    },
+    {
+      "s": "The woman carrying the device reached the inside of the restaurant before it exploded.",
+      "a": false,
+      "why": "A security guard stepped in and turned her away, and the bomb exploded on the street a moment later."
+    },
+    {
+      "s": "Three people were killed, including the woman and the security guard.",
+      "a": true,
+      "why": "Three people were killed, the woman herself, the guard and one customer, and twenty-one others were wounded, six of them seriously."
+    },
+    {
+      "s": "The anti-terrorism committee has named the woman and two suspects.",
+      "a": false,
+      "why": "Russia's national anti-terrorism committee is looking into the attack but has put out very little, and it has not named the woman, the victims or any suspect."
+    },
+    {
+      "s": "A group has come forward to say it organized the attack.",
+      "a": false,
+      "why": "Nobody has come forward to say they organized it, and so far nothing public points to any single answer."
+    },
+    {
+      "s": "The mayor of Moscow called the blast a brutal terrorist act.",
+      "a": true,
+      "why": "The mayor of Moscow, Sergei Sobyanin, called the blast a brutal terrorist act and said those behind it would be found."
+    }
+  ]
+}

@@ -1,1 +1,530 @@
-{"id":"social-media-trial-2026","number":81,"headline":"Did social media hook kids? A trial begins","badge":"Technology","meta":"","image":"https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n81-social-media-trial-2026-flat.webp","position":"center 50%","sources":[{"title":"Meta heads to court in a landmark trial about kids and social media addiction (NPR)","url":"https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction"},{"title":"Landmark trial accusing social media companies of addicting children begins (NBC News)","url":"https://www.nbcnews.com/business/business-news/arguments-begin-landmark-social-media-addiction-trial-set-los-angeles-rcna258157"},{"title":"A Meta trial loss could end the social media we know (CNBC)","url":"https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html"},{"title":"Meta hooked children on Facebook and Instagram, court hears (video, BBC News)","url":"https://www.youtube.com/watch?v=Q6b8OdMMNeY"}],"chunks":[{"text":"Were [[likes]], [[endless]] feeds, and [[constant]] notifications designed [[on purpose]] to [[hook]] children? That is the question [[at the heart of]] a huge [[trial]] that began in mid-August in a [[federal court]] in California. Four US states have {{teamed up}} to {{take on}} Meta, the company behind Facebook and Instagram, in one of the biggest tech cases in American history.","verbs":[{"display":"teamed up","base":"team up","correct":"To join others to work together","wrong":"To share the costs of a case","correctFirst":true},{"display":"take on","base":"take on","correct":"To fight against someone strong","wrong":"To copy someone's business","correctFirst":false}]},{"text":"The case is about app features everyone knows. [[Notifications]] {{pop up}} on the screen [[at all hours]], so young users return [[again and again]]. The [[feed]] never ends, so there is no natural place to stop. Likes and other small rewards {{draw in}} teenagers and keep them [[scrolling]]. Many teens say they cannot {{put down}} the phone, even at dinner or late at night. The states [[argue]] that these [[designs]] were built to hold children's [[attention]], [[whatever the cost]].","verbs":[{"display":"pop up","base":"pop up","correct":"To appear suddenly","wrong":"To sound louder at night","correctFirst":false},{"display":"draw in","base":"draw in","correct":"To attract and hold interest","wrong":"To confuse and then bore","correctFirst":true},{"display":"put down","base":"put down","correct":"To stop holding something","wrong":"To charge something at night","correctFirst":false}]},{"text":"The states want big changes. They ask the court to make Meta {{do away with}} some of these features for young users, and they demand up to 1.4 trillion dollars, one of the largest amounts ever requested in a US court. Meta {{pushes back}} hard against the [[claims]]. The company {{stands by}} its [[record]], saying it has built strong [[protections]] for teens and that the [[demands]] are [[unfair]].","verbs":[{"display":"do away with","base":"do away with","correct":"To remove something completely","wrong":"To improve something slowly","correctFirst":true},{"display":"pushes back","base":"push back","correct":"To resist and disagree strongly","wrong":"To ignore every question","correctFirst":false},{"display":"stands by","base":"stand by","correct":"To keep supporting something","wrong":"To quietly change something","correctFirst":true}]},{"text":"The trial is expected to {{go on}} for about six weeks, and the whole tech world is watching. A loss could change how social media looks and feels for everyone. An entire [[generation]] has {{grown up}} with likes, notifications, and endless feeds, and courts are only now deciding what that means. In the end, the case may {{come down to}} one question: did the company know its designs could hurt young users?","verbs":[{"display":"go on","base":"go on","correct":"To continue for some time","wrong":"To pause again and again","correctFirst":false},{"display":"grown up","base":"grow up","correct":"To spend your childhood","wrong":"To learn from mistakes","correctFirst":true},{"display":"come down to","base":"come down to","correct":"To depend on one main thing","wrong":"To end without any answer","correctFirst":false}]}],"vocab":[{"verb":"Team up","ipa":"/tim ʌp/","def":"To join others to work together","ex":["The bakery teamed up with a coffee shop next door.","Two rival labs teamed up to test the drug.","We teamed up for the science fair."]},{"verb":"Take on","ipa":"/teɪk ɑn/","def":"To fight against someone strong","ex":["The small shop took on the giant supermarket.","She took on the champion in the final round.","Nobody wanted to take on the city in court."]},{"verb":"Pop up","ipa":"/pɑp ʌp/","def":"To appear suddenly","ex":["Ads pop up every time I open the game.","A warning popped up on my screen.","New food stands pop up near the beach every July."]},{"verb":"Draw in","ipa":"/drɔ ɪn/","def":"To attract and hold interest","ex":["The bright window display draws in shoppers.","The first chapter drew me in completely.","Live music draws in a young crowd."]},{"verb":"Put down","ipa":"/pʊt daʊn/","def":"To stop holding something","ex":["Put down the scissors before you run.","She could not put down the novel until midnight.","He put down his fork and started talking."]},{"verb":"Do away with","ipa":"/du əˈweɪ wɪð/","def":"To remove something completely","ex":["The school did away with homework on Fridays.","The airline did away with free snacks.","The city did away with paper tickets."]},{"verb":"Push back","ipa":"/pʊʃ bæk/","def":"To resist and disagree strongly","ex":["The workers pushed back against the new schedule.","Parents pushed back when the bus route changed.","The star pushed back against the false story."]},{"verb":"Stand by","ipa":"/stænd baɪ/","def":"To keep supporting something","ex":["She stands by every word of her report.","The coach stood by his young goalkeeper.","We stand by our promise to fix any errors."]},{"verb":"Go on","ipa":"/ɡoʊ ɑn/","def":"To continue for some time","ex":["The concert went on for almost four hours.","The meeting went on much longer than planned.","The rain went on all weekend."]},{"verb":"Grow up","ipa":"/ɡroʊ ʌp/","def":"To spend your childhood","ex":["She grew up on a small island.","Kids who grow up with pets often love animals.","He grew up speaking two languages."]},{"verb":"Come down to","ipa":"/kʌm daʊn tu/","def":"To depend on one main thing","ex":["The final often comes down to one penalty kick.","Choosing a home comes down to price and location.","It all comes down to trust."]}],"wordDefs":[{"word":"likes","ipa":"/laɪks/","def":"Small hearts or thumbs that show approval","ex":["Her photo got two hundred likes in an hour.","He checks his likes far too often.","The video's likes doubled overnight."]},{"word":"on purpose","ipa":"/ɑn ˈpɜrpəs/","def":"Planned, not by accident","ex":["He left the door open on purpose.","She lost the first game on purpose.","I did not push you on purpose, I slipped."]},{"word":"hook","ipa":"/hʊk/","def":"To make someone unable to stop","ex":["The first episode hooked me completely.","Cheap prices hook shoppers into buying more.","The game is designed to hook new players."]},{"word":"trial","ipa":"/ˈtraɪəl/","def":"The process of deciding a case in court","ex":["The trial lasted three weeks.","Reporters filled the room on the first day of the trial.","The trial ended with a surprise decision."]},{"word":"federal court","ipa":"/ˈfɛdərəl kɔrt/","def":"A national court of the United States","ex":["The case moved from state court to federal court.","A federal court blocked the new rule.","Federal court cases can take years."]},{"word":"notifications","ipa":"/ˌnoʊtəfəˈkeɪʃənz/","def":"Messages an app sends to your screen","ex":["I turn off notifications during class.","His phone buzzed with notifications all night.","She limits notifications to calls and texts."]},{"word":"feed","ipa":"/fid/","def":"The stream of posts an app shows you","ex":["My feed is full of cooking videos.","The app changed how the feed orders posts.","He cleaned up his feed by unfollowing accounts."]},{"word":"scrolling","ipa":"/ˈskroʊlɪŋ/","def":"Moving up or down through a screen","ex":["She spent the whole ride scrolling.","Endless scrolling makes time disappear.","My thumb hurts from scrolling."]},{"word":"attention","ipa":"/əˈtɛnʃən/","def":"The focus of your mind on something","ex":["The teacher clapped to get our attention.","Loud colors catch people's attention fast.","He gives his full attention to every customer."]},{"word":"whatever the cost","ipa":"/wʌtˈɛvər ðə kɔst/","def":"No matter what bad things happen","ex":["She wanted to win, whatever the cost.","They promised to finish the bridge, whatever the cost.","He defends his family, whatever the cost."]},{"word":"claims","ipa":"/kleɪmz/","def":"Statements that something is true","ex":["The ad's claims sounded too good to be true.","Scientists tested the company's claims.","His claims did not match the facts."]},{"word":"record","ipa":"/ˈrɛkərd/","def":"The known history of a person or company","ex":["The airline has a strong safety record.","Voters studied the mayor's record.","Her attendance record is perfect."]},{"word":"protections","ipa":"/prəˈtɛkʃənz/","def":"Rules or tools that keep people safe","ex":["New protections limit late-night gaming for kids.","The law adds protections for renters.","Workers asked for stronger protections."]},{"word":"demands","ipa":"/dɪˈmændz/","def":"Strong requests for something","ex":["The workers listed three demands.","Fans made loud demands for a rematch.","The team met all the safety demands."]},{"word":"generation","ipa":"/ˌdʒɛnəˈreɪʃən/","def":"All the people born around the same time","ex":["My grandparents' generation grew up without TV.","Each generation has its own music.","This generation learned to read on screens."]},{"word":"endless","ipa":"/ˈɛndlɪs/","def":"Seeming to have no end","ex":["The desert road felt endless.","She has endless patience with beginners.","Summer days seemed endless when we were kids."]},{"word":"constant","ipa":"/ˈkɑnstənt/","def":"Happening again and again, nonstop","ex":["The constant noise made work impossible.","Her constant questions showed real interest.","He lives with constant back pain."]},{"word":"at the heart of","ipa":"/æt ðə hɑrt ʌv/","def":"At the most important center of","ex":["Money is at the heart of the argument.","The old square is at the heart of the city.","Trust is at the heart of every good team."]},{"word":"at all hours","ipa":"/æt ɔl ˈaʊərz/","def":"At any time, even very late","ex":["The diner serves eggs at all hours.","Trucks rumble past at all hours.","He texts me at all hours of the night."]},{"word":"argue","ipa":"/ˈɑrɡju/","def":"To give reasons for an opinion","ex":["Lawyers argue that the rule is too strict.","Fans argue about the best player of all time.","She argued for a longer lunch break."]},{"word":"designs","ipa":"/dɪˈzaɪnz/","def":"The ways products are planned and made","ex":["New phone designs leak online every year.","Her dress designs sold out in a day.","Simple designs often work best."]},{"word":"unfair","ipa":"/ʌnˈfɛr/","def":"Not treating people equally or right","ex":["The extra fee felt unfair to renters.","It is unfair to blame the new player.","An unfair test upset the whole class."]},{"word":"again and again","ipa":"/əˈɡɛn ənd əˈɡɛn/","def":"Repeatedly, many times in a row","ex":["He watched the goal again and again.","The baby dropped the spoon again and again.","She practiced the same line again and again."]}],"mainIdea":[{"s":"Four US states are taking Meta to trial, saying features like likes and endless feeds were built to hook children. The company denies it and defends its record.","a":true,"why":"The states argue the designs were made to hold children's attention, while Meta pushes back and stands by its protections for teens."},{"s":"A US court has already ruled that Meta must delete its likes and its endless feed for everyone. The company will pay four states 1.4 trillion dollars this fall.","a":false,"why":"Close, but there is no decision yet. The trial just began and is expected to go on for about six weeks."},{"s":"Four US states have launched a free school program that teaches children to use social media safely. Classes will cover likes, feeds, notifications, and screen time.","a":false,"why":"The article is about a court case against Meta, not about a school program for safe social media use."}],"tf":[{"s":"The trial is over, and the court has already made Meta do away with likes","a":false,"why":"The trial began in mid-August and is expected to go on for about six weeks. Nothing has been decided yet."},{"s":"Four US states have teamed up to take on Meta in court","a":true,"why":"Four US states teamed up to take on Meta in a federal court in California."},{"s":"The states demand up to 1.4 trillion dollars","a":true,"why":"They demand up to 1.4 trillion dollars, one of the largest amounts ever requested in a US court."},{"s":"Instead of pushing back, Meta agrees its features were built to hook children","a":false,"why":"Meta pushes back hard. It stands by its record and says it built strong protections for teens."},{"s":"The states say notifications that pop up at all hours help draw in young users","a":true,"why":"Notifications pop up on the screen at all hours, and likes and other small rewards draw in teenagers."},{"s":"The result of the case matters only to Meta","a":false,"why":"A loss could change how social media looks and feels for everyone, and the whole tech world is watching."}]}
+{
+  "id": "social-media-trial-2026",
+  "number": 81,
+  "headline": "Did social media hook kids? A trial begins",
+  "badge": "Technology",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n81-social-media-trial-2026-flat.webp",
+  "position": "center 50%",
+  "sources": [
+    {
+      "title": "Meta heads to court in a landmark trial about kids and social media addiction (NPR)",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction"
+    },
+    {
+      "title": "Landmark trial accusing social media companies of addicting children begins (NBC News)",
+      "url": "https://www.nbcnews.com/business/business-news/arguments-begin-landmark-social-media-addiction-trial-set-los-angeles-rcna258157"
+    },
+    {
+      "title": "A Meta trial loss could end the social media we know (CNBC)",
+      "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html"
+    },
+    {
+      "title": "Meta hooked children on Facebook and Instagram, court hears (video, BBC News)",
+      "url": "https://www.youtube.com/watch?v=Q6b8OdMMNeY"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "Were [[likes]], [[endless]] feeds, and [[constant]] notifications designed [[on purpose]] to [[hook]] children? That is the question [[at the heart of]] a huge [[trial]] that began in mid-August in a [[federal court]] in California. Four US states have {{teamed up}} to {{take on}} Meta, the company behind Facebook and Instagram, in one of the biggest tech cases in American history.",
+      "verbs": [
+        {
+          "display": "teamed up",
+          "base": "team up",
+          "correct": "To join others to work together",
+          "wrong": "To share the costs of a case",
+          "correctFirst": true,
+          "why": "Team up means to join with others so you can work toward a shared goal. Four US states have teamed up to bring this case against Meta together."
+        },
+        {
+          "display": "take on",
+          "base": "take on",
+          "correct": "To fight against someone strong",
+          "wrong": "To copy someone's business",
+          "correctFirst": false,
+          "why": "Take on means to challenge or fight against someone much bigger or more powerful than you. The states are taking on Meta in one of the largest tech cases in American history."
+        }
+      ]
+    },
+    {
+      "text": "The case is about app features everyone knows. [[Notifications]] {{pop up}} on the screen [[at all hours]], so young users return [[again and again]]. The [[feed]] never ends, so there is no natural place to stop. Likes and other small rewards {{draw in}} teenagers and keep them [[scrolling]]. Many teens say they cannot {{put down}} the phone, even at dinner or late at night. The states [[argue]] that these [[designs]] were built to hold children's [[attention]], [[whatever the cost]].",
+      "verbs": [
+        {
+          "display": "pop up",
+          "base": "pop up",
+          "correct": "To appear suddenly",
+          "wrong": "To sound louder at night",
+          "correctFirst": false,
+          "why": "Pop up means to appear suddenly on a screen, without any warning. In the case, notifications pop up at all hours and repeatedly interrupt young users."
+        },
+        {
+          "display": "draw in",
+          "base": "draw in",
+          "correct": "To attract and hold interest",
+          "wrong": "To confuse and then bore",
+          "correctFirst": true,
+          "why": "Draw in means to attract someone's attention and hold it so they keep engaging. Likes and small rewards draw in teenagers and keep them scrolling for hours."
+        },
+        {
+          "display": "put down",
+          "base": "put down",
+          "correct": "To stop holding something",
+          "wrong": "To charge something at night",
+          "correctFirst": false,
+          "why": "Put down means to stop holding something and set it aside. Many teens say they cannot put down their phone, even at dinner or late at night."
+        }
+      ]
+    },
+    {
+      "text": "The states want big changes. They ask the court to make Meta {{do away with}} some of these features for young users, and they demand up to 1.4 trillion dollars, one of the largest amounts ever requested in a US court. Meta {{pushes back}} hard against the [[claims]]. The company {{stands by}} its [[record]], saying it has built strong [[protections]] for teens and that the [[demands]] are [[unfair]].",
+      "verbs": [
+        {
+          "display": "do away with",
+          "base": "do away with",
+          "correct": "To remove something completely",
+          "wrong": "To improve something slowly",
+          "correctFirst": true,
+          "why": "Do away with means to remove something completely so it no longer exists. The states want the court to make Meta do away with certain features built for young users."
+        },
+        {
+          "display": "pushes back",
+          "base": "push back",
+          "correct": "To resist and disagree strongly",
+          "wrong": "To ignore every question",
+          "correctFirst": false,
+          "why": "Push back means to resist firmly and refuse to accept something. Meta is pushing back hard against the states' claims and denies that its designs are unfair."
+        },
+        {
+          "display": "stands by",
+          "base": "stand by",
+          "correct": "To keep supporting something",
+          "wrong": "To quietly change something",
+          "correctFirst": true,
+          "why": "Stand by means to keep supporting a decision or statement even when it is challenged. Meta stands by its record on teen safety and insists the demands are unfair."
+        }
+      ]
+    },
+    {
+      "text": "The trial is expected to {{go on}} for about six weeks, and the whole tech world is watching. A loss could change how social media looks and feels for everyone. An entire [[generation]] has {{grown up}} with likes, notifications, and endless feeds, and courts are only now deciding what that means. In the end, the case may {{come down to}} one question: did the company know its designs could hurt young users?",
+      "verbs": [
+        {
+          "display": "go on",
+          "base": "go on",
+          "correct": "To continue for some time",
+          "wrong": "To pause again and again",
+          "correctFirst": false,
+          "why": "Go on means to continue happening for a period of time. The trial is expected to go on for about six weeks."
+        },
+        {
+          "display": "grown up",
+          "base": "grow up",
+          "correct": "To spend your childhood",
+          "wrong": "To learn from mistakes",
+          "correctFirst": true,
+          "why": "Grow up means to spend the years of your childhood in a particular situation. An entire generation has grown up with likes, notifications, and endless feeds."
+        },
+        {
+          "display": "come down to",
+          "base": "come down to",
+          "correct": "To depend on one main thing",
+          "wrong": "To end without any answer",
+          "correctFirst": false,
+          "why": "Come down to means that a complicated question really depends on one main point. In the end, the case may come down to whether Meta knew its designs could harm young users."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Team up",
+      "ipa": "/tim ʌp/",
+      "def": "To join others to work together",
+      "ex": [
+        "The bakery teamed up with a coffee shop next door.",
+        "Two rival labs teamed up to test the drug.",
+        "We teamed up for the science fair."
+      ]
+    },
+    {
+      "verb": "Take on",
+      "ipa": "/teɪk ɑn/",
+      "def": "To fight against someone strong",
+      "ex": [
+        "The small shop took on the giant supermarket.",
+        "She took on the champion in the final round.",
+        "Nobody wanted to take on the city in court."
+      ]
+    },
+    {
+      "verb": "Pop up",
+      "ipa": "/pɑp ʌp/",
+      "def": "To appear suddenly",
+      "ex": [
+        "Ads pop up every time I open the game.",
+        "A warning popped up on my screen.",
+        "New food stands pop up near the beach every July."
+      ]
+    },
+    {
+      "verb": "Draw in",
+      "ipa": "/drɔ ɪn/",
+      "def": "To attract and hold interest",
+      "ex": [
+        "The bright window display draws in shoppers.",
+        "The first chapter drew me in completely.",
+        "Live music draws in a young crowd."
+      ]
+    },
+    {
+      "verb": "Put down",
+      "ipa": "/pʊt daʊn/",
+      "def": "To stop holding something",
+      "ex": [
+        "Put down the scissors before you run.",
+        "She could not put down the novel until midnight.",
+        "He put down his fork and started talking."
+      ]
+    },
+    {
+      "verb": "Do away with",
+      "ipa": "/du əˈweɪ wɪð/",
+      "def": "To remove something completely",
+      "ex": [
+        "The school did away with homework on Fridays.",
+        "The airline did away with free snacks.",
+        "The city did away with paper tickets."
+      ]
+    },
+    {
+      "verb": "Push back",
+      "ipa": "/pʊʃ bæk/",
+      "def": "To resist and disagree strongly",
+      "ex": [
+        "The workers pushed back against the new schedule.",
+        "Parents pushed back when the bus route changed.",
+        "The star pushed back against the false story."
+      ]
+    },
+    {
+      "verb": "Stand by",
+      "ipa": "/stænd baɪ/",
+      "def": "To keep supporting something",
+      "ex": [
+        "She stands by every word of her report.",
+        "The coach stood by his young goalkeeper.",
+        "We stand by our promise to fix any errors."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "ipa": "/ɡoʊ ɑn/",
+      "def": "To continue for some time",
+      "ex": [
+        "The concert went on for almost four hours.",
+        "The meeting went on much longer than planned.",
+        "The rain went on all weekend."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "ipa": "/ɡroʊ ʌp/",
+      "def": "To spend your childhood",
+      "ex": [
+        "She grew up on a small island.",
+        "Kids who grow up with pets often love animals.",
+        "He grew up speaking two languages."
+      ]
+    },
+    {
+      "verb": "Come down to",
+      "ipa": "/kʌm daʊn tu/",
+      "def": "To depend on one main thing",
+      "ex": [
+        "The final often comes down to one penalty kick.",
+        "Choosing a home comes down to price and location.",
+        "It all comes down to trust."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "likes",
+      "ipa": "/laɪks/",
+      "def": "Small hearts or thumbs that show approval",
+      "ex": [
+        "Her photo got two hundred likes in an hour.",
+        "He checks his likes far too often.",
+        "The video's likes doubled overnight."
+      ]
+    },
+    {
+      "word": "on purpose",
+      "ipa": "/ɑn ˈpɜrpəs/",
+      "def": "Planned, not by accident",
+      "ex": [
+        "He left the door open on purpose.",
+        "She lost the first game on purpose.",
+        "I did not push you on purpose, I slipped."
+      ]
+    },
+    {
+      "word": "hook",
+      "ipa": "/hʊk/",
+      "def": "To make someone unable to stop",
+      "ex": [
+        "The first episode hooked me completely.",
+        "Cheap prices hook shoppers into buying more.",
+        "The game is designed to hook new players."
+      ]
+    },
+    {
+      "word": "trial",
+      "ipa": "/ˈtraɪəl/",
+      "def": "The process of deciding a case in court",
+      "ex": [
+        "The trial lasted three weeks.",
+        "Reporters filled the room on the first day of the trial.",
+        "The trial ended with a surprise decision."
+      ]
+    },
+    {
+      "word": "federal court",
+      "ipa": "/ˈfɛdərəl kɔrt/",
+      "def": "A national court of the United States",
+      "ex": [
+        "The case moved from state court to federal court.",
+        "A federal court blocked the new rule.",
+        "Federal court cases can take years."
+      ]
+    },
+    {
+      "word": "notifications",
+      "ipa": "/ˌnoʊtəfəˈkeɪʃənz/",
+      "def": "Messages an app sends to your screen",
+      "ex": [
+        "I turn off notifications during class.",
+        "His phone buzzed with notifications all night.",
+        "She limits notifications to calls and texts."
+      ]
+    },
+    {
+      "word": "feed",
+      "ipa": "/fid/",
+      "def": "The stream of posts an app shows you",
+      "ex": [
+        "My feed is full of cooking videos.",
+        "The app changed how the feed orders posts.",
+        "He cleaned up his feed by unfollowing accounts."
+      ]
+    },
+    {
+      "word": "scrolling",
+      "ipa": "/ˈskroʊlɪŋ/",
+      "def": "Moving up or down through a screen",
+      "ex": [
+        "She spent the whole ride scrolling.",
+        "Endless scrolling makes time disappear.",
+        "My thumb hurts from scrolling."
+      ]
+    },
+    {
+      "word": "attention",
+      "ipa": "/əˈtɛnʃən/",
+      "def": "The focus of your mind on something",
+      "ex": [
+        "The teacher clapped to get our attention.",
+        "Loud colors catch people's attention fast.",
+        "He gives his full attention to every customer."
+      ]
+    },
+    {
+      "word": "whatever the cost",
+      "ipa": "/wʌtˈɛvər ðə kɔst/",
+      "def": "No matter what bad things happen",
+      "ex": [
+        "She wanted to win, whatever the cost.",
+        "They promised to finish the bridge, whatever the cost.",
+        "He defends his family, whatever the cost."
+      ]
+    },
+    {
+      "word": "claims",
+      "ipa": "/kleɪmz/",
+      "def": "Statements that something is true",
+      "ex": [
+        "The ad's claims sounded too good to be true.",
+        "Scientists tested the company's claims.",
+        "His claims did not match the facts."
+      ]
+    },
+    {
+      "word": "record",
+      "ipa": "/ˈrɛkərd/",
+      "def": "The known history of a person or company",
+      "ex": [
+        "The airline has a strong safety record.",
+        "Voters studied the mayor's record.",
+        "Her attendance record is perfect."
+      ]
+    },
+    {
+      "word": "protections",
+      "ipa": "/prəˈtɛkʃənz/",
+      "def": "Rules or tools that keep people safe",
+      "ex": [
+        "New protections limit late-night gaming for kids.",
+        "The law adds protections for renters.",
+        "Workers asked for stronger protections."
+      ]
+    },
+    {
+      "word": "demands",
+      "ipa": "/dɪˈmændz/",
+      "def": "Strong requests for something",
+      "ex": [
+        "The workers listed three demands.",
+        "Fans made loud demands for a rematch.",
+        "The team met all the safety demands."
+      ]
+    },
+    {
+      "word": "generation",
+      "ipa": "/ˌdʒɛnəˈreɪʃən/",
+      "def": "All the people born around the same time",
+      "ex": [
+        "My grandparents' generation grew up without TV.",
+        "Each generation has its own music.",
+        "This generation learned to read on screens."
+      ]
+    },
+    {
+      "word": "endless",
+      "ipa": "/ˈɛndlɪs/",
+      "def": "Seeming to have no end",
+      "ex": [
+        "The desert road felt endless.",
+        "She has endless patience with beginners.",
+        "Summer days seemed endless when we were kids."
+      ]
+    },
+    {
+      "word": "constant",
+      "ipa": "/ˈkɑnstənt/",
+      "def": "Happening again and again, nonstop",
+      "ex": [
+        "The constant noise made work impossible.",
+        "Her constant questions showed real interest.",
+        "He lives with constant back pain."
+      ]
+    },
+    {
+      "word": "at the heart of",
+      "ipa": "/æt ðə hɑrt ʌv/",
+      "def": "At the most important center of",
+      "ex": [
+        "Money is at the heart of the argument.",
+        "The old square is at the heart of the city.",
+        "Trust is at the heart of every good team."
+      ]
+    },
+    {
+      "word": "at all hours",
+      "ipa": "/æt ɔl ˈaʊərz/",
+      "def": "At any time, even very late",
+      "ex": [
+        "The diner serves eggs at all hours.",
+        "Trucks rumble past at all hours.",
+        "He texts me at all hours of the night."
+      ]
+    },
+    {
+      "word": "argue",
+      "ipa": "/ˈɑrɡju/",
+      "def": "To give reasons for an opinion",
+      "ex": [
+        "Lawyers argue that the rule is too strict.",
+        "Fans argue about the best player of all time.",
+        "She argued for a longer lunch break."
+      ]
+    },
+    {
+      "word": "designs",
+      "ipa": "/dɪˈzaɪnz/",
+      "def": "The ways products are planned and made",
+      "ex": [
+        "New phone designs leak online every year.",
+        "Her dress designs sold out in a day.",
+        "Simple designs often work best."
+      ]
+    },
+    {
+      "word": "unfair",
+      "ipa": "/ʌnˈfɛr/",
+      "def": "Not treating people equally or right",
+      "ex": [
+        "The extra fee felt unfair to renters.",
+        "It is unfair to blame the new player.",
+        "An unfair test upset the whole class."
+      ]
+    },
+    {
+      "word": "again and again",
+      "ipa": "/əˈɡɛn ənd əˈɡɛn/",
+      "def": "Repeatedly, many times in a row",
+      "ex": [
+        "He watched the goal again and again.",
+        "The baby dropped the spoon again and again.",
+        "She practiced the same line again and again."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Four US states are taking Meta to trial, saying features like likes and endless feeds were built to hook children. The company denies it and defends its record.",
+      "a": true,
+      "why": "The states argue the designs were made to hold children's attention, while Meta pushes back and stands by its protections for teens."
+    },
+    {
+      "s": "A US court has already ruled that Meta must delete its likes and its endless feed for everyone. The company will pay four states 1.4 trillion dollars this fall.",
+      "a": false,
+      "why": "Close, but there is no decision yet. The trial just began and is expected to go on for about six weeks."
+    },
+    {
+      "s": "Four US states have launched a free school program that teaches children to use social media safely. Classes will cover likes, feeds, notifications, and screen time.",
+      "a": false,
+      "why": "The article is about a court case against Meta, not about a school program for safe social media use."
+    }
+  ],
+  "tf": [
+    {
+      "s": "The trial is over, and the court has already made Meta do away with likes",
+      "a": false,
+      "why": "The trial began in mid-August and is expected to go on for about six weeks. Nothing has been decided yet."
+    },
+    {
+      "s": "Four US states have teamed up to take on Meta in court",
+      "a": true,
+      "why": "Four US states teamed up to take on Meta in a federal court in California."
+    },
+    {
+      "s": "The states demand up to 1.4 trillion dollars",
+      "a": true,
+      "why": "They demand up to 1.4 trillion dollars, one of the largest amounts ever requested in a US court."
+    },
+    {
+      "s": "Instead of pushing back, Meta agrees its features were built to hook children",
+      "a": false,
+      "why": "Meta pushes back hard. It stands by its record and says it built strong protections for teens."
+    },
+    {
+      "s": "The states say notifications that pop up at all hours help draw in young users",
+      "a": true,
+      "why": "Notifications pop up on the screen at all hours, and likes and other small rewards draw in teenagers."
+    },
+    {
+      "s": "The result of the case matters only to Meta",
+      "a": false,
+      "why": "A loss could change how social media looks and feels for everyone, and the whole tech world is watching."
+    }
+  ]
+}

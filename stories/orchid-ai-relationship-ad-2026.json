@@ -1,1 +1,536 @@
-{"id": "orchid-ai-relationship-ad-2026", "number": 72, "headline": "An ad about love upsets the internet", "badge": "Culture", "meta": "", "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n72-orchid-ai-relationship-ad-2026-flat.webp", "position": "center 55%", "sources": [{"title": "'You literally can't': AI startup Orchid sparks backlash over its 'second brain' assistant", "url": "https://www.euronews.com/culture/2026/08/03/you-literally-cant-ai-startup-orchid-sparks-backlash-over-its-second-brain-assistant"}, {"title": "Orchid AI assistant launches, gets backlash for relationship ad", "url": "https://www.fastcompany.com/91581882/orchid-ai-assistant-launches-gets-backlash-for-relationship-ad"}, {"title": "'Tech people need to stop': Startup faces backlash after suggesting its AI can save bad relationships", "url": "https://tech.yahoo.com/ai/deals/articles/tech-people-stop-startup-faces-202000866.html"}], "chunks": [{"text": "An argument {{kicked off}} on July 28, when a short [[advertisement]] for an AI [[assistant]] called Orchid appeared online. The app works [[by text message]] and {{sorts out}} small jobs: [[bookings]], [[reminders]], files. In the [[clip]], a man forgets his [[anniversary]] while he is playing a video game. His partner messages the assistant instead of him, and the assistant {{stands in for}} him by handling the conversation. It books a restaurant and sends lilies, because it remembers that she likes them better than roses.", "verbs": [{"display": "kicked off", "base": "kick off", "correct": "To start suddenly and noisily", "wrong": "To end a video with a joke", "correctFirst": true}, {"display": "sorts out", "base": "sort out", "correct": "To handle small tasks", "wrong": "To reply to a message very fast", "correctFirst": false}, {"display": "stands in for", "base": "stand in for", "correct": "To do something in place of someone", "wrong": "To send flowers to a partner", "correctFirst": true}]}, {"text": "The video {{blew up}}. It reached 3.2 million [[views]] and more than 600 [[replies]] [[in a few days]]. Many people who had been [[ready to]] {{sign up}} {{turned on}} the company instead. The line that made people angriest was the assistant's own: \"You literally can't. [[That's why]] I'm here.\" Its [[critics]] said the app was selling a way to look [[thoughtful]] without doing any of the caring.", "verbs": [{"display": "blew up", "base": "blow up", "correct": "To suddenly get a lot of attention", "wrong": "To delete a post after an argument", "correctFirst": false}, {"display": "sign up", "base": "sign up", "correct": "To join a service as a member", "wrong": "To book a table at a restaurant", "correctFirst": true}, {"display": "turned on", "base": "turn on", "correct": "To suddenly attack someone", "wrong": "To share a video with a friend", "correctFirst": false}]}, {"text": "A [[licensed therapist]] {{spoke out}} too. She warned that texting a machine instead of your partner is [[a form of]] [[triangulation]]: a third person {{cuts in}} on a conversation that should happen only between the two partners. Some readers said [[the whole thing]] {{put off}} people who had planned to try the app. Others called it [[ragebait]], made to be shared in anger.", "verbs": [{"display": "spoke out", "base": "speak out", "correct": "To say publicly what you think", "wrong": "To answer a message in private", "correctFirst": true}, {"display": "cuts in", "base": "cut in", "correct": "To interrupt and take a place", "wrong": "To lower the price of an app", "correctFirst": false}, {"display": "put off", "base": "put off", "correct": "To make someone lose interest", "wrong": "To remind someone of a date", "correctFirst": true}]}, {"text": "The company has not {{backed down}}. It said it wanted a story built around a real situation [[rather than]] a normal product video, and it {{brushed off}} the criticism by leaving the clip online. A second advertisement, which claimed the app could check food for [[allergens]], was quietly deleted. The fight {{sums up}} a question the [[tech industry]] keeps [[running into]]: people will let software book a table, but they do not want it to do the caring for them.", "verbs": [{"display": "backed down", "base": "back down", "correct": "To stop defending your position", "wrong": "To repeat a claim more loudly", "correctFirst": false}, {"display": "brushed off", "base": "brush off", "correct": "To treat something as unimportant", "wrong": "To delete a video from the internet", "correctFirst": true}, {"display": "sums up", "base": "sum up", "correct": "To capture the whole of something", "wrong": "To start a new argument online", "correctFirst": false}]}], "vocab": [{"verb": "Kick off", "ipa": "/kɪk ɔf/", "def": "To start suddenly and noisily", "ex": ["A loud argument kicked off after the referee's controversial call.", "The concert kicks off at eight o'clock.", "A small joke kicked off a long argument between them."]}, {"verb": "Sort out", "ipa": "/sɔrt aʊt/", "def": "To handle small tasks", "ex": ["The new assistant sorts out simple requests like appointments and emails.", "I need to sort out my closet this weekend.", "She sorted out the schedule before the meeting started."]}, {"verb": "Stand in for", "ipa": "/stænd ɪn fɔr/", "def": "To do something in place of someone", "ex": ["The assistant coach stood in for the manager during the game.", "My sister stood in for me at the meeting yesterday.", "A backup singer will stand in for the star tonight."]}, {"verb": "Blow up", "ipa": "/bloʊ ʌp/", "def": "To suddenly get a lot of attention", "ex": ["The dance video blew up after a celebrity shared it online.", "Her post about the recipe blew up overnight.", "A single tweet can blow up in just a few hours."]}, {"verb": "Sign up", "ipa": "/saɪn ʌp/", "def": "To join a service as a member", "ex": ["Hundreds of students signed up for the free coding workshop.", "You can sign up for the gym online.", "She signed up for the class at the last minute."]}, {"verb": "Turn on", "ipa": "/tɜrn ɑn/", "def": "To suddenly attack someone", "ex": ["Fans quickly turned on the coach after the losing streak.", "The crowd suddenly turned on the referee after the bad call.", "His own team turned on him when the plan failed."]}, {"verb": "Speak out", "ipa": "/spiːk aʊt/", "def": "To say publicly what you think", "ex": ["Several parents spoke out against the new school schedule.", "Employees spoke out against the unfair policy.", "She finally spoke out after staying silent for years."]}, {"verb": "Cut in", "ipa": "/kʌt ɪn/", "def": "To interrupt and take a place", "ex": ["A stranger cut in during our conversation at the party.", "He kept cutting in while she was trying to explain her idea.", "Please do not cut in when someone else is speaking."]}, {"verb": "Put off", "ipa": "/pʊt ɔf/", "def": "To make someone lose interest", "ex": ["The high price put off several buyers at the auction.", "The bad reviews put off many customers.", "Rude service can put off even loyal visitors."]}, {"verb": "Back down", "ipa": "/bæk daʊn/", "def": "To stop defending your position", "ex": ["The union refused to back down during the long strike.", "He refused to back down during the negotiation.", "She backed down after hearing the new evidence."]}, {"verb": "Brush off", "ipa": "/brʌʃ ɔf/", "def": "To treat something as unimportant", "ex": ["The manager brushed off complaints about the noisy machines.", "He brushed off the warning and kept driving fast.", "She brushed off the rumors and kept working."]}, {"verb": "Sum up", "ipa": "/sʌm ʌp/", "def": "To capture the whole of something", "ex": ["That single mistake sums up his whole disappointing season.", "One photo sums up the whole trip perfectly.", "Her speech summed up the team's whole year."]}], "wordDefs": [{"word": "advertisement", "ipa": "/ˌædvərˈtaɪzmənt/", "def": "A short film made to sell a product", "ex": ["The magazine ran a full-page advertisement for the new phone.", "The company paid for an advertisement during the game.", "She skipped the advertisement before the video started."]}, {"word": "assistant", "ipa": "/əˈsɪstənt/", "def": "Something that helps you with daily jobs", "ex": ["The manager hired a new assistant to answer the phones.", "My phone has a voice assistant built in.", "Her assistant booked all of her flights for the trip."]}, {"word": "bookings", "ipa": "/ˈbʊkɪŋz/", "def": "Places or tables kept for you in advance", "ex": ["The hotel confirmed our bookings for the whole week.", "The restaurant took two hundred bookings for the weekend.", "Online bookings for the concert sold out in an hour."]}, {"word": "reminders", "ipa": "/rɪˈmaɪndərz/", "def": "Notes that help you remember to do something", "ex": ["The nurse gave him reminders about taking his medicine.", "I set reminders on my phone for every meeting.", "She keeps written reminders stuck to the fridge."]}, {"word": "clip", "ipa": "/klɪp/", "def": "A very short piece of video", "ex": ["He watched a short clip of the game highlights.", "She shared a funny clip from the show.", "The teacher played a clip from the documentary in class."]}, {"word": "anniversary", "ipa": "/ˌænəˈvɜrsəri/", "def": "The yearly date of an important event", "ex": ["He bought flowers for their anniversary dinner.", "They celebrated their tenth wedding anniversary last week.", "The company marked its fiftieth anniversary with a party."]}, {"word": "views", "ipa": "/vjuːz/", "def": "The number of times a video is watched", "ex": ["The new song already has millions of views online.", "Her channel gets thousands of views every day.", "His short film earned surprising views after just one week."]}, {"word": "replies", "ipa": "/rɪˈplaɪz/", "def": "Answers written under a public message", "ex": ["Her question got dozens of replies within minutes.", "He read all the replies under his post.", "The teacher answered replies from students after class."]}, {"word": "critics", "ipa": "/ˈkrɪtɪks/", "def": "People who say publicly what is wrong", "ex": ["Food critics praised the new restaurant's menu.", "Critics gave the new movie mixed reviews.", "The politician ignored his critics and kept the plan."]}, {"word": "thoughtful", "ipa": "/ˈθɔtfəl/", "def": "Careful about the feelings of other people", "ex": ["She gave a thoughtful answer during the interview.", "He wrote a thoughtful note to his sick friend.", "It was a thoughtful gift that showed he remembered her hobby."]}, {"word": "licensed therapist", "ipa": "/ˈlaɪsənst ˈθɛrəpɪst/", "def": "A trained expert allowed to treat the mind", "ex": ["He finally booked an appointment with a licensed therapist.", "She saw a licensed therapist twice a month.", "A licensed therapist helped the couple communicate better."]}, {"word": "triangulation", "ipa": "/traɪˌæŋɡjəˈleɪʃən/", "def": "Speaking through a third person, not directly", "ex": ["The coach explained triangulation as a way to measure distance.", "The counselor warned the family about triangulation during arguments.", "Friends warned her that triangulation only makes conflicts worse."]}, {"word": "ragebait", "ipa": "/ˈreɪdʒbeɪt/", "def": "Content made to make people angry on purpose", "ex": ["The headline felt like ragebait designed to spark outrage.", "The channel posts ragebait to get more clicks.", "Many viewers avoid channels that only post ragebait."]}, {"word": "allergens", "ipa": "/ˈælərdʒənz/", "def": "Foods that make some people sick", "ex": ["The restaurant marks common allergens on its menu.", "The label lists all the allergens in the recipe.", "She reads every label to avoid hidden allergens."]}, {"word": "tech industry", "ipa": "/tɛk ˈɪndəstri/", "def": "All the companies that make software and devices", "ex": ["Many graduates hope to find jobs in the tech industry.", "The tech industry grows quickly every year.", "The tech industry often faces criticism over privacy issues."]}, {"word": "by text message", "def": "Using text messages, not a call", "ex": ["She confirmed the appointment by text message this morning.", "He prefers to chat with friends by text message.", "The store sent a delivery update by text message."]}, {"word": "in a few days", "def": "After a short period of days", "ex": ["The package should arrive in a few days.", "We will know the test results in a few days.", "He promised to call back in a few days."]}, {"word": "ready to", "def": "Prepared and willing to do something", "ex": ["Are you ready to leave for the airport?", "She felt ready to start her new job.", "The soup is ready to serve."]}, {"word": "that's why", "def": "For that exact reason", "ex": ["He forgot his umbrella, and that's why he got wet.", "The train was late, and that's why we missed the show.", "She studies every night, and that's why her grades improved."]}, {"word": "a form of", "def": "A type or kind of something", "ex": ["Yoga is a form of exercise many people enjoy.", "A handshake is a form of greeting in business.", "Sign language is a form of communication."]}, {"word": "the whole thing", "def": "The entire situation being talked about", "ex": ["He explained the whole thing to his boss calmly.", "She recorded the whole thing on her phone.", "The whole thing took less than an hour to finish."]}, {"word": "rather than", "def": "Instead of another option", "ex": ["She chose tea rather than coffee this morning.", "He walked to work rather than take the bus.", "They decided to save money rather than spend it."]}, {"word": "running into", "def": "Meeting a problem unexpectedly", "ex": ["He keeps running into problems with his new laptop.", "She is running into trouble finishing the report on time.", "The team kept running into delays during the project."]}], "mainIdea": [{"s": "An advertisement for an AI assistant called Orchid showed it standing in for a man who forgot his anniversary. The clip caused a huge backlash, and critics said it sold care without real caring.", "a": true, "why": "The ad reached 3.2 million views and heavy backlash after critics said the assistant was selling a way to look thoughtful without any real caring."}, {"s": "The company quickly deleted the anniversary advertisement after a licensed therapist spoke out against it. Orchid then apologized and promised to build its next ad around a happier couple.", "a": false, "why": "Close, but the company did not delete the anniversary ad or apologize. It left the clip online and quietly removed a different ad about food allergens instead."}, {"s": "A separate AI company this year launched a chatbot that helps couples plan a wedding budget together. The tool books venues and tracks costs, but it does not send messages for either partner.", "a": false, "why": "This story is about a different AI chatbot built for wedding planning, not about the Orchid anniversary advertisement."}], "tf": [{"s": "The argument kicked off on July 28", "a": true, "why": "An argument kicked off on July 28, when a short advertisement for an AI assistant called Orchid appeared online."}, {"s": "The video blew up and reached more than three million views", "a": true, "why": "It reached 3.2 million views and more than 600 replies in a few days."}, {"s": "A licensed therapist spoke out in support of the app", "a": false, "why": "A licensed therapist spoke out too. She warned that texting a machine instead of your partner is a form of triangulation."}, {"s": "The company backed down and deleted the anniversary advertisement", "a": false, "why": "The company has not backed down."}, {"s": "A second advertisement about food allergens was quietly deleted", "a": true, "why": "A second advertisement, which claimed the app could check food for allergens, was quietly deleted."}, {"s": "Some people turned on the company instead of signing up", "a": true, "why": "Many people who had been ready to sign up turned on the company instead."}]}
+{
+  "id": "orchid-ai-relationship-ad-2026",
+  "number": 72,
+  "headline": "An ad about love upsets the internet",
+  "badge": "Culture",
+  "meta": "",
+  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n72-orchid-ai-relationship-ad-2026-flat.webp",
+  "position": "center 55%",
+  "sources": [
+    {
+      "title": "'You literally can't': AI startup Orchid sparks backlash over its 'second brain' assistant",
+      "url": "https://www.euronews.com/culture/2026/08/03/you-literally-cant-ai-startup-orchid-sparks-backlash-over-its-second-brain-assistant"
+    },
+    {
+      "title": "Orchid AI assistant launches, gets backlash for relationship ad",
+      "url": "https://www.fastcompany.com/91581882/orchid-ai-assistant-launches-gets-backlash-for-relationship-ad"
+    },
+    {
+      "title": "'Tech people need to stop': Startup faces backlash after suggesting its AI can save bad relationships",
+      "url": "https://tech.yahoo.com/ai/deals/articles/tech-people-stop-startup-faces-202000866.html"
+    }
+  ],
+  "chunks": [
+    {
+      "text": "An argument {{kicked off}} on July 28, when a short [[advertisement]] for an AI [[assistant]] called Orchid appeared online. The app works [[by text message]] and {{sorts out}} small jobs: [[bookings]], [[reminders]], files. In the [[clip]], a man forgets his [[anniversary]] while he is playing a video game. His partner messages the assistant instead of him, and the assistant {{stands in for}} him by handling the conversation. It books a restaurant and sends lilies, because it remembers that she likes them better than roses.",
+      "verbs": [
+        {
+          "display": "kicked off",
+          "base": "kick off",
+          "correct": "To start suddenly and noisily",
+          "wrong": "To end a video with a joke",
+          "correctFirst": true,
+          "why": "Kick off here means an argument or controversy started suddenly and got loud fast. An argument kicked off on July 28 when a short advertisement for Orchid appeared online."
+        },
+        {
+          "display": "sorts out",
+          "base": "sort out",
+          "correct": "To handle small tasks",
+          "wrong": "To reply to a message very fast",
+          "correctFirst": false,
+          "why": "Sort out means to handle or organize practical tasks so they get done. The Orchid app sorts out small jobs like bookings, reminders, and files by text message."
+        },
+        {
+          "display": "stands in for",
+          "base": "stand in for",
+          "correct": "To do something in place of someone",
+          "wrong": "To send flowers to a partner",
+          "correctFirst": true,
+          "why": "Stand in for means to take someone's place and act for them temporarily. In the ad, the assistant stands in for the man by handling his partner's messages."
+        }
+      ]
+    },
+    {
+      "text": "The video {{blew up}}. It reached 3.2 million [[views]] and more than 600 [[replies]] [[in a few days]]. Many people who had been [[ready to]] {{sign up}} {{turned on}} the company instead. The line that made people angriest was the assistant's own: \"You literally can't. [[That's why]] I'm here.\" Its [[critics]] said the app was selling a way to look [[thoughtful]] without doing any of the caring.",
+      "verbs": [
+        {
+          "display": "blew up",
+          "base": "blow up",
+          "correct": "To suddenly get a lot of attention",
+          "wrong": "To delete a post after an argument",
+          "correctFirst": false,
+          "why": "Blow up means that something suddenly gets huge attention online, often within days. The video blew up, reaching 3.2 million views and more than 600 replies."
+        },
+        {
+          "display": "sign up",
+          "base": "sign up",
+          "correct": "To join a service as a member",
+          "wrong": "To book a table at a restaurant",
+          "correctFirst": true,
+          "why": "Sign up means to officially join a service, usually by creating an account. Many people who had planned to sign up criticized the company instead."
+        },
+        {
+          "display": "turned on",
+          "base": "turn on",
+          "correct": "To suddenly attack someone",
+          "wrong": "To share a video with a friend",
+          "correctFirst": false,
+          "why": "Here turn on means people suddenly attacked or criticized the company instead of supporting it. Be careful: turn on is also very common for switching on a light or a device."
+        }
+      ]
+    },
+    {
+      "text": "A [[licensed therapist]] {{spoke out}} too. She warned that texting a machine instead of your partner is [[a form of]] [[triangulation]]: a third person {{cuts in}} on a conversation that should happen only between the two partners. Some readers said [[the whole thing]] {{put off}} people who had planned to try the app. Others called it [[ragebait]], made to be shared in anger.",
+      "verbs": [
+        {
+          "display": "spoke out",
+          "base": "speak out",
+          "correct": "To say publicly what you think",
+          "wrong": "To answer a message in private",
+          "correctFirst": true,
+          "why": "Speak out means to publicly share your opinion, especially about something concerning. A licensed therapist spoke out too, warning that texting a machine instead of a partner is risky."
+        },
+        {
+          "display": "cuts in",
+          "base": "cut in",
+          "correct": "To interrupt and take a place",
+          "wrong": "To lower the price of an app",
+          "correctFirst": false,
+          "why": "Cut in means to interrupt and insert yourself into something meant for just two people. The therapist said a machine can cut in on a conversation that should stay between partners."
+        },
+        {
+          "display": "put off",
+          "base": "put off",
+          "correct": "To make someone lose interest",
+          "wrong": "To remind someone of a date",
+          "correctFirst": true,
+          "why": "Put off means to make someone lose interest in something they once wanted. Some readers said the whole controversy put off people who had planned to try the app."
+        }
+      ]
+    },
+    {
+      "text": "The company has not {{backed down}}. It said it wanted a story built around a real situation [[rather than]] a normal product video, and it {{brushed off}} the criticism by leaving the clip online. A second advertisement, which claimed the app could check food for [[allergens]], was quietly deleted. The fight {{sums up}} a question the [[tech industry]] keeps [[running into]]: people will let software book a table, but they do not want it to do the caring for them.",
+      "verbs": [
+        {
+          "display": "backed down",
+          "base": "back down",
+          "correct": "To stop defending your position",
+          "wrong": "To repeat a claim more loudly",
+          "correctFirst": false,
+          "why": "Back down means to abandon your position after facing pressure or criticism. The company has not backed down, and it left the controversial ad online."
+        },
+        {
+          "display": "brushed off",
+          "base": "brush off",
+          "correct": "To treat something as unimportant",
+          "wrong": "To delete a video from the internet",
+          "correctFirst": true,
+          "why": "Brush off means to treat criticism as unimportant and simply ignore it. Orchid brushed off the criticism by leaving the ad online rather than removing it."
+        },
+        {
+          "display": "sums up",
+          "base": "sum up",
+          "correct": "To capture the whole of something",
+          "wrong": "To start a new argument online",
+          "correctFirst": false,
+          "why": "Sum up means to capture the whole meaning of a bigger situation in one moment. This fight sums up a real tension: people accept AI booking a table, not doing their emotional work."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Kick off",
+      "ipa": "/kɪk ɔf/",
+      "def": "To start suddenly and noisily",
+      "ex": [
+        "A loud argument kicked off after the referee's controversial call.",
+        "The concert kicks off at eight o'clock.",
+        "A small joke kicked off a long argument between them."
+      ]
+    },
+    {
+      "verb": "Sort out",
+      "ipa": "/sɔrt aʊt/",
+      "def": "To handle small tasks",
+      "ex": [
+        "The new assistant sorts out simple requests like appointments and emails.",
+        "I need to sort out my closet this weekend.",
+        "She sorted out the schedule before the meeting started."
+      ]
+    },
+    {
+      "verb": "Stand in for",
+      "ipa": "/stænd ɪn fɔr/",
+      "def": "To do something in place of someone",
+      "ex": [
+        "The assistant coach stood in for the manager during the game.",
+        "My sister stood in for me at the meeting yesterday.",
+        "A backup singer will stand in for the star tonight."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "ipa": "/bloʊ ʌp/",
+      "def": "To suddenly get a lot of attention",
+      "ex": [
+        "The dance video blew up after a celebrity shared it online.",
+        "Her post about the recipe blew up overnight.",
+        "A single tweet can blow up in just a few hours."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "ipa": "/saɪn ʌp/",
+      "def": "To join a service as a member",
+      "ex": [
+        "Hundreds of students signed up for the free coding workshop.",
+        "You can sign up for the gym online.",
+        "She signed up for the class at the last minute."
+      ]
+    },
+    {
+      "verb": "Turn on",
+      "ipa": "/tɜrn ɑn/",
+      "def": "To suddenly attack someone",
+      "ex": [
+        "Fans quickly turned on the coach after the losing streak.",
+        "The crowd suddenly turned on the referee after the bad call.",
+        "His own team turned on him when the plan failed."
+      ]
+    },
+    {
+      "verb": "Speak out",
+      "ipa": "/spiːk aʊt/",
+      "def": "To say publicly what you think",
+      "ex": [
+        "Several parents spoke out against the new school schedule.",
+        "Employees spoke out against the unfair policy.",
+        "She finally spoke out after staying silent for years."
+      ]
+    },
+    {
+      "verb": "Cut in",
+      "ipa": "/kʌt ɪn/",
+      "def": "To interrupt and take a place",
+      "ex": [
+        "A stranger cut in during our conversation at the party.",
+        "He kept cutting in while she was trying to explain her idea.",
+        "Please do not cut in when someone else is speaking."
+      ]
+    },
+    {
+      "verb": "Put off",
+      "ipa": "/pʊt ɔf/",
+      "def": "To make someone lose interest",
+      "ex": [
+        "The high price put off several buyers at the auction.",
+        "The bad reviews put off many customers.",
+        "Rude service can put off even loyal visitors."
+      ]
+    },
+    {
+      "verb": "Back down",
+      "ipa": "/bæk daʊn/",
+      "def": "To stop defending your position",
+      "ex": [
+        "The union refused to back down during the long strike.",
+        "He refused to back down during the negotiation.",
+        "She backed down after hearing the new evidence."
+      ]
+    },
+    {
+      "verb": "Brush off",
+      "ipa": "/brʌʃ ɔf/",
+      "def": "To treat something as unimportant",
+      "ex": [
+        "The manager brushed off complaints about the noisy machines.",
+        "He brushed off the warning and kept driving fast.",
+        "She brushed off the rumors and kept working."
+      ]
+    },
+    {
+      "verb": "Sum up",
+      "ipa": "/sʌm ʌp/",
+      "def": "To capture the whole of something",
+      "ex": [
+        "That single mistake sums up his whole disappointing season.",
+        "One photo sums up the whole trip perfectly.",
+        "Her speech summed up the team's whole year."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "advertisement",
+      "ipa": "/ˌædvərˈtaɪzmənt/",
+      "def": "A short film made to sell a product",
+      "ex": [
+        "The magazine ran a full-page advertisement for the new phone.",
+        "The company paid for an advertisement during the game.",
+        "She skipped the advertisement before the video started."
+      ]
+    },
+    {
+      "word": "assistant",
+      "ipa": "/əˈsɪstənt/",
+      "def": "Something that helps you with daily jobs",
+      "ex": [
+        "The manager hired a new assistant to answer the phones.",
+        "My phone has a voice assistant built in.",
+        "Her assistant booked all of her flights for the trip."
+      ]
+    },
+    {
+      "word": "bookings",
+      "ipa": "/ˈbʊkɪŋz/",
+      "def": "Places or tables kept for you in advance",
+      "ex": [
+        "The hotel confirmed our bookings for the whole week.",
+        "The restaurant took two hundred bookings for the weekend.",
+        "Online bookings for the concert sold out in an hour."
+      ]
+    },
+    {
+      "word": "reminders",
+      "ipa": "/rɪˈmaɪndərz/",
+      "def": "Notes that help you remember to do something",
+      "ex": [
+        "The nurse gave him reminders about taking his medicine.",
+        "I set reminders on my phone for every meeting.",
+        "She keeps written reminders stuck to the fridge."
+      ]
+    },
+    {
+      "word": "clip",
+      "ipa": "/klɪp/",
+      "def": "A very short piece of video",
+      "ex": [
+        "He watched a short clip of the game highlights.",
+        "She shared a funny clip from the show.",
+        "The teacher played a clip from the documentary in class."
+      ]
+    },
+    {
+      "word": "anniversary",
+      "ipa": "/ˌænəˈvɜrsəri/",
+      "def": "The yearly date of an important event",
+      "ex": [
+        "He bought flowers for their anniversary dinner.",
+        "They celebrated their tenth wedding anniversary last week.",
+        "The company marked its fiftieth anniversary with a party."
+      ]
+    },
+    {
+      "word": "views",
+      "ipa": "/vjuːz/",
+      "def": "The number of times a video is watched",
+      "ex": [
+        "The new song already has millions of views online.",
+        "Her channel gets thousands of views every day.",
+        "His short film earned surprising views after just one week."
+      ]
+    },
+    {
+      "word": "replies",
+      "ipa": "/rɪˈplaɪz/",
+      "def": "Answers written under a public message",
+      "ex": [
+        "Her question got dozens of replies within minutes.",
+        "He read all the replies under his post.",
+        "The teacher answered replies from students after class."
+      ]
+    },
+    {
+      "word": "critics",
+      "ipa": "/ˈkrɪtɪks/",
+      "def": "People who say publicly what is wrong",
+      "ex": [
+        "Food critics praised the new restaurant's menu.",
+        "Critics gave the new movie mixed reviews.",
+        "The politician ignored his critics and kept the plan."
+      ]
+    },
+    {
+      "word": "thoughtful",
+      "ipa": "/ˈθɔtfəl/",
+      "def": "Careful about the feelings of other people",
+      "ex": [
+        "She gave a thoughtful answer during the interview.",
+        "He wrote a thoughtful note to his sick friend.",
+        "It was a thoughtful gift that showed he remembered her hobby."
+      ]
+    },
+    {
+      "word": "licensed therapist",
+      "ipa": "/ˈlaɪsənst ˈθɛrəpɪst/",
+      "def": "A trained expert allowed to treat the mind",
+      "ex": [
+        "He finally booked an appointment with a licensed therapist.",
+        "She saw a licensed therapist twice a month.",
+        "A licensed therapist helped the couple communicate better."
+      ]
+    },
+    {
+      "word": "triangulation",
+      "ipa": "/traɪˌæŋɡjəˈleɪʃən/",
+      "def": "Speaking through a third person, not directly",
+      "ex": [
+        "The coach explained triangulation as a way to measure distance.",
+        "The counselor warned the family about triangulation during arguments.",
+        "Friends warned her that triangulation only makes conflicts worse."
+      ]
+    },
+    {
+      "word": "ragebait",
+      "ipa": "/ˈreɪdʒbeɪt/",
+      "def": "Content made to make people angry on purpose",
+      "ex": [
+        "The headline felt like ragebait designed to spark outrage.",
+        "The channel posts ragebait to get more clicks.",
+        "Many viewers avoid channels that only post ragebait."
+      ]
+    },
+    {
+      "word": "allergens",
+      "ipa": "/ˈælərdʒənz/",
+      "def": "Foods that make some people sick",
+      "ex": [
+        "The restaurant marks common allergens on its menu.",
+        "The label lists all the allergens in the recipe.",
+        "She reads every label to avoid hidden allergens."
+      ]
+    },
+    {
+      "word": "tech industry",
+      "ipa": "/tɛk ˈɪndəstri/",
+      "def": "All the companies that make software and devices",
+      "ex": [
+        "Many graduates hope to find jobs in the tech industry.",
+        "The tech industry grows quickly every year.",
+        "The tech industry often faces criticism over privacy issues."
+      ]
+    },
+    {
+      "word": "by text message",
+      "def": "Using text messages, not a call",
+      "ex": [
+        "She confirmed the appointment by text message this morning.",
+        "He prefers to chat with friends by text message.",
+        "The store sent a delivery update by text message."
+      ]
+    },
+    {
+      "word": "in a few days",
+      "def": "After a short period of days",
+      "ex": [
+        "The package should arrive in a few days.",
+        "We will know the test results in a few days.",
+        "He promised to call back in a few days."
+      ]
+    },
+    {
+      "word": "ready to",
+      "def": "Prepared and willing to do something",
+      "ex": [
+        "Are you ready to leave for the airport?",
+        "She felt ready to start her new job.",
+        "The soup is ready to serve."
+      ]
+    },
+    {
+      "word": "that's why",
+      "def": "For that exact reason",
+      "ex": [
+        "He forgot his umbrella, and that's why he got wet.",
+        "The train was late, and that's why we missed the show.",
+        "She studies every night, and that's why her grades improved."
+      ]
+    },
+    {
+      "word": "a form of",
+      "def": "A type or kind of something",
+      "ex": [
+        "Yoga is a form of exercise many people enjoy.",
+        "A handshake is a form of greeting in business.",
+        "Sign language is a form of communication."
+      ]
+    },
+    {
+      "word": "the whole thing",
+      "def": "The entire situation being talked about",
+      "ex": [
+        "He explained the whole thing to his boss calmly.",
+        "She recorded the whole thing on her phone.",
+        "The whole thing took less than an hour to finish."
+      ]
+    },
+    {
+      "word": "rather than",
+      "def": "Instead of another option",
+      "ex": [
+        "She chose tea rather than coffee this morning.",
+        "He walked to work rather than take the bus.",
+        "They decided to save money rather than spend it."
+      ]
+    },
+    {
+      "word": "running into",
+      "def": "Meeting a problem unexpectedly",
+      "ex": [
+        "He keeps running into problems with his new laptop.",
+        "She is running into trouble finishing the report on time.",
+        "The team kept running into delays during the project."
+      ]
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "An advertisement for an AI assistant called Orchid showed it standing in for a man who forgot his anniversary. The clip caused a huge backlash, and critics said it sold care without real caring.",
+      "a": true,
+      "why": "The ad reached 3.2 million views and heavy backlash after critics said the assistant was selling a way to look thoughtful without any real caring."
+    },
+    {
+      "s": "The company quickly deleted the anniversary advertisement after a licensed therapist spoke out against it. Orchid then apologized and promised to build its next ad around a happier couple.",
+      "a": false,
+      "why": "Close, but the company did not delete the anniversary ad or apologize. It left the clip online and quietly removed a different ad about food allergens instead."
+    },
+    {
+      "s": "A separate AI company this year launched a chatbot that helps couples plan a wedding budget together. The tool books venues and tracks costs, but it does not send messages for either partner.",
+      "a": false,
+      "why": "This story is about a different AI chatbot built for wedding planning, not about the Orchid anniversary advertisement."
+    }
+  ],
+  "tf": [
+    {
+      "s": "The argument kicked off on July 28",
+      "a": true,
+      "why": "An argument kicked off on July 28, when a short advertisement for an AI assistant called Orchid appeared online."
+    },
+    {
+      "s": "The video blew up and reached more than three million views",
+      "a": true,
+      "why": "It reached 3.2 million views and more than 600 replies in a few days."
+    },
+    {
+      "s": "A licensed therapist spoke out in support of the app",
+      "a": false,
+      "why": "A licensed therapist spoke out too. She warned that texting a machine instead of your partner is a form of triangulation."
+    },
+    {
+      "s": "The company backed down and deleted the anniversary advertisement",
+      "a": false,
+      "why": "The company has not backed down."
+    },
+    {
+      "s": "A second advertisement about food allergens was quietly deleted",
+      "a": true,
+      "why": "A second advertisement, which claimed the app could check food for allergens, was quietly deleted."
+    },
+    {
+      "s": "Some people turned on the company instead of signing up",
+      "a": true,
+      "why": "Many people who had been ready to sign up turned on the company instead."
+    }
+  ]
+}
