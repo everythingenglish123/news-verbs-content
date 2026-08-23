@@ -1,512 +1,512 @@
 {
-  "id": "ai-slop-flood-2026",
-  "number": 88,
-  "headline": "AI slop is flooding your feed, and it pays",
-  "badge": "Technology",
-  "meta": "",
-  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n88-ai-slop-flood-2026-flat.webp",
-  "position": "center 45%",
-  "sources": [
+ "id": "ai-slop-flood-2026",
+ "number": 88,
+ "headline": "AI slop is flooding your feed, and it pays",
+ "badge": "Technology",
+ "meta": "",
+ "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n88-ai-slop-flood-2026-flat.webp",
+ "position": "center 45%",
+ "sources": [
+  {
+   "title": "What is AI slop? Why you are seeing more fake photos and videos in your feeds (The Conversation)",
+   "url": "https://theconversation.com/what-is-ai-slop-why-you-are-seeing-more-fake-photos-and-videos-in-your-social-media-feeds-255538"
+  },
+  {
+   "title": "AI slop's meteoric rise and the impact of synthetic content in 2026 (Digital Watch Observatory)",
+   "url": "https://dig.watch/updates/ai-slop-content-social-media"
+  },
+  {
+   "title": "AI Slop won in 2025 - fingerprinting real content might be the answer in 2026 (TechRadar)",
+   "url": "https://www.techradar.com/ai-platforms-assistants/ai-slop-won-in-2025-fingerprinting-real-content-might-be-the-answer-in-2026"
+  },
+  {
+   "title": "AI Slop Is Destroying The Internet (video, Kurzgesagt)",
+   "url": "https://www.youtube.com/watch?v=_zfN9wnPvU0"
+  }
+ ],
+ "chunks": [
+  {
+   "text": "A bear doing a [[backflip]] on a trampoline. A baby made of spaghetti. A famous actor celebrating his 1800th birthday. None of it is real, but it is everywhere. [[Critics]] call it [[AI slop]]: cheap, strange [[content]] created by [[artificial intelligence]] in seconds. New AI tools can {{pump out}} this [[material]] faster than any human could type, and the fake posts now {{clog up}} feeds on every major app.",
+   "verbs": [
     {
-      "title": "What is AI slop? Why you are seeing more fake photos and videos in your feeds (The Conversation)",
-      "url": "https://theconversation.com/what-is-ai-slop-why-you-are-seeing-more-fake-photos-and-videos-in-your-social-media-feeds-255538"
+     "display": "pump out",
+     "base": "pump out",
+     "correct": "To produce quickly in large amounts",
+     "wrong": "To check slowly for mistakes",
+     "correctFirst": true,
+     "why": "A factory can pump out a thousand toys an hour, and a busy kitchen can pump out fresh bread all morning. New AI tools now pump out fake photos and videos faster than any person could type."
     },
     {
-      "title": "AI slop's meteoric rise and the impact of synthetic content in 2026 (Digital Watch Observatory)",
-      "url": "https://dig.watch/updates/ai-slop-content-social-media"
-    },
-    {
-      "title": "AI Slop won in 2025 - fingerprinting real content might be the answer in 2026 (TechRadar)",
-      "url": "https://www.techradar.com/ai-platforms-assistants/ai-slop-won-in-2025-fingerprinting-real-content-might-be-the-answer-in-2026"
-    },
-    {
-      "title": "AI Slop Is Destroying The Internet (video, Kurzgesagt)",
-      "url": "https://www.youtube.com/watch?v=_zfN9wnPvU0"
+     "display": "clog up",
+     "base": "clog up",
+     "correct": "To block something so it cannot flow",
+     "wrong": "To clean something completely",
+     "correctFirst": false,
+     "why": "Fallen leaves clog up a drain after a storm, and holiday traffic clogs up the highway every year. Now these fake posts clog up feeds on every major app, leaving little room for anything real."
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "text": "Why does the internet [[drown]] in slop? Because it pays. Millions of people {{fall for}} the fake photos and share them, and every click means [[advertising]] money. Big [[platforms]] reward popular posts with real payments, so slop [[factories]] treat fake content like a business: it costs almost nothing to make, and one viral [[hit]] can {{rake in}} more than a month of honest work. One writer described slop as [[clickbait]] with a brain. The [[algorithm]] cannot tell the difference, and often it does not care.",
+   "verbs": [
     {
-      "text": "A bear doing a [[backflip]] on a trampoline. A baby made of spaghetti. A famous actor celebrating his 1800th birthday. None of it is real, but it is everywhere. [[Critics]] call it [[AI slop]]: cheap, strange [[content]] created by [[artificial intelligence]] in seconds. New AI tools can {{pump out}} this [[material]] faster than any human could type, and the fake posts now {{clog up}} feeds on every major app.",
-      "verbs": [
-        {
-          "display": "pump out",
-          "base": "pump out",
-          "correct": "To produce quickly in large amounts",
-          "wrong": "To check slowly for mistakes",
-          "correctFirst": true,
-          "why": "Pump out means to produce something quickly and in huge amounts, often with little attention to quality. AI tools can pump out fake photos and videos faster than any person could type."
-        },
-        {
-          "display": "clog up",
-          "base": "clog up",
-          "correct": "To block something so it cannot flow",
-          "wrong": "To clean something completely",
-          "correctFirst": false,
-          "why": "Clog up means to block a space until almost nothing can pass through, like old emails clogging up an inbox. Here the fake posts clog up people's feeds on every app."
-        }
-      ]
+     "display": "fall for",
+     "base": "fall for",
+     "correct": "To believe a trick is real",
+     "wrong": "To pay too much for something",
+     "correctFirst": true,
+     "why": "Grandparents sometimes fall for a phone scam, and shoppers fall for an ad that promises free money. Millions of people fall for these fake AI photos and share them without a second thought."
     },
     {
-      "text": "Why does the internet [[drown]] in slop? Because it pays. Millions of people {{fall for}} the fake photos and share them, and every click means [[advertising]] money. Big [[platforms]] reward popular posts with real payments, so slop [[factories]] treat fake content like a business: it costs almost nothing to make, and one viral [[hit]] can {{rake in}} more than a month of honest work. One writer described slop as [[clickbait]] with a brain. The [[algorithm]] cannot tell the difference, and often it does not care.",
-      "verbs": [
-        {
-          "display": "fall for",
-          "base": "fall for",
-          "correct": "To believe a trick is real",
-          "wrong": "To pay too much for something",
-          "correctFirst": true,
-          "why": "You fall for something when you believe a trick or a lie without noticing it is fake. Millions of people fall for AI photos that show events which never happened."
-        },
-        {
-          "display": "rake in",
-          "base": "rake in",
-          "correct": "To earn a lot of money quickly",
-          "wrong": "To spend money without thinking",
-          "correctFirst": false,
-          "why": "Rake in describes earning a large amount of money fast and with surprisingly little effort. One viral fake post can rake in more cash than a month of honest work."
-        }
-      ]
-    },
-    {
-      "text": "The good news: most slop still makes mistakes, and those mistakes {{give away}} the fakes. Look closely and you may find hands with six fingers, [[shadows]] pointing in different directions, or [[background]] details that simply do not {{add up}}. Experts say readers should {{look out for}} strange hands, [[melted]] letters, and too-perfect faces, and always check the original [[sources]] before believing a photo.",
-      "verbs": [
-        {
-          "display": "give away",
-          "base": "give away",
-          "correct": "To show the hidden truth about something",
-          "wrong": "To make something look expensive",
-          "correctFirst": false,
-          "why": "When small details give something away, they quietly reveal a truth nobody meant to show. Odd shadows or extra fingers give away a photo made by AI."
-        },
-        {
-          "display": "add up",
-          "base": "add up",
-          "correct": "To make sense as a whole",
-          "wrong": "To happen at the same time",
-          "correctFirst": true,
-          "why": "Add up means the separate parts of something fit together in a way that makes sense. When the background of a photo does not add up, you are likely looking at a fake."
-        },
-        {
-          "display": "look out for",
-          "base": "look out for",
-          "correct": "To watch carefully for something",
-          "wrong": "To fix something before it breaks",
-          "correctFirst": false,
-          "why": "Look out for means to stay alert for a specific sign so you notice it right away. Experts want readers to look out for strange hands, melted letters, and faces that look too perfect."
-        }
-      ]
-    },
-    {
-      "text": "Some [[accounts]] posting slop have millions of followers, and companies promise to {{crack down on}} the worst [[offenders]]. But as long as fake [[views]] earn real money, the [[flood]] will not {{die down}} soon. Until then, the best defense costs nothing: when a video looks too strange to be true, just {{scroll past}} without a second look. Every [[ignored]] fake makes slop a little less [[profitable]].",
-      "verbs": [
-        {
-          "display": "crack down on",
-          "base": "crack down on",
-          "correct": "To start punishing rule-breakers",
-          "wrong": "To quietly ignore a problem",
-          "correctFirst": true,
-          "why": "Crack down on means to start punishing people who break the rules, usually after a problem has grown serious. Platforms have promised to crack down on the accounts posting the worst fakes."
-        },
-        {
-          "display": "die down",
-          "base": "die down",
-          "correct": "To become weaker or quieter",
-          "wrong": "To spread to new places",
-          "correctFirst": true,
-          "why": "Die down describes something intense slowly losing its energy and fading, like a storm or a fire. As long as fake views earn real money, the flood of slop will not die down soon."
-        },
-        {
-          "display": "scroll past",
-          "base": "scroll past",
-          "correct": "To skip something on a screen",
-          "wrong": "To share something with friends",
-          "correctFirst": false,
-          "why": "Scroll past means to keep moving through a feed without stopping to examine something closely. The easiest defense against slop is simply to scroll past anything that looks too strange to be real."
-        }
-      ]
+     "display": "rake in",
+     "base": "rake in",
+     "correct": "To earn a lot of money quickly",
+     "wrong": "To spend money without thinking",
+     "correctFirst": false,
+     "why": "A hit movie can rake in millions in one weekend, and an ice cream shop can rake in cash during a heat wave. Here one viral fake post can rake in more money than a month of honest work."
     }
-  ],
-  "vocab": [
+   ]
+  },
+  {
+   "text": "The good news: most slop still makes mistakes, and those mistakes {{give away}} the fakes. Look closely and you may find hands with six fingers, [[shadows]] pointing in different directions, or [[background]] details that simply do not {{add up}}. Experts say readers should {{look out for}} strange hands, [[melted]] letters, and too-perfect faces, and always check the original [[sources]] before believing a photo.",
+   "verbs": [
     {
-      "verb": "Pump out",
-      "ipa": "/pʌmp aʊt/",
-      "def": "To produce quickly in large amounts",
-      "ex": [
-        "The factory pumps out a thousand toys an hour.",
-        "That studio pumped out three movies this year.",
-        "His kitchen pumps out fresh bread all morning."
-      ]
+     "display": "give away",
+     "base": "give away",
+     "correct": "To show the hidden truth about something",
+     "wrong": "To make something look expensive",
+     "correctFirst": false,
+     "why": "Shaking hands can give away a person's nerves, and a small smile can give away a hidden secret. Here strange shadows and extra fingers give away a photo that was never real."
     },
     {
-      "verb": "Clog up",
-      "ipa": "/klɑɡ ʌp/",
-      "def": "To block something so it cannot flow",
-      "ex": [
-        "Leaves clogged up the drain again.",
-        "Holiday traffic clogs up the highway.",
-        "Old emails clog up my inbox."
-      ]
+     "display": "add up",
+     "base": "add up",
+     "correct": "To make sense as a whole",
+     "wrong": "To happen at the same time",
+     "correctFirst": true,
+     "why": "A messy story about a broken window does not always add up, and a set of receipts should always add up at the end. In a fake photo, background details often do not add up, and that is how careful readers spot them."
     },
     {
-      "verb": "Fall for",
-      "ipa": "/fɔl fɔr/",
-      "def": "To believe a trick is real",
-      "ex": [
-        "Grandpa fell for the phone scam.",
-        "Do not fall for ads that promise free money.",
-        "I almost fell for the fake email from the bank."
-      ]
-    },
-    {
-      "verb": "Rake in",
-      "ipa": "/reɪk ɪn/",
-      "def": "To earn a lot of money quickly",
-      "ex": [
-        "The movie raked in millions on its first weekend.",
-        "Ice cream shops rake in cash during heat waves.",
-        "Her simple game app rakes in steady money."
-      ]
-    },
-    {
-      "verb": "Give away",
-      "ipa": "/ɡɪv əˈweɪ/",
-      "def": "To show the hidden truth about something",
-      "ex": [
-        "His shaking hands gave away his fear.",
-        "The wrapping paper gave away the surprise.",
-        "A small smile gave her away."
-      ]
-    },
-    {
-      "verb": "Add up",
-      "ipa": "/æd ʌp/",
-      "def": "To make sense as a whole",
-      "ex": [
-        "His story about the broken window does not add up.",
-        "The clues finally added up for the detective.",
-        "Her excuse did not add up, and Mom knew it."
-      ]
-    },
-    {
-      "verb": "Look out for",
-      "ipa": "/lʊk aʊt fɔr/",
-      "def": "To watch carefully for something",
-      "ex": [
-        "Look out for deer on this road at night.",
-        "Shoppers should look out for false price tags.",
-        "Lifeguards look out for swimmers in trouble."
-      ]
-    },
-    {
-      "verb": "Crack down on",
-      "ipa": "/kræk daʊn ɑn/",
-      "def": "To start punishing rule-breakers",
-      "ex": [
-        "The city cracked down on illegal parking.",
-        "Schools are cracking down on phone use in class.",
-        "Police cracked down on speeding near the park."
-      ]
-    },
-    {
-      "verb": "Die down",
-      "ipa": "/daɪ daʊn/",
-      "def": "To become weaker or quieter",
-      "ex": [
-        "The wind died down after midnight.",
-        "Wait for the laughter to die down before speaking.",
-        "The excitement died down by Monday."
-      ]
-    },
-    {
-      "verb": "Scroll past",
-      "ipa": "/skroʊl pæst/",
-      "def": "To skip something on a screen",
-      "ex": [
-        "I scroll past every ad without reading it.",
-        "She scrolled past the sad news for something funny.",
-        "Just scroll past posts that make you angry."
-      ]
+     "display": "look out for",
+     "base": "look out for",
+     "correct": "To watch carefully for something",
+     "wrong": "To fix something before it breaks",
+     "correctFirst": false,
+     "why": "Drivers look out for deer at night, and shoppers look out for fake price tags on sale days. Experts want readers to look out for strange hands, melted letters, and faces that look too perfect."
     }
-  ],
-  "wordDefs": [
+   ]
+  },
+  {
+   "text": "Some [[accounts]] posting slop have millions of followers, and companies promise to {{crack down on}} the worst [[offenders]]. But as long as fake [[views]] earn real money, the [[flood]] will not {{die down}} soon. Until then, the best defense costs nothing: when a video looks too strange to be true, just {{scroll past}} without a second look. Every [[ignored]] fake makes slop a little less [[profitable]].",
+   "verbs": [
     {
-      "word": "AI slop",
-      "ipa": "/eɪ aɪ slɑp/",
-      "def": "Cheap, low-quality content made fast by AI",
-      "ex": [
-        "The bear video was classic AI slop.",
-        "AI slop fills my feed every morning.",
-        "He can spot AI slop in two seconds."
-      ]
+     "display": "crack down on",
+     "base": "crack down on",
+     "correct": "To start punishing rule-breakers",
+     "wrong": "To quietly ignore a problem",
+     "correctFirst": true,
+     "why": "Police crack down on speeding drivers near schools, and cities crack down on illegal parking downtown. Big platforms now promise to crack down on the accounts that post the worst fake content."
     },
     {
-      "word": "content",
-      "ipa": "/ˈkɑntɛnt/",
-      "def": "Videos, photos, and posts shared online",
-      "ex": [
-        "She posts new content every Friday.",
-        "Funny content spreads the fastest.",
-        "The channel needs fresh content to grow."
-      ]
+     "display": "die down",
+     "base": "die down",
+     "correct": "To become weaker or quieter",
+     "wrong": "To spread to new places",
+     "correctFirst": true,
+     "why": "Strong wind usually dies down by morning, and loud laughter dies down once the joke gets old. As long as fake views earn real money, this flood of AI content will not die down soon."
     },
     {
-      "word": "advertising",
-      "ipa": "/ˈædvərtaɪzɪŋ/",
-      "def": "Paid messages that sell products",
-      "ex": [
-        "The team earns millions from advertising.",
-        "Advertising pays for most free apps.",
-        "Her face appeared in a soda advertising campaign."
-      ]
-    },
-    {
-      "word": "platforms",
-      "ipa": "/ˈplætfɔrmz/",
-      "def": "Big apps and websites where people post",
-      "ex": [
-        "Video platforms compete for young users.",
-        "The dance spread across all the platforms.",
-        "Some platforms pay creators for popular posts."
-      ]
-    },
-    {
-      "word": "clickbait",
-      "ipa": "/ˈklɪkbeɪt/",
-      "def": "Content designed only to make you click",
-      "ex": [
-        "The shocking headline was pure clickbait.",
-        "Clickbait titles rarely keep their promises.",
-        "He stopped clicking on clickbait years ago."
-      ]
-    },
-    {
-      "word": "algorithm",
-      "ipa": "/ˈælɡərɪðəm/",
-      "def": "The computer rules that choose what you see",
-      "ex": [
-        "The algorithm learned that she loves cat videos.",
-        "A new algorithm changed everyone's feed overnight.",
-        "The algorithm rewards posts that people share."
-      ]
-    },
-    {
-      "word": "sources",
-      "ipa": "/ˈsɔrsɪz/",
-      "def": "The people or places information comes from",
-      "ex": [
-        "Good reporters name their sources.",
-        "Check two sources before sharing news.",
-        "The photo had no clear sources, so she doubted it."
-      ]
-    },
-    {
-      "word": "accounts",
-      "ipa": "/əˈkaʊnts/",
-      "def": "Personal pages people use on an app",
-      "ex": [
-        "Some accounts post a hundred times a day.",
-        "The app deleted thousands of fake accounts.",
-        "She follows only twenty accounts."
-      ]
-    },
-    {
-      "word": "views",
-      "ipa": "/vjuz/",
-      "def": "The number of times something is watched",
-      "ex": [
-        "The video reached a million views in a day.",
-        "More views mean more money for creators.",
-        "His best clip has very few views."
-      ]
-    },
-    {
-      "word": "flood",
-      "ipa": "/flʌd/",
-      "def": "A very large amount arriving at once",
-      "ex": [
-        "A flood of messages arrived after the show.",
-        "The store faced a flood of holiday orders.",
-        "There was a flood of complaints about the change."
-      ]
-    },
-    {
-      "word": "backflip",
-      "ipa": "/ˈbækflɪp/",
-      "def": "A jump where the body turns fully backward",
-      "ex": [
-        "The gymnast landed a perfect backflip.",
-        "He learned a backflip on the trampoline.",
-        "Doing a backflip on concrete is dangerous."
-      ]
-    },
-    {
-      "word": "Critics",
-      "ipa": "/ˈkrɪtɪks/",
-      "def": "People who judge things publicly",
-      "ex": [
-        "Critics loved the quiet little film.",
-        "The chef ignores his critics.",
-        "Critics called the plan too expensive."
-      ]
-    },
-    {
-      "word": "artificial intelligence",
-      "ipa": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
-      "def": "Computer systems that can think and create",
-      "ex": [
-        "Artificial intelligence now writes music.",
-        "The hospital uses artificial intelligence to read scans.",
-        "Artificial intelligence needs huge amounts of data."
-      ]
-    },
-    {
-      "word": "material",
-      "ipa": "/məˈtɪriəl/",
-      "def": "Content made for people to watch or read",
-      "ex": [
-        "The comedian tests new material in small clubs.",
-        "The course material covers ten lessons.",
-        "Her trip gave her material for three videos."
-      ]
-    },
-    {
-      "word": "drown",
-      "ipa": "/draʊn/",
-      "def": "To be covered by far too much of something",
-      "ex": [
-        "Small shops drown in paperwork.",
-        "My inbox drowns in newsletters every Monday.",
-        "Quiet voices drown in all that noise."
-      ]
-    },
-    {
-      "word": "factories",
-      "ipa": "/ˈfæktəriz/",
-      "def": "Places that produce things in large amounts",
-      "ex": [
-        "The factories run day and night.",
-        "Car factories employ half the town.",
-        "Old factories became apartments."
-      ]
-    },
-    {
-      "word": "hit",
-      "ipa": "/hɪt/",
-      "def": "Something that becomes very popular",
-      "ex": [
-        "The song was the hit of the summer.",
-        "Her cake stand is a hit at the market.",
-        "The show became a surprise hit."
-      ]
-    },
-    {
-      "word": "shadows",
-      "ipa": "/ˈʃædoʊz/",
-      "def": "Dark shapes made when light is blocked",
-      "ex": [
-        "The trees threw long shadows at sunset.",
-        "Shadows moved across the stage.",
-        "The cat chased shadows on the wall."
-      ]
-    },
-    {
-      "word": "melted",
-      "ipa": "/ˈmɛltɪd/",
-      "def": "Softened and out of shape from heat",
-      "ex": [
-        "The melted ice cream ran down the cone.",
-        "Melted cheese covered the bread.",
-        "The candle left melted wax on the table."
-      ]
-    },
-    {
-      "word": "background",
-      "ipa": "/ˈbækɡraʊnd/",
-      "def": "The area behind the main subject",
-      "ex": [
-        "Mountains filled the photo's background.",
-        "Someone waved in the background of the video.",
-        "The background of the painting is gold."
-      ]
-    },
-    {
-      "word": "offenders",
-      "ipa": "/əˈfɛndərz/",
-      "def": "People who break rules or laws",
-      "ex": [
-        "Repeat offenders lose their licenses.",
-        "The school warned the worst offenders.",
-        "Parking offenders pay fifty dollars."
-      ]
-    },
-    {
-      "word": "profitable",
-      "ipa": "/ˈprɑfətəbəl/",
-      "def": "Making more money than it costs",
-      "ex": [
-        "The bakery finally became profitable.",
-        "Streaming is profitable for the biggest stars.",
-        "Solar farms are profitable in sunny regions."
-      ]
-    },
-    {
-      "word": "ignored",
-      "ipa": "/ɪɡˈnɔrd/",
-      "def": "Given no attention on purpose",
-      "ex": [
-        "The warning was ignored for years.",
-        "She ignored the rude comment.",
-        "An ignored problem usually grows."
-      ]
+     "display": "scroll past",
+     "base": "scroll past",
+     "correct": "To skip something on a screen",
+     "wrong": "To share something with friends",
+     "correctFirst": false,
+     "why": "Use scroll past for a quick habit on a phone, moving through post after post without stopping to look closely. The simplest defense against a fake video is to scroll past it, since every ignored fake earns less money for its maker."
     }
-  ],
-  "mainIdea": [
-    {
-      "s": "Cheap AI-made photos and videos are flooding social media because they earn advertising money. Experts explain how to spot the fakes and why the problem will continue.",
-      "a": true,
-      "why": "Slop is almost free to make, platforms reward popular posts, and mistakes like strange hands still give away the fakes."
-    },
-    {
-      "s": "AI companies are paying social apps to fill feeds with test videos so their tools can learn. The strange clips will disappear once the training finishes later this year.",
-      "a": false,
-      "why": "Close, but slop makers earn money from ads and platform payments. Nobody says the fakes will disappear this year."
-    },
-    {
-      "s": "A famous actor sued a popular video app after fake photos showed him celebrating his 1800th birthday. A judge has now ordered every AI image removed from the internet.",
-      "a": false,
-      "why": "The birthday image is just an example of slop. There is no lawsuit and no court order in the article."
-    }
-  ],
-  "tf": [
-    {
-      "s": "AI tools can pump out fake content faster than any human could type",
-      "a": true,
-      "why": "That speed, plus a cost near zero, is why slop factories treat fakes like a business."
-    },
-    {
-      "s": "Making AI slop is expensive, so only big companies produce it",
-      "a": false,
-      "why": "It costs almost nothing to make, and one viral hit can rake in more than a month of honest work."
-    },
-    {
-      "s": "Hands with six fingers can give away a fake image",
-      "a": true,
-      "why": "Experts say to look out for strange hands, melted letters, and details that do not add up."
-    },
-    {
-      "s": "The article says the flood of slop will die down within weeks",
-      "a": false,
-      "why": "As long as fake views earn real money, the flood will not die down soon."
-    },
-    {
-      "s": "The best defense against slop costs a lot of money",
-      "a": false,
-      "why": "It costs nothing. Just scroll past strange videos without a second look."
-    },
-    {
-      "s": "Every click on a fake post can mean advertising money for its creator",
-      "a": true,
-      "why": "Millions fall for the images and share them, and platforms reward popular posts with payments."
-    }
-  ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "verb": "Pump out",
+   "ipa": "/pʌmp aʊt/",
+   "def": "To produce quickly in large amounts",
+   "ex": [
+    "The factory pumps out a thousand toys an hour.",
+    "That studio pumped out three movies this year.",
+    "His kitchen pumps out fresh bread all morning."
+   ]
+  },
+  {
+   "verb": "Clog up",
+   "ipa": "/klɑɡ ʌp/",
+   "def": "To block something so it cannot flow",
+   "ex": [
+    "Leaves clogged up the drain again.",
+    "Holiday traffic clogs up the highway.",
+    "Old emails clog up my inbox."
+   ]
+  },
+  {
+   "verb": "Fall for",
+   "ipa": "/fɔl fɔr/",
+   "def": "To believe a trick is real",
+   "ex": [
+    "Grandpa fell for the phone scam.",
+    "Do not fall for ads that promise free money.",
+    "I almost fell for the fake email from the bank."
+   ]
+  },
+  {
+   "verb": "Rake in",
+   "ipa": "/reɪk ɪn/",
+   "def": "To earn a lot of money quickly",
+   "ex": [
+    "The movie raked in millions on its first weekend.",
+    "Ice cream shops rake in cash during heat waves.",
+    "Her simple game app rakes in steady money."
+   ]
+  },
+  {
+   "verb": "Give away",
+   "ipa": "/ɡɪv əˈweɪ/",
+   "def": "To show the hidden truth about something",
+   "ex": [
+    "His shaking hands gave away his fear.",
+    "The wrapping paper gave away the surprise.",
+    "A small smile gave her away."
+   ]
+  },
+  {
+   "verb": "Add up",
+   "ipa": "/æd ʌp/",
+   "def": "To make sense as a whole",
+   "ex": [
+    "His story about the broken window does not add up.",
+    "The clues finally added up for the detective.",
+    "Her excuse did not add up, and Mom knew it."
+   ]
+  },
+  {
+   "verb": "Look out for",
+   "ipa": "/lʊk aʊt fɔr/",
+   "def": "To watch carefully for something",
+   "ex": [
+    "Look out for deer on this road at night.",
+    "Shoppers should look out for false price tags.",
+    "Lifeguards look out for swimmers in trouble."
+   ]
+  },
+  {
+   "verb": "Crack down on",
+   "ipa": "/kræk daʊn ɑn/",
+   "def": "To start punishing rule-breakers",
+   "ex": [
+    "The city cracked down on illegal parking.",
+    "Schools are cracking down on phone use in class.",
+    "Police cracked down on speeding near the park."
+   ]
+  },
+  {
+   "verb": "Die down",
+   "ipa": "/daɪ daʊn/",
+   "def": "To become weaker or quieter",
+   "ex": [
+    "The wind died down after midnight.",
+    "Wait for the laughter to die down before speaking.",
+    "The excitement died down by Monday."
+   ]
+  },
+  {
+   "verb": "Scroll past",
+   "ipa": "/skroʊl pæst/",
+   "def": "To skip something on a screen",
+   "ex": [
+    "I scroll past every ad without reading it.",
+    "She scrolled past the sad news for something funny.",
+    "Just scroll past posts that make you angry."
+   ]
+  }
+ ],
+ "wordDefs": [
+  {
+   "word": "AI slop",
+   "ipa": "/eɪ aɪ slɑp/",
+   "def": "Cheap, low-quality content made fast by AI",
+   "ex": [
+    "The bear video was classic AI slop.",
+    "AI slop fills my feed every morning.",
+    "He can spot AI slop in two seconds."
+   ]
+  },
+  {
+   "word": "content",
+   "ipa": "/ˈkɑntɛnt/",
+   "def": "Videos, photos, and posts shared online",
+   "ex": [
+    "She posts new content every Friday.",
+    "Funny content spreads the fastest.",
+    "The channel needs fresh content to grow."
+   ]
+  },
+  {
+   "word": "advertising",
+   "ipa": "/ˈædvərtaɪzɪŋ/",
+   "def": "Paid messages that sell products",
+   "ex": [
+    "The team earns millions from advertising.",
+    "Advertising pays for most free apps.",
+    "Her face appeared in a soda advertising campaign."
+   ]
+  },
+  {
+   "word": "platforms",
+   "ipa": "/ˈplætfɔrmz/",
+   "def": "Big apps and websites where people post",
+   "ex": [
+    "Video platforms compete for young users.",
+    "The dance spread across all the platforms.",
+    "Some platforms pay creators for popular posts."
+   ]
+  },
+  {
+   "word": "clickbait",
+   "ipa": "/ˈklɪkbeɪt/",
+   "def": "Content designed only to make you click",
+   "ex": [
+    "The shocking headline was pure clickbait.",
+    "Clickbait titles rarely keep their promises.",
+    "He stopped clicking on clickbait years ago."
+   ]
+  },
+  {
+   "word": "algorithm",
+   "ipa": "/ˈælɡərɪðəm/",
+   "def": "The computer rules that choose what you see",
+   "ex": [
+    "The algorithm learned that she loves cat videos.",
+    "A new algorithm changed everyone's feed overnight.",
+    "The algorithm rewards posts that people share."
+   ]
+  },
+  {
+   "word": "sources",
+   "ipa": "/ˈsɔrsɪz/",
+   "def": "The people or places information comes from",
+   "ex": [
+    "Good reporters name their sources.",
+    "Check two sources before sharing news.",
+    "The photo had no clear sources, so she doubted it."
+   ]
+  },
+  {
+   "word": "accounts",
+   "ipa": "/əˈkaʊnts/",
+   "def": "Personal pages people use on an app",
+   "ex": [
+    "Some accounts post a hundred times a day.",
+    "The app deleted thousands of fake accounts.",
+    "She follows only twenty accounts."
+   ]
+  },
+  {
+   "word": "views",
+   "ipa": "/vjuz/",
+   "def": "The number of times something is watched",
+   "ex": [
+    "The video reached a million views in a day.",
+    "More views mean more money for creators.",
+    "His best clip has very few views."
+   ]
+  },
+  {
+   "word": "flood",
+   "ipa": "/flʌd/",
+   "def": "A very large amount arriving at once",
+   "ex": [
+    "A flood of messages arrived after the show.",
+    "The store faced a flood of holiday orders.",
+    "There was a flood of complaints about the change."
+   ]
+  },
+  {
+   "word": "backflip",
+   "ipa": "/ˈbækflɪp/",
+   "def": "A jump where the body turns fully backward",
+   "ex": [
+    "The gymnast landed a perfect backflip.",
+    "He learned a backflip on the trampoline.",
+    "Doing a backflip on concrete is dangerous."
+   ]
+  },
+  {
+   "word": "Critics",
+   "ipa": "/ˈkrɪtɪks/",
+   "def": "People who judge things publicly",
+   "ex": [
+    "Critics loved the quiet little film.",
+    "The chef ignores his critics.",
+    "Critics called the plan too expensive."
+   ]
+  },
+  {
+   "word": "artificial intelligence",
+   "ipa": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+   "def": "Computer systems that can think and create",
+   "ex": [
+    "Artificial intelligence now writes music.",
+    "The hospital uses artificial intelligence to read scans.",
+    "Artificial intelligence needs huge amounts of data."
+   ]
+  },
+  {
+   "word": "material",
+   "ipa": "/məˈtɪriəl/",
+   "def": "Content made for people to watch or read",
+   "ex": [
+    "The comedian tests new material in small clubs.",
+    "The course material covers ten lessons.",
+    "Her trip gave her material for three videos."
+   ]
+  },
+  {
+   "word": "drown",
+   "ipa": "/draʊn/",
+   "def": "To be covered by far too much of something",
+   "ex": [
+    "Small shops drown in paperwork.",
+    "My inbox drowns in newsletters every Monday.",
+    "Quiet voices drown in all that noise."
+   ]
+  },
+  {
+   "word": "factories",
+   "ipa": "/ˈfæktəriz/",
+   "def": "Places that produce things in large amounts",
+   "ex": [
+    "The factories run day and night.",
+    "Car factories employ half the town.",
+    "Old factories became apartments."
+   ]
+  },
+  {
+   "word": "hit",
+   "ipa": "/hɪt/",
+   "def": "Something that becomes very popular",
+   "ex": [
+    "The song was the hit of the summer.",
+    "Her cake stand is a hit at the market.",
+    "The show became a surprise hit."
+   ]
+  },
+  {
+   "word": "shadows",
+   "ipa": "/ˈʃædoʊz/",
+   "def": "Dark shapes made when light is blocked",
+   "ex": [
+    "The trees threw long shadows at sunset.",
+    "Shadows moved across the stage.",
+    "The cat chased shadows on the wall."
+   ]
+  },
+  {
+   "word": "melted",
+   "ipa": "/ˈmɛltɪd/",
+   "def": "Softened and out of shape from heat",
+   "ex": [
+    "The melted ice cream ran down the cone.",
+    "Melted cheese covered the bread.",
+    "The candle left melted wax on the table."
+   ]
+  },
+  {
+   "word": "background",
+   "ipa": "/ˈbækɡraʊnd/",
+   "def": "The area behind the main subject",
+   "ex": [
+    "Mountains filled the photo's background.",
+    "Someone waved in the background of the video.",
+    "The background of the painting is gold."
+   ]
+  },
+  {
+   "word": "offenders",
+   "ipa": "/əˈfɛndərz/",
+   "def": "People who break rules or laws",
+   "ex": [
+    "Repeat offenders lose their licenses.",
+    "The school warned the worst offenders.",
+    "Parking offenders pay fifty dollars."
+   ]
+  },
+  {
+   "word": "profitable",
+   "ipa": "/ˈprɑfətəbəl/",
+   "def": "Making more money than it costs",
+   "ex": [
+    "The bakery finally became profitable.",
+    "Streaming is profitable for the biggest stars.",
+    "Solar farms are profitable in sunny regions."
+   ]
+  },
+  {
+   "word": "ignored",
+   "ipa": "/ɪɡˈnɔrd/",
+   "def": "Given no attention on purpose",
+   "ex": [
+    "The warning was ignored for years.",
+    "She ignored the rude comment.",
+    "An ignored problem usually grows."
+   ]
+  }
+ ],
+ "mainIdea": [
+  {
+   "s": "Cheap AI-made photos and videos are flooding social media because they earn advertising money. Experts explain how to spot the fakes and why the problem will continue.",
+   "a": true,
+   "why": "Slop is almost free to make, platforms reward popular posts, and mistakes like strange hands still give away the fakes."
+  },
+  {
+   "s": "AI companies are paying social apps to fill feeds with test videos so their tools can learn. The strange clips will disappear once the training finishes later this year.",
+   "a": false,
+   "why": "Close, but slop makers earn money from ads and platform payments. Nobody says the fakes will disappear this year."
+  },
+  {
+   "s": "A famous actor sued a popular video app after fake photos showed him celebrating his 1800th birthday. A judge has now ordered every AI image removed from the internet.",
+   "a": false,
+   "why": "The birthday image is just an example of slop. There is no lawsuit and no court order in the article."
+  }
+ ],
+ "tf": [
+  {
+   "s": "AI tools can pump out fake content faster than any human could type",
+   "a": true,
+   "why": "That speed, plus a cost near zero, is why slop factories treat fakes like a business."
+  },
+  {
+   "s": "Making AI slop is expensive, so only big companies produce it",
+   "a": false,
+   "why": "It costs almost nothing to make, and one viral hit can rake in more than a month of honest work."
+  },
+  {
+   "s": "Hands with six fingers can give away a fake image",
+   "a": true,
+   "why": "Experts say to look out for strange hands, melted letters, and details that do not add up."
+  },
+  {
+   "s": "The article says the flood of slop will die down within weeks",
+   "a": false,
+   "why": "As long as fake views earn real money, the flood will not die down soon."
+  },
+  {
+   "s": "The best defense against slop costs a lot of money",
+   "a": false,
+   "why": "It costs nothing. Just scroll past strange videos without a second look."
+  },
+  {
+   "s": "Every click on a fake post can mean advertising money for its creator",
+   "a": true,
+   "why": "Millions fall for the images and share them, and platforms reward popular posts with payments."
+  }
+ ]
 }

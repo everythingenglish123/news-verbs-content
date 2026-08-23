@@ -1,532 +1,532 @@
 {
-  "id": "electronic-skin-touch-2026",
-  "number": 83,
-  "headline": "Electronic skin gives robots a sense of touch",
-  "badge": "Technology",
-  "meta": "",
-  "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n83-electronic-skin-touch-2026-flat.webp",
-  "position": "center 55%",
-  "sources": [
+ "id": "electronic-skin-touch-2026",
+ "number": 83,
+ "headline": "Electronic skin gives robots a sense of touch",
+ "badge": "Technology",
+ "meta": "",
+ "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n83-electronic-skin-touch-2026-flat.webp",
+ "position": "center 55%",
+ "sources": [
+  {
+   "title": "Electronic skin gives robots and prosthetics human-like touch sensing (Robotics and Automation News)",
+   "url": "https://roboticsandautomationnews.com/2026/08/10/electronic-skin-gives-robots-and-prosthetics-human-like-touch-sensing/104036/"
+  },
+  {
+   "title": "Electronic skin enables tunable touch and proximity sensing (TechXplore)",
+   "url": "https://techxplore.com/news/2026-08-electronic-skin-enables-tunable-proximity.html"
+  },
+  {
+   "title": "Hanyang University researchers develop electronic skin with human-like touch (PR Newswire)",
+   "url": "https://www.prnewswire.com/news-releases/hanyang-university-erica-researchers-develop-electronic-skin-that-brings-human-like-touch-to-robots-and-prosthetics-302846119.html"
+  },
+  {
+   "title": "Electronic skin could give robots a sense of touch (video, BBC News)",
+   "url": "https://www.youtube.com/watch?v=WGXZEljBH10"
+  }
+ ],
+ "chunks": [
+  {
+   "text": "Your skin can feel a [[raindrop]], a [[handshake]], or a hot cup before you even think about it. Robots cannot. Now [[researchers]] at Hanyang University in South Korea have built an electronic skin that can {{pick up}} even a very light touch. The results {{came out}} this year in the science [[journal]] Nano Energy. One day, the [[technology]] could {{give back}} a real [[sense of touch]] to people who use [[artificial]] hands.",
+   "verbs": [
     {
-      "title": "Electronic skin gives robots and prosthetics human-like touch sensing (Robotics and Automation News)",
-      "url": "https://roboticsandautomationnews.com/2026/08/10/electronic-skin-gives-robots-and-prosthetics-human-like-touch-sensing/104036/"
+     "display": "pick up",
+     "base": "pick up",
+     "correct": "To notice or detect something",
+     "wrong": "To hold something with force",
+     "correctFirst": true,
+     "why": "A microphone can pick up the softest whisper, and a security camera can pick up motion in the dark. This new electronic skin can pick up even a very light touch, almost like real human skin."
     },
     {
-      "title": "Electronic skin enables tunable touch and proximity sensing (TechXplore)",
-      "url": "https://techxplore.com/news/2026-08-electronic-skin-enables-tunable-proximity.html"
+     "display": "came out",
+     "base": "come out",
+     "correct": "To be published for the public",
+     "wrong": "To be tested in a hidden lab",
+     "correctFirst": false,
+     "why": "A new study comes out in a science journal every month, and a popular book sometimes comes out years after the research began. The results of this project came out this year in the journal Nano Energy."
     },
     {
-      "title": "Hanyang University researchers develop electronic skin with human-like touch (PR Newswire)",
-      "url": "https://www.prnewswire.com/news-releases/hanyang-university-erica-researchers-develop-electronic-skin-that-brings-human-like-touch-to-robots-and-prosthetics-302846119.html"
-    },
-    {
-      "title": "Electronic skin could give robots a sense of touch (video, BBC News)",
-      "url": "https://www.youtube.com/watch?v=WGXZEljBH10"
+     "display": "give back",
+     "base": "give back",
+     "correct": "To return something that was lost",
+     "wrong": "To copy something exactly",
+     "correctFirst": true,
+     "why": "A kind stranger might give back a lost wallet, and new technology can give back independence to someone who lost a limb. One day, this skin could give back a real sense of touch to people who use artificial hands."
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "text": "The skin is a thin, soft [[layer]] with tiny electronic [[sensors]] inside. It feels [[pressure]], and it can even notice a finger that only [[comes near]] the [[surface]], before any [[contact]] happens. The clever part is that [[engineers]] can {{turn up}} its [[sensitivity]] with a small electric [[signal]], the way you raise the [[volume]] on a speaker. A soft version could be {{built into}} a robot hand, so the hand knows the difference between an egg and a rock.",
+   "verbs": [
     {
-      "text": "Your skin can feel a [[raindrop]], a [[handshake]], or a hot cup before you even think about it. Robots cannot. Now [[researchers]] at Hanyang University in South Korea have built an electronic skin that can {{pick up}} even a very light touch. The results {{came out}} this year in the science [[journal]] Nano Energy. One day, the [[technology]] could {{give back}} a real [[sense of touch]] to people who use [[artificial]] hands.",
-      "verbs": [
-        {
-          "display": "pick up",
-          "base": "pick up",
-          "correct": "To notice or detect something",
-          "wrong": "To hold something with force",
-          "correctFirst": true,
-          "why": "In this story, pick up means to notice or detect something faint, the way a microphone can pick up a whisper across a room. Sensors and even people can pick up small signals others miss."
-        },
-        {
-          "display": "came out",
-          "base": "come out",
-          "correct": "To be published for the public",
-          "wrong": "To be tested in a hidden lab",
-          "correctFirst": false,
-          "why": "Come out means research results become public, usually in a journal, a report, or the news. A big study can come out after months of careful review."
-        },
-        {
-          "display": "give back",
-          "base": "give back",
-          "correct": "To return something that was lost",
-          "wrong": "To copy something exactly",
-          "correctFirst": true,
-          "why": "Give back means to restore something a person lost, like feeling, movement, or independence. New technology can give people back an ability that an injury once removed."
-        }
-      ]
+     "display": "turn up",
+     "base": "turn up",
+     "correct": "To make something stronger",
+     "wrong": "To repair something quickly",
+     "correctFirst": true,
+     "why": "You turn up the volume on a speaker, and you turn up the heat on a stove to cook faster. Engineers can turn up this skin's sensitivity with a small electric signal, the same way you raise a volume knob."
     },
     {
-      "text": "The skin is a thin, soft [[layer]] with tiny electronic [[sensors]] inside. It feels [[pressure]], and it can even notice a finger that only [[comes near]] the [[surface]], before any [[contact]] happens. The clever part is that [[engineers]] can {{turn up}} its [[sensitivity]] with a small electric [[signal]], the way you raise the [[volume]] on a speaker. A soft version could be {{built into}} a robot hand, so the hand knows the difference between an egg and a rock.",
-      "verbs": [
-        {
-          "display": "turn up",
-          "base": "turn up",
-          "correct": "To make something stronger",
-          "wrong": "To repair something quickly",
-          "correctFirst": true,
-          "why": "Turn up means to increase the strength of something with a dial or a signal, like turning up the heat or the volume. Engineers can turn up a sensor's sensitivity the same way."
-        },
-        {
-          "display": "built into",
-          "base": "build into",
-          "correct": "To make something part of a machine",
-          "wrong": "To place something on a shelf",
-          "correctFirst": false,
-          "why": "Build into means to make something a permanent part of a machine or product, not something added later. Cameras, alarms, and now touch sensors can all be built into everyday devices."
-        }
-      ]
-    },
-    {
-      "text": "The team also tested how long the skin lasts. It {{went through}} more than one thousand touch tests and kept working without {{wearing out}}. It [[reacts]] in about one tenth of a second, almost as fast as human skin. The researchers {{hooked up}} a small square of one hundred sensors to a computer, and it could tell exactly where each touch [[landed]].",
-      "verbs": [
-        {
-          "display": "went through",
-          "base": "go through",
-          "correct": "To complete a whole process",
-          "wrong": "To fail an important check",
-          "correctFirst": true,
-          "why": "Go through means to complete every stage of a long process, like testing, training, or approval. This electronic skin went through more than a thousand touch tests before anyone trusted it."
-        },
-        {
-          "display": "wearing out",
-          "base": "wear out",
-          "correct": "To stop working from long use",
-          "wrong": "To become hot and unsafe",
-          "correctFirst": false,
-          "why": "Wear out means to stop functioning after too much use, whether it is shoes, batteries, or a machine part. Good design tries to delay how fast something wears out."
-        },
-        {
-          "display": "hooked up",
-          "base": "hook up",
-          "correct": "To connect to a machine",
-          "wrong": "To glue onto a surface",
-          "correctFirst": true,
-          "why": "Hook up means to connect a device to a machine or network so it can work, like hooking up speakers or a monitor. Here, researchers hooked up a hundred sensors to a computer."
-        }
-      ]
-    },
-    {
-      "text": "There is still work to do. The scientists are {{figuring out}} how to cover a whole robot arm instead of one small [[patch]], and how to keep the skin cheap. But the [[direction]] is clear. If the technology {{takes off}}, future robots could help [[nurses]] lift [[patients]] gently, and an artificial hand could feel a child's [[grip]]. For machines, touch is no longer [[science fiction]].",
-      "verbs": [
-        {
-          "display": "figuring out",
-          "base": "figure out",
-          "correct": "To find the answer to a problem",
-          "wrong": "To write the results of a test",
-          "correctFirst": false,
-          "why": "Figure out means to solve a problem step by step until you understand it, not to guess at an answer. Scientists are still figuring out how to cover a whole robot arm cheaply."
-        },
-        {
-          "display": "takes off",
-          "base": "take off",
-          "correct": "To become successful quickly",
-          "wrong": "To become cheap to produce",
-          "correctFirst": true,
-          "why": "Take off means an idea or product suddenly becomes popular and successful, spreading fast. Be careful: take off is also the everyday word for a plane leaving the ground."
-        }
-      ]
+     "display": "built into",
+     "base": "build into",
+     "correct": "To make something part of a machine",
+     "wrong": "To place something on a shelf",
+     "correctFirst": false,
+     "why": "Car makers build airbags into every new vehicle, and phone makers build a camera into the back of each phone. A soft version of this electronic skin could be built into a robot hand within a few years."
     }
-  ],
-  "vocab": [
+   ]
+  },
+  {
+   "text": "The team also tested how long the skin lasts. It {{went through}} more than one thousand touch tests and kept working without {{wearing out}}. It [[reacts]] in about one tenth of a second, almost as fast as human skin. The researchers {{hooked up}} a small square of one hundred sensors to a computer, and it could tell exactly where each touch [[landed]].",
+   "verbs": [
     {
-      "verb": "Pick up",
-      "ipa": "/pɪk ʌp/",
-      "def": "To notice or detect something",
-      "ex": [
-        "The microphone picks up every small sound.",
-        "Radar picked up a storm far from the coast.",
-        "Dogs pick up smells that people miss."
-      ]
+     "display": "went through",
+     "base": "go through",
+     "correct": "To complete a whole process",
+     "wrong": "To fail an important check",
+     "correctFirst": true,
+     "why": "New cars go through crash testing before they reach a showroom, and new medicine goes through years of trials. This electronic skin went through more than one thousand touch tests and kept working the whole time."
     },
     {
-      "verb": "Come out",
-      "ipa": "/kʌm aʊt/",
-      "def": "To be published for the public",
-      "ex": [
-        "Her new book comes out in March.",
-        "The test results came out on Friday.",
-        "The movie came out last summer."
-      ]
+     "display": "wearing out",
+     "base": "wear out",
+     "correct": "To stop working from long use",
+     "wrong": "To become hot and unsafe",
+     "correctFirst": false,
+     "why": "Old shoes wear out after months of daily walking, and a phone battery wears out after a few years of charging. In the tests, this electronic skin kept working for over a thousand touches without wearing out."
     },
     {
-      "verb": "Give back",
-      "ipa": "/ɡɪv bæk/",
-      "def": "To return something that was lost",
-      "ex": [
-        "The surgery gave him back his eyesight.",
-        "Exercise gave her back her energy.",
-        "The program gives kids back their confidence."
-      ]
-    },
-    {
-      "verb": "Turn up",
-      "ipa": "/tɜrn ʌp/",
-      "def": "To make something stronger",
-      "ex": [
-        "Can you turn up the heat a little?",
-        "He turned up the volume for the last song.",
-        "Turn up the brightness so we can see the map."
-      ]
-    },
-    {
-      "verb": "Build into",
-      "ipa": "/bɪld ˈɪntu/",
-      "def": "To make something part of a machine",
-      "ex": [
-        "Cameras are built into most new cars.",
-        "The alarm is built into the front door.",
-        "A flashlight is built into the phone."
-      ]
-    },
-    {
-      "verb": "Go through",
-      "ipa": "/ɡoʊ θru/",
-      "def": "To complete a whole process",
-      "ex": [
-        "Every pilot goes through years of training.",
-        "The bridge went through months of safety checks.",
-        "New medicines go through many rounds of testing."
-      ]
-    },
-    {
-      "verb": "Wear out",
-      "ipa": "/wɛr aʊt/",
-      "def": "To stop working from long use",
-      "ex": [
-        "My running shoes wore out after one year.",
-        "Cheap batteries wear out fast.",
-        "The old elevator finally wore out."
-      ]
-    },
-    {
-      "verb": "Hook up",
-      "ipa": "/hʊk ʌp/",
-      "def": "To connect to a machine",
-      "ex": [
-        "He hooked up the printer to his laptop.",
-        "The nurse hooked the patient up to a monitor.",
-        "We hooked up the speakers before the party."
-      ]
-    },
-    {
-      "verb": "Figure out",
-      "ipa": "/ˈfɪɡjər aʊt/",
-      "def": "To find the answer to a problem",
-      "ex": [
-        "She figured out why the car would not start.",
-        "I cannot figure out this math problem.",
-        "Engineers figured out a cheaper way to build it."
-      ]
-    },
-    {
-      "verb": "Take off",
-      "ipa": "/teɪk ɔf/",
-      "def": "To become successful quickly",
-      "ex": [
-        "Her small bakery took off after one viral video.",
-        "Electric bikes took off in our city last year.",
-        "The app took off with college students."
-      ]
+     "display": "hooked up",
+     "base": "hook up",
+     "correct": "To connect to a machine",
+     "wrong": "To glue onto a surface",
+     "correctFirst": true,
+     "why": "A technician might hook up new speakers to a stereo, and a nurse might hook up a monitor to a patient. Researchers in this study hooked up a small square of one hundred sensors to a computer."
     }
-  ],
-  "wordDefs": [
+   ]
+  },
+  {
+   "text": "There is still work to do. The scientists are {{figuring out}} how to cover a whole robot arm instead of one small [[patch]], and how to keep the skin cheap. But the [[direction]] is clear. If the technology {{takes off}}, future robots could help [[nurses]] lift [[patients]] gently, and an artificial hand could feel a child's [[grip]]. For machines, touch is no longer [[science fiction]].",
+   "verbs": [
     {
-      "word": "technology",
-      "ipa": "/tɛkˈnɑlədʒi/",
-      "def": "Tools and machines built from science",
-      "ex": [
-        "New technology changed how we bank.",
-        "The school teaches with simple technology.",
-        "Farming technology saves water."
-      ]
+     "display": "figuring out",
+     "base": "figure out",
+     "correct": "To find the answer to a problem",
+     "wrong": "To write the results of a test",
+     "correctFirst": false,
+     "why": "A driver might figure out a shortcut after a few wrong turns, and an engineer might figure out why a machine keeps failing. Scientists are still figuring out how to cover a whole robot arm instead of just one small patch."
     },
     {
-      "word": "sense of touch",
-      "ipa": "/sɛns ʌv tʌtʃ/",
-      "def": "The ability to feel things with the body",
-      "ex": [
-        "Cold weather can dull your sense of touch.",
-        "Babies explore with their sense of touch.",
-        "Gloves protect hands but weaken the sense of touch."
-      ]
-    },
-    {
-      "word": "artificial",
-      "ipa": "/ˌɑrtəˈfɪʃəl/",
-      "def": "Made by people, not by nature",
-      "ex": [
-        "The stadium uses artificial grass.",
-        "She has an artificial knee.",
-        "The drink is full of artificial flavors."
-      ]
-    },
-    {
-      "word": "layer",
-      "ipa": "/ˈleɪər/",
-      "def": "One level of material on top of another",
-      "ex": [
-        "A thin layer of ice covered the lake.",
-        "The cake has three layers.",
-        "Wear an extra layer under your coat."
-      ]
-    },
-    {
-      "word": "sensors",
-      "ipa": "/ˈsɛnsərz/",
-      "def": "Small tools that measure and record things",
-      "ex": [
-        "Sensors turn on the lights when you enter.",
-        "The car's sensors watch the road lines.",
-        "Garden sensors check the soil for water."
-      ]
-    },
-    {
-      "word": "pressure",
-      "ipa": "/ˈprɛʃər/",
-      "def": "The force of one thing pushing on another",
-      "ex": [
-        "Apply pressure to stop the bleeding.",
-        "Check the tire pressure before the trip.",
-        "The diver felt the pressure of the deep water."
-      ]
-    },
-    {
-      "word": "sensitivity",
-      "ipa": "/ˌsɛnsəˈtɪvəti/",
-      "def": "How strongly something reacts to touch or change",
-      "ex": [
-        "The scale's sensitivity catches tiny weight changes.",
-        "Her skin has a high sensitivity to sunlight.",
-        "Turn down the mouse sensitivity in the settings."
-      ]
-    },
-    {
-      "word": "signal",
-      "ipa": "/ˈsɪɡnəl/",
-      "def": "A message sent by electricity, light, or sound",
-      "ex": [
-        "The phone lost its signal in the tunnel.",
-        "A red light is a signal to stop.",
-        "The remote sends a signal to the TV."
-      ]
-    },
-    {
-      "word": "patch",
-      "ipa": "/pætʃ/",
-      "def": "A small piece that covers part of a surface",
-      "ex": [
-        "He sewed a patch on his jeans.",
-        "A patch of new paint marks the repair.",
-        "The nurse put a patch over the cut."
-      ]
-    },
-    {
-      "word": "nurses",
-      "ipa": "/ˈnɜrsɪz/",
-      "def": "People trained to care for sick people",
-      "ex": [
-        "The nurses checked on him every hour.",
-        "Two nurses helped her stand up.",
-        "School nurses treat small injuries."
-      ]
-    },
-    {
-      "word": "grip",
-      "ipa": "/ɡrɪp/",
-      "def": "The way a hand holds something",
-      "ex": [
-        "He has a strong grip for a small kid.",
-        "Wet hands make your grip weaker.",
-        "She loosened her grip on the rope."
-      ]
-    },
-    {
-      "word": "raindrop",
-      "ipa": "/ˈreɪndrɑp/",
-      "def": "A single drop of falling rain",
-      "ex": [
-        "A raindrop hit the window first.",
-        "She caught a raindrop on her hand.",
-        "One raindrop means more are coming."
-      ]
-    },
-    {
-      "word": "handshake",
-      "ipa": "/ˈhændʃeɪk/",
-      "def": "Holding hands briefly as a greeting",
-      "ex": [
-        "The deal ended with a handshake.",
-        "His handshake was firm and friendly.",
-        "A handshake starts most interviews."
-      ]
-    },
-    {
-      "word": "researchers",
-      "ipa": "/rɪˈsɜrtʃərz/",
-      "def": "People who study a subject to learn new facts",
-      "ex": [
-        "The researchers counted the birds every spring.",
-        "Researchers tested the water for years.",
-        "Two researchers shared the prize."
-      ]
-    },
-    {
-      "word": "journal",
-      "ipa": "/ˈdʒɜrnəl/",
-      "def": "A magazine where scientists publish results",
-      "ex": [
-        "Her study appeared in a medical journal.",
-        "The journal accepts only careful research.",
-        "He reads one science journal every month."
-      ]
-    },
-    {
-      "word": "comes near",
-      "ipa": "/kʌmz nɪr/",
-      "def": "Moves close to something",
-      "ex": [
-        "The deer never comes near the road.",
-        "A storm comes near the coast tonight.",
-        "The ferry slows when it comes near the dock."
-      ]
-    },
-    {
-      "word": "surface",
-      "ipa": "/ˈsɜrfəs/",
-      "def": "The top or outside part of something",
-      "ex": [
-        "The fish swam close to the surface.",
-        "Dust covered the table's surface.",
-        "The moon's surface is full of holes."
-      ]
-    },
-    {
-      "word": "contact",
-      "ipa": "/ˈkɑntækt/",
-      "def": "The moment of touching something",
-      "ex": [
-        "The wire must not make contact with water.",
-        "The gloves stop direct contact with the glass.",
-        "Avoid contact with the wet paint."
-      ]
-    },
-    {
-      "word": "engineers",
-      "ipa": "/ˌɛndʒəˈnɪrz/",
-      "def": "People who design machines and systems",
-      "ex": [
-        "Engineers designed a lighter bridge.",
-        "The engineers fixed the elevator quickly.",
-        "Software engineers built the new app."
-      ]
-    },
-    {
-      "word": "volume",
-      "ipa": "/ˈvɑljum/",
-      "def": "How loud a sound is",
-      "ex": [
-        "Please lower the volume of the TV.",
-        "The volume rose when the song started.",
-        "His voice's volume filled the hall."
-      ]
-    },
-    {
-      "word": "reacts",
-      "ipa": "/riˈækts/",
-      "def": "Acts in answer to something that happens",
-      "ex": [
-        "The goalkeeper reacts in less than a second.",
-        "My skin reacts badly to this soap.",
-        "The market reacts to every news story."
-      ]
-    },
-    {
-      "word": "landed",
-      "ipa": "/ˈlændɪd/",
-      "def": "Arrived at or hit a spot",
-      "ex": [
-        "The ball landed in the neighbor's yard.",
-        "The plane landed ten minutes early.",
-        "Her dart landed right in the center."
-      ]
-    },
-    {
-      "word": "direction",
-      "ipa": "/dəˈrɛkʃən/",
-      "def": "The way something moves or develops",
-      "ex": [
-        "The wind changed direction at noon.",
-        "The company's new direction worried no one.",
-        "Which direction is the station?"
-      ]
-    },
-    {
-      "word": "patients",
-      "ipa": "/ˈpeɪʃənts/",
-      "def": "People receiving care from doctors or nurses",
-      "ex": [
-        "The patients waited in the sunny room.",
-        "Two patients went home early.",
-        "Nurses check on patients through the night."
-      ]
-    },
-    {
-      "word": "science fiction",
-      "ipa": "/ˈsaɪəns ˈfɪkʃən/",
-      "def": "Stories about imaginary future science",
-      "ex": [
-        "He reads science fiction on the train.",
-        "The movie is classic science fiction.",
-        "Science fiction often predicts real inventions."
-      ]
+     "display": "takes off",
+     "base": "take off",
+     "correct": "To become successful quickly",
+     "wrong": "To become cheap to produce",
+     "correctFirst": true,
+     "why": "A small business can take off after one good review, and a new song can take off on social media in a week. If this technology takes off, future robots could help nurses lift patients gently and safely."
     }
-  ],
-  "mainIdea": [
-    {
-      "s": "Scientists in South Korea built an electronic skin that lets machines feel touch and nearby objects. It could improve robots and give artificial hands real feeling.",
-      "a": true,
-      "why": "The Hanyang team's skin picks up light touch and close objects, and its sensitivity can be turned up with a small signal."
-    },
-    {
-      "s": "A research team taught a robot to feel real pain so it stops working when damaged. Korean factories will use the crying machines to warn workers about danger.",
-      "a": false,
-      "why": "Close, but the skin senses touch and pressure, not pain. Nothing in the article says robots cry or stop working."
-    },
-    {
-      "s": "A hospital in South Korea replaced its nurses with soft robot arms this spring. Patients say the machines lift them more gently than human workers ever could.",
-      "a": false,
-      "why": "The article is about a new sensing material in a lab, not about robots replacing nurses in a hospital."
-    }
-  ],
-  "tf": [
-    {
-      "s": "The skin can pick up a finger that has not touched it yet",
-      "a": true,
-      "why": "It can notice a finger that only comes near the surface, before any contact happens."
-    },
-    {
-      "s": "Engineers can turn up the skin's sensitivity with an electric signal",
-      "a": true,
-      "why": "They adjust it with a small electric signal, like raising the volume on a speaker."
-    },
-    {
-      "s": "The skin wore out after a few hundred touches",
-      "a": false,
-      "why": "It went through more than one thousand touch tests and kept working without wearing out."
-    },
-    {
-      "s": "The results came out in a science journal this year",
-      "a": true,
-      "why": "The results came out this year in the journal Nano Energy."
-    },
-    {
-      "s": "The scientists have already covered a whole robot arm",
-      "a": false,
-      "why": "They are still figuring out how to cover a whole arm instead of one small patch."
-    },
-    {
-      "s": "The article says the technology has already taken off in stores",
-      "a": false,
-      "why": "It says IF the technology takes off, robots and artificial hands could improve. It is still research."
-    }
-  ]
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "verb": "Pick up",
+   "ipa": "/pɪk ʌp/",
+   "def": "To notice or detect something",
+   "ex": [
+    "The microphone picks up every small sound.",
+    "Radar picked up a storm far from the coast.",
+    "Dogs pick up smells that people miss."
+   ]
+  },
+  {
+   "verb": "Come out",
+   "ipa": "/kʌm aʊt/",
+   "def": "To be published for the public",
+   "ex": [
+    "Her new book comes out in March.",
+    "The test results came out on Friday.",
+    "The movie came out last summer."
+   ]
+  },
+  {
+   "verb": "Give back",
+   "ipa": "/ɡɪv bæk/",
+   "def": "To return something that was lost",
+   "ex": [
+    "The surgery gave him back his eyesight.",
+    "Exercise gave her back her energy.",
+    "The program gives kids back their confidence."
+   ]
+  },
+  {
+   "verb": "Turn up",
+   "ipa": "/tɜrn ʌp/",
+   "def": "To make something stronger",
+   "ex": [
+    "Can you turn up the heat a little?",
+    "He turned up the volume for the last song.",
+    "Turn up the brightness so we can see the map."
+   ]
+  },
+  {
+   "verb": "Build into",
+   "ipa": "/bɪld ˈɪntu/",
+   "def": "To make something part of a machine",
+   "ex": [
+    "Cameras are built into most new cars.",
+    "The alarm is built into the front door.",
+    "A flashlight is built into the phone."
+   ]
+  },
+  {
+   "verb": "Go through",
+   "ipa": "/ɡoʊ θru/",
+   "def": "To complete a whole process",
+   "ex": [
+    "Every pilot goes through years of training.",
+    "The bridge went through months of safety checks.",
+    "New medicines go through many rounds of testing."
+   ]
+  },
+  {
+   "verb": "Wear out",
+   "ipa": "/wɛr aʊt/",
+   "def": "To stop working from long use",
+   "ex": [
+    "My running shoes wore out after one year.",
+    "Cheap batteries wear out fast.",
+    "The old elevator finally wore out."
+   ]
+  },
+  {
+   "verb": "Hook up",
+   "ipa": "/hʊk ʌp/",
+   "def": "To connect to a machine",
+   "ex": [
+    "He hooked up the printer to his laptop.",
+    "The nurse hooked the patient up to a monitor.",
+    "We hooked up the speakers before the party."
+   ]
+  },
+  {
+   "verb": "Figure out",
+   "ipa": "/ˈfɪɡjər aʊt/",
+   "def": "To find the answer to a problem",
+   "ex": [
+    "She figured out why the car would not start.",
+    "I cannot figure out this math problem.",
+    "Engineers figured out a cheaper way to build it."
+   ]
+  },
+  {
+   "verb": "Take off",
+   "ipa": "/teɪk ɔf/",
+   "def": "To become successful quickly",
+   "ex": [
+    "Her small bakery took off after one viral video.",
+    "Electric bikes took off in our city last year.",
+    "The app took off with college students."
+   ]
+  }
+ ],
+ "wordDefs": [
+  {
+   "word": "technology",
+   "ipa": "/tɛkˈnɑlədʒi/",
+   "def": "Tools and machines built from science",
+   "ex": [
+    "New technology changed how we bank.",
+    "The school teaches with simple technology.",
+    "Farming technology saves water."
+   ]
+  },
+  {
+   "word": "sense of touch",
+   "ipa": "/sɛns ʌv tʌtʃ/",
+   "def": "The ability to feel things with the body",
+   "ex": [
+    "Cold weather can dull your sense of touch.",
+    "Babies explore with their sense of touch.",
+    "Gloves protect hands but weaken the sense of touch."
+   ]
+  },
+  {
+   "word": "artificial",
+   "ipa": "/ˌɑrtəˈfɪʃəl/",
+   "def": "Made by people, not by nature",
+   "ex": [
+    "The stadium uses artificial grass.",
+    "She has an artificial knee.",
+    "The drink is full of artificial flavors."
+   ]
+  },
+  {
+   "word": "layer",
+   "ipa": "/ˈleɪər/",
+   "def": "One level of material on top of another",
+   "ex": [
+    "A thin layer of ice covered the lake.",
+    "The cake has three layers.",
+    "Wear an extra layer under your coat."
+   ]
+  },
+  {
+   "word": "sensors",
+   "ipa": "/ˈsɛnsərz/",
+   "def": "Small tools that measure and record things",
+   "ex": [
+    "Sensors turn on the lights when you enter.",
+    "The car's sensors watch the road lines.",
+    "Garden sensors check the soil for water."
+   ]
+  },
+  {
+   "word": "pressure",
+   "ipa": "/ˈprɛʃər/",
+   "def": "The force of one thing pushing on another",
+   "ex": [
+    "Apply pressure to stop the bleeding.",
+    "Check the tire pressure before the trip.",
+    "The diver felt the pressure of the deep water."
+   ]
+  },
+  {
+   "word": "sensitivity",
+   "ipa": "/ˌsɛnsəˈtɪvəti/",
+   "def": "How strongly something reacts to touch or change",
+   "ex": [
+    "The scale's sensitivity catches tiny weight changes.",
+    "Her skin has a high sensitivity to sunlight.",
+    "Turn down the mouse sensitivity in the settings."
+   ]
+  },
+  {
+   "word": "signal",
+   "ipa": "/ˈsɪɡnəl/",
+   "def": "A message sent by electricity, light, or sound",
+   "ex": [
+    "The phone lost its signal in the tunnel.",
+    "A red light is a signal to stop.",
+    "The remote sends a signal to the TV."
+   ]
+  },
+  {
+   "word": "patch",
+   "ipa": "/pætʃ/",
+   "def": "A small piece that covers part of a surface",
+   "ex": [
+    "He sewed a patch on his jeans.",
+    "A patch of new paint marks the repair.",
+    "The nurse put a patch over the cut."
+   ]
+  },
+  {
+   "word": "nurses",
+   "ipa": "/ˈnɜrsɪz/",
+   "def": "People trained to care for sick people",
+   "ex": [
+    "The nurses checked on him every hour.",
+    "Two nurses helped her stand up.",
+    "School nurses treat small injuries."
+   ]
+  },
+  {
+   "word": "grip",
+   "ipa": "/ɡrɪp/",
+   "def": "The way a hand holds something",
+   "ex": [
+    "He has a strong grip for a small kid.",
+    "Wet hands make your grip weaker.",
+    "She loosened her grip on the rope."
+   ]
+  },
+  {
+   "word": "raindrop",
+   "ipa": "/ˈreɪndrɑp/",
+   "def": "A single drop of falling rain",
+   "ex": [
+    "A raindrop hit the window first.",
+    "She caught a raindrop on her hand.",
+    "One raindrop means more are coming."
+   ]
+  },
+  {
+   "word": "handshake",
+   "ipa": "/ˈhændʃeɪk/",
+   "def": "Holding hands briefly as a greeting",
+   "ex": [
+    "The deal ended with a handshake.",
+    "His handshake was firm and friendly.",
+    "A handshake starts most interviews."
+   ]
+  },
+  {
+   "word": "researchers",
+   "ipa": "/rɪˈsɜrtʃərz/",
+   "def": "People who study a subject to learn new facts",
+   "ex": [
+    "The researchers counted the birds every spring.",
+    "Researchers tested the water for years.",
+    "Two researchers shared the prize."
+   ]
+  },
+  {
+   "word": "journal",
+   "ipa": "/ˈdʒɜrnəl/",
+   "def": "A magazine where scientists publish results",
+   "ex": [
+    "Her study appeared in a medical journal.",
+    "The journal accepts only careful research.",
+    "He reads one science journal every month."
+   ]
+  },
+  {
+   "word": "comes near",
+   "ipa": "/kʌmz nɪr/",
+   "def": "Moves close to something",
+   "ex": [
+    "The deer never comes near the road.",
+    "A storm comes near the coast tonight.",
+    "The ferry slows when it comes near the dock."
+   ]
+  },
+  {
+   "word": "surface",
+   "ipa": "/ˈsɜrfəs/",
+   "def": "The top or outside part of something",
+   "ex": [
+    "The fish swam close to the surface.",
+    "Dust covered the table's surface.",
+    "The moon's surface is full of holes."
+   ]
+  },
+  {
+   "word": "contact",
+   "ipa": "/ˈkɑntækt/",
+   "def": "The moment of touching something",
+   "ex": [
+    "The wire must not make contact with water.",
+    "The gloves stop direct contact with the glass.",
+    "Avoid contact with the wet paint."
+   ]
+  },
+  {
+   "word": "engineers",
+   "ipa": "/ˌɛndʒəˈnɪrz/",
+   "def": "People who design machines and systems",
+   "ex": [
+    "Engineers designed a lighter bridge.",
+    "The engineers fixed the elevator quickly.",
+    "Software engineers built the new app."
+   ]
+  },
+  {
+   "word": "volume",
+   "ipa": "/ˈvɑljum/",
+   "def": "How loud a sound is",
+   "ex": [
+    "Please lower the volume of the TV.",
+    "The volume rose when the song started.",
+    "His voice's volume filled the hall."
+   ]
+  },
+  {
+   "word": "reacts",
+   "ipa": "/riˈækts/",
+   "def": "Acts in answer to something that happens",
+   "ex": [
+    "The goalkeeper reacts in less than a second.",
+    "My skin reacts badly to this soap.",
+    "The market reacts to every news story."
+   ]
+  },
+  {
+   "word": "landed",
+   "ipa": "/ˈlændɪd/",
+   "def": "Arrived at or hit a spot",
+   "ex": [
+    "The ball landed in the neighbor's yard.",
+    "The plane landed ten minutes early.",
+    "Her dart landed right in the center."
+   ]
+  },
+  {
+   "word": "direction",
+   "ipa": "/dəˈrɛkʃən/",
+   "def": "The way something moves or develops",
+   "ex": [
+    "The wind changed direction at noon.",
+    "The company's new direction worried no one.",
+    "Which direction is the station?"
+   ]
+  },
+  {
+   "word": "patients",
+   "ipa": "/ˈpeɪʃənts/",
+   "def": "People receiving care from doctors or nurses",
+   "ex": [
+    "The patients waited in the sunny room.",
+    "Two patients went home early.",
+    "Nurses check on patients through the night."
+   ]
+  },
+  {
+   "word": "science fiction",
+   "ipa": "/ˈsaɪəns ˈfɪkʃən/",
+   "def": "Stories about imaginary future science",
+   "ex": [
+    "He reads science fiction on the train.",
+    "The movie is classic science fiction.",
+    "Science fiction often predicts real inventions."
+   ]
+  }
+ ],
+ "mainIdea": [
+  {
+   "s": "Scientists in South Korea built an electronic skin that lets machines feel touch and nearby objects. It could improve robots and give artificial hands real feeling.",
+   "a": true,
+   "why": "The Hanyang team's skin picks up light touch and close objects, and its sensitivity can be turned up with a small signal."
+  },
+  {
+   "s": "A research team taught a robot to feel real pain so it stops working when damaged. Korean factories will use the crying machines to warn workers about danger.",
+   "a": false,
+   "why": "Close, but the skin senses touch and pressure, not pain. Nothing in the article says robots cry or stop working."
+  },
+  {
+   "s": "A hospital in South Korea replaced its nurses with soft robot arms this spring. Patients say the machines lift them more gently than human workers ever could.",
+   "a": false,
+   "why": "The article is about a new sensing material in a lab, not about robots replacing nurses in a hospital."
+  }
+ ],
+ "tf": [
+  {
+   "s": "The skin can pick up a finger that has not touched it yet",
+   "a": true,
+   "why": "It can notice a finger that only comes near the surface, before any contact happens."
+  },
+  {
+   "s": "Engineers can turn up the skin's sensitivity with an electric signal",
+   "a": true,
+   "why": "They adjust it with a small electric signal, like raising the volume on a speaker."
+  },
+  {
+   "s": "The skin wore out after a few hundred touches",
+   "a": false,
+   "why": "It went through more than one thousand touch tests and kept working without wearing out."
+  },
+  {
+   "s": "The results came out in a science journal this year",
+   "a": true,
+   "why": "The results came out this year in the journal Nano Energy."
+  },
+  {
+   "s": "The scientists have already covered a whole robot arm",
+   "a": false,
+   "why": "They are still figuring out how to cover a whole arm instead of one small patch."
+  },
+  {
+   "s": "The article says the technology has already taken off in stores",
+   "a": false,
+   "why": "It says IF the technology takes off, robots and artificial hands could improve. It is still research."
+  }
+ ]
 }
