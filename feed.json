@@ -92,7 +92,7 @@
             {
               "display": "come back",
               "base": "come back",
-              "correct": "To return after going away",
+              "correct": "To return after being away",
               "wrong": "To disappear forever",
               "correctFirst": true,
               "why": "Here come back means a disease returns after treatment seemed to work. For many patients in this trial, the melanoma has not come back at all."
@@ -209,7 +209,7 @@
         {
           "verb": "Come back",
           "ipa": "/kʌm bæk/",
-          "def": "To return after going away",
+          "def": "To return after being away",
           "ex": [
             "The birds come back every spring.",
             "Her headaches came back after the busy week.",
@@ -1121,7 +1121,7 @@
               "display": "works out to",
               "base": "work out to",
               "correct": "To equal after the math is done",
-              "wrong": "To round down to a lower number",
+              "wrong": "To become a smaller number",
               "correctFirst": false,
               "why": "Work out to means to equal a certain amount once you do the math. This giant debt works out to about 115,000 dollars for each person in America."
             },
@@ -1207,10 +1207,10 @@
             {
               "display": "pick up",
               "base": "pick up",
-              "correct": "To agree to pay something",
+              "correct": "To pay for something yourself",
               "wrong": "To split a cost with others",
               "correctFirst": true,
-              "why": "Pick up here means to agree to pay for something, like a bill or a cost. One way or another, someone will have to pick up the bill for this debt."
+              "why": "Pick up here means to pay for something, like a bill or a cost. One way or another, someone will have to pick up the bill for this debt."
             }
           ]
         }
@@ -1319,7 +1319,7 @@
         {
           "verb": "Pick up",
           "ipa": "/pɪk ʌp/",
-          "def": "To agree to pay something",
+          "def": "To pay for something yourself",
           "ex": [
             "The company picks up travel costs for new hires.",
             "Grandpa always picks up the check at dinner.",
@@ -5995,7 +5995,7 @@
             {
               "display": "steer clear of",
               "base": "steer clear of",
-              "correct": "To keep away from something harmful",
+              "correct": "To avoid something harmful",
               "wrong": "To improve your health very slowly",
               "correctFirst": false,
               "why": "Steer clear of means to keep away from something harmful on purpose. The study does not promise that if you steer clear of cigarettes, your own risk drops by exactly 13 years."
@@ -6121,7 +6121,7 @@
         {
           "verb": "Steer clear of",
           "ipa": "/stɪr klɪr ʌv/",
-          "def": "To keep away from something harmful",
+          "def": "To avoid something harmful",
           "ex": [
             "Drivers should steer clear of the icy road near the bridge.",
             "He steers clear of fast food during the week.",
@@ -13920,7 +13920,7 @@
             {
               "display": "shuffled around",
               "base": "shuffle around",
-              "correct": "To move about carelessly",
+              "correct": "To move things carelessly",
               "wrong": "To be sorted by size alone",
               "correctFirst": true,
               "why": "Shuffle around means to move things from place to place without much order or care. On a bad map, whole countries can look shuffled around at random."
@@ -14045,7 +14045,7 @@
         {
           "verb": "Shuffle around",
           "ipa": "/ˈʃʌfəl əˈraʊnd/",
-          "def": "To move about carelessly",
+          "def": "To move things carelessly",
           "ex": [
             "She shuffled around the papers on her desk.",
             "He shuffles around the furniture every year.",
@@ -18221,7 +18221,7 @@
               "display": "shot up",
               "base": "shoot up",
               "correct": "To rise very fast",
-              "wrong": "To fall back very fast",
+              "wrong": "To fall very fast",
               "correctFirst": true,
               "why": "Shoot up means to rise very quickly and by a large amount. Because the skeleton was so rare and complete, the bidding shot up fast during the auction."
             }
@@ -23795,7 +23795,7 @@
               "display": "gives off",
               "base": "give off",
               "correct": "To release light, heat, or gas",
-              "wrong": "To slowly burn out and die",
+              "wrong": "To slowly grow dark and die",
               "correctFirst": true,
               "why": "Give off means to release something, like light, heat, or gas, into the surroundings. The planet's star gives off strong radiation that slowly destroys its atmosphere."
             },
