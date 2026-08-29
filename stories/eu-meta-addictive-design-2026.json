@@ -1,1 +1,563 @@
-{"id":"eu-meta-addictive-design-2026","number":14,"headline":"Europe says Instagram and Facebook are too addictive","badge":"Technology","meta":"","image":"https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n14-eu-meta-addictive-design-2026-flat.webp","position":"center 52%","sources":[{"title":"Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act","url":"https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579"},{"title":"EU says 'addictive' features on Instagram and Facebook breach its rules","url":"https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules"},{"title":"EU puts 'addictive' design of Facebook, Instagram under the DSA microscope","url":"https://www.theregister.com/personal-tech/2026/07/10/eu-puts-addictive-design-of-facebook-instagram-under-the-dsa-microscope/"},{"title":"EU tells Meta to change Facebook and Instagram's 'addictive design' | AFP (video, AFP News Agency)","url":"https://www.youtube.com/watch?v=U2le2V9eRlI"}],"chunks":[{"text":"The European Union has {{spoken out}} against two of the world's most popular apps. Officials said that Instagram and Facebook, which are both [[owned by]] the company Meta, are [[designed]] to be too [[addictive]]. They believe the apps break a European law called the Digital Services Act, because their design can [[harm]] users' health and [[well-being]].","verbs":[{"display":"spoken out","base":"speak out","wrong":"To start a legal case against someone","correct":"To publicly say what you think","correctFirst":true,"why":"Activists speak out against injustice, and employees sometimes speak out about unsafe conditions at work. Here European officials have spoken out against Instagram and Facebook, saying their designs harm users' health."}]},{"text":"The [[regulators]] {{pointed out}} three [[features]] that keep people using the apps [[for hours]]. One feature, called infinite scroll, lets a feed load forever; videos {{start up}} [[on their own]] through [[autoplay]]; and the app keeps {{serving up}} posts it thinks you will like. Together, officials said, these [[tricks]] push the brain into \"[[autopilot]],\" so users {{end up}} [[scrolling]] without really deciding to.","verbs":[{"display":"pointed out","base":"point out","wrong":"To officially declare something illegal","correct":"To tell someone about a fact or detail","correctFirst":true,"why":"A friend might point out a stain on your shirt, and a teacher can point out a mistake in an essay. European regulators pointed out three addictive features in Instagram and Facebook, including infinite scroll and autoplay."},{"display":"start up","base":"start up","wrong":"To play without any sound","correct":"To begin or start operating","correctFirst":false,"why":"A car engine can start up on a cold morning, and a computer takes a moment to start up after you press the button. In this story, videos on Instagram and Facebook start up automatically through autoplay, without anyone pressing play."},{"display":"serving up","base":"serve up","wrong":"To save something to watch later","correct":"To present or offer something","correctFirst":false,"why":"Restaurants serve up daily specials, and streaming apps serve up shows based on what you watched before. Here Instagram and Facebook serve up posts and videos the algorithm thinks will keep you scrolling."},{"display":"end up","base":"end up","wrong":"To lose track of time completely","correct":"To reach a final situation or place","correctFirst":true,"why":"You might end up with the last slice of pizza, or end up in an argument with a stranger. Here small design tricks push users to end up scrolling for hours without ever deciding to."}]},{"text":"Europe now wants Meta to {{turn off}} infinite scroll and autoplay [[unless]] a user chooses them, and to {{cut down}} how much the app decides for each person. Meta does not agree. It says it has already {{brought in}} strong rules to protect [[teenagers]], and that the EU's review does not [[fairly]] show the steps it has taken.","verbs":[{"display":"turn off","base":"turn off","wrong":"To make a feature harder to find","correct":"To stop a machine or feature from working","correctFirst":false,"why":"You turn off the lights before bed, and you turn off your phone during a movie. Europe now wants Meta to turn off autoplay and infinite scroll unless a user actively chooses them."},{"display":"cut down","base":"cut down","wrong":"To let users make every choice","correct":"To reduce the amount of something","correctFirst":true,"why":"Doctors tell patients to cut down on sugar or cut down on late-night coffee. Europe wants Meta to cut down how much control its algorithm has over what each person sees."},{"display":"brought in","base":"bring in","wrong":"To promise stronger rules for the future","correct":"To introduce a new rule, law, or system","correctFirst":true,"why":"Companies bring in new safety rules, and governments bring in fresh laws when problems appear. Meta says it has already brought in strong protections for teenagers, but European regulators are not convinced."}]},{"text":"If Meta cannot [[win the argument]], it may have to {{pay out}} a very large [[fine]], [[up to]] 6% of the money it makes around the world each year. The company can still respond before Europe {{hands down}} [[a final decision]] [[in the coming months]]. Many doctors say that [[endless]] scrolling can {{bring on}} [[anxiety]] and [[low moods]] in young people, and some want the apps to {{take away}} these features [[for good]].","verbs":[{"display":"pay out","base":"pay out","wrong":"To lose money because of falling sales","correct":"To pay a large amount of money","correctFirst":false,"why":"Insurance companies pay out after a car accident, and lotteries pay out huge prizes to winners. If Meta loses this case, it may have to pay out a fine worth up to 6 percent of its yearly global revenue."},{"display":"hands down","base":"hand down","wrong":"To discuss a decision in private","correct":"To officially give a decision or judgment","correctFirst":true,"why":"Judges hand down prison sentences, and courts hand down rulings that change future cases. Europe has not yet handed down its final decision on Meta, but one is expected in the coming months."},{"display":"bring on","base":"bring on","wrong":"To make an illness harder to treat","correct":"To cause something unpleasant to happen","correctFirst":false,"why":"Stress at work can bring on a headache, and cold weather can bring on a nasty cold. Doctors warn that hours of scrolling can bring on anxiety and low moods in young people."},{"display":"take away","base":"take away","wrong":"To hide a feature from young users","correct":"To remove something and carry it away","correctFirst":false,"why":"Movers take away an old couch, and a storm can take away part of a roof. Some doctors want Instagram and Facebook to take away features like infinite scroll and autoplay for good."}]}],"vocab":[{"verb":"Speak out","ipa":"/spiːk aʊt/","def":"To publicly say what you think","ex":["The nurse spoke out about unsafe conditions at the hospital.","More people are speaking out about the problem.","He was brave to speak out at the meeting."]},{"verb":"Point out","ipa":"/pɔɪnt aʊt/","def":"To tell someone about a fact or detail","ex":["My sister pointed out a stain on my shirt.","He pointed out that the shop was closed.","The guide pointed out the oldest building."]},{"verb":"Start up","ipa":"/stɑrt ʌp/","def":"To begin or start operating","ex":["The old computer started up slowly this morning.","The washing machine starts up automatically at the set time.","The machine takes a minute to start up."]},{"verb":"Serve up","ipa":"/sərv ʌp/","def":"To present or offer something","ex":["The bakery serves up fresh bread every morning.","The streaming service serves up shows based on what you watched before.","The website serves up ads between posts."]},{"verb":"End up","ipa":"/ɛnd ʌp/","def":"To reach a final situation or place","ex":["She ended up cooking dinner for the whole family.","He forgot the time and ended up missing his train.","They got lost and ended up in the wrong town."]},{"verb":"Turn off","ipa":"/tərn ɔːf/","def":"To stop a machine or feature from working","ex":["She turned off the TV before going to bed.","You can turn off notifications for group chats.","He turned off his phone during dinner."]},{"verb":"Cut down","ipa":"/kʌt daʊn/","def":"To reduce the amount of something","ex":["The clinic helped him cut down his coffee intake.","The company cut down its spending.","Try to cut down on sugar."]},{"verb":"Bring in","ipa":"/brɪŋ ɪn/","def":"To introduce a new rule, law, or system","ex":["The gym brought in a new fitness program this year.","The city brought in a law to reduce noise.","They brought in stronger safety checks."]},{"verb":"Pay out","ipa":"/peɪ aʊt/","def":"To pay a large amount of money","ex":["The bank had to pay out compensation to customers.","Insurance will pay out after the accident.","They paid out millions to the workers."]},{"verb":"Hand down","ipa":"/hænd daʊn/","def":"To officially give a decision or judgment","ex":["The committee will hand down its verdict on Friday.","The court handed down a heavy fine.","Officials handed down their ruling today."]},{"verb":"Bring on","ipa":"/brɪŋ ɑn/","def":"To cause something unpleasant to happen","ex":["Loud noise at night can bring on a headache.","The bad news brought on a wave of worry.","Cold weather can bring on a cold."]},{"verb":"Take away","ipa":"/teɪk əˈweɪ/","def":"To remove something and carry it away","ex":["The movers took away the old couch this morning.","The storm took away part of the roof.","Please take away these old boxes."]}],"wordDefs":[{"word":"owned by","ipa":"/oʊnd baɪ/","def":"Belonging to a person or a company","ex":["The small bakery is owned by two sisters.","That farm is owned by the same family for generations.","The team is owned by a group of local investors."]},{"word":"designed","ipa":"/dɪˈzaɪnd/","def":"Planned and made for a purpose","ex":["The chair was designed for better back support.","This app was designed to help people save money.","The building was designed by a famous architect."]},{"word":"harm","ipa":"/hɑrm/","def":"To hurt or damage someone or something","ex":["Too much sun can harm your skin.","The chemical spill caused harm to the river.","He apologized and said he meant no harm."]},{"word":"for hours","ipa":"/fɔːr ˈaʊərz/","def":"During a long period of time","ex":["They talked on the phone for hours.","She waited at the clinic for hours.","The children played outside for hours."]},{"word":"on their own","ipa":"/ɑn ðɛər oʊn/","def":"By themselves, without anyone doing anything","ex":["The lights turn off on their own after ten minutes.","The kids can get ready for school on their own now.","The plants grew back on their own after the fire."]},{"word":"tricks","ipa":"/trɪks/","def":"Clever ways of fooling or influencing people","ex":["Magicians use clever tricks to fool the audience.","The salesman used a few tricks to raise the price.","She taught her dog several fun tricks."]},{"word":"win the argument","ipa":"/wɪn ðə ˈɑrɡjəmənt/","def":"To be the one who is judged right in a disagreement","ex":["He always tries to win the argument, even when he's wrong.","She used facts to win the argument with her brother.","Neither side could win the argument that night."]},{"word":"a final decision","ipa":"/ə ˈfaɪnəl dɪˈsɪʒən/","def":"A choice that will not be changed","ex":["The board will make a final decision next Friday.","We still need a final decision on the venue.","The coach announced a final decision about the lineup."]},{"word":"in the coming months","ipa":"/ɪn ðə ˈkʌmɪŋ mʌnθs/","def":"During the next few months","ex":["The store plans to hire more staff in the coming months.","Prices may rise in the coming months.","The city will repair the road in the coming months."]},{"word":"endless","ipa":"/ˈɛndləs/","def":"Seeming to continue forever without stopping","ex":["The desert seemed like an endless stretch of sand.","He asked an endless number of questions.","The wait at the clinic felt endless yesterday."]},{"word":"for good","ipa":"/fɔːr ɡʊd/","def":"Forever, in a way that will not change","ex":["He quit his old job for good last spring.","She left the small town for good after college.","They fixed the leaky roof for good this time."]},{"word":"addictive","ipa":"/əˈdɪktɪv/","def":"Very hard to stop using","ex":["The new video game is surprisingly addictive.","Some snacks are designed to be addictive.","He found the mobile game far too addictive."]},{"word":"regulators","ipa":"/ˈrɛɡjəleɪtərz/","def":"Officials who make sure companies follow the law","ex":["Regulators fined the bank for breaking the rules.","Food regulators inspect restaurants every year.","Regulators asked the airline to explain the delays."]},{"word":"features","ipa":"/ˈfiːtʃərz/","def":"Parts of a product that do particular things","ex":["The new phone has several useful features.","Reviewers praised the car's safety features.","The software update added a few small features."]},{"word":"autoplay","ipa":"/ˈɔtoʊpleɪ/","def":"A setting that starts a video without being asked","ex":["She turned off autoplay to save her phone battery.","Autoplay kept the show running past midnight.","Many streaming services now include autoplay by default."]},{"word":"scrolling","ipa":"/ˈskroʊlɪŋ/","def":"Moving through a screen of content with a finger","ex":["He spent the bus ride scrolling through the news.","Scrolling before bed can make it hard to sleep.","She was scrolling through old photos on her phone."]},{"word":"fine","ipa":"/faɪn/","def":"Money a company must pay as a punishment","ex":["The driver had to pay a fine for speeding.","The city raised the fine for littering.","He paid the library fine before returning the book."]},{"word":"teenagers","ipa":"/ˈtiːneɪdʒərz/","def":"Young people aged 13 to 19","ex":["Teenagers often stay up late on weekends.","The gym offers a discount for teenagers.","Many teenagers work part-time jobs in summer."]},{"word":"anxiety","ipa":"/əŋˈzaɪəti/","def":"A strong feeling of worry","ex":["She felt anxiety before her big exam.","Deep breathing can help reduce anxiety.","His anxiety grew as the deadline got closer."]},{"word":"autopilot","ipa":"/ˈɔtoʊˌpaɪlət/","def":"Doing something without thinking about it","ex":["He drove the familiar route home on autopilot.","After years at the job, she works on autopilot.","The pilot switched the plane to autopilot over the ocean."]},{"word":"well-being","def":"A person's overall health and happiness","ex":["Yoga can improve your overall well-being.","The company offers programs for employee well-being.","Good sleep is important for mental well-being."]},{"word":"unless","def":"Except if, or if not","ex":["We will go hiking unless it rains tomorrow.","She won't call unless something is wrong.","You cannot enter unless you have a ticket."]},{"word":"fairly","def":"In an honest and accurate way","ex":["The judge tried to treat both sides fairly.","Please describe the accident fairly and clearly.","The teacher graded every essay fairly."]},{"word":"up to","def":"As much as, but not more than","ex":["The bag can hold up to ten pounds.","Tickets cost up to fifty dollars each.","The store offers discounts up to forty percent."]},{"word":"low moods","def":"Feelings of sadness or low energy","ex":["Exercise can help with low moods in winter.","She sometimes has low moods after a long week.","Talking to friends can lift low moods quickly."]}],"mainIdea":[{"s":"European officials say Instagram and Facebook use addictive features like infinite scroll and autoplay. They want Meta to turn these off by default or face a fine.","a":true,"why":"Regulators pointed out three addictive features, and they say Meta must turn them off by default or risk a large fine."},{"s":"European regulators have fined Meta millions of dollars for Instagram and Facebook's design. Meta accepted the ruling and agreed to remove autoplay right away.","a":false,"why":"Close, but no fine has been handed down yet. The article says Meta disagrees and disputes the case."},{"s":"Last year, European regulators opened a separate case against another social media company over young users' personal data. That investigation is still open today.","a":false,"why":"This describes a data privacy case against another company. The article is about the addictive design of Instagram and Facebook."}],"tf":[{"s":"Europe wants Meta to turn off infinite scroll and autoplay by default.","a":true,"why":"Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."},{"s":"The regulators pointed out only one feature that keeps people hooked.","a":false,"why":"The regulators pointed out three features, not one: infinite scroll, autoplay, and personalized posts."},{"s":"Meta agreed at once and brought in all the changes the EU asked for.","a":false,"why":"Meta did not agree; it disputed the findings, so it did not bring in, or introduce, the changes."},{"s":"The European Union spoke out against Instagram and Facebook's design.","a":true,"why":"Speak out means to publicly say what you think, which the EU did against the two apps."},{"s":"If Meta loses, it could pay out up to 6% of its yearly global revenue.","a":true,"why":"Pay out means to pay a large amount, and the fine could reach 6% of Meta's yearly revenue."},{"s":"Doctors say that endless scrolling helps take away anxiety in young people.","a":false,"why":"Doctors warn that scrolling can bring on, or cause, anxiety; it does not take it away."}]}
+{
+ "id": "eu-meta-addictive-design-2026",
+ "number": 14,
+ "headline": "Europe says Instagram and Facebook are too addictive",
+ "badge": "Technology",
+ "meta": "",
+ "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n14-eu-meta-addictive-design-2026-flat.webp",
+ "position": "center 52%",
+ "sources": [
+  {
+   "title": "Commission preliminarily finds the addictive design of Instagram and Facebook in breach of the Digital Services Act",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579"
+  },
+  {
+   "title": "EU says 'addictive' features on Instagram and Facebook breach its rules",
+   "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules"
+  },
+  {
+   "title": "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope",
+   "url": "https://www.theregister.com/personal-tech/2026/07/10/eu-puts-addictive-design-of-facebook-instagram-under-the-dsa-microscope/"
+  },
+  {
+   "title": "EU tells Meta to change Facebook and Instagram's 'addictive design' | AFP (video, AFP News Agency)",
+   "url": "https://www.youtube.com/watch?v=U2le2V9eRlI"
+  }
+ ],
+ "chunks": [
+  {
+   "text": "The European Union has {{spoken out}} against two of the world's most popular apps. Officials said that Instagram and Facebook, which are both [[owned by]] the company Meta, are [[designed]] to be too [[addictive]]. They believe the apps break a European law called the Digital Services Act, because their design can [[harm]] users' health and [[well-being]].",
+   "verbs": [
+    {
+     "display": "spoken out",
+     "base": "speak out",
+     "wrong": "To start a legal case against someone",
+     "correct": "To publicly say what you think",
+     "correctFirst": true,
+     "why": "Activists speak out against unfair treatment, and employees sometimes speak out about unsafe conditions at work. Here European officials have spoken out against Instagram and Facebook, saying their designs harm users' health."
+    }
+   ]
+  },
+  {
+   "text": "The [[regulators]] {{pointed out}} three [[features]] that keep people using the apps [[for hours]]. One feature, called infinite scroll, lets a feed load forever; videos {{start up}} [[on their own]] through [[autoplay]]; and the app keeps {{serving up}} posts it thinks you will like. Together, officials said, these [[tricks]] push the brain into \"[[autopilot]],\" so users {{end up}} [[scrolling]] without really deciding to.",
+   "verbs": [
+    {
+     "display": "pointed out",
+     "base": "point out",
+     "wrong": "To officially declare something illegal",
+     "correct": "To tell someone about a fact or detail",
+     "correctFirst": true,
+     "why": "A friend might point out a stain on your shirt, and a teacher can point out a mistake in an essay. European officials pointed out three features that keep people using Instagram and Facebook for hours."
+    },
+    {
+     "display": "start up",
+     "base": "start up",
+     "wrong": "To play without any sound",
+     "correct": "To begin or start operating",
+     "correctFirst": false,
+     "why": "A car engine can start up on a cold morning, and a computer takes a moment to start up after you press the button. In this story, videos on Instagram and Facebook start up automatically through autoplay, without anyone pressing play."
+    },
+    {
+     "display": "serving up",
+     "base": "serve up",
+     "wrong": "To save something to watch later",
+     "correct": "To present or offer something",
+     "correctFirst": false,
+     "why": "Restaurants serve up daily specials, and streaming apps serve up shows based on what you watched before. Here Instagram and Facebook serve up posts and videos the app thinks you will like."
+    },
+    {
+     "display": "end up",
+     "base": "end up",
+     "wrong": "To lose track of time completely",
+     "correct": "To reach a final situation or place",
+     "correctFirst": true,
+     "why": "You might end up with the last slice of pizza, or end up in an argument with a stranger. Here small design tricks push users to end up scrolling for hours without ever deciding to."
+    }
+   ]
+  },
+  {
+   "text": "Europe now wants Meta to {{turn off}} infinite scroll and autoplay [[unless]] a user chooses them, and to {{cut down}} how much the app decides for each person. Meta does not agree. It says it has already {{brought in}} strong rules to protect [[teenagers]], and that the EU's review does not [[fairly]] show the steps it has taken.",
+   "verbs": [
+    {
+     "display": "turn off",
+     "base": "turn off",
+     "wrong": "To make a feature harder to find",
+     "correct": "To stop a machine or feature from working",
+     "correctFirst": false,
+     "why": "You turn off the lights before bed, and you turn off your phone during a movie. Europe now wants Meta to turn off autoplay and infinite scroll unless a user actively chooses them."
+    },
+    {
+     "display": "cut down",
+     "base": "cut down",
+     "wrong": "To let users make every choice",
+     "correct": "To reduce the amount of something",
+     "correctFirst": true,
+     "why": "Doctors tell patients to cut down on sugar or cut down on late night coffee. Europe wants Meta to cut down how much control the app has over what each person sees."
+    },
+    {
+     "display": "brought in",
+     "base": "bring in",
+     "wrong": "To promise stronger rules for the future",
+     "correct": "To introduce a new rule, law, or system",
+     "correctFirst": true,
+     "why": "Companies bring in new safety rules, and governments bring in fresh laws when problems appear. Meta says it has already brought in strong protections for teenagers, but European officials are not convinced."
+    }
+   ]
+  },
+  {
+   "text": "If Meta cannot [[win the argument]], it may have to {{pay out}} a very large [[fine]], [[up to]] 6% of the money it makes around the world each year. The company can still respond before Europe {{hands down}} [[a final decision]] [[in the coming months]]. Many doctors say that [[endless]] scrolling can {{bring on}} [[anxiety]] and [[low moods]] in young people, and some want the apps to {{take away}} these features [[for good]].",
+   "verbs": [
+    {
+     "display": "pay out",
+     "base": "pay out",
+     "wrong": "To lose money because of falling sales",
+     "correct": "To pay a large amount of money",
+     "correctFirst": false,
+     "why": "Insurance companies pay out after a car accident, and lotteries pay out huge prizes to winners. If Meta loses this case, it may have to pay out a fine worth six percent of all the money it earns worldwide each year."
+    },
+    {
+     "display": "hands down",
+     "base": "hand down",
+     "wrong": "To discuss a decision in private",
+     "correct": "To officially give a decision or judgment",
+     "correctFirst": true,
+     "why": "Judges hand down prison sentences, and courts hand down decisions that change future cases. Europe has not yet handed down its final decision on Meta, but one is expected soon."
+    },
+    {
+     "display": "bring on",
+     "base": "bring on",
+     "wrong": "To make an illness harder to treat",
+     "correct": "To cause something unpleasant to happen",
+     "correctFirst": false,
+     "why": "Stress at work can bring on a headache, and cold weather can bring on a nasty cold. Doctors warn that hours of scrolling can bring on anxiety and low moods in young people."
+    },
+    {
+     "display": "take away",
+     "base": "take away",
+     "wrong": "To hide a feature from young users",
+     "correct": "To remove something and carry it away",
+     "correctFirst": false,
+     "why": "Movers take away an old couch, and a storm can take away part of a roof. Some doctors want Instagram and Facebook to take away features like infinite scroll and autoplay for good."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "verb": "Speak out",
+   "ipa": "/spiːk aʊt/",
+   "def": "To publicly say what you think",
+   "ex": [
+    "The nurse spoke out about unsafe conditions at the hospital.",
+    "More people are speaking out about the problem.",
+    "He was brave to speak out at the meeting."
+   ]
+  },
+  {
+   "verb": "Point out",
+   "ipa": "/pɔɪnt aʊt/",
+   "def": "To tell someone about a fact or detail",
+   "ex": [
+    "My sister pointed out a stain on my shirt.",
+    "He pointed out that the shop was closed.",
+    "The guide pointed out the oldest building."
+   ]
+  },
+  {
+   "verb": "Start up",
+   "ipa": "/stɑrt ʌp/",
+   "def": "To begin or start operating",
+   "ex": [
+    "The old computer started up slowly this morning.",
+    "The washing machine starts up automatically at the set time.",
+    "The machine takes a minute to start up."
+   ]
+  },
+  {
+   "verb": "Serve up",
+   "ipa": "/sərv ʌp/",
+   "def": "To present or offer something",
+   "ex": [
+    "The bakery serves up fresh bread every morning.",
+    "The streaming service serves up shows based on what you watched before.",
+    "The website serves up ads between posts."
+   ]
+  },
+  {
+   "verb": "End up",
+   "ipa": "/ɛnd ʌp/",
+   "def": "To reach a final situation or place",
+   "ex": [
+    "She ended up cooking dinner for the whole family.",
+    "He forgot the time and ended up missing his train.",
+    "They got lost and ended up in the wrong town."
+   ]
+  },
+  {
+   "verb": "Turn off",
+   "ipa": "/tərn ɔːf/",
+   "def": "To stop a machine or feature from working",
+   "ex": [
+    "She turned off the TV before going to bed.",
+    "You can turn off notifications for group chats.",
+    "He turned off his phone during dinner."
+   ]
+  },
+  {
+   "verb": "Cut down",
+   "ipa": "/kʌt daʊn/",
+   "def": "To reduce the amount of something",
+   "ex": [
+    "The clinic helped him cut down his coffee intake.",
+    "The company cut down its spending.",
+    "Try to cut down on sugar."
+   ]
+  },
+  {
+   "verb": "Bring in",
+   "ipa": "/brɪŋ ɪn/",
+   "def": "To introduce a new rule, law, or system",
+   "ex": [
+    "The gym brought in a new fitness program this year.",
+    "The city brought in a law to reduce noise.",
+    "They brought in stronger safety checks."
+   ]
+  },
+  {
+   "verb": "Pay out",
+   "ipa": "/peɪ aʊt/",
+   "def": "To pay a large amount of money",
+   "ex": [
+    "The bank had to pay out compensation to customers.",
+    "Insurance will pay out after the accident.",
+    "They paid out millions to the workers."
+   ]
+  },
+  {
+   "verb": "Hand down",
+   "ipa": "/hænd daʊn/",
+   "def": "To officially give a decision or judgment",
+   "ex": [
+    "The committee will hand down its verdict on Friday.",
+    "The court handed down a heavy fine.",
+    "Officials handed down their ruling today."
+   ]
+  },
+  {
+   "verb": "Bring on",
+   "ipa": "/brɪŋ ɑn/",
+   "def": "To cause something unpleasant to happen",
+   "ex": [
+    "Loud noise at night can bring on a headache.",
+    "The bad news brought on a wave of worry.",
+    "Cold weather can bring on a cold."
+   ]
+  },
+  {
+   "verb": "Take away",
+   "ipa": "/teɪk əˈweɪ/",
+   "def": "To remove something and carry it away",
+   "ex": [
+    "The movers took away the old couch this morning.",
+    "The storm took away part of the roof.",
+    "Please take away these old boxes."
+   ]
+  }
+ ],
+ "wordDefs": [
+  {
+   "word": "owned by",
+   "ipa": "/oʊnd baɪ/",
+   "def": "Belonging to a person or a company",
+   "ex": [
+    "The small bakery is owned by two sisters.",
+    "That farm is owned by the same family for generations.",
+    "The team is owned by a group of local investors."
+   ]
+  },
+  {
+   "word": "designed",
+   "ipa": "/dɪˈzaɪnd/",
+   "def": "Planned and made for a purpose",
+   "ex": [
+    "The chair was designed for better back support.",
+    "This app was designed to help people save money.",
+    "The building was designed by a famous architect."
+   ]
+  },
+  {
+   "word": "harm",
+   "ipa": "/hɑrm/",
+   "def": "To hurt or damage someone or something",
+   "ex": [
+    "Too much sun can harm your skin.",
+    "The chemical spill caused harm to the river.",
+    "He apologized and said he meant no harm."
+   ]
+  },
+  {
+   "word": "for hours",
+   "ipa": "/fɔːr ˈaʊərz/",
+   "def": "During a long period of time",
+   "ex": [
+    "They talked on the phone for hours.",
+    "She waited at the clinic for hours.",
+    "The children played outside for hours."
+   ]
+  },
+  {
+   "word": "on their own",
+   "ipa": "/ɑn ðɛər oʊn/",
+   "def": "By themselves, without anyone doing anything",
+   "ex": [
+    "The lights turn off on their own after ten minutes.",
+    "The kids can get ready for school on their own now.",
+    "The plants grew back on their own after the fire."
+   ]
+  },
+  {
+   "word": "tricks",
+   "ipa": "/trɪks/",
+   "def": "Clever ways of fooling or influencing people",
+   "ex": [
+    "Magicians use clever tricks to fool the audience.",
+    "The salesman used a few tricks to raise the price.",
+    "She taught her dog several fun tricks."
+   ]
+  },
+  {
+   "word": "win the argument",
+   "ipa": "/wɪn ðə ˈɑrɡjəmənt/",
+   "def": "To be the one who is judged right in a disagreement",
+   "ex": [
+    "He always tries to win the argument, even when he's wrong.",
+    "She used facts to win the argument with her brother.",
+    "Neither side could win the argument that night."
+   ]
+  },
+  {
+   "word": "a final decision",
+   "ipa": "/ə ˈfaɪnəl dɪˈsɪʒən/",
+   "def": "A choice that will not be changed",
+   "ex": [
+    "The board will make a final decision next Friday.",
+    "We still need a final decision on the venue.",
+    "The coach announced a final decision about the lineup."
+   ]
+  },
+  {
+   "word": "in the coming months",
+   "ipa": "/ɪn ðə ˈkʌmɪŋ mʌnθs/",
+   "def": "During the next few months",
+   "ex": [
+    "The store plans to hire more staff in the coming months.",
+    "Prices may rise in the coming months.",
+    "The city will repair the road in the coming months."
+   ]
+  },
+  {
+   "word": "endless",
+   "ipa": "/ˈɛndləs/",
+   "def": "Seeming to continue forever without stopping",
+   "ex": [
+    "The desert seemed like an endless stretch of sand.",
+    "He asked an endless number of questions.",
+    "The wait at the clinic felt endless yesterday."
+   ]
+  },
+  {
+   "word": "for good",
+   "ipa": "/fɔːr ɡʊd/",
+   "def": "Forever, in a way that will not change",
+   "ex": [
+    "He quit his old job for good last spring.",
+    "She left the small town for good after college.",
+    "They fixed the leaky roof for good this time."
+   ]
+  },
+  {
+   "word": "addictive",
+   "ipa": "/əˈdɪktɪv/",
+   "def": "Very hard to stop using",
+   "ex": [
+    "The new video game is surprisingly addictive.",
+    "Some snacks are designed to be addictive.",
+    "He found the mobile game far too addictive."
+   ]
+  },
+  {
+   "word": "regulators",
+   "ipa": "/ˈrɛɡjəleɪtərz/",
+   "def": "Officials who make sure companies follow the law",
+   "ex": [
+    "Regulators fined the bank for breaking the rules.",
+    "Food regulators inspect restaurants every year.",
+    "Regulators asked the airline to explain the delays."
+   ]
+  },
+  {
+   "word": "features",
+   "ipa": "/ˈfiːtʃərz/",
+   "def": "Parts of a product that do particular things",
+   "ex": [
+    "The new phone has several useful features.",
+    "Reviewers praised the car's safety features.",
+    "The software update added a few small features."
+   ]
+  },
+  {
+   "word": "autoplay",
+   "ipa": "/ˈɔtoʊpleɪ/",
+   "def": "A setting that starts a video without being asked",
+   "ex": [
+    "She turned off autoplay to save her phone battery.",
+    "Autoplay kept the show running past midnight.",
+    "Many streaming services now include autoplay by default."
+   ]
+  },
+  {
+   "word": "scrolling",
+   "ipa": "/ˈskroʊlɪŋ/",
+   "def": "Moving through a screen of content with a finger",
+   "ex": [
+    "He spent the bus ride scrolling through the news.",
+    "Scrolling before bed can make it hard to sleep.",
+    "She was scrolling through old photos on her phone."
+   ]
+  },
+  {
+   "word": "fine",
+   "ipa": "/faɪn/",
+   "def": "Money a company must pay as a punishment",
+   "ex": [
+    "The driver had to pay a fine for speeding.",
+    "The city raised the fine for littering.",
+    "He paid the library fine before returning the book."
+   ]
+  },
+  {
+   "word": "teenagers",
+   "ipa": "/ˈtiːneɪdʒərz/",
+   "def": "Young people aged 13 to 19",
+   "ex": [
+    "Teenagers often stay up late on weekends.",
+    "The gym offers a discount for teenagers.",
+    "Many teenagers work part-time jobs in summer."
+   ]
+  },
+  {
+   "word": "anxiety",
+   "ipa": "/əŋˈzaɪəti/",
+   "def": "A strong feeling of worry",
+   "ex": [
+    "She felt anxiety before her big exam.",
+    "Deep breathing can help reduce anxiety.",
+    "His anxiety grew as the deadline got closer."
+   ]
+  },
+  {
+   "word": "autopilot",
+   "ipa": "/ˈɔtoʊˌpaɪlət/",
+   "def": "Doing something without thinking about it",
+   "ex": [
+    "He drove the familiar route home on autopilot.",
+    "After years at the job, she works on autopilot.",
+    "The pilot switched the plane to autopilot over the ocean."
+   ]
+  },
+  {
+   "word": "well-being",
+   "def": "A person's overall health and happiness",
+   "ex": [
+    "Yoga can improve your overall well-being.",
+    "The company offers programs for employee well-being.",
+    "Good sleep is important for mental well-being."
+   ]
+  },
+  {
+   "word": "unless",
+   "def": "Except if, or if not",
+   "ex": [
+    "We will go hiking unless it rains tomorrow.",
+    "She won't call unless something is wrong.",
+    "You cannot enter unless you have a ticket."
+   ]
+  },
+  {
+   "word": "fairly",
+   "def": "In an honest and accurate way",
+   "ex": [
+    "The judge tried to treat both sides fairly.",
+    "Please describe the accident fairly and clearly.",
+    "The teacher graded every essay fairly."
+   ]
+  },
+  {
+   "word": "up to",
+   "def": "As much as, but not more than",
+   "ex": [
+    "The bag can hold up to ten pounds.",
+    "Tickets cost up to fifty dollars each.",
+    "The store offers discounts up to forty percent."
+   ]
+  },
+  {
+   "word": "low moods",
+   "def": "Feelings of sadness or low energy",
+   "ex": [
+    "Exercise can help with low moods in winter.",
+    "She sometimes has low moods after a long week.",
+    "Talking to friends can lift low moods quickly."
+   ]
+  }
+ ],
+ "mainIdea": [
+  {
+   "s": "European officials say Instagram and Facebook use addictive features like infinite scroll and autoplay. They want Meta to turn these off by default or face a fine.",
+   "a": true,
+   "why": "Regulators pointed out three addictive features, and they say Meta must turn them off by default or risk a large fine."
+  },
+  {
+   "s": "European regulators have fined Meta millions of dollars for Instagram and Facebook's design. Meta accepted the ruling and agreed to remove autoplay right away.",
+   "a": false,
+   "why": "Close, but no fine has been handed down yet. The article says Meta disagrees and disputes the case."
+  },
+  {
+   "s": "Last year, European regulators opened a separate case against another social media company over young users' personal data. That investigation is still open today.",
+   "a": false,
+   "why": "This describes a data privacy case against another company. The article is about the addictive design of Instagram and Facebook."
+  }
+ ],
+ "tf": [
+  {
+   "s": "Europe wants Meta to turn off infinite scroll and autoplay by default.",
+   "a": true,
+   "why": "Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."
+  },
+  {
+   "s": "The regulators pointed out only one feature that keeps people hooked.",
+   "a": false,
+   "why": "The regulators pointed out three features, not one: infinite scroll, autoplay, and personalized posts."
+  },
+  {
+   "s": "Meta agreed at once and brought in all the changes the EU asked for.",
+   "a": false,
+   "why": "Meta did not agree; it disputed the findings, so it did not bring in, or introduce, the changes."
+  },
+  {
+   "s": "The European Union spoke out against Instagram and Facebook's design.",
+   "a": true,
+   "why": "Speak out means to publicly say what you think, which the EU did against the two apps."
+  },
+  {
+   "s": "If Meta loses, it could pay out up to 6% of its yearly global revenue.",
+   "a": true,
+   "why": "Pay out means to pay a large amount, and the fine could reach 6% of Meta's yearly revenue."
+  },
+  {
+   "s": "Doctors say that endless scrolling helps take away anxiety in young people.",
+   "a": false,
+   "why": "Doctors warn that scrolling can bring on, or cause, anxiety; it does not take it away."
+  }
+ ]
+}

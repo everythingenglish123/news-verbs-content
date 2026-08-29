@@ -1,1 +1,535 @@
-{"id":"china-rocket-recovery-2026","number":15,"headline":"China lands a rocket booster on a ship at sea","badge":"Science","meta":"","image":"https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n15-china-rocket-recovery-2026-flat.webp","position":"center 62%","sources":[{"title":"Making history! China lands rocket during an orbital launch for 1st time ever","url":"https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever"},{"title":"China becomes second country to recover orbital booster with Long March 10B","url":"https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/"},{"title":"China Successfully Launches, Retrieves Reusable Rocket Booster","url":"https://www.bloomberg.com/news/articles/2026-07-10/china-successfully-launches-retrieves-reusable-rocket-booster"},{"title":"China catches Long March-10B booster in reusable rocket breakthrough (video, CGTN)","url":"https://www.youtube.com/watch?v=xuuWwF3Vado"}],"chunks":[{"text":"China has {{pulled off}} [[a major step]] in space travel. From the Hainan Commercial Space Launch Site, a new rocket called the Long March-10B {{took off}}, carried a [[satellite]] into [[orbit]], and then [[guided]] its huge lower part, or [[booster]], [[safely]] back to Earth. China became only the second country, after the United States, to [[recover]] an orbital rocket so it can be used again.","verbs":[{"display":"pulled off","base":"pull off","wrong":"To try something for the first time","correct":"To succeed in doing something difficult","correctFirst":false,"why":"A team pulls off an upset win against a much stronger rival, and a chef can pull off a difficult dish under pressure. China pulled off catching its rocket booster in a giant net at sea."},{"display":"took off","base":"take off","wrong":"To separate suddenly from another part","correct":"To leave the ground and begin to fly","correctFirst":true,"why":"A plane takes off once the runway is clear, and a flock of birds can take off all at once. The Long March-10B took off, carried a satellite into orbit, and later returned its booster safely."}]},{"text":"After the rocket climbed high into the sky, its first [[stage]] [[separated]] and {{came down}} toward the sea. About six minutes later, a giant net on a floating [[platform]] caught it. Chinese [[engineers]] had {{set up}} this net capture system, and they had never {{tried out}} such a design in a real flight before.","verbs":[{"display":"came down","base":"come down","wrong":"To become slower before landing","correct":"To move down toward a lower place","correctFirst":false,"why":"Rain comes down hard during a summer storm, and an elevator comes down to the lobby in seconds. After separating from the rocket, the first stage came down toward the ocean, right where a net was waiting."},{"display":"set up","base":"set up","wrong":"To repair a machine that had broken","correct":"To create or establish something new","correctFirst":false,"why":"A new business sets up a website before opening its doors, and a scientist sets up an experiment step by step. Chinese engineers set up a huge net capture system that had never been tested in a real flight."},{"display":"tried out","base":"try out","wrong":"To practice something many times","correct":"To test something to see if it works","correctFirst":true,"why":"A shopper tries out a new mattress in the store, and a driver can try out a car before buying it. Engineers had never tried out this exact net design in an actual flight before this launch."}]},{"text":"Landing a booster is difficult, but it {{pays off}}. [[Normally]], rockets are used only once and then {{thrown away}}. If the same booster can fly [[again and again]], companies can {{cut down}} their costs and launch [[far more]] often. [[For years]], the American company SpaceX has led this [[field]], and China is now [[working hard]] to {{catch up}}.","verbs":[{"display":"pays off","base":"pay off","wrong":"To become easier with practice","correct":"To bring a good result after effort","correctFirst":false,"why":"Months of practice pay off on race day, and extra studying can pay off on a hard exam. Landing a booster is difficult, but for China this attempt clearly paid off with a successful catch."},{"display":"thrown away","base":"throw away","wrong":"To keep something for the next launch","correct":"To remove something you do not want","correctFirst":true,"why":"People throw away old newspapers after cleaning a garage, and a cook throws away food that has gone bad. Normally, rockets are used only once and then thrown away, but a reusable booster changes that completely."},{"display":"cut down","base":"cut down","wrong":"To share costs with other companies","correct":"To reduce the amount of something","correctFirst":true,"why":"A family cuts down spending before a big trip, and a runner can cut down her race time with training. If a booster can fly again and again, companies can cut down their launch costs significantly."},{"display":"catch up","base":"catch up","wrong":"To copy another company's design","correct":"To reach the same level as someone ahead","correctFirst":false,"why":"A student catches up on missed homework after being sick, and a smaller company can catch up to a market leader. SpaceX has led reusable rockets for years, and China is now working hard to catch up."}]},{"text":"The Long March-10B stands about 63 meters tall, and [[one day]] it may help {{carry out}} China's plan to send [[astronauts]] to the Moon. Engineers now want to {{look over}} the returned booster, and they hope to fly it again [[before the end of]] the year. If everything {{goes ahead}} [[as planned]], [[reusable]] Chinese rockets could soon become normal.","verbs":[{"display":"carry out","base":"carry out","wrong":"To announce a plan to the whole world","correct":"To do or complete a planned task or action","correctFirst":false,"why":"Soldiers carry out orders during a drill, and a team carries out a plan step by step. This same rocket may one day help carry out China's mission to send astronauts to the Moon."},{"display":"look over","base":"look over","wrong":"To repair something before using it again","correct":"To examine or check something carefully","correctFirst":true,"why":"A mechanic looks over an engine before a long drive, and a judge looks over each project at a science fair. Engineers now want to look over the returned booster before deciding if it can fly again."},{"display":"goes ahead","base":"go ahead","wrong":"To finish earlier than expected","correct":"To happen or continue as planned","correctFirst":true,"why":"A wedding can go ahead even with rain, and a meeting goes ahead as scheduled despite one absence. If everything goes ahead as planned, reusable Chinese rockets could soon become completely normal."}]}],"vocab":[{"verb":"Pull off","ipa":"/pʊl ɔːf/","def":"To succeed in doing something difficult","ex":["The crew pulled off a tricky repair mid-flight.","It was a hard plan, but they pulled it off.","She pulled off the difficult trick on her first try."]},{"verb":"Take off","ipa":"/teɪk ɔːf/","def":"To leave the ground and begin to fly","ex":["The flight took off two hours late due to weather.","We watched the rocket take off into the sky.","The birds took off when they heard the noise."]},{"verb":"Come down","ipa":"/kʌm daʊn/","def":"To move down toward a lower place","ex":["The elevator came down to the lobby in seconds.","Rain came down hard all afternoon.","The climber came down from the mountain before dark."]},{"verb":"Set up","ipa":"/sɛt ʌp/","def":"To create or establish something new","ex":["She set up a small stand at the farmers market.","They set up a new company last year.","Volunteers set up a system to track new donations."]},{"verb":"Try out","ipa":"/traɪ aʊt/","def":"To test something to see if it works","ex":["We tried out the new restaurant last weekend.","He tried out the new bike before buying it.","She tried out a few paint colors before choosing one."]},{"verb":"Pay off","ipa":"/peɪ ɔːf/","def":"To bring a good result after effort","ex":["His extra practice paid off during the final game.","The training paid off when the team won.","Saving money now will pay off later."]},{"verb":"Throw away","ipa":"/θroʊ əˈweɪ/","def":"To remove something you do not want","ex":["She threw away the old newspapers after cleaning the garage.","He threw away the broken toy.","We should not throw away food that is still good."]},{"verb":"Cut down","ipa":"/kʌt daʊn/","def":"To reduce the amount of something","ex":["We cut down our grocery spending this month.","I am trying to cut down my screen time.","They cut down the number of flights."]},{"verb":"Catch up","ipa":"/kætʃ ʌp/","def":"To reach the same level as someone ahead","ex":["The smaller shop is working to catch up with its rivals.","Our team is trying to catch up with the leaders.","He studied hard to catch up in class."]},{"verb":"Carry out","ipa":"/ˈkæri aʊt/","def":"To do or complete a planned task or action","ex":["The city carried out repairs on the old bridge.","Soldiers carried out their orders during the long drill.","The company carried out a survey of its workers."]},{"verb":"Look over","ipa":"/lʊk ˈoʊvər/","def":"To examine or check something carefully","ex":["The mechanic looked over the engine before the long drive.","The judges looked over each project.","She looked over the car before the trip."]},{"verb":"Go ahead","ipa":"/ɡoʊ əˈhɛd/","def":"To happen or continue as planned","ex":["The meeting will go ahead even if she is late.","If the plan goes ahead, work starts in May.","The wedding went ahead as planned."]}],"wordDefs":[{"word":"a major step","ipa":"/ə ˈmeɪdʒər stɛp/","def":"An important move forward","ex":["Getting her driver's license was a major step for her.","Signing the contract was a major step for the company.","Moving to a new city was a major step in his life."]},{"word":"guided","ipa":"/ˈɡaɪdɪd/","def":"Led or directed someone or something to a place","ex":["The tour guide guided us through the old castle.","She guided her students through the difficult lesson.","A ranger guided the hikers along the trail."]},{"word":"safely","ipa":"/ˈseɪfli/","def":"Without harm or danger","ex":["The pilot landed the plane safely in the storm.","Please drive safely on the icy roads.","The children crossed the street safely with their teacher."]},{"word":"recover","ipa":"/rɪˈkʌvər/","def":"To get something back or bring it back safely","ex":["Divers tried to recover the sunken ship.","It took months for him to recover his stolen car.","The team worked to recover the lost data."]},{"word":"separated","ipa":"/ˈsɛpəreɪtɪd/","def":"Came apart from each other","ex":["The two friends separated at the train station.","The clouds separated and the sun came out.","The teacher separated the class into small groups."]},{"word":"again and again","ipa":"/əˈɡɛn ənd əˈɡɛn/","def":"Many times, over and over","ex":["He asked the same question again and again.","She rewrote the essay again and again until it was perfect.","The dog barked at the mailman again and again."]},{"word":"far more","ipa":"/fɑr mɔːr/","def":"Much more","ex":["This apartment costs far more than the last one.","She has far more experience than the other candidates.","The new phone has far more storage space."]},{"word":"field","ipa":"/fiːld/","def":"An area of work or study","ex":["She has worked in the field of nursing for ten years.","He wants a career in the field of law.","The field of technology changes very quickly."]},{"word":"working hard","ipa":"/ˈwərkɪŋ hɑrd/","def":"Putting a lot of effort into something","ex":["He has been working hard to fix his grades.","The team is working hard before the big game.","She is working hard to open her own bakery."]},{"word":"one day","ipa":"/wʌn deɪ/","def":"At some time in the future","ex":["He hopes to own a boat one day.","She dreams of running her own restaurant one day.","One day, he wants to travel around the world."]},{"word":"as planned","ipa":"/əz plænd/","def":"In the way it was arranged","ex":["The trip continued as planned despite the rain.","Everything went as planned during the wedding.","The launch happened as planned early that morning."]},{"word":"booster","ipa":"/ˈbuːstər/","def":"The lower part of a rocket that gives the first push","ex":["The vaccine booster is given once a year.","The rocket's booster separated after a few minutes.","Mechanics checked the booster before the next test."]},{"word":"satellite","ipa":"/ˈsætəlaɪt/","def":"A machine sent to circle the Earth","ex":["The satellite sends pictures of the weather back to Earth.","Engineers launched a new satellite into space last month.","The old satellite stopped working after ten years."]},{"word":"orbit","ipa":"/ˈɔːrbət/","def":"The path an object follows around the Earth","ex":["The moon stays in orbit around the Earth.","The spacecraft entered orbit after a long flight.","Scientists tracked the satellite's orbit carefully."]},{"word":"stage","ipa":"/steɪdʒ/","def":"One section of a rocket that falls away","ex":["The first stage of the plan is almost finished.","Each stage of the race gets harder.","They completed the final stage of construction."]},{"word":"platform","ipa":"/ˈplætfɔːrm/","def":"A flat floating structure at sea","ex":["Workers stood on a platform to paint the bridge.","The train platform was crowded during rush hour.","A wooden platform held the heavy equipment."]},{"word":"astronauts","ipa":"/ˈæstrənɔːts/","def":"People trained to travel into space","ex":["The astronauts trained for months before the mission.","Two astronauts walked outside the space station.","Young astronauts study science and engineering."]},{"word":"reusable","ipa":"/riˈuːzəbəl/","def":"Able to be used more than once","ex":["She carries a reusable water bottle everywhere.","The store sells reusable shopping bags.","Reusable containers help reduce plastic waste."]},{"word":"engineers","ipa":"/ˌɛndʒəˈnɪrz/","def":"People who design and build machines","ex":["Engineers designed a bridge to survive earthquakes.","The company hired new engineers for the project.","Engineers tested the machine before it shipped."]},{"word":"for years","def":"For a long period of time","ex":["They lived in that house for years.","She has played the piano for years.","The company has used the same logo for years."]},{"word":"normally","def":"Usually, in most cases","ex":["Normally, I wake up before seven o'clock.","The store normally closes at nine.","He normally walks to work instead of driving."]},{"word":"before the end of","def":"Prior to a certain time period finishing","ex":["We hope to finish the project before the end of the month.","Please pay the bill before the end of the week.","She wants to graduate before the end of next year."]}],"mainIdea":[{"s":"China's new rocket carried a satellite into orbit, and engineers used a net on a ship to catch its booster. This makes China only the second country to recover one.","a":true,"why":"China recovered the booster with a net system, becoming only the second country to recover an orbital booster."},{"s":"China's rocket landing shows the country has caught up with SpaceX and now leads the world in reusable rockets. Engineers plan to reuse the booster many times.","a":false,"why":"Close, but China has not caught up yet. The article says SpaceX has led the field for years."},{"s":"Last year, China sent a new crew of astronauts to its space station for a six-month mission. Officials said the crew would carry out several experiments there.","a":false,"why":"This describes a crew mission to China's space station. The article is about landing a reusable rocket booster on a ship."}],"tf":[{"s":"The Long March-10B took off and carried a satellite into orbit.","a":true,"why":"Take off means to leave the ground and begin to fly, which the rocket did before releasing its satellite."},{"s":"China has already caught up with SpaceX and now leads the field.","a":false,"why":"SpaceX has led for years, so China is still trying to catch up, not leading."},{"s":"After separating, the booster was thrown away into the ocean.","a":false,"why":"The booster was caught in a net to be used again, so it was not thrown away, which means to get rid of something."},{"s":"Engineers said the landing had failed and did not pay off.","a":false,"why":"The landing succeeded, so the effort did pay off, which means to bring a good result."},{"s":"Reusing boosters could help companies cut down their costs.","a":true,"why":"Cut down means to reduce, and flying the same booster again cuts down launch costs."},{"s":"Chinese engineers set up a net system to catch the booster.","a":true,"why":"Set up means to create or establish something new, which is what the engineers did with the net system."}]}
+{
+ "id": "china-rocket-recovery-2026",
+ "number": 15,
+ "headline": "China lands a rocket booster on a ship at sea",
+ "badge": "Science",
+ "meta": "",
+ "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n15-china-rocket-recovery-2026-flat.webp",
+ "position": "center 62%",
+ "sources": [
+  {
+   "title": "Making history! China lands rocket during an orbital launch for 1st time ever",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/making-history-china-lands-rocket-during-an-orbital-launch-for-1st-time-ever"
+  },
+  {
+   "title": "China becomes second country to recover orbital booster with Long March 10B",
+   "url": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/"
+  },
+  {
+   "title": "China Successfully Launches, Retrieves Reusable Rocket Booster",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-10/china-successfully-launches-retrieves-reusable-rocket-booster"
+  },
+  {
+   "title": "China catches Long March-10B booster in reusable rocket breakthrough (video, CGTN)",
+   "url": "https://www.youtube.com/watch?v=xuuWwF3Vado"
+  }
+ ],
+ "chunks": [
+  {
+   "text": "China has {{pulled off}} [[a major step]] in space travel. From the Hainan Commercial Space Launch Site, a new rocket called the Long March-10B {{took off}}, carried a [[satellite]] into [[orbit]], and then [[guided]] its huge lower part, or [[booster]], [[safely]] back to Earth. China became only the second country, after the United States, to [[recover]] an orbital rocket so it can be used again.",
+   "verbs": [
+    {
+     "display": "pulled off",
+     "base": "pull off",
+     "wrong": "To try something for the first time",
+     "correct": "To succeed in doing something difficult",
+     "correctFirst": false,
+     "why": "A team pulls off a surprise win against a better opponent, and a cook can pull off a hard recipe under pressure. Here China pulled off a major step forward in space travel."
+    },
+    {
+     "display": "took off",
+     "base": "take off",
+     "wrong": "To separate suddenly from another part",
+     "correct": "To leave the ground and begin to fly",
+     "correctFirst": true,
+     "why": "A plane takes off once the runway is clear, and a flock of birds can take off together. The Long March-10B took off from Hainan, carried a satellite into space, and later returned its booster safely to Earth."
+    }
+   ]
+  },
+  {
+   "text": "After the rocket climbed high into the sky, its first [[stage]] [[separated]] and {{came down}} toward the sea. About six minutes later, a giant net on a floating [[platform]] caught it. Chinese [[engineers]] had {{set up}} this net capture system, and they had never {{tried out}} such a design in a real flight before.",
+   "verbs": [
+    {
+     "display": "came down",
+     "base": "come down",
+     "wrong": "To become slower before landing",
+     "correct": "To move down toward a lower place",
+     "correctFirst": false,
+     "why": "Rain comes down hard during a summer storm, and an elevator comes down to the lobby in seconds. After separating from the rocket, the first stage came down toward the ocean, right where a net was waiting."
+    },
+    {
+     "display": "set up",
+     "base": "set up",
+     "wrong": "To repair a machine that had broken",
+     "correct": "To create or establish something new",
+     "correctFirst": false,
+     "why": "A new business sets up a website before opening its doors, and a scientist sets up an experiment step by step. Chinese engineers set up a huge net capture system that had never been tested in a real flight."
+    },
+    {
+     "display": "tried out",
+     "base": "try out",
+     "wrong": "To practice something many times",
+     "correct": "To test something to see if it works",
+     "correctFirst": true,
+     "why": "A shopper tries out a new mattress in the store, and a driver can try out a car before buying it. Engineers had never tried out this exact net design in an actual flight before this launch."
+    }
+   ]
+  },
+  {
+   "text": "Landing a booster is difficult, but it {{pays off}}. [[Normally]], rockets are used only once and then {{thrown away}}. If the same booster can fly [[again and again]], companies can {{cut down}} their costs and launch [[far more]] often. [[For years]], the American company SpaceX has led this [[field]], and China is now [[working hard]] to {{catch up}}.",
+   "verbs": [
+    {
+     "display": "pays off",
+     "base": "pay off",
+     "wrong": "To become easier with practice",
+     "correct": "To bring a good result after effort",
+     "correctFirst": false,
+     "why": "Months of practice pay off on race day, and extra studying can pay off on a hard exam. Landing a booster is difficult, but for China this attempt clearly paid off with a successful catch."
+    },
+    {
+     "display": "thrown away",
+     "base": "throw away",
+     "wrong": "To keep something for the next launch",
+     "correct": "To remove something you do not want",
+     "correctFirst": true,
+     "why": "People throw away old newspapers after cleaning a garage, and a cook throws away food that has gone bad. Normally, rockets are used only once and then thrown away, but a reusable booster changes that completely."
+    },
+    {
+     "display": "cut down",
+     "base": "cut down",
+     "wrong": "To share costs with other companies",
+     "correct": "To reduce the amount of something",
+     "correctFirst": true,
+     "why": "A family cuts down spending before a big trip, and a runner can cut down her race time with training. If a booster can fly again and again, companies can cut down their launch costs significantly."
+    },
+    {
+     "display": "catch up",
+     "base": "catch up",
+     "wrong": "To copy another company's design",
+     "correct": "To reach the same level as someone ahead",
+     "correctFirst": false,
+     "why": "A student catches up on missed homework after being sick, and a smaller company can catch up to a market leader. SpaceX has led reusable rockets for years, and China is now working hard to catch up."
+    }
+   ]
+  },
+  {
+   "text": "The Long March-10B stands about 63 meters tall, and [[one day]] it may help {{carry out}} China's plan to send [[astronauts]] to the Moon. Engineers now want to {{look over}} the returned booster, and they hope to fly it again [[before the end of]] the year. If everything {{goes ahead}} [[as planned]], [[reusable]] Chinese rockets could soon become normal.",
+   "verbs": [
+    {
+     "display": "carry out",
+     "base": "carry out",
+     "wrong": "To announce a plan to the whole world",
+     "correct": "To do or complete a planned task or action",
+     "correctFirst": false,
+     "why": "Soldiers carry out orders during a drill, and a team carries out a plan step by step. This same rocket may one day help carry out China's mission to send astronauts to the Moon."
+    },
+    {
+     "display": "look over",
+     "base": "look over",
+     "wrong": "To repair something before using it again",
+     "correct": "To examine or check something carefully",
+     "correctFirst": true,
+     "why": "A mechanic looks over an engine before a long drive, and a judge looks over each project at a science fair. Engineers now want to look over the returned booster before deciding if it can fly again."
+    },
+    {
+     "display": "goes ahead",
+     "base": "go ahead",
+     "wrong": "To finish earlier than expected",
+     "correct": "To happen or continue as planned",
+     "correctFirst": true,
+     "why": "A wedding can go ahead even with rain, and a meeting goes ahead as scheduled despite one absence. If everything goes ahead as planned, reusable Chinese rockets could soon become completely normal."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "verb": "Pull off",
+   "ipa": "/pʊl ɔːf/",
+   "def": "To succeed in doing something difficult",
+   "ex": [
+    "The crew pulled off a tricky repair mid-flight.",
+    "It was a hard plan, but they pulled it off.",
+    "She pulled off the difficult trick on her first try."
+   ]
+  },
+  {
+   "verb": "Take off",
+   "ipa": "/teɪk ɔːf/",
+   "def": "To leave the ground and begin to fly",
+   "ex": [
+    "The flight took off two hours late due to weather.",
+    "We watched the rocket take off into the sky.",
+    "The birds took off when they heard the noise."
+   ]
+  },
+  {
+   "verb": "Come down",
+   "ipa": "/kʌm daʊn/",
+   "def": "To move down toward a lower place",
+   "ex": [
+    "The elevator came down to the lobby in seconds.",
+    "Rain came down hard all afternoon.",
+    "The climber came down from the mountain before dark."
+   ]
+  },
+  {
+   "verb": "Set up",
+   "ipa": "/sɛt ʌp/",
+   "def": "To create or establish something new",
+   "ex": [
+    "She set up a small stand at the farmers market.",
+    "They set up a new company last year.",
+    "Volunteers set up a system to track new donations."
+   ]
+  },
+  {
+   "verb": "Try out",
+   "ipa": "/traɪ aʊt/",
+   "def": "To test something to see if it works",
+   "ex": [
+    "We tried out the new restaurant last weekend.",
+    "He tried out the new bike before buying it.",
+    "She tried out a few paint colors before choosing one."
+   ]
+  },
+  {
+   "verb": "Pay off",
+   "ipa": "/peɪ ɔːf/",
+   "def": "To bring a good result after effort",
+   "ex": [
+    "His extra practice paid off during the final game.",
+    "The training paid off when the team won.",
+    "Saving money now will pay off later."
+   ]
+  },
+  {
+   "verb": "Throw away",
+   "ipa": "/θroʊ əˈweɪ/",
+   "def": "To remove something you do not want",
+   "ex": [
+    "She threw away the old newspapers after cleaning the garage.",
+    "He threw away the broken toy.",
+    "We should not throw away food that is still good."
+   ]
+  },
+  {
+   "verb": "Cut down",
+   "ipa": "/kʌt daʊn/",
+   "def": "To reduce the amount of something",
+   "ex": [
+    "We cut down our grocery spending this month.",
+    "I am trying to cut down my screen time.",
+    "They cut down the number of flights."
+   ]
+  },
+  {
+   "verb": "Catch up",
+   "ipa": "/kætʃ ʌp/",
+   "def": "To reach the same level as someone ahead",
+   "ex": [
+    "The smaller shop is working to catch up with its rivals.",
+    "Our team is trying to catch up with the leaders.",
+    "He studied hard to catch up in class."
+   ]
+  },
+  {
+   "verb": "Carry out",
+   "ipa": "/ˈkæri aʊt/",
+   "def": "To do or complete a planned task or action",
+   "ex": [
+    "The city carried out repairs on the old bridge.",
+    "Soldiers carried out their orders during the long drill.",
+    "The company carried out a survey of its workers."
+   ]
+  },
+  {
+   "verb": "Look over",
+   "ipa": "/lʊk ˈoʊvər/",
+   "def": "To examine or check something carefully",
+   "ex": [
+    "The mechanic looked over the engine before the long drive.",
+    "The judges looked over each project.",
+    "She looked over the car before the trip."
+   ]
+  },
+  {
+   "verb": "Go ahead",
+   "ipa": "/ɡoʊ əˈhɛd/",
+   "def": "To happen or continue as planned",
+   "ex": [
+    "The meeting will go ahead even if she is late.",
+    "If the plan goes ahead, work starts in May.",
+    "The wedding went ahead as planned."
+   ]
+  }
+ ],
+ "wordDefs": [
+  {
+   "word": "a major step",
+   "ipa": "/ə ˈmeɪdʒər stɛp/",
+   "def": "An important move forward",
+   "ex": [
+    "Getting her driver's license was a major step for her.",
+    "Signing the contract was a major step for the company.",
+    "Moving to a new city was a major step in his life."
+   ]
+  },
+  {
+   "word": "guided",
+   "ipa": "/ˈɡaɪdɪd/",
+   "def": "Led or directed someone or something to a place",
+   "ex": [
+    "The tour guide guided us through the old castle.",
+    "She guided her students through the difficult lesson.",
+    "A ranger guided the hikers along the trail."
+   ]
+  },
+  {
+   "word": "safely",
+   "ipa": "/ˈseɪfli/",
+   "def": "Without harm or danger",
+   "ex": [
+    "The pilot landed the plane safely in the storm.",
+    "Please drive safely on the icy roads.",
+    "The children crossed the street safely with their teacher."
+   ]
+  },
+  {
+   "word": "recover",
+   "ipa": "/rɪˈkʌvər/",
+   "def": "To get something back or bring it back safely",
+   "ex": [
+    "Divers tried to recover the sunken ship.",
+    "It took months for him to recover his stolen car.",
+    "The team worked to recover the lost data."
+   ]
+  },
+  {
+   "word": "separated",
+   "ipa": "/ˈsɛpəreɪtɪd/",
+   "def": "Came apart from each other",
+   "ex": [
+    "The two friends separated at the train station.",
+    "The clouds separated and the sun came out.",
+    "The teacher separated the class into small groups."
+   ]
+  },
+  {
+   "word": "again and again",
+   "ipa": "/əˈɡɛn ənd əˈɡɛn/",
+   "def": "Many times, over and over",
+   "ex": [
+    "He asked the same question again and again.",
+    "She rewrote the essay again and again until it was perfect.",
+    "The dog barked at the mailman again and again."
+   ]
+  },
+  {
+   "word": "far more",
+   "ipa": "/fɑr mɔːr/",
+   "def": "Much more",
+   "ex": [
+    "This apartment costs far more than the last one.",
+    "She has far more experience than the other candidates.",
+    "The new phone has far more storage space."
+   ]
+  },
+  {
+   "word": "field",
+   "ipa": "/fiːld/",
+   "def": "An area of work or study",
+   "ex": [
+    "She has worked in the field of nursing for ten years.",
+    "He wants a career in the field of law.",
+    "The field of technology changes very quickly."
+   ]
+  },
+  {
+   "word": "working hard",
+   "ipa": "/ˈwərkɪŋ hɑrd/",
+   "def": "Putting a lot of effort into something",
+   "ex": [
+    "He has been working hard to fix his grades.",
+    "The team is working hard before the big game.",
+    "She is working hard to open her own bakery."
+   ]
+  },
+  {
+   "word": "one day",
+   "ipa": "/wʌn deɪ/",
+   "def": "At some time in the future",
+   "ex": [
+    "He hopes to own a boat one day.",
+    "She dreams of running her own restaurant one day.",
+    "One day, he wants to travel around the world."
+   ]
+  },
+  {
+   "word": "as planned",
+   "ipa": "/əz plænd/",
+   "def": "In the way it was arranged",
+   "ex": [
+    "The trip continued as planned despite the rain.",
+    "Everything went as planned during the wedding.",
+    "The launch happened as planned early that morning."
+   ]
+  },
+  {
+   "word": "booster",
+   "ipa": "/ˈbuːstər/",
+   "def": "The lower part of a rocket that gives the first push",
+   "ex": [
+    "The vaccine booster is given once a year.",
+    "The rocket's booster separated after a few minutes.",
+    "Mechanics checked the booster before the next test."
+   ]
+  },
+  {
+   "word": "satellite",
+   "ipa": "/ˈsætəlaɪt/",
+   "def": "A machine sent to circle the Earth",
+   "ex": [
+    "The satellite sends pictures of the weather back to Earth.",
+    "Engineers launched a new satellite into space last month.",
+    "The old satellite stopped working after ten years."
+   ]
+  },
+  {
+   "word": "orbit",
+   "ipa": "/ˈɔːrbət/",
+   "def": "The path an object follows around the Earth",
+   "ex": [
+    "The moon stays in orbit around the Earth.",
+    "The spacecraft entered orbit after a long flight.",
+    "Scientists tracked the satellite's orbit carefully."
+   ]
+  },
+  {
+   "word": "stage",
+   "ipa": "/steɪdʒ/",
+   "def": "One section of a rocket that falls away",
+   "ex": [
+    "The first stage of the plan is almost finished.",
+    "Each stage of the race gets harder.",
+    "They completed the final stage of construction."
+   ]
+  },
+  {
+   "word": "platform",
+   "ipa": "/ˈplætfɔːrm/",
+   "def": "A flat floating structure at sea",
+   "ex": [
+    "Workers stood on a platform to paint the bridge.",
+    "The train platform was crowded during rush hour.",
+    "A wooden platform held the heavy equipment."
+   ]
+  },
+  {
+   "word": "astronauts",
+   "ipa": "/ˈæstrənɔːts/",
+   "def": "People trained to travel into space",
+   "ex": [
+    "The astronauts trained for months before the mission.",
+    "Two astronauts walked outside the space station.",
+    "Young astronauts study science and engineering."
+   ]
+  },
+  {
+   "word": "reusable",
+   "ipa": "/riˈuːzəbəl/",
+   "def": "Able to be used more than once",
+   "ex": [
+    "She carries a reusable water bottle everywhere.",
+    "The store sells reusable shopping bags.",
+    "Reusable containers help reduce plastic waste."
+   ]
+  },
+  {
+   "word": "engineers",
+   "ipa": "/ˌɛndʒəˈnɪrz/",
+   "def": "People who design and build machines",
+   "ex": [
+    "Engineers designed a bridge to survive earthquakes.",
+    "The company hired new engineers for the project.",
+    "Engineers tested the machine before it shipped."
+   ]
+  },
+  {
+   "word": "for years",
+   "def": "For a long period of time",
+   "ex": [
+    "They lived in that house for years.",
+    "She has played the piano for years.",
+    "The company has used the same logo for years."
+   ]
+  },
+  {
+   "word": "normally",
+   "def": "Usually, in most cases",
+   "ex": [
+    "Normally, I wake up before seven o'clock.",
+    "The store normally closes at nine.",
+    "He normally walks to work instead of driving."
+   ]
+  },
+  {
+   "word": "before the end of",
+   "def": "Prior to a certain time period finishing",
+   "ex": [
+    "We hope to finish the project before the end of the month.",
+    "Please pay the bill before the end of the week.",
+    "She wants to graduate before the end of next year."
+   ]
+  }
+ ],
+ "mainIdea": [
+  {
+   "s": "China's new rocket carried a satellite into orbit, and engineers used a net on a ship to catch its booster. This makes China only the second country to recover one.",
+   "a": true,
+   "why": "China recovered the booster with a net system, becoming only the second country to recover an orbital booster."
+  },
+  {
+   "s": "China's rocket landing shows the country has caught up with SpaceX and now leads the world in reusable rockets. Engineers plan to reuse the booster many times.",
+   "a": false,
+   "why": "Close, but China has not caught up yet. The article says SpaceX has led the field for years."
+  },
+  {
+   "s": "Last year, China sent a new crew of astronauts to its space station for a six-month mission. Officials said the crew would carry out several experiments there.",
+   "a": false,
+   "why": "This describes a crew mission to China's space station. The article is about landing a reusable rocket booster on a ship."
+  }
+ ],
+ "tf": [
+  {
+   "s": "The Long March-10B took off and carried a satellite into orbit.",
+   "a": true,
+   "why": "Take off means to leave the ground and begin to fly, which the rocket did before releasing its satellite."
+  },
+  {
+   "s": "China has already caught up with SpaceX and now leads the field.",
+   "a": false,
+   "why": "SpaceX has led for years, so China is still trying to catch up, not leading."
+  },
+  {
+   "s": "After separating, the booster was thrown away into the ocean.",
+   "a": false,
+   "why": "The booster was caught in a net to be used again, so it was not thrown away, which means to get rid of something."
+  },
+  {
+   "s": "Engineers said the landing had failed and did not pay off.",
+   "a": false,
+   "why": "The landing succeeded, so the effort did pay off, which means to bring a good result."
+  },
+  {
+   "s": "Reusing boosters could help companies cut down their costs.",
+   "a": true,
+   "why": "Cut down means to reduce, and flying the same booster again cuts down launch costs."
+  },
+  {
+   "s": "Chinese engineers set up a net system to catch the booster.",
+   "a": true,
+   "why": "Set up means to create or establish something new, which is what the engineers did with the net system."
+  }
+ ]
+}

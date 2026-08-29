@@ -21,10 +21,6 @@
     {
      "title": "Hanyang University researchers develop electronic skin with human-like touch (PR Newswire)",
      "url": "https://www.prnewswire.com/news-releases/hanyang-university-erica-researchers-develop-electronic-skin-that-brings-human-like-touch-to-robots-and-prosthetics-302846119.html"
-    },
-    {
-     "title": "Electronic skin could give robots a sense of touch (video, BBC News)",
-     "url": "https://www.youtube.com/watch?v=WGXZEljBH10"
     }
    ],
    "chunks": [
@@ -53,7 +49,7 @@
        "correct": "To return something that was lost",
        "wrong": "To copy something exactly",
        "correctFirst": true,
-       "why": "A kind stranger might give back a lost wallet, and new technology can give back independence to someone who lost a limb. One day, this skin could give back a real sense of touch to people who use artificial hands."
+       "why": "A kind stranger might give back a lost wallet, and a doctor can give back movement to an injured arm. One day, this skin could give back a real sense of touch to people who use artificial hands."
       }
      ]
     },
@@ -590,7 +586,7 @@
        "correct": "To remove something by cutting",
        "wrong": "To measure something exactly",
        "correctFirst": true,
-       "why": "Surgeons cut out tumors, kids cut out paper shapes, and editors cut out boring scenes. It always removes something from a larger whole."
+       "why": "Surgeons cut out tumors during an operation, and kids cut out paper shapes with scissors. In this treatment, surgeons first cut out the patient's tumor and send a piece to a lab."
       },
       {
        "display": "pick out",
@@ -664,7 +660,7 @@
        "correct": "To make available to many people",
        "wrong": "To test on a small group first",
        "correctFirst": true,
-       "why": "Companies roll out products, updates, and programs. If the results hold, hospitals could roll out this treatment to thousands next year."
+       "why": "Companies roll out new products, apps, and programs to reach more customers. If the results hold, the companies hope to roll out this vaccine to thousands of patients as early as next year."
       },
       {
        "display": "take on",
@@ -1103,8 +1099,8 @@
      "url": "https://www.cbsnews.com/news/rage-bait-word-of-year-2025-oxford-university-press/"
     },
     {
-     "title": "Why 'Rage Bait' is Oxford's Word of the Year (video, Firstpost)",
-     "url": "https://www.youtube.com/watch?v=QRhYcE9gLq0"
+     "title": "'Rage Bait' unveiled as Oxford's Word of the Year for 2025 (video, 6abc Philadelphia)",
+     "url": "https://www.youtube.com/watch?v=bmILvtgR6TQ"
     }
    ],
    "chunks": [
@@ -2173,8 +2169,8 @@
      "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html"
     },
     {
-     "title": "Meta hooked children on Facebook and Instagram, court hears (video, BBC News)",
-     "url": "https://www.youtube.com/watch?v=Q6b8OdMMNeY"
+     "title": "States take on Meta in court over child addiction claims (video, NBC News)",
+     "url": "https://www.youtube.com/watch?v=DmkjGjC9mUc"
     }
    ],
    "chunks": [
@@ -2195,7 +2191,7 @@
        "correct": "To fight against someone strong",
        "wrong": "To copy someone's business",
        "correctFirst": false,
-       "why": "You take on a rival, a lawsuit, or a giant. Four states are taking on one of the richest companies on earth."
+       "why": "You take on a rival, a bully, or a much bigger opponent. Four states are taking on Meta, one of the richest companies in the world."
       }
      ]
     },
@@ -2746,7 +2742,7 @@
        "correct": "To place something inside",
        "wrong": "To fix something broken",
        "correctFirst": true,
-       "why": "You put in batteries, a new kitchen, or long hours. Waymo puts in its own self-driving brain at a factory in Arizona."
+       "why": "You put in new batteries, put in a spare part, or put in new software inside a machine. Here Waymo puts in its own self-driving brain at a factory in Arizona."
       },
       {
        "display": "push up",
@@ -4269,8 +4265,8 @@
      "url": "https://www.mappr.co/colombia-earthquake-2026/"
     },
     {
-     "title": "Colombia rescue efforts press on after deadly earthquake (video, France 24 English)",
-     "url": "https://www.youtube.com/watch?v=CW4pbOaTnls"
+     "title": "Colombia earthquake aftermath: Massive 7.4 magnitude quake reduces towns to rubble (video, USA TODAY)",
+     "url": "https://www.youtube.com/watch?v=RhLltNOde3c"
     }
    ],
    "chunks": [
@@ -4840,7 +4836,7 @@
        "correct": "To return information to a place",
        "wrong": "To keep information secret",
        "correctFirst": true,
-       "why": "Stores send back damaged packages, and satellites send back photos from deep space. Each shark's tag sends back ocean temperature and depth readings whenever the shark reaches the surface."
+       "why": "Weather satellites send back photos of storms, and space robots send back pictures from far away. Here a shark's tag sends back ocean measurements to scientists on shore by satellite."
       },
       {
        "display": "comes up",
@@ -6443,7 +6439,7 @@
        "correct": "To include people in a study",
        "wrong": "To follow a patient for one year",
        "correctFirst": true,
-       "why": "Shelters take in stray animals, families take in foster children, and hotels take in guests during a storm. This long study took in more than 12,000 adults who showed no sign of dementia at the start."
+       "why": "A study can take in thousands of volunteers, and a survey might take in people from many countries. A long American study took in more than 12,000 adults who showed no sign of dementia at the start."
       },
       {
        "display": "started off",
@@ -7548,7 +7544,7 @@
        "correct": "To support and protect something",
        "wrong": "To wait for cheese to be ready",
        "correctFirst": false,
-       "why": "A good brand stands behind every tool it sells with a full warranty, and a manager should stand behind a decision once it is made. The producers who stand behind the Parmigiano Reggiano name protect a reputation built over centuries."
+       "why": "A good store stands behind every item it sells, and a manager should stand behind a decision once it is made. The producers who stand behind the Parmigiano Reggiano name protect a reputation built over many years."
       },
       {
        "display": "make up",
@@ -7622,7 +7618,7 @@
        "correct": "To arrange a loan from a bank",
        "wrong": "To repay money that is owed",
        "correctFirst": true,
-       "why": "A young couple often takes out a mortgage for their first home, and a farmer might take out a small loan before spring planting. In this system, a farmer takes out a loan worth 60 to 80 percent of what the stored cheese is worth."
+       "why": "A young couple often takes out a loan for their first home, and a farmer might take out a small loan before spring planting. In this system, a farmer takes out a loan worth 60 to 80 percent of what the cheese is worth."
       }
      ]
     },
@@ -8177,7 +8173,7 @@
        "correct": "To train the body to get stronger",
        "wrong": "To follow a strict diet for weeks",
        "correctFirst": true,
-       "why": "People work out at the gym, and others work out at home with simple equipment. Experts say it is healthy to work out, but they worry when exercise becomes an obsession instead."
+       "why": "People work out at the gym to build strength, and others work out at home with simple equipment. Experts say it is healthy to work out, but they worry when it becomes too extreme."
       },
       {
        "display": "open up",
@@ -10479,7 +10475,7 @@
        "correct": "To make water reach the plant",
        "wrong": "To pump water into a tank",
        "correctFirst": false,
-       "why": "Engineers send water past a blocked channel to reach a plant, the way a captain sends a ship past a storm safely. In Romania, the planned blast is meant to send the diverted Danube water past the collapsed side channel toward the Cernavoda plant."
+       "why": "Engineers send water past a blocked pipe to a nearby town, and workers send trucks past a closed road to finish a delivery on time. In Romania, the planned blast will send the Danube water past the Bala side channel to the power plant instead."
       },
       {
        "display": "set off",
@@ -10962,8 +10958,8 @@
      "url": "https://www.eib.org/en/stories/danube-cleanup-wwii-wrecks"
     },
     {
-     "title": "Sunken WWII ships emerge from Danube as river levels go down amid drought. #BBCNews (video, BBC News)",
-     "url": "https://www.youtube.com/watch?v=mVf6MrHJgig"
+     "title": "Sunken WWII era ships appear as Danube levels go down amid drought (video, AP Archive)",
+     "url": "https://www.youtube.com/watch?v=xo2chCDKOus"
     }
    ],
    "chunks": [
@@ -11066,7 +11062,7 @@
        "correct": "To clean dirt or sand from a place",
        "wrong": "To mark a safe path for ships",
        "correctFirst": true,
-       "why": "Workers clear away snow after a storm, and a family clears away dishes after dinner. On the Danube, divers clear away sand and silt with pumps before crews raise each hull from the riverbed."
+       "why": "Workers clear away snow after a storm, and a family clears away leaves and dirt from the yard each fall. On the Danube, divers clear away sand and mud with pumps before crews raise each ship from the riverbed."
       }
      ]
     },
@@ -11543,7 +11539,7 @@
        "correct": "To become stronger",
        "wrong": "To change direction suddenly",
        "correctFirst": false,
-       "why": "Wind picks up before a storm, and traffic picks up after a big game ends. Gusts picked up to 45 miles an hour and pushed the flames toward the city."
+       "why": "Wind picks up before a big storm, and traffic picks up after a busy game ends. Gusts picked up to 45 miles an hour and pushed the flames northeast into a state park."
       },
       {
        "display": "hold back",
@@ -11572,7 +11568,7 @@
        "correct": "To make people leave a place",
        "wrong": "To start living in a new home",
        "correctFirst": true,
-       "why": "Renters move out of an apartment at the end of a lease, and officials sometimes move out residents before a flood. Thousands of people were moved out of their homes across Spokane County with little warning."
+       "why": "Officials move out residents before a flood, and workers move out families during a gas leak. Thousands of people were moved out of their homes across Spokane County with only a few minutes notice."
       },
       {
        "display": "set up",
@@ -11588,7 +11584,7 @@
        "correct": "To ask for official help",
        "wrong": "To send workers back home",
        "correctFirst": true,
-       "why": "Workers call in sick, and managers call in extra staff during a busy weekend. The governor called in the National Guard once the fires spread across the state."
+       "why": "Coaches call in a substitute player during a tough game, and mayors call in extra police for a large event. The governor called in the National Guard once wildfires spread across the state."
       },
       {
        "display": "brought in",
@@ -12076,7 +12072,7 @@
        "correct": "To explode suddenly",
        "wrong": "To be carried into a building",
        "correctFirst": true,
-       "why": "A firework can go off with a loud crack, and a car alarm sometimes goes off for no clear reason. In Moscow, a homemade bomb went off on the street just seconds after a guard stopped the woman at the restaurant door."
+       "why": "A firework can go off with a loud crack, and a firecracker can go off without warning if someone drops it. In Moscow, a homemade bomb went off outside a restaurant just seconds after a guard stopped a woman at the door."
       },
       {
        "display": "stepped in",
@@ -12121,7 +12117,7 @@
        "correct": "To decide that something is not possible",
        "wrong": "To question a witness about something",
        "correctFirst": false,
-       "why": "Doctors rule out a serious illness after running tests, and police sometimes rule out foul play early in a case. Officials have not ruled out the possibility that the woman herself did not know what she was carrying."
+       "why": "Doctors rule out a serious illness after running tests, and police sometimes rule out early guesses in a case. The police have not ruled out the chance that the woman herself did not know what she was carrying."
       }
      ]
     },
@@ -12142,7 +12138,7 @@
        "correct": "To suggest that something is true",
        "wrong": "To name a person in an official list",
        "correctFirst": false,
-       "why": "Test results often point to a diagnosis before doctors confirm it, and small clues sometimes point to who is responsible for a crime. So far nothing public points to any single explanation for the attack."
+       "why": "Small clues sometimes point to who is responsible for a crime, and test results can point to an answer before doctors confirm it. So far, nothing public points to any single answer about who planted the bomb."
       },
       {
        "display": "looked back",
@@ -13223,8 +13219,8 @@
      "url": "https://time.com/article/2026/07/31/ceuta-spain-morocco-africa-explainer/"
     },
     {
-     "title": "Ceuta: Spain says over 60,000 migrants have entered from Morocco (video, ITV News)",
-     "url": "https://www.youtube.com/watch?v=c5rc_qKEEO0"
+     "title": "60,000 migrants from Morocco enter Ceuta, Spain: AP (video, FOX 5 Washington DC)",
+     "url": "https://www.youtube.com/watch?v=RL3mosNwOlY"
     }
    ],
    "chunks": [
@@ -13253,7 +13249,7 @@
        "correct": "To become higher in number",
        "wrong": "To be announced by officials",
        "correctFirst": true,
-       "why": "Grocery prices go up every summer, and a fever can go up quickly overnight. Spanish officials warned that the death toll from the crossing could still go up in the days that followed."
+       "why": "Grocery prices go up every summer, and a fever can go up quickly overnight. Spanish officials warned that the number of deaths from the crossing could still go up in the days that followed."
       }
      ]
     },
@@ -13266,7 +13262,7 @@
        "correct": "To officially give a decision",
        "wrong": "To send a case to a lower court",
        "correctFirst": false,
-       "why": "A judge hands down a sentence in open court, and a panel hands down a verdict after weeks of hearings. In June, Spain's Supreme Court handed down a ruling about people who arrive by sea."
+       "why": "A judge hands down a decision in court, and a company can hand down a new rule to its workers. In June, Spain's Supreme Court handed down a decision that stopped the government from returning people who arrive by sea without first hearing their case."
       },
       {
        "display": "got around",
@@ -14383,8 +14379,8 @@
      "url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference"
     },
     {
-     "title": "US' Africa Map Blunder At AIDS Conference Triggers Global Backlash | Firstpost Live | 4K (video, Firstpost)",
-     "url": "https://www.youtube.com/watch?v=9aO5CMN6QAg"
+     "title": "Mislabeled map of African countries presented during Global AIDS conference by US State Dept. (video, WUSA9)",
+     "url": "https://www.youtube.com/watch?v=AcGwPSZaB-g"
     }
    ],
    "chunks": [
@@ -15038,7 +15034,7 @@
        "correct": "To start doing something new",
        "wrong": "To choose a new political party",
        "correctFirst": false,
-       "why": "An activist might take up a new cause after seeing an injustice with his own eyes, and a retiree could take up painting to fill her free time. Keiko Fujimori has taken up crime as her main issue, since it worries most Peruvians the most."
+       "why": "An activist might take up a new cause after seeing something unfair, and a retiree could take up painting to fill her free time. Keiko Fujimori has taken up crime as her main issue, since it worries so many Peruvians."
       },
       {
        "display": "spoken out",
@@ -16115,7 +16111,7 @@
        "correct": "To escape carrying something",
        "wrong": "To sell stolen goods quickly",
        "correctFirst": false,
-       "why": "A thief in a store sometimes gets away with a small theft, and a cheater can get away with a lie for years. The Louvre thieves got away with a sapphire necklace, an emerald necklace, and a diamond tiara."
+       "why": "Thieves get away with jewelry from a store, and burglars get away with cash from a house. The Louvre thieves got away with a sapphire necklace, an emerald necklace, and a diamond tiara."
       },
       {
        "display": "ran off",
@@ -16661,7 +16657,7 @@
        "correct": "To connect in a long sequence",
        "wrong": "To run all at the same moment",
        "correctFirst": false,
-       "why": "Use chain together for many small steps linking into one long sequence, like beads on a string or clips in a video. Here thousands of tiny automated actions were chained together at incredible speed until they formed one serious intrusion."
+       "why": "Use chain together for many small steps linking into one long sequence, like beads on a string or clips in a video. Here thousands of tiny automated actions were chained together at incredible speed and caused a major computer attack."
       }
      ]
     },
@@ -16719,7 +16715,7 @@
        "correct": "To get involved and stop something",
        "wrong": "To notice that something was wrong",
        "correctFirst": false,
-       "why": "A manager steps in to calm an argument, and a neighbor steps in when a lost child needs help. Here nobody stepped in during the entire two and a half day intrusion."
+       "why": "A manager steps in to calm an argument, and a neighbor steps in when a lost child needs help. Here nobody stepped in during the entire two and a half day computer attack."
       }
      ]
     }
@@ -17188,7 +17184,7 @@
        "correct": "To be released to the public",
        "wrong": "To be shown in only a few theaters",
        "correctFirst": false,
-       "why": "A highly anticipated sequel comes out every few years, and a new phone model comes out each fall. This film based on the ancient Greek poem came out on July 17 and quickly became the biggest movie of the summer."
+       "why": "A new movie sequel comes out every few years, and a new phone model comes out each fall. This film based on the ancient Greek poem came out on July 17 and quickly became the biggest movie of the summer."
       },
       {
        "display": "raked in",
@@ -17709,7 +17705,7 @@
        "correct": "To be published",
        "wrong": "To be tested by others",
        "correctFirst": true,
-       "why": "A big new study comes out in a science journal, and a much anticipated movie comes out to full theaters. This one came out on July 17 in the journal Environmental Conservation."
+       "why": "A new study can come out in a science journal, and a popular book can come out in stores everywhere. This one came out on July 17 in the journal Environmental Conservation."
       },
       {
        "display": "set out to",
@@ -18212,8 +18208,8 @@
      "url": "https://www.techtimes.com/articles/320993/20260720/hyundai-workers-walk-out-auto-industrys-first-humanoid-robot-strike.htm"
     },
     {
-     "title": "How Hyundai's humanoid robot plans are facing fierce opposition from workers (video, KOREA NOW)",
-     "url": "https://www.youtube.com/watch?v=YElzKlzPGe8"
+     "title": "Boston Dynamics robot sparks strikes in South Korea (video, WBUR)",
+     "url": "https://www.youtube.com/watch?v=lV1HWuqqFfc"
     }
    ],
    "chunks": [
@@ -19213,7 +19209,7 @@
        "correct": "To fall from the sky and land",
        "wrong": "To explode into small pieces",
        "correctFirst": true,
-       "why": "Rain comes down in a storm, a kite comes down after the wind dies, and a damaged plane comes down fast. The drone came down near the village of Padina, an area with no one living there."
+       "why": "Rain comes down in a storm, a kite comes down after the wind dies, and a damaged plane comes down fast. The drone came down near the village of Padina in eastern Romania."
       }
      ]
     },
@@ -20603,8 +20599,8 @@
      "url": "https://www.climatecentral.org/climate-matters/climate-change-sleep-loss"
     },
     {
-     "title": "Study: warmer nights double global sleep loss since the 1970s (video, WION)",
-     "url": "https://www.youtube.com/watch?v=pdhTJuc_-ps"
+     "title": "New study shows more Americans are losing sleep due to the heat than ever before (video, ABC13 Houston)",
+     "url": "https://www.youtube.com/watch?v=0VD68yMomoY"
     }
    ],
    "chunks": [
@@ -21547,7 +21543,7 @@
        "correct": "To decide on something after considering it",
        "wrong": "To become calm and relaxed after a while",
        "correctFirst": false,
-       "why": "A couple settles on a restaurant after checking a few menus, and a jury settles on a verdict after long debate. Researchers settled on 400 milligrams of caffeine as the safe daily limit after reviewing the evidence."
+       "why": "A family settles on a restaurant after looking at a few options, and shoppers settle on a color after comparing choices. Researchers settled on 400 milligrams of caffeine as the safe daily amount from five cups of coffee."
       }
      ]
     },
@@ -21560,7 +21556,7 @@
        "correct": "To stop something from getting into a place",
        "wrong": "To stay within an agreed limit or rule",
        "correctFirst": true,
-       "why": "Thick curtains keep out sunlight in the morning, and a screen door keeps out bugs in the summer. A paper coffee filter keeps out cafestol, the compound that raises harmful cholesterol."
+       "why": "Thick curtains keep out sunlight in a bedroom, and a screen door keeps out bugs in summer. A paper coffee filter keeps out a natural substance in coffee that can raise cholesterol."
       }
      ]
     },
@@ -21602,7 +21598,7 @@
        "correct": "To separate a substance into simpler parts",
        "wrong": "To stop working correctly for a while",
        "correctFirst": true,
-       "why": "Enzymes break down sugar during digestion, and bacteria break down dead leaves in the soil. How fast a body breaks caffeine down varies with age, medication, and genetics."
+       "why": "Your stomach breaks down food after a big meal, and your body breaks down most medicine within hours. How fast your body breaks caffeine down can change with your age, your medicine, and your genes."
       }
      ]
     }
@@ -23164,7 +23160,7 @@
        "correct": "To suddenly become successful",
        "wrong": "To be posted early in the morning",
        "correctFirst": true,
-       "why": "A plane takes off from the runway, and a new trend can take off overnight. The daughter's TikTok video quickly took off, reaching hundreds of thousands of viewers."
+       "why": "A new song can take off in just one week, and a small business idea can take off after one good review. The daughter's TikTok video quickly took off, reaching hundreds of thousands of viewers."
       },
       {
        "display": "racked up",
@@ -23702,7 +23698,7 @@
        "correct": "To face or compete against",
        "wrong": "To beat a strong rival team",
        "correctFirst": false,
-       "why": "Boxers take on tough opponents, and new employees take on extra responsibility. In the final, Spain took on Argentina for the biggest prize in soccer."
+       "why": "Boxers take on tough opponents, and underdog teams sometimes take on the biggest teams in a big game. In the final, Spain took on Argentina for the biggest prize in soccer."
       },
       {
        "display": "went on",
@@ -23718,7 +23714,7 @@
        "correct": "To lift or collect something",
        "wrong": "To pass the ball to a teammate",
        "correctFirst": false,
-       "why": "Winners pick up trophies, shoppers pick up groceries, and friends pick up the check at dinner. Spain picked up the World Cup trophy for the second time in their history."
+       "why": "Winners pick up trophies after a big win, and shoppers pick up bags of groceries at the store. Spain picked up the World Cup trophy for the second time in their history."
       }
      ]
     },
@@ -23747,7 +23743,7 @@
        "correct": "To score a goal in a game",
        "wrong": "To save a shot on goal",
        "correctFirst": true,
-       "why": "Strikers put away easy chances, and careful people put away money each month for savings. In the 106th minute, Torres put away a close range shot to give Spain the lead."
+       "why": "Strikers put away easy chances in the box, and top scorers put away shot after shot all season. In the 106th minute, Torres put away a close range shot to give Spain the lead."
       },
       {
        "display": "keep out",
@@ -24871,7 +24867,7 @@
        "correct": "To create or start something",
        "wrong": "To lead a group of countries",
        "correctFirst": false,
-       "why": "An entrepreneur sets up a small shop, and a city can set up a new bus route. China set up a new international group to help poorer nations share in the future of AI."
+       "why": "A family can set up a small shop, and a city can set up a new bus route. China set up a new group to help poorer nations share in the future of AI."
       },
       {
        "display": "take over",
@@ -24937,7 +24933,7 @@
        "correct": "To protect your own interests",
        "wrong": "To copy technology from rivals",
        "correctFirst": true,
-       "why": "Smart shoppers look out for hidden fees, and good leaders look out for the people they manage. China is also looking out for its own interests, since it is racing the United States over AI chips."
+       "why": "A shopper looks out for hidden fees to protect their own money, and a company looks out for its own profits before helping others. China is also looking out for its own interests in its race with the United States over computer chips."
       },
       {
        "display": "cut off",
@@ -25960,7 +25956,7 @@
        "correct": "To remove things to make an area empty",
        "wrong": "To cut a narrow path through a forest",
        "correctFirst": true,
-       "why": "A crew clears away debris after a storm, and a family might clear away old furniture before a move. Early settlers cleared away entire forests across New England to make room for farms and towns."
+       "why": "A crew can clear away trash after a big event, and a family might clear away old furniture before a move. Early settlers cleared away entire forests across New England to make room for farms and towns."
       },
       {
        "display": "come back",
@@ -26522,7 +26518,7 @@
        "correct": "To search deeply for the facts about a topic",
        "wrong": "To officially punish a person for wrongdoing",
        "correctFirst": false,
-       "why": "Reporters dig into a scandal, and detectives dig into old case files for new clues. Regulators are digging into a White House worker who ran the president's teleprompter."
+       "why": "Reporters dig into a story, and detectives dig into old files for new clues. Regulators are digging into a White House worker who ran the president's teleprompter."
       },
       {
        "display": "find out",
@@ -26580,7 +26576,7 @@
        "correct": "To give something or someone to another person",
        "wrong": "To photograph the entire case file quickly",
        "correctFirst": false,
-       "why": "Police hand over evidence to prosecutors, and a company can hand over a case to federal investigators. Kalshi handed the case over to the CFTC once the strange pattern was noticed."
+       "why": "You hand over your ticket at the door, or hand over your bag at airport security. Here Kalshi handed over the case to a government agency, the CFTC, after noticing the strange betting pattern."
       },
       {
        "display": "closed down",
@@ -26601,7 +26597,7 @@
        "correct": "To place someone into a certain status or condition",
        "wrong": "To give someone an extra job or duty to do",
        "correctFirst": false,
-       "why": "A company can put a worker on probation, and a school can put a student on a warning. The White House put the teleprompter operator on unpaid leave during the investigation."
+       "why": "A coach can put a player on the bench, and a school can put a student on a warning. For now, the White House has put the worker on unpaid leave during the investigation."
       },
       {
        "display": "keeps on",
@@ -27551,8 +27547,8 @@
      "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/"
     },
     {
-     "title": "China says no to AI boyfriends - BBC World Service (video, BBC World Service)",
-     "url": "https://www.youtube.com/watch?v=bF1gk5cv_L0"
+     "title": "China bans AI chatbot relationships to combat declining birth rate (video, CBS News)",
+     "url": "https://www.youtube.com/watch?v=d_WNmJRxsRM"
     }
    ],
    "chunks": [
@@ -27573,7 +27569,7 @@
        "correct": "To stop a machine or feature from working",
        "wrong": "To lower the volume or strength of something",
        "correctFirst": false,
-       "why": "You turn off a phone before a flight, and a driver turns off the headlights after parking. Chinese regulators ordered tech companies to turn off the romantic chat features in their apps."
+       "why": "You turn off a phone before a flight, and a driver turns off the headlights after parking a car. Now the government in China wants technology companies to turn off these chatbot features."
       },
       {
        "display": "reel in",
@@ -27594,7 +27590,7 @@
        "correct": "To finally agree to something you were resisting",
        "wrong": "To stop trying and abandon something completely",
        "correctFirst": true,
-       "why": "A tired parent gives in after a child asks ten times, and a company can give in to pressure from regulators. Several big tech companies quickly gave in to China's new law and removed their chatbot features."
+       "why": "A tired parent gives in after a child asks many times, and a company can give in to pressure from the government. Several big tech companies quickly gave in to China's new law and removed their chatbot features."
       },
       {
        "display": "took away",
@@ -27623,7 +27619,7 @@
        "correct": "To handle or cope with a difficult situation",
        "wrong": "To fully solve a problem so it never returns",
        "correctFirst": true,
-       "why": "A new employee deals with a heavy workload in the first month, and a family deals with grief after a loss. For many users in China, losing their AI companion was hard to deal with."
+       "why": "A new employee deals with a heavy workload in the first month, and a family deals with a hard loss. For many users in China, losing their AI companion was hard to deal with."
       },
       {
        "display": "grown attached to",
@@ -27640,7 +27636,7 @@
        "correct": "To lose control of your emotions and start crying",
        "wrong": "To stop working suddenly, like a machine or a car",
        "correctFirst": false,
-       "why": "A tired student can break down before a big exam, and a grieving parent might break down at a funeral. Some users broke down online, posting long farewell messages before their favorite chatbot apps closed for good."
+       "why": "A tired student can break down before a big exam, and a sad parent might break down at a funeral. Some users broke down online, posting long goodbye messages before their favorite chatbot apps closed for good."
       }
      ]
     },
@@ -27662,7 +27658,7 @@
        "wrong": "To make good use of a helpful opportunity",
        "correctFirst": false,
        "kind": "expression",
-       "why": "A dishonest salesman takes advantage of a confused customer, and a scammer takes advantage of an elderly neighbor. Regulators worried these chatbot apps were taking advantage of lonely users to keep them paying every month."
+       "why": "A dishonest salesman takes advantage of a confused customer, and a scammer takes advantage of an elderly neighbor. The government worried these chatbot apps were taking advantage of lonely users to keep them paying every month."
       },
       {
        "display": "make up for",
@@ -28184,7 +28180,7 @@
        "correct": "To remove things to leave a clean, empty space",
        "wrong": "To add more sand and stone to a structure",
        "correctFirst": false,
-       "why": "Workers clear away snow after a storm, and volunteers clear away debris after a flood. The team cleared away sand and fallen stone until a courtyard and burial chambers slowly appeared."
+       "why": "Workers clear away snow after a storm, and volunteers clear away trash after a big event. The team cleared away sand and fallen stone until a courtyard and burial chambers slowly appeared."
       }
      ]
     },
@@ -29739,8 +29735,8 @@
      "url": "https://abcnews.com/International/wireStory/european-troops-warplanes-join-paris-bastille-day-parade-134736039"
     },
     {
-     "title": "Ukraine Troops March Through Paris As Macron, Starmer & European Leaders Watch Bastille Day (video, The Financial Express)",
-     "url": "https://www.youtube.com/watch?v=gXyCYm4aNMY"
+     "title": "European troops and warplanes join Bastille Day parade in Paris (video, Associated Press)",
+     "url": "https://www.youtube.com/watch?v=BQG8cKs_t6U"
     }
    ],
    "chunks": [
@@ -30849,7 +30845,7 @@
        "correct": "To begin, especially an illness or a feeling",
        "wrong": "To start suddenly, like a light or machine",
        "correctFirst": true,
-       "why": "A headache can come on without warning, and a fever can come on within an hour. Doctors said Graham's condition, an aortic dissection, can come on very fast and give almost no warning."
+       "why": "A headache can come on without warning, and a bad cold can come on fast. Doctors said Graham's sudden illness came on very fast and gave almost no warning."
       },
       {
        "display": "flown back",
@@ -31418,7 +31414,7 @@
        "correct": "To create new chances or possibilities",
        "wrong": "To make an existing treatment work faster",
        "correctFirst": true,
-       "why": "A new certificate can open up job options, and a foreign language can open up new friendships. These findings could open up better treatments for people with dangerous heartbeat problems like arrhythmias."
+       "why": "A good certificate can open up new job options, and travel can open up new friendships. The team hopes these findings will open up new ways to treat heart problems."
       },
       {
        "display": "follow up",
@@ -32385,7 +32381,7 @@
        "wrong": "To supervise something in order to keep it safe",
        "correct": "To watch something as an observer only",
        "correctFirst": false,
-       "why": "Bystanders look on as a crane lifts a heavy beam into place, and neighbors look on when a house catches fire down the street. Workers looked on as a small team pushed the huge telescope structure by hand."
+       "why": "People look on as workers lift a heavy beam, and neighbors look on when something exciting happens nearby. Other workers looked on as a small team pushed the huge telescope by hand."
       },
       {
        "display": "took over",
@@ -33002,7 +32998,7 @@
        "correct": "To examine or investigate something carefully",
        "wrong": "To protect and be responsible for something",
        "correctFirst": false,
-       "why": "Doctors look into new symptoms before making a diagnosis, and a shopper might look into cheaper flights before booking a trip. A separate, much larger project looked into the health of more than 86,000 older adults across Europe."
+       "why": "Doctors look into the cause of an illness, and a shopper might look into cheaper flights before booking a trip. A separate, much larger project looked into the health of more than 86,000 older adults across Europe."
       },
       {
        "display": "back up",
@@ -34060,7 +34056,7 @@
        "correct": "To become less in number, amount, or quality",
        "wrong": "To drop down from a higher place to the ground",
        "correctFirst": false,
-       "why": "Store sales can fall off after the holidays, and attendance at a club can fall off over a few slow months. Wild gorilla numbers have fallen off sharply because of hunting and the loss of forest habitat."
+       "why": "Store sales can fall off after the holidays, and attendance at a club can fall off over a few slow months. Wild gorilla numbers have fallen off sharply because of hunting and the loss of their forests."
       },
       {
        "display": "team up",
@@ -35093,7 +35089,7 @@
        "wrong": "To grow stronger very quickly",
        "correct": "To come closer in a threatening way",
        "correctFirst": true,
-       "why": "Storm clouds, armies, and cold fronts all move in when something threatening gets closer. Typhoon Bavi moved in on China's coast with winds near 89 miles per hour before it made landfall."
+       "why": "Storm clouds can move in before a big rain, and a hungry wolf might move in on smaller animals nearby. Typhoon Bavi moved in on China's coast with strong winds of about 89 miles per hour."
       },
       {
        "display": "moved out",
@@ -35180,7 +35176,7 @@
        "wrong": "To share information with each other",
        "correct": "To join with others to work together",
        "correctFirst": true,
-       "why": "Two companies team up on a project, and neighbors team up to fix a shared fence. Rescue teams across the region teamed up to get ready for Typhoon Bavi before it made landfall."
+       "why": "Two companies can team up on a project, and neighbors sometimes team up to fix a shared fence. Rescue teams across the region teamed up to prepare for Typhoon Bavi before the storm arrived."
       },
       {
        "display": "standing by",
@@ -35609,7 +35605,7 @@
        "wrong": "To try something for the first time",
        "correct": "To succeed in doing something difficult",
        "correctFirst": false,
-       "why": "A team pulls off an upset win against a much stronger rival, and a chef can pull off a difficult dish under pressure. China pulled off catching its rocket booster in a giant net at sea."
+       "why": "A team pulls off a surprise win against a better opponent, and a cook can pull off a hard recipe under pressure. Here China pulled off a major step forward in space travel."
       },
       {
        "display": "took off",
@@ -35617,7 +35613,7 @@
        "wrong": "To separate suddenly from another part",
        "correct": "To leave the ground and begin to fly",
        "correctFirst": true,
-       "why": "A plane takes off once the runway is clear, and a flock of birds can take off all at once. The Long March-10B took off, carried a satellite into orbit, and later returned its booster safely."
+       "why": "A plane takes off once the runway is clear, and a flock of birds can take off together. The Long March-10B took off from Hainan, carried a satellite into space, and later returned its booster safely to Earth."
       }
      ]
     },
@@ -36144,7 +36140,7 @@
        "wrong": "To start a legal case against someone",
        "correct": "To publicly say what you think",
        "correctFirst": true,
-       "why": "Activists speak out against injustice, and employees sometimes speak out about unsafe conditions at work. Here European officials have spoken out against Instagram and Facebook, saying their designs harm users' health."
+       "why": "Activists speak out against unfair treatment, and employees sometimes speak out about unsafe conditions at work. Here European officials have spoken out against Instagram and Facebook, saying their designs harm users' health."
       }
      ]
     },
@@ -36157,7 +36153,7 @@
        "wrong": "To officially declare something illegal",
        "correct": "To tell someone about a fact or detail",
        "correctFirst": true,
-       "why": "A friend might point out a stain on your shirt, and a teacher can point out a mistake in an essay. European regulators pointed out three addictive features in Instagram and Facebook, including infinite scroll and autoplay."
+       "why": "A friend might point out a stain on your shirt, and a teacher can point out a mistake in an essay. European officials pointed out three features that keep people using Instagram and Facebook for hours."
       },
       {
        "display": "start up",
@@ -36173,7 +36169,7 @@
        "wrong": "To save something to watch later",
        "correct": "To present or offer something",
        "correctFirst": false,
-       "why": "Restaurants serve up daily specials, and streaming apps serve up shows based on what you watched before. Here Instagram and Facebook serve up posts and videos the algorithm thinks will keep you scrolling."
+       "why": "Restaurants serve up daily specials, and streaming apps serve up shows based on what you watched before. Here Instagram and Facebook serve up posts and videos the app thinks you will like."
       },
       {
        "display": "end up",
@@ -36202,7 +36198,7 @@
        "wrong": "To let users make every choice",
        "correct": "To reduce the amount of something",
        "correctFirst": true,
-       "why": "Doctors tell patients to cut down on sugar or cut down on late-night coffee. Europe wants Meta to cut down how much control its algorithm has over what each person sees."
+       "why": "Doctors tell patients to cut down on sugar or cut down on late night coffee. Europe wants Meta to cut down how much control the app has over what each person sees."
       },
       {
        "display": "brought in",
@@ -36210,7 +36206,7 @@
        "wrong": "To promise stronger rules for the future",
        "correct": "To introduce a new rule, law, or system",
        "correctFirst": true,
-       "why": "Companies bring in new safety rules, and governments bring in fresh laws when problems appear. Meta says it has already brought in strong protections for teenagers, but European regulators are not convinced."
+       "why": "Companies bring in new safety rules, and governments bring in fresh laws when problems appear. Meta says it has already brought in strong protections for teenagers, but European officials are not convinced."
       }
      ]
     },
@@ -36223,7 +36219,7 @@
        "wrong": "To lose money because of falling sales",
        "correct": "To pay a large amount of money",
        "correctFirst": false,
-       "why": "Insurance companies pay out after a car accident, and lotteries pay out huge prizes to winners. If Meta loses this case, it may have to pay out a fine worth up to 6 percent of its yearly global revenue."
+       "why": "Insurance companies pay out after a car accident, and lotteries pay out huge prizes to winners. If Meta loses this case, it may have to pay out a fine worth six percent of all the money it earns worldwide each year."
       },
       {
        "display": "hands down",
@@ -36231,7 +36227,7 @@
        "wrong": "To discuss a decision in private",
        "correct": "To officially give a decision or judgment",
        "correctFirst": true,
-       "why": "Judges hand down prison sentences, and courts hand down rulings that change future cases. Europe has not yet handed down its final decision on Meta, but one is expected in the coming months."
+       "why": "Judges hand down prison sentences, and courts hand down decisions that change future cases. Europe has not yet handed down its final decision on Meta, but one is expected soon."
       },
       {
        "display": "bring on",
@@ -37264,8 +37260,8 @@
      "url": "https://www.cnn.com/2026/07/09/health/prevent-parasite-cyclospora"
     },
     {
-     "title": "Cyclospora outbreak spreads to 47 US States | DW News (video, DW News)",
-     "url": "https://www.youtube.com/watch?v=LLe-_yVkd_M"
+     "title": "The foods you should avoid as the cyclosporiasis outbreak grows (video, CBS News)",
+     "url": "https://www.youtube.com/watch?v=mAlYIyOdKJI"
     }
    ],
    "chunks": [
@@ -38844,7 +38840,7 @@
        "wrong": "To be checked by other scientists",
        "correct": "To end or result in a particular way",
        "correctFirst": false,
-       "why": "Test results sometimes come out great, and other times they come out disappointing. The Swiss project's one-year results came out well, with more than 16,000 kilowatt-hours of power produced."
+       "why": "Test results sometimes come out great, and other times they come out bad after months of hard work. The Swiss project's one-year results came out well, with strong power production from the solar panels."
       },
       {
        "display": "held up",
@@ -39323,8 +39319,8 @@
      "url": "https://www.yahoo.com/entertainment/celebrity/articles/tom-hanks-paul-mccartney-leave-123109026.html"
     },
     {
-     "title": "Taylor Swift weds Travis Kelce at Madison Square Garden (video, CTV News)",
-     "url": "https://www.youtube.com/watch?v=Tgc655W8Y6g"
+     "title": "Taylor Swift and Travis Kelce celebrate wedding at Madison Square Garden (video, CBS New York)",
+     "url": "https://www.youtube.com/watch?v=DgFWR3qTezo"
     }
    ],
    "chunks": [
@@ -39924,7 +39920,7 @@
        "wrong": "To arrive at the same time",
        "correct": "To join together to work with others",
        "correctFirst": true,
-       "why": "Small businesses team up for a joint sale, and two towns often team up after a disaster to share equipment and workers. Rescue teams from seven countries teamed up in Venezuela to reach Gil under more than 70 hours of rubble."
+       "why": "Small businesses can team up for a big sale, and two towns often team up after a storm to share equipment. Rescue teams from seven countries teamed up in Venezuela to save the trapped security guard."
       },
       {
        "display": "dig out",

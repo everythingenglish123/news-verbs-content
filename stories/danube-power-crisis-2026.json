@@ -1,1 +1,563 @@
-{"id":"danube-power-crisis-2026","number":65,"headline":"Nuclear plants slow down as the Danube drops","badge":"World","meta":"","image":"https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n65-danube-power-crisis-2026-flat.webp","position":"center 20%","sources":[{"title":"Record low Danube levels push some countries in Eastern Europe to the brink of energy emergency","url":"https://abcnews.com/International/wireStory/record-low-danube-levels-push-countries-eastern-europe-135319344"},{"title":"Record low Danube levels prompt central European governments to take emergency action","url":"https://www.euronews.com/my-europe/2026/08/03/record-low-danube-levels-prompt-central-european-governments-to-take-emergency-action"},{"title":"Romania seeks to divert Danube water to keep Cernavoda nuclear power plant online","url":"https://www.romania-insider.com/romania-divert-danube-nuclear-plant-august-2026"},{"title":"Hungary: Prime minister flags 'critical' days ahead as country's nuclear power plant goes offline (video, DW News)","url":"https://www.youtube.com/watch?v=6KyMc8xt09U"}],"chunks":[{"text":"The Danube has fallen to its lowest level [[on record]], and the countries along it are [[short of]] electricity. In Budapest the river measured about 10 centimeters on Monday, August 3, 2026, [[well under]] the old record of 33 centimeters, set in 2018. Hungary's only nuclear plant stands beside the town of Paks, about 90 kilometers south of the [[capital]], and normally {{makes up}} about half of the country's electricity production. On Monday its four Soviet-built reactors had been {{cut back}} to 240 megawatts, [[compared with]] a normal 2,000. The Danube has been low before. What is new is that it has almost {{shut down}} a nuclear plant [[for the first time in]] 44 years.","verbs":[{"display":"makes up","base":"make up","correct":"To form a part of something","wrong":"To measure the level of a river","correctFirst":true,"why":"Immigrants make up a large share of the workforce in some cities, and tourists make up most of a small town's income each summer. Hungary's Paks nuclear plant normally makes up about half of the country's electricity."},{"display":"cut back","base":"cut back","correct":"To reduce the amount produced","wrong":"To send power to another country","correctFirst":false,"why":"A family might cut back on spending during a hard month, and a factory might cut back its hours when demand falls. Hungary's four reactors were cut back to 240 megawatts, far below their normal 2,000."},{"display":"shut down","base":"shut down","correct":"To make a plant stop working","wrong":"To fill a plant with river water","correctFirst":true,"why":"A storm can shut down a factory for days, and low staff can shut down a small shop early. This summer low water almost shut down Hungary's nuclear plant for the first time in 44 years."}]},{"text":"The Paks plant uses Danube water to cool its reactors, so a low river means less power. To {{keep up with}} [[demand]], Hungary has asked everyone to use less. On Saturday the government {{brought in}} [[mandatory]] limits for large factories and shops, and asked families to save electricity between 5 and 10 in the evening, the hours of [[peak]] use. Electric freight trains cannot run in those hours, a step expected to save 70 to 90 megawatt hours a day. Prime Minister Péter Magyar said [[voluntary]] savings on Sunday cut demand by 700 megawatts, and that a full shutdown could still be {{put off}}, [[at least for now]].","verbs":[{"display":"keep up with","base":"keep up with","correct":"To produce as much as is needed","wrong":"To store power for later use","correctFirst":false,"why":"A factory struggles to keep up with holiday orders, and a small bakery cannot always keep up with a sudden rush of customers. To keep up with electricity demand, Hungary has asked everyone to use less power."},{"display":"brought in","base":"bring in","correct":"To start a new rule or law","wrong":"To make a machine work again","correctFirst":true,"why":"Governments bring in new traffic laws, and schools sometimes bring in stricter rules on phones. On Saturday, Hungary's government brought in mandatory electricity limits for large factories and shops across the country."},{"display":"put off","base":"put off","correct":"To delay something until later","wrong":"To stop a train from running","correctFirst":false,"why":"Students put off homework until the last night, and some people put off a dentist visit for years. Hungary's prime minister said a full shutdown of the plant could still be put off, at least for now."}]},{"text":"Romania is [[in the same position]]. The [[flow]] of the Danube there has fallen to about 1,500 cubic meters a second, less than a third of the July [[average]]. One of the two 680 megawatt reactors at the Cernavoda plant has already stopped, and the other is running at about half [[capacity]]. Together they normally [[supply]] [[roughly]] a fifth of Romania's electricity. More than 100 soldiers {{set off}} 180 kilograms of [[explosives]] at a rock formation on Monday. The blast will {{hold back}} the water that escapes down a side channel called the Bala arm and {{send it past}} the plant instead. The navy also plans to sink four barges carrying about 500 tons of stone across the same channel. Acting Prime Minister Ilie Bolojan declared a nationwide energy [[alert]] for August and {{turned to}} Ukraine for extra nuclear power. The carmakers Dacia and Ford have stopped production until August 19.","verbs":[{"display":"hold back","base":"hold back","correct":"To stop water from flowing","wrong":"To collect water in a lake","correctFirst":true,"why":"A dam can hold back a whole river, and a small wall can hold back floodwater during a storm. In Romania, the planned blast will hold back water that now escapes down the Bala side channel."},{"display":"send it past","base":"send past","correct":"To make water reach the plant","wrong":"To pump water into a tank","correctFirst":false,"why":"Engineers send water past a blocked channel to reach a plant, the way a captain sends a ship past a storm safely. In Romania, the planned blast is meant to send the diverted Danube water past the collapsed side channel toward the Cernavoda plant."},{"display":"set off","base":"set off","correct":"To make something explode","wrong":"To take rocks from a riverbed","correctFirst":true,"why":"Soldiers set off dynamite to clear a blocked road, and construction workers set off small charges to loosen solid rock. In Romania, more than 100 soldiers set off 180 kilograms of explosives at a rock formation in the river."},{"display":"turned to","base":"turn to","correct":"To ask another country to help","wrong":"To warn people about a danger","correctFirst":false,"why":"A country low on supplies might turn to its neighbors for help, and a small business might turn to a bank for a loan. Romania's acting prime minister turned to Ukraine for extra nuclear power during the crisis."}]},{"text":"Serbia is feeling the same [[squeeze]]. Its two hydroelectric plants on the Danube, Djerdap I and Djerdap II, are running at 20 and 30 percent of capacity, and together they normally provide about 18 percent of the country's power. Prime Minister Djuro Macut held an emergency meeting and asked people to use air conditioning [[as little as possible]]. Slovakia's prime minister, Robert Fico, said his country was watching closely and was ready to {{step in}}. Daytime temperatures have {{gone up}} past 38 degrees Celsius, and the heat has not {{let up}} since May. Romania's energy ministry expects the hardest [[stretch]] to last until about August 15, but no real rain is [[forecast]] for weeks.","verbs":[{"display":"step in","base":"step in","correct":"To get involved and help","wrong":"To build a new power line","correctFirst":true,"why":"A manager steps in when a deal turns risky, and a coach steps in when a player gets hurt. Slovakia's prime minister said his country was watching the crisis closely and was ready to step in if needed."},{"display":"gone up","base":"go up","correct":"To rise to a higher level","wrong":"To change from hour to hour","correctFirst":false,"why":"Grocery prices go up every year, and temperatures go up fast on a summer afternoon. In this heat wave, daytime temperatures have gone up past 38 degrees Celsius across the region."},{"display":"let up","base":"let up","correct":"To become weaker or stop","wrong":"To arrive earlier than usual","correctFirst":true,"why":"Heavy rain finally lets up after an hour, and a bad headache sometimes lets up by evening. In this region, the summer heat has not let up since May, with no rain in the forecast."}]}],"vocab":[{"verb":"Make up","def":"To form a part of something","ex":["Freelancers make up about a quarter of our team.","Water makes up most of the human body.","These four towns made up the whole region."],"ipa":"/meɪk ʌp/"},{"verb":"Cut back","def":"To reduce the amount produced","ex":["The airline cut back flights during the slow season.","They cut back production during the summer.","The plant is cutting back to save energy."],"ipa":"/kʌt bæk/"},{"verb":"Shut down","def":"To make a plant stop working","ex":["Workers had to shut down the assembly line for repairs.","The company shut down its oldest factory last year.","They are shutting down the machine tonight."],"ipa":"/ʃʌt daʊn/"},{"verb":"Keep up with","def":"To produce as much as is needed","ex":["The small kitchen could not keep up with the orders.","Supply kept up with demand all winter.","Farmers are keeping up with the demand for milk."],"ipa":"/kip ʌp wɪð/"},{"verb":"Bring in","def":"To start a new rule or law","ex":["The city brought in a new recycling rule this year.","They brought in stricter limits last year.","The government is bringing in a law on water use."],"ipa":"/brɪŋ ɪn/"},{"verb":"Put off","def":"To delay something until later","ex":["She decided to put off her vacation until fall.","She put off her trip because of the heat.","They are putting off the decision again."],"ipa":"/pʊt ɔf/"},{"verb":"Hold back","def":"To stop water from flowing","ex":["A new dam will hold back the river during storms.","The wall holds back the sea during storms.","Sandbags held back the flood for two days."],"ipa":"/hoʊld bæk/"},{"verb":"Send past","def":"To make water reach the plant","ex":["Workers built a canal to send water past the dry field.","Engineers send water past the plant to cool it.","The new channel sends the river past the town."],"ipa":"/sɛnd pæst/"},{"verb":"Set off","def":"To make something explode","ex":["Workers set off a controlled blast to clear the rocks.","They set off the explosives at noon.","The team is setting off a small blast today."],"ipa":"/sɛt ɔf/"},{"verb":"Turn to","def":"To ask another country to help","ex":["The small nation turned to its allies for aid.","Small nations often turn to bigger ones in a crisis.","They are turning to Europe for support."],"ipa":"/tɜrn tu/"},{"verb":"Step in","def":"To get involved and help","ex":["Neighbors stepped in to help after the fire.","A friend will step in if we need money.","Volunteers stepped in when the regular staff were sick."],"ipa":"/stɛp ɪn/"},{"verb":"Go up","def":"To rise to a higher level","ex":["Ticket prices go up every year before the holidays.","Grocery prices go up a little every summer.","Costs are going up across the country."],"ipa":"/goʊ ʌp/"},{"verb":"Let up","def":"To become weaker or stop","ex":["The storm did not let up until dawn.","The rain did not let up all night.","The strong wind finally let up after midnight."],"ipa":"/lɛt ʌp/"}],"wordDefs":[{"word":"on record","def":"Ever known in history","ex":["This was the coldest winter on record for the region.","It is the largest crowd on record for the stadium.","The company posted its highest profit on record."],"ipa":"/ɑn ˈrɛkərd/"},{"word":"short of","def":"Not having enough of something","ex":["The kitchen is short of fresh vegetables today.","We are short of time before the deadline.","The charity is short of volunteers this month."],"ipa":"/ʃɔrt ʌv/"},{"word":"capital","def":"The main city of a country","ex":["Tokyo is the capital of Japan.","Many people moved to the capital for work.","The capital city was full of tourists in summer."],"ipa":"/ˈkæpɪtəl/"},{"word":"compared with","def":"Measured against something else","ex":["Her score improved a lot compared with last semester.","The room felt cool compared with the street.","The new phone is lighter compared with the old model."],"ipa":"/kəmˈpɛrd wɪð/"},{"word":"demand","def":"The amount that people need","ex":["Demand for the new phone was much higher than expected.","The factory cannot meet demand this month.","Farmers grow more corn when demand is high."],"ipa":"/dɪˈmænd/"},{"word":"mandatory","def":"Required by a rule or a law","ex":["Seatbelts are mandatory for every passenger in the car.","The training is mandatory for all new staff.","Attendance at the meeting is mandatory for managers."],"ipa":"/ˈmændəˌtɔri/"},{"word":"peak","def":"The highest point or level","ex":["The mountain's peak was covered in snow.","Sales reached their peak in December.","Ticket prices are highest during peak season."],"ipa":"/pik/"},{"word":"voluntary","def":"Done by choice, not forced","ex":["Joining the club is completely voluntary.","She does voluntary work at the library.","He spends his weekends doing voluntary work at the shelter."],"ipa":"/ˈvɑlənˌtɛri/"},{"word":"at least for now","def":"For the present time only","ex":["The store will stay open, at least for now.","Prices are steady, at least for now.","He plans to keep his old car, at least for now."],"ipa":"/æt list fɔr naʊ/"},{"word":"flow","def":"The movement of water in a river","ex":["The flow of traffic slowed near the accident.","Engineers measure the flow every day.","A steady flow of visitors arrived all morning."],"ipa":"/floʊ/"},{"word":"average","def":"The usual amount over a period","ex":["Her grades were above the average for the class.","The average for the week was 30 degrees.","The average cost of a meal there is quite low."],"ipa":"/ˈævərɪdʒ/"},{"word":"capacity","def":"The most that can be produced","ex":["The stadium was filled to capacity for the final game.","They cut capacity by half last month.","The factory increased its capacity to meet new orders."],"ipa":"/kəˈpæsɪti/"},{"word":"supply","def":"To give what is needed","ex":["Local farms supply fresh vegetables to the market.","The factory struggled to supply enough parts on time.","Rivers supply water to towns across the valley."],"ipa":"/səˈplaɪ/"},{"word":"roughly","def":"About, but not exactly","ex":["The bridge is roughly two miles from downtown.","It costs roughly the same as last year.","Roughly half the class passed the difficult exam."],"ipa":"/ˈrʌfli/"},{"word":"explosives","def":"Materials that cause an explosion","ex":["The mining company stores explosives in a locked shed.","Workers moved the explosives by truck.","Police cleared the area before removing the explosives."],"ipa":"/ɪkˈsploʊsɪvz/"},{"word":"alert","def":"A warning to be ready","ex":["The city issued a heat alert for the weekend.","An alert went out to every hospital.","Her phone buzzed with a weather alert."],"ipa":"/əˈlɜrt/"},{"word":"squeeze","def":"A time when something is short","ex":["A tight housing squeeze pushed rents higher this year.","A cash squeeze forced the store to close.","The squeeze on farmers grew worse after the drought."],"ipa":"/skwiz/"},{"word":"as little as possible","def":"The smallest amount you can","ex":["Try to waste as little as possible when cooking.","They spent as little as possible on repairs.","She packed as little as possible for the short trip."],"ipa":"/æz ˈlɪtəl æz ˈpɑsəbəl/"},{"word":"stretch","def":"A period of time","ex":["It was a hard stretch for the whole team.","The rainy stretch lasted almost two weeks.","He ran the last stretch of the race with full speed."],"ipa":"/strɛtʃ/"},{"word":"forecast","def":"Expected to happen in the future","ex":["Snow is forecast for the mountains tonight.","Slower growth is forecast for next year.","A busy shopping season is forecast this holiday."],"ipa":"/ˈfɔrkæst/"},{"word":"well under","def":"Clearly less than a number","ex":["The bridge cost well under the original budget.","Her score was well under the passing grade.","The car's price is well under ten thousand dollars."]},{"word":"for the first time in","def":"Not having happened again until now","ex":["He visited his hometown for the first time in years.","The team won a game for the first time in months.","She smiled for the first time in weeks."]},{"word":"in the same position","def":"Facing the same situation as someone else","ex":["Many small farms are in the same position this year.","Her brother found himself in the same position at work.","Both cities are in the same position after the storm."]}],"mainIdea":[{"s":"Record low water on the Danube has cut power at nuclear and hydro plants in three countries. Hungary, Romania and Serbia have all had to ask people to use less electricity this summer.","a":true,"why":"The article says low river levels have cut output at Paks, Cernavoda and Serbia's Djerdap plants, forcing limits on use."},{"s":"Hungary's only nuclear plant needed emergency repairs after a fire broke out at the site this month. The government has also brought in mandatory power limits for large factories and shops.","a":false,"why":"Close, but the article does not mention a fire at the plant. The Paks reactors were cut back because of low river levels, not a fire."},{"s":"Falling water levels on the Danube have also exposed dozens of sunken German warships from World War Two. Crews near Prahovo, Serbia are now removing the wrecks to widen the shipping channel.","a":false,"why":"This story is about the energy crisis along the Danube, not about the sunken warships being removed near Prahovo."}],"tf":[{"s":"Hungary's government brought in mandatory limits for large factories and shops.","a":true,"why":"On Saturday the government brought in mandatory limits for large factories and shops."},{"s":"Paks makes up about a fifth of Hungary's electricity production.","a":false,"why":"The plant at Paks normally makes up about half of Hungary's electricity production. A fifth is the Cernavoda share in Romania."},{"s":"Romanian soldiers set off 180 kilograms of explosives at a rock formation on Monday.","a":true,"why":"More than 100 soldiers set off 180 kilograms of explosives at a rock formation there on Monday."},{"s":"The heat has not let up since May.","a":true,"why":"Daytime temperatures have gone up past 38 degrees Celsius, and the heat has not let up since May."},{"s":"The reactors at Paks were cut back to 2,000 megawatts on Monday.","a":false,"why":"The reactors had been cut back to 240 megawatts, compared with a normal 2,000."},{"s":"Slovakia turned to Hungary for extra nuclear power.","a":false,"why":"Romania turned to Ukraine for extra nuclear power. Slovakia said it was ready to step in and help."}]}
+{
+ "id": "danube-power-crisis-2026",
+ "number": 65,
+ "headline": "Nuclear plants slow down as the Danube drops",
+ "badge": "World",
+ "meta": "",
+ "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n65-danube-power-crisis-2026-flat.webp",
+ "position": "center 20%",
+ "sources": [
+  {
+   "title": "Record low Danube levels push some countries in Eastern Europe to the brink of energy emergency",
+   "url": "https://abcnews.com/International/wireStory/record-low-danube-levels-push-countries-eastern-europe-135319344"
+  },
+  {
+   "title": "Record low Danube levels prompt central European governments to take emergency action",
+   "url": "https://www.euronews.com/my-europe/2026/08/03/record-low-danube-levels-prompt-central-european-governments-to-take-emergency-action"
+  },
+  {
+   "title": "Romania seeks to divert Danube water to keep Cernavoda nuclear power plant online",
+   "url": "https://www.romania-insider.com/romania-divert-danube-nuclear-plant-august-2026"
+  },
+  {
+   "title": "Hungary: Prime minister flags 'critical' days ahead as country's nuclear power plant goes offline (video, DW News)",
+   "url": "https://www.youtube.com/watch?v=6KyMc8xt09U"
+  }
+ ],
+ "chunks": [
+  {
+   "text": "The Danube has fallen to its lowest level [[on record]], and the countries along it are [[short of]] electricity. In Budapest the river measured about 10 centimeters on Monday, August 3, 2026, [[well under]] the old record of 33 centimeters, set in 2018. Hungary's only nuclear plant stands beside the town of Paks, about 90 kilometers south of the [[capital]], and normally {{makes up}} about half of the country's electricity production. On Monday its four Soviet-built reactors had been {{cut back}} to 240 megawatts, [[compared with]] a normal 2,000. The Danube has been low before. What is new is that it has almost {{shut down}} a nuclear plant [[for the first time in]] 44 years.",
+   "verbs": [
+    {
+     "display": "makes up",
+     "base": "make up",
+     "correct": "To form a part of something",
+     "wrong": "To measure the level of a river",
+     "correctFirst": true,
+     "why": "Immigrants make up a large share of the workforce in some cities, and tourists make up most of a small town's income each summer. Hungary's Paks nuclear plant normally makes up about half of the country's electricity."
+    },
+    {
+     "display": "cut back",
+     "base": "cut back",
+     "correct": "To reduce the amount produced",
+     "wrong": "To send power to another country",
+     "correctFirst": false,
+     "why": "A family might cut back on spending during a hard month, and a factory might cut back its hours when demand falls. Hungary's four reactors were cut back to 240 megawatts, far below their normal 2,000."
+    },
+    {
+     "display": "shut down",
+     "base": "shut down",
+     "correct": "To make a plant stop working",
+     "wrong": "To fill a plant with river water",
+     "correctFirst": true,
+     "why": "A storm can shut down a factory for days, and low staff can shut down a small shop early. This summer low water almost shut down Hungary's nuclear plant for the first time in 44 years."
+    }
+   ]
+  },
+  {
+   "text": "The Paks plant uses Danube water to cool its reactors, so a low river means less power. To {{keep up with}} [[demand]], Hungary has asked everyone to use less. On Saturday the government {{brought in}} [[mandatory]] limits for large factories and shops, and asked families to save electricity between 5 and 10 in the evening, the hours of [[peak]] use. Electric freight trains cannot run in those hours, a step expected to save 70 to 90 megawatt hours a day. Prime Minister Péter Magyar said [[voluntary]] savings on Sunday cut demand by 700 megawatts, and that a full shutdown could still be {{put off}}, [[at least for now]].",
+   "verbs": [
+    {
+     "display": "keep up with",
+     "base": "keep up with",
+     "correct": "To produce as much as is needed",
+     "wrong": "To store power for later use",
+     "correctFirst": false,
+     "why": "A factory struggles to keep up with holiday orders, and a small bakery cannot always keep up with a sudden rush of customers. To keep up with electricity demand, Hungary has asked everyone to use less power."
+    },
+    {
+     "display": "brought in",
+     "base": "bring in",
+     "correct": "To start a new rule or law",
+     "wrong": "To make a machine work again",
+     "correctFirst": true,
+     "why": "Governments bring in new traffic laws, and schools sometimes bring in stricter rules on phones. On Saturday, Hungary's government brought in mandatory electricity limits for large factories and shops across the country."
+    },
+    {
+     "display": "put off",
+     "base": "put off",
+     "correct": "To delay something until later",
+     "wrong": "To stop a train from running",
+     "correctFirst": false,
+     "why": "Students put off homework until the last night, and some people put off a dentist visit for years. Hungary's prime minister said a full shutdown of the plant could still be put off, at least for now."
+    }
+   ]
+  },
+  {
+   "text": "Romania is [[in the same position]]. The [[flow]] of the Danube there has fallen to about 1,500 cubic meters a second, less than a third of the July [[average]]. One of the two 680 megawatt reactors at the Cernavoda plant has already stopped, and the other is running at about half [[capacity]]. Together they normally [[supply]] [[roughly]] a fifth of Romania's electricity. More than 100 soldiers {{set off}} 180 kilograms of [[explosives]] at a rock formation on Monday. The blast will {{hold back}} the water that escapes down a side channel called the Bala arm and {{send it past}} the plant instead. The navy also plans to sink four barges carrying about 500 tons of stone across the same channel. Acting Prime Minister Ilie Bolojan declared a nationwide energy [[alert]] for August and {{turned to}} Ukraine for extra nuclear power. The carmakers Dacia and Ford have stopped production until August 19.",
+   "verbs": [
+    {
+     "display": "hold back",
+     "base": "hold back",
+     "correct": "To stop water from flowing",
+     "wrong": "To collect water in a lake",
+     "correctFirst": true,
+     "why": "A dam can hold back a whole river, and a small wall can hold back floodwater during a storm. In Romania, the planned blast will hold back water that now escapes down the Bala side channel."
+    },
+    {
+     "display": "send it past",
+     "base": "send past",
+     "correct": "To make water reach the plant",
+     "wrong": "To pump water into a tank",
+     "correctFirst": false,
+     "why": "Engineers send water past a blocked pipe to a nearby town, and workers send trucks past a closed road to finish a delivery on time. In Romania, the planned blast will send the Danube water past the Bala side channel to the power plant instead."
+    },
+    {
+     "display": "set off",
+     "base": "set off",
+     "correct": "To make something explode",
+     "wrong": "To take rocks from a riverbed",
+     "correctFirst": true,
+     "why": "Soldiers set off dynamite to clear a blocked road, and construction workers set off small charges to loosen solid rock. In Romania, more than 100 soldiers set off 180 kilograms of explosives at a rock formation in the river."
+    },
+    {
+     "display": "turned to",
+     "base": "turn to",
+     "correct": "To ask another country to help",
+     "wrong": "To warn people about a danger",
+     "correctFirst": false,
+     "why": "A country low on supplies might turn to its neighbors for help, and a small business might turn to a bank for a loan. Romania's acting prime minister turned to Ukraine for extra nuclear power during the crisis."
+    }
+   ]
+  },
+  {
+   "text": "Serbia is feeling the same [[squeeze]]. Its two hydroelectric plants on the Danube, Djerdap I and Djerdap II, are running at 20 and 30 percent of capacity, and together they normally provide about 18 percent of the country's power. Prime Minister Djuro Macut held an emergency meeting and asked people to use air conditioning [[as little as possible]]. Slovakia's prime minister, Robert Fico, said his country was watching closely and was ready to {{step in}}. Daytime temperatures have {{gone up}} past 38 degrees Celsius, and the heat has not {{let up}} since May. Romania's energy ministry expects the hardest [[stretch]] to last until about August 15, but no real rain is [[forecast]] for weeks.",
+   "verbs": [
+    {
+     "display": "step in",
+     "base": "step in",
+     "correct": "To get involved and help",
+     "wrong": "To build a new power line",
+     "correctFirst": true,
+     "why": "A manager steps in when a deal turns risky, and a coach steps in when a player gets hurt. Slovakia's prime minister said his country was watching the crisis closely and was ready to step in if needed."
+    },
+    {
+     "display": "gone up",
+     "base": "go up",
+     "correct": "To rise to a higher level",
+     "wrong": "To change from hour to hour",
+     "correctFirst": false,
+     "why": "Grocery prices go up every year, and temperatures go up fast on a summer afternoon. In this heat wave, daytime temperatures have gone up past 38 degrees Celsius across the region."
+    },
+    {
+     "display": "let up",
+     "base": "let up",
+     "correct": "To become weaker or stop",
+     "wrong": "To arrive earlier than usual",
+     "correctFirst": true,
+     "why": "Heavy rain finally lets up after an hour, and a bad headache sometimes lets up by evening. In this region, the summer heat has not let up since May, with no rain in the forecast."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "verb": "Make up",
+   "def": "To form a part of something",
+   "ex": [
+    "Freelancers make up about a quarter of our team.",
+    "Water makes up most of the human body.",
+    "These four towns made up the whole region."
+   ],
+   "ipa": "/meɪk ʌp/"
+  },
+  {
+   "verb": "Cut back",
+   "def": "To reduce the amount produced",
+   "ex": [
+    "The airline cut back flights during the slow season.",
+    "They cut back production during the summer.",
+    "The plant is cutting back to save energy."
+   ],
+   "ipa": "/kʌt bæk/"
+  },
+  {
+   "verb": "Shut down",
+   "def": "To make a plant stop working",
+   "ex": [
+    "Workers had to shut down the assembly line for repairs.",
+    "The company shut down its oldest factory last year.",
+    "They are shutting down the machine tonight."
+   ],
+   "ipa": "/ʃʌt daʊn/"
+  },
+  {
+   "verb": "Keep up with",
+   "def": "To produce as much as is needed",
+   "ex": [
+    "The small kitchen could not keep up with the orders.",
+    "Supply kept up with demand all winter.",
+    "Farmers are keeping up with the demand for milk."
+   ],
+   "ipa": "/kip ʌp wɪð/"
+  },
+  {
+   "verb": "Bring in",
+   "def": "To start a new rule or law",
+   "ex": [
+    "The city brought in a new recycling rule this year.",
+    "They brought in stricter limits last year.",
+    "The government is bringing in a law on water use."
+   ],
+   "ipa": "/brɪŋ ɪn/"
+  },
+  {
+   "verb": "Put off",
+   "def": "To delay something until later",
+   "ex": [
+    "She decided to put off her vacation until fall.",
+    "She put off her trip because of the heat.",
+    "They are putting off the decision again."
+   ],
+   "ipa": "/pʊt ɔf/"
+  },
+  {
+   "verb": "Hold back",
+   "def": "To stop water from flowing",
+   "ex": [
+    "A new dam will hold back the river during storms.",
+    "The wall holds back the sea during storms.",
+    "Sandbags held back the flood for two days."
+   ],
+   "ipa": "/hoʊld bæk/"
+  },
+  {
+   "verb": "Send past",
+   "def": "To make water reach the plant",
+   "ex": [
+    "Workers built a canal to send water past the dry field.",
+    "Engineers send water past the plant to cool it.",
+    "The new channel sends the river past the town."
+   ],
+   "ipa": "/sɛnd pæst/"
+  },
+  {
+   "verb": "Set off",
+   "def": "To make something explode",
+   "ex": [
+    "Workers set off a controlled blast to clear the rocks.",
+    "They set off the explosives at noon.",
+    "The team is setting off a small blast today."
+   ],
+   "ipa": "/sɛt ɔf/"
+  },
+  {
+   "verb": "Turn to",
+   "def": "To ask another country to help",
+   "ex": [
+    "The small nation turned to its allies for aid.",
+    "Small nations often turn to bigger ones in a crisis.",
+    "They are turning to Europe for support."
+   ],
+   "ipa": "/tɜrn tu/"
+  },
+  {
+   "verb": "Step in",
+   "def": "To get involved and help",
+   "ex": [
+    "Neighbors stepped in to help after the fire.",
+    "A friend will step in if we need money.",
+    "Volunteers stepped in when the regular staff were sick."
+   ],
+   "ipa": "/stɛp ɪn/"
+  },
+  {
+   "verb": "Go up",
+   "def": "To rise to a higher level",
+   "ex": [
+    "Ticket prices go up every year before the holidays.",
+    "Grocery prices go up a little every summer.",
+    "Costs are going up across the country."
+   ],
+   "ipa": "/goʊ ʌp/"
+  },
+  {
+   "verb": "Let up",
+   "def": "To become weaker or stop",
+   "ex": [
+    "The storm did not let up until dawn.",
+    "The rain did not let up all night.",
+    "The strong wind finally let up after midnight."
+   ],
+   "ipa": "/lɛt ʌp/"
+  }
+ ],
+ "wordDefs": [
+  {
+   "word": "on record",
+   "def": "Ever known in history",
+   "ex": [
+    "This was the coldest winter on record for the region.",
+    "It is the largest crowd on record for the stadium.",
+    "The company posted its highest profit on record."
+   ],
+   "ipa": "/ɑn ˈrɛkərd/"
+  },
+  {
+   "word": "short of",
+   "def": "Not having enough of something",
+   "ex": [
+    "The kitchen is short of fresh vegetables today.",
+    "We are short of time before the deadline.",
+    "The charity is short of volunteers this month."
+   ],
+   "ipa": "/ʃɔrt ʌv/"
+  },
+  {
+   "word": "capital",
+   "def": "The main city of a country",
+   "ex": [
+    "Tokyo is the capital of Japan.",
+    "Many people moved to the capital for work.",
+    "The capital city was full of tourists in summer."
+   ],
+   "ipa": "/ˈkæpɪtəl/"
+  },
+  {
+   "word": "compared with",
+   "def": "Measured against something else",
+   "ex": [
+    "Her score improved a lot compared with last semester.",
+    "The room felt cool compared with the street.",
+    "The new phone is lighter compared with the old model."
+   ],
+   "ipa": "/kəmˈpɛrd wɪð/"
+  },
+  {
+   "word": "demand",
+   "def": "The amount that people need",
+   "ex": [
+    "Demand for the new phone was much higher than expected.",
+    "The factory cannot meet demand this month.",
+    "Farmers grow more corn when demand is high."
+   ],
+   "ipa": "/dɪˈmænd/"
+  },
+  {
+   "word": "mandatory",
+   "def": "Required by a rule or a law",
+   "ex": [
+    "Seatbelts are mandatory for every passenger in the car.",
+    "The training is mandatory for all new staff.",
+    "Attendance at the meeting is mandatory for managers."
+   ],
+   "ipa": "/ˈmændəˌtɔri/"
+  },
+  {
+   "word": "peak",
+   "def": "The highest point or level",
+   "ex": [
+    "The mountain's peak was covered in snow.",
+    "Sales reached their peak in December.",
+    "Ticket prices are highest during peak season."
+   ],
+   "ipa": "/pik/"
+  },
+  {
+   "word": "voluntary",
+   "def": "Done by choice, not forced",
+   "ex": [
+    "Joining the club is completely voluntary.",
+    "She does voluntary work at the library.",
+    "He spends his weekends doing voluntary work at the shelter."
+   ],
+   "ipa": "/ˈvɑlənˌtɛri/"
+  },
+  {
+   "word": "at least for now",
+   "def": "For the present time only",
+   "ex": [
+    "The store will stay open, at least for now.",
+    "Prices are steady, at least for now.",
+    "He plans to keep his old car, at least for now."
+   ],
+   "ipa": "/æt list fɔr naʊ/"
+  },
+  {
+   "word": "flow",
+   "def": "The movement of water in a river",
+   "ex": [
+    "The flow of traffic slowed near the accident.",
+    "Engineers measure the flow every day.",
+    "A steady flow of visitors arrived all morning."
+   ],
+   "ipa": "/floʊ/"
+  },
+  {
+   "word": "average",
+   "def": "The usual amount over a period",
+   "ex": [
+    "Her grades were above the average for the class.",
+    "The average for the week was 30 degrees.",
+    "The average cost of a meal there is quite low."
+   ],
+   "ipa": "/ˈævərɪdʒ/"
+  },
+  {
+   "word": "capacity",
+   "def": "The most that can be produced",
+   "ex": [
+    "The stadium was filled to capacity for the final game.",
+    "They cut capacity by half last month.",
+    "The factory increased its capacity to meet new orders."
+   ],
+   "ipa": "/kəˈpæsɪti/"
+  },
+  {
+   "word": "supply",
+   "def": "To give what is needed",
+   "ex": [
+    "Local farms supply fresh vegetables to the market.",
+    "The factory struggled to supply enough parts on time.",
+    "Rivers supply water to towns across the valley."
+   ],
+   "ipa": "/səˈplaɪ/"
+  },
+  {
+   "word": "roughly",
+   "def": "About, but not exactly",
+   "ex": [
+    "The bridge is roughly two miles from downtown.",
+    "It costs roughly the same as last year.",
+    "Roughly half the class passed the difficult exam."
+   ],
+   "ipa": "/ˈrʌfli/"
+  },
+  {
+   "word": "explosives",
+   "def": "Materials that cause an explosion",
+   "ex": [
+    "The mining company stores explosives in a locked shed.",
+    "Workers moved the explosives by truck.",
+    "Police cleared the area before removing the explosives."
+   ],
+   "ipa": "/ɪkˈsploʊsɪvz/"
+  },
+  {
+   "word": "alert",
+   "def": "A warning to be ready",
+   "ex": [
+    "The city issued a heat alert for the weekend.",
+    "An alert went out to every hospital.",
+    "Her phone buzzed with a weather alert."
+   ],
+   "ipa": "/əˈlɜrt/"
+  },
+  {
+   "word": "squeeze",
+   "def": "A time when something is short",
+   "ex": [
+    "A tight housing squeeze pushed rents higher this year.",
+    "A cash squeeze forced the store to close.",
+    "The squeeze on farmers grew worse after the drought."
+   ],
+   "ipa": "/skwiz/"
+  },
+  {
+   "word": "as little as possible",
+   "def": "The smallest amount you can",
+   "ex": [
+    "Try to waste as little as possible when cooking.",
+    "They spent as little as possible on repairs.",
+    "She packed as little as possible for the short trip."
+   ],
+   "ipa": "/æz ˈlɪtəl æz ˈpɑsəbəl/"
+  },
+  {
+   "word": "stretch",
+   "def": "A period of time",
+   "ex": [
+    "It was a hard stretch for the whole team.",
+    "The rainy stretch lasted almost two weeks.",
+    "He ran the last stretch of the race with full speed."
+   ],
+   "ipa": "/strɛtʃ/"
+  },
+  {
+   "word": "forecast",
+   "def": "Expected to happen in the future",
+   "ex": [
+    "Snow is forecast for the mountains tonight.",
+    "Slower growth is forecast for next year.",
+    "A busy shopping season is forecast this holiday."
+   ],
+   "ipa": "/ˈfɔrkæst/"
+  },
+  {
+   "word": "well under",
+   "def": "Clearly less than a number",
+   "ex": [
+    "The bridge cost well under the original budget.",
+    "Her score was well under the passing grade.",
+    "The car's price is well under ten thousand dollars."
+   ]
+  },
+  {
+   "word": "for the first time in",
+   "def": "Not having happened again until now",
+   "ex": [
+    "He visited his hometown for the first time in years.",
+    "The team won a game for the first time in months.",
+    "She smiled for the first time in weeks."
+   ]
+  },
+  {
+   "word": "in the same position",
+   "def": "Facing the same situation as someone else",
+   "ex": [
+    "Many small farms are in the same position this year.",
+    "Her brother found himself in the same position at work.",
+    "Both cities are in the same position after the storm."
+   ]
+  }
+ ],
+ "mainIdea": [
+  {
+   "s": "Record low water on the Danube has cut power at nuclear and hydro plants in three countries. Hungary, Romania and Serbia have all had to ask people to use less electricity this summer.",
+   "a": true,
+   "why": "The article says low river levels have cut output at Paks, Cernavoda and Serbia's Djerdap plants, forcing limits on use."
+  },
+  {
+   "s": "Hungary's only nuclear plant needed emergency repairs after a fire broke out at the site this month. The government has also brought in mandatory power limits for large factories and shops.",
+   "a": false,
+   "why": "Close, but the article does not mention a fire at the plant. The Paks reactors were cut back because of low river levels, not a fire."
+  },
+  {
+   "s": "Falling water levels on the Danube have also exposed dozens of sunken German warships from World War Two. Crews near Prahovo, Serbia are now removing the wrecks to widen the shipping channel.",
+   "a": false,
+   "why": "This story is about the energy crisis along the Danube, not about the sunken warships being removed near Prahovo."
+  }
+ ],
+ "tf": [
+  {
+   "s": "Hungary's government brought in mandatory limits for large factories and shops.",
+   "a": true,
+   "why": "On Saturday the government brought in mandatory limits for large factories and shops."
+  },
+  {
+   "s": "Paks makes up about a fifth of Hungary's electricity production.",
+   "a": false,
+   "why": "The plant at Paks normally makes up about half of Hungary's electricity production. A fifth is the Cernavoda share in Romania."
+  },
+  {
+   "s": "Romanian soldiers set off 180 kilograms of explosives at a rock formation on Monday.",
+   "a": true,
+   "why": "More than 100 soldiers set off 180 kilograms of explosives at a rock formation there on Monday."
+  },
+  {
+   "s": "The heat has not let up since May.",
+   "a": true,
+   "why": "Daytime temperatures have gone up past 38 degrees Celsius, and the heat has not let up since May."
+  },
+  {
+   "s": "The reactors at Paks were cut back to 2,000 megawatts on Monday.",
+   "a": false,
+   "why": "The reactors had been cut back to 240 megawatts, compared with a normal 2,000."
+  },
+  {
+   "s": "Slovakia turned to Hungary for extra nuclear power.",
+   "a": false,
+   "why": "Romania turned to Ukraine for extra nuclear power. Slovakia said it was ready to step in and help."
+  }
+ ]
+}

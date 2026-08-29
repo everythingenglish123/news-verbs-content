@@ -1,1 +1,555 @@
-{"id":"luxor-tomb-paser-2026","number":29,"headline":"Ancient painted tomb uncovered near Egypt's Luxor","badge":"History","meta":"","image":"https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n29-luxor-tomb-paser-2026-flat.webp","position":"center 50%","sources":[{"title":"Archaeologists uncover 3,000-year-old tomb near Egypt's Luxor","url":"https://www.cbsnews.com/news/archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor/"},{"title":"3,000-year-old tomb of ancient Egyptian official Paser discovered in Luxor's Theban Necropolis","url":"https://archaeologymag.com/2026/07/tomb-of-ancient-egyptian-official-paser/"},{"title":"3,000-year-old Egyptian tomb with vivid afterlife paintings uncovered near Luxor","url":"https://www.euronews.com/culture/2026/07/14/3000-year-old-egyptian-tomb-with-vivid-afterlife-paintings-uncovered-near-luxor"}],"chunks":[{"text":"Archaeologists in Egypt have {{dug up}} an [[ancient]] [[tomb]] near the city of Luxor. A Dutch team from Leiden University {{teamed up with}} Egypt's [[antiquities]] authority to [[explore]] the west bank of the Nile. The tomb is about 3,000 years old, and it [[belonged to]] an [[official]] named Paser. Experts believe it {{dates back}} to the Ramesside period, a great age of Egyptian [[pharaohs]].","verbs":[{"display":"dug up","base":"dig up","correct":"To bring something out of the ground by digging","wrong":"To search old records in order to find hidden facts","correctFirst":true,"why":"Archaeologists dig up ancient pottery, and workers sometimes dig up old pipes during construction. In Egypt, a team recently dug up a 3,000-year-old tomb near the city of Luxor."},{"display":"teamed up with","base":"team up with","correct":"To join with someone to work together","wrong":"To reach someone who is ahead of you","correctFirst":false,"why":"A local school might team up with a museum for a field trip, and a small charity can team up with a bigger group for funding. A Dutch team from Leiden University teamed up with Egypt's antiquities authority to explore the site."},{"display":"dates back","base":"date back","correct":"To have existed since a particular time in the past","wrong":"To be old-fashioned and no longer in style","correctFirst":false,"why":"This old church dates back two hundred years, and some family recipes date back several generations. Experts believe the newly found tomb dates back to the Ramesside period of ancient Egypt."}]},{"text":"What makes the tomb special is that its walls still {{show off}} [[colorful]] painted scenes. Time has not {{worn away}} the bright images, which show Paser worshiping the gods inside sacred [[shrines]]. Another painting shows him seated [[beside]] his wife, in front of a table [[piled with]] [[offerings]]. The art really {{leaps out}} because its colors have [[lasted]] for more than 3,000 years.","verbs":[{"display":"show off","base":"show off","correct":"To display something proudly for people to see","wrong":"To behave in a boastful way to get attention","correctFirst":true,"why":"A gallery shows off new paintings, and a jeweler shows off a rare gem in the front window. The walls of Paser's tomb still show off bright, colorful scenes after 3,000 years."},{"display":"worn away","base":"wear away","correct":"To slowly damage or remove something over time","wrong":"To make something look shiny and new again","correctFirst":false,"why":"Rain slowly wears away stone, and years of sun wear away paint on an old house. Time has not worn away the bright colors inside Paser's tomb, which still look fresh today."},{"display":"leaps out","base":"leap out","correct":"To be very noticeable and catch the eye at once","wrong":"To appear suddenly from a hidden place","correctFirst":false,"why":"A bright headline leaps out from a newspaper page, and a bold color leaps out in a quiet room. The painted scenes in Paser's tomb leap out because their colors have lasted more than 3,000 years."}]},{"text":"The team did not {{come across}} the tomb [[by luck]]. They have worked at this [[site]] since 2018, and this season their [[careful]] [[digging]] finally {{paid off}}. As they {{cleared away}} sand and fallen stone, a [[courtyard]], a rock [[chapel]], and underground [[burial chambers]] slowly appeared.","verbs":[{"display":"come across","base":"come across","correct":"To find or meet something by chance","wrong":"To change your opinion and agree","correctFirst":false,"why":"You might come across an old letter while cleaning, or come across a rare coin in the garden. This team did not come across the tomb by luck, since they had worked at the site since 2018."},{"display":"paid off","base":"pay off","correct":"To bring a good result after a lot of effort","wrong":"To finish repaying money that you owe","correctFirst":true,"why":"Years of hard training can pay off with a big win, and patience often pays off in the end. This season, the team's careful digging finally paid off with the discovery of Paser's tomb."},{"display":"cleared away","base":"clear away","correct":"To remove things to leave a clean, empty space","wrong":"To add more sand and stone to a structure","correctFirst":false,"why":"Workers clear away snow after a storm, and volunteers clear away debris after a flood. The team cleared away sand and fallen stone until a courtyard and burial chambers slowly appeared."}]},{"text":"News of the find has [[drawn attention]] [[from around the world]]. Officials hope the painted walls will {{shed light on}} Paser's life and his [[exact]] role in Egyptian society. Researchers still need to {{pore over}} the writing on the walls to learn his full [[titles]]. The discovery is [[a reminder of]] how much history still [[lies buried]] under Luxor's sands.","verbs":[{"display":"shed light on","base":"shed light on","correct":"To give new information that helps explain something","wrong":"To give final proof that something is definitely true","correctFirst":true,"kind":"expression","why":"New evidence can shed light on an old mystery, and a diary can shed light on a person's private life. Officials hope the painted walls will shed light on Paser's exact role in Egyptian society."},{"display":"pore over","base":"pore over","correct":"To read or study something very carefully","wrong":"To photograph a surface in fine detail","correctFirst":false,"why":"Historians pore over old letters, and lawyers pore over documents late into the night. Researchers still need to pore over the writing on the tomb walls to learn Paser's full titles."}]}],"vocab":[{"verb":"Dig up","ipa":"/dɪɡ ʌp/","def":"To bring something out of the ground by digging","ex":["He dug up some old letters while cleaning the garage.","Workers dug up the road to fix a broken pipe.","Farmers dig up potatoes in the fall."]},{"verb":"Team up with","ipa":"/tiːm ʌp wɪð/","def":"To join with someone to work together","ex":["The two companies teamed up with a startup to build a new app.","Our class teamed up with another school for the play.","He teamed up with a local guide to cross the desert."]},{"verb":"Date back","ipa":"/deɪt bæk/","def":"To have existed since a particular time in the past","ex":["This bridge dates back to the early 1900s.","The recipe dates back hundreds of years.","Some of these trees date back to before the war."]},{"verb":"Show off","ipa":"/ʃoʊ ɔːf/","def":"To display something proudly for people to see","ex":["He showed off his new phone at the coffee shop.","The museum shows off its rarest paintings.","She loves to show off her cooking skills."]},{"verb":"Wear away","ipa":"/wɛər əˈweɪ/","def":"To slowly damage or remove something over time","ex":["The soles of his shoes wore away after years of running.","Wind and rain wear away the mountain over centuries.","The paint had worn away after many years."]},{"verb":"Leap out","ipa":"/liːp aʊt/","def":"To be very noticeable and catch the eye at once","ex":["The bright yellow sign leaps out among the gray buildings.","Her name leaped out at me from the long list.","One careless mistake leaps out as soon as you read it."]},{"verb":"Come across","ipa":"/kʌm əˈkrɔːs/","def":"To find or meet something by chance","ex":["I came across an old friend at the grocery store.","She came across a rare book at the market.","We came across a small village in the hills."]},{"verb":"Pay off","ipa":"/peɪ ɔːf/","def":"To bring a good result after a lot of effort","ex":["Her extra training finally paid off in the championship game.","The long hours of study paid off in the exam.","Their patience paid off when the plan worked."]},{"verb":"Clear away","ipa":"/klɪr əˈweɪ/","def":"To remove things to leave a clean, empty space","ex":["He cleared away the snow from the driveway before work.","Workers cleared away the broken glass.","She cleared away the papers on her desk."]},{"verb":"Shed light on","ipa":"/ʃɛd laɪt ɑn/","def":"To give new information that helps explain something","ex":["The report shed light on why sales dropped last quarter.","New tests shed light on how the disease spreads.","Her story sheds light on what really happened."],"kind":"expression"},{"verb":"Pore over","ipa":"/pɔːr ˈoʊvər/","def":"To read or study something very carefully","ex":["She pored over the contract before signing it.","The students pore over their notes before the exam.","He pored over every page of the old letter."]}],"wordDefs":[{"word":"ancient","ipa":"/ˈeɪntʃənt/","def":"Very old, from thousands of years ago","ex":["My grandmother owns an ancient clock that still works.","The museum has ancient coins from many countries.","Scientists study ancient languages to understand old cultures."]},{"word":"explore","ipa":"/ɪkˈsplɔːr/","def":"To travel around a place in order to learn about it","ex":["She wants to explore a career in medicine.","I like to explore new neighborhoods on foot.","Divers explore shipwrecks along the coast."]},{"word":"belonged to","ipa":"/bɪˈlɔːŋd tuː/","def":"Was owned by someone","ex":["This ring belonged to my aunt for forty years.","The bag belonged to a woman on the train.","The old house belonged to a farming family."]},{"word":"colorful","ipa":"/ˈkʌlərfəl/","def":"Having bright, strong colors","ex":["The children painted a colorful mural on the wall.","The market was full of colorful fruit.","His colorful tie stood out at the meeting."]},{"word":"lasted","ipa":"/ˈlæstɪd/","def":"Continued for a period of time","ex":["The rainstorm lasted through the entire night.","My old boots lasted almost five years.","Their friendship has lasted since childhood."]},{"word":"by luck","ipa":"/baɪ lʌk/","def":"By chance, not because you planned it","ex":["He passed the test by luck rather than study.","She won the game more by luck than by skill.","They met by luck at a train station."]},{"word":"careful","ipa":"/ˈkɛərfəl/","def":"Giving a lot of attention so that nothing goes wrong","ex":["Be careful on the icy sidewalk this morning.","She is very careful with her money.","The nurse was careful when changing the bandage."]},{"word":"drawn attention","ipa":"/drɔːn əˈtɛnʃən/","def":"Made people notice something","ex":["The strange noise has drawn attention from the neighbors.","Her speech has drawn attention to the housing problem.","The new cafe has drawn attention from food bloggers."]},{"word":"from around the world","ipa":"/frəm əˈraʊnd ðə wərld/","def":"Coming from many different countries","ex":["Fans from around the world watched the final game.","The festival brings dancers from around the world.","The company hires workers from around the world."]},{"word":"exact","ipa":"/ɪɡˈzækt/","def":"Completely correct and precise","ex":["She gave the exact address for the delivery.","Tell me the exact time you arrived.","Nobody remembers the exact date of the fire."]},{"word":"a reminder of","ipa":"/ə rɪˈmaɪndər əv/","def":"Something that makes you remember something else","ex":["The old letter was a reminder of her youth.","The small scar is a reminder of his accident.","Rain clouds are a reminder of the coming storm."]},{"word":"tomb","ipa":"/tuːm/","def":"A room or grave built to hold the dead","ex":["Visitors are not allowed inside the ancient tomb.","A tomb often holds several rooms.","Archaeologists study old tombs to learn about the past."]},{"word":"antiquities","ipa":"/ənˈtɪkwətiz/","def":"Objects surviving from ancient times","ex":["The museum displays antiquities from three civilizations.","Egypt protects its antiquities closely.","Thieves tried to steal antiquities from the ruins."]},{"word":"pharaohs","ipa":"/ˈfɛroʊz/","def":"The kings of ancient Egypt","ex":["Ancient pharaohs built massive stone monuments.","Historians still study the daily lives of pharaohs.","The pharaohs wore golden crowns during ceremonies."]},{"word":"shrines","ipa":"/ʃraɪnz/","def":"Holy places built for worship","ex":["Visitors left flowers at the small shrine.","Each shrine held one statue.","The village built a shrine beside the river."]},{"word":"offerings","ipa":"/ˈɔːfərɪŋz/","def":"Gifts left for a god or a dead person","ex":["People left offerings of fruit and flowers at the temple.","The temple accepted offerings from local farmers.","He left a coin as an offering at the shrine."]},{"word":"courtyard","ipa":"/ˈkɔːrtjɑrd/","def":"An open space surrounded by walls","ex":["Children played soccer in the school courtyard.","A courtyard led to the inner rooms.","The hotel courtyard had a small fountain."]},{"word":"burial chambers","ipa":"/ˈbɛriəl ˈtʃeɪmbərz/","def":"Underground rooms holding the dead","ex":["The museum recreated an ancient burial chamber.","Two burial chambers lay side by side.","Archaeologists mapped the burial chambers before entering."]},{"word":"titles","ipa":"/ˈtaɪtəlz/","def":"Official names showing a person's rank","ex":["The king held several titles during his reign.","She earned many titles throughout her career.","His official title was hard to translate."]},{"word":"beside","ipa":"/bɪˈsaɪd/","def":"Next to someone or something","ex":["She parked her car beside the garage.","The bag is beside the door.","A small table stood beside the bed."]},{"word":"digging","ipa":"/ˈdɪɡɪŋ/","def":"Moving earth to make a hole or to find something","ex":["The dog's digging ruined the flower bed.","Workers finished the digging before sunset.","Heavy rain stopped the digging for two days."]},{"word":"chapel","ipa":"/ˈtʃæpəl/","def":"A small place used for prayer","ex":["The small chapel was built in the 1800s.","The chapel holds only twenty people.","Tourists visited the old chapel on the hill."]},{"word":"lies buried","ipa":"/laɪz ˈbɛrid/","def":"Stays hidden under the ground","ex":["Treasure lies buried somewhere on the island.","An old shipwreck lies buried in the harbor.","Her secret lies buried deep in her heart."]},{"word":"official","def":"A person who holds a position of authority","ex":["The official signed the new law yesterday afternoon.","A city official visited the flooded neighborhood this morning.","Each official must report to the main office monthly."]},{"word":"piled with","def":"Covered with a large stacked amount","ex":["Her desk was piled with unread letters and bills.","The truck arrived piled with fresh vegetables for the market.","His plate was piled with rice and grilled chicken."]},{"word":"site","def":"A particular place where something is built or done","ex":["Workers cleared the site before starting construction.","The company chose a new site for its factory.","Tourists visited the historic site during their trip."]}],"mainIdea":[{"s":"A Dutch team and Egypt's antiquities authority dug up a 3,000-year-old tomb near Luxor. It belonged to a senior ancient official, and its walls have kept their bright colors.","a":true,"why":"A Dutch team from Leiden University worked with Egypt's antiquities authority to dig up the tomb of a senior ancient official. Its walls still show bright painted scenes after 3,000 years."},{"s":"The team found the tomb by pure luck on their very first visit to this ancient site. They have already read every word painted on the walls to learn the official's exact titles.","a":false,"why":"Close, but the team had worked at the site since 2018, so it was not sudden luck. Researchers still need to pore over the wall writing to learn the official's exact titles."},{"s":"Near Cairo, a separate team recently opened an unrelated chamber sealed for centuries. Inside, they found stone tools and pottery that once belonged to ordinary workers.","a":false,"why":"This is about a different, unrelated chamber found near Cairo that held tools and pottery. It has nothing to do with the painted tomb near Luxor."}],"tf":[{"s":"A Dutch team from Leiden University teamed up with Egypt's antiquities authority to do the work.","a":true,"why":"The story says a Dutch team from Leiden University teamed up with Egypt's antiquities authority on the west bank of the Nile."},{"s":"Time has completely worn away the paintings, so almost no color is left.","a":false,"why":"Time has not worn away the bright images, and the colors have lasted for more than 3,000 years."},{"s":"The team came across the tomb by pure luck in their very first week.","a":false,"why":"The team did not come across the tomb by luck; they had worked at the site since 2018 before their digging paid off."},{"s":"The bright painted walls really leap out because their colors have lasted so long.","a":true,"why":"The story says the art leaps out because its colors have lasted for more than 3,000 years."},{"s":"Researchers already know all of Paser's titles and no longer need to pore over the walls.","a":false,"why":"Researchers still need to pore over the writing on the walls to learn his full titles."},{"s":"Archaeologists dug up the ancient tomb near the city of Luxor.","a":true,"why":"The story says archaeologists dug up an ancient tomb near the city of Luxor."}]}
+{
+ "id": "luxor-tomb-paser-2026",
+ "number": 29,
+ "headline": "Ancient painted tomb uncovered near Egypt's Luxor",
+ "badge": "History",
+ "meta": "",
+ "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n29-luxor-tomb-paser-2026-flat.webp",
+ "position": "center 50%",
+ "sources": [
+  {
+   "title": "Archaeologists uncover 3,000-year-old tomb near Egypt's Luxor",
+   "url": "https://www.cbsnews.com/news/archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor/"
+  },
+  {
+   "title": "3,000-year-old tomb of ancient Egyptian official Paser discovered in Luxor's Theban Necropolis",
+   "url": "https://archaeologymag.com/2026/07/tomb-of-ancient-egyptian-official-paser/"
+  },
+  {
+   "title": "3,000-year-old Egyptian tomb with vivid afterlife paintings uncovered near Luxor",
+   "url": "https://www.euronews.com/culture/2026/07/14/3000-year-old-egyptian-tomb-with-vivid-afterlife-paintings-uncovered-near-luxor"
+  }
+ ],
+ "chunks": [
+  {
+   "text": "Archaeologists in Egypt have {{dug up}} an [[ancient]] [[tomb]] near the city of Luxor. A Dutch team from Leiden University {{teamed up with}} Egypt's [[antiquities]] authority to [[explore]] the west bank of the Nile. The tomb is about 3,000 years old, and it [[belonged to]] an [[official]] named Paser. Experts believe it {{dates back}} to the Ramesside period, a great age of Egyptian [[pharaohs]].",
+   "verbs": [
+    {
+     "display": "dug up",
+     "base": "dig up",
+     "correct": "To bring something out of the ground by digging",
+     "wrong": "To search old records in order to find hidden facts",
+     "correctFirst": true,
+     "why": "Archaeologists dig up ancient pottery, and workers sometimes dig up old pipes during construction. In Egypt, a team recently dug up a 3,000-year-old tomb near the city of Luxor."
+    },
+    {
+     "display": "teamed up with",
+     "base": "team up with",
+     "correct": "To join with someone to work together",
+     "wrong": "To reach someone who is ahead of you",
+     "correctFirst": false,
+     "why": "A local school might team up with a museum for a field trip, and a small charity can team up with a bigger group for funding. A Dutch team from Leiden University teamed up with Egypt's antiquities authority to explore the site."
+    },
+    {
+     "display": "dates back",
+     "base": "date back",
+     "correct": "To have existed since a particular time in the past",
+     "wrong": "To be old-fashioned and no longer in style",
+     "correctFirst": false,
+     "why": "This old church dates back two hundred years, and some family recipes date back several generations. Experts believe the newly found tomb dates back to the Ramesside period of ancient Egypt."
+    }
+   ]
+  },
+  {
+   "text": "What makes the tomb special is that its walls still {{show off}} [[colorful]] painted scenes. Time has not {{worn away}} the bright images, which show Paser worshiping the gods inside sacred [[shrines]]. Another painting shows him seated [[beside]] his wife, in front of a table [[piled with]] [[offerings]]. The art really {{leaps out}} because its colors have [[lasted]] for more than 3,000 years.",
+   "verbs": [
+    {
+     "display": "show off",
+     "base": "show off",
+     "correct": "To display something proudly for people to see",
+     "wrong": "To behave in a boastful way to get attention",
+     "correctFirst": true,
+     "why": "A gallery shows off new paintings, and a jeweler shows off a rare gem in the front window. The walls of Paser's tomb still show off bright, colorful scenes after 3,000 years."
+    },
+    {
+     "display": "worn away",
+     "base": "wear away",
+     "correct": "To slowly damage or remove something over time",
+     "wrong": "To make something look shiny and new again",
+     "correctFirst": false,
+     "why": "Rain slowly wears away stone, and years of sun wear away paint on an old house. Time has not worn away the bright colors inside Paser's tomb, which still look fresh today."
+    },
+    {
+     "display": "leaps out",
+     "base": "leap out",
+     "correct": "To be very noticeable and catch the eye at once",
+     "wrong": "To appear suddenly from a hidden place",
+     "correctFirst": false,
+     "why": "A bright headline leaps out from a newspaper page, and a bold color leaps out in a quiet room. The painted scenes in Paser's tomb leap out because their colors have lasted more than 3,000 years."
+    }
+   ]
+  },
+  {
+   "text": "The team did not {{come across}} the tomb [[by luck]]. They have worked at this [[site]] since 2018, and this season their [[careful]] [[digging]] finally {{paid off}}. As they {{cleared away}} sand and fallen stone, a [[courtyard]], a rock [[chapel]], and underground [[burial chambers]] slowly appeared.",
+   "verbs": [
+    {
+     "display": "come across",
+     "base": "come across",
+     "correct": "To find or meet something by chance",
+     "wrong": "To change your opinion and agree",
+     "correctFirst": false,
+     "why": "You might come across an old letter while cleaning, or come across a rare coin in the garden. This team did not come across the tomb by luck, since they had worked at the site since 2018."
+    },
+    {
+     "display": "paid off",
+     "base": "pay off",
+     "correct": "To bring a good result after a lot of effort",
+     "wrong": "To finish repaying money that you owe",
+     "correctFirst": true,
+     "why": "Years of hard training can pay off with a big win, and patience often pays off in the end. This season, the team's careful digging finally paid off with the discovery of Paser's tomb."
+    },
+    {
+     "display": "cleared away",
+     "base": "clear away",
+     "correct": "To remove things to leave a clean, empty space",
+     "wrong": "To add more sand and stone to a structure",
+     "correctFirst": false,
+     "why": "Workers clear away snow after a storm, and volunteers clear away trash after a big event. The team cleared away sand and fallen stone until a courtyard and burial chambers slowly appeared."
+    }
+   ]
+  },
+  {
+   "text": "News of the find has [[drawn attention]] [[from around the world]]. Officials hope the painted walls will {{shed light on}} Paser's life and his [[exact]] role in Egyptian society. Researchers still need to {{pore over}} the writing on the walls to learn his full [[titles]]. The discovery is [[a reminder of]] how much history still [[lies buried]] under Luxor's sands.",
+   "verbs": [
+    {
+     "display": "shed light on",
+     "base": "shed light on",
+     "correct": "To give new information that helps explain something",
+     "wrong": "To give final proof that something is definitely true",
+     "correctFirst": true,
+     "kind": "expression",
+     "why": "New evidence can shed light on an old mystery, and a diary can shed light on a person's private life. Officials hope the painted walls will shed light on Paser's exact role in Egyptian society."
+    },
+    {
+     "display": "pore over",
+     "base": "pore over",
+     "correct": "To read or study something very carefully",
+     "wrong": "To photograph a surface in fine detail",
+     "correctFirst": false,
+     "why": "Historians pore over old letters, and lawyers pore over documents late into the night. Researchers still need to pore over the writing on the tomb walls to learn Paser's full titles."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "verb": "Dig up",
+   "ipa": "/dɪɡ ʌp/",
+   "def": "To bring something out of the ground by digging",
+   "ex": [
+    "He dug up some old letters while cleaning the garage.",
+    "Workers dug up the road to fix a broken pipe.",
+    "Farmers dig up potatoes in the fall."
+   ]
+  },
+  {
+   "verb": "Team up with",
+   "ipa": "/tiːm ʌp wɪð/",
+   "def": "To join with someone to work together",
+   "ex": [
+    "The two companies teamed up with a startup to build a new app.",
+    "Our class teamed up with another school for the play.",
+    "He teamed up with a local guide to cross the desert."
+   ]
+  },
+  {
+   "verb": "Date back",
+   "ipa": "/deɪt bæk/",
+   "def": "To have existed since a particular time in the past",
+   "ex": [
+    "This bridge dates back to the early 1900s.",
+    "The recipe dates back hundreds of years.",
+    "Some of these trees date back to before the war."
+   ]
+  },
+  {
+   "verb": "Show off",
+   "ipa": "/ʃoʊ ɔːf/",
+   "def": "To display something proudly for people to see",
+   "ex": [
+    "He showed off his new phone at the coffee shop.",
+    "The museum shows off its rarest paintings.",
+    "She loves to show off her cooking skills."
+   ]
+  },
+  {
+   "verb": "Wear away",
+   "ipa": "/wɛər əˈweɪ/",
+   "def": "To slowly damage or remove something over time",
+   "ex": [
+    "The soles of his shoes wore away after years of running.",
+    "Wind and rain wear away the mountain over centuries.",
+    "The paint had worn away after many years."
+   ]
+  },
+  {
+   "verb": "Leap out",
+   "ipa": "/liːp aʊt/",
+   "def": "To be very noticeable and catch the eye at once",
+   "ex": [
+    "The bright yellow sign leaps out among the gray buildings.",
+    "Her name leaped out at me from the long list.",
+    "One careless mistake leaps out as soon as you read it."
+   ]
+  },
+  {
+   "verb": "Come across",
+   "ipa": "/kʌm əˈkrɔːs/",
+   "def": "To find or meet something by chance",
+   "ex": [
+    "I came across an old friend at the grocery store.",
+    "She came across a rare book at the market.",
+    "We came across a small village in the hills."
+   ]
+  },
+  {
+   "verb": "Pay off",
+   "ipa": "/peɪ ɔːf/",
+   "def": "To bring a good result after a lot of effort",
+   "ex": [
+    "Her extra training finally paid off in the championship game.",
+    "The long hours of study paid off in the exam.",
+    "Their patience paid off when the plan worked."
+   ]
+  },
+  {
+   "verb": "Clear away",
+   "ipa": "/klɪr əˈweɪ/",
+   "def": "To remove things to leave a clean, empty space",
+   "ex": [
+    "He cleared away the snow from the driveway before work.",
+    "Workers cleared away the broken glass.",
+    "She cleared away the papers on her desk."
+   ]
+  },
+  {
+   "verb": "Shed light on",
+   "ipa": "/ʃɛd laɪt ɑn/",
+   "def": "To give new information that helps explain something",
+   "ex": [
+    "The report shed light on why sales dropped last quarter.",
+    "New tests shed light on how the disease spreads.",
+    "Her story sheds light on what really happened."
+   ],
+   "kind": "expression"
+  },
+  {
+   "verb": "Pore over",
+   "ipa": "/pɔːr ˈoʊvər/",
+   "def": "To read or study something very carefully",
+   "ex": [
+    "She pored over the contract before signing it.",
+    "The students pore over their notes before the exam.",
+    "He pored over every page of the old letter."
+   ]
+  }
+ ],
+ "wordDefs": [
+  {
+   "word": "ancient",
+   "ipa": "/ˈeɪntʃənt/",
+   "def": "Very old, from thousands of years ago",
+   "ex": [
+    "My grandmother owns an ancient clock that still works.",
+    "The museum has ancient coins from many countries.",
+    "Scientists study ancient languages to understand old cultures."
+   ]
+  },
+  {
+   "word": "explore",
+   "ipa": "/ɪkˈsplɔːr/",
+   "def": "To travel around a place in order to learn about it",
+   "ex": [
+    "She wants to explore a career in medicine.",
+    "I like to explore new neighborhoods on foot.",
+    "Divers explore shipwrecks along the coast."
+   ]
+  },
+  {
+   "word": "belonged to",
+   "ipa": "/bɪˈlɔːŋd tuː/",
+   "def": "Was owned by someone",
+   "ex": [
+    "This ring belonged to my aunt for forty years.",
+    "The bag belonged to a woman on the train.",
+    "The old house belonged to a farming family."
+   ]
+  },
+  {
+   "word": "colorful",
+   "ipa": "/ˈkʌlərfəl/",
+   "def": "Having bright, strong colors",
+   "ex": [
+    "The children painted a colorful mural on the wall.",
+    "The market was full of colorful fruit.",
+    "His colorful tie stood out at the meeting."
+   ]
+  },
+  {
+   "word": "lasted",
+   "ipa": "/ˈlæstɪd/",
+   "def": "Continued for a period of time",
+   "ex": [
+    "The rainstorm lasted through the entire night.",
+    "My old boots lasted almost five years.",
+    "Their friendship has lasted since childhood."
+   ]
+  },
+  {
+   "word": "by luck",
+   "ipa": "/baɪ lʌk/",
+   "def": "By chance, not because you planned it",
+   "ex": [
+    "He passed the test by luck rather than study.",
+    "She won the game more by luck than by skill.",
+    "They met by luck at a train station."
+   ]
+  },
+  {
+   "word": "careful",
+   "ipa": "/ˈkɛərfəl/",
+   "def": "Giving a lot of attention so that nothing goes wrong",
+   "ex": [
+    "Be careful on the icy sidewalk this morning.",
+    "She is very careful with her money.",
+    "The nurse was careful when changing the bandage."
+   ]
+  },
+  {
+   "word": "drawn attention",
+   "ipa": "/drɔːn əˈtɛnʃən/",
+   "def": "Made people notice something",
+   "ex": [
+    "The strange noise has drawn attention from the neighbors.",
+    "Her speech has drawn attention to the housing problem.",
+    "The new cafe has drawn attention from food bloggers."
+   ]
+  },
+  {
+   "word": "from around the world",
+   "ipa": "/frəm əˈraʊnd ðə wərld/",
+   "def": "Coming from many different countries",
+   "ex": [
+    "Fans from around the world watched the final game.",
+    "The festival brings dancers from around the world.",
+    "The company hires workers from around the world."
+   ]
+  },
+  {
+   "word": "exact",
+   "ipa": "/ɪɡˈzækt/",
+   "def": "Completely correct and precise",
+   "ex": [
+    "She gave the exact address for the delivery.",
+    "Tell me the exact time you arrived.",
+    "Nobody remembers the exact date of the fire."
+   ]
+  },
+  {
+   "word": "a reminder of",
+   "ipa": "/ə rɪˈmaɪndər əv/",
+   "def": "Something that makes you remember something else",
+   "ex": [
+    "The old letter was a reminder of her youth.",
+    "The small scar is a reminder of his accident.",
+    "Rain clouds are a reminder of the coming storm."
+   ]
+  },
+  {
+   "word": "tomb",
+   "ipa": "/tuːm/",
+   "def": "A room or grave built to hold the dead",
+   "ex": [
+    "Visitors are not allowed inside the ancient tomb.",
+    "A tomb often holds several rooms.",
+    "Archaeologists study old tombs to learn about the past."
+   ]
+  },
+  {
+   "word": "antiquities",
+   "ipa": "/ənˈtɪkwətiz/",
+   "def": "Objects surviving from ancient times",
+   "ex": [
+    "The museum displays antiquities from three civilizations.",
+    "Egypt protects its antiquities closely.",
+    "Thieves tried to steal antiquities from the ruins."
+   ]
+  },
+  {
+   "word": "pharaohs",
+   "ipa": "/ˈfɛroʊz/",
+   "def": "The kings of ancient Egypt",
+   "ex": [
+    "Ancient pharaohs built massive stone monuments.",
+    "Historians still study the daily lives of pharaohs.",
+    "The pharaohs wore golden crowns during ceremonies."
+   ]
+  },
+  {
+   "word": "shrines",
+   "ipa": "/ʃraɪnz/",
+   "def": "Holy places built for worship",
+   "ex": [
+    "Visitors left flowers at the small shrine.",
+    "Each shrine held one statue.",
+    "The village built a shrine beside the river."
+   ]
+  },
+  {
+   "word": "offerings",
+   "ipa": "/ˈɔːfərɪŋz/",
+   "def": "Gifts left for a god or a dead person",
+   "ex": [
+    "People left offerings of fruit and flowers at the temple.",
+    "The temple accepted offerings from local farmers.",
+    "He left a coin as an offering at the shrine."
+   ]
+  },
+  {
+   "word": "courtyard",
+   "ipa": "/ˈkɔːrtjɑrd/",
+   "def": "An open space surrounded by walls",
+   "ex": [
+    "Children played soccer in the school courtyard.",
+    "A courtyard led to the inner rooms.",
+    "The hotel courtyard had a small fountain."
+   ]
+  },
+  {
+   "word": "burial chambers",
+   "ipa": "/ˈbɛriəl ˈtʃeɪmbərz/",
+   "def": "Underground rooms holding the dead",
+   "ex": [
+    "The museum recreated an ancient burial chamber.",
+    "Two burial chambers lay side by side.",
+    "Archaeologists mapped the burial chambers before entering."
+   ]
+  },
+  {
+   "word": "titles",
+   "ipa": "/ˈtaɪtəlz/",
+   "def": "Official names showing a person's rank",
+   "ex": [
+    "The king held several titles during his reign.",
+    "She earned many titles throughout her career.",
+    "His official title was hard to translate."
+   ]
+  },
+  {
+   "word": "beside",
+   "ipa": "/bɪˈsaɪd/",
+   "def": "Next to someone or something",
+   "ex": [
+    "She parked her car beside the garage.",
+    "The bag is beside the door.",
+    "A small table stood beside the bed."
+   ]
+  },
+  {
+   "word": "digging",
+   "ipa": "/ˈdɪɡɪŋ/",
+   "def": "Moving earth to make a hole or to find something",
+   "ex": [
+    "The dog's digging ruined the flower bed.",
+    "Workers finished the digging before sunset.",
+    "Heavy rain stopped the digging for two days."
+   ]
+  },
+  {
+   "word": "chapel",
+   "ipa": "/ˈtʃæpəl/",
+   "def": "A small place used for prayer",
+   "ex": [
+    "The small chapel was built in the 1800s.",
+    "The chapel holds only twenty people.",
+    "Tourists visited the old chapel on the hill."
+   ]
+  },
+  {
+   "word": "lies buried",
+   "ipa": "/laɪz ˈbɛrid/",
+   "def": "Stays hidden under the ground",
+   "ex": [
+    "Treasure lies buried somewhere on the island.",
+    "An old shipwreck lies buried in the harbor.",
+    "Her secret lies buried deep in her heart."
+   ]
+  },
+  {
+   "word": "official",
+   "def": "A person who holds a position of authority",
+   "ex": [
+    "The official signed the new law yesterday afternoon.",
+    "A city official visited the flooded neighborhood this morning.",
+    "Each official must report to the main office monthly."
+   ]
+  },
+  {
+   "word": "piled with",
+   "def": "Covered with a large stacked amount",
+   "ex": [
+    "Her desk was piled with unread letters and bills.",
+    "The truck arrived piled with fresh vegetables for the market.",
+    "His plate was piled with rice and grilled chicken."
+   ]
+  },
+  {
+   "word": "site",
+   "def": "A particular place where something is built or done",
+   "ex": [
+    "Workers cleared the site before starting construction.",
+    "The company chose a new site for its factory.",
+    "Tourists visited the historic site during their trip."
+   ]
+  }
+ ],
+ "mainIdea": [
+  {
+   "s": "A Dutch team and Egypt's antiquities authority dug up a 3,000-year-old tomb near Luxor. It belonged to a senior ancient official, and its walls have kept their bright colors.",
+   "a": true,
+   "why": "A Dutch team from Leiden University worked with Egypt's antiquities authority to dig up the tomb of a senior ancient official. Its walls still show bright painted scenes after 3,000 years."
+  },
+  {
+   "s": "The team found the tomb by pure luck on their very first visit to this ancient site. They have already read every word painted on the walls to learn the official's exact titles.",
+   "a": false,
+   "why": "Close, but the team had worked at the site since 2018, so it was not sudden luck. Researchers still need to pore over the wall writing to learn the official's exact titles."
+  },
+  {
+   "s": "Near Cairo, a separate team recently opened an unrelated chamber sealed for centuries. Inside, they found stone tools and pottery that once belonged to ordinary workers.",
+   "a": false,
+   "why": "This is about a different, unrelated chamber found near Cairo that held tools and pottery. It has nothing to do with the painted tomb near Luxor."
+  }
+ ],
+ "tf": [
+  {
+   "s": "A Dutch team from Leiden University teamed up with Egypt's antiquities authority to do the work.",
+   "a": true,
+   "why": "The story says a Dutch team from Leiden University teamed up with Egypt's antiquities authority on the west bank of the Nile."
+  },
+  {
+   "s": "Time has completely worn away the paintings, so almost no color is left.",
+   "a": false,
+   "why": "Time has not worn away the bright images, and the colors have lasted for more than 3,000 years."
+  },
+  {
+   "s": "The team came across the tomb by pure luck in their very first week.",
+   "a": false,
+   "why": "The team did not come across the tomb by luck; they had worked at the site since 2018 before their digging paid off."
+  },
+  {
+   "s": "The bright painted walls really leap out because their colors have lasted so long.",
+   "a": true,
+   "why": "The story says the art leaps out because its colors have lasted for more than 3,000 years."
+  },
+  {
+   "s": "Researchers already know all of Paser's titles and no longer need to pore over the walls.",
+   "a": false,
+   "why": "Researchers still need to pore over the writing on the walls to learn his full titles."
+  },
+  {
+   "s": "Archaeologists dug up the ancient tomb near the city of Luxor.",
+   "a": true,
+   "why": "The story says archaeologists dug up an ancient tomb near the city of Luxor."
+  }
+ ]
+}
