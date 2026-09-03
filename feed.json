@@ -1,6 +1,2624 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-03",
   "stories": [
+    {
+      "id": "amazon-canopy-bridges-2026",
+      "number": 95,
+      "headline": "Rope bridges let monkeys cross Amazon roads safely",
+      "badge": "Nature",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n95-amazon-canopy-bridges-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Good Good Good: Rope canopy bridges lead to 15,000 safe wildlife crossings",
+          "url": "https://www.goodgoodgood.co/articles/amazon-canopy-bridges-wildlife-crossings"
+        },
+        {
+          "title": "DailyGood: Amazon Canopy Bridges Lead to 15K+ Safe Road Crossings",
+          "url": "https://www.dailygood.org/2026/08/25/amazon-canopy-bridges-lead-to-15k-safe-road-crossings/"
+        },
+        {
+          "title": "Smithsonian's National Zoo and Conservation Biology Institute: How Brazil's Unique Canopy Bridges Are Saving Species",
+          "url": "https://nationalzoo.si.edu/center-conservation-sustainability/news/how-brazils-unique-canopy-bridges-are-saving-species"
+        },
+        {
+          "title": "Brazilian monkeys cross highways using canopy bridges (video, CNN 10)",
+          "url": "https://www.youtube.com/shorts/hGRmx889OBc"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Monkeys in the Brazilian Amazon now {{cross over}} roads safely on rope bridges. The bridges are the work of a [[biologist]], the [[founder]] of a wildlife bridge project. In 2024, her team {{set up}} eight [[canopy]] bridges in the town of Alta Floresta. The project is [[in the news]] because it has reported more than 15,000 safe [[crossings]] in 15 months. Since the bridges went in, no animal has been killed on that [[stretch of road]].",
+          "verbs": [
+            {
+              "display": "cross over",
+              "base": "cross over",
+              "correct": "To go from one side to the other",
+              "wrong": "To climb to the top of a tall tree",
+              "correctFirst": true,
+              "why": "Hikers cross over a stream on a small wooden bridge, and children wait for the light before they cross over a busy street. Monkeys in the Brazilian Amazon now cross over roads safely on rope bridges strung between the trees."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To install something in a place",
+              "wrong": "To start a journey to a new place",
+              "correctFirst": false,
+              "why": "Volunteers set up new bird boxes in a park, and a city sets up cameras at its busiest crossing. In 2024, the biologist's team set up eight canopy bridges over a road in Alta Floresta."
+            }
+          ]
+        },
+        {
+          "text": "Roads {{cut through}} the forest, and animals of the [[treetops]] rarely {{come down}}. If the trees are too [[far apart]], a monkey crosses [[on foot]], and many get {{run over}}. The project estimates [[roughly]] 9 million [[mammals]] die on Brazilian roads each year. A canopy bridge lets monkeys {{keep away from}} traffic. Each has several [[layers]] of rope, since different [[species]] move differently: some [[leap]], some climb [[hand over hand]]. Two [[camera traps]] on each bridge {{pick up}} every crossing.",
+          "verbs": [
+            {
+              "display": "cut through",
+              "base": "cut through",
+              "correct": "To split a forest into two parts",
+              "wrong": "To remove trees from an area",
+              "correctFirst": true,
+              "why": "A new railway line can cut through a valley, and an old highway can cut through a wetland for miles. Roads cut through large areas of Amazon forest, leaving treetop animals with no safe way across."
+            },
+            {
+              "display": "come down",
+              "base": "come down",
+              "correct": "To move from a high place to the ground",
+              "wrong": "To find something without looking for it",
+              "correctFirst": false,
+              "why": "A cat finally comes down from the roof at dinner time, and squirrels come down to the ground to look for nuts. Many animals that live in the treetops rarely come down, so a road is a serious problem for them."
+            },
+            {
+              "display": "run over",
+              "base": "run over",
+              "correct": "To hit an animal with a car or truck",
+              "wrong": "To use all of something until none is left",
+              "correctFirst": true,
+              "why": "Drivers slow down so they do not run over the ducks, and a deer can get run over on a dark country road. Monkeys that try to cross on foot are the ones that get run over, and an estimated 9 million mammals die on Brazilian roads every year."
+            },
+            {
+              "display": "keep away from",
+              "base": "keep away from",
+              "correct": "To avoid going near something",
+              "wrong": "To move at the same speed as something",
+              "correctFirst": false,
+              "why": "Signs tell visitors to keep away from the edge of a cliff, and parents tell children to keep away from a hot stove. A canopy bridge gives the monkeys a way to keep away from the traffic below."
+            },
+            {
+              "display": "pick up",
+              "base": "pick up",
+              "correct": "To notice and record something",
+              "wrong": "To choose one thing from a group",
+              "correctFirst": true,
+              "why": "A sensor can pick up movement near a gate at 3 a.m., and night cameras pick up animals that people never see. Two camera traps on each bridge pick up every animal that crosses."
+            }
+          ]
+        },
+        {
+          "text": "The cameras in Alta Floresta have recorded spider monkeys, howler monkeys, and tamarins. It also {{turned out}} that monkeys were not the only users. When the team {{looked through}} the [[footage]], they found opossums, sloths, and mouse opossums crossing as well. The project says its goal is simple: a canopy bridge reconnects forest that a road has separated, and it reduces [[roadkill]].",
+          "verbs": [
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be discovered to be true later",
+              "wrong": "To refuse an offer or request",
+              "correctFirst": false,
+              "why": "A strange noise in the attic can turn out to be a bird, and odd tracks in the snow can turn out to belong to a fox. It turned out that monkeys were not the only animals using the bridges."
+            },
+            {
+              "display": "looked through",
+              "base": "look through",
+              "correct": "To examine many things one by one",
+              "wrong": "To take care of an animal",
+              "correctFirst": true,
+              "why": "A student looks through old maps in a library, and a photographer looks through hundreds of pictures to find the right one. When the team looked through the footage, they found opossums, sloths, and mouse opossums crossing as well."
+            }
+          ]
+        },
+        {
+          "text": "Since 2021, the team has installed 32 bridges on another Amazon [[highway]]. Cameras there have recorded [[primate]] crossings for five years, and the total {{adds up to}} about 1,250. The team has also {{taken on}} roads in other parts of Brazil. Eight more are planned for Alta Floresta's [[urban area]], and the project hopes to {{branch out}} to other South American countries. The researchers say the pattern is simple: give animals a safe way across, and they use it.",
+          "verbs": [
+            {
+              "display": "adds up to",
+              "base": "add up to",
+              "correct": "To reach a total of a certain amount",
+              "wrong": "To make something bigger than before",
+              "correctFirst": false,
+              "why": "Small donations can add up to more than a thousand dollars, and many short trips add up to a lot of driving. On another major Amazon highway, five years of recorded primate crossings add up to about 1,250."
+            },
+            {
+              "display": "taken on",
+              "base": "take on",
+              "correct": "To agree to do a new piece of work",
+              "wrong": "To become successful very quickly",
+              "correctFirst": true,
+              "why": "A cleanup group can take on two more beaches, and a busy builder cannot take on another house this year. The team has also taken on roads in other parts of Brazil."
+            },
+            {
+              "display": "branch out",
+              "base": "branch out",
+              "correct": "To extend work to new areas",
+              "wrong": "To separate from a main road",
+              "correctFirst": false,
+              "why": "A charity can start in one town and branch out across the whole region, and a company can branch out into three new countries. The project hopes to branch out to other countries in South America as well."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Cross over",
+          "def": "To go from one side to the other",
+          "ipa": "/krɔːs ˈoʊvər/",
+          "ex": [
+            "The children waited for the light before they crossed over.",
+            "A small wooden bridge lets hikers cross over the stream.",
+            "We crossed over to the sunny side of the street."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To install something in a place",
+          "ipa": "/sɛt ˈʌp/",
+          "ex": [
+            "Volunteers set up new bird boxes in the park last spring.",
+            "The city set up cameras at the busiest crossing.",
+            "My uncle set up a tent in the backyard for the kids."
+          ]
+        },
+        {
+          "verb": "Cut through",
+          "def": "To split a forest into two parts",
+          "ipa": "/kʌt θruː/",
+          "ex": [
+            "A new railway line cuts through the valley.",
+            "The old highway cut through the wetland for miles.",
+            "A dirt road cuts through the pine forest behind our house."
+          ]
+        },
+        {
+          "verb": "Come down",
+          "def": "To move from a high place to the ground",
+          "ipa": "/kʌm ˈdaʊn/",
+          "ex": [
+            "The cat finally came down from the roof at dinner time.",
+            "Squirrels come down to the ground to look for nuts.",
+            "The kite came down slowly and landed in the grass."
+          ]
+        },
+        {
+          "verb": "Run over",
+          "def": "To hit an animal with a car or truck",
+          "ipa": "/rʌn ˈoʊvər/",
+          "ex": [
+            "Drivers slow down here so they do not run over the ducks.",
+            "A deer was run over on the country road last night.",
+            "He almost ran over a hedgehog in the driveway."
+          ]
+        },
+        {
+          "verb": "Keep away from",
+          "def": "To avoid going near something",
+          "ipa": "/kiːp əˈweɪ frʌm/",
+          "ex": [
+            "Please keep away from the edge of the cliff.",
+            "The signs tell visitors to keep away from the nesting birds.",
+            "Keep away from the stove while it is hot."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To notice and record something",
+          "ipa": "/pɪk ˈʌp/",
+          "ex": [
+            "The sensor picked up movement near the gate at 3 a.m.",
+            "Night cameras pick up animals that people never see.",
+            "The smoke alarm picks up even a little burnt toast."
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To be discovered to be true later",
+          "ipa": "/tɜːrn ˈaʊt/",
+          "ex": [
+            "It turned out that the noise was just a bird in the attic.",
+            "The strange tracks turned out to belong to a fox.",
+            "The empty house turned out to have a family of raccoons inside."
+          ]
+        },
+        {
+          "verb": "Look through",
+          "def": "To examine many things one by one",
+          "ipa": "/lʊk θruː/",
+          "ex": [
+            "She looked through hundreds of photos to find the right one.",
+            "The students looked through the old maps in the library.",
+            "He looked through every drawer for his passport."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "def": "To reach a total of a certain amount",
+          "ipa": "/æd ˈʌp tuː/",
+          "ex": [
+            "The small donations added up to more than a thousand dollars.",
+            "All those short trips add up to a lot of driving.",
+            "Ten minutes of practice a day adds up to a lot in a year."
+          ]
+        },
+        {
+          "verb": "Take on",
+          "def": "To agree to do a new piece of work",
+          "ipa": "/teɪk ˈɑːn/",
+          "ex": [
+            "The group has taken on the cleanup of two more beaches.",
+            "We cannot take on another project this year.",
+            "She took on extra shifts to save for a new bike."
+          ]
+        },
+        {
+          "verb": "Branch out",
+          "def": "To extend work to new areas",
+          "ipa": "/bræntʃ ˈaʊt/",
+          "ex": [
+            "The charity started in one town and later branched out across the region.",
+            "The company plans to branch out into three new countries.",
+            "After years of baking bread, he branched out into cakes."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "biologist",
+          "def": "A scientist who studies living things",
+          "ipa": "/baɪˈɑːlədʒɪst/",
+          "ex": [
+            "The biologist counted the frogs in the pond every spring.",
+            "My cousin is a marine biologist who works with sea turtles.",
+            "A biologist explained why the birds arrive earlier each year."
+          ]
+        },
+        {
+          "word": "founder",
+          "def": "The person who started an organization or project",
+          "ipa": "/ˈfaʊndər/",
+          "ex": [
+            "The founder of the school still visits every year.",
+            "She is the founder of a small animal rescue group.",
+            "The company's founder gave a short speech at the opening."
+          ]
+        },
+        {
+          "word": "canopy",
+          "def": "The top layer of branches and leaves in a forest",
+          "ipa": "/ˈkænəpi/",
+          "ex": [
+            "Very little sunlight reaches the ground under the thick canopy.",
+            "Birds spend most of their lives high in the canopy.",
+            "Researchers climbed into the canopy to collect insects."
+          ]
+        },
+        {
+          "word": "in the news",
+          "def": "Being reported by newspapers and TV right now",
+          "ipa": "/ɪn ðə nuːz/",
+          "ex": [
+            "The old lighthouse is in the news because it may be sold.",
+            "Our town was in the news after the big storm.",
+            "Electric cars are in the news almost every week."
+          ]
+        },
+        {
+          "word": "crossings",
+          "def": "Trips from one side of something to the other",
+          "ipa": "/ˈkrɔːsɪŋz/",
+          "ex": [
+            "The ferry makes six crossings a day in summer.",
+            "The counter recorded 400 bicycle crossings on the new bridge.",
+            "Winter storms made the sea crossings dangerous."
+          ]
+        },
+        {
+          "word": "stretch of road",
+          "def": "A section of a road between two points",
+          "ipa": "/strɛtʃ əv roʊd/",
+          "ex": [
+            "This stretch of road is closed for repairs until Friday.",
+            "Deer often appear on the stretch of road near the lake.",
+            "The most dangerous stretch of road has no streetlights."
+          ]
+        },
+        {
+          "word": "treetops",
+          "def": "The highest branches of trees",
+          "ipa": "/ˈtriːtɑːps/",
+          "ex": [
+            "We could hear parrots calling from the treetops.",
+            "The wind moved the treetops but the ground was calm.",
+            "A walkway takes visitors up into the treetops."
+          ]
+        },
+        {
+          "word": "far apart",
+          "def": "Separated by a large distance",
+          "ipa": "/fɑːr əˈpɑːrt/",
+          "ex": [
+            "The two villages are too far apart to walk between them.",
+            "The stepping stones were so far apart that the children could not jump across.",
+            "Plant the seeds far apart so the roots have room."
+          ]
+        },
+        {
+          "word": "on foot",
+          "def": "By walking, not in a vehicle",
+          "ipa": "/ɑːn fʊt/",
+          "ex": [
+            "The museum is only ten minutes away on foot.",
+            "The hikers crossed the valley on foot.",
+            "Many people go to the market on foot on Saturdays."
+          ]
+        },
+        {
+          "word": "mammals",
+          "def": "Animals that feed their babies with milk",
+          "ipa": "/ˈmæməlz/",
+          "ex": [
+            "Whales are mammals, not fish.",
+            "Most mammals have hair or fur on their bodies.",
+            "Bats are the only mammals that can truly fly."
+          ]
+        },
+        {
+          "word": "roughly",
+          "def": "About, not exactly",
+          "ipa": "/ˈrʌfli/",
+          "ex": [
+            "The trip takes roughly two hours by train.",
+            "Roughly half of the students walk to school.",
+            "The lake is roughly the size of a football field."
+          ]
+        },
+        {
+          "word": "layers",
+          "def": "Levels of material placed one on top of another",
+          "ipa": "/ˈleɪərz/",
+          "ex": [
+            "The cake has three layers of chocolate.",
+            "Wear several layers of clothing in the mountains.",
+            "The wall was built from layers of stone and mud."
+          ]
+        },
+        {
+          "word": "species",
+          "def": "A group of animals or plants of the same kind",
+          "ipa": "/ˈspiːʃiːz/",
+          "ex": [
+            "Scientists found a new species of frog in the mountains.",
+            "Several bird species nest on the island each summer.",
+            "This species of tree can live for a thousand years."
+          ]
+        },
+        {
+          "word": "leap",
+          "def": "To jump a long way",
+          "ipa": "/liːp/",
+          "ex": [
+            "The frog leaped from one rock to the next.",
+            "Kangaroos can leap several meters in one jump.",
+            "The goat leaped across the gap without slowing down."
+          ]
+        },
+        {
+          "word": "hand over hand",
+          "def": "Moving by gripping with one hand, then the other",
+          "ipa": "/hænd ˈoʊvər hænd/",
+          "ex": [
+            "The sailor pulled the rope in hand over hand.",
+            "The children climbed the rope ladder hand over hand.",
+            "He crossed the monkey bars hand over hand in a few seconds."
+          ]
+        },
+        {
+          "word": "camera traps",
+          "def": "Cameras that take pictures when an animal moves nearby",
+          "ipa": "/ˈkæmərə træps/",
+          "ex": [
+            "Camera traps in the park recorded a family of wolves.",
+            "The scientists placed camera traps along the river.",
+            "A camera trap caught the first photo of a wild tiger in the area."
+          ]
+        },
+        {
+          "word": "footage",
+          "def": "Video recorded by a camera",
+          "ipa": "/ˈfʊtɪdʒ/",
+          "ex": [
+            "The news showed footage of the flooded streets.",
+            "Security footage helped the police find the thief.",
+            "Hours of footage were needed to make the short film."
+          ]
+        },
+        {
+          "word": "roadkill",
+          "def": "Animals killed by vehicles on roads",
+          "ipa": "/ˈroʊdkɪl/",
+          "ex": [
+            "Roadkill is common on the highway near the forest.",
+            "Lower speed limits at night can reduce roadkill.",
+            "Volunteers count roadkill to learn which animals are most at risk."
+          ]
+        },
+        {
+          "word": "highway",
+          "def": "A main road between towns or cities",
+          "ipa": "/ˈhaɪweɪ/",
+          "ex": [
+            "We drove along the highway for three hours.",
+            "The new highway will connect the two cities.",
+            "Trucks are not allowed on this highway at night."
+          ]
+        },
+        {
+          "word": "primate",
+          "def": "An animal in the group that includes monkeys and apes",
+          "ipa": "/ˈpraɪmeɪt/",
+          "ex": [
+            "Gorillas are the largest living primates.",
+            "The zoo opened a new house for its primates.",
+            "Some primate species live in groups of more than fifty."
+          ]
+        },
+        {
+          "word": "urban area",
+          "def": "A town or city and the built-up land around it",
+          "ipa": "/ˈɜːrbən ˈɛriə/",
+          "ex": [
+            "Foxes are now common in many urban areas.",
+            "Air quality is often worse in urban areas.",
+            "The bus service only covers the urban area."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Rope bridges over an Amazon road have given monkeys and other animals more than 15,000 safe crossings. Researchers report no road deaths there and are building more bridges on other highways.",
+          "a": true,
+          "why": "Cameras counted more than 15,000 safe crossings, no animal has been killed on that stretch of road, and more bridges are planned for other highways and other countries."
+        },
+        {
+          "s": "Brazil has cut roadkill across the whole country by hanging rope bridges above its highways. Researchers say the yearly total of 9 million road deaths has dropped sharply since 2024.",
+          "a": false,
+          "why": "Close, but the zero-roadkill result is for one stretch of road in Alta Floresta. Nobody says the national figure of 9 million has fallen."
+        },
+        {
+          "s": "Scientists in the Brazilian Amazon have found a new species of titi monkey near a busy highway. They say the small animal lives only in a few small forest patches and is already at risk.",
+          "a": false,
+          "why": "Spider monkeys, howler monkeys, and tamarins were all recorded on the bridges, but none of them is a new discovery. The news is about safe road crossings, not a new species."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Cameras counted about 1,250 crossings in Alta Floresta.",
+          "a": false,
+          "why": "Cameras picked up more than 15,000 crossings there in 15 months. The 1,250 figure comes from another highway, counted over five years."
+        },
+        {
+          "s": "It turned out that opossums and sloths also use the bridges.",
+          "a": true,
+          "why": "Monkeys were not the only users. The footage showed opossums, sloths, and mouse opossums crossing as well."
+        },
+        {
+          "s": "The project estimates that about 90,000 mammals die on Brazilian roads each year.",
+          "a": false,
+          "why": "The project estimates roughly 9 million mammals die on Brazilian roads each year."
+        },
+        {
+          "s": "The team set up eight canopy bridges in Alta Floresta in 2024.",
+          "a": true,
+          "why": "Eight bridges were installed there in 2024, and cameras have since recorded more than 15,000 safe crossings."
+        },
+        {
+          "s": "The project has no plans to branch out beyond Brazil.",
+          "a": false,
+          "why": "The team has already taken on roads in other parts of Brazil, and the project hopes to branch out to other countries in South America as well."
+        },
+        {
+          "s": "No animal has been killed on the Alta Floresta road since the bridges went in.",
+          "a": true,
+          "why": "The researchers report that no animal has been run over on that stretch of road since the bridges were installed."
+        }
+      ],
+      "dialogue": {
+        "lines": [
+          {
+            "s": "A",
+            "text": "Did you see the story about the monkeys in Brazil? They {{cross over}} roads on rope bridges now."
+          },
+          {
+            "s": "B",
+            "text": "Rope bridges for monkeys? Who builds something like that?"
+          },
+          {
+            "s": "A",
+            "text": "A biologist and her team. They {{set up}} eight of them over a road in the Amazon back in 2024. Since then the cameras have {{picked up}} more than 15,000 crossings, and no animal has been killed on that stretch of road."
+          },
+          {
+            "s": "B",
+            "text": "[[Not a single one]]? That's impressive. But why do monkeys need a bridge in the first place?"
+          },
+          {
+            "s": "A",
+            "text": "Roads {{cut through}} the forest, and those animals almost never {{come down}} to the ground. If the trees are too far apart, they try to cross on foot, and that's when they get {{run over}}. An estimated 9 million mammals a year on Brazilian roads."
+          },
+          {
+            "s": "B",
+            "text": "Nine million. [[I can't wrap my head around]] a number like that. So the bridge lets them {{keep away from}} the traffic completely."
+          },
+          {
+            "s": "A",
+            "text": "Exactly. And it {{turned out}} monkeys aren't the only ones using them. When the team {{looked through}} the footage, they found sloths and opossums too."
+          },
+          {
+            "s": "B",
+            "text": "[[The more the merrier]]. Are they stopping at eight bridges?"
+          },
+          {
+            "s": "A",
+            "text": "[[Not even close]]. They've {{taken on}} highways in other parts of Brazil, and they want to {{branch out}} to other countries in South America next."
+          },
+          {
+            "s": "B",
+            "text": "[[Hats off to them]]. It all {{adds up to}} one simple idea: give animals a safe way across, and they'll use it."
+          }
+        ],
+        "verbMap": {
+          "cross over": "cross over",
+          "set up": "set up",
+          "picked up": "pick up",
+          "cut through": "cut through",
+          "come down": "come down",
+          "run over": "run over",
+          "keep away from": "keep away from",
+          "turned out": "turn out",
+          "looked through": "look through",
+          "taken on": "take on",
+          "branch out": "branch out",
+          "adds up to": "add up to"
+        },
+        "expressions": [
+          {
+            "expr": "Not a single one",
+            "def": "Used to stress that the number is zero, none at all",
+            "ex": [
+              "Did anyone complain about the change? Not a single one.",
+              "Not a single one of the shops was open on Sunday."
+            ]
+          },
+          {
+            "expr": "I can't wrap my head around",
+            "def": "Used to say that something is too big or strange to understand fully",
+            "ex": [
+              "I can't wrap my head around how fast the city has changed.",
+              "A billion users? I can't wrap my head around that."
+            ]
+          },
+          {
+            "expr": "The more the merrier",
+            "def": "Used to say that it is good if more people or things join in",
+            "ex": [
+              "Bring your cousins to the barbecue. The more the merrier.",
+              "Another volunteer for Saturday? The more the merrier."
+            ]
+          },
+          {
+            "expr": "Not even close",
+            "def": "Used to say that something is very far from being true or finished",
+            "ex": [
+              "Is the report done? Not even close.",
+              "Ten kilometers? Not even close, it was more like twenty."
+            ]
+          },
+          {
+            "expr": "Hats off to them",
+            "def": "Used to show admiration for what someone has achieved",
+            "ex": [
+              "They cleaned the whole beach in one morning. Hats off to them.",
+              "Hats off to the nurses who worked through the night."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "nepal-hydropower-tunnels-2026",
+      "number": 94,
+      "headline": "Hundreds feared trapped in Nepal flood tunnels",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n94-nepal-hydropower-tunnels-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing?",
+          "url": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing"
+        },
+        {
+          "title": "Search for hundreds in hydropower tunnels in Nepal",
+          "url": "https://www.abc.net.au/news/2026-09-01/search-for-hundreds-in-hydropower-tunnels-in-nepal/107100624"
+        },
+        {
+          "title": "Hundreds trapped underground after Nepal flood disaster (DW News, video)",
+          "url": "https://www.youtube.com/watch?v=wRianZB8le0"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "One week after Nepal's glacier flood, rescuers face a new [[emergency]]. Hundreds of workers are believed trapped inside tunnels at [[hydropower]] projects on the flooded rivers. When the [[flash flood]] hit on August 26, mud and debris {{piled up}} at the [[entrances]] and {{blocked them off}}, sealing the workers inside. About 900 workers were at sites in the [[flood zone]]. Those at about six tunnels are [[feared]] trapped, most at the Trishuli projects in Rasuwa district.",
+          "verbs": [
+            {
+              "display": "piled up",
+              "base": "pile up",
+              "correct": "To collect in a large heap",
+              "wrong": "To wash slowly down a river",
+              "correctFirst": true,
+              "why": "Dirty dishes pile up in the sink after a party, and unread emails pile up over a long weekend. Here mud and debris piled up at the tunnel entrances when the flood hit."
+            },
+            {
+              "display": "blocked them off",
+              "base": "block off",
+              "correct": "To close a way so nothing can pass",
+              "wrong": "To mark a route as safe to use",
+              "correctFirst": false,
+              "why": "Police block off a street for a parade, and a fallen tree can block off a country road. The flood's mud blocked off the tunnel entrances and sealed the workers inside."
+            }
+          ]
+        },
+        {
+          "text": "Rescue [[crews]] are working [[day and night]] to {{clear away}} the mud, by hand and with machines. A Nepal Army [[spokesperson]] said a large amount of debris had been [[deposited]] there, \"posing us a big challenge to open the tunnels.\" Where crews have managed to {{break through}}, they have {{sent in}} oxygen through small openings. Nearly 300 workers have already been {{brought out}} alive, but a few bodies have also been [[recovered]] from the tunnels.",
+          "verbs": [
+            {
+              "display": "clear away",
+              "base": "clear away",
+              "correct": "To remove something from a place",
+              "wrong": "To measure how deep the mud is",
+              "correctFirst": false,
+              "why": "We clear away the plates after dinner, and crews clear away snow from a runway before a flight. Rescue crews are now clearing away the mud by hand and with heavy machines."
+            },
+            {
+              "display": "break through",
+              "base": "break through",
+              "correct": "To force a way past a barrier",
+              "wrong": "To make a dark space brighter",
+              "correctFirst": true,
+              "why": "A drill can break through a concrete wall, and the sun breaks through the clouds after a storm. Where crews have managed to break through, they have reached the workers inside."
+            },
+            {
+              "display": "sent in",
+              "base": "send in",
+              "correct": "To pass something into a closed space",
+              "wrong": "To count the people in a group",
+              "correctFirst": true,
+              "why": "A coach sends in a fresh player late in the game, and a company sends in engineers to fix a broken machine. Rescuers sent in oxygen through small openings to the trapped workers."
+            },
+            {
+              "display": "brought out",
+              "base": "bring out",
+              "correct": "To carry someone from inside a place",
+              "wrong": "To treat an injury on the spot",
+              "correctFirst": false,
+              "why": "Firefighters bring out people from a smoky building, and divers bring out sailors from a sunken boat. Nearly 300 workers have already been brought out of the tunnels alive."
+            }
+          ]
+        },
+        {
+          "text": "Six days after the disaster, officials say they are in a [[race against time]]. The biggest fear is [[suffocation]]: the workers still trapped could {{run out of}} air, and they have little or no food and water. Nobody knows how long they can {{hold out}}. Outside the tunnels, [[relatives]] of the missing workers are waiting for news. Rescue teams have not {{given up}}, and the digging continues.",
+          "verbs": [
+            {
+              "display": "run out of",
+              "base": "run out of",
+              "correct": "To have no more of something",
+              "wrong": "To share something with others",
+              "correctFirst": true,
+              "why": "A car runs out of gas on a long trip, and a store runs out of bread before a storm. Officials fear the trapped workers could run out of air, food, and water."
+            },
+            {
+              "display": "hold out",
+              "base": "hold out",
+              "correct": "To stay alive in a hard situation",
+              "wrong": "To call for help with a radio",
+              "correctFirst": false,
+              "why": "Lost hikers can hold out for days on very little food, and a small town held out through a long winter without power. Nobody knows how long the trapped workers can hold out underground."
+            },
+            {
+              "display": "given up",
+              "base": "give up",
+              "correct": "To stop trying or hoping",
+              "wrong": "To wait quietly for news",
+              "correctFirst": true,
+              "why": "A runner with a sore knee refuses to give up before the finish line, and a student keeps studying instead of giving up on a hard exam. Rescue teams have not given up, and the digging continues."
+            }
+          ]
+        },
+        {
+          "text": "The tunnel rescue is part of a larger [[operation]]. The flood has killed more than 900 people in Nepal, and over a dozen in Tibet. Thousands are still missing, including hundreds of [[foreign nationals]]. Nearly 21,000 [[security personnel]] and [[volunteers]] have {{pitched in}}. China {{flew in}} more than 2,000 rescue workers and dropped [[equipment]] from the air, and India sent army officers trained in tunnel rescue. Crews now hope to {{step up}} the search. For the workers still [[underground]], every hour counts.",
+          "verbs": [
+            {
+              "display": "pitched in",
+              "base": "pitch in",
+              "correct": "To join others in doing the work",
+              "wrong": "To build a camp for shelter",
+              "correctFirst": false,
+              "why": "Neighbors pitch in to clean a park after a storm, and the whole family pitches in to cook a holiday dinner. Nearly 21,000 security personnel and volunteers have pitched in to help with the rescue."
+            },
+            {
+              "display": "flew in",
+              "base": "fly in",
+              "correct": "To bring people by airplane",
+              "wrong": "To drop supplies from the sky",
+              "correctFirst": true,
+              "why": "A hospital can fly in a rare medicine from another city, and a company flies in experts for a big repair job. China flew in more than 2,000 rescue workers to help Nepal."
+            },
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To make an effort stronger",
+              "wrong": "To leave a dangerous place",
+              "correctFirst": false,
+              "why": "A school steps up security after a theft, and a city steps up cleaning during flu season. With more help arriving, crews hope to step up the search for the missing workers."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pile up",
+          "ipa": "/paɪl ʌp/",
+          "def": "To collect in a large heap",
+          "ex": [
+            "Dishes piled up in the sink all week.",
+            "Snow piled up against the door overnight.",
+            "Bills pile up fast when you lose a job."
+          ]
+        },
+        {
+          "verb": "Block off",
+          "ipa": "/blɑk ɔf/",
+          "def": "To close a way so nothing can pass",
+          "ex": [
+            "Police blocked off the street for the parade.",
+            "A fallen tree blocked off the only road to the farm.",
+            "Workers blocked off the bridge during repairs."
+          ]
+        },
+        {
+          "verb": "Clear away",
+          "ipa": "/klɪr əˈweɪ/",
+          "def": "To remove something from a place",
+          "ex": [
+            "Please clear away the plates after dinner.",
+            "Crews cleared away the snow before the morning traffic.",
+            "It took days to clear away the broken branches."
+          ]
+        },
+        {
+          "verb": "Break through",
+          "ipa": "/breɪk θru/",
+          "def": "To force a way past a barrier",
+          "ex": [
+            "The drill finally broke through the concrete wall.",
+            "The sun broke through the clouds after the storm.",
+            "Firefighters broke through the door to reach the family."
+          ]
+        },
+        {
+          "verb": "Send in",
+          "ipa": "/sɛnd ɪn/",
+          "def": "To pass something into a closed space",
+          "ex": [
+            "The coach sent in a fresh player for the last ten minutes.",
+            "The company sent in engineers to fix the broken elevator.",
+            "Aid groups sent in food and water to the flooded town."
+          ]
+        },
+        {
+          "verb": "Bring out",
+          "ipa": "/brɪŋ aʊt/",
+          "def": "To carry someone from inside a place",
+          "ex": [
+            "Firefighters brought out three people from the smoky building.",
+            "Divers brought out the last sailor from the sunken boat.",
+            "Nurses brought the patients out before the fire spread."
+          ]
+        },
+        {
+          "verb": "Run out of",
+          "ipa": "/rʌn aʊt ʌv/",
+          "def": "To have no more of something",
+          "ex": [
+            "We ran out of gas on the highway.",
+            "The store ran out of bread before the storm.",
+            "The hikers ran out of water on the second day."
+          ]
+        },
+        {
+          "verb": "Hold out",
+          "ipa": "/hoʊld aʊt/",
+          "def": "To stay alive in a hard situation",
+          "ex": [
+            "The lost hikers held out for five days on almost no food.",
+            "The town held out through a week without power.",
+            "Doctors did not know how long the patient could hold out."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "ipa": "/ɡɪv ʌp/",
+          "def": "To stop trying or hoping",
+          "ex": [
+            "Don't give up before the finish line.",
+            "She never gave up on finding her lost dog.",
+            "The team refused to give up, even in the last minute."
+          ]
+        },
+        {
+          "verb": "Pitch in",
+          "ipa": "/pɪtʃ ɪn/",
+          "def": "To join others in doing the work",
+          "ex": [
+            "Neighbors pitched in to clean the park after the storm.",
+            "Everyone pitched in to cook the holiday dinner.",
+            "If we all pitch in, the job will be done by noon."
+          ]
+        },
+        {
+          "verb": "Fly in",
+          "ipa": "/flaɪ ɪn/",
+          "def": "To bring people by airplane",
+          "ex": [
+            "The hospital flew in a rare medicine from Chicago.",
+            "The company flew in experts for the big repair.",
+            "Aid groups flew in doctors after the earthquake."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "ipa": "/stɛp ʌp/",
+          "def": "To make an effort stronger",
+          "ex": [
+            "The school stepped up security after the theft.",
+            "The city stepped up cleaning during flu season.",
+            "Police stepped up patrols near the border."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "emergency",
+          "ipa": "/ɪˈmɜrdʒənsi/",
+          "def": "A sudden, dangerous situation that needs fast action",
+          "ex": [
+            "Call this number only in an emergency.",
+            "The hospital treats every emergency first.",
+            "The town declared an emergency after the storm."
+          ]
+        },
+        {
+          "word": "hydropower",
+          "ipa": "/ˈhaɪdroʊˌpaʊər/",
+          "def": "Electricity made from moving water",
+          "ex": [
+            "Nepal gets most of its electricity from hydropower.",
+            "The dam produces hydropower for two cities.",
+            "Hydropower is cheap once the plant is built."
+          ]
+        },
+        {
+          "word": "flash flood",
+          "ipa": "/flæʃ flʌd/",
+          "def": "A sudden flood that arrives with little warning",
+          "ex": [
+            "A flash flood swept cars off the desert road.",
+            "Hikers should leave the canyon if a flash flood is possible.",
+            "The flash flood came only minutes after the heavy rain."
+          ]
+        },
+        {
+          "word": "entrances",
+          "ipa": "/ˈɛntrənsɪz/",
+          "def": "The places where you go into a building or space",
+          "ex": [
+            "The stadium has six entrances.",
+            "Guards stood at both entrances to the mine.",
+            "Snow blocked the entrances to the parking garage."
+          ]
+        },
+        {
+          "word": "flood zone",
+          "ipa": "/flʌd zoʊn/",
+          "def": "An area covered or threatened by flood water",
+          "ex": [
+            "Houses in the flood zone were empty by morning.",
+            "The map shows which streets are in the flood zone.",
+            "Helicopters dropped food into the flood zone."
+          ]
+        },
+        {
+          "word": "feared",
+          "ipa": "/fɪrd/",
+          "def": "Believed to be true, when the news is bad",
+          "ex": [
+            "Two climbers are feared dead after the storm.",
+            "The missing boat is feared lost at sea.",
+            "Dozens are feared hurt in the crash."
+          ]
+        },
+        {
+          "word": "crews",
+          "ipa": "/kruz/",
+          "def": "Teams of people who work together on a job",
+          "ex": [
+            "Road crews fixed the bridge in two days.",
+            "Fire crews worked through the night.",
+            "The airline needs more crews for the summer."
+          ]
+        },
+        {
+          "word": "day and night",
+          "ipa": "/deɪ ænd naɪt/",
+          "def": "All the time, without stopping",
+          "ex": [
+            "The factory runs day and night.",
+            "Nurses cared for him day and night.",
+            "The pumps worked day and night to empty the basement."
+          ]
+        },
+        {
+          "word": "spokesperson",
+          "ipa": "/ˈspoʊksˌpɜrsən/",
+          "def": "A person who speaks for a group or organization",
+          "ex": [
+            "A police spokesperson answered questions after the fire.",
+            "The company spokesperson refused to comment.",
+            "The team's spokesperson confirmed the news."
+          ]
+        },
+        {
+          "word": "deposited",
+          "ipa": "/dɪˈpɑzɪtɪd/",
+          "def": "Left in a place by water, wind, or a natural force",
+          "ex": [
+            "The river deposited sand along the banks.",
+            "Mud deposited by the flood covered the fields.",
+            "The wind deposited dust on every car in town."
+          ]
+        },
+        {
+          "word": "recovered",
+          "ipa": "/rɪˈkʌvərd/",
+          "def": "Found and taken away, often after a disaster",
+          "ex": [
+            "Divers recovered the plane's black box.",
+            "Two bodies were recovered from the river.",
+            "Police recovered the stolen paintings in a garage."
+          ]
+        },
+        {
+          "word": "race against time",
+          "ipa": "/reɪs əˈɡɛnst taɪm/",
+          "def": "A situation where something must be done very quickly",
+          "ex": [
+            "Doctors were in a race against time to find a donor.",
+            "Finishing the bridge before winter was a race against time.",
+            "The search for the lost child became a race against time."
+          ]
+        },
+        {
+          "word": "suffocation",
+          "ipa": "/ˌsʌfəˈkeɪʃən/",
+          "def": "Death caused by having no air to breathe",
+          "ex": [
+            "Smoke, not fire, causes most deaths by suffocation.",
+            "The miners feared suffocation in the sealed shaft.",
+            "Doctors said the cause of death was suffocation."
+          ]
+        },
+        {
+          "word": "relatives",
+          "ipa": "/ˈrɛlətɪvz/",
+          "def": "Members of a person's family",
+          "ex": [
+            "Relatives waited outside the hospital all night.",
+            "Most of my relatives live in Texas.",
+            "The airline called the relatives of every passenger."
+          ]
+        },
+        {
+          "word": "operation",
+          "ipa": "/ˌɑpəˈreɪʃən/",
+          "def": "A large, planned effort involving many people",
+          "ex": [
+            "The rescue operation lasted three weeks.",
+            "Police began a large operation to find the missing man.",
+            "The cleanup operation needed hundreds of volunteers."
+          ]
+        },
+        {
+          "word": "foreign nationals",
+          "ipa": "/ˈfɔrən ˈnæʃənəlz/",
+          "def": "People who are citizens of another country",
+          "ex": [
+            "The embassy helped foreign nationals leave the city.",
+            "Hundreds of foreign nationals were staying at the hotel.",
+            "Foreign nationals need a visa to work here."
+          ]
+        },
+        {
+          "word": "security personnel",
+          "ipa": "/sɪˈkjʊrəti ˌpɜrsəˈnɛl/",
+          "def": "Soldiers, police, and guards who protect people",
+          "ex": [
+            "Security personnel searched every bag at the gate.",
+            "Thousands of security personnel joined the search.",
+            "The stadium hired extra security personnel for the final."
+          ]
+        },
+        {
+          "word": "volunteers",
+          "ipa": "/ˌvɑlənˈtɪrz/",
+          "def": "People who help without being paid",
+          "ex": [
+            "Volunteers handed out water to the runners.",
+            "The shelter needs more volunteers on weekends.",
+            "Hundreds of volunteers filled sandbags before the storm."
+          ]
+        },
+        {
+          "word": "equipment",
+          "ipa": "/ɪˈkwɪpmənt/",
+          "def": "The tools and machines needed for a job",
+          "ex": [
+            "The rescue team unloaded its equipment from the truck.",
+            "Climbing equipment is expensive.",
+            "The hospital ordered new equipment for the lab."
+          ]
+        },
+        {
+          "word": "underground",
+          "ipa": "/ˌʌndərˈɡraʊnd/",
+          "def": "Below the surface of the earth",
+          "ex": [
+            "The miners spent ten hours underground every day.",
+            "The cables run underground across the city.",
+            "Some animals stay underground all winter."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A week after Nepal's glacier flood, rescuers are trying to reach hundreds of hydropower workers trapped in mud-blocked tunnels. Crews fear the workers could run out of air before help arrives.",
+          "a": true,
+          "why": "Mud and debris blocked off the tunnel entrances, nearly 300 workers have been brought out, and suffocation is now the biggest fear for those still inside."
+        },
+        {
+          "s": "A new flood in Nepal's mountains has trapped hundreds of hydropower workers inside tunnels this week. Rescuers say the workers have enough air and food to wait safely for several more days.",
+          "a": false,
+          "why": "Close, but there was no new flood. The workers were trapped by the August 26 flood, and officials fear they could run out of air, food, and water."
+        },
+        {
+          "s": "A tunnel collapsed during construction of a new hydropower dam in northern India, trapping about forty workers. Rescue teams drilled through solid rock for two weeks before reaching them.",
+          "a": false,
+          "why": "This describes a different event. The workers here are in Nepal, trapped by flood mud, and India sent officers to help with the rescue."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Mud and debris blocked off the tunnel entrances after the flood.",
+          "a": true,
+          "why": "The flash flood buried the entrances under thick mud and debris, sealing the workers inside."
+        },
+        {
+          "s": "Nearly 300 workers have already been brought out alive.",
+          "a": true,
+          "why": "Rescuers have reached some of the tunnels, though a few bodies have also been recovered from inside."
+        },
+        {
+          "s": "Rescue crews are clearing the mud only with heavy machines.",
+          "a": false,
+          "why": "Crews are clearing away the mud both by hand and with machines, and an army spokesperson called the debris a big challenge."
+        },
+        {
+          "s": "Officials fear the trapped workers could run out of air.",
+          "a": true,
+          "why": "Suffocation is now the biggest fear, along with a lack of food and water for those still inside."
+        },
+        {
+          "s": "China sent about 200 rescue workers to Nepal.",
+          "a": false,
+          "why": "China flew in more than 2,000 rescue workers and dropped equipment from the air."
+        },
+        {
+          "s": "Fewer than 500 people have died in Nepal so far.",
+          "a": false,
+          "why": "The flood has now killed more than 900 people in Nepal, and thousands are still listed as missing."
+        }
+      ],
+      "dialogue": {
+        "lines": [
+          {
+            "s": "A",
+            "text": "Have you been following the Nepal flood news? There's a new problem now. Hundreds of workers are trapped inside tunnels."
+          },
+          {
+            "s": "B",
+            "text": "Tunnels? I thought the flood was in the river valleys."
+          },
+          {
+            "s": "A",
+            "text": "It was. But there were hydropower projects along those rivers, and the workers were inside the tunnels when the flood hit. Mud and debris {{piled up}} at the entrances and {{blocked them off}}."
+          },
+          {
+            "s": "B",
+            "text": "So they've been in there since last week? [[What a nightmare]]."
+          },
+          {
+            "s": "A",
+            "text": "Six days. Crews are trying to {{clear away}} the mud by hand and with machines, but an army spokesperson said the amount of debris is a huge challenge."
+          },
+          {
+            "s": "B",
+            "text": "Has anyone reached them?"
+          },
+          {
+            "s": "A",
+            "text": "In some places, yes. Where crews managed to {{break through}}, they {{sent in}} oxygen through small openings. And nearly 300 workers have already been {{brought out}} alive."
+          },
+          {
+            "s": "B",
+            "text": "That's something, at least. But the rest are [[not out of the woods yet]]."
+          },
+          {
+            "s": "A",
+            "text": "No. Officials fear they could {{run out of}} air before the tunnels are open. Food and water too."
+          },
+          {
+            "s": "B",
+            "text": "How long can a person {{hold out}} like that?"
+          },
+          {
+            "s": "A",
+            "text": "Nobody really knows. [[The clock is ticking]], and that's why nobody wants to {{give up}}."
+          },
+          {
+            "s": "B",
+            "text": "What about the families? Do they know anything?"
+          },
+          {
+            "s": "A",
+            "text": "Mostly they're just waiting outside the tunnels, [[completely in the dark]]. [[That's the part that gets me]]."
+          },
+          {
+            "s": "B",
+            "text": "Is anyone helping Nepal with this?"
+          },
+          {
+            "s": "A",
+            "text": "Nearly 21,000 soldiers, police, and volunteers have {{pitched in}}. China {{flew in}} more than 2,000 rescue workers, and India sent army officers trained in tunnel rescue."
+          },
+          {
+            "s": "B",
+            "text": "I hope all of that helps them {{step up}} the search before it's too late."
+          },
+          {
+            "s": "A",
+            "text": "Every hour counts now."
+          }
+        ],
+        "verbMap": {
+          "piled up": "pile up",
+          "blocked them off": "block off",
+          "clear away": "clear away",
+          "break through": "break through",
+          "sent in": "send in",
+          "brought out": "bring out",
+          "run out of": "run out of",
+          "hold out": "hold out",
+          "give up": "give up",
+          "pitched in": "pitch in",
+          "flew in": "fly in",
+          "step up": "step up"
+        },
+        "expressions": [
+          {
+            "expr": "What a nightmare",
+            "def": "Used to react to a situation that is terrible to think about",
+            "ex": [
+              "Stuck at the airport for two days with a baby? What a nightmare.",
+              "The basement flooded the night before the wedding. What a nightmare."
+            ]
+          },
+          {
+            "expr": "not out of the woods yet",
+            "def": "Still in danger, even though things have improved a little",
+            "ex": [
+              "Her fever is lower, but she's not out of the woods yet.",
+              "Sales are better this month, but the store is not out of the woods yet."
+            ]
+          },
+          {
+            "expr": "The clock is ticking",
+            "def": "Used to say that very little time is left and pressure is growing",
+            "ex": [
+              "The clock is ticking if we want to catch the last train.",
+              "They have until Friday to sign, and the clock is ticking."
+            ]
+          },
+          {
+            "expr": "completely in the dark",
+            "def": "Knowing nothing about what is happening",
+            "ex": [
+              "The passengers were completely in the dark about the delay.",
+              "I was completely in the dark until my boss finally explained the plan."
+            ]
+          },
+          {
+            "expr": "That's the part that gets me",
+            "def": "Used to say that one detail affects you emotionally more than the rest",
+            "ex": [
+              "He walked to work for a year to save money. That's the part that gets me.",
+              "The dog waited at the door every night. That's the part that gets me."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "canada-us-tariffs-2026",
+      "number": 93,
+      "headline": "Canada announces new tariffs on US goods",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n93-canada-us-tariffs-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S. (NPR)",
+          "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+        },
+        {
+          "title": "Canada to hit US with retaliatory tariffs as trade war escalates (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates"
+        },
+        {
+          "title": "Canada announces retaliatory tariffs against the U.S. (PBS NewsHour)",
+          "url": "https://www.pbs.org/newshour/world/watch-live-canada-announces-retaliatory-tariffs-against-the-u-s"
+        },
+        {
+          "title": "Canada announces retaliatory tariffs on US goods (video, Reuters)",
+          "url": "https://www.youtube.com/watch?v=EGQub4CD2q4"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Canada has announced new [[tariffs]] on American goods in a [[trade dispute]] with the United States. Trade talks {{broke down}} on August 22, and the US then {{put on}} a 50 percent tariff covering about 20 billion dollars' [[worth of]] Canadian goods, including [[dairy]] and hockey equipment. Those goods {{make up}} about 5.5 percent of Canada's [[exports]] to the US. On August 25, 2026, Prime Minister Mark Carney {{laid out}} Canada's answer: it is {{striking back}} with tariffs of its own.",
+          "verbs": [
+            {
+              "display": "broke down",
+              "base": "break down",
+              "correct": "To fail or end without agreement",
+              "wrong": "To make sudden progress after difficulty",
+              "correctFirst": true,
+              "why": "Peace talks can break down over one small detail, and a deal between a landlord and a tenant can break down over money. Trade talks between Canada and the United States broke down on August 22, three days before Canada's announcement."
+            },
+            {
+              "display": "put on",
+              "base": "put on",
+              "correct": "To make goods subject to a tax",
+              "wrong": "To remove a tax from goods",
+              "correctFirst": false,
+              "why": "A city can put a tax on sugary drinks, and a landlord can put a fee on late rent. After the talks ended, the United States put a 50 percent tariff on about 20 billion dollars' worth of Canadian goods."
+            },
+            {
+              "display": "make up",
+              "base": "make up",
+              "correct": "To form a part of a total",
+              "wrong": "To send goods to another country",
+              "correctFirst": true,
+              "why": "Women make up half of the company's staff, and rent makes up most of my monthly budget. The goods hit by the American tariffs make up about 5.5 percent of Canada's total exports to the US."
+            },
+            {
+              "display": "laid out",
+              "base": "lay out",
+              "correct": "To explain a plan clearly",
+              "wrong": "To cancel a plan at the last minute",
+              "correctFirst": false,
+              "why": "A coach lays out the game plan before kickoff, and a teacher lays out the rules on the first day of class. Prime Minister Mark Carney laid out Canada's answer on August 25: tariffs of its own."
+            },
+            {
+              "display": "striking back",
+              "base": "strike back",
+              "correct": "To respond to an attack with your own",
+              "wrong": "To cancel a law or rule in court",
+              "correctFirst": true,
+              "why": "A boxer strikes back after taking a punch, and a team strikes back with a goal of its own after falling behind. Canada is now striking back at the American tariffs with tariffs of its own."
+            }
+          ]
+        },
+        {
+          "text": "Carney said Canada would [[match]] the American tariffs \"[[dollar for dollar]] in order to protect Canadian workers, farmers, families, and businesses.\" Canada's tariffs {{add up to}} about 20 billion dollars, at rates of 15 to 50 percent. The new [[measures]] {{single out}} steel and aluminum for the largest share. The list includes cheese and other dairy, [[appliances]], farm equipment, seafood, [[cosmetics]], toilet paper, and electronics. Canadian tariffs on American auto parts [[remain in place]].",
+          "verbs": [
+            {
+              "display": "add up to",
+              "base": "add up to",
+              "correct": "To reach a total of",
+              "wrong": "To include one more item",
+              "correctFirst": false,
+              "why": "Small daily coffees add up to a big bill by the end of the month, and three short drives add up to a full tank of gas. Canada's new tariffs add up to about 20 billion dollars, the same amount as the American ones."
+            },
+            {
+              "display": "single out",
+              "base": "single out",
+              "correct": "To choose one thing for special treatment",
+              "wrong": "To put products into groups by type",
+              "correctFirst": true,
+              "why": "A coach singles out one player for praise, and a teacher singles out a student who needs extra help. The new measures single out steel and aluminum for the largest share of the tariffs."
+            }
+          ]
+        },
+        {
+          "text": "Carney explained why the [[negotiations]] failed: \"We learned during the negotiations that the Americans want to destroy our major industries, including autos, steel and aluminum.\" He {{summed up}} the dispute [[in blunt terms]]: \"You're at war when you get attacked. We got attacked.\" A [[poll]] by Leger found that 56 percent of Canadians favored a [[hardline approach]] with no further [[concessions]] to the US. Most did not want their government to {{back down}}.",
+          "verbs": [
+            {
+              "display": "summed up",
+              "base": "sum up",
+              "correct": "To state the main point in a few words",
+              "wrong": "To count the money that was spent",
+              "correctFirst": false,
+              "why": "A good speaker sums up a long talk in one sentence, and a report ends by summing up the key facts. Carney summed up the dispute in blunt terms, saying Canada was at war because it had been attacked."
+            },
+            {
+              "display": "back down",
+              "base": "back down",
+              "correct": "To drop your demands under pressure",
+              "wrong": "To give support to someone's claim",
+              "correctFirst": true,
+              "why": "A boss may back down after the whole team complains, and a customer backs down when the store shows the receipt. Most Canadians in the Leger poll did not want their government to back down or make more concessions."
+            }
+          ]
+        },
+        {
+          "text": "Canada has also {{set aside}} about 7.5 billion Canadian dollars, or roughly 5.4 billion US dollars, for a [[support package]] for workers and businesses. Reports on the [[trade war]] warn that tariffs could {{push up}} prices, cost jobs, and leave [[small and medium-sized businesses]] at risk. Some could {{go under}} if the dispute {{drags on}}. It is unclear whether the two sides can {{work out}} a deal before Canada's tariffs [[take effect]] on September 8.",
+          "verbs": [
+            {
+              "display": "set aside",
+              "base": "set aside",
+              "correct": "To keep money for a special purpose",
+              "wrong": "To make progress slower or later",
+              "correctFirst": false,
+              "why": "Families set aside money for a summer vacation, and a school sets aside part of its budget for new books. The Canadian government has set aside about 7.5 billion Canadian dollars to support workers and businesses hurt by the dispute."
+            },
+            {
+              "display": "push up",
+              "base": "push up",
+              "correct": "To make prices or costs higher",
+              "wrong": "To force a plan to be approved",
+              "correctFirst": true,
+              "why": "A hot summer pushes up the price of ice, and high rents push up the cost of running a shop. Tariffs on both sides could push up costs and prices for people in both countries."
+            },
+            {
+              "display": "go under",
+              "base": "go under",
+              "correct": "To fail as a business and close",
+              "wrong": "To be officially approved",
+              "correctFirst": false,
+              "why": "A restaurant can go under after one bad winter, and a small shop goes under when a big store opens next door. Some small and medium-sized businesses could go under if the trade dispute drags on."
+            },
+            {
+              "display": "drags on",
+              "base": "drag on",
+              "correct": "To continue for too long",
+              "wrong": "To involve someone in a problem",
+              "correctFirst": true,
+              "why": "A boring meeting drags on all afternoon, and a court case can drag on for years. Small businesses are at risk if the tariff dispute drags on for months."
+            },
+            {
+              "display": "work out",
+              "base": "work out",
+              "correct": "To reach an agreement by talking",
+              "wrong": "To spend time improving something",
+              "correctFirst": false,
+              "why": "Roommates work out who pays for what, and a couple works out a schedule for the kids. It is not yet clear whether the two governments will work out a new agreement before September 8."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Lay out",
+          "def": "To explain a plan clearly",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "The manager laid out the schedule for the whole week.",
+            "Before we start, let me lay out how this will work.",
+            "She laid the plan out step by step so everyone understood."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To fail or end without agreement",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "Talks between the union and the company broke down last night.",
+            "The deal broke down over the price of the house.",
+            "If negotiations break down again, the strike will continue."
+          ]
+        },
+        {
+          "verb": "Put on",
+          "def": "To make goods subject to a tax",
+          "ipa": "/pʊt ɑn/",
+          "ex": [
+            "The state put a new tax on cigarettes this year.",
+            "They plan to put a fee on plastic bags at every store.",
+            "The city put a tax on hotel rooms to fund the new stadium."
+          ]
+        },
+        {
+          "verb": "Make up",
+          "def": "To form a part of a total",
+          "ipa": "/meɪk ʌp/",
+          "ex": [
+            "Students make up about a third of the town's population.",
+            "Food makes up a big part of our travel budget.",
+            "Teenagers made up most of the crowd at the concert."
+          ]
+        },
+        {
+          "verb": "Strike back",
+          "def": "To respond to an attack with your own",
+          "ipa": "/straɪk bæk/",
+          "ex": [
+            "After the insult, she struck back with a sharp reply.",
+            "The company struck back with a lawsuit of its own.",
+            "Fans expect the champion to strike back in the second game."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "def": "To reach a total of",
+          "ipa": "/æd ʌp tu/",
+          "ex": [
+            "The repairs added up to almost two thousand dollars.",
+            "All those small fees add up to a lot over a year.",
+            "Our expenses for the trip added up to more than we planned."
+          ]
+        },
+        {
+          "verb": "Single out",
+          "def": "To choose one thing for special treatment",
+          "ipa": "/ˈsɪŋɡəl aʊt/",
+          "ex": [
+            "The report singled out one factory for its poor safety record.",
+            "Don't single her out just because she is new.",
+            "The judges singled out his painting as the best in the show."
+          ]
+        },
+        {
+          "verb": "Sum up",
+          "def": "To state the main point in a few words",
+          "ipa": "/sʌm ʌp/",
+          "ex": [
+            "Can you sum up the meeting in a couple of sentences?",
+            "She summed up the movie in three words: way too long.",
+            "To sum up, we need more time and more money."
+          ]
+        },
+        {
+          "verb": "Back down",
+          "def": "To drop your demands under pressure",
+          "ipa": "/bæk daʊn/",
+          "ex": [
+            "The landlord backed down after the tenants threatened to leave.",
+            "Neither side is willing to back down in the argument.",
+            "He refused to back down, even when everyone disagreed with him."
+          ]
+        },
+        {
+          "verb": "Set aside",
+          "def": "To keep money for a special purpose",
+          "ipa": "/sɛt əˈsaɪd/",
+          "ex": [
+            "We set aside a little money every month for emergencies.",
+            "The company set aside two million dollars for training.",
+            "Try to set some cash aside for your car repairs."
+          ]
+        },
+        {
+          "verb": "Push up",
+          "def": "To make prices or costs higher",
+          "ipa": "/pʊʃ ʌp/",
+          "ex": [
+            "The drought pushed up the price of vegetables this year.",
+            "Higher gas prices will push up the cost of shipping.",
+            "Rising demand has pushed up rents across the city."
+          ]
+        },
+        {
+          "verb": "Go under",
+          "def": "To fail as a business and close",
+          "ipa": "/ɡoʊ ˈʌndər/",
+          "ex": [
+            "Many restaurants went under during the long shutdown.",
+            "The company could go under if it loses this contract.",
+            "His first business went under within two years."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To continue for too long",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The movie dragged on, and half the audience left early.",
+            "The repairs dragged on for months longer than planned.",
+            "Nobody wants this argument to drag on any longer."
+          ]
+        },
+        {
+          "verb": "Work out",
+          "def": "To reach an agreement by talking",
+          "ipa": "/wɜrk aʊt/",
+          "ex": [
+            "The two neighbors worked out a deal about the fence.",
+            "We need to work out who is driving on Saturday.",
+            "The union and the company finally worked out a new contract."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "tariffs",
+          "def": "Taxes on goods that come into a country",
+          "ipa": "/ˈtɛrɪfs/",
+          "ex": [
+            "The government raised tariffs on imported cars.",
+            "High tariffs make foreign products more expensive.",
+            "Both countries agreed to lower their tariffs."
+          ]
+        },
+        {
+          "word": "trade dispute",
+          "def": "A disagreement between countries about buying and selling goods",
+          "ipa": "/treɪd dɪˈspjut/",
+          "ex": [
+            "The trade dispute lasted for two years.",
+            "A trade dispute over rice hurt farmers on both sides.",
+            "Diplomats met to end the trade dispute."
+          ]
+        },
+        {
+          "word": "take effect",
+          "def": "To start to apply officially",
+          "ipa": "/teɪk ɪˈfɛkt/",
+          "ex": [
+            "The new law will take effect in January.",
+            "When does the price change take effect?",
+            "The rules will take effect after the vote."
+          ]
+        },
+        {
+          "word": "worth of",
+          "def": "An amount of something that has a stated value",
+          "ipa": "/wɜrθ ʌv/",
+          "ex": [
+            "She bought fifty dollars' worth of groceries.",
+            "The storm caused millions of dollars' worth of damage.",
+            "He ordered ten dollars' worth of gas."
+          ]
+        },
+        {
+          "word": "exports",
+          "def": "Goods sold to other countries",
+          "ipa": "/ˈɛkspɔrts/",
+          "ex": [
+            "Coffee is one of Brazil's biggest exports.",
+            "Exports fell last year because of the weak economy.",
+            "The company depends on exports to Asia."
+          ]
+        },
+        {
+          "word": "dairy",
+          "def": "Milk and foods made from milk, such as cheese and butter",
+          "ipa": "/ˈdɛri/",
+          "ex": [
+            "She stopped eating dairy because of her stomach.",
+            "The store has a large dairy section.",
+            "Dairy farmers protested the low milk prices."
+          ]
+        },
+        {
+          "word": "match",
+          "def": "To do or give the same amount as someone else",
+          "ipa": "/mætʃ/",
+          "ex": [
+            "The company will match any donation you give.",
+            "No other store can match our prices.",
+            "He tried to match his brother's record."
+          ]
+        },
+        {
+          "word": "dollar for dollar",
+          "def": "In exactly equal amounts of money",
+          "ipa": "/ˈdɑlər fɔr ˈdɑlər/",
+          "ex": [
+            "The charity will match your gift dollar for dollar.",
+            "Dollar for dollar, this is the best laptop you can buy.",
+            "The city repaid the loan dollar for dollar."
+          ]
+        },
+        {
+          "word": "measures",
+          "def": "Official actions taken to deal with a problem",
+          "ipa": "/ˈmɛʒərz/",
+          "ex": [
+            "The city took measures to reduce traffic.",
+            "New safety measures were introduced after the accident.",
+            "Emergency measures helped families after the flood."
+          ]
+        },
+        {
+          "word": "appliances",
+          "def": "Machines used in the home, such as refrigerators and washing machines",
+          "ipa": "/əˈplaɪənsəz/",
+          "ex": [
+            "They bought new appliances for the kitchen.",
+            "Old appliances use more electricity.",
+            "The store sells and repairs appliances."
+          ]
+        },
+        {
+          "word": "cosmetics",
+          "def": "Products such as lipstick and cream used on the face and skin",
+          "ipa": "/kɑzˈmɛtɪks/",
+          "ex": [
+            "She works for a company that sells cosmetics.",
+            "Cosmetics are on the second floor of the store.",
+            "Many cosmetics are now made without animal testing."
+          ]
+        },
+        {
+          "word": "remain in place",
+          "def": "To continue to apply without change",
+          "ipa": "/rɪˈmeɪn ɪn pleɪs/",
+          "ex": [
+            "The speed limit will remain in place all summer.",
+            "Travel rules remain in place until further notice.",
+            "The ban will remain in place for ten years."
+          ]
+        },
+        {
+          "word": "negotiations",
+          "def": "Formal talks to reach an agreement",
+          "ipa": "/nɪˌɡoʊʃiˈeɪʃənz/",
+          "ex": [
+            "Negotiations between the union and the company continue.",
+            "Peace negotiations began last week.",
+            "After long negotiations, they signed the contract."
+          ]
+        },
+        {
+          "word": "in blunt terms",
+          "def": "Using very direct words, without trying to be polite",
+          "ipa": "/ɪn blʌnt tɜrmz/",
+          "ex": [
+            "The doctor explained the risks in blunt terms.",
+            "In blunt terms, the plan is too expensive.",
+            "She told him in blunt terms that he was wrong."
+          ]
+        },
+        {
+          "word": "poll",
+          "def": "A survey that asks people what they think",
+          "ipa": "/poʊl/",
+          "ex": [
+            "A recent poll shows support for the new park.",
+            "The poll asked 1,000 voters about the economy.",
+            "Polls can change quickly before an election."
+          ]
+        },
+        {
+          "word": "hardline approach",
+          "def": "A strict way of dealing with something that refuses to change",
+          "ipa": "/ˈhɑrdlaɪn əˈproʊtʃ/",
+          "ex": [
+            "The school took a hardline approach to phones in class.",
+            "Voters wanted a hardline approach to crime.",
+            "His hardline approach made the talks difficult."
+          ]
+        },
+        {
+          "word": "concessions",
+          "def": "Things you agree to give or accept to reach a deal",
+          "ipa": "/kənˈsɛʃənz/",
+          "ex": [
+            "Both sides made concessions to end the strike.",
+            "The union won some concessions on pay.",
+            "He refused to make any concessions."
+          ]
+        },
+        {
+          "word": "support package",
+          "def": "A set of government help, usually money, for people in difficulty",
+          "ipa": "/səˈpɔrt ˈpækɪdʒ/",
+          "ex": [
+            "The support package includes loans for small shops.",
+            "Farmers asked for a bigger support package after the drought.",
+            "The support package was approved by lawmakers."
+          ]
+        },
+        {
+          "word": "trade war",
+          "def": "A fight between countries using tariffs and trade limits",
+          "ipa": "/treɪd wɔr/",
+          "ex": [
+            "The trade war raised the price of electronics.",
+            "Investors fear a trade war between the two economies.",
+            "The trade war ended after a new agreement."
+          ]
+        },
+        {
+          "word": "small and medium-sized businesses",
+          "def": "Companies with a small or moderate number of workers",
+          "ipa": "/smɔl ænd ˈmidiəm saɪzd ˈbɪznəsəz/",
+          "ex": [
+            "Small and medium-sized businesses create many jobs.",
+            "The bank offers loans to small and medium-sized businesses.",
+            "Rising rents hurt small and medium-sized businesses the most."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "After talks with the United States failed, Canada announced tariffs on 20 billion dollars of American goods. The prime minister says the move matches the US tariffs and protects Canadian workers.",
+          "a": true,
+          "why": "Talks broke down on August 22, the United States put 50 percent tariffs on Canadian goods, and Carney answered with matching tariffs to protect Canadian workers."
+        },
+        {
+          "s": "Canada acted first with tariffs on American goods, and the United States then answered with 50 percent tariffs. Canadian officials say the goal is to protect workers, farmers, and businesses.",
+          "a": false,
+          "why": "Close, but the United States acted first. Canada announced its tariffs on August 25 in response to the American tariffs that followed the failed talks."
+        },
+        {
+          "s": "The United States and Canada have signed a trade deal that removes most tariffs on steel and aluminum. Officials say it will take effect next year once lawmakers in both countries approve it.",
+          "a": false,
+          "why": "There is no new trade deal. Talks broke down on August 22, and both countries are adding tariffs, not removing them."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The United States put tariffs of 15 percent on Canadian goods.",
+          "a": false,
+          "why": "The United States put a 50 percent tariff, not a 15 percent one, on about 20 billion dollars' worth of Canadian goods after the talks broke down."
+        },
+        {
+          "s": "Steel and aluminum make up the largest share of Canada's new measures.",
+          "a": true,
+          "why": "Steel and aluminum get the largest share, with dairy, appliances, farm equipment, seafood, and electronics also on the list."
+        },
+        {
+          "s": "Most Canadians polled want Canada to make more concessions.",
+          "a": false,
+          "why": "The poll found that 56 percent of Canadians favored a hardline approach with no further concessions. Most did not want the government to back down."
+        },
+        {
+          "s": "Canada's new tariffs take effect on September 8, 2026.",
+          "a": true,
+          "why": "Carney laid out the plan on August 25, 2026, and the tariffs take effect two weeks later, on September 8."
+        },
+        {
+          "s": "Canada set aside about 20 billion dollars for its support package.",
+          "a": false,
+          "why": "The support package is worth about 7.5 billion Canadian dollars, or roughly 5.4 billion US dollars."
+        },
+        {
+          "s": "Canada's tariffs add up to about 20 billion dollars.",
+          "a": true,
+          "why": "Canada's tariffs total about 20 billion dollars, matching the American tariffs dollar for dollar."
+        }
+      ],
+      "dialogue": {
+        "lines": [
+          {
+            "s": "A",
+            "text": "Did you see the news? Canada is {{striking back}} with tariffs on American goods."
+          },
+          {
+            "s": "B",
+            "text": "[[So much for]] the trade talks. I thought both sides were still at the table."
+          },
+          {
+            "s": "A",
+            "text": "Not anymore. The talks {{broke down}} on August 22. Then the US {{put a 50 percent tariff on}} Canadian goods, and now Canada is doing the same."
+          },
+          {
+            "s": "B",
+            "text": "That's a lot of money. Twenty billion dollars, right?"
+          },
+          {
+            "s": "A",
+            "text": "Yes, dollar for dollar. Steel and aluminum are the biggest part, but the list {{adds up to}} way more than that. Cheese, furniture, even toilet paper."
+          },
+          {
+            "s": "B",
+            "text": "Toilet paper, [[of all things]]? What else is on there?"
+          },
+          {
+            "s": "A",
+            "text": "Cosmetics, appliances, seafood, electronics. And all of it will probably {{push up}} prices on both sides of the border."
+          },
+          {
+            "s": "B",
+            "text": "So [[where does that leave]] regular people?"
+          },
+          {
+            "s": "A",
+            "text": "[[Caught in the middle]]. The government {{set aside}} some money to help businesses, but small companies could still {{go under}} if this {{drags on}}."
+          },
+          {
+            "s": "B",
+            "text": "Do you think either side will {{back down}}?"
+          },
+          {
+            "s": "A",
+            "text": "[[Somebody has to blink first]]. But a poll found most Canadians don't want their government to make more concessions."
+          },
+          {
+            "s": "B",
+            "text": "I hope they {{work out}} something before September 8."
+          },
+          {
+            "s": "A",
+            "text": "[[I wouldn't hold my breath]]. That's not much time."
+          }
+        ],
+        "verbMap": {
+          "striking back": "strike back",
+          "broke down": "break down",
+          "put a 50 percent tariff on": "put on",
+          "adds up to": "add up to",
+          "push up": "push up",
+          "set aside": "set aside",
+          "go under": "go under",
+          "drags on": "drag on",
+          "back down": "back down",
+          "work out": "work out"
+        },
+        "expressions": [
+          {
+            "expr": "So much for",
+            "def": "Used when a plan or hope has clearly failed or ended",
+            "ex": [
+              "It's raining again. So much for our picnic.",
+              "So much for the diet. He ordered dessert."
+            ]
+          },
+          {
+            "expr": "of all things",
+            "def": "Used to show surprise that something unexpected is included",
+            "ex": [
+              "She brought a ladder, of all things, to the party.",
+              "He collects old phone books, of all things."
+            ]
+          },
+          {
+            "expr": "where does that leave",
+            "def": "Used to ask what the situation now means for someone",
+            "ex": [
+              "The bus route was cut, so where does that leave people without a car?",
+              "If the factory closes, where does that leave the workers?"
+            ]
+          },
+          {
+            "expr": "Caught in the middle",
+            "def": "Stuck between two sides in a fight and hurt by both",
+            "ex": [
+              "When the neighbors argued, the kids were caught in the middle.",
+              "Small shops are caught in the middle when big suppliers raise prices."
+            ]
+          },
+          {
+            "expr": "Somebody has to blink first",
+            "def": "Used when two sides refuse to give in and one will have to change first",
+            "ex": [
+              "The strike is in its third week. Somebody has to blink first.",
+              "They both want the last word, but somebody has to blink first."
+            ]
+          },
+          {
+            "expr": "I wouldn't hold my breath",
+            "def": "Used to say you do not expect something to happen soon",
+            "ex": [
+              "He said he'd pay me back, but I wouldn't hold my breath.",
+              "A new train line by next year? I wouldn't hold my breath."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "pheromone-maxxing-trend-2026",
+      "number": 92,
+      "headline": "TikTok users skip showers to attract partners",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n92-pheromone-maxxing-trend-2026-flat.webp",
+      "position": "center 38%",
+      "sources": [
+        {
+          "title": "Forbes: 'Pheromone Maxxing' TikTok Dating Trend Has People Not Showering",
+          "url": "https://www.forbes.com/sites/brucelee/2026/08/16/pheromone-maxxing-tiktok-dating-trend-has-people-not-showering/"
+        },
+        {
+          "title": "Vice: Introducing Pheromone Maxxing, TikTok's Latest Disgusting Dating Trend",
+          "url": "https://www.vice.com/en/article/introducing-pheromone-maxxing-tiktoks-latest-disgusting-dating-trend/"
+        },
+        {
+          "title": "MedBound Times: Teen Trend 'Pheromone Maxxing': Social Media & Health Risks Explained",
+          "url": "https://www.medboundtimes.com/fitness-and-wellness/pheromone-maxxing-teens-health-social-media"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A TikTok trend called \"pheromone maxxing\" has {{caught on}} this month. Forbes reported on it on August 16, and other [[news outlets]] followed. Followers {{give up}} daily showers and {{go without}} [[deodorant]]. A few even drink [[urine]]. They believe soap and water {{wash off}} a natural \"musk\" of sex pheromones that attracts [[potential partners]]. The trend {{grew out of}} \"looksmaxxing,\" an older TikTok trend about improving your [[appearance]].",
+          "verbs": [
+            {
+              "display": "caught on",
+              "base": "catch on",
+              "correct": "To become popular quickly",
+              "wrong": "To reach the same level as others",
+              "correctFirst": true,
+              "why": "A new dance can catch on in a single weekend, and a slang word can catch on across a whole school. The pheromone maxxing trend caught on this month after Forbes first reported on it on August 16."
+            },
+            {
+              "display": "give up",
+              "base": "give up",
+              "correct": "To stop doing something",
+              "wrong": "To release a smell into the air",
+              "correctFirst": false,
+              "why": "Some people give up sugar for a month, and a runner may give up racing after an injury. People who follow this trend give up daily showers in the hope of smelling more attractive."
+            },
+            {
+              "display": "go without",
+              "base": "go without",
+              "correct": "To not use something you normally use",
+              "wrong": "To agree with what other people do",
+              "correctFirst": true,
+              "why": "A camper can go without hot water for a week, and a busy worker may go without lunch on a hard day. Followers of the trend go without deodorant because they think it hides a natural body musk."
+            },
+            {
+              "display": "wash off",
+              "base": "wash off",
+              "correct": "To remove something with water",
+              "wrong": "To slowly lose its effect over time",
+              "correctFirst": false,
+              "why": "Rain washes off the mud on a car, and a quick rinse washes off the soap in your hair. Trend followers believe soap and water wash off a natural musk that contains sex pheromones."
+            },
+            {
+              "display": "grew out of",
+              "base": "grow out of",
+              "correct": "To develop from something earlier",
+              "wrong": "To change from a child into an adult",
+              "correctFirst": true,
+              "why": "A big company can grow out of a small college project, and many festivals grow out of local traditions. Pheromone maxxing grew out of looksmaxxing, an older TikTok trend about looking as attractive as possible."
+            }
+          ]
+        },
+        {
+          "text": "The science does not {{hold up}}: in over 60 years of research, no human sex pheromone has been confirmed. A 2025 review called one chemical in male [[sweat]] \"[[inconclusive]].\" Experts {{point out}} that the organ other [[mammals]] use to detect pheromones is small and underdeveloped in humans. People also {{mix up}} the trend with the \"sweaty T-shirt\" studies, which found women prefer the [[body odor]] of men with different immune genes. That preference is real, but it does not attract partners, and hormonal [[birth control]] [[reverses]] it.",
+          "verbs": [
+            {
+              "display": "hold up",
+              "base": "hold up",
+              "correct": "To remain true when tested",
+              "wrong": "To keep information secret",
+              "correctFirst": false,
+              "why": "A weak excuse does not hold up when a parent asks questions, and a good theory holds up in experiment after experiment. Researchers say the science behind this trend does not hold up, since no human sex pheromone has ever been confirmed."
+            },
+            {
+              "display": "point out",
+              "base": "point out",
+              "correct": "To tell people an important fact",
+              "wrong": "To measure something in a study",
+              "correctFirst": true,
+              "why": "A teacher points out mistakes in an essay, and a friend points out that the deadline is tomorrow. Experts point out that the organ animals use to detect pheromones is small and probably underdeveloped in humans."
+            },
+            {
+              "display": "mix up",
+              "base": "mix up",
+              "correct": "To confuse two different things",
+              "wrong": "To invent a story that is not true",
+              "correctFirst": false,
+              "why": "People mix up the names of twins, and travelers mix up two cities with similar names. Part of the problem is that people mix up the trend with real research, like the sweaty T-shirt studies."
+            }
+          ]
+        },
+        {
+          "text": "Doctors warn of real health risks. When people stop washing, bacteria and sweat {{build up}} on the skin, and some {{come down with}} [[skin infections]], including fungal ones, or respiratory infections. Others buy [[unregulated]] \"pheromone\" oils and sprays and {{end up}} with [[allergic reactions]]. Drinking urine is worse: it contains [[waste products]] and harmful microbes. No evidence shows that avoiding [[hygiene]] increases pheromone effects. Feeling more attractive, experts say, is a [[boost]] in confidence, not body chemistry.",
+          "verbs": [
+            {
+              "display": "build up",
+              "base": "build up",
+              "correct": "To slowly collect in one place",
+              "wrong": "To suddenly appear on the skin",
+              "correctFirst": true,
+              "why": "Dust builds up on shelves nobody cleans, and ice builds up on a plane's wings in cold weather. When people stop washing, bacteria and sweat build up on the skin and can lead to infections."
+            },
+            {
+              "display": "come down with",
+              "base": "come down with",
+              "correct": "To become sick with an illness",
+              "wrong": "To think of a new idea or plan",
+              "correctFirst": false,
+              "why": "Half a class can come down with the flu in winter, and travelers often come down with a cold after a long flight. Some people who stop washing come down with skin infections, including fungal infections."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To reach a result you did not plan",
+              "wrong": "To accept something unpleasant",
+              "correctFirst": true,
+              "why": "A lost driver can end up in the wrong town, and a tired cook can end up ordering pizza again. A few people who buy unregulated pheromone sprays end up with allergic reactions."
+            }
+          ]
+        },
+        {
+          "text": "Many followers are teenagers, and researchers are not surprised. [[Adolescents]] are still {{figuring out}} who they are, and friends strongly influence them. A 2025 study on [[viral challenges]] described \"[[social proof]]\": when many people online seem to be doing something, it looks normal and safe. Teens then {{take up}} a challenge quickly and often {{buy into}} the idea behind it. Doctors' advice is simple: skipping showers will not help anyone find a partner. Hygiene still matters.",
+          "verbs": [
+            {
+              "display": "figuring out",
+              "base": "figure out",
+              "correct": "To understand after some thought",
+              "wrong": "To exercise to keep the body fit",
+              "correctFirst": false,
+              "why": "It can take an hour to figure out a paper map, and students spend years figuring out what to study. Researchers say adolescents are still figuring out who they are, so friends have a strong influence on what they do."
+            },
+            {
+              "display": "take up",
+              "base": "take up",
+              "correct": "To start doing an activity",
+              "wrong": "To look or act like a parent",
+              "correctFirst": true,
+              "why": "A retired father might take up painting, and more kids take up chess every year. When something looks normal and safe online, teens take up a challenge quickly."
+            },
+            {
+              "display": "buy into",
+              "base": "buy into",
+              "correct": "To believe an idea completely",
+              "wrong": "To bring a good result later",
+              "correctFirst": false,
+              "why": "Not everyone buys into the idea that money brings happiness, and many fans buy into rumors about their favorite band. Thanks to social proof, teens often buy into the idea behind a challenge."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Catch on",
+          "def": "To become popular quickly",
+          "ipa": "/kætʃ ɑn/",
+          "ex": [
+            "The new app caught on with students within weeks.",
+            "Nobody expected the dance to catch on so fast.",
+            "The nickname caught on, and now everyone uses it."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "def": "To stop doing something",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "He gave up sugar for a month.",
+            "She refuses to give up her morning run.",
+            "They gave up trying to fix the old printer."
+          ]
+        },
+        {
+          "verb": "Go without",
+          "def": "To not use something you normally use",
+          "ipa": "/ɡoʊ wɪˈðaʊt/",
+          "ex": [
+            "We went without hot water for two days.",
+            "I can go without coffee, but not for long.",
+            "The kids went without dessert because they skipped dinner."
+          ]
+        },
+        {
+          "verb": "Wash off",
+          "def": "To remove something with water",
+          "ipa": "/wɑʃ ɔf/",
+          "ex": [
+            "The rain washed off the mud from the car.",
+            "Make sure you wash off the soap completely.",
+            "The paint on her hands washed off easily."
+          ]
+        },
+        {
+          "verb": "Grow out of",
+          "def": "To develop from something earlier",
+          "ipa": "/ɡroʊ aʊt ʌv/",
+          "ex": [
+            "The company grew out of a small college project.",
+            "Many festivals grew out of local traditions.",
+            "Their friendship grew out of a shared love of music."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To remain true when tested",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "His story did not hold up when police checked it.",
+            "The theory holds up well in new experiments.",
+            "Cheap shoes rarely hold up through a whole winter."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people an important fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out that the deadline was tomorrow.",
+            "The teacher pointed out two mistakes in my essay.",
+            "He pointed out a small cafe across the street."
+          ]
+        },
+        {
+          "verb": "Mix up",
+          "def": "To confuse two different things",
+          "ipa": "/mɪks ʌp/",
+          "ex": [
+            "I always mix up the twins' names.",
+            "People often mix up the two cities.",
+            "The waiter mixed up our orders and brought me fish."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To slowly collect in one place",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "Dust builds up on the shelves if you never clean them.",
+            "Ice built up on the wings of the plane.",
+            "Traffic builds up on the bridge every evening."
+          ]
+        },
+        {
+          "verb": "Come down with",
+          "def": "To become sick with an illness",
+          "ipa": "/kʌm daʊn wɪð/",
+          "ex": [
+            "Half the class came down with the flu.",
+            "I think I'm coming down with a cold.",
+            "My sister came down with a fever on vacation."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To reach a result you did not plan",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We ended up eating pizza again.",
+            "If you drive that fast, you will end up in the hospital.",
+            "He studied law but ended up as a chef."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand after some thought",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "It took me an hour to figure out the map.",
+            "She finally figured out what she wants to study.",
+            "Can you figure out how to open this box?"
+          ]
+        },
+        {
+          "verb": "Take up",
+          "def": "To start doing an activity",
+          "ipa": "/teɪk ʌp/",
+          "ex": [
+            "My father took up painting after he retired.",
+            "More kids are taking up chess this year.",
+            "She took up the guitar during the summer."
+          ]
+        },
+        {
+          "verb": "Buy into",
+          "def": "To believe an idea completely",
+          "ipa": "/baɪ ˈɪntu/",
+          "ex": [
+            "I don't buy into the idea that money brings happiness.",
+            "Many fans bought into the rumor about the band.",
+            "Not everyone buys into the latest diet trend."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "news outlets",
+          "def": "Newspapers, websites, or channels that report the news",
+          "ipa": "/nuz ˈaʊtlɛts/",
+          "ex": [
+            "Several news outlets sent reporters to the fire.",
+            "Small news outlets often cover local elections best.",
+            "The minister spoke to three news outlets on Monday."
+          ]
+        },
+        {
+          "word": "deodorant",
+          "def": "A product you put under your arms to stop bad smells",
+          "ipa": "/diˈoʊdərənt/",
+          "ex": [
+            "I forgot to pack deodorant for the trip.",
+            "This deodorant has no strong perfume.",
+            "He bought a new deodorant at the pharmacy."
+          ]
+        },
+        {
+          "word": "urine",
+          "def": "The liquid waste that leaves the body",
+          "ipa": "/ˈjʊrɪn/",
+          "ex": [
+            "The doctor asked for a urine sample.",
+            "Dark urine can be a sign that you need more water.",
+            "The test checks for sugar in the urine."
+          ]
+        },
+        {
+          "word": "potential partners",
+          "def": "People someone might date or have a relationship with",
+          "ipa": "/pəˈtɛnʃəl ˈpɑrtnərz/",
+          "ex": [
+            "The app shows you potential partners who live nearby.",
+            "She met several potential partners at the dinner.",
+            "Many people judge potential partners by their photos."
+          ]
+        },
+        {
+          "word": "appearance",
+          "def": "The way a person looks",
+          "ipa": "/əˈpɪrəns/",
+          "ex": [
+            "He cares a lot about his appearance.",
+            "Her appearance changed after the haircut.",
+            "Judges should not decide based on appearance."
+          ]
+        },
+        {
+          "word": "sweat",
+          "def": "The salty liquid your skin produces when you are hot",
+          "ipa": "/swɛt/",
+          "ex": [
+            "Sweat was running down his face after the race.",
+            "This shirt dries sweat quickly.",
+            "Drink water to replace the sweat you lose."
+          ]
+        },
+        {
+          "word": "inconclusive",
+          "def": "Not giving a clear answer",
+          "ipa": "/ˌɪnkənˈklusɪv/",
+          "ex": [
+            "The test results were inconclusive, so they will repeat it.",
+            "Early evidence about the drug is inconclusive.",
+            "The talks ended with an inconclusive vote."
+          ]
+        },
+        {
+          "word": "mammals",
+          "def": "Animals that feed their babies with milk",
+          "ipa": "/ˈmæməlz/",
+          "ex": [
+            "Whales are mammals, not fish.",
+            "Most mammals have hair or fur.",
+            "Bats are the only mammals that can truly fly."
+          ]
+        },
+        {
+          "word": "body odor",
+          "def": "The natural smell of a person's body",
+          "ipa": "/ˈbɑdi ˈoʊdər/",
+          "ex": [
+            "Strong body odor can be a sign of a health problem.",
+            "Some fabrics trap body odor more than others.",
+            "Dogs can recognize their owner's body odor."
+          ]
+        },
+        {
+          "word": "birth control",
+          "def": "Methods used to prevent pregnancy",
+          "ipa": "/bɜrθ kənˈtroʊl/",
+          "ex": [
+            "The clinic offers free birth control.",
+            "They discussed birth control with their doctor.",
+            "Access to birth control varies from country to country."
+          ]
+        },
+        {
+          "word": "reverses",
+          "def": "Changes something to its opposite",
+          "ipa": "/rɪˈvɜrsɪz/",
+          "ex": [
+            "The new law reverses an earlier decision.",
+            "Exercise sometimes reverses the effects of a poor diet.",
+            "The court reverses very few of its own rulings."
+          ]
+        },
+        {
+          "word": "skin infections",
+          "def": "Illnesses caused by germs growing in the skin",
+          "ipa": "/skɪn ɪnˈfɛkʃənz/",
+          "ex": [
+            "Cuts should be cleaned to prevent skin infections.",
+            "Swimmers sometimes get skin infections from dirty pools.",
+            "The cream treats minor skin infections."
+          ]
+        },
+        {
+          "word": "unregulated",
+          "def": "Not checked or controlled by any official rules",
+          "ipa": "/ʌnˈrɛɡjəˌleɪtɪd/",
+          "ex": [
+            "Unregulated products can be dangerous.",
+            "The market for these pills is largely unregulated.",
+            "Many online sellers operate in an unregulated space."
+          ]
+        },
+        {
+          "word": "allergic reactions",
+          "def": "Bad responses of the body to something it touches or eats",
+          "ipa": "/əˈlɜrdʒɪk riˈækʃənz/",
+          "ex": [
+            "Peanuts cause allergic reactions in some children.",
+            "The nurse watched for allergic reactions after the shot.",
+            "New cosmetics can trigger allergic reactions."
+          ]
+        },
+        {
+          "word": "waste products",
+          "def": "Materials the body no longer needs",
+          "ipa": "/weɪst ˈprɑdʌkts/",
+          "ex": [
+            "The kidneys remove waste products from the blood.",
+            "Plants also produce waste products.",
+            "Sweat carries some waste products out of the body."
+          ]
+        },
+        {
+          "word": "hygiene",
+          "def": "Keeping yourself and your surroundings clean",
+          "ipa": "/ˈhaɪdʒin/",
+          "ex": [
+            "Good hygiene prevents many diseases.",
+            "The restaurant failed a hygiene inspection.",
+            "Hand hygiene is important in hospitals."
+          ]
+        },
+        {
+          "word": "boost",
+          "def": "An increase that makes something stronger",
+          "ipa": "/bust/",
+          "ex": [
+            "The win gave the team a boost.",
+            "A good breakfast is a boost for your energy.",
+            "The ad campaign gave sales a boost."
+          ]
+        },
+        {
+          "word": "adolescents",
+          "def": "Young people between childhood and adulthood",
+          "ipa": "/ˌædəˈlɛsənts/",
+          "ex": [
+            "Adolescents need more sleep than adults.",
+            "The program is designed for adolescents aged 13 to 17.",
+            "Many adolescents worry about how they look."
+          ]
+        },
+        {
+          "word": "viral challenges",
+          "def": "Online tasks that spread fast and many people copy",
+          "ipa": "/ˈvaɪrəl ˈtʃælɪndʒɪz/",
+          "ex": [
+            "Some viral challenges are harmless fun.",
+            "Schools warned parents about dangerous viral challenges.",
+            "Viral challenges often disappear after a few weeks."
+          ]
+        },
+        {
+          "word": "social proof",
+          "def": "The feeling that something is right because many people do it",
+          "ipa": "/ˈsoʊʃəl pruf/",
+          "ex": [
+            "Restaurants use long lines as social proof.",
+            "Online reviews work as social proof for shoppers.",
+            "Social proof explains why crowded stores attract more customers."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A viral TikTok trend tells people to skip showers so their natural scent will attract dates. Scientists say no human sex pheromone has been proven, and doctors warn the habit brings infections.",
+          "a": true,
+          "why": "No human sex pheromone has been confirmed in more than 60 years of research, and doctors link the habit to skin, fungal, and respiratory infections."
+        },
+        {
+          "s": "Researchers found that skipping showers really makes people smell more attractive, because sweat carries immune signals. Doctors still warn against the trend, since unwashed skin can cause infections.",
+          "a": false,
+          "why": "Close, but the science does not hold up. The sweaty T-shirt studies show a real preference, not a scent that attracts partners, and any benefit is likely psychological."
+        },
+        {
+          "s": "A TikTok skincare trend has teenagers buying strong anti-aging creams made for adults. Dermatologists report more young patients with rashes and damaged skin, and some brands now add age warnings.",
+          "a": false,
+          "why": "The trend is about skipping showers and deodorant to keep a natural scent. There are no anti-aging creams, dermatologists, or age warnings here."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Trend followers give up daily showers and deodorant.",
+          "a": true,
+          "why": "They believe soap and water wash off a natural musk that contains sex pheromones."
+        },
+        {
+          "s": "Scientists have confirmed a human sex pheromone.",
+          "a": false,
+          "why": "The science does not hold up. After more than 60 years of research, no human sex pheromone has been confirmed."
+        },
+        {
+          "s": "Doctors say drinking urine is safe.",
+          "a": false,
+          "why": "Drinking urine is worse than skipping showers, because it contains waste products and harmful microbes."
+        },
+        {
+          "s": "People mix up the trend with real body-odor research.",
+          "a": true,
+          "why": "The sweaty T-shirt studies found a real preference for certain body odors, but not a scent that directly attracts a partner."
+        },
+        {
+          "s": "Pheromone maxxing grew out of the sweaty T-shirt studies.",
+          "a": false,
+          "why": "The trend grew out of looksmaxxing, an older TikTok trend about improving your appearance. The sweaty T-shirt studies are separate research that people mix up with the trend."
+        },
+        {
+          "s": "Teens take up a challenge quickly once it looks normal online.",
+          "a": true,
+          "why": "When many people online seem to be doing something, it looks normal and safe, and teens often buy into the idea behind it."
+        }
+      ],
+      "dialogue": {
+        "lines": [
+          {
+            "s": "A",
+            "text": "Did you see this pheromone maxxing thing? People are {{giving up}} showers to smell more attractive."
+          },
+          {
+            "s": "B",
+            "text": "[[You can't make this stuff up]]. On purpose?"
+          },
+          {
+            "s": "A",
+            "text": "On purpose. They {{go without}} deodorant too, because they think soap {{washes off}} some natural musk that attracts partners."
+          },
+          {
+            "s": "B",
+            "text": "And that actually {{caught on}}? Does the science {{hold up}} at all?"
+          },
+          {
+            "s": "A",
+            "text": "Not really. Researchers {{point out}} that nobody has confirmed a human sex pheromone in 60 years of studies."
+          },
+          {
+            "s": "B",
+            "text": "So the whole idea [[doesn't pass the smell test]]. Where did it even come from?"
+          },
+          {
+            "s": "A",
+            "text": "It {{grew out of}} looksmaxxing. And people {{mix it up}} with those sweaty T-shirt studies, which were about something different."
+          },
+          {
+            "s": "B",
+            "text": "Using a T-shirt study to justify skipping showers is [[a stretch]]. And doesn't all that sweat just {{build up}}?"
+          },
+          {
+            "s": "A",
+            "text": "It does. Some people {{come down with}} skin infections, and others {{end up}} with allergic reactions from cheap sprays."
+          },
+          {
+            "s": "B",
+            "text": "So you could ruin your skin and still not find a date."
+          },
+          {
+            "s": "A",
+            "text": "That's what doctors say. If you feel more attractive after a week without soap, it's [[all in your head]], not your body chemistry."
+          },
+          {
+            "s": "B",
+            "text": "[[Count me out]], then. I'm not {{buying into}} any of it, and I'm keeping my shower."
+          },
+          {
+            "s": "A",
+            "text": "Neither am I. Though I get why teens {{take it up}}. They're still {{figuring out}} who they are, and friends have a big influence."
+          },
+          {
+            "s": "B",
+            "text": "[[Monkey see, monkey do]]. When everyone online is doing something, it starts to look normal."
+          }
+        ],
+        "verbMap": {
+          "giving up": "give up",
+          "go without": "go without",
+          "washes off": "wash off",
+          "caught on": "catch on",
+          "hold up": "hold up",
+          "point out": "point out",
+          "grew out of": "grow out of",
+          "mix it up": "mix up",
+          "build up": "build up",
+          "come down with": "come down with",
+          "end up": "end up",
+          "buying into": "buy into",
+          "take it up": "take up",
+          "figuring out": "figure out"
+        },
+        "expressions": [
+          {
+            "expr": "You can't make this stuff up",
+            "def": "Used when real news is so strange that it sounds invented",
+            "ex": [
+              "A cat got elected mayor of the town. You can't make this stuff up.",
+              "He missed his flight because he was watching a video about airports. You can't make this stuff up."
+            ]
+          },
+          {
+            "expr": "doesn't pass the smell test",
+            "def": "Seems wrong or hard to believe, even before you check the details",
+            "ex": [
+              "A free phone if I just give them my bank details? That doesn't pass the smell test.",
+              "His excuse for being late doesn't pass the smell test."
+            ]
+          },
+          {
+            "expr": "a stretch",
+            "def": "A claim or idea that goes further than the facts really allow",
+            "ex": [
+              "Calling that tiny room a studio apartment is a stretch.",
+              "Saying she's fluent after one course is a stretch."
+            ]
+          },
+          {
+            "expr": "all in your head",
+            "def": "Something that exists only in your mind, not in reality",
+            "ex": [
+              "The doctor found nothing wrong, so maybe the pain is all in your head.",
+              "You think everyone is staring at you, but it's all in your head."
+            ]
+          },
+          {
+            "expr": "Count me out",
+            "def": "Used to say you refuse to take part in something",
+            "ex": [
+              "If the trip means camping in the rain, count me out.",
+              "A midnight hike? Count me out."
+            ]
+          },
+          {
+            "expr": "Monkey see, monkey do",
+            "def": "People copy what they see others doing, without thinking about it",
+            "ex": [
+              "My little brother copies everything I do. Monkey see, monkey do.",
+              "One kid jumped in the fountain and five more followed. Monkey see, monkey do."
+            ]
+          }
+        ]
+      }
+    },
     {
       "id": "2016-nostalgia-wave-2026",
       "number": 91,
@@ -23,8 +2641,8 @@
           "url": "https://centraljersey.com/2026/08/04/2026-is-the-new-2016-nostalgia-trend/"
         },
         {
-          "title": "Zara Larsson on her viral 'Lush Life' dance trend (video, Jennifer Hudson Show)",
-          "url": "https://www.youtube.com/watch?v=fUlg--jEj-M"
+          "title": "Is it 2026 or 2016? Social media users turn back the clock in viral trend (video, ABC News)",
+          "url": "https://www.youtube.com/watch?v=BBvzfjwMfFA"
         }
       ],
       "chunks": [
@@ -518,32 +3136,32 @@
       ],
       "tf": [
         {
-          "s": "Videos under the 2016 hashtag grew by more than 450 percent",
+          "s": "Videos under the 2016 hashtag grew by more than 450 percent.",
           "a": true,
           "why": "The tag blew up in January, and searches for 2016 songs jumped 290 percent."
         },
         {
-          "s": "A 2016 pop hit re-entered the British charts at number eight",
+          "s": "A 2016 pop hit re-entered the British charts at number eight.",
           "a": true,
           "why": "A viral dance carried Lush Life back onto the lists a full decade after its release."
         },
         {
-          "s": "The article says 2016 fashion stayed popular without a break for ten years",
+          "s": "Lush Life returned to the charts thanks to a new movie.",
           "a": false,
-          "why": "Chokers and skinny jeans came back after years away, and the mannequin challenge returned from the dead."
+          "why": "A viral dance carried Zara Larsson's 2016 hit Lush Life back onto the British and American charts."
         },
         {
-          "s": "Today's teenagers lead the trend partly because they missed out on 2016",
+          "s": "Today's teenagers were small children in 2016.",
           "a": true,
-          "why": "They were small children then, so they are enjoying the fun for the first time."
+          "why": "Today's teenagers were small children in 2016, so they missed out on the fun the first time."
         },
         {
-          "s": "Experts say the nostalgia cycle is getting slower",
+          "s": "Experts say the nostalgia cycle is getting slower.",
           "a": false,
           "why": "It is speeding up, and fans now look back at a decade-old year while its stars still tour."
         },
         {
-          "s": "The article says the videos show everything about 2016, good and bad",
+          "s": "The article says the videos show everything about 2016, good and bad.",
           "a": false,
           "why": "It warns that the rerun looks better than the original because the videos leave out the bad days."
         }
@@ -723,8 +3341,8 @@
           "url": "https://www.techradar.com/ai-platforms-assistants/ai-slop-won-in-2025-fingerprinting-real-content-might-be-the-answer-in-2026"
         },
         {
-          "title": "AI Slop Is Destroying The Internet (video, Kurzgesagt)",
-          "url": "https://www.youtube.com/watch?v=_zfN9wnPvU0"
+          "title": "AI news videos blur line between real and fake reports (video, NBC News)",
+          "url": "https://www.youtube.com/watch?v=SRA4brHXBBQ"
         }
       ],
       "chunks": [
@@ -1182,32 +3800,32 @@
       ],
       "tf": [
         {
-          "s": "AI tools can pump out fake content faster than any human could type",
+          "s": "AI tools can pump out fake content faster than any human could type.",
           "a": true,
           "why": "That speed, plus a cost near zero, is why slop factories treat fakes like a business."
         },
         {
-          "s": "Making AI slop is expensive, so only big companies produce it",
+          "s": "Making AI slop is expensive, so only big companies produce it.",
           "a": false,
           "why": "It costs almost nothing to make, and one viral hit can rake in more than a month of honest work."
         },
         {
-          "s": "Hands with six fingers can give away a fake image",
+          "s": "Hands with six fingers can give away a fake image.",
           "a": true,
           "why": "Experts say to look out for strange hands, melted letters, and details that do not add up."
         },
         {
-          "s": "The article says the flood of slop will die down within weeks",
+          "s": "The article says the flood of slop will die down within weeks.",
           "a": false,
           "why": "As long as fake views earn real money, the flood will not die down soon."
         },
         {
-          "s": "The best defense against slop costs a lot of money",
+          "s": "The best defense against slop costs a lot of money.",
           "a": false,
           "why": "It costs nothing. Just scroll past strange videos without a second look."
         },
         {
-          "s": "Every click on a fake post can mean advertising money for its creator",
+          "s": "Every click on a fake post can mean advertising money for its creator.",
           "a": true,
           "why": "Millions fall for the images and share them, and platforms reward popular posts with payments."
         }
@@ -1381,8 +3999,8 @@
           "url": "https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood"
         },
         {
-          "title": "Nepal flash flood: dramatic footage shows Rasuwa valley engulfed (video, Euronews)",
-          "url": "https://www.youtube.com/watch?v=jWhUxG9pkx0"
+          "title": "Recovery efforts underway for hundreds missing after Nepal flash flood (video, ABC News)",
+          "url": "https://www.youtube.com/watch?v=5qsA8gF5TNg"
         }
       ],
       "chunks": [
@@ -1876,32 +4494,32 @@
       ],
       "tf": [
         {
-          "s": "A mass of ice and rock broke off a mountainside and set off the flood",
+          "s": "A mass of ice and rock broke off a mountainside and set off the flood.",
           "a": true,
           "why": "It fell in a national park near the border with China, and the flood followed within minutes."
         },
         {
-          "s": "Scientists far away picked up the shaking from the collapse",
+          "s": "Scientists far away picked up the shaking from the collapse.",
           "a": true,
           "why": "The event released as much energy as a magnitude 5.2 earthquake, according to the USGS."
         },
         {
-          "s": "All of the missing people are citizens of Nepal",
+          "s": "All of the missing people are citizens of Nepal.",
           "a": false,
           "why": "More than half of the roughly 1,500 missing are foreigners, including Indian pilgrims and dozens of Americans."
         },
         {
-          "s": "Some villages were cut off because bridges and the main highway were destroyed",
+          "s": "Some villages were cut off because bridges and the main highway were destroyed.",
           "a": true,
           "why": "That is why aid cannot get through to many places, even though helicopters pulled out more than 120 people."
         },
         {
-          "s": "The rescue teams have never had to stop their work",
+          "s": "The rescue teams have never had to stop their work.",
           "a": false,
           "why": "They had to call off operations for a time when a lake formed by the debris began to overflow."
         },
         {
-          "s": "Officials expected the death toll to go up",
+          "s": "Officials expected the death toll to go up.",
           "a": true,
           "why": "By Friday more than 540 deaths were counted in Nepal, with many areas still impossible to reach."
         }
@@ -2532,34 +5150,34 @@
       ],
       "tf": [
         {
-          "s": "Parton put off dealing with her own health while she looked after her husband",
+          "s": "Parton put off dealing with her own health while she looked after her husband.",
           "a": true,
           "why": "She told a magazine this only days before her death. Her husband died last year."
         },
         {
-          "s": "She grew up in a rich family in Nashville",
+          "s": "She grew up in a rich family in Nashville.",
           "a": false,
           "why": "She grew up poor in the mountains of Tennessee and started out singing as a young girl."
         },
         {
-          "s": "Through her Imagination Library, she gave away free books to children",
+          "s": "Through her Imagination Library, she gave away free books to children.",
           "a": true,
           "why": "Children received a book every month from birth to age five."
         },
         {
-          "s": "She stepped in during the pandemic with money for medical research",
+          "s": "She stepped in during the pandemic with money for medical research.",
           "a": true,
           "why": "Her one million dollar gift helped create a Covid vaccine."
         },
         {
-          "s": "There will be a large public funeral in her theme park",
+          "s": "There will be a large public funeral in her theme park.",
           "a": false,
           "why": "At her request, only close family will attend a small private service."
         },
         {
-          "s": "The article says her projects will end now that she is gone",
+          "s": "Dollywood will close now that Parton has died.",
           "a": false,
-          "why": "The opposite. Her music, her park, and her books will carry on without her."
+          "why": "Her music, her park, and her books will carry on without her."
         }
       ],
       "dialogue": {
@@ -3167,32 +5785,32 @@
       ],
       "tf": [
         {
-          "s": "The CIA director touched down in Moscow on a regular passenger airline",
+          "s": "The CIA director touched down in Moscow on a regular passenger airline.",
           "a": false,
           "why": "He flew on a C-17, a military transport plane, and stopped over in Riga on the way."
         },
         {
-          "s": "Public flight data gave away the secret trip",
+          "s": "Public flight data gave away the secret trip.",
           "a": true,
           "why": "Flight trackers followed the plane's path across Europe, and the news came out within hours."
         },
         {
-          "s": "The CIA director sat down with President Putin himself",
+          "s": "The CIA director sat down with President Putin himself.",
           "a": false,
           "why": "He met the head of Russia's foreign intelligence service. Putin did not attend the talks."
         },
         {
-          "s": "President Trump played down the importance of the visit",
+          "s": "President Trump played down the importance of the visit.",
           "a": true,
           "why": "He called it \"sort of semi-routine,\" though experts said such trips almost never happen."
         },
         {
-          "s": "Washington asked Ukraine to hold off on strikes against two Russian cities",
+          "s": "Washington asked Ukraine to hold off on strikes against two Russian cities.",
           "a": true,
           "why": "The request covered Moscow and St. Petersburg until the American delegation left."
         },
         {
-          "s": "According to the article, peace talks are finally moving quickly",
+          "s": "According to the article, peace talks are finally moving quickly.",
           "a": false,
           "why": "The opposite. The war drags on, and the talks have made no progress for months."
         }
@@ -3325,8 +5943,8 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games"
         },
         {
-          "title": "Historic first as Chinese robot beats Usain Bolt's 100m world record at Beijing games (video, BBC News)",
-          "url": "https://www.youtube.com/watch?v=FGBLzMESBAo"
+          "title": "Humanoid robots smash human records in 100m sprint at robot games (video, ABC7)",
+          "url": "https://www.youtube.com/watch?v=3Y9E2CcMTFk"
         }
       ],
       "chunks": [
@@ -3820,32 +6438,32 @@
       ],
       "tf": [
         {
-          "s": "A robot ran 100 meters faster than Usain Bolt's world record",
+          "s": "A robot ran 100 meters faster than Usain Bolt's world record.",
           "a": true,
           "why": "The winning robot finished in 9.39 seconds, quicker than Bolt's 9.58 from 2009."
         },
         {
-          "s": "The winning robot stopped perfectly at the finish line",
+          "s": "The winning robot stopped perfectly at the finish line.",
           "a": false,
           "why": "It ended up in a padded wall because it could not stop in time."
         },
         {
-          "s": "Robots took on each other in 51 different events",
+          "s": "Robots took on each other in 51 different events.",
           "a": true,
           "why": "The events ranged from soccer and table tennis to weightlifting and tug of war."
         },
         {
-          "s": "Every robot that fell over had to be carried off the track",
+          "s": "Every robot that fell over had to be carried off the track.",
           "a": false,
           "why": "Some got up by themselves and kept going, which impressed the crowd most of all."
         },
         {
-          "s": "Experts say humanoid robots are ready to replace human workers now",
+          "s": "Experts say humanoid robots are ready to replace human workers now.",
           "a": false,
           "why": "Most are still used for shows, research, and demonstrations, not for daily jobs."
         },
         {
-          "s": "China produces most of the world's humanoid robots",
+          "s": "China produces most of the world's humanoid robots.",
           "a": true,
           "why": "About 82 percent, and its robot industry has taken off with government support."
         }
@@ -4457,34 +7075,34 @@
       ],
       "tf": [
         {
-          "s": "The skin can pick up a finger that has not touched it yet",
+          "s": "The skin can pick up a finger that has not touched it yet.",
           "a": true,
           "why": "It can notice a finger that only comes near the surface, before any contact happens."
         },
         {
-          "s": "Engineers can turn up the skin's sensitivity with an electric signal",
+          "s": "Engineers can turn up the skin's sensitivity with an electric signal.",
           "a": true,
           "why": "They adjust it with a small electric signal, like raising the volume on a speaker."
         },
         {
-          "s": "The skin wore out after a few hundred touches",
+          "s": "The skin wore out after a few hundred touches.",
           "a": false,
           "why": "It went through more than one thousand touch tests and kept working without wearing out."
         },
         {
-          "s": "The results came out in a science journal this year",
+          "s": "The results came out in a science journal this year.",
           "a": true,
           "why": "The results came out this year in the journal Nano Energy."
         },
         {
-          "s": "The scientists have already covered a whole robot arm",
+          "s": "The scientists have already covered a whole robot arm.",
           "a": false,
           "why": "They are still figuring out how to cover a whole arm instead of one small patch."
         },
         {
-          "s": "The article says the technology has already taken off in stores",
+          "s": "The skin reacts in about one second.",
           "a": false,
-          "why": "It says IF the technology takes off, robots and artificial hands could improve. It is still research."
+          "why": "It reacts in about one tenth of a second, almost as fast as human skin."
         }
       ],
       "dialogue": {
@@ -5108,32 +7726,32 @@
       ],
       "tf": [
         {
-          "s": "Each dose of the vaccine is put together for one single patient",
+          "s": "Each dose of the vaccine is put together for one single patient.",
           "a": true,
           "why": "Scientists read the tumor's genetic code and pick out up to 34 mutations for that patient's shot."
         },
         {
-          "s": "The vaccine was designed to work alone, without any other drug",
+          "s": "Patients in the trial got the vaccine on its own, without any other drug.",
           "a": false,
-          "why": "It was tested together with Keytruda, and the combination beat the drug alone."
+          "why": "Patients received the vaccine together with Keytruda, a famous cancer drug, and they stayed cancer-free longer than patients who got the drug alone."
         },
         {
-          "s": "In the trial, patients who got the vaccine stayed cancer-free longer",
+          "s": "In the trial, patients who got the vaccine stayed cancer-free longer.",
           "a": true,
           "why": "The melanoma also spread less, and for many patients it has not come back at all."
         },
         {
-          "s": "The companies plan to wait ten years before offering the treatment",
+          "s": "The companies plan to wait ten years before offering the treatment.",
           "a": false,
           "why": "They hope to roll it out to thousands of patients as early as next year."
         },
         {
-          "s": "Doctors already know exactly how long the protection lasts",
+          "s": "Doctors already know exactly how long the protection lasts.",
           "a": false,
           "why": "That is still unknown. Experts will go over the full numbers at a coming medical meeting."
         },
         {
-          "s": "Researchers want to take on other cancers with the same method",
+          "s": "Researchers want to take on other cancers with the same method.",
           "a": true,
           "why": "Lung, kidney, and pancreatic cancer are next on the list."
         }
@@ -5746,32 +8364,32 @@
       ],
       "tf": [
         {
-          "s": "Rage bait relies on the fact that angry people click and share more",
+          "s": "Rage bait relies on the fact that angry people click and share more.",
           "a": true,
           "why": "That is the engine. Every furious reply pushes the post higher in the feed."
         },
         {
-          "s": "Use of the term rage bait tripled in twelve months",
+          "s": "Use of the term rage bait tripled in twelve months.",
           "a": true,
           "why": "That growth helped it beat aura farming and biohack for word of the year."
         },
         {
-          "s": "The idea of rage bait first appeared in 2025",
+          "s": "The idea of rage bait first appeared in 2025.",
           "a": false,
           "why": "The term first appeared in an online forum back in 2002. Only the fame is new."
         },
         {
-          "s": "Readers who pile on in the comments make the post weaker",
+          "s": "Readers who pile on in the comments make the post weaker.",
           "a": false,
           "why": "Every reply is fuel. The crowd winds up paying the creator with attention."
         },
         {
-          "s": "Some rage baiters admit they do not believe their own posts",
+          "s": "Some rage baiters admit they do not believe their own posts.",
           "a": true,
           "why": "The outrage they stir up is real, but the opinion often is not."
         },
         {
-          "s": "Experts say the best response to rage bait is a long, angry reply",
+          "s": "Experts say the best response to rage bait is a long, angry reply.",
           "a": false,
           "why": "They say to hold back, pass up the argument, and simply log off."
         }
@@ -6390,32 +9008,32 @@
       ],
       "tf": [
         {
-          "s": "The debt is piling up faster, with the last trillion arriving in about five months",
+          "s": "The debt is piling up faster, with the last trillion arriving in about five months.",
           "a": true,
           "why": "The pace is speeding up: the last trillion arrived in only about five months."
         },
         {
-          "s": "The government spends less than it takes in each year",
+          "s": "The government spends less than it takes in each year.",
           "a": false,
           "why": "It is the opposite. The government takes in far less in taxes than it spends, and the gap is over two trillion a year."
         },
         {
-          "s": "The government sets aside almost nothing each year to pay interest on the debt",
+          "s": "The government sets aside almost nothing each year to pay interest on the debt.",
           "a": false,
           "why": "The government must set aside more than one trillion dollars from its budget every year just to pay interest."
         },
         {
-          "s": "Families who take out a home loan now pay a rate near 6.7 percent",
+          "s": "Families who take out a home loan now pay a rate near 6.7 percent.",
           "a": true,
           "why": "The article says the average rate on a 30-year US home loan is now near 6.7 percent."
         },
         {
-          "s": "Experts say leaders keep putting off the hard choices",
+          "s": "The country's leaders keep putting off the hard choices.",
           "a": true,
-          "why": "Experts from both parties call the path unsustainable, and the country's leaders keep putting off the hard choices."
+          "why": "So far, the country's leaders keep putting off the hard choices, and the longer they wait, the more expensive the fix becomes."
         },
         {
-          "s": "The article says the debt will go away on its own",
+          "s": "The article says the debt will go away on its own.",
           "a": false,
           "why": "It says the opposite. The problem will not go away on its own, and waiting makes the fix more expensive."
         }
@@ -7020,34 +9638,34 @@
       ],
       "tf": [
         {
-          "s": "The trial is over, and the court has already made Meta do away with likes",
+          "s": "The trial is over, and the court has already made Meta do away with likes.",
           "a": false,
           "why": "The trial began in mid-August and is expected to go on for about six weeks. Nothing has been decided yet."
         },
         {
-          "s": "Four US states have teamed up to take on Meta in court",
+          "s": "Four US states have teamed up to take on Meta in court.",
           "a": true,
           "why": "Four US states teamed up to take on Meta in a federal court in California."
         },
         {
-          "s": "The states demand up to 1.4 trillion dollars",
+          "s": "The states demand up to 1.4 trillion dollars.",
           "a": true,
           "why": "They demand up to 1.4 trillion dollars, one of the largest amounts ever requested in a US court."
         },
         {
-          "s": "Instead of pushing back, Meta agrees its features were built to hook children",
+          "s": "Instead of pushing back, Meta agrees its features were built to hook children.",
           "a": false,
           "why": "Meta pushes back hard. It stands by its record and says it built strong protections for teens."
         },
         {
-          "s": "The states say notifications that pop up at all hours help draw in young users",
+          "s": "Likes and other small rewards draw in teenagers and keep them scrolling.",
           "a": true,
-          "why": "Notifications pop up on the screen at all hours, and likes and other small rewards draw in teenagers."
+          "why": "Likes and other small rewards draw in teenagers and keep them scrolling."
         },
         {
-          "s": "The result of the case matters only to Meta",
+          "s": "The trial is expected to go on for about six months.",
           "a": false,
-          "why": "A loss could change how social media looks and feels for everyone, and the whole tech world is watching."
+          "why": "The trial is expected to go on for about six weeks."
         }
       ],
       "dialogue": {
@@ -7626,32 +10244,32 @@
       ],
       "tf": [
         {
-          "s": "Waymo takes out the Chinese software and puts in its own system in Arizona",
+          "s": "Waymo takes out the Chinese software and puts in its own system in Arizona.",
           "a": true,
           "why": "Waymo takes out the Chinese internet software and puts in its own self-driving system at a factory in Arizona."
         },
         {
-          "s": "Riders can already pick out the exact model they want",
+          "s": "Riders can already pick out the exact model they want.",
           "a": false,
           "why": "For now, the app decides which car arrives. Picking a model will come later."
         },
         {
-          "s": "The Ojai costs more to build and run than the older Jaguar cars",
+          "s": "The Ojai costs more to build and run than the older Jaguar cars.",
           "a": false,
           "why": "It is the opposite. Each van is cheaper to build and run than the Jaguars."
         },
         {
-          "s": "About 300 of the new vans are on the road",
+          "s": "About 300 of the new vans are on the road.",
           "a": true,
           "why": "The article says about 300 of the new vans are on the road today."
         },
         {
-          "s": "Waymo has no plans to roll out the service anywhere new",
+          "s": "Waymo has no plans to roll out the service anywhere new.",
           "a": false,
           "why": "The company plans to roll out the service in Denver, Las Vegas, and San Diego later this year."
         },
         {
-          "s": "Import taxes push up the price of each van",
+          "s": "Import taxes push up the price of each van.",
           "a": true,
           "why": "The vans cross the ocean from China, and import taxes push up the price of every one."
         }
@@ -8280,32 +10898,32 @@
       ],
       "tf": [
         {
-          "s": "Tourists with metal detectors came across the gold on a beach",
+          "s": "Tourists with metal detectors came across the gold on a beach.",
           "a": false,
           "why": "A construction crew found it while laying sewer pipes under an old building in Dendermonde."
         },
         {
-          "s": "The bars and coins come to about nine million euros",
+          "s": "The bars and coins come to about nine million euros.",
           "a": true,
           "why": "Together, the treasure comes to about nine million euros, or more than ten million dollars."
         },
         {
-          "s": "The workers handed the treasure over to the police",
+          "s": "The workers handed the treasure over to the police.",
           "a": true,
           "why": "They called the police at once and handed over every last coin to the officers."
         },
         {
-          "s": "Treasure hunters can still get into the site, which has not been fenced off",
+          "s": "Treasure hunters can still get into the site, which has not been fenced off.",
           "a": false,
           "why": "The site is fenced off, and police warned that digging there would be pointless."
         },
         {
-          "s": "Nobody knows yet who the gold belongs to",
+          "s": "Nobody knows yet who the gold belongs to.",
           "a": true,
           "why": "The building belongs to a charity today, but nobody knows who hid the treasure, or when."
         },
         {
-          "s": "The gold ended up on display in a town museum",
+          "s": "The gold ended up on display in a town museum.",
           "a": false,
           "why": "The treasure was moved to a high-security government vault, where it is locked away."
         }
@@ -8882,32 +11500,32 @@
       ],
       "tf": [
         {
-          "s": "The researchers put together photos of only happy and angry faces",
+          "s": "The researchers put together photos of only happy and angry faces.",
           "a": false,
           "why": "The team put together sets of photos showing four feelings: happiness, anger, fear, and sadness."
         },
         {
-          "s": "Every dog went through training so it could lie still and stay awake in the scanner",
+          "s": "Every dog went through training so it could lie still and stay awake in the scanner.",
           "a": true,
           "why": "Each dog went through careful training so it could lie still and stay awake inside the scanner."
         },
         {
-          "s": "A reward area deep in the brain lit up when dogs saw happy faces",
+          "s": "A reward area deep in the brain lit up when dogs saw happy faces.",
           "a": true,
           "why": "When dogs saw a happy face, a reward area lit up: the same area that becomes active for food and play."
         },
         {
-          "s": "The team signed up street dogs that had no owners",
+          "s": "The team signed up street dogs that had no owners.",
           "a": false,
           "why": "The team signed up 12 friendly family dogs whose owners wanted to help."
         },
         {
-          "s": "The scans suggest dogs can pick up on the difference between fear and sadness",
+          "s": "The scans suggest dogs can pick up on the difference between fear and sadness.",
           "a": true,
           "why": "The scans showed dogs could make out the difference between fear and sadness, two feelings even people sometimes confuse."
         },
         {
-          "s": "Dogs understand people through faces alone, and nothing else matters",
+          "s": "Dogs understand people through faces alone, and nothing else matters.",
           "a": false,
           "why": "The article says dogs also read body language, voices, and smell."
         }
@@ -9508,32 +12126,32 @@
       ],
       "tf": [
         {
-          "s": "The earthquake had a magnitude of 7.4",
+          "s": "The earthquake had a magnitude of 7.4.",
           "a": true,
           "why": "The article says the quake had a magnitude of 7.4, one of the strongest in the country's modern history."
         },
         {
-          "s": "The shaking was felt only inside Colombia",
+          "s": "The shaking was felt only inside Colombia.",
           "a": false,
           "why": "People also felt the shaking in Ecuador and Panama."
         },
         {
-          "s": "Landslides left some villages completely cut off",
+          "s": "Landslides left some villages completely cut off.",
           "a": true,
           "why": "The quake set off landslides that buried the roads, leaving villages with no cars, no trucks, and no help."
         },
         {
-          "s": "Rescue teams can get through to every village quickly by road",
+          "s": "Rescue teams can get through to every village quickly by road.",
           "a": false,
           "why": "The roads are buried. Reaching the smallest towns can take days, and helicopters may be the only way in."
         },
         {
-          "s": "Officials say the number of dead cannot go up anymore",
+          "s": "Officials say the number of dead cannot go up anymore.",
           "a": false,
           "why": "More than 140 people are still missing, so officials fear the number may go up."
         },
         {
-          "s": "The government stepped in within hours and declared a state of emergency",
+          "s": "The government stepped in within hours and declared a state of emergency.",
           "a": true,
           "why": "The government stepped in within hours. Aid workers hand out clean water, food, and blankets."
         }
@@ -10169,32 +12787,32 @@
       ],
       "tf": [
         {
-          "s": "The tags send back their data while the shark is deep underwater",
+          "s": "The tags send back their data while the shark is deep underwater.",
           "a": false,
           "why": "The tags send back measurements by satellite whenever the shark comes up to the surface."
         },
         {
-          "s": "Makos come up to the surface about twice a day",
+          "s": "Makos come up to the surface about twice a day.",
           "a": true,
           "why": "The article says makos visit the surface about twice a day, which gives the tags a chance to call home."
         },
         {
-          "s": "The project is starting out with thousands of tagged sharks",
+          "s": "The project is starting out with thousands of tagged sharks.",
           "a": false,
           "why": "It is starting out small, with only a handful of tagged sharks so far."
         },
         {
-          "s": "Storms feed on warm water, and a warm patch can set off rapid growth",
+          "s": "Storms feed on warm water, and a warm patch can set off rapid growth.",
           "a": true,
           "why": "Storms feed on heat near the surface, and a warm patch can set off rapid growth in a passing storm."
         },
         {
-          "s": "The sensors measure temperature, depth, and saltiness",
+          "s": "The sensors measure temperature, depth, and saltiness.",
           "a": true,
           "why": "Small sensors on the sharks' fins measure the temperature, depth, and saltiness of the water."
         },
         {
-          "s": "A research robot never breaks down, and a buoy can follow storms around the sea",
+          "s": "A research robot never breaks down, and a buoy can follow storms around the sea.",
           "a": false,
           "why": "Robots can break down, and a buoy stays in one place. That is why swimming sharks are so useful."
         }
@@ -10802,32 +13420,32 @@
       ],
       "tf": [
         {
-          "s": "People who moved to more walkable cities ended up walking about 1,100 extra steps a day",
+          "s": "People who moved to more walkable cities ended up walking about 1,100 extra steps a day.",
           "a": true,
           "why": "One large study found that people who moved to more walkable cities ended up walking about 1,100 extra steps every day."
         },
         {
-          "s": "The extra steps add up to almost an hour of movement a week",
+          "s": "The extra steps add up to almost an hour of movement a week.",
           "a": true,
           "why": "The article says those daily steps add up to almost one extra hour of movement every week."
         },
         {
-          "s": "The NIH put out a newsletter saying street design has no effect on health",
+          "s": "The NIH put out a newsletter saying street design has no effect on health.",
           "a": false,
           "why": "It is the opposite. The newsletter's big question is whether street design can make you healthier, and the answer seems to be yes."
         },
         {
-          "s": "Neighbors in the Stanford project team up and send in photos through a phone app",
+          "s": "Neighbors in the Stanford project team up and send in photos through a phone app.",
           "a": true,
           "why": "Residents team up, walk their streets, point out problems, and send in photos to city planners through a phone app."
         },
         {
-          "s": "Regular walking raises the risk of high blood pressure",
+          "s": "Regular walking raises the risk of high blood pressure.",
           "a": false,
           "why": "It is the opposite. The article says walking lowers the risk of heart disease, diabetes, high blood pressure, and depression."
         },
         {
-          "s": "Residents have no way to point out problems to city leaders",
+          "s": "Residents have no way to point out problems to city leaders.",
           "a": false,
           "why": "In the Stanford project, residents point out problems to local leaders, like missing crosswalks and dark corners."
         }
@@ -11473,32 +14091,32 @@
       ],
       "tf": [
         {
-          "s": "The team carried out a study with 120 people, and 50 of them had depression",
+          "s": "The team carried out a study with 120 people, and 50 of them had depression.",
           "a": true,
           "why": "The study included 120 people: 50 with depression and 70 without."
         },
         {
-          "s": "Healthy players walked away from their trees sooner than players with depression",
+          "s": "Healthy players walked away from their trees sooner than players with depression.",
           "a": false,
           "why": "It was the opposite. Healthy players held out until a tree was almost empty, and players with depression left much sooner."
         },
         {
-          "s": "US regulators have already given the game official approval as a medical device",
+          "s": "US regulators have already given the game official approval as a medical device.",
           "a": false,
           "why": "The team plans to ask regulators for approval, but the game has not received it yet."
         },
         {
-          "s": "Seeing cheap snacks over and over brought down the price healthy players expected to pay",
+          "s": "Seeing cheap snacks over and over brought down the price healthy players expected to pay.",
           "a": true,
           "why": "Healthy players slowly changed their minds after seeing the cheapest items, but players with depression stuck with their first numbers."
         },
         {
-          "s": "The whole test takes about three minutes on a phone",
+          "s": "The whole test takes about three minutes on a phone.",
           "a": true,
           "why": "The article says the game takes about three minutes on a phone."
         },
         {
-          "s": "The game is meant to work alone, without any doctors",
+          "s": "The game is meant to work alone, without any doctors.",
           "a": false,
           "why": "The game's job is to back up a doctor's opinion, not to replace the doctor. It cannot rule out that a player is just tired or stressed."
         }
@@ -12153,32 +14771,32 @@
       ],
       "tf": [
         {
-          "s": "The study took in more than 12,000 adults and followed them for about 26 years",
+          "s": "The study took in more than 12,000 adults and followed them for about 26 years.",
           "a": true,
           "why": "A long American study took in 12,409 adults who started off with no sign of dementia. Researchers kept track of them for about 26 years."
         },
         {
-          "s": "The gap between the two groups adds up to roughly 13 years",
+          "s": "The gap between the two groups adds up to roughly 13 years.",
           "a": true,
           "why": "The gap adds up to roughly 13 years."
         },
         {
-          "s": "The study proves that smoking, high blood pressure, and diabetes are the direct causes of dementia",
+          "s": "The study proves that smoking, high blood pressure, and diabetes are the direct causes of dementia.",
           "a": false,
           "why": "The article says this is observational work, so it cannot prove these habits directly cause dementia."
         },
         {
-          "s": "The study can single out which of the three factors matters most",
+          "s": "The study can single out which of the three factors matters most.",
           "a": false,
           "why": "The three factors were measured together, so the study cannot single out which one matters most."
         },
         {
-          "s": "Adults with none of the three risks went on to live about 30 years without dementia",
+          "s": "Adults with none of the three risks went on to live about 30 years without dementia.",
           "a": true,
           "why": "Adults who had none of the three in middle age went on to live about 30 years without dementia after the study began."
         },
         {
-          "s": "The results were published in the journal Neurology on August 5",
+          "s": "The results were published in the journal Neurology on August 5.",
           "a": true,
           "why": "the results were published in the journal Neurology on August 5"
         }
@@ -12798,32 +15416,32 @@
       ],
       "tf": [
         {
-          "s": "The argument kicked off on July 28",
+          "s": "The argument kicked off on July 28.",
           "a": true,
           "why": "An argument kicked off on July 28, when a short advertisement for an AI assistant called Orchid appeared online."
         },
         {
-          "s": "The video blew up and reached more than three million views",
+          "s": "The video blew up and reached more than three million views.",
           "a": true,
           "why": "It reached 3.2 million views and more than 600 replies in a few days."
         },
         {
-          "s": "A licensed therapist spoke out in support of the app",
+          "s": "A licensed therapist spoke out in support of the app.",
           "a": false,
           "why": "A licensed therapist spoke out too. She warned that texting a machine instead of your partner is a form of triangulation."
         },
         {
-          "s": "The company backed down and deleted the anniversary advertisement",
+          "s": "The company backed down and deleted the anniversary advertisement.",
           "a": false,
           "why": "The company has not backed down."
         },
         {
-          "s": "A second advertisement about food allergens was quietly deleted",
+          "s": "A second advertisement about food allergens was quietly deleted.",
           "a": true,
           "why": "A second advertisement, which claimed the app could check food for allergens, was quietly deleted."
         },
         {
-          "s": "Some people turned on the company instead of signing up",
+          "s": "Some people turned on the company instead of signing up.",
           "a": true,
           "why": "Many people who had been ready to sign up turned on the company instead."
         }
@@ -13452,32 +16070,32 @@
       ],
       "tf": [
         {
-          "s": "The heatwave is cutting into Italy's Parmesan production",
+          "s": "The heatwave is cutting into Italy's Parmesan production.",
           "a": true,
           "why": "A long heatwave in northern Italy is cutting into the country's most famous cheese."
         },
         {
-          "s": "A farmer can make up the milk that a hot summer takes away",
+          "s": "A farmer can make up the milk that a hot summer takes away.",
           "a": false,
           "why": "a farmer cannot make up the milk that a hot summer takes away"
         },
         {
-          "s": "A wheel of the cheese must sit for at least twelve months",
+          "s": "A wheel of the cheese must sit for at least twelve months.",
           "a": true,
           "why": "A wheel must sit for at least twelve months, and most are kept for two or three years."
         },
         {
-          "s": "The bank puts away the cheese in a vault",
+          "s": "The bank puts away the cheese in a vault.",
           "a": true,
           "why": "the bank puts away the cheese in a vault"
         },
         {
-          "s": "A farmer takes out a loan worth the full value of the cheese",
+          "s": "A farmer takes out a loan worth the full value of the cheese.",
           "a": false,
           "why": "the farmer takes out a loan worth 60 to 80 percent of what it is worth"
         },
         {
-          "s": "The Po River has dried up to under a third of its normal level",
+          "s": "The Po River has dried up to under a third of its normal level.",
           "a": true,
           "why": "the Po River has dried up to under a third of its normal level"
         }
@@ -14216,32 +16834,32 @@
       ],
       "tf": [
         {
-          "s": "The word looksmaxxing has caught on among teenage boys and young men",
+          "s": "The word looksmaxxing has caught on among teenage boys and young men.",
           "a": true,
           "why": "A new word has caught on online among teenage boys and young men."
         },
         {
-          "s": "Doctors say a boy who starts small will not end up in danger",
+          "s": "Doctors say a boy who starts small will not end up in danger.",
           "a": false,
           "why": "She says the trend is not harmless, and that a boy who starts small can end up in danger."
         },
         {
-          "s": "Some young men cut out whole food groups to change how they look",
+          "s": "Some young men cut out whole food groups to change how they look.",
           "a": true,
           "why": "Some young men cut out whole food groups or give up meals for days."
         },
         {
-          "s": "A psychologist says men are a new market for beauty companies",
+          "s": "A psychologist says men are a new market for beauty companies.",
           "a": true,
           "why": "A psychologist there says men are a new market for beauty companies."
         },
         {
-          "s": "Most eating disorder tests point out the risk to boys who train hard",
+          "s": "Most eating disorder tests ask about a fear of being thin.",
           "a": false,
           "why": "Most tests ask about a fear of being fat, so a boy who trains hard to look lean can pass them."
         },
         {
-          "s": "Experts advise parents to help a son open up about the problem",
+          "s": "Experts advise parents to help a son open up about the problem.",
           "a": true,
           "why": "Experts say it is healthy to work out, but they advise parents to help a son open up and to seek help early."
         }
@@ -20347,7 +22965,7 @@
           "why": "In June, Spain's Supreme Court handed down a ruling that stopped the government from returning people who arrive by sea without first hearing their case."
         },
         {
-          "s": "A rumor on social media said people could not be sent back once they reached Ceuta by water",
+          "s": "A rumor on social media said people could not be sent back once they reached Ceuta by water.",
           "a": true,
           "why": "Word got around that anyone who reached Ceuta by water could no longer be sent back the same day."
         },
@@ -28356,7 +30974,7 @@
           "why": "Those are the company's own claims, and it has published no independent testing to back them up."
         },
         {
-          "s": "It is not yet clear if the cooling booths will catch on in other cities",
+          "s": "It is not yet clear if the cooling booths will catch on in other cities.",
           "a": true,
           "why": "The article says whether the idea catches on elsewhere is not yet clear."
         }
@@ -30019,7 +32637,7 @@
           "why": "Five 8-ounce cups of black coffee add up to about 400 milligrams of caffeine, the daily figure the review settled on."
         },
         {
-          "s": "Coffee drinkers in the studies might simply have other healthy habits",
+          "s": "Coffee drinkers in the studies might simply have other healthy habits.",
           "a": true,
           "why": "The studies only observed habits, so other factors could explain the lower diabetes risk."
         },
@@ -38412,7 +41030,7 @@
           "why": "The plan would do away with the switch, so people would no longer change their clocks each spring and fall."
         },
         {
-          "s": "The United States tried permanent daylight time in 1973, and the change lasted for many years before it ended",
+          "s": "The United States tried permanent daylight time in 1973, and the change lasted for many years before it ended.",
           "a": false,
           "why": "The story says the country tried permanent daylight time in 1973 but gave up on it within a year, not many years."
         }
@@ -44660,7 +47278,7 @@
           "why": "The story says zoos team up through a special breeding program to help the population grow."
         },
         {
-          "s": "Tulivu is an experienced mother who has raised several other gorillas before",
+          "s": "Tulivu is an experienced mother who has raised several other gorillas before.",
           "a": false,
           "why": "False. Tulivu is a first-time mother having her first baby gorilla, not an experienced one."
         }
@@ -48411,7 +51029,7 @@
           "why": "Doctors want people to wash off (clean) fresh fruit and vegetables before eating. Cut down on means to reduce something, which is not the advice."
         },
         {
-          "s": "Cyclospora usually spreads through fruits and vegetables watered with clean, safe irrigation water",
+          "s": "Cyclospora usually spreads through fruits and vegetables watered with clean, safe irrigation water.",
           "a": false,
           "why": "The article says the parasite gets onto produce specifically when farm irrigation water is dirty, not clean, so this version is unambiguously false."
         },
@@ -51512,7 +54130,7 @@
       ],
       "tf": [
         {
-          "s": "For eight long days, the concrete booth held on and formed a protective pocket around him",
+          "s": "For eight long days, the concrete booth held on and formed a protective pocket around him.",
           "a": false,
           "why": "A structure cannot actively endure the way a person does, so calling it held on instead of held up is unambiguous."
         },
@@ -51522,7 +54140,7 @@
           "why": "The workers refused to give up, and in the end their effort paid off (brought a good result)."
         },
         {
-          "s": "After more than 70 hours of digging, the rescue teams gave up before finding the man",
+          "s": "After more than 70 hours of digging, the rescue teams gave up before finding the man.",
           "a": false,
           "why": "The rescue workers refused to give up. Their effort paid off after more than 70 hours and they found the man alive."
         },
@@ -52163,7 +54781,7 @@
           "why": "The team wants to carry on (continue) their research to learn more about how animal minds work."
         },
         {
-          "s": "This new study shows that giraffes cannot count in any way at all",
+          "s": "This new study shows that giraffes cannot count in any way at all.",
           "a": false,
           "why": "The study suggests giraffes can keep track of small numbers, adding them to the growing list of counting animals."
         }
