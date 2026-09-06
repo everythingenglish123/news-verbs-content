@@ -1,6 +1,1648 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "stories": [
+    {
+      "id": "nyc-schools-ai-ban-2026",
+      "number": 101,
+      "headline": "New York City bans AI tools for younger students",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n101-nyc-schools-ai-ban-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "AI banned for elementary and middle school students in NYC (AP News)",
+          "url": "https://apnews.com/article/647f6a968eea0399521b7934418b1aff"
+        },
+        {
+          "title": "NYC to ban student AI tools in 2-K through 8th grade and limit classroom screen time (Chalkbeat)",
+          "url": "https://www.chalkbeat.org/newyork/2026/09/02/nyc-schools-to-set-ai-policy-ban-screen-time-limits/"
+        },
+        {
+          "title": "Mayor Mamdani and Chancellor Samuels Put Students First with Nation's Broadest Generative AI Moratorium in Schools (NYC Mayor's Office)",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat"
+        },
+        {
+          "title": "New York, Los Angeles Restrict Student AI Use. Will Other Districts Follow? (Education Week)",
+          "url": "https://www.edweek.org/technology/new-york-restricts-ai-in-elementary-and-middle-schools-will-other-districts-follow/2026/09"
+        },
+        {
+          "title": "NYC bans generative AI in schools through eighth grade (video, Reuters)",
+          "url": "https://www.youtube.com/watch?v=FiWm8MR59Lw"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "New York City's public schools will not let elementary and middle school students use generative AI tools this year. The mayor {{laid out}} the plan on September 2, 2026, eight days before students {{head back}} to class. The one-year [[moratorium]] covers all student-facing AI software from 2-K through eighth grade, nearly 600,000 students, which the mayor's office called the broadest ban in the country. It is also {{cracking down on}} [[AI companion apps]] in every grade.",
+          "verbs": [
+            {
+              "display": "laid out",
+              "base": "lay out",
+              "correct": "To explain a plan in detail",
+              "wrong": "To end a worker's job",
+              "correctFirst": true,
+              "why": "A coach lays out the game plan before the match, and a travel agent lays out the whole trip day by day. The city's mayor laid out the new AI plan for the schools on September 2, 2026."
+            },
+            {
+              "display": "head back",
+              "base": "head back",
+              "correct": "To return to a place",
+              "wrong": "To stop a problem early",
+              "correctFirst": false,
+              "why": "After lunch, the workers head back to the office, and the family heads back home when the beach gets too hot. New York City students head back to class on September 10, eight days after the announcement."
+            },
+            {
+              "display": "cracking down on",
+              "base": "crack down on",
+              "correct": "To take strict action against something",
+              "wrong": "To begin to fail under pressure",
+              "correctFirst": true,
+              "why": "The city is cracking down on drivers who run red lights, and the league cracked down on players who fake injuries. New York City is cracking down on AI companion apps, which are now banned in every grade."
+            }
+          ]
+        },
+        {
+          "text": "The city also wants younger students to {{cut down on}} [[screen time]], recommending a daily [[cap]] of 30 minutes on [[individual devices]] for grades three through five and 45 minutes for grades six through eight, and no individual devices before third grade. Officials will {{turn off}} AI features in about 38 [[education tools]] and {{phase out}} technology that is not [[essential]] to learning. Teachers may still use AI for [[lesson planning]], but not [[grading]].",
+          "verbs": [
+            {
+              "display": "cut down on",
+              "base": "cut down on",
+              "correct": "To use less of something",
+              "wrong": "To remove something completely",
+              "correctFirst": false,
+              "why": "The doctor told him to cut down on salt, and many families cut down on driving when gas prices rise. The city wants younger students to cut down on screen time, with a recommended daily cap of 30 or 45 minutes."
+            },
+            {
+              "display": "turn off",
+              "base": "turn off",
+              "correct": "To make a feature stop working",
+              "wrong": "To refuse an offer or request",
+              "correctFirst": true,
+              "why": "You can turn off notifications on your phone, and the hotel turns off the pool lights at midnight. Officials will turn off the AI features in about 38 education tools the schools already use."
+            },
+            {
+              "display": "phase out",
+              "base": "phase out",
+              "correct": "To stop using something gradually",
+              "wrong": "To test something before wide use",
+              "correctFirst": false,
+              "why": "The airline is phasing out its oldest planes, and the store phased out plastic bags over two years. The city will phase out any technology in its schools that is not essential to learning."
+            }
+          ]
+        },
+        {
+          "text": "For high school, the city will {{roll out}} two 45-minute [[AI literacy]] classes a year for every high schooler, and up to 50,000 students can {{try out}} five approved AI programs under a teacher's [[supervision]]. Supporters {{weighed in}} quickly. New York's governor [[commended]] the plan, and the head of the teachers' union welcomed the screen-time limits. The mayor said children need teachers and human [[connection]] to learn.",
+          "verbs": [
+            {
+              "display": "roll out",
+              "base": "roll out",
+              "correct": "To introduce something new widely",
+              "wrong": "To cancel a rule or decision",
+              "correctFirst": true,
+              "why": "The bank rolled out a new app to all its customers, and the city is rolling out electric buses on more routes. New York City will roll out two AI literacy classes a year for every high school student."
+            },
+            {
+              "display": "try out",
+              "base": "try out",
+              "correct": "To test something to see how it works",
+              "wrong": "To ask for permission to use something",
+              "correctFirst": false,
+              "why": "She tried out three cameras before buying one, and the restaurant is trying out a new menu this month. Up to 50,000 high school students can try out five approved AI programs under a teacher's supervision."
+            },
+            {
+              "display": "weighed in",
+              "base": "weigh in",
+              "correct": "To give an opinion on an issue",
+              "wrong": "To compare two choices carefully",
+              "correctFirst": true,
+              "why": "Several doctors weighed in on the new diet, and the neighbors weighed in on the plan for the park. Supporters weighed in quickly, including the governor and the president of the teachers' union."
+            }
+          ]
+        },
+        {
+          "text": "The union leader also {{pointed out}} [[gaps]]: many questions remain [[unanswered]], and schools must {{figure out}} [[after the fact]] whether their tools fit the rules. A children's advocacy group said one year is not enough time to [[evaluate]]. An education researcher warned that poorer students could {{miss out on}} technology wealthier families have. The mayor said he trusts teachers and principals to [[enforce]] the policy. A new [[coalition]] of students, parents and educators will {{look into}} the effects and publish [[recommendations]] by the end of the school year.",
+          "verbs": [
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To draw attention to something",
+              "wrong": "To blame someone for a problem",
+              "correctFirst": false,
+              "why": "The guide pointed out the oldest building on the street, and my sister pointed out a mistake in my email. Critics pointed out gaps in the policy, such as how schools will enforce it."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To understand something after thinking",
+              "wrong": "To include something in a plan",
+              "correctFirst": true,
+              "why": "It took me an hour to figure out the new printer, and the kids figured out the rules of the game by themselves. The head of the teachers' union said schools must figure out after the fact whether their tools fit the new rules."
+            },
+            {
+              "display": "miss out on",
+              "base": "miss out on",
+              "correct": "To lose the chance to have something",
+              "wrong": "To pay more than others for something",
+              "correctFirst": false,
+              "why": "If you arrive late, you miss out on the free food, and he missed out on the concert because the tickets sold out. An education researcher warned that poorer students could miss out on technology that wealthier families have."
+            },
+            {
+              "display": "look into",
+              "base": "look into",
+              "correct": "To examine something carefully",
+              "wrong": "To take care of someone",
+              "correctFirst": true,
+              "why": "The police are looking into the theft, and the airline promised to look into my complaint. A new coalition of students, parents and educators will look into the effects of the ban."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Lay out",
+          "def": "To explain a plan in detail",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "The manager laid out the schedule for next month.",
+            "She laid out her ideas in a short presentation.",
+            "The mayor will lay out the budget on Tuesday."
+          ]
+        },
+        {
+          "verb": "Head back",
+          "def": "To return to a place",
+          "ipa": "/hɛd bæk/",
+          "ex": [
+            "We headed back to the hotel after dinner.",
+            "The students head back to school in September.",
+            "It's getting dark, so let's head back."
+          ]
+        },
+        {
+          "verb": "Crack down on",
+          "def": "To take strict action against something",
+          "ipa": "/kræk daʊn ɑn/",
+          "ex": [
+            "Police are cracking down on speeding near schools.",
+            "The school cracked down on cheating during exams.",
+            "The city plans to crack down on illegal parking."
+          ]
+        },
+        {
+          "verb": "Cut down on",
+          "def": "To use less of something",
+          "ipa": "/kʌt daʊn ɑn/",
+          "ex": [
+            "I'm trying to cut down on coffee.",
+            "The company cut down on paper by going digital.",
+            "Parents want their kids to cut down on video games."
+          ]
+        },
+        {
+          "verb": "Turn off",
+          "def": "To make a feature stop working",
+          "ipa": "/tɜrn ɔf/",
+          "ex": [
+            "Please turn off the autoplay setting.",
+            "He turned off location tracking on his phone.",
+            "The teacher turned off the chat feature during the test."
+          ]
+        },
+        {
+          "verb": "Phase out",
+          "def": "To stop using something gradually",
+          "ipa": "/feɪz aʊt/",
+          "ex": [
+            "The company is phasing out its old software.",
+            "The state will phase out coal power by 2035.",
+            "Paper tickets were phased out last year."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To introduce something new widely",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The city rolled out a new bus app last spring.",
+            "The company will roll out the update next week.",
+            "Schools are rolling out a new reading program."
+          ]
+        },
+        {
+          "verb": "Try out",
+          "def": "To test something to see how it works",
+          "ipa": "/traɪ aʊt/",
+          "ex": [
+            "You can try out the app for free for a month.",
+            "The teacher tried out a new way of teaching fractions.",
+            "We tried out the car before we bought it."
+          ]
+        },
+        {
+          "verb": "Weigh in",
+          "def": "To give an opinion on an issue",
+          "ipa": "/weɪ ɪn/",
+          "ex": [
+            "Several experts weighed in on the new law.",
+            "Parents were invited to weigh in on the plan.",
+            "The governor weighed in on the debate on Friday."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To draw attention to something",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out a problem with the schedule.",
+            "The report points out several risks.",
+            "He pointed out that the store closes at six."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand something after thinking",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out how this app works.",
+            "The team figured out why the test failed.",
+            "We need to figure out a plan for the summer."
+          ]
+        },
+        {
+          "verb": "Miss out on",
+          "def": "To lose the chance to have something",
+          "ipa": "/mɪs aʊt ɑn/",
+          "ex": [
+            "Students who skip class miss out on important lessons.",
+            "I missed out on the sale because I was traveling.",
+            "Don't miss out on the free tickets."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To examine something carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The school is looking into the complaint.",
+            "Scientists will look into the cause of the disease.",
+            "We should look into cheaper options."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "moratorium",
+          "def": "An official pause on an activity for a period of time",
+          "ipa": "/ˌmɔrəˈtɔriəm/",
+          "ex": [
+            "The city placed a moratorium on new building permits.",
+            "The moratorium on fishing will last two years.",
+            "Lawmakers voted for a moratorium on the tax."
+          ]
+        },
+        {
+          "word": "AI companion apps",
+          "def": "AI programs designed to talk with a person like a friend",
+          "ipa": "/ˌeɪ ˈaɪ kəmˈpænjən æps/",
+          "ex": [
+            "Some teenagers spend hours talking to AI companion apps.",
+            "Doctors have raised concerns about AI companion apps and loneliness.",
+            "Many AI companion apps remember your past conversations."
+          ]
+        },
+        {
+          "word": "screen time",
+          "def": "Time spent looking at a phone, tablet, or computer",
+          "ipa": "/skrin taɪm/",
+          "ex": [
+            "Doctors recommend less screen time for young children.",
+            "Her parents limit her screen time to one hour a day.",
+            "Too much screen time can make it hard to sleep."
+          ]
+        },
+        {
+          "word": "cap",
+          "def": "An upper limit on an amount",
+          "ipa": "/kæp/",
+          "ex": [
+            "There is a cap on how much you can spend each month.",
+            "The city set a cap on rent increases.",
+            "The class has a cap of 25 students."
+          ]
+        },
+        {
+          "word": "individual devices",
+          "def": "Computers or tablets given to each student separately",
+          "ipa": "/ˌɪndəˈvɪdʒuəl dɪˈvaɪsəz/",
+          "ex": [
+            "Every student in the school has an individual device.",
+            "The teacher collects the individual devices at the end of class.",
+            "Younger children do not need individual devices to learn."
+          ]
+        },
+        {
+          "word": "education tools",
+          "def": "Software or programs used for teaching and learning",
+          "ipa": "/ˌɛdʒəˈkeɪʃən tulz/",
+          "ex": [
+            "The district pays for dozens of education tools.",
+            "Many education tools now include an AI helper.",
+            "Teachers tested the education tools before the school year."
+          ]
+        },
+        {
+          "word": "essential",
+          "def": "Completely necessary",
+          "ipa": "/ɪˈsɛnʃəl/",
+          "ex": [
+            "Water is essential for life.",
+            "Good sleep is essential for students.",
+            "The store sells only essential items."
+          ]
+        },
+        {
+          "word": "lesson planning",
+          "def": "Preparing what to teach and how to teach it",
+          "ipa": "/ˈlɛsən ˈplænɪŋ/",
+          "ex": [
+            "Teachers spend hours on lesson planning each week.",
+            "The new software helps with lesson planning.",
+            "Lesson planning is easier when the textbook is good."
+          ]
+        },
+        {
+          "word": "grading",
+          "def": "Giving marks or scores to students' work",
+          "ipa": "/ˈɡreɪdɪŋ/",
+          "ex": [
+            "The teacher spent the weekend grading essays.",
+            "Grading takes longer for large classes.",
+            "The school changed its grading system last year."
+          ]
+        },
+        {
+          "word": "AI literacy",
+          "def": "Understanding how AI works and how to use it wisely",
+          "ipa": "/ˌeɪ ˈaɪ ˈlɪtərəsi/",
+          "ex": [
+            "The library offers free AI literacy classes for adults.",
+            "AI literacy includes knowing when an AI assistant might be wrong.",
+            "Many companies now want workers with basic AI literacy."
+          ]
+        },
+        {
+          "word": "supervision",
+          "def": "Watching over someone to make sure things are done properly",
+          "ipa": "/ˌsupərˈvɪʒən/",
+          "ex": [
+            "Children can use the pool only under adult supervision.",
+            "The new nurse works under the supervision of a doctor.",
+            "The experiment was done under close supervision."
+          ]
+        },
+        {
+          "word": "commended",
+          "def": "Praised officially or publicly",
+          "ipa": "/kəˈmɛndəd/",
+          "ex": [
+            "The mayor commended the firefighters for their bravery.",
+            "The report commended the hospital's quick response.",
+            "She was commended by her boss for her hard work."
+          ]
+        },
+        {
+          "word": "connection",
+          "def": "A feeling of closeness and understanding between people",
+          "ipa": "/kəˈnɛkʃən/",
+          "ex": [
+            "Students learn better when they feel a connection with their teacher.",
+            "The two friends have a strong connection.",
+            "Video calls cannot replace real human connection."
+          ]
+        },
+        {
+          "word": "gaps",
+          "def": "Things that are missing or not covered",
+          "ipa": "/ɡæps/",
+          "ex": [
+            "The audit found gaps in the company's security.",
+            "There are gaps in the new law that need to be fixed.",
+            "The teacher noticed gaps in the students' knowledge."
+          ]
+        },
+        {
+          "word": "unanswered",
+          "def": "Not yet answered or explained",
+          "ipa": "/ʌnˈænsərd/",
+          "ex": [
+            "Many questions about the plan remain unanswered.",
+            "My email went unanswered for a week.",
+            "The report leaves several unanswered questions."
+          ]
+        },
+        {
+          "word": "after the fact",
+          "def": "After something has already happened",
+          "ipa": "/ˈæftər ðə fækt/",
+          "ex": [
+            "We only learned about the change after the fact.",
+            "It is easy to criticize a decision after the fact.",
+            "The rules were explained after the fact, which upset the staff."
+          ]
+        },
+        {
+          "word": "evaluate",
+          "def": "To judge how good or useful something is",
+          "ipa": "/ɪˈvæljuˌeɪt/",
+          "ex": [
+            "The school will evaluate the program next spring.",
+            "Doctors evaluate each patient before surgery.",
+            "It is hard to evaluate a new teacher after one week."
+          ]
+        },
+        {
+          "word": "enforce",
+          "def": "To make sure that a rule is obeyed",
+          "ipa": "/ɪnˈfɔrs/",
+          "ex": [
+            "Police enforce the speed limit on this road.",
+            "The school does not always enforce its dress code.",
+            "A rule is useless if nobody enforces it."
+          ]
+        },
+        {
+          "word": "coalition",
+          "def": "A group of people or organizations working together for a goal",
+          "ipa": "/ˌkoʊəˈlɪʃən/",
+          "ex": [
+            "A coalition of parents asked for smaller classes.",
+            "The coalition includes teachers, doctors, and business leaders.",
+            "Several charities formed a coalition to fight hunger."
+          ]
+        },
+        {
+          "word": "recommendations",
+          "def": "Official suggestions about what should be done",
+          "ipa": "/ˌrɛkəmənˈdeɪʃənz/",
+          "ex": [
+            "The committee will publish its recommendations in June.",
+            "The doctor's recommendations included more exercise.",
+            "The city ignored most of the recommendations in the report."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "New York City will stop students below high school from using generative AI tools for one school year while it studies the effects. It also recommends daily screen-time limits, and educators and parents have mixed views.",
+          "a": true,
+          "why": "The one-year moratorium covers 2-K through eighth grade, the city recommends daily caps of 30 and 45 minutes, and supporters and skeptics both weighed in."
+        },
+        {
+          "s": "New York City will pause generative AI for students through eighth grade for one year and study what happens. Teachers in those grades must also stop using AI for lesson planning and any other classroom or office work.",
+          "a": false,
+          "why": "Close, but teachers may still use AI for lesson planning, though not for grading. The ban covers student-facing tools, and the screen-time limits are recommendations."
+        },
+        {
+          "s": "New York City will give every high school student a laptop with an approved AI tutor this fall. Officials say the program will prepare students for jobs in an economy that is increasingly driven by AI and new technology.",
+          "a": false,
+          "why": "There is no laptop program. The city is limiting AI, with a one-year ban through eighth grade and only small supervised pilots in high school."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The ban applies to students from 2-K through eighth grade.",
+          "a": true,
+          "why": "The mayor laid out the one-year moratorium on September 2, 2026, and it covers all student-facing AI software for nearly 600,000 students in those grades."
+        },
+        {
+          "s": "The city recommends a daily screen-time cap of 60 minutes for grades six through eight.",
+          "a": false,
+          "why": "To help younger students cut down on screen time, the city recommends 45 minutes a day for grades six through eight and 30 minutes for grades three through five."
+        },
+        {
+          "s": "AI companion apps are still allowed in high school.",
+          "a": false,
+          "why": "The city is cracking down on AI companion apps, which are banned in every grade."
+        },
+        {
+          "s": "Up to 50,000 high school students can try out five approved AI programs.",
+          "a": true,
+          "why": "The programs are used under a teacher's supervision, and every high schooler also gets two 45-minute AI literacy classes a year."
+        },
+        {
+          "s": "Teachers are allowed to use AI for lesson planning but not for grading.",
+          "a": true,
+          "why": "Teachers keep AI for lesson planning, while officials turn off AI features in about 38 existing education tools used by students."
+        },
+        {
+          "s": "A children's advocacy group said one year is too long for the moratorium.",
+          "a": false,
+          "why": "The group said one year is not enough time to evaluate the ban, and the union leader pointed out that many questions remain unanswered."
+        }
+      ]
+    },
+    {
+      "id": "argentina-falklands-claim-2026",
+      "number": 100,
+      "headline": "Argentina presses its claim to the Falkland Islands",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n100-argentina-falklands-claim-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Argentina's Milei steps up Falklands sovereignty claims with oil sanctions (Reuters via Investing.com)",
+          "url": "https://www.investing.com/news/world-news/argentinas-milei-vows-falklands-oil-sanctions-in-sovereignty-push-4888941"
+        },
+        {
+          "title": "Argentina escalates Falklands dispute with the U.K., seizing on Trump comments (AP via NPR)",
+          "url": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute"
+        },
+        {
+          "title": "Argentina's Milei threatens sanctions as he refocuses on Falklands (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands"
+        },
+        {
+          "title": "Argentina's Milei escalates Falklands dispute in sovereignty push against Britain (video, FRANCE 24 English)",
+          "url": "https://www.youtube.com/watch?v=RttoF5G-2j0"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On September 3, 2026, Argentine President Javier Milei {{stepped up}} his country's claim to the Falkland Islands, which Argentina calls the Malvinas, in a [[nationally televised address]]. He said he would {{speed up}} [[sanctions]] against companies working on the Sea Lion [[offshore]] oil project, about 220 kilometers north of the islands, and {{go after}} their [[suppliers]], [[shareholders]], and directors. He also promised extra funding for a [[naval base]] in the far south of Argentina.",
+          "verbs": [
+            {
+              "display": "stepped up",
+              "base": "step up",
+              "correct": "To increase the force of something",
+              "wrong": "To leave a top political job",
+              "correctFirst": true,
+              "why": "A city steps up security before a big game, and a store steps up its advertising before the holidays. On September 3, 2026, President Javier Milei stepped up Argentina's claim to the Falkland Islands in a nationally televised address."
+            },
+            {
+              "display": "speed up",
+              "base": "speed up",
+              "correct": "To make something happen faster",
+              "wrong": "To put something to a vote",
+              "correctFirst": false,
+              "why": "A new road can speed up the trip to the airport, and a second cook speeds up service in a busy restaurant. Milei said he would speed up sanctions against companies working on the Sea Lion oil project."
+            },
+            {
+              "display": "go after",
+              "base": "go after",
+              "correct": "To try to punish or catch someone",
+              "wrong": "To agree to support a plan",
+              "correctFirst": true,
+              "why": "Police go after the people who plan a robbery, and a tax office goes after companies that hide income. Milei said Argentina would also go after the project's suppliers, shareholders, and directors."
+            }
+          ]
+        },
+        {
+          "text": "Milei said he would send Congress a [[bill]] to {{crack down on}} [[unauthorized]] activity near the islands and {{shut out}} the companies involved from doing business in Argentina. \"Argentina will not stand idly by,\" he said, calling any further advance there a threat to [[national security]]. A British company and an Israeli company, which run Sea Lion, plan to {{press ahead}} with drilling this year and {{pump out}} oil from 2028. The British firm's shares fell 6 percent, but both say their [[licenses]] are valid.",
+          "verbs": [
+            {
+              "display": "crack down on",
+              "base": "crack down on",
+              "correct": "To punish something more strictly",
+              "wrong": "To surrender a claim to land",
+              "correctFirst": false,
+              "why": "A city can crack down on illegal parking, and a school can crack down on cheating during exams. Milei said he would send Congress a bill to crack down on unauthorized activity near the islands."
+            },
+            {
+              "display": "shut out",
+              "base": "shut out",
+              "correct": "To stop someone from taking part",
+              "wrong": "To close a business for good",
+              "correctFirst": true,
+              "why": "A club can shut out members who do not pay, and a country can shut out foreign banks from its market. The bill would shut out the companies involved in the oil project from doing business in Argentina."
+            },
+            {
+              "display": "press ahead",
+              "base": "press ahead",
+              "correct": "To continue with a plan anyway",
+              "wrong": "To ask strongly for something",
+              "correctFirst": false,
+              "why": "A builder presses ahead with a project despite the rain, and a student presses ahead with her studies after a bad grade. The British and Israeli companies plan to press ahead with drilling this year."
+            },
+            {
+              "display": "pump out",
+              "base": "pump out",
+              "correct": "To produce large amounts of something",
+              "wrong": "To ship oil to another country",
+              "correctFirst": true,
+              "why": "A factory pumps out thousands of shoes a day, and a small studio can pump out a new song every week. The companies hope to pump out oil from the Sea Lion field from 2028."
+            }
+          ]
+        },
+        {
+          "text": "Britain {{hit back}} quickly. Britain's [[defense secretary]] said the islands are British because the islanders choose to be British, and Britain's [[commitment]] to them is \"absolute and unshakeable.\" Britain's foreign secretary said the islanders' right to [[self-determination]] is [[paramount]]. Britain {{backs up}} its position with a 2013 [[referendum]], when about 4,000 islanders voted [[overwhelmingly]] to remain a British [[overseas territory]]. The defense secretary {{played down}} the speech as \"domestic politics in Argentina.\"",
+          "verbs": [
+            {
+              "display": "hit back",
+              "base": "hit back",
+              "correct": "To reply strongly to an attack",
+              "wrong": "To reach an agreement quickly",
+              "correctFirst": false,
+              "why": "A singer hits back at critics on social media, and a coach hits back when reporters question his team. Britain hit back quickly after Milei's address, saying the islands are British."
+            },
+            {
+              "display": "backs up",
+              "base": "back up",
+              "correct": "To support with evidence",
+              "wrong": "To hold a public vote on something",
+              "correctFirst": true,
+              "why": "A lawyer backs up her case with documents, and a scientist backs up a claim with data. Britain backs up its position with a 2013 referendum in which about 4,000 islanders voted to stay British."
+            },
+            {
+              "display": "played down",
+              "base": "play down",
+              "correct": "To make something seem less important",
+              "wrong": "To pretend to agree with someone",
+              "correctFirst": false,
+              "why": "A company plays down a small data leak, and a runner plays down an injury before a race. Britain's defense secretary played down Milei's speech, saying it reflected domestic politics in Argentina."
+            }
+          ]
+        },
+        {
+          "text": "The dispute {{dates back}} decades. A 74-day war in 1982 killed 649 Argentine troops, 255 British [[service members]], and three islanders. Milei also {{brought up}} U.S. President Donald Trump's comment on August 31 that he was reviewing the [[neutral]] U.S. position. [[Opposition lawmakers]] accused Milei of using the issue to {{shore up}} support before next year's election. Neither government has {{backed down}}, but Argentina has not announced any [[military operation]].",
+          "verbs": [
+            {
+              "display": "dates back",
+              "base": "date back",
+              "correct": "To have started at a past time",
+              "wrong": "To end after a fixed period",
+              "correctFirst": true,
+              "why": "The old church dates back to the 1600s, and their friendship dates back to college. The dispute over the islands dates back decades, to the 1982 war and before."
+            },
+            {
+              "display": "brought up",
+              "base": "bring up",
+              "correct": "To mention a subject",
+              "wrong": "To cause something to happen",
+              "correctFirst": false,
+              "why": "A worker brings up the question of pay at a meeting, and a friend brings up an old story at dinner. Milei brought up a recent comment by U.S. President Donald Trump in his address."
+            },
+            {
+              "display": "shore up",
+              "base": "shore up",
+              "correct": "To make something stronger",
+              "wrong": "To send more troops to an area",
+              "correctFirst": true,
+              "why": "A bank shores up its finances by selling assets, and a coach shores up the defense with a new player. Opposition lawmakers accused Milei of using the issue to shore up support before next year's election."
+            },
+            {
+              "display": "backed down",
+              "base": "back down",
+              "correct": "To withdraw a claim or demand",
+              "wrong": "To return to an earlier plan",
+              "correctFirst": false,
+              "why": "A union backs down after the company offers a small raise, and a driver backs down when the police officer explains the rule. Neither government has backed down, but Argentina has not announced any military operation."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Step up",
+          "def": "To increase the force of something",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The city stepped up security before the game.",
+            "Doctors stepped up testing during the outbreak.",
+            "The company will step up production next year."
+          ]
+        },
+        {
+          "verb": "Speed up",
+          "def": "To make something happen faster",
+          "ipa": "/spid ʌp/",
+          "ex": [
+            "The new software speeds up the whole process.",
+            "The government wants to speed up the approval of the bill.",
+            "A second lane would speed up traffic on the bridge."
+          ]
+        },
+        {
+          "verb": "Go after",
+          "def": "To try to punish or catch someone",
+          "ipa": "/ɡoʊ ˈæftər/",
+          "ex": [
+            "Police are going after the gang's leaders.",
+            "The agency went after companies that broke the rules.",
+            "Prosecutors decided to go after the bank's directors."
+          ]
+        },
+        {
+          "verb": "Crack down on",
+          "def": "To punish something more strictly",
+          "ipa": "/kræk daʊn ɑn/",
+          "ex": [
+            "The city is cracking down on illegal parking.",
+            "The school cracked down on cheating in exams.",
+            "Officials promised to crack down on tax fraud."
+          ]
+        },
+        {
+          "verb": "Shut out",
+          "def": "To stop someone from taking part",
+          "ipa": "/ʃʌt aʊt/",
+          "ex": [
+            "The new rule shuts out small businesses from the contract.",
+            "Foreign banks were shut out of the market for years.",
+            "The league shut out teams that missed the deadline."
+          ]
+        },
+        {
+          "verb": "Press ahead",
+          "def": "To continue with a plan anyway",
+          "ipa": "/prɛs əˈhɛd/",
+          "ex": [
+            "The builders pressed ahead despite the bad weather.",
+            "The company will press ahead with the new factory.",
+            "She pressed ahead with her plan to open a bakery."
+          ]
+        },
+        {
+          "verb": "Pump out",
+          "def": "To produce large amounts of something",
+          "ipa": "/pʌmp aʊt/",
+          "ex": [
+            "The plant pumps out 500 cars a day.",
+            "The wells will pump out oil for another 20 years.",
+            "The studio pumps out a new show every month."
+          ]
+        },
+        {
+          "verb": "Hit back",
+          "def": "To reply strongly to an attack",
+          "ipa": "/hɪt bæk/",
+          "ex": [
+            "The minister hit back at his critics.",
+            "The singer hit back at the newspaper's claims.",
+            "The company hit back with a statement of its own."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To support with evidence",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "She backed up her claim with photos.",
+            "The numbers back up what the mayor said.",
+            "Can you back up that statement with facts?"
+          ]
+        },
+        {
+          "verb": "Play down",
+          "def": "To make something seem less important",
+          "ipa": "/pleɪ daʊn/",
+          "ex": [
+            "The airline played down the delay.",
+            "The coach played down the injury to his star player.",
+            "Officials tried to play down the risk of flooding."
+          ]
+        },
+        {
+          "verb": "Date back",
+          "def": "To have started at a past time",
+          "ipa": "/deɪt bæk/",
+          "ex": [
+            "The castle dates back to the 12th century.",
+            "Their argument dates back to a deal in 2010.",
+            "The tradition dates back hundreds of years."
+          ]
+        },
+        {
+          "verb": "Bring up",
+          "def": "To mention a subject",
+          "ipa": "/brɪŋ ʌp/",
+          "ex": [
+            "He brought up the cost of the trip at dinner.",
+            "Nobody wanted to bring up the accident.",
+            "She brings up the same problem at every meeting."
+          ]
+        },
+        {
+          "verb": "Shore up",
+          "def": "To make something stronger",
+          "ipa": "/ʃɔr ʌp/",
+          "ex": [
+            "The bank shored up its finances by selling assets.",
+            "The party hopes to shore up support in rural areas.",
+            "Engineers shored up the old bridge with steel."
+          ]
+        },
+        {
+          "verb": "Back down",
+          "def": "To withdraw a claim or demand",
+          "ipa": "/bæk daʊn/",
+          "ex": [
+            "The union refused to back down on pay.",
+            "Neither side backed down during the talks.",
+            "The mayor backed down after weeks of protests."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "nationally televised address",
+          "def": "A speech by a leader shown on TV across the whole country",
+          "ipa": "/ˈnæʃənəli ˈtɛləvaɪzd əˈdrɛs/",
+          "ex": [
+            "The president gave a nationally televised address after the storm.",
+            "Millions watched the nationally televised address on Sunday night.",
+            "The prime minister announced the plan in a nationally televised address."
+          ]
+        },
+        {
+          "word": "sanctions",
+          "def": "Official punishments such as bans on trade or business",
+          "ipa": "/ˈsæŋkʃənz/",
+          "ex": [
+            "The government placed sanctions on three foreign banks.",
+            "Sanctions made it hard for the country to sell its oil.",
+            "The new sanctions target companies that ship weapons."
+          ]
+        },
+        {
+          "word": "offshore",
+          "def": "In the sea, away from the coast",
+          "ipa": "/ˈɔfˈʃɔr/",
+          "ex": [
+            "The company drills for oil at offshore platforms.",
+            "Strong winds shut down the offshore wind farm.",
+            "Fishing boats work in offshore waters all winter."
+          ]
+        },
+        {
+          "word": "suppliers",
+          "def": "Companies that provide goods or services to other companies",
+          "ipa": "/səˈplaɪərz/",
+          "ex": [
+            "The factory buys steel from three suppliers.",
+            "Suppliers were told to cut their prices.",
+            "A restaurant depends on its food suppliers every day."
+          ]
+        },
+        {
+          "word": "shareholders",
+          "def": "People or companies that own part of a business",
+          "ipa": "/ˈʃɛrˌhoʊldərz/",
+          "ex": [
+            "Shareholders voted for the new chairman.",
+            "The company paid its shareholders a dividend.",
+            "Angry shareholders demanded answers at the meeting."
+          ]
+        },
+        {
+          "word": "naval base",
+          "def": "A port where a country keeps its warships and sailors",
+          "ipa": "/ˈneɪvəl beɪs/",
+          "ex": [
+            "The naval base is home to 12 warships.",
+            "Thousands of sailors work at the naval base.",
+            "The government plans to build a new naval base in the south."
+          ]
+        },
+        {
+          "word": "bill",
+          "def": "A proposed law that lawmakers vote on",
+          "ipa": "/bɪl/",
+          "ex": [
+            "The bill passed the Senate by a wide margin.",
+            "Lawmakers debated the bill for three days.",
+            "The president signed the bill into law on Friday."
+          ]
+        },
+        {
+          "word": "unauthorized",
+          "def": "Done without official permission",
+          "ipa": "/ʌnˈɔθəˌraɪzd/",
+          "ex": [
+            "Unauthorized visitors are not allowed in the lab.",
+            "The bank blocked an unauthorized payment.",
+            "Unauthorized fishing in the area can lead to a heavy fine."
+          ]
+        },
+        {
+          "word": "national security",
+          "def": "The safety of a country from attack or other threats",
+          "ipa": "/ˈnæʃənəl sɪˈkjʊrəti/",
+          "ex": [
+            "The minister said the port was vital to national security.",
+            "The report was kept secret for reasons of national security.",
+            "Cyberattacks are now seen as a national security problem."
+          ]
+        },
+        {
+          "word": "licenses",
+          "def": "Official permits to do a certain activity",
+          "ipa": "/ˈlaɪsənsɪz/",
+          "ex": [
+            "The company holds two licenses to drill for oil.",
+            "Fishing boats need licenses to work in these waters.",
+            "The city issued 50 new taxi licenses."
+          ]
+        },
+        {
+          "word": "defense secretary",
+          "def": "The government minister in charge of the armed forces",
+          "ipa": "/dɪˈfɛns ˈsɛkrəˌtɛri/",
+          "ex": [
+            "The defense secretary visited troops at the base.",
+            "Reporters asked the defense secretary about the new warships.",
+            "The defense secretary announced a bigger military budget."
+          ]
+        },
+        {
+          "word": "commitment",
+          "def": "A firm promise to support or do something",
+          "ipa": "/kəˈmɪtmənt/",
+          "ex": [
+            "The bank made a commitment to lend money to small farms.",
+            "She showed a strong commitment to her students.",
+            "The two countries confirmed their commitment to the treaty."
+          ]
+        },
+        {
+          "word": "self-determination",
+          "def": "The right of a people to choose their own government",
+          "ipa": "/ˌsɛlf dɪˌtɜrməˈneɪʃən/",
+          "ex": [
+            "The islanders say self-determination is a basic right.",
+            "The treaty recognized the self-determination of small nations.",
+            "Both sides used the idea of self-determination in the debate."
+          ]
+        },
+        {
+          "word": "paramount",
+          "def": "More important than anything else",
+          "ipa": "/ˈpɛrəˌmaʊnt/",
+          "ex": [
+            "Safety is paramount at the power plant.",
+            "For the judge, the child's welfare was paramount.",
+            "Speed is paramount when a patient has a stroke."
+          ]
+        },
+        {
+          "word": "referendum",
+          "def": "A vote in which all citizens decide one question",
+          "ipa": "/ˌrɛfəˈrɛndəm/",
+          "ex": [
+            "Voters rejected the new tax in a referendum.",
+            "The island held a referendum on its future.",
+            "The referendum result was announced at midnight."
+          ]
+        },
+        {
+          "word": "overwhelmingly",
+          "def": "By a very large majority",
+          "ipa": "/ˌoʊvərˈwɛlmɪŋli/",
+          "ex": [
+            "The town voted overwhelmingly to keep the library open.",
+            "Members overwhelmingly supported the new contract.",
+            "The plan was overwhelmingly rejected by parliament."
+          ]
+        },
+        {
+          "word": "overseas territory",
+          "def": "A land far from a country that the country still governs",
+          "ipa": "/ˌoʊvərˈsiz ˈtɛrəˌtɔri/",
+          "ex": [
+            "Bermuda is a British overseas territory.",
+            "The overseas territory has its own local government.",
+            "Residents of the overseas territory hold British passports."
+          ]
+        },
+        {
+          "word": "service members",
+          "def": "People who serve in a country's armed forces",
+          "ipa": "/ˈsɜrvɪs ˈmɛmbərz/",
+          "ex": [
+            "The memorial honors service members who died in the war.",
+            "Service members and their families get free tickets.",
+            "About 200 service members were sent to help after the flood."
+          ]
+        },
+        {
+          "word": "neutral",
+          "def": "Not supporting either side in a dispute",
+          "ipa": "/ˈnutrəl/",
+          "ex": [
+            "Switzerland stayed neutral during the war.",
+            "The referee must remain neutral during the match.",
+            "The country took a neutral position on the border dispute."
+          ]
+        },
+        {
+          "word": "opposition lawmakers",
+          "def": "Members of parliament from parties not in government",
+          "ipa": "/ˌɑpəˈzɪʃən ˈlɔˌmeɪkərz/",
+          "ex": [
+            "Opposition lawmakers walked out of the debate.",
+            "Opposition lawmakers accused the minister of hiding the report.",
+            "The bill passed without support from opposition lawmakers."
+          ]
+        },
+        {
+          "word": "military operation",
+          "def": "A planned action by a country's armed forces",
+          "ipa": "/ˈmɪləˌtɛri ˌɑpəˈreɪʃən/",
+          "ex": [
+            "The military operation lasted three weeks.",
+            "The navy launched a military operation against pirates.",
+            "The army denied planning any military operation in the region."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Argentina's president promised sanctions on a Falklands oil project and money for a naval base to press his claim. Britain replied that the islands are British by the islanders' own choice.",
+          "a": true,
+          "why": "Argentina announced sanctions on the Sea Lion project and funding for a naval base in the far south of Argentina, and Britain said its commitment to the islands is absolute and unshakeable."
+        },
+        {
+          "s": "Argentina's president threatened oil companies near the Falklands with sanctions and promised a bigger navy presence. Britain agreed to open talks on sharing the oil found near the islands.",
+          "a": false,
+          "why": "Close, but Britain did not offer talks. It said the islands are British because the islanders choose to be British, and that its commitment to them is absolute and unshakeable."
+        },
+        {
+          "s": "Britain and Argentina signed a deal to restore direct flights to the islands and share fishing data. Officials on both sides called it a small but real first step toward better relations.",
+          "a": false,
+          "why": "There was no deal on flights or fishing. Argentina announced sanctions and naval funding, and Britain restated that sovereignty rests with the U.K."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Milei stepped up Argentina's claim to the islands in a televised address.",
+          "a": true,
+          "why": "On September 3, 2026, he made a nationally televised address and promised extra funding for a naval base in the far south of Argentina."
+        },
+        {
+          "s": "The Sea Lion oil project lies about 220 kilometers south of the islands.",
+          "a": false,
+          "why": "Sea Lion lies about 220 kilometers north of the islands, and its two operators plan to pump out oil from 2028."
+        },
+        {
+          "s": "Britain's defense secretary played down the speech as domestic politics.",
+          "a": true,
+          "why": "Britain hit back quickly, and the defense secretary called Milei's speech domestic politics in Argentina while calling Britain's commitment to the islands absolute and unshakeable."
+        },
+        {
+          "s": "The 1982 war between Argentina and Britain lasted about two years.",
+          "a": false,
+          "why": "The dispute dates back decades, and the 1982 war lasted 74 days, killing 649 Argentine troops, 255 British service members, and three islanders."
+        },
+        {
+          "s": "About 4,000 islanders voted in 2013 to remain a British overseas territory.",
+          "a": true,
+          "why": "Britain backs up its position with the 2013 referendum, in which the islanders voted overwhelmingly to stay British."
+        },
+        {
+          "s": "Argentina has backed down from its claim to the islands.",
+          "a": false,
+          "why": "Neither government has backed down, but Argentina has not announced any military operation."
+        }
+      ]
+    },
+    {
+      "id": "grand-canyon-floods-2026",
+      "number": 99,
+      "headline": "Helicopters rescue 80 people from Grand Canyon flood",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n99-grand-canyon-floods-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "About 80 people were rescued during Grand Canyon flooding, officials say (AP News)",
+          "url": "https://apnews.com/article/b50ddf9b2f058cb23ad12087f0d938e4"
+        },
+        {
+          "title": "Significant Flash Flooding Closes Phantom Ranch and North Kaibab Trail (Grand Canyon National Park)",
+          "url": "https://www.nps.gov/grca/learn/news/significant-flash-flooding-closes-phantom-ranch-and-north-kaibab-trail.htm"
+        },
+        {
+          "title": "Grand Canyon flash floods leave 2 dead, at least 1 still missing, park officials say (CBS News)",
+          "url": "https://www.cbsnews.com/news/grand-canyon-national-park-flood-evacuation-helicopter-rescue-phantom-ranch/"
+        },
+        {
+          "title": "Grand Canyon closures expanded after deadly, destructive flooding (Arizona's Family)",
+          "url": "https://www.azfamily.com/2026/09/03/grand-canyon-closures-expanded-after-deadly-destructive-flooding/"
+        },
+        {
+          "title": "Severe weather hampers Grand Canyon rescue operations after flash flooding (video, CBS News)",
+          "url": "https://www.youtube.com/watch?v=jdOqlwxxa6k"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A [[flash flood]] {{swept through}} Bright Angel Canyon, in Grand Canyon National Park, Arizona, on Saturday, August 29, 2026. Up to an inch of rain fell in about 30 minutes. The water {{tore down}} nearly all the [[footbridges]] over Bright Angel Creek near Phantom Ranch, a [[stopover]] for hikers and river [[rafters]]. Rain also fell on the [[burn scar]] of the Dragon Bravo Fire of July 2025, where bare ground {{speeds up}} [[runoff]].",
+          "verbs": [
+            {
+              "display": "swept through",
+              "base": "sweep through",
+              "correct": "To move fast across an area",
+              "wrong": "To rise slowly for many hours",
+              "correctFirst": true,
+              "why": "A cold wind sweeps through the streets in January, and a new fashion can sweep through a whole school in a week. A flash flood swept through Bright Angel Canyon on Saturday, August 29, 2026."
+            },
+            {
+              "display": "tore down",
+              "base": "tear down",
+              "correct": "To destroy a structure completely",
+              "wrong": "To slowly weaken over many years",
+              "correctFirst": false,
+              "why": "The city tore down the old stadium to build apartments, and workers tear down a stage the day after a concert. The floodwater tore down nearly all the footbridges over Bright Angel Creek."
+            },
+            {
+              "display": "speeds up",
+              "base": "speed up",
+              "correct": "To make something happen faster",
+              "wrong": "To absorb water like a sponge",
+              "correctFirst": true,
+              "why": "A good coffee speeds up your morning, and a new computer speeds up the whole office. Bare ground on the burn scar of the Dragon Bravo Fire speeds up runoff when it rains."
+            }
+          ]
+        },
+        {
+          "text": "Rescue teams {{brought in}} helicopters, and searchers used [[night vision]] equipment to find people in the dark, the incident commander said. By sunset on Saturday, 45 people had been rescued, and 37 more were {{flown out}} on Sunday, about 80 in total. The Red Cross {{looked after}} them at a lodge on the South Rim. Rangers then {{went through}} [[permit records]] and checked [[license plates]] to count who was still missing.",
+          "verbs": [
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "correct": "To get help from outside",
+              "wrong": "To return people to their homes",
+              "correctFirst": false,
+              "why": "A restaurant brings in extra staff for a busy weekend, and a school brings in a specialist to fix its computers. Rescue teams brought in helicopters to carry people out of the canyon."
+            },
+            {
+              "display": "flown out",
+              "base": "fly out",
+              "correct": "To leave a place by aircraft",
+              "wrong": "To pass above an area in a plane",
+              "correctFirst": true,
+              "why": "Fans fly out the morning after the final, and a sick tourist may be flown out to a bigger hospital. By Sunday, 37 more people had been flown out of the canyon, about 80 in total."
+            },
+            {
+              "display": "looked after",
+              "base": "look after",
+              "correct": "To protect and help someone",
+              "wrong": "To try to find a missing person",
+              "correctFirst": false,
+              "why": "Grandparents often look after the kids during school breaks, and a nurse looks after ten patients on a night shift. The Red Cross looked after the evacuees at a lodge on the South Rim."
+            },
+            {
+              "display": "went through",
+              "base": "go through",
+              "correct": "To examine records one by one",
+              "wrong": "To count people as they arrive",
+              "correctFirst": true,
+              "why": "An accountant goes through every receipt at tax time, and a coach goes through the video of the last game. Rangers went through permit records and checked license plates to count who was missing."
+            }
+          ]
+        },
+        {
+          "text": "Two people died: a 46-year-old [[chiropractor]] and a 42-year-old man who owned a [[martial arts]] studio, both from Texas. A third friend, a 53-year-old pilot from Wyoming, was still missing on September 3, when more than 100 [[searchers]] with helicopters, [[drones]] and dogs {{kept on}} looking. The three men had {{set out}} for several days of hiking and fishing, and last {{checked in with}} their families on Thursday, August 27.",
+          "verbs": [
+            {
+              "display": "kept on",
+              "base": "keep on",
+              "correct": "To continue doing something",
+              "wrong": "To stay away from danger",
+              "correctFirst": false,
+              "why": "The band kept on playing after the power failed, and a good student keeps on trying after a bad grade. More than 100 searchers kept on looking for the missing pilot on September 3."
+            },
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To begin a journey",
+              "wrong": "To build a camp",
+              "correctFirst": true,
+              "why": "The family set out for the beach before sunrise, and the climbers set out from base camp at midnight. The three men had set out for several days of hiking and fishing in the canyon."
+            },
+            {
+              "display": "checked in with",
+              "base": "check in with",
+              "correct": "To contact someone with news",
+              "wrong": "To make plans with someone",
+              "correctFirst": false,
+              "why": "Students check in with their parents after a long flight, and a manager checks in with the team every Monday. The men last checked in with their families on Thursday, August 27."
+            }
+          ]
+        },
+        {
+          "text": "The flood also {{knocked out}} the park's main water [[pipeline]], 12.5 miles long and the only one it has. About 40 percent of it is damaged, the park's deputy superintendent said, and the South Rim has about two weeks of water [[in storage]]. Hotels stopped taking [[overnight guests]] on August 31, and visitors were asked to {{cut down on}} showers. A $208 million [[upgrade]] of the pipeline, begun in 2023, may now {{fall behind}} schedule. On September 3 the park {{closed off}} more trails, with no [[reopening date]].",
+          "verbs": [
+            {
+              "display": "knocked out",
+              "base": "knock out",
+              "correct": "To stop a system from working",
+              "wrong": "To fill a channel with mud",
+              "correctFirst": true,
+              "why": "A storm can knock out the power in a whole town, and one broken cable knocked out the internet at the airport. The flood knocked out the park's only water pipeline."
+            },
+            {
+              "display": "cut down on",
+              "base": "cut down on",
+              "correct": "To use less of something",
+              "wrong": "To stop the supply of something",
+              "correctFirst": false,
+              "why": "The doctor told him to cut down on salt, and many families cut down on driving when gas prices rise. Visitors to the park were asked to cut down on showers."
+            },
+            {
+              "display": "fall behind",
+              "base": "fall behind",
+              "correct": "To be later than planned",
+              "wrong": "To fail to happen as planned",
+              "correctFirst": true,
+              "why": "A student who misses two weeks of class falls behind, and a building project falls behind when the rain does not stop. The $208 million pipeline upgrade may now fall behind schedule."
+            },
+            {
+              "display": "closed off",
+              "base": "close off",
+              "correct": "To block an area so no one enters",
+              "wrong": "To end a business for good",
+              "correctFirst": false,
+              "why": "Police close off a street after an accident, and a museum closes off a room during repairs. On September 3 the park closed off more trails, with no reopening date."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Sweep through",
+          "def": "To move fast across an area",
+          "ipa": "/swip θru/",
+          "ex": [
+            "A storm swept through the valley last night.",
+            "The fire swept through the dry hills in hours.",
+            "Flu swept through the school in March."
+          ]
+        },
+        {
+          "verb": "Tear down",
+          "def": "To destroy a structure completely",
+          "ipa": "/tɛr daʊn/",
+          "ex": [
+            "The town tore down the old bridge.",
+            "They will tear down the factory next year.",
+            "Strong winds tore down the fence."
+          ]
+        },
+        {
+          "verb": "Speed up",
+          "def": "To make something happen faster",
+          "ipa": "/spid ʌp/",
+          "ex": [
+            "Warm weather speeds up the melting of snow.",
+            "The new software speeds up our work.",
+            "Can we speed up the delivery?"
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To get help from outside",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "The hospital brought in extra doctors.",
+            "The city brought in engineers to check the dam.",
+            "They had to bring in a bigger crane."
+          ]
+        },
+        {
+          "verb": "Fly out",
+          "def": "To leave a place by aircraft",
+          "ipa": "/flaɪ aʊt/",
+          "ex": [
+            "The injured climber was flown out by helicopter.",
+            "We fly out early on Friday morning.",
+            "Aid workers were flown out before the storm."
+          ]
+        },
+        {
+          "verb": "Look after",
+          "def": "To protect and help someone",
+          "ipa": "/lʊk ˈæftər/",
+          "ex": [
+            "Volunteers looked after the families at the shelter.",
+            "Who is looking after the kids tonight?",
+            "Nurses look after the patients around the clock."
+          ]
+        },
+        {
+          "verb": "Go through",
+          "def": "To examine records one by one",
+          "ipa": "/ɡoʊ θru/",
+          "ex": [
+            "Police went through the hotel's guest list.",
+            "She went through all the old emails.",
+            "We need to go through these files carefully."
+          ]
+        },
+        {
+          "verb": "Keep on",
+          "def": "To continue doing something",
+          "ipa": "/kip ɑn/",
+          "ex": [
+            "The rescue team kept on searching after dark.",
+            "He kept on running despite the pain.",
+            "Prices keep on rising every month."
+          ]
+        },
+        {
+          "verb": "Set out",
+          "def": "To begin a journey",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "The hikers set out at dawn.",
+            "They set out for the coast on Monday.",
+            "We set out with enough food for three days."
+          ]
+        },
+        {
+          "verb": "Check in with",
+          "def": "To contact someone with news",
+          "ipa": "/tʃɛk ɪn wɪð/",
+          "ex": [
+            "I check in with my mom every Sunday.",
+            "The climbers checked in with base camp by radio.",
+            "Please check in with me when you arrive."
+          ]
+        },
+        {
+          "verb": "Knock out",
+          "def": "To stop a system from working",
+          "ipa": "/nɑk aʊt/",
+          "ex": [
+            "The storm knocked out power to 50,000 homes.",
+            "A lightning strike knocked out the radio tower.",
+            "The flood knocked out the town's water supply."
+          ]
+        },
+        {
+          "verb": "Cut down on",
+          "def": "To use less of something",
+          "ipa": "/kʌt daʊn ɑn/",
+          "ex": [
+            "We are trying to cut down on plastic.",
+            "He cut down on coffee last year.",
+            "The city asked people to cut down on water use."
+          ]
+        },
+        {
+          "verb": "Fall behind",
+          "def": "To be later than planned",
+          "ipa": "/fɔl bɪˈhaɪnd/",
+          "ex": [
+            "The road project fell behind schedule.",
+            "She fell behind with her rent.",
+            "If we fall behind now, we will not finish by June."
+          ]
+        },
+        {
+          "verb": "Close off",
+          "def": "To block an area so no one enters",
+          "ipa": "/kloʊz ɔf/",
+          "ex": [
+            "Police closed off the street after the crash.",
+            "The park closed off the trail during repairs.",
+            "They closed off the beach because of high waves."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "flash flood",
+          "def": "A sudden flood caused by very heavy rain",
+          "ipa": "/flæʃ flʌd/",
+          "ex": [
+            "A flash flood washed away the road.",
+            "Flash floods are common in desert canyons.",
+            "The warning said a flash flood was possible tonight."
+          ]
+        },
+        {
+          "word": "footbridges",
+          "def": "Small bridges for people on foot",
+          "ipa": "/ˈfʊtˌbrɪdʒɪz/",
+          "ex": [
+            "A footbridge crosses the stream near the campground.",
+            "The old footbridge was closed for repairs.",
+            "Hikers use the footbridges to reach the other bank."
+          ]
+        },
+        {
+          "word": "stopover",
+          "def": "A place where travelers stop and rest during a trip",
+          "ipa": "/ˈstɑpˌoʊvər/",
+          "ex": [
+            "The village is a popular stopover for cyclists.",
+            "We had a one-night stopover in Denver.",
+            "The ranch was a stopover for hikers crossing the canyon."
+          ]
+        },
+        {
+          "word": "rafters",
+          "def": "People who travel down a river on a raft",
+          "ipa": "/ˈræftərz/",
+          "ex": [
+            "The rafters camped on a sandy beach by the river.",
+            "Experienced rafters know the biggest rapids.",
+            "A group of rafters waited for the water to drop."
+          ]
+        },
+        {
+          "word": "burn scar",
+          "def": "Land left bare after a wildfire",
+          "ipa": "/bɜrn skɑr/",
+          "ex": [
+            "Heavy rain on a burn scar can cause mudslides.",
+            "The burn scar stretches for miles along the ridge.",
+            "Grass is slowly returning to the burn scar."
+          ]
+        },
+        {
+          "word": "runoff",
+          "def": "Rainwater that flows across the ground to streams and rivers",
+          "ipa": "/ˈrʌnˌɔf/",
+          "ex": [
+            "Runoff from the hills filled the creek in minutes.",
+            "Paved streets increase runoff during storms.",
+            "Farmers worry about runoff carrying soil away."
+          ]
+        },
+        {
+          "word": "night vision",
+          "def": "Equipment that lets people see in the dark",
+          "ipa": "/naɪt ˈvɪʒən/",
+          "ex": [
+            "The pilots wore night vision goggles.",
+            "Night vision cameras filmed the animals after sunset.",
+            "Soldiers use night vision to move in the dark."
+          ]
+        },
+        {
+          "word": "permit records",
+          "def": "Official lists of who was given permission to do something",
+          "ipa": "/ˈpɜrmɪt ˈrɛkərdz/",
+          "ex": [
+            "The park keeps permit records for every campsite.",
+            "Officials checked permit records to see who was on the trail.",
+            "Permit records showed 20 groups in the canyon that night."
+          ]
+        },
+        {
+          "word": "license plates",
+          "def": "The metal plates with numbers on the front and back of a car",
+          "ipa": "/ˈlaɪsəns pleɪts/",
+          "ex": [
+            "Police checked the license plates in the parking lot.",
+            "The car had license plates from Texas.",
+            "A camera reads license plates at the entrance."
+          ]
+        },
+        {
+          "word": "chiropractor",
+          "def": "A health worker who treats back and joint problems with the hands",
+          "ipa": "/ˈkaɪroʊˌpræktər/",
+          "ex": [
+            "She sees a chiropractor for her back pain.",
+            "The chiropractor adjusted his neck.",
+            "He trained for four years to become a chiropractor."
+          ]
+        },
+        {
+          "word": "martial arts",
+          "def": "Fighting sports such as karate and judo",
+          "ipa": "/ˈmɑrʃəl ɑrts/",
+          "ex": [
+            "He has taught martial arts for 20 years.",
+            "The kids take martial arts classes on Saturdays.",
+            "Martial arts build strength and discipline."
+          ]
+        },
+        {
+          "word": "searchers",
+          "def": "People who are trying to find someone or something",
+          "ipa": "/ˈsɜrtʃərz/",
+          "ex": [
+            "Searchers found the lost boy after two days.",
+            "Hundreds of searchers walked the hills in a line.",
+            "The searchers used dogs and drones."
+          ]
+        },
+        {
+          "word": "drones",
+          "def": "Small aircraft with no pilot on board",
+          "ipa": "/droʊnz/",
+          "ex": [
+            "Drones filmed the damage from above.",
+            "The team flew drones over the river.",
+            "Farmers use drones to check their crops."
+          ]
+        },
+        {
+          "word": "pipeline",
+          "def": "A long pipe that carries water, oil, or gas",
+          "ipa": "/ˈpaɪpˌlaɪn/",
+          "ex": [
+            "The pipeline carries water from the spring to the village.",
+            "A crack in the pipeline caused the leak.",
+            "Workers repaired the pipeline in three days."
+          ]
+        },
+        {
+          "word": "in storage",
+          "def": "Kept in tanks or a building for later use",
+          "ipa": "/ɪn ˈstɔrɪdʒ/",
+          "ex": [
+            "The town has a week of fuel in storage.",
+            "We keep our winter clothes in storage.",
+            "There is enough grain in storage for the year."
+          ]
+        },
+        {
+          "word": "overnight guests",
+          "def": "People who stay somewhere for the night",
+          "ipa": "/ˌoʊvərˈnaɪt ɡɛsts/",
+          "ex": [
+            "The lodge takes 60 overnight guests.",
+            "Overnight guests must check in by 8 p.m.",
+            "The hotel stopped accepting overnight guests."
+          ]
+        },
+        {
+          "word": "upgrade",
+          "def": "Work that makes something newer or better",
+          "ipa": "/ˈʌpˌɡreɪd/",
+          "ex": [
+            "The airport upgrade will take three years.",
+            "The city approved an upgrade of the water system.",
+            "The software upgrade fixed the problem."
+          ]
+        },
+        {
+          "word": "reopening date",
+          "def": "The day when a closed place will open again",
+          "ipa": "/riˈoʊpənɪŋ deɪt/",
+          "ex": [
+            "The museum has not announced a reopening date.",
+            "The reopening date for the bridge is May 1.",
+            "Without a reopening date, the shops nearby lost business."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A flash flood hit the bottom of the Grand Canyon, and about 80 people were rescued by helicopter. Two people died, one is missing, and the park's only water pipeline is badly damaged.",
+          "a": true,
+          "why": "Rescue teams saved about 80 people over the weekend of August 29 and 30, two hikers from Texas died, a third friend is missing, and about 40 percent of the pipeline is damaged."
+        },
+        {
+          "s": "A sudden flood at the bottom of the Grand Canyon killed two hikers and left a third one missing. Rescue teams saved about 80 people, and the water pipeline escaped without damage.",
+          "a": false,
+          "why": "Close, but the flood damaged about 40 percent of the park's only water pipeline, and the South Rim has about two weeks of water in storage."
+        },
+        {
+          "s": "A wildfire on the North Rim of the Grand Canyon forced hundreds of visitors to leave the park. The fire destroyed a historic lodge and closed the main trails for the rest of the summer.",
+          "a": false,
+          "why": "The event was a flash flood, not a fire. The Dragon Bravo Fire happened in July 2025, and its burn scar only matters because bare ground makes rain flow faster."
+        }
+      ],
+      "tf": [
+        {
+          "s": "By sunset on Saturday, 45 people had been rescued.",
+          "a": true,
+          "why": "Rescue teams brought in helicopters, and another 37 people were flown out on Sunday, about 80 in total."
+        },
+        {
+          "s": "The flood destroyed only a few of the footbridges over Bright Angel Creek.",
+          "a": false,
+          "why": "The flash flood that swept through Bright Angel Canyon tore down nearly all the footbridges over the creek near Phantom Ranch."
+        },
+        {
+          "s": "The Red Cross looked after the rescued people at a lodge on the South Rim.",
+          "a": true,
+          "why": "After the rescue, the Red Cross cared for them at a lodge on the South Rim, and rangers then went through permit records to count who was still missing."
+        },
+        {
+          "s": "All three friends who set out to hike and fish were found alive.",
+          "a": false,
+          "why": "Two of the men died, and the third, a pilot from Wyoming, was still missing on September 3 while more than 100 searchers kept on looking."
+        },
+        {
+          "s": "About 40 percent of the park's water pipeline is damaged.",
+          "a": true,
+          "why": "The flood knocked out the park's only water pipeline, and the deputy superintendent said about 40 percent of it is damaged."
+        },
+        {
+          "s": "The park reopened the damaged trails on September 3.",
+          "a": false,
+          "why": "On September 3 the park closed off more trails and gave no reopening date."
+        }
+      ]
+    },
     {
       "id": "el-nino-climate-change-2026",
       "number": 98,
