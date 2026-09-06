@@ -33,7 +33,7 @@
               "correct": "To earn money for a person or business",
               "wrong": "To mention a subject in a video",
               "correctFirst": true,
-              "why": "A job brings in a paycheck, a store brings in customers, and a good year brings in extra profit. In this study, two out of three creators said their videos and posts bring in less than ten thousand dollars a year."
+              "why": "A weekend market stall brings in a few hundred dollars, a spare room for rent brings in steady cash each month, and a good year brings in extra profit. In this study, two out of three creators said their videos and posts bring in less than ten thousand dollars a year."
             },
             {
               "display": "get by",
@@ -70,7 +70,7 @@
               "correct": "To stay current with changes",
               "wrong": "To watch something from far away",
               "correctFirst": true,
-              "why": "Workers keep up with new technology, students keep up with homework, and fans keep up with the latest news. Creators in this study must keep up with new trends, new apps, and constant posting schedules."
+              "why": "Workers keep up with new technology, drivers keep up with changing traffic rules, and fans keep up with the latest news. Creators in this study must keep up with new trends, new apps, and constant posting schedules."
             },
             {
               "display": "stand out",
@@ -151,7 +151,7 @@
           "ex": [
             "They get by on one salary and a small garden.",
             "As a student, he got by on rice and beans.",
-            "We can get by without a car in this city."
+            "They got by on very little money last winter."
           ]
         },
         {
@@ -181,7 +181,7 @@
           "ex": [
             "It is hard to keep up with new phone models.",
             "Doctors read journals to keep up with new research.",
-            "He cannot keep up with all the homework."
+            "Farmers keep up with new ways of growing food."
           ]
         },
         {
@@ -604,7 +604,7 @@
               "correct": "To make a feature stop working",
               "wrong": "To refuse an offer or request",
               "correctFirst": true,
-              "why": "You can turn off notifications on your phone, and the hotel turns off the pool lights at midnight. Officials will turn off the AI features in about 38 education tools the schools already use."
+              "why": "You can turn off notifications on your phone, and a parent can turn off automatic downloads on a family tablet. Officials will turn off the AI features in about 38 education tools the schools already use."
             },
             {
               "display": "phase out",
@@ -1222,7 +1222,7 @@
               "correct": "To withdraw a claim or demand",
               "wrong": "To return to an earlier plan",
               "correctFirst": false,
-              "why": "A union backs down after the company offers a small raise, and a driver backs down when the police officer explains the rule. Neither government has backed down, but Argentina has not announced any military operation."
+              "why": "A union backs down after the company offers a small raise, and a shopper backs down after the manager shows him the store's return policy. Neither government has backed down, but Argentina has not announced any military operation."
             }
           ]
         }
@@ -1687,7 +1687,7 @@
               "correct": "To make something happen faster",
               "wrong": "To absorb water like a sponge",
               "correctFirst": true,
-              "why": "A good coffee speeds up your morning, and a new computer speeds up the whole office. Bare ground on the burn scar of the Dragon Bravo Fire speeds up runoff when it rains."
+              "why": "A hair dryer speeds up drying after a shower, and a second cashier speeds up the line at the store. Bare ground on the burn scar of the Dragon Bravo Fire speeds up runoff when it rains."
             }
           ]
         },
@@ -1782,7 +1782,7 @@
               "correct": "To be later than planned",
               "wrong": "To fail to happen as planned",
               "correctFirst": true,
-              "why": "A student who misses two weeks of class falls behind, and a building project falls behind when the rain does not stop. The $208 million pipeline upgrade may now fall behind schedule."
+              "why": "A repair job falls behind when the parts arrive late, and a school play falls behind if the costumes are not ready on time. The $208 million pipeline upgrade may now fall behind schedule."
             },
             {
               "display": "closed off",
@@ -2389,7 +2389,7 @@
           "ex": [
             "The doctor ruled out an infection.",
             "Police have not ruled out an accident.",
-            "We can't rule out rain this weekend."
+            "The mechanic ruled out the battery as the problem."
           ]
         },
         {
@@ -2449,7 +2449,7 @@
           "ex": [
             "Prices could end up twice as high next year.",
             "The river ended up three meters above normal.",
-            "We ended up at a small cafe by the river."
+            "The wait ended up longer than an hour."
           ]
         }
       ],
@@ -2931,7 +2931,7 @@
           "ex": [
             "I could not pick out my brother in the big crowd.",
             "She picked out her friend by his yellow hat.",
-            "The teacher picked out three students to read aloud."
+            "He picked out his mother among the waiting parents."
           ]
         },
         {
@@ -2951,7 +2951,7 @@
           "ex": [
             "The coach looks out for players who seem tired or upset.",
             "Neighbors looked out for each other during the storm.",
-            "Please look out for my keys if you clean the car."
+            "Bus drivers look out for children who seem lost."
           ]
         },
         {
@@ -2971,7 +2971,7 @@
           "ex": [
             "The famous singer is winding down after forty years on stage.",
             "My uncle is winding down his business before he retires.",
-            "The shop is winding down its sales before it closes for good."
+            "The old teacher is winding down after thirty years."
           ]
         }
       ],
@@ -3399,7 +3399,7 @@
               "correct": "To give control to another person",
               "wrong": "To ask for more time to decide",
               "correctFirst": false,
-              "why": "A retiring manager hands over the store to her deputy, and last year's winner hands over the trophy at the ceremony. Messi believes it is time to hand over the team to a talented younger generation."
+              "why": "A retiring manager hands over the store to her deputy, and a club treasurer hands over the accounts to the next volunteer. Messi believes it is time to hand over the team to a talented younger generation."
             },
             {
               "display": "move on",
@@ -3449,7 +3449,7 @@
               "correct": "To be clearly better than the rest",
               "wrong": "To spend the game on the bench",
               "correctFirst": false,
-              "why": "A red coat stands out in a gray crowd, and one clear voice can stand out in a choir. Messi still stood out at his last tournament, with eight goals at the 2026 World Cup."
+              "why": "One student's project can stand out at a science fair, and a new employee can stand out in her first month by doing careful work. Messi still stood out at his last tournament, with eight goals at the 2026 World Cup."
             },
             {
               "display": "fell short",
@@ -3566,7 +3566,7 @@
           "ex": [
             "Her essay stood out from the other entries.",
             "One goalkeeper stood out during the tryouts.",
-            "The red roof stands out in the whole neighborhood."
+            "Her cake stood out at the baking contest."
           ]
         },
         {
@@ -4669,7 +4669,7 @@
               "correct": "To pass something into a closed space",
               "wrong": "To count the people in a group",
               "correctFirst": true,
-              "why": "A coach sends in a fresh player late in the game, and a company sends in engineers to fix a broken machine. Rescuers sent in oxygen through small openings to the trapped workers."
+              "why": "A mechanic sends in a small camera to see inside the engine, and a beekeeper sends in smoke to calm the bees inside the hive. Rescuers sent in oxygen through small openings to the trapped workers."
             },
             {
               "display": "brought out",
@@ -4727,7 +4727,7 @@
               "correct": "To bring people by airplane",
               "wrong": "To drop supplies from the sky",
               "correctFirst": true,
-              "why": "A hospital can fly in a rare medicine from another city, and a company flies in experts for a big repair job. China flew in more than 2,000 rescue workers to help Nepal."
+              "why": "A couple flies in relatives from other states for their wedding, and a music festival flies in a band from Europe for one night. China flew in more than 2,000 rescue workers to help Nepal."
             },
             {
               "display": "step up",
@@ -4786,8 +4786,8 @@
           "ipa": "/sɛnd ɪn/",
           "def": "To pass something into a closed space",
           "ex": [
-            "The coach sent in a fresh player for the last ten minutes.",
-            "The company sent in engineers to fix the broken elevator.",
+            "They sent in a camera through a hole in the roof.",
+            "She sent in a long brush to clean inside the pipe.",
             "Aid groups sent in food and water to the flooded town."
           ]
         },
@@ -4846,7 +4846,7 @@
           "ipa": "/flaɪ ɪn/",
           "def": "To bring people by airplane",
           "ex": [
-            "The hospital flew in a rare medicine from Chicago.",
+            "The school flew in a teacher from another country.",
             "The company flew in experts for the big repair.",
             "Aid groups flew in doctors after the earthquake."
           ]
@@ -5286,7 +5286,7 @@
               "correct": "To make goods subject to a tax",
               "wrong": "To remove a tax from goods",
               "correctFirst": false,
-              "why": "A city can put a tax on sugary drinks, and a landlord can put a fee on late rent. After the talks ended, the United States put a 50 percent tariff on about 20 billion dollars' worth of Canadian goods."
+              "why": "A city can put a tax on sugary drinks, and a state can put a tax on gas at the pump. After the talks ended, the United States put a 50 percent tariff on about 20 billion dollars' worth of Canadian goods."
             },
             {
               "display": "make up",
@@ -6128,7 +6128,7 @@
           "ex": [
             "His story did not hold up when police checked it.",
             "The theory holds up well in new experiments.",
-            "Cheap shoes rarely hold up through a whole winter."
+            "That excuse will not hold up if anyone asks questions."
           ]
         },
         {
@@ -6138,7 +6138,7 @@
           "ex": [
             "She pointed out that the deadline was tomorrow.",
             "The teacher pointed out two mistakes in my essay.",
-            "He pointed out a small cafe across the street."
+            "He pointed out that the price included delivery."
           ]
         },
         {
@@ -6642,7 +6642,7 @@
               "correct": "To become hugely popular fast",
               "wrong": "To disappear from the internet",
               "correctFirst": true,
-              "why": "A photo can blow up online overnight, a rumor can blow up in a group chat, and a small joke can blow up into a trend. Here the 2016 hashtag blew up in January, growing by more than 450 percent."
+              "why": "A photo can blow up online overnight, a new dance can blow up on video apps, and a small joke can blow up into a trend. Here the 2016 hashtag blew up in January, growing by more than 450 percent."
             }
           ]
         },
@@ -6721,7 +6721,7 @@
               "correct": "To happen faster than before",
               "wrong": "To repeat without changing",
               "correctFirst": true,
-              "why": "A heartbeat can speed up during a scary movie, and traffic can speed up once the road opens. Experts say the nostalgia cycle itself is speeding up, with each new trend arriving sooner than the one before it."
+              "why": "A heartbeat can speed up during a scary movie, and a slow project can speed up once more people help. Experts say the nostalgia cycle itself is speeding up, with each new trend arriving sooner than the one before it."
             },
             {
               "display": "leave out",
@@ -6781,7 +6781,7 @@
           "def": "To return something from the past",
           "ex": [
             "The chef brought back the original menu.",
-            "That smell brings back summer camp.",
+            "The city brought back its old summer festival.",
             "The team brought back its classic uniforms."
           ]
         },
@@ -6842,7 +6842,7 @@
           "ex": [
             "The music speeds up at the end of the song.",
             "Work sped up once the new machines arrived.",
-            "The train speeds up after the bridge."
+            "Her reading speeds up with more practice."
           ]
         },
         {
@@ -7376,7 +7376,7 @@
               "correct": "To make sense as a whole",
               "wrong": "To happen at the same time",
               "correctFirst": true,
-              "why": "A messy story about a broken window does not always add up, and a set of receipts should always add up at the end. In a fake photo, background details often do not add up, and that is how careful readers spot them."
+              "why": "The two answers he gave me do not add up, and a price that low for a new car does not add up at all. In a fake photo, background details often do not add up, and that is how careful readers spot them."
             },
             {
               "display": "look out for",
@@ -7413,7 +7413,7 @@
               "correct": "To skip something on a screen",
               "wrong": "To share something with friends",
               "correctFirst": false,
-              "why": "Use scroll past for a quick habit on a phone, moving through post after post without stopping to look closely. The simplest defense against a fake video is to scroll past it, since every ignored fake earns less money for its maker."
+              "why": "On the bus she scrolls past ad after ad, stopping only when a friend's photo appears. The simplest defense against a fake video is to scroll past it, since every ignored fake earns less money for its maker."
             }
           ]
         }
@@ -8795,7 +8795,7 @@
           "def": "To care for a person who needs help",
           "ex": [
             "She looks after her little brothers.",
-            "Who will look after the dog this weekend?",
+            "Who will look after the baby this weekend?",
             "Nurses looked after him for three weeks."
           ]
         },
@@ -9301,7 +9301,7 @@
               "correct": "To land at an airport",
               "wrong": "To speed up before landing",
               "correctFirst": true,
-              "why": "Planes touch down on the runway, and returning space capsules touch down in the desert. The C-17 touched down in Moscow on Tuesday, August 25."
+              "why": "Planes touch down on the runway, and travelers feel relieved when their plane touches down. The C-17 touched down in Moscow on Tuesday, August 25."
             }
           ]
         },
@@ -9351,7 +9351,7 @@
               "correct": "To tell people an important fact",
               "wrong": "To ask for more time to think",
               "correctFirst": true,
-              "why": "Teachers point out mistakes, and tour guides point out famous buildings. Experts pointed out that a CIA director almost never flies to Moscow."
+              "why": "Teachers point out mistakes in homework, and a coworker may point out that the meeting has moved. Experts pointed out that a CIA director almost never flies to Moscow."
             }
           ]
         },
@@ -9936,7 +9936,7 @@
               "correct": "To move faster than before",
               "wrong": "To measure your own speed",
               "correctFirst": false,
-              "why": "Trains speed up after leaving the station, and songs speed up near the end. The robot sped up smoothly and beat the fastest human time in history."
+              "why": "Trains speed up after leaving the station, and swimmers speed up in the final lap. The robot sped up smoothly and beat the fastest human time in history."
             },
             {
               "display": "ended up",
@@ -10054,7 +10054,7 @@
           "ex": [
             "The car sped up on the empty road.",
             "Please speed up, we are late.",
-            "The music speeds up in the last minute."
+            "The cyclist sped up on the last hill."
           ]
         },
         {
@@ -11319,7 +11319,7 @@
               "correct": "To accept a difficult challenge",
               "wrong": "To avoid a hard task politely",
               "correctFirst": false,
-              "why": "You take on a challenge, an opponent, or extra work. Researchers now want to take on lung, kidney, and pancreatic cancer."
+              "why": "A student takes on a hard class, and a worker takes on a job nobody else wants. Researchers now want to take on lung, kidney, and pancreatic cancer."
             }
           ]
         }
@@ -11872,7 +11872,7 @@
               "correct": "To cause strong feelings or trouble",
               "wrong": "To calm a group of people",
               "correctFirst": true,
-              "why": "You stir up anger, trouble, memories, or a whole crowd. Rage bait stirs up your feelings on purpose, because angry people click."
+              "why": "A rumor stirs up worry in the office, and one loud complaint can stir up a whole crowd. Rage bait stirs up your feelings on purpose, because angry people click."
             },
             {
               "display": "relies on",
@@ -11951,7 +11951,7 @@
               "correct": "To keep a strong feeling inside",
               "wrong": "To express a feeling loudly",
               "correctFirst": true,
-              "why": "You hold back tears, laughter, or an angry reply. The advice here: hold your first comment back until the anger cools."
+              "why": "You hold back tears when you say goodbye, and you hold back a smile during a serious meeting. The advice here: hold your first comment back until the anger cools."
             },
             {
               "display": "blows over",
@@ -11959,7 +11959,7 @@
               "correct": "To pass and be forgotten soon",
               "wrong": "To grow bigger every hour",
               "correctFirst": false,
-              "why": "Storms, scandals, and internet drama blow over. The outrage blows over in a day, but the creator keeps the views forever."
+              "why": "Office gossip blows over, and an argument between friends blows over in a few days. The outrage blows over in a day, but the creator keeps the views forever."
             },
             {
               "display": "log off",
