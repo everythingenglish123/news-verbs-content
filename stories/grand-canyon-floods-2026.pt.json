@@ -1,1 +1,432 @@
-{"id":"grand-canyon-floods-2026","number":99,"lang":"pt","headline":"Helicópteros resgatam 80 pessoas de inundação no Grand Canyon","chunks":["Uma enchente repentina atingiu o Bright Angel Canyon, no Parque Nacional do Grand Canyon, no Arizona, no sábado, 29 de agosto de 2026. Caiu até uma polegada de chuva em cerca de 30 minutos. A água derrubou quase todas as passarelas sobre o Bright Angel Creek perto de Phantom Ranch, um ponto de parada para caminhantes e praticantes de rafting. A chuva também caiu sobre a área queimada pelo incêndio Dragon Bravo de julho de 2025, onde o solo exposto acelera o escoamento da água.","As equipes de resgate trouxeram helicópteros, e os buscadores usaram equipamento de visão noturna para encontrar pessoas no escuro, disse o comandante do incidente. Até o pôr do sol de sábado, 45 pessoas haviam sido resgatadas, e mais 37 foram retiradas de avião no domingo, cerca de 80 no total. A Cruz Vermelha cuidou delas em um albergue no South Rim. Os guardas florestais então vasculharam os registros de permissão e verificaram as placas dos carros para contar quem ainda estava desaparecido.","Duas pessoas morreram: uma quiroprata de 46 anos e um homem de 42 anos que era dono de uma academia de artes marciais, ambos do Texas. Um terceiro amigo, um piloto de 53 anos do Wyoming, ainda estava desaparecido em 3 de setembro, quando mais de 100 buscadores com helicópteros, drones e cães continuavam procurando. Os três homens haviam partido para vários dias de caminhada e pesca, e tinham entrado em contato com suas famílias pela última vez na quinta-feira, 27 de agosto.","A enchente também derrubou o principal duto de água do parque, com 12,5 milhas de extensão e o único que ele possui. Cerca de 40 por cento dele está danificado, disse a subgerente do parque, e o South Rim tem cerca de duas semanas de água armazenada. Os hotéis pararam de receber hóspedes a partir de 31 de agosto, e os visitantes foram pedidos a reduzir o uso do chuveiro. Uma reforma de 208 milhões de dólares no duto, iniciada em 2023, agora pode atrasar em relação ao cronograma. Em 3 de setembro, o parque fechou mais trilhas, sem data de reabertura."],"verbs":[{"base":"sweep through","correct":"Mover-se rapidamente por uma área","wrong":"Subir lentamente por muitas horas"},{"base":"tear down","correct":"Destruir completamente uma estrutura","wrong":"Enfraquecer lentamente ao longo de muitos anos"},{"base":"speed up","correct":"Fazer algo acontecer mais rápido","wrong":"Absorver água como uma esponja"},{"base":"bring in","correct":"Conseguir ajuda de fora","wrong":"Levar pessoas para casa"},{"base":"fly out","correct":"Deixar um lugar de avião","wrong":"Passar sobre uma área de avião"},{"base":"look after","correct":"Proteger e ajudar alguém","wrong":"Procurar uma pessoa perdida"},{"base":"go through","correct":"Examinar registros um por um","wrong":"Contar pessoas conforme chegam"},{"base":"keep on","correct":"Continuar fazendo algo","wrong":"Ficar longe do perigo"},{"base":"set out","correct":"Começar uma viagem","wrong":"Construir um acampamento"},{"base":"check in with","correct":"Contatar alguém com notícias","wrong":"Fazer planos com alguém"},{"base":"knock out","correct":"Fazer um sistema parar de funcionar","wrong":"Encher um canal inteiro de lama"},{"base":"cut down on","correct":"Usar menos de algo","wrong":"Parar o fornecimento de algo"},{"base":"fall behind","correct":"Estar mais atrasado do que o planejado","wrong":"Não acontecer como planejado"},{"base":"close off","correct":"Bloquear uma área para que ninguém entre","wrong":"Encerrar um negócio para sempre"}],"vocab":[{"verb":"Sweep through","def":"Mover-se rapidamente por uma área","ex":["Uma tempestade varreu o vale na noite passada.","O fogo varreu as colinas secas em poucas horas.","A gripe se espalhou rapidamente pela escola em março."]},{"verb":"Tear down","def":"Destruir completamente uma estrutura","ex":["A cidade derrubou a ponte velha.","Eles vão derrubar a fábrica no ano que vem.","Ventos fortes derrubaram a cerca."]},{"verb":"Speed up","def":"Fazer algo acontecer mais rápido","ex":["O clima quente acelera o derretimento da neve.","O novo software acelera o nosso trabalho.","Podemos acelerar a entrega?"]},{"verb":"Bring in","def":"Conseguir ajuda de fora","ex":["O hospital trouxe médicos extras.","A cidade trouxe engenheiros para verificar a barragem.","Eles tiveram que trazer um guindaste maior."]},{"verb":"Fly out","def":"Deixar um lugar de avião","ex":["O alpinista ferido foi retirado de helicóptero.","Nós saímos de avião cedo na sexta-feira de manhã.","Os trabalhadores humanitários foram retirados de avião antes da tempestade."]},{"verb":"Look after","def":"Proteger e ajudar alguém","ex":["Voluntários cuidaram das famílias no abrigo.","Quem vai cuidar das crianças hoje à noite?","As enfermeiras cuidam dos pacientes o tempo todo."]},{"verb":"Go through","def":"Examinar registros um por um","ex":["A polícia examinou a lista de hóspedes do hotel.","Ela examinou todos os e-mails antigos.","Precisamos examinar esses arquivos com cuidado."]},{"verb":"Keep on","def":"Continuar fazendo algo","ex":["A equipe de resgate continuou procurando depois de escurecer.","Ele continuou correndo apesar da dor.","Os preços continuam subindo todo mês."]},{"verb":"Set out","def":"Começar uma viagem","ex":["Os caminhantes partiram ao amanhecer.","Eles partiram para o litoral na segunda-feira.","Nós partimos com comida suficiente para três dias."]},{"verb":"Check in with","def":"Contatar alguém com notícias","ex":["Eu entro em contato com minha mãe todo domingo.","Os alpinistas entraram em contato com o acampamento base por rádio.","Por favor, entre em contato comigo quando chegar."]},{"verb":"Knock out","def":"Fazer um sistema parar de funcionar","ex":["A tempestade cortou a energia de 50 mil casas.","Um raio derrubou a torre de rádio.","A enchente cortou o abastecimento de água da cidade."]},{"verb":"Cut down on","def":"Usar menos de algo","ex":["Estamos tentando usar menos plástico.","Ele reduziu o consumo de café no ano passado.","A cidade pediu para as pessoas reduzirem o uso de água."]},{"verb":"Fall behind","def":"Estar mais atrasado do que o planejado","ex":["O projeto da estrada ficou atrasado em relação ao cronograma.","Ela ficou atrasada com o aluguel.","Se ficarmos atrasados agora, não terminaremos até junho."]},{"verb":"Close off","def":"Bloquear uma área para que ninguém entre","ex":["A polícia bloqueou a rua depois do acidente.","O parque bloqueou a trilha durante os reparos.","Eles bloquearam a praia por causa das ondas altas."]}],"wordDefs":[{"word":"flash flood","def":"Uma enchente repentina causada por chuva muito forte","ex":["Uma enchente repentina levou a estrada.","Enchentes repentinas são comuns em cânions desérticos."]},{"word":"footbridges","def":"Pequenas pontes para pedestres","ex":["Uma passarela cruza o riacho perto do acampamento.","A passarela antiga foi fechada para reparos."]},{"word":"stopover","def":"Um lugar onde os viajantes param e descansam durante uma viagem","ex":["A vila é um ponto de parada popular para ciclistas.","Fizemos uma parada de uma noite em Denver."]},{"word":"rafters","def":"Pessoas que descem um rio em uma balsa","ex":["Os praticantes de rafting acamparam em uma praia de areia junto ao rio.","Praticantes de rafting experientes conhecem as maiores corredeiras."]},{"word":"burn scar","def":"Terreno deixado sem vegetação depois de um incêndio florestal","ex":["Chuva forte sobre uma área queimada pode causar deslizamentos de terra.","A área queimada se estende por quilômetros ao longo da encosta."]},{"word":"runoff","def":"Água da chuva que corre pelo solo até riachos e rios","ex":["O escoamento das colinas encheu o riacho em minutos.","Ruas pavimentadas aumentam o escoamento durante tempestades."]},{"word":"night vision","def":"Equipamento que permite ver no escuro","ex":["Os pilotos usavam óculos de visão noturna.","Câmeras de visão noturna filmaram os animais depois do pôr do sol."]},{"word":"permit records","def":"Registros oficiais de quem recebeu permissão para fazer algo","ex":["O parque mantém registros de permissão para cada acampamento.","As autoridades verificaram os registros de permissão para ver quem estava na trilha."]},{"word":"license plates","def":"As placas de metal com números na frente e atrás de um carro","ex":["A polícia verificou as placas dos carros no estacionamento.","O carro tinha placas do Texas."]},{"word":"chiropractor","def":"Um profissional de saúde que trata problemas de coluna e articulações com as mãos","ex":["Ela vai a um quiroprata por causa da dor nas costas.","O quiroprata ajustou o pescoço dele."]},{"word":"martial arts","def":"Esportes de luta como caratê e judô","ex":["Ele ensina artes marciais há 20 anos.","As crianças fazem aulas de artes marciais aos sábados."]},{"word":"searchers","def":"Pessoas que estão tentando encontrar alguém ou algo","ex":["Os buscadores encontraram o menino perdido depois de dois dias.","Centenas de buscadores percorreram as colinas em fila."]},{"word":"drones","def":"Pequenas aeronaves sem piloto a bordo","ex":["Drones filmaram os danos do alto.","A equipe pilotou drones sobre o rio."]},{"word":"pipeline","def":"Um duto longo que transporta água, petróleo ou gás","ex":["O duto leva água da nascente até a vila.","Uma rachadura no duto causou o vazamento."]},{"word":"in storage","def":"Guardado em tanques ou em um prédio para uso posterior","ex":["A cidade tem uma semana de combustível armazenado.","Guardamos nossas roupas de inverno no depósito."]},{"word":"overnight guests","def":"Pessoas que ficam em algum lugar durante a noite","ex":["O albergue recebe 60 hóspedes por noite.","Os hóspedes devem fazer check-in até as 20h."]},{"word":"upgrade","def":"Trabalho que torna algo mais novo ou melhor","ex":["A reforma do aeroporto vai levar três anos.","A cidade aprovou uma reforma do sistema de água."]},{"word":"reopening date","def":"O dia em que um lugar fechado vai abrir de novo","ex":["O museu não anunciou uma data de reabertura.","A data de reabertura da ponte é 1º de maio."]}],"tf":[{"s":"Até o pôr do sol de sábado, 45 pessoas haviam sido resgatadas.","a":true,"why":"As equipes de resgate trouxeram helicópteros, e mais 37 pessoas foram retiradas de avião no domingo, cerca de 80 no total."},{"s":"A enchente destruiu apenas algumas das passarelas sobre o Bright Angel Creek.","a":false,"why":"A enchente repentina que atingiu o Bright Angel Canyon derrubou quase todas as passarelas sobre o córrego perto de Phantom Ranch."},{"s":"A Cruz Vermelha cuidou das pessoas resgatadas em um albergue no South Rim.","a":true,"why":"Depois do resgate, a Cruz Vermelha cuidou delas em um albergue no South Rim, e os guardas florestais então vasculharam os registros de permissão para contar quem ainda estava desaparecido."},{"s":"Os três amigos que partiram para caminhar e pescar foram encontrados vivos.","a":false,"why":"Dois dos homens morreram, e o terceiro, um piloto do Wyoming, ainda estava desaparecido em 3 de setembro, enquanto mais de 100 buscadores continuavam procurando."},{"s":"Cerca de 40 por cento do duto de água do parque está danificado.","a":true,"why":"A enchente derrubou o único duto de água do parque, e a subgerente disse que cerca de 40 por cento dele está danificado."},{"s":"O parque reabriu as trilhas danificadas em 3 de setembro.","a":false,"why":"Em 3 de setembro, o parque fechou mais trilhas e não deu uma data de reabertura."}],"mainIdea":[{"s":"Uma enchente repentina atingiu o fundo do Grand Canyon, e cerca de 80 pessoas foram resgatadas de helicóptero. Duas pessoas morreram, uma está desaparecida, e o único duto de água do parque está gravemente danificado.","a":true,"why":"As equipes de resgate salvaram cerca de 80 pessoas durante o fim de semana de 29 e 30 de agosto, dois caminhantes do Texas morreram, um terceiro amigo está desaparecido, e cerca de 40 por cento do duto está danificado."},{"s":"Uma enchente repentina no fundo do Grand Canyon matou dois caminhantes e deixou um terceiro desaparecido. As equipes de resgate salvaram cerca de 80 pessoas, e o duto de água escapou sem danos.","a":false,"why":"Quase certo, mas a enchente danificou cerca de 40 por cento do único duto de água do parque, e o South Rim tem cerca de duas semanas de água armazenada."},{"s":"Um incêndio florestal no North Rim do Grand Canyon forçou centenas de visitantes a deixar o parque. O incêndio destruiu um albergue histórico e fechou as principais trilhas pelo resto do verão.","a":false,"why":"O evento foi uma enchente repentina, não um incêndio. O incêndio Dragon Bravo aconteceu em julho de 2025, e sua área queimada só importa porque o solo exposto faz a chuva escorrer mais rápido."}],"dialogue":{"Thank goodness for that":"Usado para mostrar alívio ao ouvir que algo ruim não aconteceu","My heart goes out to":"Usado para dizer que você sente profunda compaixão por pessoas que estão sofrendo","That's the last thing they need":"Usado para dizer que um novo problema é especialmente ruim para pessoas que já têm problemas","Talk about bad timing":"Usado para dizer que algo aconteceu no pior momento possível","It could have been a lot worse":"Usado para dizer que uma situação ruim não foi tão ruim quanto poderia ter sido"}}
+{
+  "id": "grand-canyon-floods-2026",
+  "number": 99,
+  "lang": "pt",
+  "headline": "Helicópteros resgatam 80 pessoas de inundação no Grand Canyon",
+  "chunks": [
+    "Uma enchente repentina atingiu o Bright Angel Canyon, no Parque Nacional do Grand Canyon, no Arizona, no sábado, 29 de agosto de 2026. Caiu até uma polegada de chuva em cerca de 30 minutos. A água derrubou quase todas as passarelas sobre o Bright Angel Creek perto de Phantom Ranch, um ponto de parada para caminhantes e praticantes de rafting. A chuva também caiu sobre a área queimada pelo incêndio Dragon Bravo de julho de 2025, onde o solo exposto acelera o escoamento da água.",
+    "As equipes de resgate trouxeram helicópteros, e os buscadores usaram equipamento de visão noturna para encontrar pessoas no escuro, disse o comandante do incidente. Até o pôr do sol de sábado, 45 pessoas haviam sido resgatadas, e mais 37 foram retiradas de avião no domingo, cerca de 80 no total. A Cruz Vermelha cuidou delas em um albergue no South Rim. Os guardas florestais então vasculharam os registros de permissão e verificaram as placas dos carros para contar quem ainda estava desaparecido.",
+    "Duas pessoas morreram: uma quiroprata de 46 anos e um homem de 42 anos que era dono de uma academia de artes marciais, ambos do Texas. Um terceiro amigo, um piloto de 53 anos do Wyoming, ainda estava desaparecido em 3 de setembro, quando mais de 100 buscadores com helicópteros, drones e cães continuavam procurando. Os três homens haviam partido para vários dias de caminhada e pesca, e tinham entrado em contato com suas famílias pela última vez na quinta-feira, 27 de agosto.",
+    "A enchente também derrubou o principal duto de água do parque, com 12,5 milhas de extensão e o único que ele possui. Cerca de 40 por cento dele está danificado, disse a subgerente do parque, e o South Rim tem cerca de duas semanas de água armazenada. Os hotéis pararam de receber hóspedes a partir de 31 de agosto, e os visitantes foram pedidos a reduzir o uso do chuveiro. Uma reforma de 208 milhões de dólares no duto, iniciada em 2023, agora pode atrasar em relação ao cronograma. Em 3 de setembro, o parque fechou mais trilhas, sem data de reabertura."
+  ],
+  "verbs": [
+    {
+      "base": "sweep through",
+      "correct": "Mover-se rapidamente por uma área",
+      "wrong": "Subir lentamente por muitas horas"
+    },
+    {
+      "base": "tear down",
+      "correct": "Destruir completamente uma estrutura",
+      "wrong": "Enfraquecer lentamente ao longo de muitos anos"
+    },
+    {
+      "base": "speed up",
+      "correct": "Fazer algo acontecer mais rápido",
+      "wrong": "Absorver água como uma esponja"
+    },
+    {
+      "base": "bring in",
+      "correct": "Conseguir ajuda de fora",
+      "wrong": "Levar pessoas para casa"
+    },
+    {
+      "base": "fly out",
+      "correct": "Deixar um lugar de avião",
+      "wrong": "Passar sobre uma área de avião"
+    },
+    {
+      "base": "look after",
+      "correct": "Proteger e ajudar alguém",
+      "wrong": "Procurar uma pessoa perdida"
+    },
+    {
+      "base": "go through",
+      "correct": "Examinar registros um por um",
+      "wrong": "Contar pessoas conforme chegam"
+    },
+    {
+      "base": "keep on",
+      "correct": "Continuar fazendo algo",
+      "wrong": "Ficar longe do perigo"
+    },
+    {
+      "base": "set out",
+      "correct": "Começar uma viagem",
+      "wrong": "Construir um acampamento"
+    },
+    {
+      "base": "check in with",
+      "correct": "Contatar alguém com notícias",
+      "wrong": "Fazer planos com alguém"
+    },
+    {
+      "base": "knock out",
+      "correct": "Fazer um sistema parar de funcionar",
+      "wrong": "Encher um canal inteiro de lama"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Usar menos de algo",
+      "wrong": "Parar o fornecimento de algo"
+    },
+    {
+      "base": "fall behind",
+      "correct": "Estar mais atrasado do que o planejado",
+      "wrong": "Não acontecer como planejado"
+    },
+    {
+      "base": "close off",
+      "correct": "Bloquear uma área para que ninguém entre",
+      "wrong": "Encerrar um negócio para sempre"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sweep through",
+      "def": "Mover-se rapidamente por uma área",
+      "ex": [
+        "Uma tempestade varreu o vale na noite passada.",
+        "O fogo varreu as colinas secas em poucas horas.",
+        "A gripe se espalhou rapidamente pela escola em março."
+      ]
+    },
+    {
+      "verb": "Tear down",
+      "def": "Destruir completamente uma estrutura",
+      "ex": [
+        "A cidade derrubou a ponte velha.",
+        "Eles vão derrubar a fábrica no ano que vem.",
+        "Ventos fortes derrubaram a cerca."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Fazer algo acontecer mais rápido",
+      "ex": [
+        "O clima quente acelera o derretimento da neve.",
+        "O novo software acelera o nosso trabalho.",
+        "Podemos acelerar a entrega?"
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Conseguir ajuda de fora",
+      "ex": [
+        "O hospital trouxe médicos extras.",
+        "A cidade trouxe engenheiros para verificar a barragem.",
+        "Eles tiveram que trazer um guindaste maior."
+      ]
+    },
+    {
+      "verb": "Fly out",
+      "def": "Deixar um lugar de avião",
+      "ex": [
+        "O alpinista ferido foi retirado de helicóptero.",
+        "Nós saímos de avião cedo na sexta-feira de manhã.",
+        "Os trabalhadores humanitários foram retirados de avião antes da tempestade."
+      ]
+    },
+    {
+      "verb": "Look after",
+      "def": "Proteger e ajudar alguém",
+      "ex": [
+        "Voluntários cuidaram das famílias no abrigo.",
+        "Quem vai cuidar das crianças hoje à noite?",
+        "As enfermeiras cuidam dos pacientes o tempo todo."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Examinar registros um por um",
+      "ex": [
+        "A polícia examinou a lista de hóspedes do hotel.",
+        "Ela examinou todos os e-mails antigos.",
+        "Precisamos examinar esses arquivos com cuidado."
+      ]
+    },
+    {
+      "verb": "Keep on",
+      "def": "Continuar fazendo algo",
+      "ex": [
+        "A equipe de resgate continuou procurando depois de escurecer.",
+        "Ele continuou correndo apesar da dor.",
+        "Os preços continuam subindo todo mês."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "Começar uma viagem",
+      "ex": [
+        "Os caminhantes partiram ao amanhecer.",
+        "Eles partiram para o litoral na segunda-feira.",
+        "Nós partimos com comida suficiente para três dias."
+      ]
+    },
+    {
+      "verb": "Check in with",
+      "def": "Contatar alguém com notícias",
+      "ex": [
+        "Eu entro em contato com minha mãe todo domingo.",
+        "Os alpinistas entraram em contato com o acampamento base por rádio.",
+        "Por favor, entre em contato comigo quando chegar."
+      ]
+    },
+    {
+      "verb": "Knock out",
+      "def": "Fazer um sistema parar de funcionar",
+      "ex": [
+        "A tempestade cortou a energia de 50 mil casas.",
+        "Um raio derrubou a torre de rádio.",
+        "A enchente cortou o abastecimento de água da cidade."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Usar menos de algo",
+      "ex": [
+        "Estamos tentando usar menos plástico.",
+        "Ele reduziu o consumo de café no ano passado.",
+        "A cidade pediu para as pessoas reduzirem o uso de água."
+      ]
+    },
+    {
+      "verb": "Fall behind",
+      "def": "Estar mais atrasado do que o planejado",
+      "ex": [
+        "O projeto da estrada ficou atrasado em relação ao cronograma.",
+        "Ela ficou atrasada com o aluguel.",
+        "Se ficarmos atrasados agora, não terminaremos até junho."
+      ]
+    },
+    {
+      "verb": "Close off",
+      "def": "Bloquear uma área para que ninguém entre",
+      "ex": [
+        "A polícia bloqueou a rua depois do acidente.",
+        "O parque bloqueou a trilha durante os reparos.",
+        "Eles bloquearam a praia por causa das ondas altas."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "flash flood",
+      "def": "Uma enchente repentina causada por chuva muito forte",
+      "ex": [
+        "Uma enchente repentina levou a estrada.",
+        "Enchentes repentinas são comuns em cânions desérticos.",
+        "O aviso dizia que uma enchente repentina era possível esta noite."
+      ]
+    },
+    {
+      "word": "footbridges",
+      "def": "Pequenas pontes para pedestres",
+      "ex": [
+        "Uma passarela cruza o riacho perto do acampamento.",
+        "A passarela antiga foi fechada para reparos.",
+        "Os caminhantes usam as passarelas para chegar à outra margem."
+      ]
+    },
+    {
+      "word": "stopover",
+      "def": "Um lugar onde os viajantes param e descansam durante uma viagem",
+      "ex": [
+        "A vila é um ponto de parada popular para ciclistas.",
+        "Fizemos uma parada de uma noite em Denver.",
+        "O rancho era uma parada para os caminhantes que atravessavam o cânion."
+      ]
+    },
+    {
+      "word": "rafters",
+      "def": "Pessoas que descem um rio em uma balsa",
+      "ex": [
+        "Os praticantes de rafting acamparam em uma praia de areia junto ao rio.",
+        "Praticantes de rafting experientes conhecem as maiores corredeiras.",
+        "Um grupo de praticantes de rafting esperou a água baixar."
+      ]
+    },
+    {
+      "word": "burn scar",
+      "def": "Terreno deixado sem vegetação depois de um incêndio florestal",
+      "ex": [
+        "Chuva forte sobre uma área queimada pode causar deslizamentos de terra.",
+        "A área queimada se estende por quilômetros ao longo da encosta.",
+        "A grama está voltando aos poucos à área queimada."
+      ]
+    },
+    {
+      "word": "runoff",
+      "def": "Água da chuva que corre pelo solo até riachos e rios",
+      "ex": [
+        "O escoamento das colinas encheu o riacho em minutos.",
+        "Ruas pavimentadas aumentam o escoamento durante tempestades.",
+        "Os agricultores se preocupam com o escoamento levando o solo embora."
+      ]
+    },
+    {
+      "word": "night vision",
+      "def": "Equipamento que permite ver no escuro",
+      "ex": [
+        "Os pilotos usavam óculos de visão noturna.",
+        "Câmeras de visão noturna filmaram os animais depois do pôr do sol.",
+        "Os soldados usam visão noturna para se mover no escuro."
+      ]
+    },
+    {
+      "word": "permit records",
+      "def": "Registros oficiais de quem recebeu permissão para fazer algo",
+      "ex": [
+        "O parque mantém registros de permissão para cada acampamento.",
+        "As autoridades verificaram os registros de permissão para ver quem estava na trilha.",
+        "Os registros de permissão mostraram 20 grupos no cânion naquela noite."
+      ]
+    },
+    {
+      "word": "license plates",
+      "def": "As placas de metal com números na frente e atrás de um carro",
+      "ex": [
+        "A polícia verificou as placas dos carros no estacionamento.",
+        "O carro tinha placas do Texas.",
+        "Uma câmera lê as placas dos carros na entrada."
+      ]
+    },
+    {
+      "word": "chiropractor",
+      "def": "Um profissional de saúde que trata problemas de coluna e articulações com as mãos",
+      "ex": [
+        "Ela vai a um quiroprata por causa da dor nas costas.",
+        "O quiroprata ajustou o pescoço dele.",
+        "Ele estudou quatro anos para se tornar quiroprata."
+      ]
+    },
+    {
+      "word": "martial arts",
+      "def": "Esportes de luta como caratê e judô",
+      "ex": [
+        "Ele ensina artes marciais há 20 anos.",
+        "As crianças fazem aulas de artes marciais aos sábados.",
+        "As artes marciais desenvolvem força e disciplina."
+      ]
+    },
+    {
+      "word": "searchers",
+      "def": "Pessoas que estão tentando encontrar alguém ou algo",
+      "ex": [
+        "Os buscadores encontraram o menino perdido depois de dois dias.",
+        "Centenas de buscadores percorreram as colinas em fila.",
+        "Os buscadores usaram cães e drones."
+      ]
+    },
+    {
+      "word": "drones",
+      "def": "Pequenas aeronaves sem piloto a bordo",
+      "ex": [
+        "Drones filmaram os danos do alto.",
+        "A equipe pilotou drones sobre o rio.",
+        "Os agricultores usam drones para verificar suas plantações."
+      ]
+    },
+    {
+      "word": "pipeline",
+      "def": "Um duto longo que transporta água, petróleo ou gás",
+      "ex": [
+        "O duto leva água da nascente até a vila.",
+        "Uma rachadura no duto causou o vazamento.",
+        "Os trabalhadores repararam o duto em três dias."
+      ]
+    },
+    {
+      "word": "in storage",
+      "def": "Guardado em tanques ou em um prédio para uso posterior",
+      "ex": [
+        "A cidade tem uma semana de combustível armazenado.",
+        "Guardamos nossas roupas de inverno no depósito.",
+        "Há grão suficiente armazenado para o ano."
+      ]
+    },
+    {
+      "word": "overnight guests",
+      "def": "Pessoas que ficam em algum lugar durante a noite",
+      "ex": [
+        "O albergue recebe 60 hóspedes por noite.",
+        "Os hóspedes devem fazer check-in até as 20h.",
+        "O hotel parou de aceitar hóspedes para passar a noite."
+      ]
+    },
+    {
+      "word": "upgrade",
+      "def": "Trabalho que torna algo mais novo ou melhor",
+      "ex": [
+        "A reforma do aeroporto vai levar três anos.",
+        "A cidade aprovou uma reforma do sistema de água.",
+        "A atualização do software resolveu o problema."
+      ]
+    },
+    {
+      "word": "reopening date",
+      "def": "O dia em que um lugar fechado vai abrir de novo",
+      "ex": [
+        "O museu não anunciou uma data de reabertura.",
+        "A data de reabertura da ponte é 1º de maio.",
+        "Sem uma data de reabertura, as lojas próximas perderam clientes."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Até o pôr do sol de sábado, 45 pessoas haviam sido resgatadas.",
+      "a": true,
+      "why": "As equipes de resgate trouxeram helicópteros, e mais 37 pessoas foram retiradas de avião no domingo, cerca de 80 no total."
+    },
+    {
+      "s": "A enchente destruiu apenas algumas das passarelas sobre o Bright Angel Creek.",
+      "a": false,
+      "why": "A enchente repentina que atingiu o Bright Angel Canyon derrubou quase todas as passarelas sobre o córrego perto de Phantom Ranch."
+    },
+    {
+      "s": "A Cruz Vermelha cuidou das pessoas resgatadas em um albergue no South Rim.",
+      "a": true,
+      "why": "Depois do resgate, a Cruz Vermelha cuidou delas em um albergue no South Rim, e os guardas florestais então vasculharam os registros de permissão para contar quem ainda estava desaparecido."
+    },
+    {
+      "s": "Os três amigos que partiram para caminhar e pescar foram encontrados vivos.",
+      "a": false,
+      "why": "Dois dos homens morreram, e o terceiro, um piloto do Wyoming, ainda estava desaparecido em 3 de setembro, enquanto mais de 100 buscadores continuavam procurando."
+    },
+    {
+      "s": "Cerca de 40 por cento do duto de água do parque está danificado.",
+      "a": true,
+      "why": "A enchente derrubou o único duto de água do parque, e a subgerente disse que cerca de 40 por cento dele está danificado."
+    },
+    {
+      "s": "O parque reabriu as trilhas danificadas em 3 de setembro.",
+      "a": false,
+      "why": "Em 3 de setembro, o parque fechou mais trilhas e não deu uma data de reabertura."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Uma enchente repentina atingiu o fundo do Grand Canyon, e cerca de 80 pessoas foram resgatadas de helicóptero. Duas pessoas morreram, uma está desaparecida, e o único duto de água do parque está gravemente danificado.",
+      "a": true,
+      "why": "As equipes de resgate salvaram cerca de 80 pessoas durante o fim de semana de 29 e 30 de agosto, dois caminhantes do Texas morreram, um terceiro amigo está desaparecido, e cerca de 40 por cento do duto está danificado."
+    },
+    {
+      "s": "Uma enchente repentina no fundo do Grand Canyon matou dois caminhantes e deixou um terceiro desaparecido. As equipes de resgate salvaram cerca de 80 pessoas, e o duto de água escapou sem danos.",
+      "a": false,
+      "why": "Quase certo, mas a enchente danificou cerca de 40 por cento do único duto de água do parque, e o South Rim tem cerca de duas semanas de água armazenada."
+    },
+    {
+      "s": "Um incêndio florestal no North Rim do Grand Canyon forçou centenas de visitantes a deixar o parque. O incêndio destruiu um albergue histórico e fechou as principais trilhas pelo resto do verão.",
+      "a": false,
+      "why": "O evento foi uma enchente repentina, não um incêndio. O incêndio Dragon Bravo aconteceu em julho de 2025, e sua área queimada só importa porque o solo exposto faz a chuva escorrer mais rápido."
+    }
+  ],
+  "dialogue": {
+    "Thank goodness for that": "Usado para mostrar alívio ao ouvir que algo ruim não aconteceu",
+    "My heart goes out to": "Usado para dizer que você sente profunda compaixão por pessoas que estão sofrendo",
+    "That's the last thing they need": "Usado para dizer que um novo problema é especialmente ruim para pessoas que já têm problemas",
+    "Talk about bad timing": "Usado para dizer que algo aconteceu no pior momento possível",
+    "It could have been a lot worse": "Usado para dizer que uma situação ruim não foi tão ruim quanto poderia ter sido"
+  }
+}

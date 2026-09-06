@@ -1,1 +1,435 @@
-{"id":"nyc-schools-ai-ban-2026","number":101,"lang":"pt","headline":"Nova York proíbe ferramentas de IA para alunos mais novos","chunks":["As escolas públicas de Nova York não vão permitir que alunos do ensino fundamental I e II usem ferramentas de IA generativa este ano. O prefeito apresentou o plano em 2 de setembro de 2026, oito dias antes de os alunos voltarem às aulas. A moratória de um ano cobre todo o software de IA voltado para alunos, do 2-K até o oitavo ano, quase 600 mil alunos, o que o gabinete do prefeito chamou de a proibição mais ampla do país. A cidade também está reprimindo os aplicativos de companhia de IA em todas as séries.","A cidade também quer que os alunos mais novos reduzam o tempo de tela, recomendando um limite diário de 30 minutos em dispositivos individuais para o terceiro ao quinto ano e 45 minutos para o sexto ao oitavo ano, e nenhum dispositivo individual antes do terceiro ano. As autoridades vão desligar os recursos de IA em cerca de 38 ferramentas educacionais e eliminar gradualmente tecnologia que não é essencial para o aprendizado. Os professores ainda poderão usar IA para o planejamento de aulas, mas não para correção.","No ensino médio, a cidade vai lançar duas aulas de 45 minutos de alfabetização em IA por ano para cada aluno, e até 50 mil alunos poderão testar cinco programas de IA aprovados sob a supervisão de um professor. Apoiadores se manifestaram rapidamente. O governador de Nova York elogiou o plano, e o presidente do sindicato dos professores recebeu bem os limites de tempo de tela. O prefeito disse que as crianças precisam de professores e de conexão humana para aprender.","O líder do sindicato também apontou lacunas: muitas perguntas continuam sem resposta, e as escolas terão que descobrir depois do fato se suas ferramentas se encaixam nas regras. Um grupo de defesa das crianças disse que um ano não é tempo suficiente para avaliar. Um pesquisador de educação alertou que alunos mais pobres podem perder a chance de ter a tecnologia que famílias mais ricas têm. O prefeito disse que confia que professores e diretores vão aplicar a política. Uma nova coalizão de alunos, pais e educadores vai investigar os efeitos e publicar recomendações até o fim do ano letivo."],"verbs":[{"base":"lay out","correct":"Explicar um plano em detalhes","wrong":"Encerrar o emprego de um trabalhador"},{"base":"head back","correct":"Voltar a um lugar","wrong":"Impedir um problema cedo"},{"base":"crack down on","correct":"Tomar medidas rígidas contra algo","wrong":"Começar a falhar sob pressão"},{"base":"cut down on","correct":"Usar menos de algo","wrong":"Remover algo completamente"},{"base":"turn off","correct":"Fazer um recurso parar de funcionar","wrong":"Recusar uma oferta ou pedido"},{"base":"phase out","correct":"Parar de usar algo aos poucos","wrong":"Testar algo antes de usá-lo amplamente"},{"base":"roll out","correct":"Lançar algo novo em grande escala","wrong":"Cancelar uma regra ou decisão"},{"base":"try out","correct":"Testar algo para ver como funciona","wrong":"Pedir permissão para usar algo"},{"base":"weigh in","correct":"Dar uma opinião sobre um assunto","wrong":"Comparar duas opções com cuidado"},{"base":"point out","correct":"Chamar atenção para algo","wrong":"Culpar alguém por um problema"},{"base":"figure out","correct":"Entender algo depois de pensar","wrong":"Incluir algo em um plano"},{"base":"miss out on","correct":"Perder a chance de ter algo","wrong":"Pagar mais do que os outros"},{"base":"look into","correct":"Examinar algo com cuidado","wrong":"Cuidar de alguém"}],"vocab":[{"verb":"Lay out","def":"Explicar um plano em detalhes","ex":["O gerente apresentou o cronograma do próximo mês.","Ela explicou suas ideias em uma apresentação curta.","O prefeito vai apresentar o orçamento na terça-feira."]},{"verb":"Head back","def":"Voltar a um lugar","ex":["Voltamos para o hotel depois do jantar.","Os alunos voltam para a escola em setembro.","Está escurecendo, então vamos voltar."]},{"verb":"Crack down on","def":"Tomar medidas rígidas contra algo","ex":["A polícia está reprimindo o excesso de velocidade perto das escolas.","A escola tomou medidas rígidas contra a cola durante as provas.","A cidade planeja tomar medidas rígidas contra o estacionamento irregular."]},{"verb":"Cut down on","def":"Usar menos de algo","ex":["Estou tentando tomar menos café.","A empresa reduziu o uso de papel ao digitalizar tudo.","Os pais querem que os filhos joguem menos videogame."]},{"verb":"Turn off","def":"Fazer um recurso parar de funcionar","ex":["Por favor, desative a reprodução automática.","Ele desativou o rastreamento de localização no celular.","O professor desativou o chat durante a prova."]},{"verb":"Phase out","def":"Parar de usar algo aos poucos","ex":["A empresa está eliminando aos poucos seu software antigo.","O estado vai eliminar a energia a carvão até 2035.","As passagens de papel foram eliminadas no ano passado."]},{"verb":"Roll out","def":"Lançar algo novo em grande escala","ex":["A cidade lançou um novo aplicativo de ônibus na primavera passada.","A empresa vai lançar a atualização na semana que vem.","As escolas estão lançando um novo programa de leitura."]},{"verb":"Try out","def":"Testar algo para ver como funciona","ex":["Você pode testar o aplicativo de graça por um mês.","A professora testou uma nova forma de ensinar frações.","Testamos o carro antes de comprá-lo."]},{"verb":"Weigh in","def":"Dar uma opinião sobre um assunto","ex":["Vários especialistas deram sua opinião sobre a nova lei.","Os pais foram convidados a opinar sobre o plano.","O governador deu sua opinião sobre o debate na sexta-feira."]},{"verb":"Point out","def":"Chamar atenção para algo","ex":["Ela apontou um problema no cronograma.","O relatório aponta vários riscos.","Ele apontou que a loja fecha às seis."]},{"verb":"Figure out","def":"Entender algo depois de pensar","ex":["Não consigo entender como esse aplicativo funciona.","A equipe descobriu por que o teste falhou.","Precisamos bolar um plano para o verão."]},{"verb":"Miss out on","def":"Perder a chance de ter algo","ex":["Alunos que faltam às aulas perdem lições importantes.","Perdi a promoção porque estava viajando.","Não perca a chance dos ingressos gratuitos."]},{"verb":"Look into","def":"Examinar algo com cuidado","ex":["A escola está investigando a reclamação.","Cientistas vão investigar a causa da doença.","Devíamos pesquisar opções mais baratas."]}],"wordDefs":[{"word":"moratorium","def":"Uma pausa oficial em uma atividade por um período de tempo","ex":["A cidade impôs uma moratória em novas licenças de construção.","A moratória sobre a pesca vai durar dois anos."]},{"word":"AI companion apps","def":"Programas de IA feitos para conversar com uma pessoa como um amigo","ex":["Alguns adolescentes passam horas conversando com aplicativos de companhia de IA.","Médicos levantaram preocupações sobre aplicativos de companhia de IA e solidão."]},{"word":"screen time","def":"Tempo passado olhando para um celular, tablet ou computador","ex":["Médicos recomendam menos tempo de tela para crianças pequenas.","Os pais dela limitam o tempo de tela a uma hora por dia."]},{"word":"cap","def":"Um limite máximo para uma quantidade","ex":["Há um limite para quanto você pode gastar por mês.","A cidade impôs um limite para aumentos de aluguel."]},{"word":"individual devices","def":"Computadores ou tablets dados a cada aluno separadamente","ex":["Todo aluno da escola tem um dispositivo individual.","O professor recolhe os dispositivos individuais no fim da aula."]},{"word":"education tools","def":"Programas ou softwares usados para ensinar e aprender","ex":["A rede escolar paga por dezenas de ferramentas educacionais.","Muitas ferramentas educacionais agora incluem um assistente de IA."]},{"word":"essential","def":"Completamente necessário","ex":["A água é essencial para a vida.","Dormir bem é essencial para os alunos."]},{"word":"lesson planning","def":"Preparar o que ensinar e como ensinar","ex":["Os professores passam horas por semana no planejamento de aulas.","O novo software ajuda no planejamento de aulas."]},{"word":"grading","def":"Dar notas ou pontuações aos trabalhos dos alunos","ex":["O professor passou o fim de semana corrigindo redações.","A correção demora mais em turmas grandes."]},{"word":"AI literacy","def":"Entender como a IA funciona e como usá-la com sabedoria","ex":["A biblioteca oferece aulas gratuitas de alfabetização em IA para adultos.","A alfabetização em IA inclui saber quando um assistente de IA pode estar errado."]},{"word":"supervision","def":"Observar alguém para garantir que as coisas sejam feitas corretamente","ex":["As crianças só podem usar a piscina sob supervisão de um adulto.","A nova enfermeira trabalha sob a supervisão de um médico."]},{"word":"commended","def":"Elogiado de forma oficial ou pública","ex":["O prefeito elogiou os bombeiros pela coragem deles.","O relatório elogiou a resposta rápida do hospital."]},{"word":"connection","def":"Um sentimento de proximidade e compreensão entre pessoas","ex":["Os alunos aprendem melhor quando sentem uma conexão com o professor.","Os dois amigos têm uma forte conexão."]},{"word":"gaps","def":"Coisas que estão faltando ou não foram cobertas","ex":["A auditoria encontrou falhas na segurança da empresa.","Há lacunas na nova lei que precisam ser corrigidas."]},{"word":"unanswered","def":"Ainda não respondido ou explicado","ex":["Muitas perguntas sobre o plano continuam sem resposta.","Meu e-mail ficou sem resposta por uma semana."]},{"word":"after the fact","def":"Depois que algo já aconteceu","ex":["Só soubemos da mudança depois do fato.","É fácil criticar uma decisão depois do fato."]},{"word":"evaluate","def":"Julgar quão boa ou útil é uma coisa","ex":["A escola vai avaliar o programa na próxima primavera.","Os médicos avaliam cada paciente antes da cirurgia."]},{"word":"enforce","def":"Garantir que uma regra seja cumprida","ex":["A polícia aplica o limite de velocidade nessa via.","A escola nem sempre aplica seu código de vestimenta."]},{"word":"coalition","def":"Um grupo de pessoas ou organizações que trabalham juntas por um objetivo","ex":["Uma coalizão de pais pediu turmas menores.","A coalizão inclui professores, médicos e líderes empresariais."]},{"word":"recommendations","def":"Sugestões oficiais sobre o que deve ser feito","ex":["O comitê vai publicar suas recomendações em junho.","As recomendações do médico incluíam mais exercício."]}],"tf":[{"s":"A proibição se aplica a alunos do 2-K ao oitavo ano.","a":true,"why":"O prefeito apresentou a moratória de um ano em 2 de setembro de 2026, e ela cobre todo o software de IA voltado para alunos, para quase 600 mil alunos nessas séries."},{"s":"A cidade recomenda um limite diário de tempo de tela de 60 minutos para o sexto ao oitavo ano.","a":false,"why":"Para ajudar os alunos mais novos a reduzir o tempo de tela, a cidade recomenda 45 minutos por dia para o sexto ao oitavo ano e 30 minutos para o terceiro ao quinto ano."},{"s":"Os aplicativos de companhia de IA ainda são permitidos no ensino médio.","a":false,"why":"A cidade está reprimindo os aplicativos de companhia de IA, que são proibidos em todas as séries."},{"s":"Até 50 mil alunos do ensino médio podem testar cinco programas de IA aprovados.","a":true,"why":"Os programas são usados sob a supervisão de um professor, e todo aluno do ensino médio também recebe duas aulas de alfabetização em IA de 45 minutos por ano."},{"s":"Os professores podem usar IA para o planejamento de aulas, mas não para correção.","a":true,"why":"Os professores mantêm a IA para o planejamento de aulas, enquanto as autoridades desligam os recursos de IA em cerca de 38 ferramentas educacionais já usadas pelos alunos."},{"s":"Um grupo de defesa das crianças disse que um ano é tempo demais para a moratória.","a":false,"why":"O grupo disse que um ano não é tempo suficiente para avaliar a proibição, e o líder do sindicato apontou que muitas perguntas continuam sem resposta."}],"mainIdea":[{"s":"Nova York vai impedir que alunos abaixo do ensino médio usem ferramentas de IA generativa por um ano letivo enquanto estuda os efeitos. A cidade também recomenda limites diários de tempo de tela, e educadores e pais têm opiniões divididas.","a":true,"why":"A moratória de um ano cobre do 2-K ao oitavo ano, a cidade recomenda limites diários de 30 e 45 minutos, e tanto apoiadores quanto céticos deram sua opinião."},{"s":"Nova York vai pausar a IA generativa para alunos até o oitavo ano por um ano e estudar o que acontece. Os professores dessas séries também devem parar de usar IA para o planejamento de aulas e qualquer outro trabalho em sala de aula ou no escritório.","a":false,"why":"Quase, mas os professores ainda podem usar IA para o planejamento de aulas, embora não para correção. A proibição cobre ferramentas voltadas para alunos, e os limites de tempo de tela são recomendações."},{"s":"Nova York vai dar a cada aluno do ensino médio um laptop com um tutor de IA aprovado neste outono. As autoridades dizem que o programa vai preparar os alunos para empregos em uma economia cada vez mais impulsionada por IA e novas tecnologias.","a":false,"why":"Não existe nenhum programa de laptops. A cidade está limitando a IA, com uma proibição de um ano até o oitavo ano e apenas pequenos projetos-piloto supervisionados no ensino médio."}],"dialogue":{"That's a big deal":"Usado para dizer que algo é importante e vai ter efeitos reais","Good luck with that":"Usado, muitas vezes com um pouco de sarcasmo, para dizer que algo vai ser difícil de fazer","Fair point":"Usado para admitir que o que alguém acabou de dizer faz sentido","Time will tell":"Usado para dizer que o resultado de algo só vai ficar claro mais tarde"}}
+{
+  "id": "nyc-schools-ai-ban-2026",
+  "number": 101,
+  "lang": "pt",
+  "headline": "Nova York proíbe ferramentas de IA para alunos mais novos",
+  "chunks": [
+    "As escolas públicas de Nova York não vão permitir que alunos do ensino fundamental I e II usem ferramentas de IA generativa este ano. O prefeito apresentou o plano em 2 de setembro de 2026, oito dias antes de os alunos voltarem às aulas. A moratória de um ano cobre todo o software de IA voltado para alunos, do 2-K até o oitavo ano, quase 600 mil alunos, o que o gabinete do prefeito chamou de a proibição mais ampla do país. A cidade também está reprimindo os aplicativos de companhia de IA em todas as séries.",
+    "A cidade também quer que os alunos mais novos reduzam o tempo de tela, recomendando um limite diário de 30 minutos em dispositivos individuais para o terceiro ao quinto ano e 45 minutos para o sexto ao oitavo ano, e nenhum dispositivo individual antes do terceiro ano. As autoridades vão desligar os recursos de IA em cerca de 38 ferramentas educacionais e eliminar gradualmente tecnologia que não é essencial para o aprendizado. Os professores ainda poderão usar IA para o planejamento de aulas, mas não para correção.",
+    "No ensino médio, a cidade vai lançar duas aulas de 45 minutos de alfabetização em IA por ano para cada aluno, e até 50 mil alunos poderão testar cinco programas de IA aprovados sob a supervisão de um professor. Apoiadores se manifestaram rapidamente. O governador de Nova York elogiou o plano, e o presidente do sindicato dos professores recebeu bem os limites de tempo de tela. O prefeito disse que as crianças precisam de professores e de conexão humana para aprender.",
+    "O líder do sindicato também apontou lacunas: muitas perguntas continuam sem resposta, e as escolas terão que descobrir depois do fato se suas ferramentas se encaixam nas regras. Um grupo de defesa das crianças disse que um ano não é tempo suficiente para avaliar. Um pesquisador de educação alertou que alunos mais pobres podem perder a chance de ter a tecnologia que famílias mais ricas têm. O prefeito disse que confia que professores e diretores vão aplicar a política. Uma nova coalizão de alunos, pais e educadores vai investigar os efeitos e publicar recomendações até o fim do ano letivo."
+  ],
+  "verbs": [
+    {
+      "base": "lay out",
+      "correct": "Explicar um plano em detalhes",
+      "wrong": "Encerrar o emprego de um trabalhador"
+    },
+    {
+      "base": "head back",
+      "correct": "Voltar a um lugar",
+      "wrong": "Impedir um problema cedo"
+    },
+    {
+      "base": "crack down on",
+      "correct": "Tomar medidas rígidas contra algo",
+      "wrong": "Começar a falhar sob pressão"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Usar menos de algo",
+      "wrong": "Remover algo completamente"
+    },
+    {
+      "base": "turn off",
+      "correct": "Fazer um recurso parar de funcionar",
+      "wrong": "Recusar uma oferta ou pedido"
+    },
+    {
+      "base": "phase out",
+      "correct": "Parar de usar algo aos poucos",
+      "wrong": "Testar algo antes de usá-lo amplamente"
+    },
+    {
+      "base": "roll out",
+      "correct": "Lançar algo novo em grande escala",
+      "wrong": "Cancelar uma regra ou decisão"
+    },
+    {
+      "base": "try out",
+      "correct": "Testar algo para ver como funciona",
+      "wrong": "Pedir permissão para usar algo"
+    },
+    {
+      "base": "weigh in",
+      "correct": "Dar uma opinião sobre um assunto",
+      "wrong": "Comparar duas opções com cuidado"
+    },
+    {
+      "base": "point out",
+      "correct": "Chamar atenção para algo",
+      "wrong": "Culpar alguém por um problema"
+    },
+    {
+      "base": "figure out",
+      "correct": "Entender algo depois de pensar",
+      "wrong": "Incluir algo em um plano"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Perder a chance de ter algo",
+      "wrong": "Pagar mais do que os outros"
+    },
+    {
+      "base": "look into",
+      "correct": "Examinar algo com cuidado",
+      "wrong": "Cuidar de alguém"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Lay out",
+      "def": "Explicar um plano em detalhes",
+      "ex": [
+        "O gerente apresentou o cronograma do próximo mês.",
+        "Ela explicou suas ideias em uma apresentação curta.",
+        "O prefeito vai apresentar o orçamento na terça-feira."
+      ]
+    },
+    {
+      "verb": "Head back",
+      "def": "Voltar a um lugar",
+      "ex": [
+        "Voltamos para o hotel depois do jantar.",
+        "Os alunos voltam para a escola em setembro.",
+        "Está escurecendo, então vamos voltar."
+      ]
+    },
+    {
+      "verb": "Crack down on",
+      "def": "Tomar medidas rígidas contra algo",
+      "ex": [
+        "A polícia está reprimindo o excesso de velocidade perto das escolas.",
+        "A escola tomou medidas rígidas contra a cola durante as provas.",
+        "A cidade planeja tomar medidas rígidas contra o estacionamento irregular."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Usar menos de algo",
+      "ex": [
+        "Estou tentando tomar menos café.",
+        "A empresa reduziu o uso de papel ao digitalizar tudo.",
+        "Os pais querem que os filhos joguem menos videogame."
+      ]
+    },
+    {
+      "verb": "Turn off",
+      "def": "Fazer um recurso parar de funcionar",
+      "ex": [
+        "Por favor, desative a reprodução automática.",
+        "Ele desativou o rastreamento de localização no celular.",
+        "O professor desativou o chat durante a prova."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Parar de usar algo aos poucos",
+      "ex": [
+        "A empresa está eliminando aos poucos seu software antigo.",
+        "O estado vai eliminar a energia a carvão até 2035.",
+        "As passagens de papel foram eliminadas no ano passado."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Lançar algo novo em grande escala",
+      "ex": [
+        "A cidade lançou um novo aplicativo de ônibus na primavera passada.",
+        "A empresa vai lançar a atualização na semana que vem.",
+        "As escolas estão lançando um novo programa de leitura."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Testar algo para ver como funciona",
+      "ex": [
+        "Você pode testar o aplicativo de graça por um mês.",
+        "A professora testou uma nova forma de ensinar frações.",
+        "Testamos o carro antes de comprá-lo."
+      ]
+    },
+    {
+      "verb": "Weigh in",
+      "def": "Dar uma opinião sobre um assunto",
+      "ex": [
+        "Vários especialistas deram sua opinião sobre a nova lei.",
+        "Os pais foram convidados a opinar sobre o plano.",
+        "O governador deu sua opinião sobre o debate na sexta-feira."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Chamar atenção para algo",
+      "ex": [
+        "Ela apontou um problema no cronograma.",
+        "O relatório aponta vários riscos.",
+        "Ele apontou que a loja fecha às seis."
+      ]
+    },
+    {
+      "verb": "Figure out",
+      "def": "Entender algo depois de pensar",
+      "ex": [
+        "Não consigo entender como esse aplicativo funciona.",
+        "A equipe descobriu por que o teste falhou.",
+        "Precisamos bolar um plano para o verão."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Perder a chance de ter algo",
+      "ex": [
+        "Alunos que faltam às aulas perdem lições importantes.",
+        "Perdi a promoção porque estava viajando.",
+        "Não perca a chance dos ingressos gratuitos."
+      ]
+    },
+    {
+      "verb": "Look into",
+      "def": "Examinar algo com cuidado",
+      "ex": [
+        "A escola está investigando a reclamação.",
+        "Cientistas vão investigar a causa da doença.",
+        "Devíamos pesquisar opções mais baratas."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "moratorium",
+      "def": "Uma pausa oficial em uma atividade por um período de tempo",
+      "ex": [
+        "A cidade impôs uma moratória em novas licenças de construção.",
+        "A moratória sobre a pesca vai durar dois anos.",
+        "Os legisladores votaram a favor de uma moratória sobre o imposto."
+      ]
+    },
+    {
+      "word": "AI companion apps",
+      "def": "Programas de IA feitos para conversar com uma pessoa como um amigo",
+      "ex": [
+        "Alguns adolescentes passam horas conversando com aplicativos de companhia de IA.",
+        "Médicos levantaram preocupações sobre aplicativos de companhia de IA e solidão.",
+        "Muitos aplicativos de companhia de IA lembram suas conversas anteriores."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Tempo passado olhando para um celular, tablet ou computador",
+      "ex": [
+        "Médicos recomendam menos tempo de tela para crianças pequenas.",
+        "Os pais dela limitam o tempo de tela a uma hora por dia.",
+        "Tempo de tela em excesso pode dificultar o sono."
+      ]
+    },
+    {
+      "word": "cap",
+      "def": "Um limite máximo para uma quantidade",
+      "ex": [
+        "Há um limite para quanto você pode gastar por mês.",
+        "A cidade impôs um limite para aumentos de aluguel.",
+        "A turma tem um limite de 25 alunos."
+      ]
+    },
+    {
+      "word": "individual devices",
+      "def": "Computadores ou tablets dados a cada aluno separadamente",
+      "ex": [
+        "Todo aluno da escola tem um dispositivo individual.",
+        "O professor recolhe os dispositivos individuais no fim da aula.",
+        "Crianças menores não precisam de dispositivos individuais para aprender."
+      ]
+    },
+    {
+      "word": "education tools",
+      "def": "Programas ou softwares usados para ensinar e aprender",
+      "ex": [
+        "A rede escolar paga por dezenas de ferramentas educacionais.",
+        "Muitas ferramentas educacionais agora incluem um assistente de IA.",
+        "Os professores testaram as ferramentas educacionais antes do ano letivo."
+      ]
+    },
+    {
+      "word": "essential",
+      "def": "Completamente necessário",
+      "ex": [
+        "A água é essencial para a vida.",
+        "Dormir bem é essencial para os alunos.",
+        "A loja vende apenas itens essenciais."
+      ]
+    },
+    {
+      "word": "lesson planning",
+      "def": "Preparar o que ensinar e como ensinar",
+      "ex": [
+        "Os professores passam horas por semana no planejamento de aulas.",
+        "O novo software ajuda no planejamento de aulas.",
+        "O planejamento de aulas é mais fácil quando o livro didático é bom."
+      ]
+    },
+    {
+      "word": "grading",
+      "def": "Dar notas ou pontuações aos trabalhos dos alunos",
+      "ex": [
+        "O professor passou o fim de semana corrigindo redações.",
+        "A correção demora mais em turmas grandes.",
+        "A escola mudou seu sistema de notas no ano passado."
+      ]
+    },
+    {
+      "word": "AI literacy",
+      "def": "Entender como a IA funciona e como usá-la com sabedoria",
+      "ex": [
+        "A biblioteca oferece aulas gratuitas de alfabetização em IA para adultos.",
+        "A alfabetização em IA inclui saber quando um assistente de IA pode estar errado.",
+        "Muitas empresas agora querem funcionários com alfabetização básica em IA."
+      ]
+    },
+    {
+      "word": "supervision",
+      "def": "Observar alguém para garantir que as coisas sejam feitas corretamente",
+      "ex": [
+        "As crianças só podem usar a piscina sob supervisão de um adulto.",
+        "A nova enfermeira trabalha sob a supervisão de um médico.",
+        "O experimento foi feito sob supervisão rigorosa."
+      ]
+    },
+    {
+      "word": "commended",
+      "def": "Elogiado de forma oficial ou pública",
+      "ex": [
+        "O prefeito elogiou os bombeiros pela coragem deles.",
+        "O relatório elogiou a resposta rápida do hospital.",
+        "Ela foi elogiada pelo chefe por seu trabalho árduo."
+      ]
+    },
+    {
+      "word": "connection",
+      "def": "Um sentimento de proximidade e compreensão entre pessoas",
+      "ex": [
+        "Os alunos aprendem melhor quando sentem uma conexão com o professor.",
+        "Os dois amigos têm uma forte conexão.",
+        "Chamadas de vídeo não podem substituir a conexão humana real."
+      ]
+    },
+    {
+      "word": "gaps",
+      "def": "Coisas que estão faltando ou não foram cobertas",
+      "ex": [
+        "A auditoria encontrou falhas na segurança da empresa.",
+        "Há lacunas na nova lei que precisam ser corrigidas.",
+        "A professora notou lacunas no conhecimento dos alunos."
+      ]
+    },
+    {
+      "word": "unanswered",
+      "def": "Ainda não respondido ou explicado",
+      "ex": [
+        "Muitas perguntas sobre o plano continuam sem resposta.",
+        "Meu e-mail ficou sem resposta por uma semana.",
+        "O relatório deixa várias perguntas sem resposta."
+      ]
+    },
+    {
+      "word": "after the fact",
+      "def": "Depois que algo já aconteceu",
+      "ex": [
+        "Só soubemos da mudança depois do fato.",
+        "É fácil criticar uma decisão depois do fato.",
+        "As regras foram explicadas depois do fato, o que incomodou a equipe."
+      ]
+    },
+    {
+      "word": "evaluate",
+      "def": "Julgar quão boa ou útil é uma coisa",
+      "ex": [
+        "A escola vai avaliar o programa na próxima primavera.",
+        "Os médicos avaliam cada paciente antes da cirurgia.",
+        "É difícil avaliar um novo professor depois de uma semana."
+      ]
+    },
+    {
+      "word": "enforce",
+      "def": "Garantir que uma regra seja cumprida",
+      "ex": [
+        "A polícia aplica o limite de velocidade nessa via.",
+        "A escola nem sempre aplica seu código de vestimenta.",
+        "Uma regra é inútil se ninguém a aplica."
+      ]
+    },
+    {
+      "word": "coalition",
+      "def": "Um grupo de pessoas ou organizações que trabalham juntas por um objetivo",
+      "ex": [
+        "Uma coalizão de pais pediu turmas menores.",
+        "A coalizão inclui professores, médicos e líderes empresariais.",
+        "Várias instituições de caridade formaram uma coalizão para combater a fome."
+      ]
+    },
+    {
+      "word": "recommendations",
+      "def": "Sugestões oficiais sobre o que deve ser feito",
+      "ex": [
+        "O comitê vai publicar suas recomendações em junho.",
+        "As recomendações do médico incluíam mais exercício.",
+        "A cidade ignorou a maioria das recomendações do relatório."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "A proibição se aplica a alunos do 2-K ao oitavo ano.",
+      "a": true,
+      "why": "O prefeito apresentou a moratória de um ano em 2 de setembro de 2026, e ela cobre todo o software de IA voltado para alunos, para quase 600 mil alunos nessas séries."
+    },
+    {
+      "s": "A cidade recomenda um limite diário de tempo de tela de 60 minutos para o sexto ao oitavo ano.",
+      "a": false,
+      "why": "Para ajudar os alunos mais novos a reduzir o tempo de tela, a cidade recomenda 45 minutos por dia para o sexto ao oitavo ano e 30 minutos para o terceiro ao quinto ano."
+    },
+    {
+      "s": "Os aplicativos de companhia de IA ainda são permitidos no ensino médio.",
+      "a": false,
+      "why": "A cidade está reprimindo os aplicativos de companhia de IA, que são proibidos em todas as séries."
+    },
+    {
+      "s": "Até 50 mil alunos do ensino médio podem testar cinco programas de IA aprovados.",
+      "a": true,
+      "why": "Os programas são usados sob a supervisão de um professor, e todo aluno do ensino médio também recebe duas aulas de alfabetização em IA de 45 minutos por ano."
+    },
+    {
+      "s": "Os professores podem usar IA para o planejamento de aulas, mas não para correção.",
+      "a": true,
+      "why": "Os professores mantêm a IA para o planejamento de aulas, enquanto as autoridades desligam os recursos de IA em cerca de 38 ferramentas educacionais já usadas pelos alunos."
+    },
+    {
+      "s": "Um grupo de defesa das crianças disse que um ano é tempo demais para a moratória.",
+      "a": false,
+      "why": "O grupo disse que um ano não é tempo suficiente para avaliar a proibição, e o líder do sindicato apontou que muitas perguntas continuam sem resposta."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Nova York vai impedir que alunos abaixo do ensino médio usem ferramentas de IA generativa por um ano letivo enquanto estuda os efeitos. A cidade também recomenda limites diários de tempo de tela, e educadores e pais têm opiniões divididas.",
+      "a": true,
+      "why": "A moratória de um ano cobre do 2-K ao oitavo ano, a cidade recomenda limites diários de 30 e 45 minutos, e tanto apoiadores quanto céticos deram sua opinião."
+    },
+    {
+      "s": "Nova York vai pausar a IA generativa para alunos até o oitavo ano por um ano e estudar o que acontece. Os professores dessas séries também devem parar de usar IA para o planejamento de aulas e qualquer outro trabalho em sala de aula ou no escritório.",
+      "a": false,
+      "why": "Quase, mas os professores ainda podem usar IA para o planejamento de aulas, embora não para correção. A proibição cobre ferramentas voltadas para alunos, e os limites de tempo de tela são recomendações."
+    },
+    {
+      "s": "Nova York vai dar a cada aluno do ensino médio um laptop com um tutor de IA aprovado neste outono. As autoridades dizem que o programa vai preparar os alunos para empregos em uma economia cada vez mais impulsionada por IA e novas tecnologias.",
+      "a": false,
+      "why": "Não existe nenhum programa de laptops. A cidade está limitando a IA, com uma proibição de um ano até o oitavo ano e apenas pequenos projetos-piloto supervisionados no ensino médio."
+    }
+  ],
+  "dialogue": {
+    "That's a big deal": "Usado para dizer que algo é importante e vai ter efeitos reais",
+    "Good luck with that": "Usado, muitas vezes com um pouco de sarcasmo, para dizer que algo vai ser difícil de fazer",
+    "Fair point": "Usado para admitir que o que alguém acabou de dizer faz sentido",
+    "Time will tell": "Usado para dizer que o resultado de algo só vai ficar claro mais tarde"
+  }
+}

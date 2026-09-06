@@ -1,1 +1,432 @@
-{"id":"grand-canyon-floods-2026","number":99,"lang":"hu","headline":"Helikopterek 80 embert mentenek ki a Grand Canyon-i árvízből","chunks":["Villámárvíz söpört végig a Bright Angel-kanyonon a Grand Canyon Nemzeti Parkban, Arizonában, 2026. augusztus 29-én, szombaton. Körülbelül 30 perc alatt akár egy hüvelyknyi eső is esett. A víz a Phantom Ranch közelében, a Bright Angel-patak felett szinte az összes gyalogoshidat lerombolta, amely a túrázók és folyami evezősök megállóhelye. Eső esett a 2025 júliusi Dragon Bravo-tűz kiégett foltjára is, ahol a csupasz talaj felgyorsítja a lefolyást.","A mentőcsapatok helikoptereket hoztak, és a kutatók éjjellátó eszközöket használtak, hogy megtalálják az embereket a sötétben, mondta az esemény parancsnoka. Szombat naplementéig 45 embert mentettek ki, és vasárnap további 37-et vittek ki repülővel, összesen körülbelül 80-at. A Vöröskereszt egy szálláson gondoskodott róluk a South Rimen. A rangerek ezután átnézték az engedélynyilvántartásokat és ellenőrizték a rendszámtáblákat, hogy megszámolják, ki hiányzik még.","Két ember meghalt: egy 46 éves kiropraktor és egy 42 éves férfi, aki egy harcművészeti stúdió tulajdonosa volt, mindketten Texasból. Egy harmadik barát, egy 53 éves wyomingi pilóta szeptember 3-án még mindig eltűntként szerepelt, amikor több mint 100 kutató helikopterekkel, drónokkal és kutyákkal folytatta a keresést. A három férfi több napos túrázásra és horgászásra indult el, és utoljára augusztus 27-én, csütörtökön jelentkeztek a családjuknál.","Az árvíz a park fő vízvezetékét is tönkretette, amely 12,5 mérföld hosszú, és ez az egyetlen, amellyel a park rendelkezik. Körülbelül 40 százaléka sérült meg, mondta a park helyettes igazgatója, és a South Rimnek körülbelül két hétnyi vízkészlete van. A szállodák augusztus 31-től nem fogadtak éjszakázó vendégeket, és a látogatókat arra kérték, hogy csökkentsék a zuhanyozást. A vezeték 208 millió dolláros felújítása, amely 2023-ban kezdődött, most lemaradhat az ütemtervtől. Szeptember 3-án a park további ösvényeket zárt le, újranyitási dátum nélkül."],"verbs":[{"base":"sweep through","correct":"Gyorsan végigsöpörni egy területen","wrong":"Lassan emelkedni sok órán át"},{"base":"tear down","correct":"Teljesen lerombolni egy építményt","wrong":"Fokozatosan meggyengülni sok éven át"},{"base":"speed up","correct":"Valamit gyorsabban megtörténtté tenni","wrong":"Szivacsként felszívni a vizet"},{"base":"bring in","correct":"Segítséget hozni kívülről","wrong":"Hazavinni az embereket"},{"base":"fly out","correct":"Repülőgéppel elhagyni egy helyet","wrong":"Repülőgéppel átrepülni egy terület felett"},{"base":"look after","correct":"Megvédeni és segíteni valakit","wrong":"Megkeresni egy eltűnt személyt"},{"base":"go through","correct":"Nyilvántartásokat egyenként átnézni","wrong":"Megszámolni az embereket érkezéskor"},{"base":"keep on","correct":"Folytatni valamit","wrong":"Távol maradni a veszélytől"},{"base":"set out","correct":"Elindulni egy útra","wrong":"Tábort építeni"},{"base":"check in with","correct":"Jelentkezni valakinél hírekkel","wrong":"Terveket egyeztetni valakivel"},{"base":"knock out","correct":"Leállítani egy rendszert","wrong":"Iszappal megtölteni egy csatornát"},{"base":"cut down on","correct":"Kevesebbet használni valamiből","wrong":"Leállítani valaminek az ellátását"},{"base":"fall behind","correct":"A tervezettnél később lenni","wrong":"Nem úgy történni, ahogy tervezték"},{"base":"close off","correct":"Lezárni egy területet, hogy senki ne mehessen be","wrong":"Egy üzletet örökre és véglegesen bezárni"}],"vocab":[{"verb":"Sweep through","def":"Gyorsan végigsöpörni egy területen","ex":["Egy vihar söpört végig a völgyön tegnap éjjel.","A tűz néhány óra alatt végigsöpört a száraz dombokon.","Az influenza márciusban söpört végig az egész iskolán."]},{"verb":"Tear down","def":"Teljesen lerombolni egy építményt","ex":["A város lebontotta a régi hidat.","Jövőre lebontják a gyárat.","Az erős szél ledöntötte a kerítést."]},{"verb":"Speed up","def":"Valamit gyorsabban megtörténtté tenni","ex":["A meleg idő felgyorsítja a hó olvadását.","Az új szoftver felgyorsítja a munkánkat.","Fel tudjuk gyorsítani a szállítást?"]},{"verb":"Bring in","def":"Segítséget hozni kívülről","ex":["A kórház további orvosokat hozott.","A város mérnököket hozott a gát ellenőrzésére.","Nagyobb darut kellett hozniuk."]},{"verb":"Fly out","def":"Repülőgéppel elhagyni egy helyet","ex":["A sérült hegymászót helikopterrel vitték ki.","Pénteken korán repülünk el.","A segélymunkásokat a vihar előtt vitték ki repülővel."]},{"verb":"Look after","def":"Megvédeni és segíteni valakit","ex":["Önkéntesek gondoskodtak a családokról a menedékhelyen.","Ki vigyáz ma este a gyerekekre?","Az ápolók éjjel-nappal gondoskodnak a betegekről."]},{"verb":"Go through","def":"Nyilvántartásokat egyenként átnézni","ex":["A rendőrség átnézte a szálloda vendéglistáját.","Átnézte az összes régi e-mailt.","Alaposan át kell néznünk ezeket a fájlokat."]},{"verb":"Keep on","def":"Folytatni valamit","ex":["A mentőcsapat sötétedés után is tovább kereste.","Fájdalma ellenére tovább futott.","Az árak minden hónapban tovább emelkednek."]},{"verb":"Set out","def":"Elindulni egy útra","ex":["A túrázók hajnalban indultak el.","Hétfőn indultak a part felé.","Elég ennivalóval indultunk el három napra."]},{"verb":"Check in with","def":"Jelentkezni valakinél hírekkel","ex":["Minden vasárnap jelentkezem az anyámnál.","A hegymászók rádión jelentkeztek a bázistábornál.","Jelentkezz nálam, amikor megérkezel."]},{"verb":"Knock out","def":"Leállítani egy rendszert","ex":["A vihar leállította az áramot 50 000 háztartásban.","Egy villámcsapás leállította a rádiótornyot.","Az árvíz leállította a város vízellátását."]},{"verb":"Cut down on","def":"Kevesebbet használni valamiből","ex":["Megpróbálunk kevesebb műanyagot használni.","Tavaly kevesebb kávét ivott.","A város arra kérte az embereket, hogy kevesebb vizet használjanak."]},{"verb":"Fall behind","def":"A tervezettnél később lenni","ex":["Az útépítési projekt lemaradt az ütemtervtől.","Lemaradt a lakbérfizetéssel.","Ha most lemaradunk, nem végzünk júniusra."]},{"verb":"Close off","def":"Lezárni egy területet, hogy senki ne mehessen be","ex":["A rendőrség lezárta az utcát a baleset után.","A park lezárta az ösvényt a javítások alatt.","Lezárták a strandot a magas hullámok miatt."]}],"wordDefs":[{"word":"flash flood","def":"Hirtelen árvíz, amelyet nagyon erős eső okoz","ex":["Egy villámárvíz elsodorta az utat.","A villámárvizek gyakoriak a sivatagi kanyonokban."]},{"word":"footbridges","def":"Kis hidak gyalogosok számára","ex":["Egy gyaloghíd vezet át a patakon a táborhely közelében.","A régi gyaloghidat javítás miatt lezárták."]},{"word":"stopover","def":"Egy hely, ahol az utazók megállnak pihenni egy út során","ex":["A falu népszerű megállóhely a kerékpárosok számára.","Egy éjszakás megállónk volt Denverben."]},{"word":"rafters","def":"Emberek, akik tutajjal ereszkednek le egy folyón","ex":["Az evezősök egy homokos parton táboroztak a folyó mellett.","A tapasztalt evezősök ismerik a legnagyobb zúgókat."]},{"word":"burn scar","def":"Föld, amely csupasz marad egy erdőtűz után","ex":["Az erős eső egy kiégett folton sáriszapot okozhat.","A kiégett folt mérföldeken át húzódik a hegygerinc mentén."]},{"word":"runoff","def":"Esővíz, amely a talajon át patakokba és folyókba folyik","ex":["A dombokról lefolyó víz percek alatt megtöltötte a patakot.","A burkolt utcák növelik a lefolyást viharok idején."]},{"word":"night vision","def":"Eszköz, amely lehetővé teszi a látást sötétben","ex":["A pilóták éjjellátó szemüveget viseltek.","Éjjellátó kamerák filmezték az állatokat napnyugta után."]},{"word":"permit records","def":"Hivatalos listák arról, ki kapott engedélyt valamire","ex":["A park engedélynyilvántartást vezet minden táborhelyről.","A tisztviselők ellenőrizték az engedélynyilvántartásokat, hogy lássák, ki volt az ösvényen."]},{"word":"license plates","def":"A fém táblák, amelyeken számok vannak egy autó elején és hátulján","ex":["A rendőrség ellenőrizte a rendszámtáblákat a parkolóban.","Az autónak texasi rendszáma volt."]},{"word":"chiropractor","def":"Egészségügyi szakember, aki kézzel kezeli a hát- és ízületi problémákat","ex":["Hátfájása miatt kiropraktorhoz jár.","A kiropraktor megigazította a nyakát."]},{"word":"martial arts","def":"Küzdősportok, mint a karate és a judo","ex":["20 éve tanít harcművészetet.","A gyerekek szombatonként harcművészeti órákra járnak."]},{"word":"searchers","def":"Emberek, akik megpróbálnak megtalálni valakit vagy valamit","ex":["A kutatók két nap után megtalálták az eltűnt fiút.","Több száz kutató járta a dombokat sorban."]},{"word":"drones","def":"Kis, pilóta nélküli repülőgépek","ex":["Drónok filmezték a kárt a magasból.","A csapat drónokat repített a folyó felett."]},{"word":"pipeline","def":"Hosszú cső, amely vizet, olajat vagy gázt szállít","ex":["A vezeték vizet szállít a forrástól a faluig.","Egy repedés a vezetékben okozta a szivárgást."]},{"word":"in storage","def":"Tartályokban vagy egy épületben tárolva későbbi felhasználásra","ex":["A városnak egy hétnyi üzemanyaga van készleten.","A téli ruháinkat raktárban tartjuk."]},{"word":"overnight guests","def":"Emberek, akik egy éjszakára megszállnak valahol","ex":["A szállás 60 éjszakázó vendéget fogad.","Az éjszakázó vendégeknek este 8-ig be kell jelentkezniük."]},{"word":"upgrade","def":"Munka, amely valamit újabbá vagy jobbá tesz","ex":["A repülőtér felújítása három évig fog tartani.","A város jóváhagyott egy vízrendszer-felújítást."]},{"word":"reopening date","def":"A nap, amikor egy bezárt hely újra kinyit","ex":["A múzeum még nem jelentett be újranyitási dátumot.","A híd újranyitási dátuma május 1."]}],"tf":[{"s":"Szombat naplementéig 45 embert mentettek ki.","a":true,"why":"A mentőcsapatok helikoptereket hoztak, és vasárnap további 37 embert vittek ki repülővel, összesen körülbelül 80-at."},{"s":"Az árvíz csak néhány gyaloghidat rombolt le a Bright Angel-patak felett.","a":false,"why":"A villámárvíz, amely végigsöpört a Bright Angel-kanyonon, szinte az összes gyaloghidat lerombolta a patak felett, a Phantom Ranch közelében."},{"s":"A Vöröskereszt gondoskodott a kimentett emberekről egy szálláson a South Rimen.","a":true,"why":"A mentés után a Vöröskereszt egy szálláson gondoskodott róluk a South Rimen, majd a rangerek átnézték az engedélynyilvántartásokat, hogy megszámolják, ki hiányzik még."},{"s":"Mindhárom barátot, akik túrázni és horgászni indultak, élve megtalálták.","a":false,"why":"Két férfi meghalt, a harmadik, egy wyomingi pilóta, szeptember 3-án még mindig eltűntként szerepelt, miközben több mint 100 kutató folytatta a keresést."},{"s":"A park vízvezetékének körülbelül 40 százaléka sérült meg.","a":true,"why":"Az árvíz tönkretette a park egyetlen vízvezetékét, és a helyettes igazgató szerint körülbelül 40 százaléka sérült meg."},{"s":"A park szeptember 3-án újranyitotta a sérült ösvényeket.","a":false,"why":"Szeptember 3-án a park további ösvényeket zárt le, és nem adott meg újranyitási dátumot."}],"mainIdea":[{"s":"Villámárvíz sújtotta a Grand Canyon mélyét, és körülbelül 80 embert mentettek ki helikopterrel. Két ember meghalt, egy eltűnt, és a park egyetlen vízvezetéke súlyosan megsérült.","a":true,"why":"A mentőcsapatok augusztus 29-30-i hétvégén körülbelül 80 embert mentettek meg, két texasi túrázó meghalt, egy harmadik barát eltűnt, és a vezeték körülbelül 40 százaléka sérült meg."},{"s":"Egy hirtelen árvíz a Grand Canyon mélyén két túrázót megölt, és egy harmadikat eltűntként hagyott hátra. A mentőcsapatok körülbelül 80 embert mentettek meg, és a vízvezeték sértetlen maradt.","a":false,"why":"Majdnem igaz, de az árvíz a park egyetlen vízvezetékének körülbelül 40 százalékát megrongálta, és a South Rimnek körülbelül két hétnyi vízkészlete van."},{"s":"Egy erdőtűz a Grand Canyon North Rimjén több száz látogatót kényszerített arra, hogy elhagyja a parkot. A tűz elpusztított egy történelmi szállást, és a nyár hátralévő részére lezárta a fő ösvényeket.","a":false,"why":"Az esemény villámárvíz volt, nem tűz. A Dragon Bravo-tűz 2025 júliusában történt, és a kiégett foltja csak azért számít, mert a csupasz talaj gyorsabban engedi lefolyni az esőt."}],"dialogue":{"Thank goodness for that":"Akkor használjuk, amikor megkönnyebbülést fejezünk ki amiatt, hogy valami rossz nem történt meg","My heart goes out to":"Akkor használjuk, hogy kifejezzük mély együttérzésünket a szenvedő emberek iránt","That's the last thing they need":"Akkor használjuk, hogy elmondjuk, egy új probléma különösen rossz azoknak, akiknek már amúgy is problémáik vannak","Talk about bad timing":"Akkor használjuk, hogy elmondjuk, valami a lehető legrosszabb pillanatban történt","It could have been a lot worse":"Akkor használjuk, hogy elmondjuk, egy rossz helyzet nem volt olyan rossz, amilyen lehetett volna"}}
+{
+  "id": "grand-canyon-floods-2026",
+  "number": 99,
+  "lang": "hu",
+  "headline": "Helikopterek 80 embert mentenek ki a Grand Canyon-i árvízből",
+  "chunks": [
+    "Villámárvíz söpört végig a Bright Angel-kanyonon a Grand Canyon Nemzeti Parkban, Arizonában, 2026. augusztus 29-én, szombaton. Körülbelül 30 perc alatt akár egy hüvelyknyi eső is esett. A víz a Phantom Ranch közelében, a Bright Angel-patak felett szinte az összes gyalogoshidat lerombolta, amely a túrázók és folyami evezősök megállóhelye. Eső esett a 2025 júliusi Dragon Bravo-tűz kiégett foltjára is, ahol a csupasz talaj felgyorsítja a lefolyást.",
+    "A mentőcsapatok helikoptereket hoztak, és a kutatók éjjellátó eszközöket használtak, hogy megtalálják az embereket a sötétben, mondta az esemény parancsnoka. Szombat naplementéig 45 embert mentettek ki, és vasárnap további 37-et vittek ki repülővel, összesen körülbelül 80-at. A Vöröskereszt egy szálláson gondoskodott róluk a South Rimen. A rangerek ezután átnézték az engedélynyilvántartásokat és ellenőrizték a rendszámtáblákat, hogy megszámolják, ki hiányzik még.",
+    "Két ember meghalt: egy 46 éves kiropraktor és egy 42 éves férfi, aki egy harcművészeti stúdió tulajdonosa volt, mindketten Texasból. Egy harmadik barát, egy 53 éves wyomingi pilóta szeptember 3-án még mindig eltűntként szerepelt, amikor több mint 100 kutató helikopterekkel, drónokkal és kutyákkal folytatta a keresést. A három férfi több napos túrázásra és horgászásra indult el, és utoljára augusztus 27-én, csütörtökön jelentkeztek a családjuknál.",
+    "Az árvíz a park fő vízvezetékét is tönkretette, amely 12,5 mérföld hosszú, és ez az egyetlen, amellyel a park rendelkezik. Körülbelül 40 százaléka sérült meg, mondta a park helyettes igazgatója, és a South Rimnek körülbelül két hétnyi vízkészlete van. A szállodák augusztus 31-től nem fogadtak éjszakázó vendégeket, és a látogatókat arra kérték, hogy csökkentsék a zuhanyozást. A vezeték 208 millió dolláros felújítása, amely 2023-ban kezdődött, most lemaradhat az ütemtervtől. Szeptember 3-án a park további ösvényeket zárt le, újranyitási dátum nélkül."
+  ],
+  "verbs": [
+    {
+      "base": "sweep through",
+      "correct": "Gyorsan végigsöpörni egy területen",
+      "wrong": "Lassan emelkedni sok órán át"
+    },
+    {
+      "base": "tear down",
+      "correct": "Teljesen lerombolni egy építményt",
+      "wrong": "Fokozatosan meggyengülni sok éven át"
+    },
+    {
+      "base": "speed up",
+      "correct": "Valamit gyorsabban megtörténtté tenni",
+      "wrong": "Szivacsként felszívni a vizet"
+    },
+    {
+      "base": "bring in",
+      "correct": "Segítséget hozni kívülről",
+      "wrong": "Hazavinni az embereket"
+    },
+    {
+      "base": "fly out",
+      "correct": "Repülőgéppel elhagyni egy helyet",
+      "wrong": "Repülőgéppel átrepülni egy terület felett"
+    },
+    {
+      "base": "look after",
+      "correct": "Megvédeni és segíteni valakit",
+      "wrong": "Megkeresni egy eltűnt személyt"
+    },
+    {
+      "base": "go through",
+      "correct": "Nyilvántartásokat egyenként átnézni",
+      "wrong": "Megszámolni az embereket érkezéskor"
+    },
+    {
+      "base": "keep on",
+      "correct": "Folytatni valamit",
+      "wrong": "Távol maradni a veszélytől"
+    },
+    {
+      "base": "set out",
+      "correct": "Elindulni egy útra",
+      "wrong": "Tábort építeni"
+    },
+    {
+      "base": "check in with",
+      "correct": "Jelentkezni valakinél hírekkel",
+      "wrong": "Terveket egyeztetni valakivel"
+    },
+    {
+      "base": "knock out",
+      "correct": "Leállítani egy rendszert",
+      "wrong": "Iszappal megtölteni egy csatornát"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Kevesebbet használni valamiből",
+      "wrong": "Leállítani valaminek az ellátását"
+    },
+    {
+      "base": "fall behind",
+      "correct": "A tervezettnél később lenni",
+      "wrong": "Nem úgy történni, ahogy tervezték"
+    },
+    {
+      "base": "close off",
+      "correct": "Lezárni egy területet, hogy senki ne mehessen be",
+      "wrong": "Egy üzletet örökre és véglegesen bezárni"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sweep through",
+      "def": "Gyorsan végigsöpörni egy területen",
+      "ex": [
+        "Egy vihar söpört végig a völgyön tegnap éjjel.",
+        "A tűz néhány óra alatt végigsöpört a száraz dombokon.",
+        "Az influenza márciusban söpört végig az egész iskolán."
+      ]
+    },
+    {
+      "verb": "Tear down",
+      "def": "Teljesen lerombolni egy építményt",
+      "ex": [
+        "A város lebontotta a régi hidat.",
+        "Jövőre lebontják a gyárat.",
+        "Az erős szél ledöntötte a kerítést."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Valamit gyorsabban megtörténtté tenni",
+      "ex": [
+        "A meleg idő felgyorsítja a hó olvadását.",
+        "Az új szoftver felgyorsítja a munkánkat.",
+        "Fel tudjuk gyorsítani a szállítást?"
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Segítséget hozni kívülről",
+      "ex": [
+        "A kórház további orvosokat hozott.",
+        "A város mérnököket hozott a gát ellenőrzésére.",
+        "Nagyobb darut kellett hozniuk."
+      ]
+    },
+    {
+      "verb": "Fly out",
+      "def": "Repülőgéppel elhagyni egy helyet",
+      "ex": [
+        "A sérült hegymászót helikopterrel vitték ki.",
+        "Pénteken korán repülünk el.",
+        "A segélymunkásokat a vihar előtt vitték ki repülővel."
+      ]
+    },
+    {
+      "verb": "Look after",
+      "def": "Megvédeni és segíteni valakit",
+      "ex": [
+        "Önkéntesek gondoskodtak a családokról a menedékhelyen.",
+        "Ki vigyáz ma este a gyerekekre?",
+        "Az ápolók éjjel-nappal gondoskodnak a betegekről."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Nyilvántartásokat egyenként átnézni",
+      "ex": [
+        "A rendőrség átnézte a szálloda vendéglistáját.",
+        "Átnézte az összes régi e-mailt.",
+        "Alaposan át kell néznünk ezeket a fájlokat."
+      ]
+    },
+    {
+      "verb": "Keep on",
+      "def": "Folytatni valamit",
+      "ex": [
+        "A mentőcsapat sötétedés után is tovább kereste.",
+        "Fájdalma ellenére tovább futott.",
+        "Az árak minden hónapban tovább emelkednek."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "Elindulni egy útra",
+      "ex": [
+        "A túrázók hajnalban indultak el.",
+        "Hétfőn indultak a part felé.",
+        "Elég ennivalóval indultunk el három napra."
+      ]
+    },
+    {
+      "verb": "Check in with",
+      "def": "Jelentkezni valakinél hírekkel",
+      "ex": [
+        "Minden vasárnap jelentkezem az anyámnál.",
+        "A hegymászók rádión jelentkeztek a bázistábornál.",
+        "Jelentkezz nálam, amikor megérkezel."
+      ]
+    },
+    {
+      "verb": "Knock out",
+      "def": "Leállítani egy rendszert",
+      "ex": [
+        "A vihar leállította az áramot 50 000 háztartásban.",
+        "Egy villámcsapás leállította a rádiótornyot.",
+        "Az árvíz leállította a város vízellátását."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Kevesebbet használni valamiből",
+      "ex": [
+        "Megpróbálunk kevesebb műanyagot használni.",
+        "Tavaly kevesebb kávét ivott.",
+        "A város arra kérte az embereket, hogy kevesebb vizet használjanak."
+      ]
+    },
+    {
+      "verb": "Fall behind",
+      "def": "A tervezettnél később lenni",
+      "ex": [
+        "Az útépítési projekt lemaradt az ütemtervtől.",
+        "Lemaradt a lakbérfizetéssel.",
+        "Ha most lemaradunk, nem végzünk júniusra."
+      ]
+    },
+    {
+      "verb": "Close off",
+      "def": "Lezárni egy területet, hogy senki ne mehessen be",
+      "ex": [
+        "A rendőrség lezárta az utcát a baleset után.",
+        "A park lezárta az ösvényt a javítások alatt.",
+        "Lezárták a strandot a magas hullámok miatt."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "flash flood",
+      "def": "Hirtelen árvíz, amelyet nagyon erős eső okoz",
+      "ex": [
+        "Egy villámárvíz elsodorta az utat.",
+        "A villámárvizek gyakoriak a sivatagi kanyonokban.",
+        "A figyelmeztetés szerint ma éjjel villámárvíz volt lehetséges."
+      ]
+    },
+    {
+      "word": "footbridges",
+      "def": "Kis hidak gyalogosok számára",
+      "ex": [
+        "Egy gyaloghíd vezet át a patakon a táborhely közelében.",
+        "A régi gyaloghidat javítás miatt lezárták.",
+        "A túrázók a gyaloghidakat használják, hogy elérjék a másik partot."
+      ]
+    },
+    {
+      "word": "stopover",
+      "def": "Egy hely, ahol az utazók megállnak pihenni egy út során",
+      "ex": [
+        "A falu népszerű megállóhely a kerékpárosok számára.",
+        "Egy éjszakás megállónk volt Denverben.",
+        "A tanya megállóhely volt a kanyonon átkelő túrázók számára."
+      ]
+    },
+    {
+      "word": "rafters",
+      "def": "Emberek, akik tutajjal ereszkednek le egy folyón",
+      "ex": [
+        "Az evezősök egy homokos parton táboroztak a folyó mellett.",
+        "A tapasztalt evezősök ismerik a legnagyobb zúgókat.",
+        "Egy csoport evezős várta, hogy a víz apadjon."
+      ]
+    },
+    {
+      "word": "burn scar",
+      "def": "Föld, amely csupasz marad egy erdőtűz után",
+      "ex": [
+        "Az erős eső egy kiégett folton sáriszapot okozhat.",
+        "A kiégett folt mérföldeken át húzódik a hegygerinc mentén.",
+        "A fű lassan visszatér a kiégett foltra."
+      ]
+    },
+    {
+      "word": "runoff",
+      "def": "Esővíz, amely a talajon át patakokba és folyókba folyik",
+      "ex": [
+        "A dombokról lefolyó víz percek alatt megtöltötte a patakot.",
+        "A burkolt utcák növelik a lefolyást viharok idején.",
+        "A gazdák aggódnak, hogy a lefolyás elhordja a talajt."
+      ]
+    },
+    {
+      "word": "night vision",
+      "def": "Eszköz, amely lehetővé teszi a látást sötétben",
+      "ex": [
+        "A pilóták éjjellátó szemüveget viseltek.",
+        "Éjjellátó kamerák filmezték az állatokat napnyugta után.",
+        "A katonák éjjellátót használnak, hogy sötétben mozogjanak."
+      ]
+    },
+    {
+      "word": "permit records",
+      "def": "Hivatalos listák arról, ki kapott engedélyt valamire",
+      "ex": [
+        "A park engedélynyilvántartást vezet minden táborhelyről.",
+        "A tisztviselők ellenőrizték az engedélynyilvántartásokat, hogy lássák, ki volt az ösvényen.",
+        "Az engedélynyilvántartások 20 csoportot mutattak a kanyonban azon az éjszakán."
+      ]
+    },
+    {
+      "word": "license plates",
+      "def": "A fém táblák, amelyeken számok vannak egy autó elején és hátulján",
+      "ex": [
+        "A rendőrség ellenőrizte a rendszámtáblákat a parkolóban.",
+        "Az autónak texasi rendszáma volt.",
+        "Egy kamera olvassa a rendszámtáblákat a bejáratnál."
+      ]
+    },
+    {
+      "word": "chiropractor",
+      "def": "Egészségügyi szakember, aki kézzel kezeli a hát- és ízületi problémákat",
+      "ex": [
+        "Hátfájása miatt kiropraktorhoz jár.",
+        "A kiropraktor megigazította a nyakát.",
+        "Négy évig képezte magát, hogy kiropraktor legyen."
+      ]
+    },
+    {
+      "word": "martial arts",
+      "def": "Küzdősportok, mint a karate és a judo",
+      "ex": [
+        "20 éve tanít harcművészetet.",
+        "A gyerekek szombatonként harcművészeti órákra járnak.",
+        "A harcművészet erőt és fegyelmet épít."
+      ]
+    },
+    {
+      "word": "searchers",
+      "def": "Emberek, akik megpróbálnak megtalálni valakit vagy valamit",
+      "ex": [
+        "A kutatók két nap után megtalálták az eltűnt fiút.",
+        "Több száz kutató járta a dombokat sorban.",
+        "A kutatók kutyákat és drónokat használtak."
+      ]
+    },
+    {
+      "word": "drones",
+      "def": "Kis, pilóta nélküli repülőgépek",
+      "ex": [
+        "Drónok filmezték a kárt a magasból.",
+        "A csapat drónokat repített a folyó felett.",
+        "A gazdák drónokat használnak a termésük ellenőrzésére."
+      ]
+    },
+    {
+      "word": "pipeline",
+      "def": "Hosszú cső, amely vizet, olajat vagy gázt szállít",
+      "ex": [
+        "A vezeték vizet szállít a forrástól a faluig.",
+        "Egy repedés a vezetékben okozta a szivárgást.",
+        "A munkások három nap alatt megjavították a vezetéket."
+      ]
+    },
+    {
+      "word": "in storage",
+      "def": "Tartályokban vagy egy épületben tárolva későbbi felhasználásra",
+      "ex": [
+        "A városnak egy hétnyi üzemanyaga van készleten.",
+        "A téli ruháinkat raktárban tartjuk.",
+        "Elég gabona van raktáron egész évre."
+      ]
+    },
+    {
+      "word": "overnight guests",
+      "def": "Emberek, akik egy éjszakára megszállnak valahol",
+      "ex": [
+        "A szállás 60 éjszakázó vendéget fogad.",
+        "Az éjszakázó vendégeknek este 8-ig be kell jelentkezniük.",
+        "A szálloda nem fogadott több éjszakázó vendéget."
+      ]
+    },
+    {
+      "word": "upgrade",
+      "def": "Munka, amely valamit újabbá vagy jobbá tesz",
+      "ex": [
+        "A repülőtér felújítása három évig fog tartani.",
+        "A város jóváhagyott egy vízrendszer-felújítást.",
+        "A szoftverfrissítés megoldotta a problémát."
+      ]
+    },
+    {
+      "word": "reopening date",
+      "def": "A nap, amikor egy bezárt hely újra kinyit",
+      "ex": [
+        "A múzeum még nem jelentett be újranyitási dátumot.",
+        "A híd újranyitási dátuma május 1.",
+        "Újranyitási dátum nélkül a közeli üzletek elvesztették vásárlóikat."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Szombat naplementéig 45 embert mentettek ki.",
+      "a": true,
+      "why": "A mentőcsapatok helikoptereket hoztak, és vasárnap további 37 embert vittek ki repülővel, összesen körülbelül 80-at."
+    },
+    {
+      "s": "Az árvíz csak néhány gyaloghidat rombolt le a Bright Angel-patak felett.",
+      "a": false,
+      "why": "A villámárvíz, amely végigsöpört a Bright Angel-kanyonon, szinte az összes gyaloghidat lerombolta a patak felett, a Phantom Ranch közelében."
+    },
+    {
+      "s": "A Vöröskereszt gondoskodott a kimentett emberekről egy szálláson a South Rimen.",
+      "a": true,
+      "why": "A mentés után a Vöröskereszt egy szálláson gondoskodott róluk a South Rimen, majd a rangerek átnézték az engedélynyilvántartásokat, hogy megszámolják, ki hiányzik még."
+    },
+    {
+      "s": "Mindhárom barátot, akik túrázni és horgászni indultak, élve megtalálták.",
+      "a": false,
+      "why": "Két férfi meghalt, a harmadik, egy wyomingi pilóta, szeptember 3-án még mindig eltűntként szerepelt, miközben több mint 100 kutató folytatta a keresést."
+    },
+    {
+      "s": "A park vízvezetékének körülbelül 40 százaléka sérült meg.",
+      "a": true,
+      "why": "Az árvíz tönkretette a park egyetlen vízvezetékét, és a helyettes igazgató szerint körülbelül 40 százaléka sérült meg."
+    },
+    {
+      "s": "A park szeptember 3-án újranyitotta a sérült ösvényeket.",
+      "a": false,
+      "why": "Szeptember 3-án a park további ösvényeket zárt le, és nem adott meg újranyitási dátumot."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Villámárvíz sújtotta a Grand Canyon mélyét, és körülbelül 80 embert mentettek ki helikopterrel. Két ember meghalt, egy eltűnt, és a park egyetlen vízvezetéke súlyosan megsérült.",
+      "a": true,
+      "why": "A mentőcsapatok augusztus 29-30-i hétvégén körülbelül 80 embert mentettek meg, két texasi túrázó meghalt, egy harmadik barát eltűnt, és a vezeték körülbelül 40 százaléka sérült meg."
+    },
+    {
+      "s": "Egy hirtelen árvíz a Grand Canyon mélyén két túrázót megölt, és egy harmadikat eltűntként hagyott hátra. A mentőcsapatok körülbelül 80 embert mentettek meg, és a vízvezeték sértetlen maradt.",
+      "a": false,
+      "why": "Majdnem igaz, de az árvíz a park egyetlen vízvezetékének körülbelül 40 százalékát megrongálta, és a South Rimnek körülbelül két hétnyi vízkészlete van."
+    },
+    {
+      "s": "Egy erdőtűz a Grand Canyon North Rimjén több száz látogatót kényszerített arra, hogy elhagyja a parkot. A tűz elpusztított egy történelmi szállást, és a nyár hátralévő részére lezárta a fő ösvényeket.",
+      "a": false,
+      "why": "Az esemény villámárvíz volt, nem tűz. A Dragon Bravo-tűz 2025 júliusában történt, és a kiégett foltja csak azért számít, mert a csupasz talaj gyorsabban engedi lefolyni az esőt."
+    }
+  ],
+  "dialogue": {
+    "Thank goodness for that": "Akkor használjuk, amikor megkönnyebbülést fejezünk ki amiatt, hogy valami rossz nem történt meg",
+    "My heart goes out to": "Akkor használjuk, hogy kifejezzük mély együttérzésünket a szenvedő emberek iránt",
+    "That's the last thing they need": "Akkor használjuk, hogy elmondjuk, egy új probléma különösen rossz azoknak, akiknek már amúgy is problémáik vannak",
+    "Talk about bad timing": "Akkor használjuk, hogy elmondjuk, valami a lehető legrosszabb pillanatban történt",
+    "It could have been a lot worse": "Akkor használjuk, hogy elmondjuk, egy rossz helyzet nem volt olyan rossz, amilyen lehetett volna"
+  }
+}

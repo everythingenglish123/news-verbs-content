@@ -1,1 +1,459 @@
-{"id":"argentina-falklands-claim-2026","number":100,"lang":"es","headline":"Argentina refuerza su reclamo sobre las Islas Falkland","chunks":["El 3 de septiembre de 2026, el presidente argentino Javier Milei reforzó el reclamo de su país sobre las Islas Falkland, a las que Argentina llama Malvinas, en un discurso transmitido a nivel nacional. Dijo que aceleraría las sanciones contra las empresas que trabajan en el proyecto petrolero marino Sea Lion, a unos 220 kilómetros al norte de las islas, e iría tras sus proveedores, accionistas y directores. También prometió fondos adicionales para una base naval en el extremo sur de Argentina.","Milei dijo que enviaría al Congreso un proyecto de ley para reprimir la actividad no autorizada cerca de las islas y excluir a las empresas involucradas de hacer negocios en Argentina. «Argentina no se quedará de brazos cruzados», dijo, calificando cualquier avance adicional allí como una amenaza a la seguridad nacional. Una empresa británica y una empresa israelí, que operan el proyecto Sea Lion, planean seguir adelante con la perforación este año y producir grandes cantidades de petróleo a partir de 2028. Las acciones de la empresa británica cayeron un 6 por ciento, pero ambas dicen que sus licencias son válidas.","Gran Bretaña respondió con firmeza de inmediato. El secretario de Defensa británico dijo que las islas son británicas porque los isleños eligen ser británicos, y que el compromiso de Gran Bretaña con ellos es «absoluto e inquebrantable». El secretario de Asuntos Exteriores de Gran Bretaña dijo que el derecho de los isleños a la autodeterminación es primordial. Gran Bretaña respalda su posición con un referendo de 2013, cuando unos 4.000 isleños votaron de forma abrumadora a favor de seguir siendo un territorio británico de ultramar. El secretario de Defensa restó importancia al discurso, calificándolo de «política interna en Argentina».","La disputa se remonta a décadas atrás. Una guerra de 74 días en 1982 mató a 649 soldados argentinos, 255 militares británicos y tres isleños. Milei también mencionó el comentario del presidente de Estados Unidos, Donald Trump, del 31 de agosto, en el que dijo que estaba revisando la postura neutral de Estados Unidos. Legisladores de la oposición acusaron a Milei de usar el tema para reforzar su apoyo antes de las elecciones del próximo año. Ningún gobierno ha cedido en su postura, pero Argentina no ha anunciado ninguna operación militar."],"verbs":[{"base":"step up","correct":"Aumentar la fuerza de algo","wrong":"Dejar un alto cargo político"},{"base":"speed up","correct":"Hacer que algo suceda más rápido","wrong":"Someter algo a votación pública"},{"base":"go after","correct":"Intentar castigar o atrapar a alguien","wrong":"Aceptar apoyar un plan político"},{"base":"crack down on","correct":"Castigar algo con más severidad","wrong":"Renunciar a un reclamo territorial"},{"base":"shut out","correct":"Impedir que alguien participe","wrong":"Cerrar un negocio para siempre"},{"base":"press ahead","correct":"Continuar con un plan de todos modos","wrong":"Pedir algo con mucha insistencia"},{"base":"pump out","correct":"Producir grandes cantidades de algo","wrong":"Enviar petróleo a otro país lejano"},{"base":"hit back","correct":"Responder con fuerza a un ataque","wrong":"Llegar a un acuerdo con rapidez"},{"base":"back up","correct":"Respaldar algo con pruebas","wrong":"Convocar una votación pública"},{"base":"play down","correct":"Hacer que algo parezca menos importante","wrong":"Fingir estar de acuerdo con alguien"},{"base":"date back","correct":"Haber comenzado en una época pasada","wrong":"Terminar después de un período fijo"},{"base":"bring up","correct":"Mencionar un tema","wrong":"Provocar que algo suceda"},{"base":"shore up","correct":"Hacer que algo sea más fuerte","wrong":"Enviar más tropas a una zona"},{"base":"back down","correct":"Retirar un reclamo o una exigencia","wrong":"Volver a un plan anterior ya usado"}],"vocab":[{"verb":"Step up","def":"Aumentar la fuerza de algo","ex":["La ciudad reforzó la seguridad antes del partido.","Los médicos aumentaron las pruebas durante el brote.","La empresa aumentará la producción el próximo año."]},{"verb":"Speed up","def":"Hacer que algo suceda más rápido","ex":["El nuevo software acelera todo el proceso.","El gobierno quiere acelerar la aprobación de la ley.","Un segundo carril aceleraría el tráfico en el puente."]},{"verb":"Go after","def":"Intentar castigar o atrapar a alguien","ex":["La policía va tras los líderes de la banda.","La agencia fue tras las empresas que violaron las reglas.","Los fiscales decidieron ir tras los directores del banco."]},{"verb":"Crack down on","def":"Castigar algo con más severidad","ex":["La ciudad está castigando con más severidad el estacionamiento ilegal.","La escuela castigó con más severidad las trampas en los exámenes.","Los funcionarios prometieron castigar con más severidad el fraude fiscal."]},{"verb":"Shut out","def":"Impedir que alguien participe","ex":["La nueva regla impide que las pequeñas empresas participen en el contrato.","A los bancos extranjeros se les impidió participar en el mercado durante años.","La liga impidió participar a los equipos que no cumplieron el plazo."]},{"verb":"Press ahead","def":"Continuar con un plan de todos modos","ex":["Los constructores continuaron a pesar del mal tiempo.","La empresa continuará con la nueva fábrica.","Ella continuó con su plan de abrir una panadería."]},{"verb":"Pump out","def":"Producir grandes cantidades de algo","ex":["La planta produce 500 autos al día.","Los pozos producirán petróleo por otros 20 años.","El estudio produce un nuevo programa cada mes."]},{"verb":"Hit back","def":"Responder con fuerza a un ataque","ex":["El ministro respondió con fuerza a sus críticos.","La cantante respondió con fuerza a las acusaciones del diario.","La empresa respondió con fuerza con su propio comunicado."]},{"verb":"Back up","def":"Respaldar algo con pruebas","ex":["Ella respaldó su afirmación con fotos.","Los números respaldan lo que dijo el alcalde.","¿Puedes respaldar esa afirmación con datos?"]},{"verb":"Play down","def":"Hacer que algo parezca menos importante","ex":["La aerolínea le restó importancia al retraso.","El entrenador le restó importancia a la lesión de su estrella.","Los funcionarios intentaron restarle importancia al riesgo de inundación."]},{"verb":"Date back","def":"Haber comenzado en una época pasada","ex":["El castillo data del siglo XII.","Su disputa se remonta a un acuerdo de 2010.","La tradición se remonta a cientos de años atrás."]},{"verb":"Bring up","def":"Mencionar un tema","ex":["Él mencionó el costo del viaje durante la cena.","Nadie quería mencionar el accidente.","Ella menciona el mismo problema en cada reunión."]},{"verb":"Shore up","def":"Hacer que algo sea más fuerte","ex":["El banco fortaleció sus finanzas vendiendo activos.","El partido espera fortalecer su apoyo en zonas rurales.","Los ingenieros reforzaron el viejo puente con acero."]},{"verb":"Back down","def":"Retirar un reclamo o una exigencia","ex":["El sindicato se negó a ceder en el tema del salario.","Ninguna de las partes cedió durante las negociaciones.","El alcalde cedió tras semanas de protestas."]}],"wordDefs":[{"word":"nationally televised address","def":"Un discurso de un líder transmitido por televisión en todo el país","ex":["El presidente dio un discurso transmitido a nivel nacional después de la tormenta.","Millones vieron el discurso transmitido a nivel nacional el domingo por la noche."]},{"word":"sanctions","def":"Castigos oficiales, como prohibiciones de comercio o negocios","ex":["El gobierno impuso sanciones a tres bancos extranjeros.","Las sanciones hicieron difícil que el país vendiera su petróleo."]},{"word":"offshore","def":"En el mar, lejos de la costa","ex":["La empresa perfora petróleo en plataformas marinas.","Vientos fuertes paralizaron el parque eólico marino."]},{"word":"suppliers","def":"Empresas que proveen bienes o servicios a otras empresas","ex":["La fábrica compra acero a tres proveedores.","A los proveedores se les pidió que bajaran sus precios."]},{"word":"shareholders","def":"Personas o empresas que son dueñas de parte de un negocio","ex":["Los accionistas votaron por el nuevo presidente.","La empresa pagó un dividendo a sus accionistas."]},{"word":"naval base","def":"Un puerto donde un país mantiene sus buques de guerra y marineros","ex":["La base naval alberga a 12 buques de guerra.","Miles de marineros trabajan en la base naval."]},{"word":"bill","def":"Una ley propuesta que los legisladores votan","ex":["El proyecto de ley pasó el Senado por amplio margen.","Los legisladores debatieron el proyecto de ley durante tres días."]},{"word":"unauthorized","def":"Hecho sin permiso oficial","ex":["No se permiten visitantes no autorizados en el laboratorio.","El banco bloqueó un pago no autorizado."]},{"word":"national security","def":"La seguridad de un país frente a ataques u otras amenazas","ex":["El ministro dijo que el puerto era vital para la seguridad nacional.","El informe se mantuvo en secreto por razones de seguridad nacional."]},{"word":"licenses","def":"Permisos oficiales para realizar una actividad determinada","ex":["La empresa tiene dos licencias para perforar en busca de petróleo.","Los barcos pesqueros necesitan licencias para trabajar en estas aguas."]},{"word":"defense secretary","def":"El ministro de gobierno a cargo de las fuerzas armadas","ex":["El secretario de Defensa visitó a las tropas en la base.","Los periodistas le preguntaron al secretario de Defensa sobre los nuevos buques de guerra."]},{"word":"commitment","def":"Una promesa firme de apoyar o hacer algo","ex":["El banco asumió el compromiso de prestar dinero a pequeñas granjas.","Ella mostró un fuerte compromiso con sus estudiantes."]},{"word":"self-determination","def":"El derecho de un pueblo a elegir su propio gobierno","ex":["Los isleños dicen que la autodeterminación es un derecho básico.","El tratado reconoció la autodeterminación de las naciones pequeñas."]},{"word":"paramount","def":"Más importante que cualquier otra cosa","ex":["La seguridad es primordial en la planta de energía.","Para el juez, el bienestar del niño era primordial."]},{"word":"referendum","def":"Una votación en la que todos los ciudadanos deciden una pregunta","ex":["Los votantes rechazaron el nuevo impuesto en un referendo.","La isla realizó un referendo sobre su futuro."]},{"word":"overwhelmingly","def":"Por una mayoría muy amplia","ex":["El pueblo votó de forma abrumadora por mantener abierta la biblioteca.","Los miembros apoyaron de forma abrumadora el nuevo contrato."]},{"word":"overseas territory","def":"Una tierra lejana que un país sigue gobernando","ex":["Bermudas es un territorio británico de ultramar.","El territorio de ultramar tiene su propio gobierno local."]},{"word":"service members","def":"Personas que sirven en las fuerzas armadas de un país","ex":["El monumento honra a los militares que murieron en la guerra.","Los militares y sus familias reciben entradas gratis."]},{"word":"neutral","def":"Que no apoya a ninguno de los bandos en una disputa","ex":["Suiza se mantuvo neutral durante la guerra.","El árbitro debe mantenerse neutral durante el partido."]},{"word":"opposition lawmakers","def":"Legisladores de partidos que no están en el gobierno","ex":["Los legisladores de la oposición se retiraron del debate.","Los legisladores de la oposición acusaron al ministro de ocultar el informe."]},{"word":"military operation","def":"Una acción planeada por las fuerzas armadas de un país","ex":["La operación militar duró tres semanas.","La marina lanzó una operación militar contra los piratas."]}],"tf":[{"s":"Milei reforzó el reclamo de Argentina sobre las islas en un discurso televisado.","a":true,"why":"El 3 de septiembre de 2026, dio un discurso transmitido a nivel nacional y prometió fondos adicionales para una base naval en el extremo sur de Argentina."},{"s":"El proyecto petrolero Sea Lion se ubica a unos 220 kilómetros al sur de las islas.","a":false,"why":"Sea Lion se ubica a unos 220 kilómetros al norte de las islas, y sus dos operadores planean producir petróleo a partir de 2028."},{"s":"El secretario de Defensa británico restó importancia al discurso, calificándolo de política interna.","a":true,"why":"Gran Bretaña respondió con firmeza de inmediato, y el secretario de Defensa calificó el discurso de Milei de política interna en Argentina, mientras decía que el compromiso de Gran Bretaña con las islas es absoluto e inquebrantable."},{"s":"La guerra de 1982 entre Argentina y Gran Bretaña duró unos dos años.","a":false,"why":"La disputa se remonta a décadas atrás, y la guerra de 1982 duró 74 días, y mató a 649 soldados argentinos, 255 militares británicos y tres isleños."},{"s":"Unos 4.000 isleños votaron en 2013 a favor de seguir siendo un territorio británico de ultramar.","a":true,"why":"Gran Bretaña respalda su posición con el referendo de 2013, en el que los isleños votaron de forma abrumadora por seguir siendo británicos."},{"s":"Argentina ha cedido en su reclamo sobre las islas.","a":false,"why":"Ningún gobierno ha cedido, pero Argentina no ha anunciado ninguna operación militar."}],"mainIdea":[{"s":"El presidente de Argentina prometió sanciones contra un proyecto petrolero de las Malvinas y dinero para una base naval para presionar su reclamo. Gran Bretaña respondió que las islas son británicas por la propia elección de los isleños.","a":true,"why":"Argentina anunció sanciones contra el proyecto Sea Lion y fondos para una base naval en el extremo sur de Argentina, y Gran Bretaña dijo que su compromiso con las islas es absoluto e inquebrantable."},{"s":"El presidente de Argentina amenazó con sanciones a las empresas petroleras cerca de las Malvinas y prometió una mayor presencia naval. Gran Bretaña aceptó abrir conversaciones para compartir el petróleo hallado cerca de las islas.","a":false,"why":"Cerca, pero Gran Bretaña no ofreció conversaciones. Dijo que las islas son británicas porque los isleños eligen ser británicos, y que su compromiso con ellos es absoluto e inquebrantable."},{"s":"Gran Bretaña y Argentina firmaron un acuerdo para restablecer vuelos directos a las islas y compartir datos de pesca. Funcionarios de ambos lados lo calificaron de un primer paso pequeño pero real hacia mejores relaciones.","a":false,"why":"No hubo ningún acuerdo sobre vuelos ni pesca. Argentina anunció sanciones y fondos navales, y Gran Bretaña reiteró que la soberanía corresponde al Reino Unido."}],"dialogue":{"Here we go again":"Se usa cuando algo desagradable está pasando una vez más y ya estás cansado de eso","That's the sticking point":"Se usa para nombrar el único problema que impide que dos partes lleguen a un acuerdo","Timing is everything":"Se usa para decir que el momento en que algo sucede importa tanto como lo que sucede","So far it's just words":"Se usa para decir que una amenaza o promesa aún no ha sido seguida de ninguna acción real","Let's hope it stays that way":"Se usa para decir que quieres que una buena situación tranquila continúe"}}
+{
+  "id": "argentina-falklands-claim-2026",
+  "number": 100,
+  "lang": "es",
+  "headline": "Argentina refuerza su reclamo sobre las Islas Falkland",
+  "chunks": [
+    "El 3 de septiembre de 2026, el presidente argentino Javier Milei reforzó el reclamo de su país sobre las Islas Falkland, a las que Argentina llama Malvinas, en un discurso transmitido a nivel nacional. Dijo que aceleraría las sanciones contra las empresas que trabajan en el proyecto petrolero marino Sea Lion, a unos 220 kilómetros al norte de las islas, e iría tras sus proveedores, accionistas y directores. También prometió fondos adicionales para una base naval en el extremo sur de Argentina.",
+    "Milei dijo que enviaría al Congreso un proyecto de ley para reprimir la actividad no autorizada cerca de las islas y excluir a las empresas involucradas de hacer negocios en Argentina. «Argentina no se quedará de brazos cruzados», dijo, calificando cualquier avance adicional allí como una amenaza a la seguridad nacional. Una empresa británica y una empresa israelí, que operan el proyecto Sea Lion, planean seguir adelante con la perforación este año y producir grandes cantidades de petróleo a partir de 2028. Las acciones de la empresa británica cayeron un 6 por ciento, pero ambas dicen que sus licencias son válidas.",
+    "Gran Bretaña respondió con firmeza de inmediato. El secretario de Defensa británico dijo que las islas son británicas porque los isleños eligen ser británicos, y que el compromiso de Gran Bretaña con ellos es «absoluto e inquebrantable». El secretario de Asuntos Exteriores de Gran Bretaña dijo que el derecho de los isleños a la autodeterminación es primordial. Gran Bretaña respalda su posición con un referendo de 2013, cuando unos 4.000 isleños votaron de forma abrumadora a favor de seguir siendo un territorio británico de ultramar. El secretario de Defensa restó importancia al discurso, calificándolo de «política interna en Argentina».",
+    "La disputa se remonta a décadas atrás. Una guerra de 74 días en 1982 mató a 649 soldados argentinos, 255 militares británicos y tres isleños. Milei también mencionó el comentario del presidente de Estados Unidos, Donald Trump, del 31 de agosto, en el que dijo que estaba revisando la postura neutral de Estados Unidos. Legisladores de la oposición acusaron a Milei de usar el tema para reforzar su apoyo antes de las elecciones del próximo año. Ningún gobierno ha cedido en su postura, pero Argentina no ha anunciado ninguna operación militar."
+  ],
+  "verbs": [
+    {
+      "base": "step up",
+      "correct": "Aumentar la fuerza de algo",
+      "wrong": "Dejar un alto cargo político"
+    },
+    {
+      "base": "speed up",
+      "correct": "Hacer que algo suceda más rápido",
+      "wrong": "Someter algo a votación pública"
+    },
+    {
+      "base": "go after",
+      "correct": "Intentar castigar o atrapar a alguien",
+      "wrong": "Aceptar apoyar un plan político"
+    },
+    {
+      "base": "crack down on",
+      "correct": "Castigar algo con más severidad",
+      "wrong": "Renunciar a un reclamo territorial"
+    },
+    {
+      "base": "shut out",
+      "correct": "Impedir que alguien participe",
+      "wrong": "Cerrar un negocio para siempre"
+    },
+    {
+      "base": "press ahead",
+      "correct": "Continuar con un plan de todos modos",
+      "wrong": "Pedir algo con mucha insistencia"
+    },
+    {
+      "base": "pump out",
+      "correct": "Producir grandes cantidades de algo",
+      "wrong": "Enviar petróleo a otro país lejano"
+    },
+    {
+      "base": "hit back",
+      "correct": "Responder con fuerza a un ataque",
+      "wrong": "Llegar a un acuerdo con rapidez"
+    },
+    {
+      "base": "back up",
+      "correct": "Respaldar algo con pruebas",
+      "wrong": "Convocar una votación pública"
+    },
+    {
+      "base": "play down",
+      "correct": "Hacer que algo parezca menos importante",
+      "wrong": "Fingir estar de acuerdo con alguien"
+    },
+    {
+      "base": "date back",
+      "correct": "Haber comenzado en una época pasada",
+      "wrong": "Terminar después de un período fijo"
+    },
+    {
+      "base": "bring up",
+      "correct": "Mencionar un tema",
+      "wrong": "Provocar que algo suceda"
+    },
+    {
+      "base": "shore up",
+      "correct": "Hacer que algo sea más fuerte",
+      "wrong": "Enviar más tropas a una zona"
+    },
+    {
+      "base": "back down",
+      "correct": "Retirar un reclamo o una exigencia",
+      "wrong": "Volver a un plan anterior ya usado"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Step up",
+      "def": "Aumentar la fuerza de algo",
+      "ex": [
+        "La ciudad reforzó la seguridad antes del partido.",
+        "Los médicos aumentaron las pruebas durante el brote.",
+        "La empresa aumentará la producción el próximo año."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Hacer que algo suceda más rápido",
+      "ex": [
+        "El nuevo software acelera todo el proceso.",
+        "El gobierno quiere acelerar la aprobación de la ley.",
+        "Un segundo carril aceleraría el tráfico en el puente."
+      ]
+    },
+    {
+      "verb": "Go after",
+      "def": "Intentar castigar o atrapar a alguien",
+      "ex": [
+        "La policía va tras los líderes de la banda.",
+        "La agencia fue tras las empresas que violaron las reglas.",
+        "Los fiscales decidieron ir tras los directores del banco."
+      ]
+    },
+    {
+      "verb": "Crack down on",
+      "def": "Castigar algo con más severidad",
+      "ex": [
+        "La ciudad está castigando con más severidad el estacionamiento ilegal.",
+        "La escuela castigó con más severidad las trampas en los exámenes.",
+        "Los funcionarios prometieron castigar con más severidad el fraude fiscal."
+      ]
+    },
+    {
+      "verb": "Shut out",
+      "def": "Impedir que alguien participe",
+      "ex": [
+        "La nueva regla impide que las pequeñas empresas participen en el contrato.",
+        "A los bancos extranjeros se les impidió participar en el mercado durante años.",
+        "La liga impidió participar a los equipos que no cumplieron el plazo."
+      ]
+    },
+    {
+      "verb": "Press ahead",
+      "def": "Continuar con un plan de todos modos",
+      "ex": [
+        "Los constructores continuaron a pesar del mal tiempo.",
+        "La empresa continuará con la nueva fábrica.",
+        "Ella continuó con su plan de abrir una panadería."
+      ]
+    },
+    {
+      "verb": "Pump out",
+      "def": "Producir grandes cantidades de algo",
+      "ex": [
+        "La planta produce 500 autos al día.",
+        "Los pozos producirán petróleo por otros 20 años.",
+        "El estudio produce un nuevo programa cada mes."
+      ]
+    },
+    {
+      "verb": "Hit back",
+      "def": "Responder con fuerza a un ataque",
+      "ex": [
+        "El ministro respondió con fuerza a sus críticos.",
+        "La cantante respondió con fuerza a las acusaciones del diario.",
+        "La empresa respondió con fuerza con su propio comunicado."
+      ]
+    },
+    {
+      "verb": "Back up",
+      "def": "Respaldar algo con pruebas",
+      "ex": [
+        "Ella respaldó su afirmación con fotos.",
+        "Los números respaldan lo que dijo el alcalde.",
+        "¿Puedes respaldar esa afirmación con datos?"
+      ]
+    },
+    {
+      "verb": "Play down",
+      "def": "Hacer que algo parezca menos importante",
+      "ex": [
+        "La aerolínea le restó importancia al retraso.",
+        "El entrenador le restó importancia a la lesión de su estrella.",
+        "Los funcionarios intentaron restarle importancia al riesgo de inundación."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Haber comenzado en una época pasada",
+      "ex": [
+        "El castillo data del siglo XII.",
+        "Su disputa se remonta a un acuerdo de 2010.",
+        "La tradición se remonta a cientos de años atrás."
+      ]
+    },
+    {
+      "verb": "Bring up",
+      "def": "Mencionar un tema",
+      "ex": [
+        "Él mencionó el costo del viaje durante la cena.",
+        "Nadie quería mencionar el accidente.",
+        "Ella menciona el mismo problema en cada reunión."
+      ]
+    },
+    {
+      "verb": "Shore up",
+      "def": "Hacer que algo sea más fuerte",
+      "ex": [
+        "El banco fortaleció sus finanzas vendiendo activos.",
+        "El partido espera fortalecer su apoyo en zonas rurales.",
+        "Los ingenieros reforzaron el viejo puente con acero."
+      ]
+    },
+    {
+      "verb": "Back down",
+      "def": "Retirar un reclamo o una exigencia",
+      "ex": [
+        "El sindicato se negó a ceder en el tema del salario.",
+        "Ninguna de las partes cedió durante las negociaciones.",
+        "El alcalde cedió tras semanas de protestas."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "nationally televised address",
+      "def": "Un discurso de un líder transmitido por televisión en todo el país",
+      "ex": [
+        "El presidente dio un discurso transmitido a nivel nacional después de la tormenta.",
+        "Millones vieron el discurso transmitido a nivel nacional el domingo por la noche.",
+        "El primer ministro anunció el plan en un discurso transmitido a nivel nacional."
+      ]
+    },
+    {
+      "word": "sanctions",
+      "def": "Castigos oficiales, como prohibiciones de comercio o negocios",
+      "ex": [
+        "El gobierno impuso sanciones a tres bancos extranjeros.",
+        "Las sanciones hicieron difícil que el país vendiera su petróleo.",
+        "Las nuevas sanciones apuntan a empresas que envían armas."
+      ]
+    },
+    {
+      "word": "offshore",
+      "def": "En el mar, lejos de la costa",
+      "ex": [
+        "La empresa perfora petróleo en plataformas marinas.",
+        "Vientos fuertes paralizaron el parque eólico marino.",
+        "Los barcos pesqueros trabajan en aguas marinas todo el invierno."
+      ]
+    },
+    {
+      "word": "suppliers",
+      "def": "Empresas que proveen bienes o servicios a otras empresas",
+      "ex": [
+        "La fábrica compra acero a tres proveedores.",
+        "A los proveedores se les pidió que bajaran sus precios.",
+        "Un restaurante depende de sus proveedores de alimentos todos los días."
+      ]
+    },
+    {
+      "word": "shareholders",
+      "def": "Personas o empresas que son dueñas de parte de un negocio",
+      "ex": [
+        "Los accionistas votaron por el nuevo presidente.",
+        "La empresa pagó un dividendo a sus accionistas.",
+        "Los accionistas enojados exigieron respuestas en la reunión."
+      ]
+    },
+    {
+      "word": "naval base",
+      "def": "Un puerto donde un país mantiene sus buques de guerra y marineros",
+      "ex": [
+        "La base naval alberga a 12 buques de guerra.",
+        "Miles de marineros trabajan en la base naval.",
+        "El gobierno planea construir una nueva base naval en el sur."
+      ]
+    },
+    {
+      "word": "bill",
+      "def": "Una ley propuesta que los legisladores votan",
+      "ex": [
+        "El proyecto de ley pasó el Senado por amplio margen.",
+        "Los legisladores debatieron el proyecto de ley durante tres días.",
+        "El presidente firmó el proyecto de ley el viernes."
+      ]
+    },
+    {
+      "word": "unauthorized",
+      "def": "Hecho sin permiso oficial",
+      "ex": [
+        "No se permiten visitantes no autorizados en el laboratorio.",
+        "El banco bloqueó un pago no autorizado.",
+        "La pesca no autorizada en la zona puede resultar en una fuerte multa."
+      ]
+    },
+    {
+      "word": "national security",
+      "def": "La seguridad de un país frente a ataques u otras amenazas",
+      "ex": [
+        "El ministro dijo que el puerto era vital para la seguridad nacional.",
+        "El informe se mantuvo en secreto por razones de seguridad nacional.",
+        "Los ciberataques ahora se consideran un problema de seguridad nacional."
+      ]
+    },
+    {
+      "word": "licenses",
+      "def": "Permisos oficiales para realizar una actividad determinada",
+      "ex": [
+        "La empresa tiene dos licencias para perforar en busca de petróleo.",
+        "Los barcos pesqueros necesitan licencias para trabajar en estas aguas.",
+        "La ciudad emitió 50 nuevas licencias de taxi."
+      ]
+    },
+    {
+      "word": "defense secretary",
+      "def": "El ministro de gobierno a cargo de las fuerzas armadas",
+      "ex": [
+        "El secretario de Defensa visitó a las tropas en la base.",
+        "Los periodistas le preguntaron al secretario de Defensa sobre los nuevos buques de guerra.",
+        "El secretario de Defensa anunció un presupuesto militar más grande."
+      ]
+    },
+    {
+      "word": "commitment",
+      "def": "Una promesa firme de apoyar o hacer algo",
+      "ex": [
+        "El banco asumió el compromiso de prestar dinero a pequeñas granjas.",
+        "Ella mostró un fuerte compromiso con sus estudiantes.",
+        "Los dos países confirmaron su compromiso con el tratado."
+      ]
+    },
+    {
+      "word": "self-determination",
+      "def": "El derecho de un pueblo a elegir su propio gobierno",
+      "ex": [
+        "Los isleños dicen que la autodeterminación es un derecho básico.",
+        "El tratado reconoció la autodeterminación de las naciones pequeñas.",
+        "Ambos bandos usaron la idea de la autodeterminación en el debate."
+      ]
+    },
+    {
+      "word": "paramount",
+      "def": "Más importante que cualquier otra cosa",
+      "ex": [
+        "La seguridad es primordial en la planta de energía.",
+        "Para el juez, el bienestar del niño era primordial.",
+        "La velocidad es primordial cuando un paciente sufre un derrame cerebral."
+      ]
+    },
+    {
+      "word": "referendum",
+      "def": "Una votación en la que todos los ciudadanos deciden una pregunta",
+      "ex": [
+        "Los votantes rechazaron el nuevo impuesto en un referendo.",
+        "La isla realizó un referendo sobre su futuro.",
+        "El resultado del referendo se anunció a medianoche."
+      ]
+    },
+    {
+      "word": "overwhelmingly",
+      "def": "Por una mayoría muy amplia",
+      "ex": [
+        "El pueblo votó de forma abrumadora por mantener abierta la biblioteca.",
+        "Los miembros apoyaron de forma abrumadora el nuevo contrato.",
+        "El plan fue rechazado de forma abrumadora por el parlamento."
+      ]
+    },
+    {
+      "word": "overseas territory",
+      "def": "Una tierra lejana que un país sigue gobernando",
+      "ex": [
+        "Bermudas es un territorio británico de ultramar.",
+        "El territorio de ultramar tiene su propio gobierno local.",
+        "Los residentes del territorio de ultramar tienen pasaportes británicos."
+      ]
+    },
+    {
+      "word": "service members",
+      "def": "Personas que sirven en las fuerzas armadas de un país",
+      "ex": [
+        "El monumento honra a los militares que murieron en la guerra.",
+        "Los militares y sus familias reciben entradas gratis.",
+        "Unos 200 militares fueron enviados a ayudar después de la inundación."
+      ]
+    },
+    {
+      "word": "neutral",
+      "def": "Que no apoya a ninguno de los bandos en una disputa",
+      "ex": [
+        "Suiza se mantuvo neutral durante la guerra.",
+        "El árbitro debe mantenerse neutral durante el partido.",
+        "El país tomó una posición neutral en la disputa fronteriza."
+      ]
+    },
+    {
+      "word": "opposition lawmakers",
+      "def": "Legisladores de partidos que no están en el gobierno",
+      "ex": [
+        "Los legisladores de la oposición se retiraron del debate.",
+        "Los legisladores de la oposición acusaron al ministro de ocultar el informe.",
+        "El proyecto de ley pasó sin el apoyo de los legisladores de la oposición."
+      ]
+    },
+    {
+      "word": "military operation",
+      "def": "Una acción planeada por las fuerzas armadas de un país",
+      "ex": [
+        "La operación militar duró tres semanas.",
+        "La marina lanzó una operación militar contra los piratas.",
+        "El ejército negó estar planeando alguna operación militar en la región."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Milei reforzó el reclamo de Argentina sobre las islas en un discurso televisado.",
+      "a": true,
+      "why": "El 3 de septiembre de 2026, dio un discurso transmitido a nivel nacional y prometió fondos adicionales para una base naval en el extremo sur de Argentina."
+    },
+    {
+      "s": "El proyecto petrolero Sea Lion se ubica a unos 220 kilómetros al sur de las islas.",
+      "a": false,
+      "why": "Sea Lion se ubica a unos 220 kilómetros al norte de las islas, y sus dos operadores planean producir petróleo a partir de 2028."
+    },
+    {
+      "s": "El secretario de Defensa británico restó importancia al discurso, calificándolo de política interna.",
+      "a": true,
+      "why": "Gran Bretaña respondió con firmeza de inmediato, y el secretario de Defensa calificó el discurso de Milei de política interna en Argentina, mientras decía que el compromiso de Gran Bretaña con las islas es absoluto e inquebrantable."
+    },
+    {
+      "s": "La guerra de 1982 entre Argentina y Gran Bretaña duró unos dos años.",
+      "a": false,
+      "why": "La disputa se remonta a décadas atrás, y la guerra de 1982 duró 74 días, y mató a 649 soldados argentinos, 255 militares británicos y tres isleños."
+    },
+    {
+      "s": "Unos 4.000 isleños votaron en 2013 a favor de seguir siendo un territorio británico de ultramar.",
+      "a": true,
+      "why": "Gran Bretaña respalda su posición con el referendo de 2013, en el que los isleños votaron de forma abrumadora por seguir siendo británicos."
+    },
+    {
+      "s": "Argentina ha cedido en su reclamo sobre las islas.",
+      "a": false,
+      "why": "Ningún gobierno ha cedido, pero Argentina no ha anunciado ninguna operación militar."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "El presidente de Argentina prometió sanciones contra un proyecto petrolero de las Malvinas y dinero para una base naval para presionar su reclamo. Gran Bretaña respondió que las islas son británicas por la propia elección de los isleños.",
+      "a": true,
+      "why": "Argentina anunció sanciones contra el proyecto Sea Lion y fondos para una base naval en el extremo sur de Argentina, y Gran Bretaña dijo que su compromiso con las islas es absoluto e inquebrantable."
+    },
+    {
+      "s": "El presidente de Argentina amenazó con sanciones a las empresas petroleras cerca de las Malvinas y prometió una mayor presencia naval. Gran Bretaña aceptó abrir conversaciones para compartir el petróleo hallado cerca de las islas.",
+      "a": false,
+      "why": "Cerca, pero Gran Bretaña no ofreció conversaciones. Dijo que las islas son británicas porque los isleños eligen ser británicos, y que su compromiso con ellos es absoluto e inquebrantable."
+    },
+    {
+      "s": "Gran Bretaña y Argentina firmaron un acuerdo para restablecer vuelos directos a las islas y compartir datos de pesca. Funcionarios de ambos lados lo calificaron de un primer paso pequeño pero real hacia mejores relaciones.",
+      "a": false,
+      "why": "No hubo ningún acuerdo sobre vuelos ni pesca. Argentina anunció sanciones y fondos navales, y Gran Bretaña reiteró que la soberanía corresponde al Reino Unido."
+    }
+  ],
+  "dialogue": {
+    "Here we go again": "Se usa cuando algo desagradable está pasando una vez más y ya estás cansado de eso",
+    "That's the sticking point": "Se usa para nombrar el único problema que impide que dos partes lleguen a un acuerdo",
+    "Timing is everything": "Se usa para decir que el momento en que algo sucede importa tanto como lo que sucede",
+    "So far it's just words": "Se usa para decir que una amenaza o promesa aún no ha sido seguida de ninguna acción real",
+    "Let's hope it stays that way": "Se usa para decir que quieres que una buena situación tranquila continúe"
+  }
+}

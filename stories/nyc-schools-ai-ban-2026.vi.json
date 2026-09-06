@@ -1,1 +1,435 @@
-{"id":"nyc-schools-ai-ban-2026","number":101,"lang":"vi","headline":"New York cấm công cụ AI đối với học sinh nhỏ tuổi","chunks":["Các trường công lập ở New York sẽ không cho phép học sinh tiểu học và trung học cơ sở sử dụng công cụ AI tạo sinh trong năm nay. Thị trưởng đã trình bày kế hoạch này vào ngày 2 tháng 9 năm 2026, tám ngày trước khi học sinh quay lại trường. Lệnh tạm dừng kéo dài một năm này áp dụng cho toàn bộ phần mềm AI dành cho học sinh từ lớp 2-K đến lớp tám, gần 600.000 học sinh, điều mà văn phòng thị trưởng gọi là lệnh cấm rộng nhất trong cả nước. Thành phố cũng đang siết chặt các ứng dụng bạn đồng hành AI ở mọi cấp lớp.","Thành phố cũng muốn học sinh nhỏ tuổi hơn giảm bớt thời gian sử dụng màn hình, khuyến nghị giới hạn hằng ngày 30 phút trên thiết bị cá nhân cho lớp ba đến lớp năm và 45 phút cho lớp sáu đến lớp tám, và không dùng thiết bị cá nhân trước lớp ba. Các quan chức sẽ tắt các tính năng AI trong khoảng 38 công cụ giáo dục và loại bỏ dần công nghệ không thiết yếu cho việc học. Giáo viên vẫn có thể dùng AI để soạn giáo án, nhưng không được dùng để chấm điểm.","Đối với bậc trung học phổ thông, thành phố sẽ triển khai hai lớp học kỹ năng AI dài 45 phút mỗi năm cho mỗi học sinh trung học phổ thông, và tối đa 50.000 học sinh có thể dùng thử năm chương trình AI đã được phê duyệt dưới sự giám sát của giáo viên. Những người ủng hộ đã nhanh chóng lên tiếng. Thống đốc New York khen ngợi kế hoạch này, và người đứng đầu công đoàn giáo viên hoan nghênh các giới hạn thời gian màn hình. Thị trưởng nói rằng trẻ em cần giáo viên và sự kết nối với con người để học tập.","Lãnh đạo công đoàn cũng chỉ ra những lỗ hổng: nhiều câu hỏi vẫn chưa có lời giải đáp, và các trường sẽ phải tìm ra sau khi sự việc đã xảy ra xem các công cụ họ đang dùng có phù hợp với quy định mới hay không. Một nhóm bảo vệ quyền trẻ em nói rằng một năm không đủ thời gian để đánh giá. Một nhà nghiên cứu giáo dục cảnh báo rằng học sinh nghèo hơn có thể mất cơ hội tiếp cận công nghệ mà các gia đình giàu có hơn đang có. Thị trưởng nói ông tin tưởng giáo viên và hiệu trưởng sẽ thực thi chính sách này. Một liên minh mới gồm học sinh, phụ huynh và nhà giáo dục sẽ nghiên cứu các tác động và công bố khuyến nghị trước khi kết thúc năm học."],"verbs":[{"base":"lay out","correct":"Giải thích một kế hoạch chi tiết","wrong":"Chấm dứt công việc của một nhân viên"},{"base":"head back","correct":"Quay trở lại một nơi nào đó","wrong":"Ngăn chặn một vấn đề từ sớm"},{"base":"crack down on","correct":"Thực hiện biện pháp mạnh với điều gì đó","wrong":"Bắt đầu thất bại nặng nề dưới áp lực"},{"base":"cut down on","correct":"Sử dụng ít hơn một thứ gì đó","wrong":"Loại bỏ hoàn toàn một thứ gì đó"},{"base":"turn off","correct":"Làm cho một tính năng ngừng hoạt động","wrong":"Từ chối một lời đề nghị hoặc yêu cầu"},{"base":"phase out","correct":"Ngừng sử dụng một thứ gì đó dần dần","wrong":"Thử nghiệm một thứ gì đó trước khi dùng"},{"base":"roll out","correct":"Đưa một thứ mới vào sử dụng rộng rãi","wrong":"Hủy bỏ một quy tắc hoặc quyết định"},{"base":"try out","correct":"Thử một thứ gì đó để xem nó hoạt động ra sao","wrong":"Xin phép chính thức để sử dụng một thứ gì đó"},{"base":"weigh in","correct":"Đưa ra ý kiến về một vấn đề","wrong":"So sánh cẩn thận hai lựa chọn"},{"base":"point out","correct":"Thu hút sự chú ý đến một điều gì đó","wrong":"Đổ lỗi cho ai đó về một vấn đề"},{"base":"figure out","correct":"Hiểu ra một điều gì đó sau khi suy nghĩ","wrong":"Đưa một điều gì đó vào kế hoạch"},{"base":"miss out on","correct":"Bỏ lỡ cơ hội có được một thứ gì đó","wrong":"Trả nhiều tiền hơn người khác"},{"base":"look into","correct":"Xem xét kỹ một điều gì đó","wrong":"Chăm sóc cho ai đó"}],"vocab":[{"verb":"Lay out","def":"Giải thích một kế hoạch chi tiết","ex":["Người quản lý đã trình bày lịch trình của tháng tới một cách chi tiết.","Cô ấy trình bày ý tưởng của mình trong một bài thuyết trình ngắn.","Thị trưởng sẽ trình bày ngân sách vào thứ Ba."]},{"verb":"Head back","def":"Quay trở lại một nơi nào đó","ex":["Chúng tôi quay lại khách sạn sau bữa tối.","Học sinh quay lại trường vào tháng Chín.","Trời đang tối rồi, chúng ta quay lại thôi."]},{"verb":"Crack down on","def":"Thực hiện biện pháp mạnh với điều gì đó","ex":["Cảnh sát đang siết chặt tình trạng chạy quá tốc độ gần trường học.","Nhà trường đã siết chặt việc gian lận trong các kỳ thi.","Thành phố dự định siết chặt việc đỗ xe trái phép."]},{"verb":"Cut down on","def":"Sử dụng ít hơn một thứ gì đó","ex":["Tôi đang cố gắng uống ít cà phê hơn.","Công ty giảm việc sử dụng giấy bằng cách chuyển sang số hóa.","Phụ huynh muốn con cái chơi trò chơi điện tử ít hơn."]},{"verb":"Turn off","def":"Làm cho một tính năng ngừng hoạt động","ex":["Vui lòng tắt chế độ tự động phát.","Anh ấy tắt tính năng theo dõi vị trí trên điện thoại.","Giáo viên tắt tính năng trò chuyện trong lúc kiểm tra."]},{"verb":"Phase out","def":"Ngừng sử dụng một thứ gì đó dần dần","ex":["Công ty đang dần loại bỏ phần mềm cũ của mình.","Bang này sẽ loại bỏ dần điện than vào năm 2035.","Vé giấy đã bị loại bỏ dần vào năm ngoái."]},{"verb":"Roll out","def":"Đưa một thứ mới vào sử dụng rộng rãi","ex":["Thành phố đã triển khai một ứng dụng xe buýt mới vào mùa xuân trước.","Công ty sẽ triển khai bản cập nhật vào tuần tới.","Các trường học đang triển khai một chương trình đọc sách mới."]},{"verb":"Try out","def":"Thử một thứ gì đó để xem nó hoạt động ra sao","ex":["Bạn có thể dùng thử ứng dụng này miễn phí trong một tháng.","Giáo viên đã thử một cách mới để dạy phân số.","Chúng tôi đã lái thử chiếc xe trước khi mua."]},{"verb":"Weigh in","def":"Đưa ra ý kiến về một vấn đề","ex":["Một số chuyên gia đã lên tiếng về luật mới.","Phụ huynh được mời đưa ý kiến về kế hoạch này.","Thống đốc đã lên tiếng về cuộc tranh luận vào thứ Sáu."]},{"verb":"Point out","def":"Thu hút sự chú ý đến một điều gì đó","ex":["Cô ấy chỉ ra một vấn đề trong lịch trình.","Báo cáo chỉ ra một số rủi ro.","Anh ấy chỉ ra rằng cửa hàng đóng cửa lúc sáu giờ."]},{"verb":"Figure out","def":"Hiểu ra một điều gì đó sau khi suy nghĩ","ex":["Tôi không hiểu được ứng dụng này hoạt động thế nào.","Nhóm đã tìm ra lý do bài kiểm tra thất bại.","Chúng tôi cần nghĩ ra một kế hoạch cho mùa hè."]},{"verb":"Miss out on","def":"Bỏ lỡ cơ hội có được một thứ gì đó","ex":["Học sinh nghỉ học sẽ bỏ lỡ những bài học quan trọng.","Tôi đã bỏ lỡ đợt giảm giá vì đang đi du lịch.","Đừng bỏ lỡ những chiếc vé miễn phí."]},{"verb":"Look into","def":"Xem xét kỹ một điều gì đó","ex":["Nhà trường đang xem xét khiếu nại này.","Các nhà khoa học sẽ tìm hiểu nguyên nhân của căn bệnh này.","Chúng ta nên tìm hiểu các lựa chọn rẻ hơn."]}],"wordDefs":[{"word":"moratorium","def":"Việc chính thức tạm dừng một hoạt động trong một khoảng thời gian","ex":["Thành phố đã áp dụng lệnh tạm dừng cấp phép xây dựng mới.","Lệnh tạm dừng đánh bắt cá sẽ kéo dài hai năm."]},{"word":"AI companion apps","def":"Chương trình AI được thiết kế để trò chuyện với một người như một người bạn","ex":["Một số thanh thiếu niên dành hàng giờ trò chuyện với các ứng dụng bạn đồng hành AI.","Các bác sĩ đã bày tỏ lo ngại về ứng dụng bạn đồng hành AI và sự cô đơn."]},{"word":"screen time","def":"Thời gian dành để nhìn vào điện thoại, máy tính bảng hoặc máy tính","ex":["Các bác sĩ khuyến nghị trẻ nhỏ nên có ít thời gian màn hình hơn.","Bố mẹ cô ấy giới hạn thời gian màn hình của cô một giờ mỗi ngày."]},{"word":"cap","def":"Giới hạn tối đa cho một số lượng","ex":["Có một giới hạn cho số tiền bạn có thể chi mỗi tháng.","Thành phố đặt ra giới hạn cho việc tăng tiền thuê nhà."]},{"word":"individual devices","def":"Máy tính hoặc máy tính bảng được cấp riêng cho từng học sinh","ex":["Mỗi học sinh trong trường có một thiết bị cá nhân riêng.","Giáo viên thu lại các thiết bị cá nhân khi kết thúc tiết học."]},{"word":"education tools","def":"Phần mềm hoặc chương trình được dùng để giảng dạy và học tập","ex":["Học khu chi trả cho hàng chục công cụ giáo dục.","Nhiều công cụ giáo dục giờ đây có kèm trợ lý AI."]},{"word":"essential","def":"Hoàn toàn cần thiết","ex":["Nước là thiết yếu đối với sự sống.","Ngủ đủ giấc là thiết yếu đối với học sinh."]},{"word":"lesson planning","def":"Chuẩn bị nội dung dạy và cách dạy","ex":["Giáo viên dành nhiều giờ mỗi tuần để soạn giáo án.","Phần mềm mới giúp ích cho việc soạn giáo án."]},{"word":"grading","def":"Cho điểm hoặc đánh giá bài làm của học sinh","ex":["Giáo viên dành cả cuối tuần để chấm bài luận.","Việc chấm điểm mất nhiều thời gian hơn ở các lớp đông học sinh."]},{"word":"AI literacy","def":"Hiểu cách AI hoạt động và cách sử dụng nó một cách khôn ngoan","ex":["Thư viện cung cấp các lớp học miễn phí về kỹ năng AI cho người lớn.","Kỹ năng AI bao gồm việc biết khi nào một trợ lý AI có thể sai."]},{"word":"supervision","def":"Trông chừng ai đó để đảm bảo mọi việc được thực hiện đúng cách","ex":["Trẻ em chỉ có thể sử dụng hồ bơi dưới sự giám sát của người lớn.","Y tá mới làm việc dưới sự giám sát của bác sĩ."]},{"word":"commended","def":"Được khen ngợi chính thức hoặc công khai","ex":["Thị trưởng khen ngợi lính cứu hỏa vì lòng dũng cảm của họ.","Báo cáo khen ngợi phản ứng nhanh chóng của bệnh viện."]},{"word":"connection","def":"Cảm giác gần gũi và thấu hiểu giữa mọi người","ex":["Học sinh học tốt hơn khi cảm thấy có sự kết nối với giáo viên.","Hai người bạn đó có mối liên kết bền chặt."]},{"word":"gaps","def":"Những điều còn thiếu hoặc chưa được đề cập đến","ex":["Cuộc kiểm toán đã phát hiện những lỗ hổng trong bảo mật của công ty.","Luật mới có những lỗ hổng cần được sửa chữa."]},{"word":"unanswered","def":"Chưa được trả lời hoặc giải thích","ex":["Nhiều câu hỏi về kế hoạch này vẫn chưa có lời giải đáp.","Email của tôi không có ai trả lời suốt một tuần."]},{"word":"after the fact","def":"Sau khi một điều gì đó đã xảy ra rồi","ex":["Chúng tôi chỉ biết về sự thay đổi này sau khi nó đã xảy ra.","Việc chỉ trích một quyết định sau khi mọi việc đã rồi rất dễ dàng."]},{"word":"evaluate","def":"Đánh giá xem một thứ gì đó tốt hoặc hữu ích đến mức nào","ex":["Nhà trường sẽ đánh giá chương trình này vào mùa xuân tới.","Bác sĩ đánh giá từng bệnh nhân trước khi phẫu thuật."]},{"word":"enforce","def":"Đảm bảo rằng một quy định được tuân thủ","ex":["Cảnh sát thực thi giới hạn tốc độ trên con đường này.","Nhà trường không phải lúc nào cũng thực thi quy định về trang phục."]},{"word":"coalition","def":"Một nhóm người hoặc tổ chức cùng làm việc vì một mục tiêu","ex":["Một liên minh phụ huynh đã yêu cầu giảm sĩ số lớp học.","Liên minh này gồm giáo viên, bác sĩ và các lãnh đạo doanh nghiệp."]},{"word":"recommendations","def":"Những đề xuất chính thức về việc nên làm gì","ex":["Ủy ban sẽ công bố các khuyến nghị của mình vào tháng Sáu.","Khuyến nghị của bác sĩ bao gồm việc tập thể dục nhiều hơn."]}],"tf":[{"s":"Lệnh cấm áp dụng cho học sinh từ lớp 2-K đến lớp tám.","a":true,"why":"Thị trưởng đã trình bày lệnh tạm dừng một năm này vào ngày 2 tháng 9 năm 2026, và nó áp dụng cho toàn bộ phần mềm AI dành cho học sinh của gần 600.000 học sinh ở những lớp này."},{"s":"Thành phố khuyến nghị giới hạn thời gian màn hình hằng ngày là 60 phút cho lớp sáu đến lớp tám.","a":false,"why":"Để giúp học sinh nhỏ tuổi giảm thời gian màn hình, thành phố khuyến nghị 45 phút mỗi ngày cho lớp sáu đến lớp tám và 30 phút cho lớp ba đến lớp năm."},{"s":"Ứng dụng bạn đồng hành AI vẫn được phép sử dụng ở bậc trung học phổ thông.","a":false,"why":"Thành phố đang siết chặt các ứng dụng bạn đồng hành AI, vốn bị cấm ở mọi cấp lớp."},{"s":"Tối đa 50.000 học sinh trung học phổ thông có thể dùng thử năm chương trình AI đã được phê duyệt.","a":true,"why":"Các chương trình này được sử dụng dưới sự giám sát của giáo viên, và mỗi học sinh trung học phổ thông cũng được học hai lớp kỹ năng AI dài 45 phút mỗi năm."},{"s":"Giáo viên được phép dùng AI để soạn giáo án nhưng không được dùng để chấm điểm.","a":true,"why":"Giáo viên vẫn giữ được AI để soạn giáo án, trong khi các quan chức tắt tính năng AI trong khoảng 38 công cụ giáo dục hiện có mà học sinh sử dụng."},{"s":"Một nhóm bảo vệ quyền trẻ em nói rằng một năm là quá dài đối với lệnh tạm dừng này.","a":false,"why":"Nhóm này nói rằng một năm không đủ thời gian để đánh giá lệnh cấm, và lãnh đạo công đoàn chỉ ra rằng nhiều câu hỏi vẫn chưa có lời giải đáp."}],"mainIdea":[{"s":"New York sẽ ngăn học sinh dưới bậc trung học phổ thông sử dụng công cụ AI tạo sinh trong một năm học trong khi nghiên cứu các tác động. Thành phố cũng khuyến nghị giới hạn thời gian màn hình hằng ngày, và các nhà giáo dục cùng phụ huynh có ý kiến trái chiều.","a":true,"why":"Lệnh tạm dừng một năm này bao gồm từ lớp 2-K đến lớp tám, thành phố khuyến nghị giới hạn hằng ngày là 30 và 45 phút, và cả những người ủng hộ lẫn những người hoài nghi đều lên tiếng."},{"s":"New York sẽ tạm dừng AI tạo sinh đối với học sinh đến lớp tám trong một năm và nghiên cứu điều gì sẽ xảy ra. Giáo viên ở những lớp đó cũng phải ngừng sử dụng AI để soạn giáo án và bất kỳ công việc nào khác trong lớp học hoặc văn phòng.","a":false,"why":"Gần đúng, nhưng giáo viên vẫn có thể dùng AI để soạn giáo án, dù không được dùng để chấm điểm. Lệnh cấm áp dụng cho các công cụ dành cho học sinh, và giới hạn thời gian màn hình chỉ là khuyến nghị."},{"s":"New York sẽ tặng mỗi học sinh trung học phổ thông một máy tính xách tay có gia sư AI đã được phê duyệt vào mùa thu này. Các quan chức nói rằng chương trình này sẽ chuẩn bị cho học sinh những công việc trong một nền kinh tế ngày càng do AI và công nghệ mới dẫn dắt.","a":false,"why":"Không hề có chương trình máy tính xách tay nào. Thành phố đang giới hạn AI, với lệnh cấm một năm đến lớp tám và chỉ có những dự án thí điểm nhỏ có giám sát ở bậc trung học phổ thông."}],"dialogue":{"That's a big deal":"Dùng để nói rằng điều gì đó quan trọng và sẽ có tác động thực sự","Good luck with that":"Dùng, thường với một chút mỉa mai, để nói rằng điều gì đó sẽ khó thực hiện","Fair point":"Dùng để thừa nhận rằng điều ai đó vừa nói là hợp lý","Time will tell":"Dùng để nói rằng kết quả của điều gì đó chỉ rõ ràng sau này"}}
+{
+  "id": "nyc-schools-ai-ban-2026",
+  "number": 101,
+  "lang": "vi",
+  "headline": "New York cấm công cụ AI đối với học sinh nhỏ tuổi",
+  "chunks": [
+    "Các trường công lập ở New York sẽ không cho phép học sinh tiểu học và trung học cơ sở sử dụng công cụ AI tạo sinh trong năm nay. Thị trưởng đã trình bày kế hoạch này vào ngày 2 tháng 9 năm 2026, tám ngày trước khi học sinh quay lại trường. Lệnh tạm dừng kéo dài một năm này áp dụng cho toàn bộ phần mềm AI dành cho học sinh từ lớp 2-K đến lớp tám, gần 600.000 học sinh, điều mà văn phòng thị trưởng gọi là lệnh cấm rộng nhất trong cả nước. Thành phố cũng đang siết chặt các ứng dụng bạn đồng hành AI ở mọi cấp lớp.",
+    "Thành phố cũng muốn học sinh nhỏ tuổi hơn giảm bớt thời gian sử dụng màn hình, khuyến nghị giới hạn hằng ngày 30 phút trên thiết bị cá nhân cho lớp ba đến lớp năm và 45 phút cho lớp sáu đến lớp tám, và không dùng thiết bị cá nhân trước lớp ba. Các quan chức sẽ tắt các tính năng AI trong khoảng 38 công cụ giáo dục và loại bỏ dần công nghệ không thiết yếu cho việc học. Giáo viên vẫn có thể dùng AI để soạn giáo án, nhưng không được dùng để chấm điểm.",
+    "Đối với bậc trung học phổ thông, thành phố sẽ triển khai hai lớp học kỹ năng AI dài 45 phút mỗi năm cho mỗi học sinh trung học phổ thông, và tối đa 50.000 học sinh có thể dùng thử năm chương trình AI đã được phê duyệt dưới sự giám sát của giáo viên. Những người ủng hộ đã nhanh chóng lên tiếng. Thống đốc New York khen ngợi kế hoạch này, và người đứng đầu công đoàn giáo viên hoan nghênh các giới hạn thời gian màn hình. Thị trưởng nói rằng trẻ em cần giáo viên và sự kết nối với con người để học tập.",
+    "Lãnh đạo công đoàn cũng chỉ ra những lỗ hổng: nhiều câu hỏi vẫn chưa có lời giải đáp, và các trường sẽ phải tìm ra sau khi sự việc đã xảy ra xem các công cụ họ đang dùng có phù hợp với quy định mới hay không. Một nhóm bảo vệ quyền trẻ em nói rằng một năm không đủ thời gian để đánh giá. Một nhà nghiên cứu giáo dục cảnh báo rằng học sinh nghèo hơn có thể mất cơ hội tiếp cận công nghệ mà các gia đình giàu có hơn đang có. Thị trưởng nói ông tin tưởng giáo viên và hiệu trưởng sẽ thực thi chính sách này. Một liên minh mới gồm học sinh, phụ huynh và nhà giáo dục sẽ nghiên cứu các tác động và công bố khuyến nghị trước khi kết thúc năm học."
+  ],
+  "verbs": [
+    {
+      "base": "lay out",
+      "correct": "Giải thích một kế hoạch chi tiết",
+      "wrong": "Chấm dứt công việc của một nhân viên"
+    },
+    {
+      "base": "head back",
+      "correct": "Quay trở lại một nơi nào đó",
+      "wrong": "Ngăn chặn một vấn đề từ sớm"
+    },
+    {
+      "base": "crack down on",
+      "correct": "Thực hiện biện pháp mạnh với điều gì đó",
+      "wrong": "Bắt đầu thất bại nặng nề dưới áp lực"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Sử dụng ít hơn một thứ gì đó",
+      "wrong": "Loại bỏ hoàn toàn một thứ gì đó"
+    },
+    {
+      "base": "turn off",
+      "correct": "Làm cho một tính năng ngừng hoạt động",
+      "wrong": "Từ chối một lời đề nghị hoặc yêu cầu"
+    },
+    {
+      "base": "phase out",
+      "correct": "Ngừng sử dụng một thứ gì đó dần dần",
+      "wrong": "Thử nghiệm một thứ gì đó trước khi dùng"
+    },
+    {
+      "base": "roll out",
+      "correct": "Đưa một thứ mới vào sử dụng rộng rãi",
+      "wrong": "Hủy bỏ một quy tắc hoặc quyết định"
+    },
+    {
+      "base": "try out",
+      "correct": "Thử một thứ gì đó để xem nó hoạt động ra sao",
+      "wrong": "Xin phép chính thức để sử dụng một thứ gì đó"
+    },
+    {
+      "base": "weigh in",
+      "correct": "Đưa ra ý kiến về một vấn đề",
+      "wrong": "So sánh cẩn thận hai lựa chọn"
+    },
+    {
+      "base": "point out",
+      "correct": "Thu hút sự chú ý đến một điều gì đó",
+      "wrong": "Đổ lỗi cho ai đó về một vấn đề"
+    },
+    {
+      "base": "figure out",
+      "correct": "Hiểu ra một điều gì đó sau khi suy nghĩ",
+      "wrong": "Đưa một điều gì đó vào kế hoạch"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Bỏ lỡ cơ hội có được một thứ gì đó",
+      "wrong": "Trả nhiều tiền hơn người khác"
+    },
+    {
+      "base": "look into",
+      "correct": "Xem xét kỹ một điều gì đó",
+      "wrong": "Chăm sóc cho ai đó"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Lay out",
+      "def": "Giải thích một kế hoạch chi tiết",
+      "ex": [
+        "Người quản lý đã trình bày lịch trình của tháng tới một cách chi tiết.",
+        "Cô ấy trình bày ý tưởng của mình trong một bài thuyết trình ngắn.",
+        "Thị trưởng sẽ trình bày ngân sách vào thứ Ba."
+      ]
+    },
+    {
+      "verb": "Head back",
+      "def": "Quay trở lại một nơi nào đó",
+      "ex": [
+        "Chúng tôi quay lại khách sạn sau bữa tối.",
+        "Học sinh quay lại trường vào tháng Chín.",
+        "Trời đang tối rồi, chúng ta quay lại thôi."
+      ]
+    },
+    {
+      "verb": "Crack down on",
+      "def": "Thực hiện biện pháp mạnh với điều gì đó",
+      "ex": [
+        "Cảnh sát đang siết chặt tình trạng chạy quá tốc độ gần trường học.",
+        "Nhà trường đã siết chặt việc gian lận trong các kỳ thi.",
+        "Thành phố dự định siết chặt việc đỗ xe trái phép."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Sử dụng ít hơn một thứ gì đó",
+      "ex": [
+        "Tôi đang cố gắng uống ít cà phê hơn.",
+        "Công ty giảm việc sử dụng giấy bằng cách chuyển sang số hóa.",
+        "Phụ huynh muốn con cái chơi trò chơi điện tử ít hơn."
+      ]
+    },
+    {
+      "verb": "Turn off",
+      "def": "Làm cho một tính năng ngừng hoạt động",
+      "ex": [
+        "Vui lòng tắt chế độ tự động phát.",
+        "Anh ấy tắt tính năng theo dõi vị trí trên điện thoại.",
+        "Giáo viên tắt tính năng trò chuyện trong lúc kiểm tra."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Ngừng sử dụng một thứ gì đó dần dần",
+      "ex": [
+        "Công ty đang dần loại bỏ phần mềm cũ của mình.",
+        "Bang này sẽ loại bỏ dần điện than vào năm 2035.",
+        "Vé giấy đã bị loại bỏ dần vào năm ngoái."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Đưa một thứ mới vào sử dụng rộng rãi",
+      "ex": [
+        "Thành phố đã triển khai một ứng dụng xe buýt mới vào mùa xuân trước.",
+        "Công ty sẽ triển khai bản cập nhật vào tuần tới.",
+        "Các trường học đang triển khai một chương trình đọc sách mới."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Thử một thứ gì đó để xem nó hoạt động ra sao",
+      "ex": [
+        "Bạn có thể dùng thử ứng dụng này miễn phí trong một tháng.",
+        "Giáo viên đã thử một cách mới để dạy phân số.",
+        "Chúng tôi đã lái thử chiếc xe trước khi mua."
+      ]
+    },
+    {
+      "verb": "Weigh in",
+      "def": "Đưa ra ý kiến về một vấn đề",
+      "ex": [
+        "Một số chuyên gia đã lên tiếng về luật mới.",
+        "Phụ huynh được mời đưa ý kiến về kế hoạch này.",
+        "Thống đốc đã lên tiếng về cuộc tranh luận vào thứ Sáu."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Thu hút sự chú ý đến một điều gì đó",
+      "ex": [
+        "Cô ấy chỉ ra một vấn đề trong lịch trình.",
+        "Báo cáo chỉ ra một số rủi ro.",
+        "Anh ấy chỉ ra rằng cửa hàng đóng cửa lúc sáu giờ."
+      ]
+    },
+    {
+      "verb": "Figure out",
+      "def": "Hiểu ra một điều gì đó sau khi suy nghĩ",
+      "ex": [
+        "Tôi không hiểu được ứng dụng này hoạt động thế nào.",
+        "Nhóm đã tìm ra lý do bài kiểm tra thất bại.",
+        "Chúng tôi cần nghĩ ra một kế hoạch cho mùa hè."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Bỏ lỡ cơ hội có được một thứ gì đó",
+      "ex": [
+        "Học sinh nghỉ học sẽ bỏ lỡ những bài học quan trọng.",
+        "Tôi đã bỏ lỡ đợt giảm giá vì đang đi du lịch.",
+        "Đừng bỏ lỡ những chiếc vé miễn phí."
+      ]
+    },
+    {
+      "verb": "Look into",
+      "def": "Xem xét kỹ một điều gì đó",
+      "ex": [
+        "Nhà trường đang xem xét khiếu nại này.",
+        "Các nhà khoa học sẽ tìm hiểu nguyên nhân của căn bệnh này.",
+        "Chúng ta nên tìm hiểu các lựa chọn rẻ hơn."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "moratorium",
+      "def": "Việc chính thức tạm dừng một hoạt động trong một khoảng thời gian",
+      "ex": [
+        "Thành phố đã áp dụng lệnh tạm dừng cấp phép xây dựng mới.",
+        "Lệnh tạm dừng đánh bắt cá sẽ kéo dài hai năm.",
+        "Các nhà lập pháp đã bỏ phiếu cho lệnh tạm dừng thuế này."
+      ]
+    },
+    {
+      "word": "AI companion apps",
+      "def": "Chương trình AI được thiết kế để trò chuyện với một người như một người bạn",
+      "ex": [
+        "Một số thanh thiếu niên dành hàng giờ trò chuyện với các ứng dụng bạn đồng hành AI.",
+        "Các bác sĩ đã bày tỏ lo ngại về ứng dụng bạn đồng hành AI và sự cô đơn.",
+        "Nhiều ứng dụng bạn đồng hành AI ghi nhớ các cuộc trò chuyện trước đây của bạn."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Thời gian dành để nhìn vào điện thoại, máy tính bảng hoặc máy tính",
+      "ex": [
+        "Các bác sĩ khuyến nghị trẻ nhỏ nên có ít thời gian màn hình hơn.",
+        "Bố mẹ cô ấy giới hạn thời gian màn hình của cô một giờ mỗi ngày.",
+        "Quá nhiều thời gian màn hình có thể khiến bạn khó ngủ."
+      ]
+    },
+    {
+      "word": "cap",
+      "def": "Giới hạn tối đa cho một số lượng",
+      "ex": [
+        "Có một giới hạn cho số tiền bạn có thể chi mỗi tháng.",
+        "Thành phố đặt ra giới hạn cho việc tăng tiền thuê nhà.",
+        "Lớp học có giới hạn 25 học sinh."
+      ]
+    },
+    {
+      "word": "individual devices",
+      "def": "Máy tính hoặc máy tính bảng được cấp riêng cho từng học sinh",
+      "ex": [
+        "Mỗi học sinh trong trường có một thiết bị cá nhân riêng.",
+        "Giáo viên thu lại các thiết bị cá nhân khi kết thúc tiết học.",
+        "Trẻ nhỏ hơn không cần thiết bị cá nhân để học."
+      ]
+    },
+    {
+      "word": "education tools",
+      "def": "Phần mềm hoặc chương trình được dùng để giảng dạy và học tập",
+      "ex": [
+        "Học khu chi trả cho hàng chục công cụ giáo dục.",
+        "Nhiều công cụ giáo dục giờ đây có kèm trợ lý AI.",
+        "Giáo viên đã thử nghiệm các công cụ giáo dục trước năm học."
+      ]
+    },
+    {
+      "word": "essential",
+      "def": "Hoàn toàn cần thiết",
+      "ex": [
+        "Nước là thiết yếu đối với sự sống.",
+        "Ngủ đủ giấc là thiết yếu đối với học sinh.",
+        "Cửa hàng chỉ bán những mặt hàng thiết yếu."
+      ]
+    },
+    {
+      "word": "lesson planning",
+      "def": "Chuẩn bị nội dung dạy và cách dạy",
+      "ex": [
+        "Giáo viên dành nhiều giờ mỗi tuần để soạn giáo án.",
+        "Phần mềm mới giúp ích cho việc soạn giáo án.",
+        "Việc soạn giáo án dễ dàng hơn khi sách giáo khoa tốt."
+      ]
+    },
+    {
+      "word": "grading",
+      "def": "Cho điểm hoặc đánh giá bài làm của học sinh",
+      "ex": [
+        "Giáo viên dành cả cuối tuần để chấm bài luận.",
+        "Việc chấm điểm mất nhiều thời gian hơn ở các lớp đông học sinh.",
+        "Nhà trường đã thay đổi hệ thống chấm điểm vào năm ngoái."
+      ]
+    },
+    {
+      "word": "AI literacy",
+      "def": "Hiểu cách AI hoạt động và cách sử dụng nó một cách khôn ngoan",
+      "ex": [
+        "Thư viện cung cấp các lớp học miễn phí về kỹ năng AI cho người lớn.",
+        "Kỹ năng AI bao gồm việc biết khi nào một trợ lý AI có thể sai.",
+        "Nhiều công ty giờ đây muốn nhân viên có kỹ năng AI cơ bản."
+      ]
+    },
+    {
+      "word": "supervision",
+      "def": "Trông chừng ai đó để đảm bảo mọi việc được thực hiện đúng cách",
+      "ex": [
+        "Trẻ em chỉ có thể sử dụng hồ bơi dưới sự giám sát của người lớn.",
+        "Y tá mới làm việc dưới sự giám sát của bác sĩ.",
+        "Thí nghiệm được thực hiện dưới sự giám sát chặt chẽ."
+      ]
+    },
+    {
+      "word": "commended",
+      "def": "Được khen ngợi chính thức hoặc công khai",
+      "ex": [
+        "Thị trưởng khen ngợi lính cứu hỏa vì lòng dũng cảm của họ.",
+        "Báo cáo khen ngợi phản ứng nhanh chóng của bệnh viện.",
+        "Cô ấy được sếp khen ngợi vì làm việc chăm chỉ."
+      ]
+    },
+    {
+      "word": "connection",
+      "def": "Cảm giác gần gũi và thấu hiểu giữa mọi người",
+      "ex": [
+        "Học sinh học tốt hơn khi cảm thấy có sự kết nối với giáo viên.",
+        "Hai người bạn đó có mối liên kết bền chặt.",
+        "Cuộc gọi video không thể thay thế sự kết nối thực sự giữa con người."
+      ]
+    },
+    {
+      "word": "gaps",
+      "def": "Những điều còn thiếu hoặc chưa được đề cập đến",
+      "ex": [
+        "Cuộc kiểm toán đã phát hiện những lỗ hổng trong bảo mật của công ty.",
+        "Luật mới có những lỗ hổng cần được sửa chữa.",
+        "Giáo viên nhận thấy những lỗ hổng trong kiến thức của học sinh."
+      ]
+    },
+    {
+      "word": "unanswered",
+      "def": "Chưa được trả lời hoặc giải thích",
+      "ex": [
+        "Rất nhiều câu hỏi liên quan đến kế hoạch đó vẫn chưa được trả lời.",
+        "Email của tôi không có ai trả lời suốt một tuần.",
+        "Nhiều câu hỏi về kế hoạch này vẫn chưa có lời giải đáp."
+      ]
+    },
+    {
+      "word": "after the fact",
+      "def": "Sau khi một điều gì đó đã xảy ra rồi",
+      "ex": [
+        "Chúng tôi chỉ biết về sự thay đổi này sau khi nó đã xảy ra.",
+        "Việc chỉ trích một quyết định sau khi mọi việc đã rồi rất dễ dàng.",
+        "Các quy định được giải thích sau khi mọi việc đã rồi, khiến nhân viên khó chịu."
+      ]
+    },
+    {
+      "word": "evaluate",
+      "def": "Đánh giá xem một thứ gì đó tốt hoặc hữu ích đến mức nào",
+      "ex": [
+        "Nhà trường sẽ đánh giá chương trình này vào mùa xuân tới.",
+        "Bác sĩ đánh giá từng bệnh nhân trước khi phẫu thuật.",
+        "Thật khó để đánh giá một giáo viên mới chỉ sau một tuần."
+      ]
+    },
+    {
+      "word": "enforce",
+      "def": "Đảm bảo rằng một quy định được tuân thủ",
+      "ex": [
+        "Cảnh sát thực thi giới hạn tốc độ trên con đường này.",
+        "Nhà trường không phải lúc nào cũng thực thi quy định về trang phục.",
+        "Một quy định sẽ vô ích nếu không ai thực thi nó."
+      ]
+    },
+    {
+      "word": "coalition",
+      "def": "Một nhóm người hoặc tổ chức cùng làm việc vì một mục tiêu",
+      "ex": [
+        "Một liên minh phụ huynh đã yêu cầu giảm sĩ số lớp học.",
+        "Liên minh này gồm giáo viên, bác sĩ và các lãnh đạo doanh nghiệp.",
+        "Một số tổ chức từ thiện đã thành lập một liên minh để chống lại nạn đói."
+      ]
+    },
+    {
+      "word": "recommendations",
+      "def": "Những đề xuất chính thức về việc nên làm gì",
+      "ex": [
+        "Ủy ban sẽ công bố các khuyến nghị của mình vào tháng Sáu.",
+        "Khuyến nghị của bác sĩ bao gồm việc tập thể dục nhiều hơn.",
+        "Thành phố đã bỏ qua hầu hết các khuyến nghị trong báo cáo."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Lệnh cấm áp dụng cho học sinh từ lớp 2-K đến lớp tám.",
+      "a": true,
+      "why": "Thị trưởng đã trình bày lệnh tạm dừng một năm này vào ngày 2 tháng 9 năm 2026, và nó áp dụng cho toàn bộ phần mềm AI dành cho học sinh của gần 600.000 học sinh ở những lớp này."
+    },
+    {
+      "s": "Thành phố khuyến nghị giới hạn thời gian màn hình hằng ngày là 60 phút cho lớp sáu đến lớp tám.",
+      "a": false,
+      "why": "Để giúp học sinh nhỏ tuổi giảm thời gian màn hình, thành phố khuyến nghị 45 phút mỗi ngày cho lớp sáu đến lớp tám và 30 phút cho lớp ba đến lớp năm."
+    },
+    {
+      "s": "Ứng dụng bạn đồng hành AI vẫn được phép sử dụng ở bậc trung học phổ thông.",
+      "a": false,
+      "why": "Thành phố đang siết chặt các ứng dụng bạn đồng hành AI, vốn bị cấm ở mọi cấp lớp."
+    },
+    {
+      "s": "Tối đa 50.000 học sinh trung học phổ thông có thể dùng thử năm chương trình AI đã được phê duyệt.",
+      "a": true,
+      "why": "Các chương trình này được sử dụng dưới sự giám sát của giáo viên, và mỗi học sinh trung học phổ thông cũng được học hai lớp kỹ năng AI dài 45 phút mỗi năm."
+    },
+    {
+      "s": "Giáo viên được phép dùng AI để soạn giáo án nhưng không được dùng để chấm điểm.",
+      "a": true,
+      "why": "Giáo viên vẫn giữ được AI để soạn giáo án, trong khi các quan chức tắt tính năng AI trong khoảng 38 công cụ giáo dục hiện có mà học sinh sử dụng."
+    },
+    {
+      "s": "Một nhóm bảo vệ quyền trẻ em nói rằng một năm là quá dài đối với lệnh tạm dừng này.",
+      "a": false,
+      "why": "Nhóm này nói rằng một năm không đủ thời gian để đánh giá lệnh cấm, và lãnh đạo công đoàn chỉ ra rằng nhiều câu hỏi vẫn chưa có lời giải đáp."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "New York sẽ ngăn học sinh dưới bậc trung học phổ thông sử dụng công cụ AI tạo sinh trong một năm học trong khi nghiên cứu các tác động. Thành phố cũng khuyến nghị giới hạn thời gian màn hình hằng ngày, và các nhà giáo dục cùng phụ huynh có ý kiến trái chiều.",
+      "a": true,
+      "why": "Lệnh tạm dừng một năm này bao gồm từ lớp 2-K đến lớp tám, thành phố khuyến nghị giới hạn hằng ngày là 30 và 45 phút, và cả những người ủng hộ lẫn những người hoài nghi đều lên tiếng."
+    },
+    {
+      "s": "New York sẽ tạm dừng AI tạo sinh đối với học sinh đến lớp tám trong một năm và nghiên cứu điều gì sẽ xảy ra. Giáo viên ở những lớp đó cũng phải ngừng sử dụng AI để soạn giáo án và bất kỳ công việc nào khác trong lớp học hoặc văn phòng.",
+      "a": false,
+      "why": "Gần đúng, nhưng giáo viên vẫn có thể dùng AI để soạn giáo án, dù không được dùng để chấm điểm. Lệnh cấm áp dụng cho các công cụ dành cho học sinh, và giới hạn thời gian màn hình chỉ là khuyến nghị."
+    },
+    {
+      "s": "New York sẽ tặng mỗi học sinh trung học phổ thông một máy tính xách tay có gia sư AI đã được phê duyệt vào mùa thu này. Các quan chức nói rằng chương trình này sẽ chuẩn bị cho học sinh những công việc trong một nền kinh tế ngày càng do AI và công nghệ mới dẫn dắt.",
+      "a": false,
+      "why": "Không hề có chương trình máy tính xách tay nào. Thành phố đang giới hạn AI, với lệnh cấm một năm đến lớp tám và chỉ có những dự án thí điểm nhỏ có giám sát ở bậc trung học phổ thông."
+    }
+  ],
+  "dialogue": {
+    "That's a big deal": "Dùng để nói rằng điều gì đó quan trọng và sẽ có tác động thực sự",
+    "Good luck with that": "Dùng, thường với một chút mỉa mai, để nói rằng điều gì đó sẽ khó thực hiện",
+    "Fair point": "Dùng để thừa nhận rằng điều ai đó vừa nói là hợp lý",
+    "Time will tell": "Dùng để nói rằng kết quả của điều gì đó chỉ rõ ràng sau này"
+  }
+}

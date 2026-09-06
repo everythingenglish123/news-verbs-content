@@ -1,1 +1,435 @@
-{"id":"nyc-schools-ai-ban-2026","number":101,"lang":"id","headline":"Kota New York melarang alat AI bagi siswa yang lebih muda","chunks":["Sekolah negeri di Kota New York tidak akan mengizinkan siswa SD dan SMP menggunakan alat AI generatif tahun ini. Wali kota menjabarkan rencana itu pada 2 September 2026, delapan hari sebelum siswa kembali ke sekolah. Moratorium selama satu tahun ini mencakup semua perangkat lunak AI yang ditujukan untuk siswa dari 2-K hingga kelas delapan, hampir 600.000 siswa, yang oleh kantor wali kota disebut sebagai larangan paling luas di negara ini. Kota ini juga menindak tegas aplikasi pendamping AI di semua jenjang.","Kota ini juga ingin siswa yang lebih muda mengurangi waktu layar, dengan merekomendasikan batas harian 30 menit pada perangkat individual untuk kelas tiga hingga lima dan 45 menit untuk kelas enam hingga delapan, serta tidak ada perangkat individual sebelum kelas tiga. Pejabat akan mematikan fitur AI di sekitar 38 alat pendidikan dan menghapus secara bertahap teknologi yang tidak esensial bagi pembelajaran. Guru masih dapat menggunakan AI untuk perencanaan pelajaran, tetapi tidak untuk penilaian.","Untuk sekolah menengah atas, kota akan meluncurkan dua kelas literasi AI berdurasi 45 menit setiap tahun untuk setiap siswa SMA, dan hingga 50.000 siswa dapat mencoba lima program AI yang disetujui di bawah pengawasan guru. Para pendukung segera memberikan pendapat. Gubernur New York memuji rencana itu, dan ketua serikat guru menyambut baik batas waktu layar tersebut. Wali kota mengatakan anak-anak membutuhkan guru dan koneksi manusia untuk belajar.","Ketua serikat itu juga menunjukkan beberapa kesenjangan: banyak pertanyaan tetap tidak terjawab, dan sekolah harus mencari tahu setelah kejadian apakah alat mereka sesuai dengan aturan. Sebuah kelompok advokasi anak mengatakan satu tahun bukan waktu yang cukup untuk mengevaluasi. Seorang peneliti pendidikan memperingatkan bahwa siswa yang lebih miskin bisa kehilangan kesempatan atas teknologi yang sudah dimiliki keluarga yang lebih kaya. Wali kota mengatakan ia percaya pada guru dan kepala sekolah untuk menegakkan kebijakan ini. Sebuah koalisi baru yang terdiri dari siswa, orang tua, dan pendidik akan menyelidiki dampaknya dan menerbitkan rekomendasi pada akhir tahun ajaran."],"verbs":[{"base":"lay out","correct":"Menjelaskan rencana secara detail","wrong":"Memberhentikan seorang karyawan"},{"base":"head back","correct":"Kembali ke suatu tempat","wrong":"Menghentikan masalah lebih awal"},{"base":"crack down on","correct":"Menindak tegas sesuatu","wrong":"Mulai gagal di bawah tekanan"},{"base":"cut down on","correct":"Mengurangi penggunaan sesuatu","wrong":"Menghilangkan sesuatu sepenuhnya"},{"base":"turn off","correct":"Menghentikan fitur agar tidak berfungsi","wrong":"Menolak sebuah tawaran atau permintaan"},{"base":"phase out","correct":"Menghapus penggunaan sesuatu secara bertahap","wrong":"Mencoba sesuatu sebelum digunakan secara luas"},{"base":"roll out","correct":"Memperkenalkan sesuatu yang baru secara luas","wrong":"Membatalkan sebuah aturan atau keputusan"},{"base":"try out","correct":"Mencoba sesuatu untuk melihat cara kerjanya","wrong":"Meminta izin untuk menggunakan sesuatu"},{"base":"weigh in","correct":"Memberikan pendapat tentang suatu masalah","wrong":"Membandingkan dua pilihan dengan hati-hati"},{"base":"point out","correct":"Menarik perhatian pada sesuatu","wrong":"Menyalahkan seseorang atas suatu masalah"},{"base":"figure out","correct":"Memahami sesuatu setelah berpikir","wrong":"Memasukkan sesuatu ke dalam sebuah rencana"},{"base":"miss out on","correct":"Kehilangan kesempatan atas sesuatu","wrong":"Membayar lebih mahal untuk sesuatu"},{"base":"look into","correct":"Memeriksa sesuatu dengan cermat","wrong":"Merawat seseorang dengan penuh perhatian"}],"vocab":[{"verb":"Lay out","def":"Menjelaskan rencana secara detail","ex":["Manajer menjelaskan jadwal bulan depan secara detail.","Dia menjelaskan idenya secara detail dalam presentasi singkat.","Wali kota akan menjelaskan anggaran itu hari Selasa."]},{"verb":"Head back","def":"Kembali ke suatu tempat","ex":["Kami kembali ke hotel setelah makan malam.","Siswa kembali ke sekolah pada bulan September.","Hari mulai gelap, jadi ayo kita kembali."]},{"verb":"Crack down on","def":"Menindak tegas sesuatu","ex":["Polisi menindak tegas pengemudi yang ngebut di dekat sekolah.","Sekolah menindak tegas kecurangan saat ujian.","Kota berencana menindak tegas parkir ilegal."]},{"verb":"Cut down on","def":"Mengurangi penggunaan sesuatu","ex":["Aku sedang mencoba mengurangi minum kopi.","Perusahaan mengurangi penggunaan kertas setelah beralih ke digital.","Orang tua ingin anak-anak mereka mengurangi bermain video game."]},{"verb":"Turn off","def":"Menghentikan fitur agar tidak berfungsi","ex":["Tolong matikan pengaturan putar otomatis.","Dia mematikan pelacakan lokasi di ponselnya.","Guru mematikan fitur chat selama ujian."]},{"verb":"Phase out","def":"Menghapus penggunaan sesuatu secara bertahap","ex":["Perusahaan itu menghapus penggunaan perangkat lunak lamanya secara bertahap.","Negara bagian akan menghapus penggunaan listrik dari batu bara secara bertahap pada 2035.","Tiket kertas dihapus secara bertahap tahun lalu."]},{"verb":"Roll out","def":"Memperkenalkan sesuatu yang baru secara luas","ex":["Kota memperkenalkan aplikasi bus baru secara luas musim semi lalu.","Perusahaan akan memperkenalkan pembaruan itu secara luas minggu depan.","Sekolah-sekolah memperkenalkan program membaca baru secara luas."]},{"verb":"Try out","def":"Mencoba sesuatu untuk melihat cara kerjanya","ex":["Kamu bisa mencoba aplikasi ini gratis selama sebulan.","Guru itu mencoba cara baru mengajar pecahan.","Kami mencoba mobil itu sebelum membelinya."]},{"verb":"Weigh in","def":"Memberikan pendapat tentang suatu masalah","ex":["Beberapa ahli memberikan pendapat tentang undang-undang baru itu.","Orang tua diundang untuk memberikan pendapat tentang rencana itu.","Gubernur memberikan pendapatnya dalam debat pada hari Jumat."]},{"verb":"Point out","def":"Menarik perhatian pada sesuatu","ex":["Dia menarik perhatian pada masalah dalam jadwal itu.","Laporan itu menarik perhatian pada beberapa risiko.","Dia menunjukkan bahwa toko itu tutup pukul enam."]},{"verb":"Figure out","def":"Memahami sesuatu setelah berpikir","ex":["Butuh satu jam bagiku untuk memahami printer baru itu.","Tim itu memahami mengapa tesnya gagal.","Kita perlu memikirkan rencana untuk musim panas."]},{"verb":"Miss out on","def":"Kehilangan kesempatan atas sesuatu","ex":["Siswa yang bolos kehilangan kesempatan atas pelajaran penting.","Aku kehilangan kesempatan ikut diskon karena sedang bepergian.","Jangan sampai kamu kehilangan kesempatan atas tiket gratis itu."]},{"verb":"Look into","def":"Memeriksa sesuatu dengan cermat","ex":["Sekolah sedang memeriksa keluhan itu.","Ilmuwan akan menyelidiki penyebab penyakit itu.","Kita harus memeriksa pilihan yang lebih murah."]}],"wordDefs":[{"word":"moratorium","def":"Penghentian resmi suatu kegiatan untuk periode waktu tertentu","ex":["Kota menerapkan moratorium izin bangunan baru.","Moratorium penangkapan ikan itu akan berlangsung selama dua tahun."]},{"word":"AI companion apps","def":"Program AI yang dirancang untuk mengobrol dengan seseorang seperti teman","ex":["Beberapa remaja menghabiskan waktu berjam-jam mengobrol dengan aplikasi pendamping AI.","Dokter telah menyuarakan kekhawatiran tentang aplikasi pendamping AI dan kesepian."]},{"word":"screen time","def":"Waktu yang dihabiskan untuk menatap ponsel, tablet, atau komputer","ex":["Dokter merekomendasikan waktu layar yang lebih sedikit untuk anak kecil.","Orang tuanya membatasi waktu layarnya hingga satu jam sehari."]},{"word":"cap","def":"Batas atas untuk suatu jumlah","ex":["Ada batas berapa banyak yang bisa kamu belanjakan setiap bulan.","Kota menetapkan batas kenaikan sewa."]},{"word":"individual devices","def":"Komputer atau tablet yang diberikan kepada setiap siswa secara terpisah","ex":["Setiap siswa di sekolah itu memiliki perangkat individual.","Guru mengumpulkan perangkat individual di akhir pelajaran."]},{"word":"education tools","def":"Perangkat lunak atau program yang digunakan untuk mengajar dan belajar","ex":["Distrik itu membayar untuk puluhan alat pendidikan.","Banyak alat pendidikan kini menyertakan asisten AI."]},{"word":"essential","def":"Benar-benar diperlukan","ex":["Air itu esensial bagi kehidupan.","Tidur yang cukup esensial bagi siswa."]},{"word":"lesson planning","def":"Mempersiapkan apa dan bagaimana cara mengajar","ex":["Guru menghabiskan berjam-jam setiap minggu untuk perencanaan pelajaran.","Perangkat lunak baru itu membantu perencanaan pelajaran."]},{"word":"grading","def":"Memberikan nilai atau skor pada pekerjaan siswa","ex":["Guru menghabiskan akhir pekan untuk penilaian esai.","Penilaian memakan waktu lebih lama untuk kelas besar."]},{"word":"AI literacy","def":"Memahami cara kerja AI dan cara menggunakannya dengan bijak","ex":["Perpustakaan menawarkan kelas literasi AI gratis untuk orang dewasa.","Literasi AI mencakup mengetahui kapan asisten AI bisa salah."]},{"word":"supervision","def":"Mengawasi seseorang untuk memastikan segala sesuatunya dilakukan dengan benar","ex":["Anak-anak hanya boleh menggunakan kolam renang di bawah pengawasan orang dewasa.","Perawat baru itu bekerja di bawah pengawasan seorang dokter."]},{"word":"commended","def":"Dipuji secara resmi atau publik","ex":["Wali kota memuji keberanian para petugas pemadam kebakaran.","Laporan itu memuji respons cepat rumah sakit."]},{"word":"connection","def":"Perasaan kedekatan dan saling memahami antara orang-orang","ex":["Siswa belajar lebih baik ketika merasakan koneksi dengan gurunya.","Kedua teman itu memiliki koneksi yang kuat."]},{"word":"gaps","def":"Hal-hal yang hilang atau tidak tercakup","ex":["Audit itu menemukan kesenjangan dalam keamanan perusahaan.","Ada kesenjangan dalam undang-undang baru yang perlu diperbaiki."]},{"word":"unanswered","def":"Belum dijawab atau dijelaskan","ex":["Banyak pertanyaan tentang rencana itu tetap tidak terjawab.","Emailku tidak terjawab selama seminggu."]},{"word":"after the fact","def":"Setelah sesuatu sudah terjadi","ex":["Kami baru tahu tentang perubahan itu setelah kejadian.","Mudah untuk mengkritik sebuah keputusan setelah kejadian."]},{"word":"evaluate","def":"Menilai seberapa baik atau berguna sesuatu","ex":["Sekolah akan mengevaluasi program itu musim semi depan.","Dokter mengevaluasi setiap pasien sebelum operasi."]},{"word":"enforce","def":"Memastikan bahwa sebuah aturan dipatuhi","ex":["Polisi menegakkan batas kecepatan di jalan ini.","Sekolah tidak selalu menegakkan aturan berpakaiannya."]},{"word":"coalition","def":"Sekelompok orang atau organisasi yang bekerja sama untuk suatu tujuan","ex":["Koalisi orang tua meminta kelas yang lebih kecil.","Koalisi itu mencakup guru, dokter, dan pemimpin bisnis."]},{"word":"recommendations","def":"Saran resmi tentang apa yang harus dilakukan","ex":["Komite akan menerbitkan rekomendasinya pada bulan Juni.","Rekomendasi dokter itu termasuk lebih banyak olahraga."]}],"tf":[{"s":"Larangan ini berlaku untuk siswa dari kelas 2-K hingga kelas delapan.","a":true,"why":"Wali kota menjabarkan moratorium selama satu tahun pada 2 September 2026, dan ini mencakup semua perangkat lunak AI untuk siswa di jenjang tersebut, hampir 600.000 siswa."},{"s":"Kota merekomendasikan batas waktu layar harian 60 menit untuk kelas enam hingga delapan.","a":false,"why":"Untuk membantu siswa yang lebih muda mengurangi waktu layar, kota merekomendasikan 45 menit sehari untuk kelas enam hingga delapan dan 30 menit untuk kelas tiga hingga lima."},{"s":"Aplikasi pendamping AI masih diizinkan di sekolah menengah atas.","a":false,"why":"Kota menindak tegas aplikasi pendamping AI, yang dilarang di semua jenjang."},{"s":"Hingga 50.000 siswa SMA dapat mencoba lima program AI yang disetujui.","a":true,"why":"Program-program itu digunakan di bawah pengawasan guru, dan setiap siswa SMA juga mendapat dua kelas literasi AI berdurasi 45 menit setiap tahun."},{"s":"Guru diizinkan menggunakan AI untuk perencanaan pelajaran tetapi tidak untuk penilaian.","a":true,"why":"Guru tetap menggunakan AI untuk perencanaan pelajaran, sementara pejabat mematikan fitur AI di sekitar 38 alat pendidikan yang sudah digunakan siswa."},{"s":"Sebuah kelompok advokasi anak mengatakan satu tahun terlalu lama untuk moratorium itu.","a":false,"why":"Kelompok itu mengatakan satu tahun bukan waktu yang cukup untuk mengevaluasi, dan ketua serikat menunjukkan bahwa banyak pertanyaan tetap tidak terjawab."}],"mainIdea":[{"s":"Kota New York akan menghentikan siswa di bawah SMA dari penggunaan alat AI generatif selama satu tahun ajaran sambil mempelajari dampaknya. Kota ini juga merekomendasikan batas waktu layar harian, dan pendidik serta orang tua memiliki pandangan yang berbeda.","a":true,"why":"Moratorium selama satu tahun mencakup 2-K hingga kelas delapan, kota merekomendasikan batas harian 30 dan 45 menit, serta pendukung dan skeptis sama-sama memberikan pendapat."},{"s":"Kota New York akan menghentikan AI generatif untuk siswa hingga kelas delapan selama satu tahun dan mempelajari apa yang terjadi. Guru di jenjang tersebut juga harus berhenti menggunakan AI untuk perencanaan pelajaran atau pekerjaan kelas dan kantor lainnya.","a":false,"why":"Hampir benar, tetapi guru masih boleh menggunakan AI untuk perencanaan pelajaran, meskipun tidak untuk penilaian. Larangan ini mencakup alat yang digunakan siswa, dan batas waktu layar hanyalah rekomendasi."},{"s":"Kota New York akan memberikan laptop dengan tutor AI yang disetujui kepada setiap siswa SMA musim gugur ini. Pejabat mengatakan program ini akan mempersiapkan siswa untuk pekerjaan dalam ekonomi yang semakin digerakkan oleh AI dan teknologi baru.","a":false,"why":"Tidak ada program laptop. Kota membatasi AI, dengan larangan satu tahun hingga kelas delapan dan hanya proyek percontohan kecil dengan pengawasan di sekolah menengah atas."}],"dialogue":{"That's a big deal":"Digunakan untuk mengatakan bahwa sesuatu itu penting dan akan memiliki dampak nyata","Good luck with that":"Sering digunakan dengan sedikit sindiran, untuk mengatakan bahwa sesuatu akan sulit dilakukan","Fair point":"Digunakan untuk mengakui bahwa apa yang baru saja dikatakan seseorang masuk akal","Time will tell":"Digunakan untuk mengatakan bahwa hasil dari sesuatu baru akan jelas nanti"}}
+{
+  "id": "nyc-schools-ai-ban-2026",
+  "number": 101,
+  "lang": "id",
+  "headline": "Kota New York melarang alat AI bagi siswa yang lebih muda",
+  "chunks": [
+    "Sekolah negeri di Kota New York tidak akan mengizinkan siswa SD dan SMP menggunakan alat AI generatif tahun ini. Wali kota menjabarkan rencana itu pada 2 September 2026, delapan hari sebelum siswa kembali ke sekolah. Moratorium selama satu tahun ini mencakup semua perangkat lunak AI yang ditujukan untuk siswa dari 2-K hingga kelas delapan, hampir 600.000 siswa, yang oleh kantor wali kota disebut sebagai larangan paling luas di negara ini. Kota ini juga menindak tegas aplikasi pendamping AI di semua jenjang.",
+    "Kota ini juga ingin siswa yang lebih muda mengurangi waktu layar, dengan merekomendasikan batas harian 30 menit pada perangkat individual untuk kelas tiga hingga lima dan 45 menit untuk kelas enam hingga delapan, serta tidak ada perangkat individual sebelum kelas tiga. Pejabat akan mematikan fitur AI di sekitar 38 alat pendidikan dan menghapus secara bertahap teknologi yang tidak esensial bagi pembelajaran. Guru masih dapat menggunakan AI untuk perencanaan pelajaran, tetapi tidak untuk penilaian.",
+    "Untuk sekolah menengah atas, kota akan meluncurkan dua kelas literasi AI berdurasi 45 menit setiap tahun untuk setiap siswa SMA, dan hingga 50.000 siswa dapat mencoba lima program AI yang disetujui di bawah pengawasan guru. Para pendukung segera memberikan pendapat. Gubernur New York memuji rencana itu, dan ketua serikat guru menyambut baik batas waktu layar tersebut. Wali kota mengatakan anak-anak membutuhkan guru dan koneksi manusia untuk belajar.",
+    "Ketua serikat itu juga menunjukkan beberapa kesenjangan: banyak pertanyaan tetap tidak terjawab, dan sekolah harus mencari tahu setelah kejadian apakah alat mereka sesuai dengan aturan. Sebuah kelompok advokasi anak mengatakan satu tahun bukan waktu yang cukup untuk mengevaluasi. Seorang peneliti pendidikan memperingatkan bahwa siswa yang lebih miskin bisa kehilangan kesempatan atas teknologi yang sudah dimiliki keluarga yang lebih kaya. Wali kota mengatakan ia percaya pada guru dan kepala sekolah untuk menegakkan kebijakan ini. Sebuah koalisi baru yang terdiri dari siswa, orang tua, dan pendidik akan menyelidiki dampaknya dan menerbitkan rekomendasi pada akhir tahun ajaran."
+  ],
+  "verbs": [
+    {
+      "base": "lay out",
+      "correct": "Menjelaskan rencana secara detail",
+      "wrong": "Memberhentikan seorang karyawan"
+    },
+    {
+      "base": "head back",
+      "correct": "Kembali ke suatu tempat",
+      "wrong": "Menghentikan masalah lebih awal"
+    },
+    {
+      "base": "crack down on",
+      "correct": "Menindak tegas sesuatu",
+      "wrong": "Mulai gagal di bawah tekanan"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Mengurangi penggunaan sesuatu",
+      "wrong": "Menghilangkan sesuatu sepenuhnya"
+    },
+    {
+      "base": "turn off",
+      "correct": "Menghentikan fitur agar tidak berfungsi",
+      "wrong": "Menolak sebuah tawaran atau permintaan"
+    },
+    {
+      "base": "phase out",
+      "correct": "Menghapus penggunaan sesuatu secara bertahap",
+      "wrong": "Mencoba sesuatu sebelum digunakan secara luas"
+    },
+    {
+      "base": "roll out",
+      "correct": "Memperkenalkan sesuatu yang baru secara luas",
+      "wrong": "Membatalkan sebuah aturan atau keputusan"
+    },
+    {
+      "base": "try out",
+      "correct": "Mencoba sesuatu untuk melihat cara kerjanya",
+      "wrong": "Meminta izin untuk menggunakan sesuatu"
+    },
+    {
+      "base": "weigh in",
+      "correct": "Memberikan pendapat tentang suatu masalah",
+      "wrong": "Membandingkan dua pilihan dengan hati-hati"
+    },
+    {
+      "base": "point out",
+      "correct": "Menarik perhatian pada sesuatu",
+      "wrong": "Menyalahkan seseorang atas suatu masalah"
+    },
+    {
+      "base": "figure out",
+      "correct": "Memahami sesuatu setelah berpikir",
+      "wrong": "Memasukkan sesuatu ke dalam sebuah rencana"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Kehilangan kesempatan atas sesuatu",
+      "wrong": "Membayar lebih mahal untuk sesuatu"
+    },
+    {
+      "base": "look into",
+      "correct": "Memeriksa sesuatu dengan cermat",
+      "wrong": "Merawat seseorang dengan penuh perhatian"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Lay out",
+      "def": "Menjelaskan rencana secara detail",
+      "ex": [
+        "Manajer menjelaskan jadwal bulan depan secara detail.",
+        "Dia menjelaskan idenya secara detail dalam presentasi singkat.",
+        "Wali kota akan menjelaskan anggaran itu hari Selasa."
+      ]
+    },
+    {
+      "verb": "Head back",
+      "def": "Kembali ke suatu tempat",
+      "ex": [
+        "Kami kembali ke hotel setelah makan malam.",
+        "Siswa kembali ke sekolah pada bulan September.",
+        "Hari mulai gelap, jadi ayo kita kembali."
+      ]
+    },
+    {
+      "verb": "Crack down on",
+      "def": "Menindak tegas sesuatu",
+      "ex": [
+        "Polisi menindak tegas pengemudi yang ngebut di dekat sekolah.",
+        "Sekolah menindak tegas kecurangan saat ujian.",
+        "Kota berencana menindak tegas parkir ilegal."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Mengurangi penggunaan sesuatu",
+      "ex": [
+        "Aku sedang mencoba mengurangi minum kopi.",
+        "Perusahaan mengurangi penggunaan kertas setelah beralih ke digital.",
+        "Orang tua ingin anak-anak mereka mengurangi bermain video game."
+      ]
+    },
+    {
+      "verb": "Turn off",
+      "def": "Menghentikan fitur agar tidak berfungsi",
+      "ex": [
+        "Tolong matikan pengaturan putar otomatis.",
+        "Dia mematikan pelacakan lokasi di ponselnya.",
+        "Guru mematikan fitur chat selama ujian."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Menghapus penggunaan sesuatu secara bertahap",
+      "ex": [
+        "Perusahaan itu menghapus penggunaan perangkat lunak lamanya secara bertahap.",
+        "Negara bagian akan menghapus penggunaan listrik dari batu bara secara bertahap pada 2035.",
+        "Tiket kertas dihapus secara bertahap tahun lalu."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Memperkenalkan sesuatu yang baru secara luas",
+      "ex": [
+        "Kota memperkenalkan aplikasi bus baru secara luas musim semi lalu.",
+        "Perusahaan akan memperkenalkan pembaruan itu secara luas minggu depan.",
+        "Sekolah-sekolah memperkenalkan program membaca baru secara luas."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Mencoba sesuatu untuk melihat cara kerjanya",
+      "ex": [
+        "Kamu bisa mencoba aplikasi ini gratis selama sebulan.",
+        "Guru itu mencoba cara baru mengajar pecahan.",
+        "Kami mencoba mobil itu sebelum membelinya."
+      ]
+    },
+    {
+      "verb": "Weigh in",
+      "def": "Memberikan pendapat tentang suatu masalah",
+      "ex": [
+        "Beberapa ahli memberikan pendapat tentang undang-undang baru itu.",
+        "Orang tua diundang untuk memberikan pendapat tentang rencana itu.",
+        "Gubernur memberikan pendapatnya dalam debat pada hari Jumat."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Menarik perhatian pada sesuatu",
+      "ex": [
+        "Dia menarik perhatian pada masalah dalam jadwal itu.",
+        "Laporan itu menarik perhatian pada beberapa risiko.",
+        "Dia menunjukkan bahwa toko itu tutup pukul enam."
+      ]
+    },
+    {
+      "verb": "Figure out",
+      "def": "Memahami sesuatu setelah berpikir",
+      "ex": [
+        "Butuh satu jam bagiku untuk memahami printer baru itu.",
+        "Tim itu memahami mengapa tesnya gagal.",
+        "Kita perlu memikirkan rencana untuk musim panas."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Kehilangan kesempatan atas sesuatu",
+      "ex": [
+        "Siswa yang bolos kehilangan kesempatan atas pelajaran penting.",
+        "Aku kehilangan kesempatan ikut diskon karena sedang bepergian.",
+        "Jangan sampai kamu kehilangan kesempatan atas tiket gratis itu."
+      ]
+    },
+    {
+      "verb": "Look into",
+      "def": "Memeriksa sesuatu dengan cermat",
+      "ex": [
+        "Sekolah sedang memeriksa keluhan itu.",
+        "Ilmuwan akan menyelidiki penyebab penyakit itu.",
+        "Kita harus memeriksa pilihan yang lebih murah."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "moratorium",
+      "def": "Penghentian resmi suatu kegiatan untuk periode waktu tertentu",
+      "ex": [
+        "Kota menerapkan moratorium izin bangunan baru.",
+        "Moratorium penangkapan ikan itu akan berlangsung selama dua tahun.",
+        "Para legislator memberikan suara untuk moratorium pajak itu."
+      ]
+    },
+    {
+      "word": "AI companion apps",
+      "def": "Program AI yang dirancang untuk mengobrol dengan seseorang seperti teman",
+      "ex": [
+        "Beberapa remaja menghabiskan waktu berjam-jam mengobrol dengan aplikasi pendamping AI.",
+        "Dokter telah menyuarakan kekhawatiran tentang aplikasi pendamping AI dan kesepian.",
+        "Banyak aplikasi pendamping AI mengingat percakapanmu sebelumnya."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Waktu yang dihabiskan untuk menatap ponsel, tablet, atau komputer",
+      "ex": [
+        "Dokter merekomendasikan waktu layar yang lebih sedikit untuk anak kecil.",
+        "Orang tuanya membatasi waktu layarnya hingga satu jam sehari.",
+        "Terlalu banyak waktu layar dapat membuat sulit tidur."
+      ]
+    },
+    {
+      "word": "cap",
+      "def": "Batas atas untuk suatu jumlah",
+      "ex": [
+        "Ada batas berapa banyak yang bisa kamu belanjakan setiap bulan.",
+        "Kota menetapkan batas kenaikan sewa.",
+        "Kelas itu memiliki batas 25 siswa."
+      ]
+    },
+    {
+      "word": "individual devices",
+      "def": "Komputer atau tablet yang diberikan kepada setiap siswa secara terpisah",
+      "ex": [
+        "Setiap siswa di sekolah itu memiliki perangkat individual.",
+        "Guru mengumpulkan perangkat individual di akhir pelajaran.",
+        "Anak-anak yang lebih kecil tidak memerlukan perangkat individual untuk belajar."
+      ]
+    },
+    {
+      "word": "education tools",
+      "def": "Perangkat lunak atau program yang digunakan untuk mengajar dan belajar",
+      "ex": [
+        "Distrik itu membayar untuk puluhan alat pendidikan.",
+        "Banyak alat pendidikan kini menyertakan asisten AI.",
+        "Guru menguji alat pendidikan itu sebelum tahun ajaran dimulai."
+      ]
+    },
+    {
+      "word": "essential",
+      "def": "Benar-benar diperlukan",
+      "ex": [
+        "Air itu esensial bagi kehidupan.",
+        "Tidur yang cukup esensial bagi siswa.",
+        "Toko itu hanya menjual barang-barang esensial."
+      ]
+    },
+    {
+      "word": "lesson planning",
+      "def": "Mempersiapkan apa dan bagaimana cara mengajar",
+      "ex": [
+        "Guru menghabiskan berjam-jam setiap minggu untuk perencanaan pelajaran.",
+        "Perangkat lunak baru itu membantu perencanaan pelajaran.",
+        "Perencanaan pelajaran lebih mudah ketika buku pelajarannya bagus."
+      ]
+    },
+    {
+      "word": "grading",
+      "def": "Memberikan nilai atau skor pada pekerjaan siswa",
+      "ex": [
+        "Guru menghabiskan akhir pekan untuk penilaian esai.",
+        "Penilaian memakan waktu lebih lama untuk kelas besar.",
+        "Sekolah itu mengubah sistem penilaiannya tahun lalu."
+      ]
+    },
+    {
+      "word": "AI literacy",
+      "def": "Memahami cara kerja AI dan cara menggunakannya dengan bijak",
+      "ex": [
+        "Perpustakaan menawarkan kelas literasi AI gratis untuk orang dewasa.",
+        "Literasi AI mencakup mengetahui kapan asisten AI bisa salah.",
+        "Banyak perusahaan kini menginginkan pekerja dengan literasi AI dasar."
+      ]
+    },
+    {
+      "word": "supervision",
+      "def": "Mengawasi seseorang untuk memastikan segala sesuatunya dilakukan dengan benar",
+      "ex": [
+        "Anak-anak hanya boleh menggunakan kolam renang di bawah pengawasan orang dewasa.",
+        "Perawat baru itu bekerja di bawah pengawasan seorang dokter.",
+        "Eksperimen itu dilakukan di bawah pengawasan ketat."
+      ]
+    },
+    {
+      "word": "commended",
+      "def": "Dipuji secara resmi atau publik",
+      "ex": [
+        "Wali kota memuji keberanian para petugas pemadam kebakaran.",
+        "Laporan itu memuji respons cepat rumah sakit.",
+        "Dia dipuji oleh atasannya karena kerja kerasnya."
+      ]
+    },
+    {
+      "word": "connection",
+      "def": "Perasaan kedekatan dan saling memahami antara orang-orang",
+      "ex": [
+        "Siswa belajar lebih baik ketika merasakan koneksi dengan gurunya.",
+        "Kedua teman itu memiliki koneksi yang kuat.",
+        "Panggilan video tidak dapat menggantikan koneksi manusia yang nyata."
+      ]
+    },
+    {
+      "word": "gaps",
+      "def": "Hal-hal yang hilang atau tidak tercakup",
+      "ex": [
+        "Audit itu menemukan kesenjangan dalam keamanan perusahaan.",
+        "Ada kesenjangan dalam undang-undang baru yang perlu diperbaiki.",
+        "Guru itu menyadari kesenjangan dalam pengetahuan siswa."
+      ]
+    },
+    {
+      "word": "unanswered",
+      "def": "Belum dijawab atau dijelaskan",
+      "ex": [
+        "Banyak pertanyaan tentang rencana itu tetap tidak terjawab.",
+        "Emailku tidak terjawab selama seminggu.",
+        "Laporan itu meninggalkan beberapa pertanyaan yang tidak terjawab."
+      ]
+    },
+    {
+      "word": "after the fact",
+      "def": "Setelah sesuatu sudah terjadi",
+      "ex": [
+        "Kami baru tahu tentang perubahan itu setelah kejadian.",
+        "Mudah untuk mengkritik sebuah keputusan setelah kejadian.",
+        "Aturan itu dijelaskan setelah kejadian, yang membuat staf kesal."
+      ]
+    },
+    {
+      "word": "evaluate",
+      "def": "Menilai seberapa baik atau berguna sesuatu",
+      "ex": [
+        "Sekolah akan mengevaluasi program itu musim semi depan.",
+        "Dokter mengevaluasi setiap pasien sebelum operasi.",
+        "Sulit untuk mengevaluasi guru baru setelah satu minggu."
+      ]
+    },
+    {
+      "word": "enforce",
+      "def": "Memastikan bahwa sebuah aturan dipatuhi",
+      "ex": [
+        "Polisi menegakkan batas kecepatan di jalan ini.",
+        "Sekolah tidak selalu menegakkan aturan berpakaiannya.",
+        "Sebuah aturan tidak berguna jika tidak ada yang menegakkannya."
+      ]
+    },
+    {
+      "word": "coalition",
+      "def": "Sekelompok orang atau organisasi yang bekerja sama untuk suatu tujuan",
+      "ex": [
+        "Koalisi orang tua meminta kelas yang lebih kecil.",
+        "Koalisi itu mencakup guru, dokter, dan pemimpin bisnis.",
+        "Beberapa badan amal membentuk koalisi untuk melawan kelaparan."
+      ]
+    },
+    {
+      "word": "recommendations",
+      "def": "Saran resmi tentang apa yang harus dilakukan",
+      "ex": [
+        "Komite akan menerbitkan rekomendasinya pada bulan Juni.",
+        "Rekomendasi dokter itu termasuk lebih banyak olahraga.",
+        "Kota itu mengabaikan sebagian besar rekomendasi dalam laporan itu."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Larangan ini berlaku untuk siswa dari kelas 2-K hingga kelas delapan.",
+      "a": true,
+      "why": "Wali kota menjabarkan moratorium selama satu tahun pada 2 September 2026, dan ini mencakup semua perangkat lunak AI untuk siswa di jenjang tersebut, hampir 600.000 siswa."
+    },
+    {
+      "s": "Kota merekomendasikan batas waktu layar harian 60 menit untuk kelas enam hingga delapan.",
+      "a": false,
+      "why": "Untuk membantu siswa yang lebih muda mengurangi waktu layar, kota merekomendasikan 45 menit sehari untuk kelas enam hingga delapan dan 30 menit untuk kelas tiga hingga lima."
+    },
+    {
+      "s": "Aplikasi pendamping AI masih diizinkan di sekolah menengah atas.",
+      "a": false,
+      "why": "Kota menindak tegas aplikasi pendamping AI, yang dilarang di semua jenjang."
+    },
+    {
+      "s": "Hingga 50.000 siswa SMA dapat mencoba lima program AI yang disetujui.",
+      "a": true,
+      "why": "Program-program itu digunakan di bawah pengawasan guru, dan setiap siswa SMA juga mendapat dua kelas literasi AI berdurasi 45 menit setiap tahun."
+    },
+    {
+      "s": "Guru diizinkan menggunakan AI untuk perencanaan pelajaran tetapi tidak untuk penilaian.",
+      "a": true,
+      "why": "Guru tetap menggunakan AI untuk perencanaan pelajaran, sementara pejabat mematikan fitur AI di sekitar 38 alat pendidikan yang sudah digunakan siswa."
+    },
+    {
+      "s": "Sebuah kelompok advokasi anak mengatakan satu tahun terlalu lama untuk moratorium itu.",
+      "a": false,
+      "why": "Kelompok itu mengatakan satu tahun bukan waktu yang cukup untuk mengevaluasi, dan ketua serikat menunjukkan bahwa banyak pertanyaan tetap tidak terjawab."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Kota New York akan menghentikan siswa di bawah SMA dari penggunaan alat AI generatif selama satu tahun ajaran sambil mempelajari dampaknya. Kota ini juga merekomendasikan batas waktu layar harian, dan pendidik serta orang tua memiliki pandangan yang berbeda.",
+      "a": true,
+      "why": "Moratorium selama satu tahun mencakup 2-K hingga kelas delapan, kota merekomendasikan batas harian 30 dan 45 menit, serta pendukung dan skeptis sama-sama memberikan pendapat."
+    },
+    {
+      "s": "Kota New York akan menghentikan AI generatif untuk siswa hingga kelas delapan selama satu tahun dan mempelajari apa yang terjadi. Guru di jenjang tersebut juga harus berhenti menggunakan AI untuk perencanaan pelajaran atau pekerjaan kelas dan kantor lainnya.",
+      "a": false,
+      "why": "Hampir benar, tetapi guru masih boleh menggunakan AI untuk perencanaan pelajaran, meskipun tidak untuk penilaian. Larangan ini mencakup alat yang digunakan siswa, dan batas waktu layar hanyalah rekomendasi."
+    },
+    {
+      "s": "Kota New York akan memberikan laptop dengan tutor AI yang disetujui kepada setiap siswa SMA musim gugur ini. Pejabat mengatakan program ini akan mempersiapkan siswa untuk pekerjaan dalam ekonomi yang semakin digerakkan oleh AI dan teknologi baru.",
+      "a": false,
+      "why": "Tidak ada program laptop. Kota membatasi AI, dengan larangan satu tahun hingga kelas delapan dan hanya proyek percontohan kecil dengan pengawasan di sekolah menengah atas."
+    }
+  ],
+  "dialogue": {
+    "That's a big deal": "Digunakan untuk mengatakan bahwa sesuatu itu penting dan akan memiliki dampak nyata",
+    "Good luck with that": "Sering digunakan dengan sedikit sindiran, untuk mengatakan bahwa sesuatu akan sulit dilakukan",
+    "Fair point": "Digunakan untuk mengakui bahwa apa yang baru saja dikatakan seseorang masuk akal",
+    "Time will tell": "Digunakan untuk mengatakan bahwa hasil dari sesuatu baru akan jelas nanti"
+  }
+}

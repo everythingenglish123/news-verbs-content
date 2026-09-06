@@ -1,1 +1,435 @@
-{"id":"nyc-schools-ai-ban-2026","number":101,"lang":"tr","headline":"New York, küçük yaştaki öğrenciler için AI araçlarını yasakladı","chunks":["New York'un devlet okulları bu yıl ilkokul ve ortaokul öğrencilerinin üretken AI araçlarını kullanmasına izin vermeyecek. Belediye başkanı planı 2 Eylül 2026'da açıkladı, öğrencilerin okula dönmesinden sekiz gün önce. Bir yıllık moratoryum, 2-K'dan sekizinci sınıfa kadar öğrencilere yönelik tüm AI yazılımlarını kapsıyor, yaklaşık 600.000 öğrenciyi etkiliyor, ve belediye başkanının ofisi bunu ülkedeki en geniş kapsamlı yasak olarak nitelendirdi. Şehir ayrıca her sınıf düzeyinde AI arkadaş uygulamalarına karşı sıkı önlemler alıyor.","Şehir ayrıca genç öğrencilerin ekran süresini azaltmasını istiyor, üçüncü ile beşinci sınıflar için bireysel cihazlarda günlük 30 dakika, altıncı ile sekizinci sınıflar için 45 dakika üst sınır öneriyor, ve üçüncü sınıftan önce bireysel cihaz kullanılmamasını istiyor. Yetkililer yaklaşık 38 eğitim aracında AI özelliklerini kapatacak ve öğrenme için gerekli olmayan teknolojiyi kademeli olarak kaldıracak. Öğretmenler ders planlaması için AI kullanmaya devam edebilecek, ama not vermek için kullanamayacak.","Lise için şehir, her lise öğrencisine yılda iki kez 45 dakikalık AI okuryazarlığı dersi sunacak, ve 50.000'e kadar öğrenci bir öğretmenin gözetiminde beş onaylı AI programını deneyebilecek. Destekçiler hızla görüş bildirdi. New York valisi planı övdü, ve öğretmen sendikası başkanı ekran süresi sınırlamalarını memnuniyetle karşıladı. Belediye başkanı, çocukların öğrenmek için öğretmenlere ve insani bağlantıya ihtiyacı olduğunu söyledi.","Sendika başkanı ayrıca boşluklara dikkat çekti: birçok soru hâlâ cevapsız, ve okulların kullandıkları araçların yeni kurallara uyup uymadığını ancak sonradan anlaması gerekecek. Bir çocuk hakları savunuculuk grubu, bir yılın değerlendirme yapmak için yeterli olmadığını söyledi. Bir eğitim araştırmacısı, daha yoksul öğrencilerin daha zengin ailelerin sahip olduğu teknolojiyi kaçırabileceği konusunda uyardı. Belediye başkanı, öğretmenlere ve müdürlere bu politikayı uygulamaları konusunda güvendiğini söyledi. Öğrenciler, veliler ve eğitimcilerden oluşan yeni bir koalisyon etkileri inceleyecek ve okul yılı sonuna kadar önerilerini yayınlayacak."],"verbs":[{"base":"lay out","correct":"Bir planı ayrıntılı olarak açıklamak","wrong":"Bir çalışanın işine son vermek"},{"base":"head back","correct":"Bir yere geri dönmek","wrong":"Bir sorunu erkenden durdurmak"},{"base":"crack down on","correct":"Bir şeye karşı sert önlemler almak","wrong":"Baskı altında başarısız olmaya başlamak"},{"base":"cut down on","correct":"Bir şeyi daha az kullanmak","wrong":"Bir şeyi tamamen ortadan kaldırmak"},{"base":"turn off","correct":"Bir özelliği çalışmaz hale getirmek","wrong":"Bir teklifi veya isteği reddetmek"},{"base":"phase out","correct":"Bir şeyi yavaş yavaş kullanmayı bırakmak","wrong":"Bir şeyi geniş kullanımdan önce test etmek"},{"base":"roll out","correct":"Yeni bir şeyi geniş çapta sunmak","wrong":"Bir kuralı veya kararı iptal etmek"},{"base":"try out","correct":"Bir şeyin nasıl çalıştığını görmek için denemek","wrong":"Bir şeyi kullanmak için resmi izin istemek"},{"base":"weigh in","correct":"Bir konu hakkında görüş bildirmek","wrong":"İki seçeneği dikkatle karşılaştırmak"},{"base":"point out","correct":"Bir şeye dikkat çekmek","wrong":"Bir sorun için birini suçlamak"},{"base":"figure out","correct":"Düşündükten sonra bir şeyi anlamak","wrong":"Bir şeyi bir plana dahil etmek"},{"base":"miss out on","correct":"Bir şeye sahip olma fırsatını kaçırmak","wrong":"Başkalarından daha fazla ödemek"},{"base":"look into","correct":"Bir şeyi dikkatle incelemek","wrong":"Birine göz kulak olmak"}],"vocab":[{"verb":"Lay out","def":"Bir planı ayrıntılı olarak açıklamak","ex":["Müdür gelecek ayın programını ayrıntılı olarak açıkladı.","Fikirlerini kısa bir sunumda açıkladı.","Belediye başkanı bütçeyi salı günü açıklayacak."]},{"verb":"Head back","def":"Bir yere geri dönmek","ex":["Akşam yemeğinden sonra otele geri döndük.","Öğrenciler eylülde okula geri dönüyor.","Hava kararıyor, artık geri dönelim."]},{"verb":"Crack down on","def":"Bir şeye karşı sert önlemler almak","ex":["Polis okulların yakınında hız yapmaya karşı sert önlemler alıyor.","Okul, sınavlarda kopya çekmeye karşı sert önlemler aldı.","Şehir, izinsiz park etmeye karşı sert önlemler almayı planlıyor."]},{"verb":"Cut down on","def":"Bir şeyi daha az kullanmak","ex":["Kahveyi daha az içmeye çalışıyorum.","Şirket, dijitale geçerek kağıt kullanımını azalttı.","Ebeveynler çocuklarının video oyunlarını daha az oynamasını istiyor."]},{"verb":"Turn off","def":"Bir özelliği çalışmaz hale getirmek","ex":["Lütfen otomatik oynatma ayarını kapat.","Telefonundaki konum takibini kapattı.","Öğretmen sınav sırasında sohbet özelliğini kapattı."]},{"verb":"Phase out","def":"Bir şeyi yavaş yavaş kullanmayı bırakmak","ex":["Şirket eski yazılımını yavaş yavaş kullanmaktan vazgeçiyor.","Eyalet, 2035 yılına kadar kömür enerjisini kademeli olarak bırakacak.","Kağıt biletler geçen yıl kademeli olarak kaldırıldı."]},{"verb":"Roll out","def":"Yeni bir şeyi geniş çapta sunmak","ex":["Şehir geçen bahar yeni bir otobüs uygulaması sundu.","Şirket güncellemeyi önümüzdeki hafta sunacak.","Okullar yeni bir okuma programı sunuyor."]},{"verb":"Try out","def":"Bir şeyin nasıl çalıştığını görmek için denemek","ex":["Uygulamayı bir ay boyunca ücretsiz deneyebilirsin.","Öğretmen kesirleri öğretmenin yeni bir yolunu denedi.","Arabayı satın almadan önce test ettik."]},{"verb":"Weigh in","def":"Bir konu hakkında görüş bildirmek","ex":["Birkaç uzman yeni yasa hakkında görüş bildirdi.","Ebeveynler plan hakkında görüş bildirmeye davet edildi.","Vali cuma günü tartışma hakkında görüş bildirdi."]},{"verb":"Point out","def":"Bir şeye dikkat çekmek","ex":["Programdaki bir soruna dikkat çekti.","Rapor birkaç riske dikkat çekiyor.","Dükkânın altıda kapandığına dikkat çekti."]},{"verb":"Figure out","def":"Düşündükten sonra bir şeyi anlamak","ex":["Bu uygulamanın nasıl çalıştığını anlayamıyorum.","Ekip, testin neden başarısız olduğunu anladı.","Yaz için bir plan bulmamız gerekiyor."]},{"verb":"Miss out on","def":"Bir şeye sahip olma fırsatını kaçırmak","ex":["Derse gelmeyen öğrenciler önemli konuları kaçırır.","Seyahatte olduğum için indirim fırsatını kaçırdım.","Ücretsiz biletleri kaçırma."]},{"verb":"Look into","def":"Bir şeyi dikkatle incelemek","ex":["Okul bu şikâyeti inceliyor.","Bilim insanları hastalığın nedenini inceleyecek.","Daha ucuz seçenekleri incelemeliyiz."]}],"wordDefs":[{"word":"moratorium","def":"Bir faaliyetin belirli bir süre için resmi olarak durdurulması","ex":["Şehir, yeni inşaat izinlerine moratoryum uyguladı.","Balıkçılık üzerindeki moratoryum iki yıl sürecek."]},{"word":"AI companion apps","def":"Bir insanla arkadaş gibi konuşmak üzere tasarlanmış AI programları","ex":["Bazı gençler AI arkadaş uygulamalarıyla konuşarak saatler geçiriyor.","Doktorlar, AI arkadaş uygulamaları ve yalnızlık konusunda endişelerini dile getirdi."]},{"word":"screen time","def":"Telefon, tablet veya bilgisayar ekranına bakarak geçirilen zaman","ex":["Doktorlar küçük çocuklar için daha az ekran süresi öneriyor.","Ailesi onun ekran süresini günde bir saatle sınırlıyor."]},{"word":"cap","def":"Bir miktar için üst sınır","ex":["Her ay ne kadar harcayabileceğinin bir üst sınırı var.","Şehir kira artışlarına bir üst sınır koydu."]},{"word":"individual devices","def":"Her öğrenciye ayrı ayrı verilen bilgisayar veya tabletler","ex":["Okuldaki her öğrencinin kendi bireysel cihazı var.","Öğretmen ders sonunda bireysel cihazları topluyor."]},{"word":"education tools","def":"Öğretmek ve öğrenmek için kullanılan yazılımlar veya programlar","ex":["Bölge, düzinelerce eğitim aracı için ödeme yapıyor.","Birçok eğitim aracı artık bir AI yardımcısı içeriyor."]},{"word":"essential","def":"Tamamen gerekli","ex":["Su, yaşam için gereklidir.","İyi uyku öğrenciler için gereklidir."]},{"word":"lesson planning","def":"Ne öğretileceğini ve nasıl öğretileceğini hazırlamak","ex":["Öğretmenler her hafta ders planlaması için saatler harcıyor.","Yeni yazılım ders planlamasına yardımcı oluyor."]},{"word":"grading","def":"Öğrencilerin ödevlerine not veya puan vermek","ex":["Öğretmen hafta sonunu kompozisyonları not vererek geçirdi.","Not vermek kalabalık sınıflarda daha uzun sürüyor."]},{"word":"AI literacy","def":"AI'nin nasıl çalıştığını ve nasıl akıllıca kullanılacağını anlamak","ex":["Kütüphane yetişkinler için ücretsiz AI okuryazarlığı dersleri sunuyor.","AI okuryazarlığı, bir AI asistanının ne zaman yanılabileceğini bilmeyi de içerir."]},{"word":"supervision","def":"Her şeyin doğru yapıldığından emin olmak için birini gözetlemek","ex":["Çocuklar havuzu sadece yetişkin gözetiminde kullanabilir.","Yeni hemşire bir doktorun gözetiminde çalışıyor."]},{"word":"commended","def":"Resmi olarak veya kamuoyu önünde övülmüş","ex":["Belediye başkanı itfaiyecileri cesaretleri için övdü.","Rapor, hastanenin hızlı tepkisini övdü."]},{"word":"connection","def":"İnsanlar arasında bir yakınlık ve anlayış duygusu","ex":["Öğrenciler öğretmenleriyle bir bağ hissettiklerinde daha iyi öğrenir.","O iki arkadaşın güçlü bir bağı var."]},{"word":"gaps","def":"Eksik olan veya ele alınmamış şeyler","ex":["Denetim, şirketin güvenliğinde boşluklar buldu.","Yeni yasada düzeltilmesi gereken boşluklar var."]},{"word":"unanswered","def":"Henüz cevaplanmamış veya açıklanmamış","ex":["Plan hakkında birçok soru hâlâ cevapsız.","E-postam bir hafta boyunca cevapsız kaldı."]},{"word":"after the fact","def":"Bir şey zaten olduktan sonra","ex":["Değişiklikten ancak sonradan haberdar olduk.","Bir kararı sonradan eleştirmek kolaydır."]},{"word":"evaluate","def":"Bir şeyin ne kadar iyi veya faydalı olduğunu değerlendirmek","ex":["Okul, programı önümüzdeki bahar değerlendirecek.","Doktorlar ameliyattan önce her hastayı değerlendirir."]},{"word":"enforce","def":"Bir kuralın uygulanmasını sağlamak","ex":["Polis bu yoldaki hız sınırını uyguluyor.","Okul kıyafet kurallarını her zaman uygulamıyor."]},{"word":"coalition","def":"Bir amaç için birlikte çalışan insan veya kuruluşlar grubu","ex":["Bir ebeveyn koalisyonu daha küçük sınıflar istedi.","Koalisyon, öğretmenleri, doktorları ve iş liderlerini içeriyor."]},{"word":"recommendations","def":"Ne yapılması gerektiğine dair resmi öneriler","ex":["Komite önerilerini haziranda yayınlayacak.","Doktorun önerileri arasında daha fazla egzersiz de vardı."]}],"tf":[{"s":"Yasak, 2-K'dan sekizinci sınıfa kadar olan öğrencilere uygulanıyor.","a":true,"why":"Belediye başkanı bu bir yıllık moratoryumu 2 Eylül 2026'da açıkladı, ve bu, bu sınıflardaki yaklaşık 600.000 öğrenciye yönelik tüm AI yazılımlarını kapsıyor."},{"s":"Şehir, altıncı ile sekizinci sınıflar için günlük 60 dakikalık bir ekran süresi üst sınırı öneriyor.","a":false,"why":"Genç öğrencilerin ekran süresini azaltmasına yardımcı olmak için şehir, altıncı ile sekizinci sınıflar için günde 45 dakika, üçüncü ile beşinci sınıflar için 30 dakika öneriyor."},{"s":"AI arkadaş uygulamalarına lisede hâlâ izin veriliyor.","a":false,"why":"Şehir, her sınıf düzeyinde yasak olan AI arkadaş uygulamalarına karşı sıkı önlemler alıyor."},{"s":"50.000'e kadar lise öğrencisi beş onaylı AI programını deneyebilir.","a":true,"why":"Programlar bir öğretmenin gözetiminde kullanılıyor, ve her lise öğrencisi yılda iki kez 45 dakikalık AI okuryazarlığı dersi de alıyor."},{"s":"Öğretmenlerin ders planlaması için AI kullanmasına izin veriliyor, ama not vermek için kullanamıyorlar.","a":true,"why":"Öğretmenler ders planlaması için AI'yi koruyor, yetkililer ise öğrencilerin kullandığı yaklaşık 38 mevcut eğitim aracında AI özelliklerini kapatıyor."},{"s":"Bir çocuk hakları savunuculuk grubu, moratoryum için bir yılın çok uzun olduğunu söyledi.","a":false,"why":"Grup, bir yılın yasağı değerlendirmek için yeterli olmadığını söyledi, ve sendika başkanı birçok sorunun hâlâ cevapsız olduğuna dikkat çekti."}],"mainIdea":[{"s":"New York, etkilerini incelerken bir eğitim yılı boyunca liseden küçük öğrencilerin üretken AI araçlarını kullanmasını durduracak. Ayrıca günlük ekran süresi sınırları öneriyor, ve eğitimcilerle ebeveynlerin görüşleri karışık.","a":true,"why":"Bir yıllık moratoryum 2-K'dan sekizinci sınıfa kadar olan öğrencileri kapsıyor, şehir günlük 30 ve 45 dakikalık üst sınırlar öneriyor, ve hem destekçiler hem de şüpheciler görüş bildirdi."},{"s":"New York, sekizinci sınıfa kadar olan öğrenciler için üretken AI'yi bir yıllığına duraklatacak ve ne olacağını inceleyecek. Bu sınıflardaki öğretmenler de ders planlaması ve diğer tüm sınıf veya ofis işleri için AI kullanmayı bırakmak zorunda.","a":false,"why":"Yakın, ama öğretmenler ders planlaması için AI kullanmaya devam edebilir, sadece not vermek için kullanamazlar. Yasak, öğrencilere yönelik araçları kapsıyor, ve ekran süresi sınırları sadece öneri niteliğinde."},{"s":"New York bu sonbaharda her lise öğrencisine onaylı bir AI öğretmeniyle birlikte bir dizüstü bilgisayar verecek. Yetkililer, bu programın öğrencileri giderek AI ve yeni teknolojiler tarafından yönlendirilen bir ekonomideki işlere hazırlayacağını söylüyor.","a":false,"why":"Hiçbir dizüstü bilgisayar programı yok. Şehir, sekizinci sınıfa kadar bir yıllık yasak ve sadece lisede küçük, gözetimli pilot programlarla AI'yi sınırlıyor."}],"dialogue":{"That's a big deal":"Bir şeyin önemli olduğunu ve gerçek etkileri olacağını söylemek için kullanılır","Good luck with that":"Genellikle biraz alayla, bir şeyin yapılmasının zor olacağını söylemek için kullanılır","Fair point":"Birinin az önce söylediği şeyin makul olduğunu kabul etmek için kullanılır","Time will tell":"Bir şeyin sonucunun ancak daha sonra netleşeceğini söylemek için kullanılır"}}
+{
+  "id": "nyc-schools-ai-ban-2026",
+  "number": 101,
+  "lang": "tr",
+  "headline": "New York, küçük yaştaki öğrenciler için AI araçlarını yasakladı",
+  "chunks": [
+    "New York'un devlet okulları bu yıl ilkokul ve ortaokul öğrencilerinin üretken AI araçlarını kullanmasına izin vermeyecek. Belediye başkanı planı 2 Eylül 2026'da açıkladı, öğrencilerin okula dönmesinden sekiz gün önce. Bir yıllık moratoryum, 2-K'dan sekizinci sınıfa kadar öğrencilere yönelik tüm AI yazılımlarını kapsıyor, yaklaşık 600.000 öğrenciyi etkiliyor, ve belediye başkanının ofisi bunu ülkedeki en geniş kapsamlı yasak olarak nitelendirdi. Şehir ayrıca her sınıf düzeyinde AI arkadaş uygulamalarına karşı sıkı önlemler alıyor.",
+    "Şehir ayrıca genç öğrencilerin ekran süresini azaltmasını istiyor, üçüncü ile beşinci sınıflar için bireysel cihazlarda günlük 30 dakika, altıncı ile sekizinci sınıflar için 45 dakika üst sınır öneriyor, ve üçüncü sınıftan önce bireysel cihaz kullanılmamasını istiyor. Yetkililer yaklaşık 38 eğitim aracında AI özelliklerini kapatacak ve öğrenme için gerekli olmayan teknolojiyi kademeli olarak kaldıracak. Öğretmenler ders planlaması için AI kullanmaya devam edebilecek, ama not vermek için kullanamayacak.",
+    "Lise için şehir, her lise öğrencisine yılda iki kez 45 dakikalık AI okuryazarlığı dersi sunacak, ve 50.000'e kadar öğrenci bir öğretmenin gözetiminde beş onaylı AI programını deneyebilecek. Destekçiler hızla görüş bildirdi. New York valisi planı övdü, ve öğretmen sendikası başkanı ekran süresi sınırlamalarını memnuniyetle karşıladı. Belediye başkanı, çocukların öğrenmek için öğretmenlere ve insani bağlantıya ihtiyacı olduğunu söyledi.",
+    "Sendika başkanı ayrıca boşluklara dikkat çekti: birçok soru hâlâ cevapsız, ve okulların kullandıkları araçların yeni kurallara uyup uymadığını ancak sonradan anlaması gerekecek. Bir çocuk hakları savunuculuk grubu, bir yılın değerlendirme yapmak için yeterli olmadığını söyledi. Bir eğitim araştırmacısı, daha yoksul öğrencilerin daha zengin ailelerin sahip olduğu teknolojiyi kaçırabileceği konusunda uyardı. Belediye başkanı, öğretmenlere ve müdürlere bu politikayı uygulamaları konusunda güvendiğini söyledi. Öğrenciler, veliler ve eğitimcilerden oluşan yeni bir koalisyon etkileri inceleyecek ve okul yılı sonuna kadar önerilerini yayınlayacak."
+  ],
+  "verbs": [
+    {
+      "base": "lay out",
+      "correct": "Bir planı ayrıntılı olarak açıklamak",
+      "wrong": "Bir çalışanın işine son vermek"
+    },
+    {
+      "base": "head back",
+      "correct": "Bir yere geri dönmek",
+      "wrong": "Bir sorunu erkenden durdurmak"
+    },
+    {
+      "base": "crack down on",
+      "correct": "Bir şeye karşı sert önlemler almak",
+      "wrong": "Baskı altında başarısız olmaya başlamak"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Bir şeyi daha az kullanmak",
+      "wrong": "Bir şeyi tamamen ortadan kaldırmak"
+    },
+    {
+      "base": "turn off",
+      "correct": "Bir özelliği çalışmaz hale getirmek",
+      "wrong": "Bir teklifi veya isteği reddetmek"
+    },
+    {
+      "base": "phase out",
+      "correct": "Bir şeyi yavaş yavaş kullanmayı bırakmak",
+      "wrong": "Bir şeyi geniş kullanımdan önce test etmek"
+    },
+    {
+      "base": "roll out",
+      "correct": "Yeni bir şeyi geniş çapta sunmak",
+      "wrong": "Bir kuralı veya kararı iptal etmek"
+    },
+    {
+      "base": "try out",
+      "correct": "Bir şeyin nasıl çalıştığını görmek için denemek",
+      "wrong": "Bir şeyi kullanmak için resmi izin istemek"
+    },
+    {
+      "base": "weigh in",
+      "correct": "Bir konu hakkında görüş bildirmek",
+      "wrong": "İki seçeneği dikkatle karşılaştırmak"
+    },
+    {
+      "base": "point out",
+      "correct": "Bir şeye dikkat çekmek",
+      "wrong": "Bir sorun için birini suçlamak"
+    },
+    {
+      "base": "figure out",
+      "correct": "Düşündükten sonra bir şeyi anlamak",
+      "wrong": "Bir şeyi bir plana dahil etmek"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Bir şeye sahip olma fırsatını kaçırmak",
+      "wrong": "Başkalarından daha fazla ödemek"
+    },
+    {
+      "base": "look into",
+      "correct": "Bir şeyi dikkatle incelemek",
+      "wrong": "Birine göz kulak olmak"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Lay out",
+      "def": "Bir planı ayrıntılı olarak açıklamak",
+      "ex": [
+        "Müdür gelecek ayın programını ayrıntılı olarak açıkladı.",
+        "Fikirlerini kısa bir sunumda açıkladı.",
+        "Belediye başkanı bütçeyi salı günü açıklayacak."
+      ]
+    },
+    {
+      "verb": "Head back",
+      "def": "Bir yere geri dönmek",
+      "ex": [
+        "Akşam yemeğinden sonra otele geri döndük.",
+        "Öğrenciler eylülde okula geri dönüyor.",
+        "Hava kararıyor, artık geri dönelim."
+      ]
+    },
+    {
+      "verb": "Crack down on",
+      "def": "Bir şeye karşı sert önlemler almak",
+      "ex": [
+        "Polis okulların yakınında hız yapmaya karşı sert önlemler alıyor.",
+        "Okul, sınavlarda kopya çekmeye karşı sert önlemler aldı.",
+        "Şehir, izinsiz park etmeye karşı sert önlemler almayı planlıyor."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Bir şeyi daha az kullanmak",
+      "ex": [
+        "Kahveyi daha az içmeye çalışıyorum.",
+        "Şirket, dijitale geçerek kağıt kullanımını azalttı.",
+        "Ebeveynler çocuklarının video oyunlarını daha az oynamasını istiyor."
+      ]
+    },
+    {
+      "verb": "Turn off",
+      "def": "Bir özelliği çalışmaz hale getirmek",
+      "ex": [
+        "Lütfen otomatik oynatma ayarını kapat.",
+        "Telefonundaki konum takibini kapattı.",
+        "Öğretmen sınav sırasında sohbet özelliğini kapattı."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Bir şeyi yavaş yavaş kullanmayı bırakmak",
+      "ex": [
+        "Şirket eski yazılımını yavaş yavaş kullanmaktan vazgeçiyor.",
+        "Eyalet, 2035 yılına kadar kömür enerjisini kademeli olarak bırakacak.",
+        "Kağıt biletler geçen yıl kademeli olarak kaldırıldı."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Yeni bir şeyi geniş çapta sunmak",
+      "ex": [
+        "Şehir geçen bahar yeni bir otobüs uygulaması sundu.",
+        "Şirket güncellemeyi önümüzdeki hafta sunacak.",
+        "Okullar yeni bir okuma programı sunuyor."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Bir şeyin nasıl çalıştığını görmek için denemek",
+      "ex": [
+        "Uygulamayı bir ay boyunca ücretsiz deneyebilirsin.",
+        "Öğretmen kesirleri öğretmenin yeni bir yolunu denedi.",
+        "Arabayı satın almadan önce test ettik."
+      ]
+    },
+    {
+      "verb": "Weigh in",
+      "def": "Bir konu hakkında görüş bildirmek",
+      "ex": [
+        "Birkaç uzman yeni yasa hakkında görüş bildirdi.",
+        "Ebeveynler plan hakkında görüş bildirmeye davet edildi.",
+        "Vali cuma günü tartışma hakkında görüş bildirdi."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Bir şeye dikkat çekmek",
+      "ex": [
+        "Programdaki bir soruna dikkat çekti.",
+        "Rapor birkaç riske dikkat çekiyor.",
+        "Dükkânın altıda kapandığına dikkat çekti."
+      ]
+    },
+    {
+      "verb": "Figure out",
+      "def": "Düşündükten sonra bir şeyi anlamak",
+      "ex": [
+        "Bu uygulamanın nasıl çalıştığını anlayamıyorum.",
+        "Ekip, testin neden başarısız olduğunu anladı.",
+        "Yaz için bir plan bulmamız gerekiyor."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Bir şeye sahip olma fırsatını kaçırmak",
+      "ex": [
+        "Derse gelmeyen öğrenciler önemli konuları kaçırır.",
+        "Seyahatte olduğum için indirim fırsatını kaçırdım.",
+        "Ücretsiz biletleri kaçırma."
+      ]
+    },
+    {
+      "verb": "Look into",
+      "def": "Bir şeyi dikkatle incelemek",
+      "ex": [
+        "Okul bu şikâyeti inceliyor.",
+        "Bilim insanları hastalığın nedenini inceleyecek.",
+        "Daha ucuz seçenekleri incelemeliyiz."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "moratorium",
+      "def": "Bir faaliyetin belirli bir süre için resmi olarak durdurulması",
+      "ex": [
+        "Şehir, yeni inşaat izinlerine moratoryum uyguladı.",
+        "Balıkçılık üzerindeki moratoryum iki yıl sürecek.",
+        "Yasa koyucular vergi üzerinde bir moratoryum için oy verdi."
+      ]
+    },
+    {
+      "word": "AI companion apps",
+      "def": "Bir insanla arkadaş gibi konuşmak üzere tasarlanmış AI programları",
+      "ex": [
+        "Bazı gençler AI arkadaş uygulamalarıyla konuşarak saatler geçiriyor.",
+        "Doktorlar, AI arkadaş uygulamaları ve yalnızlık konusunda endişelerini dile getirdi.",
+        "Birçok AI arkadaş uygulaması geçmiş konuşmalarınızı hatırlar."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Telefon, tablet veya bilgisayar ekranına bakarak geçirilen zaman",
+      "ex": [
+        "Doktorlar küçük çocuklar için daha az ekran süresi öneriyor.",
+        "Ailesi onun ekran süresini günde bir saatle sınırlıyor.",
+        "Çok fazla ekran süresi uyumayı zorlaştırabilir."
+      ]
+    },
+    {
+      "word": "cap",
+      "def": "Bir miktar için üst sınır",
+      "ex": [
+        "Her ay ne kadar harcayabileceğinin bir üst sınırı var.",
+        "Şehir kira artışlarına bir üst sınır koydu.",
+        "Sınıfın 25 öğrenci üst sınırı var."
+      ]
+    },
+    {
+      "word": "individual devices",
+      "def": "Her öğrenciye ayrı ayrı verilen bilgisayar veya tabletler",
+      "ex": [
+        "Okuldaki her öğrencinin kendi bireysel cihazı var.",
+        "Öğretmen ders sonunda bireysel cihazları topluyor.",
+        "Küçük çocukların öğrenmek için bireysel cihazlara ihtiyacı yoktur."
+      ]
+    },
+    {
+      "word": "education tools",
+      "def": "Öğretmek ve öğrenmek için kullanılan yazılımlar veya programlar",
+      "ex": [
+        "Bölge, düzinelerce eğitim aracı için ödeme yapıyor.",
+        "Birçok eğitim aracı artık bir AI yardımcısı içeriyor.",
+        "Öğretmenler eğitim araçlarını okul yılı başlamadan önce test etti."
+      ]
+    },
+    {
+      "word": "essential",
+      "def": "Tamamen gerekli",
+      "ex": [
+        "Su, yaşam için gereklidir.",
+        "İyi uyku öğrenciler için gereklidir.",
+        "Mağaza sadece gerekli ürünleri satıyor."
+      ]
+    },
+    {
+      "word": "lesson planning",
+      "def": "Ne öğretileceğini ve nasıl öğretileceğini hazırlamak",
+      "ex": [
+        "Öğretmenler her hafta ders planlaması için saatler harcıyor.",
+        "Yeni yazılım ders planlamasına yardımcı oluyor.",
+        "Ders kitabı iyi olduğunda ders planlaması daha kolaydır."
+      ]
+    },
+    {
+      "word": "grading",
+      "def": "Öğrencilerin ödevlerine not veya puan vermek",
+      "ex": [
+        "Öğretmen hafta sonunu kompozisyonları not vererek geçirdi.",
+        "Not vermek kalabalık sınıflarda daha uzun sürüyor.",
+        "Okul geçen yıl not verme sistemini değiştirdi."
+      ]
+    },
+    {
+      "word": "AI literacy",
+      "def": "AI'nin nasıl çalıştığını ve nasıl akıllıca kullanılacağını anlamak",
+      "ex": [
+        "Kütüphane yetişkinler için ücretsiz AI okuryazarlığı dersleri sunuyor.",
+        "AI okuryazarlığı, bir AI asistanının ne zaman yanılabileceğini bilmeyi de içerir.",
+        "Birçok şirket artık temel AI okuryazarlığına sahip çalışanlar istiyor."
+      ]
+    },
+    {
+      "word": "supervision",
+      "def": "Her şeyin doğru yapıldığından emin olmak için birini gözetlemek",
+      "ex": [
+        "Çocuklar havuzu sadece yetişkin gözetiminde kullanabilir.",
+        "Yeni hemşire bir doktorun gözetiminde çalışıyor.",
+        "Deney sıkı gözetim altında yapıldı."
+      ]
+    },
+    {
+      "word": "commended",
+      "def": "Resmi olarak veya kamuoyu önünde övülmüş",
+      "ex": [
+        "Belediye başkanı itfaiyecileri cesaretleri için övdü.",
+        "Rapor, hastanenin hızlı tepkisini övdü.",
+        "Patronu onu sıkı çalışması için övdü."
+      ]
+    },
+    {
+      "word": "connection",
+      "def": "İnsanlar arasında bir yakınlık ve anlayış duygusu",
+      "ex": [
+        "Öğrenciler öğretmenleriyle bir bağ hissettiklerinde daha iyi öğrenir.",
+        "O iki arkadaşın güçlü bir bağı var.",
+        "Görüntülü aramalar gerçek insani bağın yerini tutamaz."
+      ]
+    },
+    {
+      "word": "gaps",
+      "def": "Eksik olan veya ele alınmamış şeyler",
+      "ex": [
+        "Denetim, şirketin güvenliğinde boşluklar buldu.",
+        "Yeni yasada düzeltilmesi gereken boşluklar var.",
+        "Öğretmen öğrencilerin bilgisindeki boşlukları fark etti."
+      ]
+    },
+    {
+      "word": "unanswered",
+      "def": "Henüz cevaplanmamış veya açıklanmamış",
+      "ex": [
+        "Plan hakkında birçok soru hâlâ cevapsız.",
+        "E-postam bir hafta boyunca cevapsız kaldı.",
+        "Rapor birçok soruyu cevapsız bırakıyor."
+      ]
+    },
+    {
+      "word": "after the fact",
+      "def": "Bir şey zaten olduktan sonra",
+      "ex": [
+        "Değişiklikten ancak sonradan haberdar olduk.",
+        "Bir kararı sonradan eleştirmek kolaydır.",
+        "Kurallar olay sonrasında açıklandı ve bu personeli üzdü."
+      ]
+    },
+    {
+      "word": "evaluate",
+      "def": "Bir şeyin ne kadar iyi veya faydalı olduğunu değerlendirmek",
+      "ex": [
+        "Okul, programı önümüzdeki bahar değerlendirecek.",
+        "Doktorlar ameliyattan önce her hastayı değerlendirir.",
+        "Bir haftadan sonra yeni bir öğretmeni değerlendirmek zordur."
+      ]
+    },
+    {
+      "word": "enforce",
+      "def": "Bir kuralın uygulanmasını sağlamak",
+      "ex": [
+        "Polis bu yoldaki hız sınırını uyguluyor.",
+        "Okul kıyafet kurallarını her zaman uygulamıyor.",
+        "Kimse uygulamıyorsa bir kural işe yaramaz."
+      ]
+    },
+    {
+      "word": "coalition",
+      "def": "Bir amaç için birlikte çalışan insan veya kuruluşlar grubu",
+      "ex": [
+        "Bir ebeveyn koalisyonu daha küçük sınıflar istedi.",
+        "Koalisyon, öğretmenleri, doktorları ve iş liderlerini içeriyor.",
+        "Birkaç hayır kurumu açlıkla mücadele için bir koalisyon kurdu."
+      ]
+    },
+    {
+      "word": "recommendations",
+      "def": "Ne yapılması gerektiğine dair resmi öneriler",
+      "ex": [
+        "Komite önerilerini haziranda yayınlayacak.",
+        "Doktorun önerileri arasında daha fazla egzersiz de vardı.",
+        "Şehir, rapordaki önerilerin çoğunu görmezden geldi."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Yasak, 2-K'dan sekizinci sınıfa kadar olan öğrencilere uygulanıyor.",
+      "a": true,
+      "why": "Belediye başkanı bu bir yıllık moratoryumu 2 Eylül 2026'da açıkladı, ve bu, bu sınıflardaki yaklaşık 600.000 öğrenciye yönelik tüm AI yazılımlarını kapsıyor."
+    },
+    {
+      "s": "Şehir, altıncı ile sekizinci sınıflar için günlük 60 dakikalık bir ekran süresi üst sınırı öneriyor.",
+      "a": false,
+      "why": "Genç öğrencilerin ekran süresini azaltmasına yardımcı olmak için şehir, altıncı ile sekizinci sınıflar için günde 45 dakika, üçüncü ile beşinci sınıflar için 30 dakika öneriyor."
+    },
+    {
+      "s": "AI arkadaş uygulamalarına lisede hâlâ izin veriliyor.",
+      "a": false,
+      "why": "Şehir, her sınıf düzeyinde yasak olan AI arkadaş uygulamalarına karşı sıkı önlemler alıyor."
+    },
+    {
+      "s": "50.000'e kadar lise öğrencisi beş onaylı AI programını deneyebilir.",
+      "a": true,
+      "why": "Programlar bir öğretmenin gözetiminde kullanılıyor, ve her lise öğrencisi yılda iki kez 45 dakikalık AI okuryazarlığı dersi de alıyor."
+    },
+    {
+      "s": "Öğretmenlerin ders planlaması için AI kullanmasına izin veriliyor, ama not vermek için kullanamıyorlar.",
+      "a": true,
+      "why": "Öğretmenler ders planlaması için AI'yi koruyor, yetkililer ise öğrencilerin kullandığı yaklaşık 38 mevcut eğitim aracında AI özelliklerini kapatıyor."
+    },
+    {
+      "s": "Bir çocuk hakları savunuculuk grubu, moratoryum için bir yılın çok uzun olduğunu söyledi.",
+      "a": false,
+      "why": "Grup, bir yılın yasağı değerlendirmek için yeterli olmadığını söyledi, ve sendika başkanı birçok sorunun hâlâ cevapsız olduğuna dikkat çekti."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "New York, etkilerini incelerken bir eğitim yılı boyunca liseden küçük öğrencilerin üretken AI araçlarını kullanmasını durduracak. Ayrıca günlük ekran süresi sınırları öneriyor, ve eğitimcilerle ebeveynlerin görüşleri karışık.",
+      "a": true,
+      "why": "Bir yıllık moratoryum 2-K'dan sekizinci sınıfa kadar olan öğrencileri kapsıyor, şehir günlük 30 ve 45 dakikalık üst sınırlar öneriyor, ve hem destekçiler hem de şüpheciler görüş bildirdi."
+    },
+    {
+      "s": "New York, sekizinci sınıfa kadar olan öğrenciler için üretken AI'yi bir yıllığına duraklatacak ve ne olacağını inceleyecek. Bu sınıflardaki öğretmenler de ders planlaması ve diğer tüm sınıf veya ofis işleri için AI kullanmayı bırakmak zorunda.",
+      "a": false,
+      "why": "Yakın, ama öğretmenler ders planlaması için AI kullanmaya devam edebilir, sadece not vermek için kullanamazlar. Yasak, öğrencilere yönelik araçları kapsıyor, ve ekran süresi sınırları sadece öneri niteliğinde."
+    },
+    {
+      "s": "New York bu sonbaharda her lise öğrencisine onaylı bir AI öğretmeniyle birlikte bir dizüstü bilgisayar verecek. Yetkililer, bu programın öğrencileri giderek AI ve yeni teknolojiler tarafından yönlendirilen bir ekonomideki işlere hazırlayacağını söylüyor.",
+      "a": false,
+      "why": "Hiçbir dizüstü bilgisayar programı yok. Şehir, sekizinci sınıfa kadar bir yıllık yasak ve sadece lisede küçük, gözetimli pilot programlarla AI'yi sınırlıyor."
+    }
+  ],
+  "dialogue": {
+    "That's a big deal": "Bir şeyin önemli olduğunu ve gerçek etkileri olacağını söylemek için kullanılır",
+    "Good luck with that": "Genellikle biraz alayla, bir şeyin yapılmasının zor olacağını söylemek için kullanılır",
+    "Fair point": "Birinin az önce söylediği şeyin makul olduğunu kabul etmek için kullanılır",
+    "Time will tell": "Bir şeyin sonucunun ancak daha sonra netleşeceğini söylemek için kullanılır"
+  }
+}

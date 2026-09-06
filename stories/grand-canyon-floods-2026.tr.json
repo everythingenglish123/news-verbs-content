@@ -1,1 +1,432 @@
-{"id":"grand-canyon-floods-2026","number":99,"lang":"tr","headline":"Helikopterler Grand Canyon selinden 80 kişiyi kurtardı","chunks":["Ani bir sel, 29 Ağustos 2026 Cumartesi günü Arizona'daki Grand Canyon Ulusal Parkı'nda Bright Angel Kanyonu'ndan geçti. Yaklaşık 30 dakika içinde bir inça kadar yağmur yağdı. Su, Phantom Ranch yakınındaki Bright Angel Deresi üzerindeki neredeyse tüm yaya köprülerini yıktı; burası yürüyüşçüler ve nehir sallarıyla gezenler için bir mola noktasıydı. Yağmur ayrıca Temmuz 2025'teki Dragon Bravo Yangını'nın bıraktığı yanık alana da yağdı; burada çıplak toprak yüzey akışını hızlandırıyor.","Kurtarma ekipleri helikopterler getirdi, ve arayıcılar karanlıkta insanları bulmak için gece görüş ekipmanı kullandı, olay komutanı söyledi. Cumartesi günü gün batımına kadar 45 kişi kurtarılmıştı, ve Pazar günü 37 kişi daha uçakla dışarı çıkarıldı, toplamda yaklaşık 80 kişi. Kızılhaç, South Rim'deki bir localde onlara baktı. Rangerlar sonra izin kayıtlarını inceledi ve kimlerin hâlâ kayıp olduğunu saymak için plakaları kontrol etti.","İki kişi öldü: 46 yaşında bir kayropraktör ve dövüş sanatları stüdyosu sahibi 42 yaşında bir adam, ikisi de Teksas'tan. Üçüncü bir arkadaş, Wyoming'den 53 yaşında bir pilot, 3 Eylül'de hâlâ kayıptı, o sırada helikopterler, dronlar ve köpeklerle 100'den fazla arayıcı aramaya devam ediyordu. Üç adam birkaç günlük yürüyüş ve balık tutma için yola çıkmıştı, ve son olarak 27 Ağustos Perşembe günü ailelerine haber vermişti.","Sel ayrıca parkın ana su hattını da devre dışı bıraktı; hat 12,5 mil uzunluğunda ve parkın sahip olduğu tek hat. Bunun yaklaşık yüzde 40'ı hasarlı, parkın yardımcı müdürü söyledi, ve South Rim'de yaklaşık iki haftalık su stokta var. Oteller 31 Ağustos'ta gecelik misafir almayı durdurdu, ve ziyaretçilerden duşları azaltmaları istendi. 2023'te başlayan 208 milyon dolarlık boru hattı yenileme çalışması artık takvimin gerisinde kalabilir. 3 Eylül'de park daha fazla patikayı kapattı, yeniden açılış tarihi olmadan."],"verbs":[{"base":"sweep through","correct":"bir alandan hızla geçmek","wrong":"saatlerce yavaşça yükselmek"},{"base":"tear down","correct":"bir yapıyı tamamen yok etmek","wrong":"yıllar içinde yavaşça zayıflamak"},{"base":"speed up","correct":"bir şeyin daha hızlı olmasını sağlamak","wrong":"suyu adeta bir sünger gibi emip yutmak"},{"base":"bring in","correct":"dışarıdan yardım almak","wrong":"insanları evlerine geri götürmek"},{"base":"fly out","correct":"bir yerden uçakla ayrılmak","wrong":"bir alanın üzerinden uçakla geçmek"},{"base":"look after","correct":"birini korumak ve ona yardım etmek","wrong":"kayıp bir kişiyi bulmaya çalışmak"},{"base":"go through","correct":"kayıtları tek tek incelemek","wrong":"insanları geldikçe saymak"},{"base":"keep on","correct":"bir şeyi yapmaya devam etmek","wrong":"tehlikeden uzak durmak"},{"base":"set out","correct":"bir yolculuğa başlamak","wrong":"bir kamp kurmak"},{"base":"check in with","correct":"birine haber vermek için iletişime geçmek","wrong":"biriyle yapılacaklar hakkında plan yapmak"},{"base":"knock out","correct":"bir sistemin çalışmasını durdurmak","wrong":"bir kanalı çamurla doldurmak"},{"base":"cut down on","correct":"bir şeyi daha az kullanmak","wrong":"bir şeyin tedarikini durdurmak"},{"base":"fall behind","correct":"planlanandan daha geç kalmak","wrong":"planlandığı gibi gerçekleşmemek"},{"base":"close off","correct":"kimsenin girmemesi için bir alanı kapatmak","wrong":"bir işi kalıcı olarak tamamen kapatmak"}],"vocab":[{"verb":"Sweep through","def":"bir alandan hızla geçmek","ex":["Bir fırtına dün gece vadiden hızla geçti.","Yangın birkaç saat içinde kuru tepelerden hızla geçti.","Grip Mart ayında okuldan hızla yayıldı."]},{"verb":"Tear down","def":"bir yapıyı tamamen yok etmek","ex":["Kasaba eski köprüyü yıktı.","Fabrikayı gelecek yıl yıkacaklar.","Güçlü rüzgarlar çiti yıktı."]},{"verb":"Speed up","def":"bir şeyin daha hızlı olmasını sağlamak","ex":["Sıcak hava karların erimesini hızlandırıyor.","Yeni yazılım işimizi hızlandırıyor.","Teslimatı hızlandırabilir miyiz?"]},{"verb":"Bring in","def":"dışarıdan yardım almak","ex":["Hastane ek doktorlar getirdi.","Şehir barajı kontrol etmek için mühendisler getirdi.","Daha büyük bir vinç getirmek zorunda kaldılar."]},{"verb":"Fly out","def":"bir yerden uçakla ayrılmak","ex":["Yaralı dağcı helikopterle tahliye edildi.","Cuma sabahı erkenden uçuyoruz.","Yardım çalışanları fırtınadan önce uçakla tahliye edildi."]},{"verb":"Look after","def":"birini korumak ve ona yardım etmek","ex":["Gönüllüler sığınaktaki aileleri korudu.","Bu gece çocuklara kim bakıyor?","Hemşireler hastalara gece boyunca bakar."]},{"verb":"Go through","def":"kayıtları tek tek incelemek","ex":["Polis otelin misafir listesini inceledi.","Eski e-postaların hepsini inceledi.","Bu dosyaları dikkatlice incelememiz gerekiyor."]},{"verb":"Keep on","def":"bir şeyi yapmaya devam etmek","ex":["Kurtarma ekibi karanlıktan sonra da aramaya devam etti.","Acıya rağmen koşmaya devam etti.","Fiyatlar her ay artmaya devam ediyor."]},{"verb":"Set out","def":"bir yolculuğa başlamak","ex":["Yürüyüşçüler şafakta yola çıktı.","Pazartesi günü sahile doğru yola çıktılar.","Üç günlük yiyecekle yola çıktık."]},{"verb":"Check in with","def":"birine haber vermek için iletişime geçmek","ex":["Her pazar annemle iletişime geçiyorum.","Dağcılar telsizle ana kampla iletişime geçti.","Vardığında lütfen benimle iletişime geç."]},{"verb":"Knock out","def":"bir sistemin çalışmasını durdurmak","ex":["Fırtına 50.000 evin elektriğini kesti.","Bir yıldırım radyo kulesini devre dışı bıraktı.","Sel kasabanın su şebekesini devre dışı bıraktı."]},{"verb":"Cut down on","def":"bir şeyi daha az kullanmak","ex":["Plastik kullanımını azaltmaya çalışıyoruz.","Geçen yıl kahveyi azalttı.","Şehir insanlardan su kullanımını azaltmalarını istedi."]},{"verb":"Fall behind","def":"planlanandan daha geç kalmak","ex":["Yol projesi programın gerisinde kaldı.","Kira ödemelerinde geride kaldı.","Şimdi geri kalırsak, Haziran'a kadar bitiremeyiz."]},{"verb":"Close off","def":"kimsenin girmemesi için bir alanı kapatmak","ex":["Polis kazadan sonra sokağı kapattı.","Park onarım sırasında patikayı kapattı.","Yüksek dalgalar yüzünden sahili kapattılar."]}],"wordDefs":[{"word":"flash flood","def":"çok şiddetli yağmurun neden olduğu ani bir sel","ex":["Ani bir sel yolu silip götürdü.","Ani seller çöl kanyonlarında yaygındır."]},{"word":"footbridges","def":"yayalar için küçük köprüler","ex":["Bir yaya köprüsü kamp alanı yakınındaki dereyi geçiyor.","Eski yaya köprüsü onarım için kapatıldı."]},{"word":"stopover","def":"yolcuların bir yolculuk sırasında durup dinlendiği yer","ex":["Köy, bisikletçiler için popüler bir mola noktası.","Denver'da bir gecelik mola verdik."]},{"word":"rafters","def":"bir nehirde sal ile seyahat eden insanlar","ex":["Sal gezginleri nehir kıyısındaki kumlu bir plajda kamp yaptı.","Deneyimli sal gezginleri en büyük akıntıları bilir."]},{"word":"burn scar","def":"bir orman yangınından sonra çıplak kalan arazi","ex":["Yanık bir alana yağan şiddetli yağmur çamur kaymalarına neden olabilir.","Yanık alan sırt boyunca kilometrelerce uzanıyor."]},{"word":"runoff","def":"yer üzerinden akarak derelere ve nehirlere ulaşan yağmur suyu","ex":["Tepelerden gelen yüzey akışı dereyi dakikalar içinde doldurdu.","Asfalt sokaklar fırtınalar sırasında yüzey akışını artırıyor."]},{"word":"night vision","def":"insanların karanlıkta görmesini sağlayan ekipman","ex":["Pilotlar gece görüş gözlüğü taktı.","Gece görüş kameraları hayvanları gün batımından sonra filme aldı."]},{"word":"permit records","def":"birine bir şey yapma izni verildiğini gösteren resmi listeler","ex":["Park her kamp alanı için izin kayıtlarını tutuyor.","Yetkililer patikada kimlerin olduğunu görmek için izin kayıtlarını kontrol etti."]},{"word":"license plates","def":"bir arabanın ön ve arkasındaki numaralı metal plakalar","ex":["Polis otoparktaki plakaları kontrol etti.","Arabanın Teksas plakası vardı."]},{"word":"chiropractor","def":"sırt ve eklem sorunlarını elleriyle tedavi eden bir sağlık çalışanı","ex":["Sırt ağrısı için bir kayropraktöre gidiyor.","Kayropraktör boynunu ayarladı."]},{"word":"martial arts","def":"karate ve judo gibi dövüş sporları","ex":["20 yıldır dövüş sanatları öğretiyor.","Çocuklar cumartesi günleri dövüş sanatları dersi alıyor."]},{"word":"searchers","def":"birini veya bir şeyi bulmaya çalışan insanlar","ex":["Arayıcılar kayıp çocuğu iki gün sonra buldu.","Yüzlerce arayıcı tepeleri sıra halinde yürüdü."]},{"word":"drones","def":"içinde pilot olmayan küçük uçaklar","ex":["Dronlar hasarı yukarıdan filme aldı.","Ekip nehrin üzerinde dronlar uçurdu."]},{"word":"pipeline","def":"su, petrol veya gaz taşıyan uzun bir boru","ex":["Boru hattı kaynaktan köye su taşıyor.","Boru hattındaki bir çatlak sızıntıya neden oldu."]},{"word":"in storage","def":"sonra kullanılmak üzere tanklarda veya bir binada saklanan","ex":["Kasabanın bir haftalık yakıt stoku var.","Kışlık kıyafetlerimizi depoda saklıyoruz."]},{"word":"overnight guests","def":"bir yerde geceyi geçiren insanlar","ex":["Loca 60 gecelik misafir alıyor.","Gecelik misafirler saat 20:00'ye kadar giriş yapmalı."]},{"word":"upgrade","def":"bir şeyi daha yeni veya daha iyi yapan çalışma","ex":["Havaalanı yenileme çalışması üç yıl sürecek.","Şehir su sisteminin yenilenmesini onayladı."]},{"word":"reopening date","def":"kapalı bir yerin yeniden açılacağı gün","ex":["Müze henüz bir yeniden açılış tarihi açıklamadı.","Köprünün yeniden açılış tarihi 1 Mayıs."]}],"tf":[{"s":"Cumartesi günü gün batımına kadar 45 kişi kurtarılmıştı.","a":true,"why":"Kurtarma ekipleri helikopterler getirdi, ve Pazar günü 37 kişi daha uçakla dışarı çıkarıldı, toplamda yaklaşık 80 kişi."},{"s":"Sel, Bright Angel Deresi üzerindeki yaya köprülerinin sadece birkaçını yok etti.","a":false,"why":"Bright Angel Kanyonu'ndan geçen ani sel, Phantom Ranch yakınındaki dere üzerindeki neredeyse tüm yaya köprülerini yıktı."},{"s":"Kızılhaç, kurtarılan insanlara South Rim'deki bir localde baktı.","a":true,"why":"Kurtarmadan sonra Kızılhaç, South Rim'deki bir localde onlara baktı, ve rangerlar sonra kimlerin hâlâ kayıp olduğunu saymak için izin kayıtlarını inceledi."},{"s":"Yürüyüşe ve balık tutmaya çıkan üç arkadaşın hepsi sağ bulundu.","a":false,"why":"İki adam öldü, ve üçüncüsü, Wyoming'den bir pilot, 3 Eylül'de hâlâ kayıptı, o sırada 100'den fazla arayıcı aramaya devam ediyordu."},{"s":"Parkın su hattının yaklaşık yüzde 40'ı hasarlı.","a":true,"why":"Sel, parkın tek su hattını devre dışı bıraktı, ve yardımcı müdür bunun yaklaşık yüzde 40'ının hasarlı olduğunu söyledi."},{"s":"Park, hasarlı patikaları 3 Eylül'de yeniden açtı.","a":false,"why":"3 Eylül'de park daha fazla patikayı kapattı ve yeniden açılış tarihi vermedi."}],"mainIdea":[{"s":"Grand Canyon'ın dibinde ani bir sel meydana geldi, ve yaklaşık 80 kişi helikopterle kurtarıldı. İki kişi öldü, biri kayıp, ve parkın tek su hattı ağır hasar gördü.","a":true,"why":"Kurtarma ekipleri 29 ve 30 Ağustos hafta sonu boyunca yaklaşık 80 kişiyi kurtardı, Teksas'tan iki yürüyüşçü öldü, üçüncü bir arkadaş kayıp, ve boru hattının yaklaşık yüzde 40'ı hasarlı."},{"s":"Grand Canyon'ın dibindeki ani bir sel iki yürüyüşçüyü öldürdü ve üçüncüsünü kayıp bıraktı. Kurtarma ekipleri yaklaşık 80 kişiyi kurtardı, ve su hattı hasar görmeden kurtuldu.","a":false,"why":"Yakın, ama sel parkın tek su hattının yaklaşık yüzde 40'ını hasara uğrattı, ve South Rim'de yaklaşık iki haftalık su stokta."},{"s":"Grand Canyon'ın North Rim'indeki bir orman yangını yüzlerce ziyaretçiyi parkı terk etmeye zorladı. Yangın tarihi bir localı yok etti ve yazın geri kalanında ana patikaları kapattı.","a":false,"why":"Olay bir yangın değil, ani bir seldi. Dragon Bravo Yangını Temmuz 2025'te oldu, ve yanık alanı sadece çıplak toprağın yağmuru daha hızlı akıtması nedeniyle önemli."}],"dialogue":{"Thank goodness for that":"Kötü bir şeyin olmadığını duyduğunda rahatlamayı göstermek için kullanılır","My heart goes out to":"Acı çeken insanlara derin bir sempati duyduğunu söylemek için kullanılır","That's the last thing they need":"Yeni bir sorunun, zaten sorunları olan insanlar için özellikle kötü olduğunu söylemek için kullanılır","Talk about bad timing":"Bir şeyin mümkün olan en kötü anda gerçekleştiğini söylemek için kullanılır","It could have been a lot worse":"Kötü bir durumun olabileceğinden daha kötü olmadığını söylemek için kullanılır"}}
+{
+  "id": "grand-canyon-floods-2026",
+  "number": 99,
+  "lang": "tr",
+  "headline": "Helikopterler Grand Canyon selinden 80 kişiyi kurtardı",
+  "chunks": [
+    "Ani bir sel, 29 Ağustos 2026 Cumartesi günü Arizona'daki Grand Canyon Ulusal Parkı'nda Bright Angel Kanyonu'ndan geçti. Yaklaşık 30 dakika içinde bir inça kadar yağmur yağdı. Su, Phantom Ranch yakınındaki Bright Angel Deresi üzerindeki neredeyse tüm yaya köprülerini yıktı; burası yürüyüşçüler ve nehir sallarıyla gezenler için bir mola noktasıydı. Yağmur ayrıca Temmuz 2025'teki Dragon Bravo Yangını'nın bıraktığı yanık alana da yağdı; burada çıplak toprak yüzey akışını hızlandırıyor.",
+    "Kurtarma ekipleri helikopterler getirdi, ve arayıcılar karanlıkta insanları bulmak için gece görüş ekipmanı kullandı, olay komutanı söyledi. Cumartesi günü gün batımına kadar 45 kişi kurtarılmıştı, ve Pazar günü 37 kişi daha uçakla dışarı çıkarıldı, toplamda yaklaşık 80 kişi. Kızılhaç, South Rim'deki bir localde onlara baktı. Rangerlar sonra izin kayıtlarını inceledi ve kimlerin hâlâ kayıp olduğunu saymak için plakaları kontrol etti.",
+    "İki kişi öldü: 46 yaşında bir kayropraktör ve dövüş sanatları stüdyosu sahibi 42 yaşında bir adam, ikisi de Teksas'tan. Üçüncü bir arkadaş, Wyoming'den 53 yaşında bir pilot, 3 Eylül'de hâlâ kayıptı, o sırada helikopterler, dronlar ve köpeklerle 100'den fazla arayıcı aramaya devam ediyordu. Üç adam birkaç günlük yürüyüş ve balık tutma için yola çıkmıştı, ve son olarak 27 Ağustos Perşembe günü ailelerine haber vermişti.",
+    "Sel ayrıca parkın ana su hattını da devre dışı bıraktı; hat 12,5 mil uzunluğunda ve parkın sahip olduğu tek hat. Bunun yaklaşık yüzde 40'ı hasarlı, parkın yardımcı müdürü söyledi, ve South Rim'de yaklaşık iki haftalık su stokta var. Oteller 31 Ağustos'ta gecelik misafir almayı durdurdu, ve ziyaretçilerden duşları azaltmaları istendi. 2023'te başlayan 208 milyon dolarlık boru hattı yenileme çalışması artık takvimin gerisinde kalabilir. 3 Eylül'de park daha fazla patikayı kapattı, yeniden açılış tarihi olmadan."
+  ],
+  "verbs": [
+    {
+      "base": "sweep through",
+      "correct": "bir alandan hızla geçmek",
+      "wrong": "saatlerce yavaşça yükselmek"
+    },
+    {
+      "base": "tear down",
+      "correct": "bir yapıyı tamamen yok etmek",
+      "wrong": "yıllar içinde yavaşça zayıflamak"
+    },
+    {
+      "base": "speed up",
+      "correct": "bir şeyin daha hızlı olmasını sağlamak",
+      "wrong": "suyu adeta bir sünger gibi emip yutmak"
+    },
+    {
+      "base": "bring in",
+      "correct": "dışarıdan yardım almak",
+      "wrong": "insanları evlerine geri götürmek"
+    },
+    {
+      "base": "fly out",
+      "correct": "bir yerden uçakla ayrılmak",
+      "wrong": "bir alanın üzerinden uçakla geçmek"
+    },
+    {
+      "base": "look after",
+      "correct": "birini korumak ve ona yardım etmek",
+      "wrong": "kayıp bir kişiyi bulmaya çalışmak"
+    },
+    {
+      "base": "go through",
+      "correct": "kayıtları tek tek incelemek",
+      "wrong": "insanları geldikçe saymak"
+    },
+    {
+      "base": "keep on",
+      "correct": "bir şeyi yapmaya devam etmek",
+      "wrong": "tehlikeden uzak durmak"
+    },
+    {
+      "base": "set out",
+      "correct": "bir yolculuğa başlamak",
+      "wrong": "bir kamp kurmak"
+    },
+    {
+      "base": "check in with",
+      "correct": "birine haber vermek için iletişime geçmek",
+      "wrong": "biriyle yapılacaklar hakkında plan yapmak"
+    },
+    {
+      "base": "knock out",
+      "correct": "bir sistemin çalışmasını durdurmak",
+      "wrong": "bir kanalı çamurla doldurmak"
+    },
+    {
+      "base": "cut down on",
+      "correct": "bir şeyi daha az kullanmak",
+      "wrong": "bir şeyin tedarikini durdurmak"
+    },
+    {
+      "base": "fall behind",
+      "correct": "planlanandan daha geç kalmak",
+      "wrong": "planlandığı gibi gerçekleşmemek"
+    },
+    {
+      "base": "close off",
+      "correct": "kimsenin girmemesi için bir alanı kapatmak",
+      "wrong": "bir işi kalıcı olarak tamamen kapatmak"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sweep through",
+      "def": "bir alandan hızla geçmek",
+      "ex": [
+        "Bir fırtına dün gece vadiden hızla geçti.",
+        "Yangın birkaç saat içinde kuru tepelerden hızla geçti.",
+        "Grip Mart ayında okuldan hızla yayıldı."
+      ]
+    },
+    {
+      "verb": "Tear down",
+      "def": "bir yapıyı tamamen yok etmek",
+      "ex": [
+        "Kasaba eski köprüyü yıktı.",
+        "Fabrikayı gelecek yıl yıkacaklar.",
+        "Güçlü rüzgarlar çiti yıktı."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "bir şeyin daha hızlı olmasını sağlamak",
+      "ex": [
+        "Sıcak hava karların erimesini hızlandırıyor.",
+        "Yeni yazılım işimizi hızlandırıyor.",
+        "Teslimatı hızlandırabilir miyiz?"
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "dışarıdan yardım almak",
+      "ex": [
+        "Hastane ek doktorlar getirdi.",
+        "Şehir barajı kontrol etmek için mühendisler getirdi.",
+        "Daha büyük bir vinç getirmek zorunda kaldılar."
+      ]
+    },
+    {
+      "verb": "Fly out",
+      "def": "bir yerden uçakla ayrılmak",
+      "ex": [
+        "Yaralı dağcı helikopterle tahliye edildi.",
+        "Cuma sabahı erkenden uçuyoruz.",
+        "Yardım çalışanları fırtınadan önce uçakla tahliye edildi."
+      ]
+    },
+    {
+      "verb": "Look after",
+      "def": "birini korumak ve ona yardım etmek",
+      "ex": [
+        "Gönüllüler sığınaktaki aileleri korudu.",
+        "Bu gece çocuklara kim bakıyor?",
+        "Hemşireler hastalara gece boyunca bakar."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "kayıtları tek tek incelemek",
+      "ex": [
+        "Polis otelin misafir listesini inceledi.",
+        "Eski e-postaların hepsini inceledi.",
+        "Bu dosyaları dikkatlice incelememiz gerekiyor."
+      ]
+    },
+    {
+      "verb": "Keep on",
+      "def": "bir şeyi yapmaya devam etmek",
+      "ex": [
+        "Kurtarma ekibi karanlıktan sonra da aramaya devam etti.",
+        "Acıya rağmen koşmaya devam etti.",
+        "Fiyatlar her ay artmaya devam ediyor."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "bir yolculuğa başlamak",
+      "ex": [
+        "Yürüyüşçüler şafakta yola çıktı.",
+        "Pazartesi günü sahile doğru yola çıktılar.",
+        "Üç günlük yiyecekle yola çıktık."
+      ]
+    },
+    {
+      "verb": "Check in with",
+      "def": "birine haber vermek için iletişime geçmek",
+      "ex": [
+        "Her pazar annemle iletişime geçiyorum.",
+        "Dağcılar telsizle ana kampla iletişime geçti.",
+        "Vardığında lütfen benimle iletişime geç."
+      ]
+    },
+    {
+      "verb": "Knock out",
+      "def": "bir sistemin çalışmasını durdurmak",
+      "ex": [
+        "Fırtına 50.000 evin elektriğini kesti.",
+        "Bir yıldırım radyo kulesini devre dışı bıraktı.",
+        "Sel kasabanın su şebekesini devre dışı bıraktı."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "bir şeyi daha az kullanmak",
+      "ex": [
+        "Plastik kullanımını azaltmaya çalışıyoruz.",
+        "Geçen yıl kahveyi azalttı.",
+        "Şehir insanlardan su kullanımını azaltmalarını istedi."
+      ]
+    },
+    {
+      "verb": "Fall behind",
+      "def": "planlanandan daha geç kalmak",
+      "ex": [
+        "Yol projesi programın gerisinde kaldı.",
+        "Kira ödemelerinde geride kaldı.",
+        "Şimdi geri kalırsak, Haziran'a kadar bitiremeyiz."
+      ]
+    },
+    {
+      "verb": "Close off",
+      "def": "kimsenin girmemesi için bir alanı kapatmak",
+      "ex": [
+        "Polis kazadan sonra sokağı kapattı.",
+        "Park onarım sırasında patikayı kapattı.",
+        "Yüksek dalgalar yüzünden sahili kapattılar."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "flash flood",
+      "def": "çok şiddetli yağmurun neden olduğu ani bir sel",
+      "ex": [
+        "Ani bir sel yolu silip götürdü.",
+        "Ani seller çöl kanyonlarında yaygındır.",
+        "Uyarı, bu gece ani bir sel olabileceğini söyledi."
+      ]
+    },
+    {
+      "word": "footbridges",
+      "def": "yayalar için küçük köprüler",
+      "ex": [
+        "Bir yaya köprüsü kamp alanı yakınındaki dereyi geçiyor.",
+        "Eski yaya köprüsü onarım için kapatıldı.",
+        "Yürüyüşçüler diğer kıyıya ulaşmak için yaya köprülerini kullanıyor."
+      ]
+    },
+    {
+      "word": "stopover",
+      "def": "yolcuların bir yolculuk sırasında durup dinlendiği yer",
+      "ex": [
+        "Köy, bisikletçiler için popüler bir mola noktası.",
+        "Denver'da bir gecelik mola verdik.",
+        "Çiftlik, kanyonu geçen yürüyüşçüler için bir mola noktasıydı."
+      ]
+    },
+    {
+      "word": "rafters",
+      "def": "bir nehirde sal ile seyahat eden insanlar",
+      "ex": [
+        "Sal gezginleri nehir kıyısındaki kumlu bir plajda kamp yaptı.",
+        "Deneyimli sal gezginleri en büyük akıntıları bilir.",
+        "Bir grup sal gezgini suyun alçalmasını bekledi."
+      ]
+    },
+    {
+      "word": "burn scar",
+      "def": "bir orman yangınından sonra çıplak kalan arazi",
+      "ex": [
+        "Yanık bir alana yağan şiddetli yağmur çamur kaymalarına neden olabilir.",
+        "Yanık alan sırt boyunca kilometrelerce uzanıyor.",
+        "Ot yavaş yavaş yanık alana geri dönüyor."
+      ]
+    },
+    {
+      "word": "runoff",
+      "def": "yer üzerinden akarak derelere ve nehirlere ulaşan yağmur suyu",
+      "ex": [
+        "Tepelerden gelen yüzey akışı dereyi dakikalar içinde doldurdu.",
+        "Asfalt sokaklar fırtınalar sırasında yüzey akışını artırıyor.",
+        "Çiftçiler, yüzey akışının toprağı sürükleyip götürmesinden endişe ediyor."
+      ]
+    },
+    {
+      "word": "night vision",
+      "def": "insanların karanlıkta görmesini sağlayan ekipman",
+      "ex": [
+        "Pilotlar gece görüş gözlüğü taktı.",
+        "Gece görüş kameraları hayvanları gün batımından sonra filme aldı.",
+        "Askerler karanlıkta hareket etmek için gece görüşü kullanır."
+      ]
+    },
+    {
+      "word": "permit records",
+      "def": "birine bir şey yapma izni verildiğini gösteren resmi listeler",
+      "ex": [
+        "Park her kamp alanı için izin kayıtlarını tutuyor.",
+        "Yetkililer patikada kimlerin olduğunu görmek için izin kayıtlarını kontrol etti.",
+        "İzin kayıtları o gece kanyonda 20 grup olduğunu gösterdi."
+      ]
+    },
+    {
+      "word": "license plates",
+      "def": "bir arabanın ön ve arkasındaki numaralı metal plakalar",
+      "ex": [
+        "Polis otoparktaki plakaları kontrol etti.",
+        "Arabanın Teksas plakası vardı.",
+        "Bir kamera girişte plakaları okuyor."
+      ]
+    },
+    {
+      "word": "chiropractor",
+      "def": "sırt ve eklem sorunlarını elleriyle tedavi eden bir sağlık çalışanı",
+      "ex": [
+        "Sırt ağrısı için bir kayropraktöre gidiyor.",
+        "Kayropraktör boynunu ayarladı.",
+        "Kayropraktör olmak için dört yıl eğitim aldı."
+      ]
+    },
+    {
+      "word": "martial arts",
+      "def": "karate ve judo gibi dövüş sporları",
+      "ex": [
+        "20 yıldır dövüş sanatları öğretiyor.",
+        "Çocuklar cumartesi günleri dövüş sanatları dersi alıyor.",
+        "Dövüş sanatları güç ve disiplin geliştirir."
+      ]
+    },
+    {
+      "word": "searchers",
+      "def": "birini veya bir şeyi bulmaya çalışan insanlar",
+      "ex": [
+        "Arayıcılar kayıp çocuğu iki gün sonra buldu.",
+        "Yüzlerce arayıcı tepeleri sıra halinde yürüdü.",
+        "Arayıcılar köpekler ve dronlar kullandı."
+      ]
+    },
+    {
+      "word": "drones",
+      "def": "içinde pilot olmayan küçük uçaklar",
+      "ex": [
+        "Dronlar hasarı yukarıdan filme aldı.",
+        "Ekip nehrin üzerinde dronlar uçurdu.",
+        "Çiftçiler ekinlerini kontrol etmek için dronlar kullanıyor."
+      ]
+    },
+    {
+      "word": "pipeline",
+      "def": "su, petrol veya gaz taşıyan uzun bir boru",
+      "ex": [
+        "Boru hattı kaynaktan köye su taşıyor.",
+        "Boru hattındaki bir çatlak sızıntıya neden oldu.",
+        "İşçiler boru hattını üç günde onardı."
+      ]
+    },
+    {
+      "word": "in storage",
+      "def": "sonra kullanılmak üzere tanklarda veya bir binada saklanan",
+      "ex": [
+        "Kasabanın bir haftalık yakıt stoku var.",
+        "Kışlık kıyafetlerimizi depoda saklıyoruz.",
+        "Yıl boyunca yetecek kadar tahıl depoda var."
+      ]
+    },
+    {
+      "word": "overnight guests",
+      "def": "bir yerde geceyi geçiren insanlar",
+      "ex": [
+        "Loca 60 gecelik misafir alıyor.",
+        "Gecelik misafirler saat 20:00'ye kadar giriş yapmalı.",
+        "Otel gecelik misafir kabul etmeyi durdurdu."
+      ]
+    },
+    {
+      "word": "upgrade",
+      "def": "bir şeyi daha yeni veya daha iyi yapan çalışma",
+      "ex": [
+        "Havaalanı yenileme çalışması üç yıl sürecek.",
+        "Şehir su sisteminin yenilenmesini onayladı.",
+        "Yazılım güncellemesi sorunu çözdü."
+      ]
+    },
+    {
+      "word": "reopening date",
+      "def": "kapalı bir yerin yeniden açılacağı gün",
+      "ex": [
+        "Müze henüz bir yeniden açılış tarihi açıklamadı.",
+        "Köprünün yeniden açılış tarihi 1 Mayıs.",
+        "Yeniden açılış tarihi olmadan, yakındaki dükkanlar müşteri kaybetti."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Cumartesi günü gün batımına kadar 45 kişi kurtarılmıştı.",
+      "a": true,
+      "why": "Kurtarma ekipleri helikopterler getirdi, ve Pazar günü 37 kişi daha uçakla dışarı çıkarıldı, toplamda yaklaşık 80 kişi."
+    },
+    {
+      "s": "Sel, Bright Angel Deresi üzerindeki yaya köprülerinin sadece birkaçını yok etti.",
+      "a": false,
+      "why": "Bright Angel Kanyonu'ndan geçen ani sel, Phantom Ranch yakınındaki dere üzerindeki neredeyse tüm yaya köprülerini yıktı."
+    },
+    {
+      "s": "Kızılhaç, kurtarılan insanlara South Rim'deki bir localde baktı.",
+      "a": true,
+      "why": "Kurtarmadan sonra Kızılhaç, South Rim'deki bir localde onlara baktı, ve rangerlar sonra kimlerin hâlâ kayıp olduğunu saymak için izin kayıtlarını inceledi."
+    },
+    {
+      "s": "Yürüyüşe ve balık tutmaya çıkan üç arkadaşın hepsi sağ bulundu.",
+      "a": false,
+      "why": "İki adam öldü, ve üçüncüsü, Wyoming'den bir pilot, 3 Eylül'de hâlâ kayıptı, o sırada 100'den fazla arayıcı aramaya devam ediyordu."
+    },
+    {
+      "s": "Parkın su hattının yaklaşık yüzde 40'ı hasarlı.",
+      "a": true,
+      "why": "Sel, parkın tek su hattını devre dışı bıraktı, ve yardımcı müdür bunun yaklaşık yüzde 40'ının hasarlı olduğunu söyledi."
+    },
+    {
+      "s": "Park, hasarlı patikaları 3 Eylül'de yeniden açtı.",
+      "a": false,
+      "why": "3 Eylül'de park daha fazla patikayı kapattı ve yeniden açılış tarihi vermedi."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Grand Canyon'ın dibinde ani bir sel meydana geldi, ve yaklaşık 80 kişi helikopterle kurtarıldı. İki kişi öldü, biri kayıp, ve parkın tek su hattı ağır hasar gördü.",
+      "a": true,
+      "why": "Kurtarma ekipleri 29 ve 30 Ağustos hafta sonu boyunca yaklaşık 80 kişiyi kurtardı, Teksas'tan iki yürüyüşçü öldü, üçüncü bir arkadaş kayıp, ve boru hattının yaklaşık yüzde 40'ı hasarlı."
+    },
+    {
+      "s": "Grand Canyon'ın dibindeki ani bir sel iki yürüyüşçüyü öldürdü ve üçüncüsünü kayıp bıraktı. Kurtarma ekipleri yaklaşık 80 kişiyi kurtardı, ve su hattı hasar görmeden kurtuldu.",
+      "a": false,
+      "why": "Yakın, ama sel parkın tek su hattının yaklaşık yüzde 40'ını hasara uğrattı, ve South Rim'de yaklaşık iki haftalık su stokta."
+    },
+    {
+      "s": "Grand Canyon'ın North Rim'indeki bir orman yangını yüzlerce ziyaretçiyi parkı terk etmeye zorladı. Yangın tarihi bir localı yok etti ve yazın geri kalanında ana patikaları kapattı.",
+      "a": false,
+      "why": "Olay bir yangın değil, ani bir seldi. Dragon Bravo Yangını Temmuz 2025'te oldu, ve yanık alanı sadece çıplak toprağın yağmuru daha hızlı akıtması nedeniyle önemli."
+    }
+  ],
+  "dialogue": {
+    "Thank goodness for that": "Kötü bir şeyin olmadığını duyduğunda rahatlamayı göstermek için kullanılır",
+    "My heart goes out to": "Acı çeken insanlara derin bir sempati duyduğunu söylemek için kullanılır",
+    "That's the last thing they need": "Yeni bir sorunun, zaten sorunları olan insanlar için özellikle kötü olduğunu söylemek için kullanılır",
+    "Talk about bad timing": "Bir şeyin mümkün olan en kötü anda gerçekleştiğini söylemek için kullanılır",
+    "It could have been a lot worse": "Kötü bir durumun olabileceğinden daha kötü olmadığını söylemek için kullanılır"
+  }
+}
