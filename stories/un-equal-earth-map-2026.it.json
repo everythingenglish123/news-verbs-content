@@ -1,0 +1,436 @@
+{
+  "id": "un-equal-earth-map-2026",
+  "number": 104,
+  "lang": "it",
+  "headline": "L'ONU vota una mappa che mostra le vere dimensioni dell'Africa",
+  "chunks": [
+    "L'Assemblea Generale delle Nazioni Unite ha votato venerdì 4 settembre 2026 per incoraggiare il mondo ad abbandonare la tradizionale mappa di Mercatore. Il Togo ha presentato la risoluzione a nome del Gruppo Africano, con il sostegno dell'Unione Africana. È stata approvata con 164 voti a favore. Gli Stati Uniti sono stati l'unico paese a votare contro, e sei paesi, tra cui Ucraina e Serbia, si sono astenuti.",
+    "La mappa di Mercatore risale al 1569, quando un cartografo fiammingo di nome Mercatore la progettò per i marinai. Sulla sua mappa, una linea retta corrisponde a una direzione fissa della bussola, così i navigatori potevano tracciare una rotta lungo un'unica linea retta. Il prezzo da pagare era la dimensione. La mappa ingrandisce le masse continentali vicino ai poli, così la Groenlandia appare quasi delle stesse dimensioni dell'Africa, anche se l'Africa è circa 14 volte più grande.",
+    "La proiezione Equal Earth è molto più recente. Un'ex cartografa capo del Servizio Parchi Nazionali degli Stati Uniti l'ha ideata nel 2018 insieme a due colleghi. Mostra i continenti nelle loro vere proporzioni, anche se le forme sono leggermente distorte. La risoluzione chiede a governi, scuole, organizzazioni internazionali e aziende tecnologiche di usare Equal Earth e mappe simili quando la dimensione relativa conta. Non è vincolante. Non vieta Mercatore e non esclude il suo uso per la navigazione marittima e aerea.",
+    "Il ministro degli Esteri del Togo ha detto: «Le mappe plasmano la nostra comprensione del mondo.» Gli Stati Uniti si sono espressi pubblicamente contro la risoluzione, definendola parte di un progetto ideologico. L'Ucraina ha espresso preoccupazione su come sarebbe apparso il territorio occupato, e l'Unione Europea ha detto che il voto non aveva alcun legame con i confini. La Francia ha detto che sarebbe passata a Equal Earth per le sue mappe del mondo. Africa No Filter, un gruppo di attivisti, vuole che mappe accurate siano introdotte nelle scuole, nei libri di testo e negli organi di stampa."
+  ],
+  "verbs": [
+    {
+      "base": "move away from",
+      "correct": "Smettere di usare qualcosa",
+      "wrong": "Passare all'argomento successivo"
+    },
+    {
+      "base": "put forward",
+      "correct": "Proporre qualcosa ufficialmente",
+      "wrong": "Rinviare a un'altra riunione"
+    },
+    {
+      "base": "go through",
+      "correct": "Essere approvato con un voto",
+      "wrong": "Essere discusso a lungo"
+    },
+    {
+      "base": "date back",
+      "correct": "Esistere fin da un'epoca precisa",
+      "wrong": "Essere sostituito da una versione nuova"
+    },
+    {
+      "base": "map out",
+      "correct": "Pianificare un percorso nei dettagli",
+      "wrong": "Misurare la dimensione di un terreno"
+    },
+    {
+      "base": "blow up",
+      "correct": "Far sembrare qualcosa più grande",
+      "wrong": "Copiare su una superficie piatta"
+    },
+    {
+      "base": "come across as",
+      "correct": "Sembrare essere in un certo modo",
+      "wrong": "Essere d'accordo dopo un po' di tempo"
+    },
+    {
+      "base": "come up with",
+      "correct": "Pensare a qualcosa di nuovo",
+      "wrong": "Incontrare una forte opposizione"
+    },
+    {
+      "base": "call on",
+      "correct": "Chiedere ufficialmente a qualcuno di agire",
+      "wrong": "Annullare qualcosa che era previsto"
+    },
+    {
+      "base": "rule out",
+      "correct": "Dire che qualcosa non è permesso",
+      "wrong": "Decidere ufficialmente su qualcosa"
+    },
+    {
+      "base": "speak out against",
+      "correct": "Dire in pubblico che ti opponi",
+      "wrong": "Dare l'opinione di un gruppo"
+    },
+    {
+      "base": "switch over to",
+      "correct": "Passare a qualcosa di diverso",
+      "wrong": "Fare a turno qualcosa"
+    },
+    {
+      "base": "roll out",
+      "correct": "Introdurre qualcosa su larga scala",
+      "wrong": "Tornare a una versione precedente"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Move away from",
+      "def": "Smettere di usare qualcosa",
+      "ex": [
+        "La città vuole smettere di usare il carbone.",
+        "Molti uffici hanno smesso di usare i documenti di carta.",
+        "La compagnia aerea sta smettendo di usare i pagamenti in contanti."
+      ]
+    },
+    {
+      "verb": "Put forward",
+      "def": "Proporre qualcosa ufficialmente",
+      "ex": [
+        "Ha proposto un piano per riparare le strade.",
+        "Due soci hanno proposto nuove regole per il club.",
+        "L'idea è stata proposta nell'ultima riunione."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Essere approvato con un voto",
+      "ex": [
+        "La nuova legge è stata approvata la settimana scorsa.",
+        "Il bilancio è stato approvato senza troppo dibattito.",
+        "Se il piano viene approvato, il parco aprirà a maggio."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Esistere fin da un'epoca precisa",
+      "ex": [
+        "La chiesa esiste fin dal 1200.",
+        "Questa tradizione esiste da centinaia di anni.",
+        "La loro amicizia esiste fin dall'università."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "def": "Pianificare un percorso nei dettagli",
+      "ex": [
+        "Abbiamo pianificato il nostro viaggio in auto sul tavolo della cucina.",
+        "Il capitano ha pianificato una rotta per evitare la tempesta.",
+        "Ha pianificato il tragitto dall'hotel al museo."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "def": "Far sembrare qualcosa più grande",
+      "ex": [
+        "Il negozio ha ingrandito la foto fino alla dimensione di un poster.",
+        "Ingrandisci per far vedere meglio il testo piccolo.",
+        "Lo schermo ingrandisce l'immagine così tutti possono vederla."
+      ]
+    },
+    {
+      "verb": "Come across as",
+      "def": "Sembrare essere in un certo modo",
+      "ex": [
+        "Sembra essere molto sicuro di sé.",
+        "L'email è sembrata un po' fredda.",
+        "In video, la stanza piccola sembra enorme."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Pensare a qualcosa di nuovo",
+      "ex": [
+        "Il team ha pensato a un modello più economico.",
+        "Riesci a pensare a un nome per l'app?",
+        "Ha pensato a un piano in cinque minuti."
+      ]
+    },
+    {
+      "verb": "Call on",
+      "def": "Chiedere ufficialmente a qualcuno di agire",
+      "ex": [
+        "Il sindaco ha chiesto ai residenti di risparmiare acqua.",
+        "Il gruppo chiede alle scuole di insegnare più scienze.",
+        "I medici hanno chiesto al governo di agire in fretta."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "def": "Dire che qualcosa non è permesso",
+      "ex": [
+        "La scuola ha detto che i telefoni non erano permessi durante gli esami.",
+        "Le regole non dicono che lavorare da casa non sia permesso.",
+        "Il proprietario ha detto che gli animali non erano permessi nel palazzo."
+      ]
+    },
+    {
+      "verb": "Speak out against",
+      "def": "Dire in pubblico che ti opponi",
+      "ex": [
+        "I genitori hanno detto in pubblico che si opponevano alla chiusura della scuola.",
+        "Diversi atleti hanno detto in pubblico che si opponevano alla nuova regola.",
+        "È stata la prima a dire in pubblico che si opponeva al piano."
+      ]
+    },
+    {
+      "verb": "Switch over to",
+      "def": "Passare a qualcosa di diverso",
+      "ex": [
+        "Siamo passati a un piano telefonico più economico.",
+        "L'ufficio sta passando a un nuovo sistema email.",
+        "Molti automobilisti sono passati alle auto elettriche."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Introdurre qualcosa su larga scala",
+      "ex": [
+        "La banca ha introdotto la sua nuova app il mese scorso.",
+        "La città introdurrà autobus elettrici l'anno prossimo.",
+        "L'azienda ha introdotto l'aggiornamento per tutti gli utenti."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "traditional",
+      "def": "Usato o fatto nello stesso modo da molto tempo",
+      "ex": [
+        "La famiglia ha preparato una cena tradizionale per il Ringraziamento.",
+        "La scuola usa ancora libri stampati tradizionali.",
+        "Mappe tradizionali sono appese alle pareti di molte aule."
+      ]
+    },
+    {
+      "word": "resolution",
+      "def": "Una decisione o dichiarazione ufficiale approvata con un voto",
+      "ex": [
+        "Il consiglio ha approvato una risoluzione per piantare più alberi.",
+        "La risoluzione è stata sostenuta dalla maggior parte dei membri.",
+        "L'ONU ha adottato una risoluzione sull'acqua potabile."
+      ]
+    },
+    {
+      "word": "backing",
+      "def": "Il sostegno di una persona o di un gruppo",
+      "ex": [
+        "Il piano ha il sostegno del consiglio comunale.",
+        "Senza sostegno economico, il progetto si è fermato.",
+        "Ha vinto le elezioni con il forte sostegno degli insegnanti."
+      ]
+    },
+    {
+      "word": "in favor",
+      "def": "Sostenere qualcosa in una votazione",
+      "ex": [
+        "Dodici membri hanno votato a favore del piano.",
+        "La maggior parte dei genitori è a favore di una giornata scolastica più lunga.",
+        "Il consiglio ha votato a favore del nuovo direttore."
+      ]
+    },
+    {
+      "word": "abstained",
+      "def": "Ha scelto di non votare né a favore né contro",
+      "ex": [
+        "Tre membri si sono astenuti dal voto.",
+        "Si è astenuto perché non era sicuro del piano.",
+        "Due paesi si sono astenuti sulla risoluzione."
+      ]
+    },
+    {
+      "word": "mapmaker",
+      "def": "Una persona che disegna mappe",
+      "ex": [
+        "Il cartografo ha disegnato ogni fiume a mano.",
+        "I primi cartografi lavoravano a partire dai resoconti dei marinai.",
+        "Il museo mostra strumenti usati da un cartografo del Seicento."
+      ]
+    },
+    {
+      "word": "compass direction",
+      "def": "Una direzione come nord, sud, est o ovest",
+      "ex": [
+        "Gli escursionisti controllavano la loro direzione della bussola ogni ora.",
+        "Ogni muro del tempio è rivolto verso una direzione diversa.",
+        "Il cartello indica la direzione della bussola verso la città successiva."
+      ]
+    },
+    {
+      "word": "navigators",
+      "def": "Persone che pianificano e guidano la rotta di una nave o di un aereo",
+      "ex": [
+        "I primi navigatori usavano le stelle per trovare la strada.",
+        "Il navigatore ha avvertito il capitano di rocce più avanti.",
+        "I navigatori moderni dipendono dai segnali satellitari."
+      ]
+    },
+    {
+      "word": "landmasses",
+      "def": "Aree di terra molto grandi, come i continenti",
+      "ex": [
+        "L'Asia è la massa continentale più grande della Terra.",
+        "Milioni di anni fa, le masse continentali erano unite.",
+        "La mappa mostra le masse continentali in verde."
+      ]
+    },
+    {
+      "word": "poles",
+      "def": "I punti più a nord e più a sud della Terra",
+      "ex": [
+        "Il ghiaccio copre la terra vicino ai poli.",
+        "Il sole non tramonta mai d'estate ai poli.",
+        "Gli esploratori raggiunsero entrambi i poli all'inizio del Novecento."
+      ]
+    },
+    {
+      "word": "projection",
+      "def": "Un modo di disegnare la Terra rotonda su una mappa piatta",
+      "ex": [
+        "Ogni proiezione di mappa cambia in qualche modo le forme o le dimensioni.",
+        "L'insegnante ha confrontato due proiezioni del mondo.",
+        "Questa proiezione mantiene corrette le dimensioni dei paesi."
+      ]
+    },
+    {
+      "word": "senior cartographer",
+      "def": "Un esperto con molta esperienza che fa mappe",
+      "ex": [
+        "Ha lavorato come cartografa capo per un'agenzia di viaggi.",
+        "Il cartografo capo ha controllato ogni strada sulla nuova mappa.",
+        "L'agenzia ha assunto un cartografo capo per aggiornare il suo atlante."
+      ]
+    },
+    {
+      "word": "true proportions",
+      "def": "Le dimensioni corrette delle cose rispetto alle altre",
+      "ex": [
+        "Il modello mostra i pianeti nelle loro vere proporzioni.",
+        "Il disegno non mostra le vere proporzioni dell'edificio.",
+        "Un mappamondo mostra i continenti nelle loro vere proporzioni."
+      ]
+    },
+    {
+      "word": "distorted",
+      "def": "Cambiato in modo che la forma o la dimensione non siano corrette",
+      "ex": [
+        "Lo specchio dava un'immagine distorta del suo viso.",
+        "La foto sembrava distorta ai bordi.",
+        "La sua voce sembrava distorta al telefono."
+      ]
+    },
+    {
+      "word": "relative size",
+      "def": "Quanto qualcosa è grande rispetto a qualcos'altro",
+      "ex": [
+        "Il grafico mostra la dimensione relativa dell'economia di ogni paese.",
+        "I bambini spesso sbagliano a stimare la dimensione relativa del sole e della luna.",
+        "La dimensione relativa delle due stanze ha sorpreso gli acquirenti."
+      ]
+    },
+    {
+      "word": "binding",
+      "def": "Deve essere rispettato per legge o per accordo",
+      "ex": [
+        "Il contratto è vincolante per due anni.",
+        "Il voto non era vincolante, quindi nulla è cambiato.",
+        "La decisione del giudice è vincolante per entrambe le parti."
+      ]
+    },
+    {
+      "word": "foreign minister",
+      "def": "Il funzionario del governo responsabile delle relazioni con altri paesi",
+      "ex": [
+        "Il ministro degli Esteri ha incontrato la sua omologa giapponese a Tokyo.",
+        "Il ministro degli Esteri ha parlato all'ONU martedì.",
+        "I giornalisti hanno chiesto al ministro degli Esteri dei negoziati commerciali."
+      ]
+    },
+    {
+      "word": "ideological",
+      "def": "Basato su un insieme di convinzioni politiche",
+      "ex": [
+        "I due partiti hanno profonde differenze ideologiche.",
+        "I critici hanno definito la nuova legge una mossa ideologica.",
+        "Ha lasciato il gruppo per divergenze ideologiche."
+      ]
+    },
+    {
+      "word": "occupied territory",
+      "def": "Un territorio controllato da un esercito straniero",
+      "ex": [
+        "I gruppi di aiuto avevano difficoltà a raggiungere il territorio occupato.",
+        "Le mappe del territorio occupato sono state contestate per anni.",
+        "Le famiglie sono fuggite dal territorio occupato durante la guerra."
+      ]
+    },
+    {
+      "word": "bearing",
+      "def": "Un effetto su qualcosa o un legame con qualcosa",
+      "ex": [
+        "Il meteo non ha avuto alcun effetto sul risultato finale.",
+        "La sua età ha un certo legame con la decisione del medico.",
+        "La nuova regola non ha alcun effetto sugli studenti attuali."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Gli Stati Uniti sono stati l'unico paese a votare contro la risoluzione.",
+      "a": true,
+      "why": "In totale, 164 stati membri hanno votato a favore e sei si sono astenuti, e gli Stati Uniti si sono espressi pubblicamente contro la risoluzione, definendola parte di un progetto ideologico."
+    },
+    {
+      "s": "La risoluzione vieta la mappa di Mercatore per la navigazione marittima e aerea.",
+      "a": false,
+      "why": "La risoluzione non è vincolante, non vieta Mercatore, e non esclude il suo uso per la navigazione marittima e aerea."
+    },
+    {
+      "s": "Sulla mappa di Mercatore, la Groenlandia sembra avere quasi le stesse dimensioni dell'Africa.",
+      "a": true,
+      "why": "La mappa ingrandisce le masse continentali vicino ai poli, anche se l'Africa è circa 14 volte più grande della Groenlandia."
+    },
+    {
+      "s": "La proiezione Equal Earth è stata creata nel 1569.",
+      "a": false,
+      "why": "Un'ex cartografa capo del Servizio Parchi Nazionali degli Stati Uniti e due colleghi hanno ideato Equal Earth nel 2018; è la mappa di Mercatore a risalire al 1569."
+    },
+    {
+      "s": "Il Togo ha presentato la risoluzione a nome del Gruppo Africano.",
+      "a": true,
+      "why": "Il Togo aveva il sostegno dell'Unione Africana, e la risoluzione è stata approvata con 164 voti a favore."
+    },
+    {
+      "s": "La Francia ha detto che avrebbe continuato a usare la mappa di Mercatore per le sue mappe del mondo.",
+      "a": false,
+      "why": "La Francia ha detto che sarebbe passata a Equal Earth per le sue mappe del mondo."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "L'Assemblea Generale dell'ONU ha votato per incoraggiare l'uso della mappa Equal Earth al posto della mappa di Mercatore, che fa sembrare l'Africa molto più piccola di quanto sia in realtà. Il voto è una raccomandazione, non un divieto.",
+      "a": true,
+      "why": "La risoluzione del Togo è stata approvata 164 a 1 e chiede a governi, scuole e aziende di usare Equal Earth, ma non è vincolante e non vieta Mercatore."
+    },
+    {
+      "s": "I membri dell'ONU hanno votato per vietare la mappa di Mercatore nelle scuole e negli uffici governativi di tutto il mondo. Ogni paese ora ha tempo fino alla fine dell'anno per passare alla proiezione Equal Earth.",
+      "a": false,
+      "why": "Quasi, ma la risoluzione incoraggia solo l'uso di Equal Earth. Non vieta Mercatore né impone una sostituzione, e non fissa alcuna scadenza per nessuno."
+    },
+    {
+      "s": "L'Unione Africana ha lanciato un proprio servizio di mappe online che mostra il continente nella sua vera dimensione. Milioni di persone hanno scaricato la nuova app nella prima settimana.",
+      "a": false,
+      "why": "L'Unione Africana ha sostenuto un voto dell'ONU su proiezioni cartografiche. Non ha lanciato alcun servizio di mappe né alcuna app."
+    }
+  ],
+  "dialogue": {
+    "I had no idea": "Usato per dire che un fatto è del tutto nuovo e sorprendente per te",
+    "Old habits die hard": "Usato per dire che le persone continuano a fare le cose alla vecchia maniera anche quando esiste un modo migliore",
+    "About time": "Usato per dire che qualcosa avrebbe dovuto succedere molto prima",
+    "You can see their point": "Usato per dire che la preoccupazione o l'opinione di qualcuno è comprensibile, anche se non sei del tutto d'accordo",
+    "It's a start": "Usato per dire che un piccolo passo è comunque un progresso, anche se serve molto di più"
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "id",
+  "headline": "AI belajar mengenali penyakit jantung dari selusin contoh",
+  "chunks": [
+    "Sistem AI baru dapat mengenali tanda-tanda penyakit jantung setelah hanya melihat sekitar selusin kasus terkonfirmasi, kata para peneliti di Scripps Research, California. Studi tentang sistem ini terbit di The Lancet Digital Health pada 1 September 2026. Untuk membangunnya, tim mengumpulkan lebih dari 1,7 juta elektrokardiogram, rekaman aktivitas listrik jantung, dari lebih dari 540.000 orang, beserta catatan dokter tentang setiap kasus.",
+    "Sistem ini adalah model fondasi, AI yang pertama-tama mempelajari pengetahuan umum lalu disesuaikan untuk banyak tugas. Sistem ini mempelajari kata-kata mana dalam catatan dokter yang berkaitan dengan pola-pola mana dalam rekaman jantung. Penulis utama studi ini mengatakan bahwa seorang klinisi belajar dengan cara yang sama: bukan dari sejuta contoh, tetapi dengan memahami jantung terlebih dahulu lalu melihat beberapa kasus. Model ini membangun gambaran umum sedikit demi sedikit sebelum berfokus pada satu penyakit.",
+    "Para peneliti mencoba model ini pada lebih dari 800.000 rekaman jantung. Model ini setara dengan model-model terbaik sambil menggunakan rata-rata sekitar 91 persen lebih sedikit data yang diberi label secara manual. Model ini mendeteksi serangan jantung dan dua kondisi jantung lainnya, dan mengungguli model lain dalam memprediksi detak jantung tidak teratur dari rekaman yang terlihat normal. Model ini juga memprediksi siapa yang akan mengalami penyakit ginjal atau diabetes tipe 2 dalam tiga tahun. Keunggulan ini menghilang sedikit demi sedikit begitu banyak contoh berlabel tersedia.",
+    "Ini bisa membantu untuk penyakit langka, yang hanya memiliki segelintir kasus berlabel baik, kata tim. Model ini juga bisa menunjukkan bagian mana dari sinyal jantung yang digunakannya, sehingga dokter bisa memeriksa alasannya. Salah satu penulis pendamping studi ini mengatakan uji klinis masih diperlukan untuk mengetahui apakah hasilnya tetap berlaku dalam perawatan pasien yang sesungguhnya. Selanjutnya, tim berencana memasukkan data dari ruang gawat darurat dan menguji model dengan perangkat yang dapat dikenakan."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "Mendeteksi sesuatu",
+      "wrong": "Memberi label manual"
+    },
+    {
+      "base": "come out",
+      "correct": "Diterbitkan",
+      "wrong": "Diuji di klinik"
+    },
+    {
+      "base": "put together",
+      "correct": "Mengumpulkan hal-hal menjadi satu set",
+      "wrong": "Menyimpan di tempat yang aman"
+    },
+    {
+      "base": "go with",
+      "correct": "Berkaitan dengan sesuatu",
+      "wrong": "Memeriksa sesuatu dengan hati-hati"
+    },
+    {
+      "base": "build up",
+      "correct": "Mengembangkan sesuatu sedikit demi sedikit",
+      "wrong": "Menyertakan sebagai bagian tetap"
+    },
+    {
+      "base": "zero in on",
+      "correct": "Memusatkan seluruh perhatian pada satu hal",
+      "wrong": "Memperlakukan setiap kasus dengan cara yang sama"
+    },
+    {
+      "base": "try out",
+      "correct": "Menguji sesuatu untuk melihat cara kerjanya",
+      "wrong": "Mengulangi sebuah studi di tempat lain"
+    },
+    {
+      "base": "keep up with",
+      "correct": "Tetap berada pada level yang sama dengan",
+      "wrong": "Mengecualikan data dari sebuah tes"
+    },
+    {
+      "base": "fall away",
+      "correct": "Menghilang perlahan",
+      "wrong": "Lebih lambat dari lain"
+    },
+    {
+      "base": "point out",
+      "correct": "Menunjukkan sesuatu",
+      "wrong": "Mengirim sinyal perangkat"
+    },
+    {
+      "base": "find out",
+      "correct": "Mengetahui apakah sesuatu itu benar",
+      "wrong": "Membuat sesuatu menjadi publik"
+    },
+    {
+      "base": "carry over",
+      "correct": "Tetap berlaku untuk pasien lain",
+      "wrong": "Melakukan pekerjaan yang direncanakan"
+    },
+    {
+      "base": "bring in",
+      "correct": "Menambahkan sesuatu yang baru ke dalam sebuah sistem",
+      "wrong": "Menyebutkan sebuah topik untuk didiskusikan"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "Mendeteksi sesuatu",
+      "ex": [
+        "Tes ini dapat mendeteksi virus sejak dini.",
+        "Anjing dapat mendeteksi bau dari jarak jauh.",
+        "Pemindai mendeteksi retakan kecil pada pipa."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "Diterbitkan",
+      "ex": [
+        "Laporan itu terbit hari Senin.",
+        "Buku barunya terbit bulan Mei.",
+        "Hasilnya terbit minggu depan."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "Mengumpulkan hal-hal menjadi satu set",
+      "ex": [
+        "Tim mengumpulkan daftar 200 pasien.",
+        "Dia mengumpulkan album foto untuk orang tuanya.",
+        "Museum mengumpulkan pameran peta-peta kuno."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "Berkaitan dengan sesuatu",
+      "ex": [
+        "Saus ini cocok dengan ikan.",
+        "Gejala apa yang berkaitan dengan flu?",
+        "Dasi biru itu cocok dengan setelan abu-abumu."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "Mengembangkan sesuatu sedikit demi sedikit",
+      "ex": [
+        "Dia mengembangkan tim yang kuat selama lima tahun.",
+        "Pelari itu meningkatkan kecepatannya sedikit demi sedikit selama musim.",
+        "Toko itu membangun daftar pelanggan tetap sedikit demi sedikit."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "Memusatkan seluruh perhatian pada satu hal",
+      "ex": [
+        "Detektif itu memusatkan perhatiannya pada satu tersangka.",
+        "Elang itu memusatkan perhatiannya pada seekor tikus.",
+        "Mari kita fokus pada masalah utama."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Menguji sesuatu untuk melihat cara kerjanya",
+      "ex": [
+        "Kamu bisa mencoba sepeda itu sebelum membelinya.",
+        "Koki itu mencoba resep baru.",
+        "Kami menguji aplikasi itu dengan beberapa pengguna."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "Tetap berada pada level yang sama dengan",
+      "ex": [
+        "Komputer lama itu tidak bisa mengimbangi yang baru.",
+        "Dia tetap berada pada level pelari tercepat.",
+        "Toko roti itu tidak bisa mengimbangi pesanan pada bulan Desember."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "Menghilang perlahan",
+      "ex": [
+        "Dukungan untuk rencana itu menghilang perlahan.",
+        "Suara itu menghilang perlahan saat pembicara mulai berbicara.",
+        "Keunggulannya menghilang perlahan di mil terakhir."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Menunjukkan sesuatu",
+      "ex": [
+        "Pemandu itu menunjukkan rumah tertua.",
+        "Dia menunjukkan kesalahan dalam emailku.",
+        "Peta itu menunjukkan rute paling aman."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "Mengetahui apakah sesuatu itu benar",
+      "ex": [
+        "Kita perlu mengetahui apakah obat itu aman.",
+        "Kita harus mengetahui apakah atapnya masih bocor.",
+        "Dia menelepon untuk mengetahui apakah keretanya terlambat."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "Tetap berlaku untuk pasien lain",
+      "ex": [
+        "Keterampilan dari sepak bola tetap berlaku di olahraga lain.",
+        "Temuan itu juga tetap berlaku untuk pasien yang lebih muda.",
+        "Kebiasaan baik dari sekolah tetap berlaku di tempat kerja."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Menambahkan sesuatu yang baru ke dalam sebuah sistem",
+      "ex": [
+        "Kota itu memberlakukan program daur ulang baru.",
+        "Sekolah itu memberlakukan jadwal baru.",
+        "Mereka berencana memasukkan data dari lebih banyak klinik."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "Dua belas, atau sekitar dua belas",
+      "ex": [
+        "Dia membeli selusin telur.",
+        "Sekitar selusin orang datang ke pertemuan itu.",
+        "Tim itu memiliki selusin pemain."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "Kasus-kasus penyakit yang sudah diperiksa dokter dan dipastikan",
+      "ex": [
+        "Kota itu memiliki 40 kasus campak yang terkonfirmasi.",
+        "Hanya kasus terkonfirmasi yang dihitung dalam laporan.",
+        "Kasus terkonfirmasi meningkat minggu lalu."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "Rekaman aktivitas listrik jantung",
+      "ex": [
+        "Elektrokardiogram hanya memakan waktu beberapa menit.",
+        "Klinik itu menyimpan elektrokardiogram lama.",
+        "Elektrokardiogram dapat menunjukkan serangan jantung."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "Sistem AI yang dilatih dengan sejumlah besar data, lalu disesuaikan untuk banyak penggunaan",
+      "ex": [
+        "Model fondasi dapat disesuaikan untuk banyak tugas.",
+        "Perusahaan itu membangun model fondasi untuk bahasa.",
+        "Melatih model fondasi membutuhkan data dalam jumlah sangat besar."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "Diubah agar sesuai dengan tujuan baru",
+      "ex": [
+        "Buku itu diadaptasi untuk panggung.",
+        "Pelajaran itu disesuaikan untuk anak-anak yang lebih muda.",
+        "Alat itu disesuaikan untuk digunakan di rumah sakit."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "Dokter atau perawat yang merawat pasien",
+      "ex": [
+        "Seorang klinisi memeriksa jantung pasien.",
+        "Klinisi menulis catatan setelah setiap kunjungan.",
+        "Aplikasi itu dirancang bersama para klinisi."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "Pemahaman umum tentang sesuatu, tanpa detailnya",
+      "ex": [
+        "Berikan aku gambaran umumnya dulu.",
+        "Laporan itu memberikan gambaran umum tentang ekonomi.",
+        "Dia memiliki gambaran umum tentang cara kerja mesin itu."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "Ditandai oleh seseorang, satu per satu",
+      "ex": [
+        "Data berlabel manual lambat untuk dihasilkan.",
+        "Setiap foto berlabel manual memakan waktu satu menit.",
+        "Model itu membutuhkan lebih sedikit data berlabel manual."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "Kejadian mendadak saat darah berhenti mencapai bagian tertentu dari jantung",
+      "ex": [
+        "Serangan jantung lebih sering terjadi pada musim dingin.",
+        "Dia mengalami serangan jantung pada usia 52 tahun.",
+        "Nyeri dada bisa menjadi tanda serangan jantung."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "Irama jantung yang tidak stabil",
+      "ex": [
+        "Dokter itu menyadari adanya detak jantung tidak teratur.",
+        "Detak jantung tidak teratur dapat menyebabkan pusing.",
+        "Jam tangannya memperingatkannya tentang detak jantung tidak teratur."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "Penyakit saat ginjal berhenti membersihkan darah dengan baik",
+      "ex": [
+        "Penyakit ginjal sering berkembang secara perlahan.",
+        "Tekanan darah tinggi dapat menyebabkan penyakit ginjal.",
+        "Dia minum obat untuk penyakit ginjal."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "Sesuatu yang membuat satu hal lebih baik daripada yang lain",
+      "ex": [
+        "Kecepatan adalah keunggulan utama kereta baru itu.",
+        "Tim tuan rumah memiliki keunggulan.",
+        "Keunggulan itu hilang setelah satu tahun."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "Penyakit yang dialami sangat sedikit orang",
+      "ex": [
+        "Penyakit langka sering sulit didiagnosis.",
+        "Klinik itu menangani beberapa penyakit langka.",
+        "Sedikit dokter yang pernah melihat penyakit langka ini."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "Jumlah yang sangat sedikit dari",
+      "ex": [
+        "Hanya segelintir orang yang datang.",
+        "Segelintir sekolah mencoba program itu.",
+        "Dia memiliki segelintir teman dekat."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "Langkah-langkah pemikiran di balik sebuah keputusan",
+      "ex": [
+        "Jelaskan alasanmu kepada kelas.",
+        "Hakim itu memberikan alasannya secara tertulis.",
+        "Aku tidak mengerti alasannya."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "Uji coba pengobatan atau alat pada pasien sungguhan",
+      "ex": [
+        "Obat itu melewati tiga uji klinis.",
+        "Uji klinis bisa memakan waktu bertahun-tahun.",
+        "Pasien menjadi sukarelawan untuk uji klinis itu."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "Perawatan dan bantuan yang diterima pasien",
+      "ex": [
+        "Perawat berperan penting dalam perawatan pasien.",
+        "Rumah sakit itu meningkatkan perawatan pasien tahun lalu.",
+        "Catatan yang lebih baik menghasilkan perawatan pasien yang lebih baik."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "Area rumah sakit yang menangani kasus mendadak dan serius",
+      "ex": [
+        "Ruang gawat darurat paling sibuk pada akhir pekan.",
+        "Dia menunggu tiga jam di ruang gawat darurat.",
+        "Ruang gawat darurat menangani banyak kasus nyeri dada."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "Perangkat elektronik kecil yang dikenakan di tubuh, seperti jam tangan pintar",
+      "ex": [
+        "Perangkat yang dapat dikenakan bisa menghitung langkahmu.",
+        "Beberapa perangkat yang dapat dikenakan merekam irama jantung.",
+        "Penjualan perangkat yang dapat dikenakan meningkat tahun ini."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Model itu dilatih dengan lebih dari 1,7 juta rekaman jantung.",
+      "a": true,
+      "why": "Tim mengumpulkan lebih dari 1,7 juta rekaman jantung dari lebih dari 540.000 orang, beserta catatan yang ditulis dokter tentang mereka."
+    },
+    {
+      "s": "Model itu membutuhkan ribuan kasus terkonfirmasi untuk mempelajari penyakit baru.",
+      "a": false,
+      "why": "Sistem ini dapat mengenali tanda-tanda penyakit jantung setelah hanya melihat sekitar selusin kasus terkonfirmasi, kata para peneliti."
+    },
+    {
+      "s": "Sistem itu menggunakan sekitar 91 persen lebih sedikit data berlabel manual dibandingkan model standar.",
+      "a": true,
+      "why": "Model ini setara dengan model-model terbaik sambil menggunakan rata-rata sekitar 91 persen lebih sedikit data yang diberi label secara manual."
+    },
+    {
+      "s": "Para peneliti menguji model itu pada lebih dari 800.000 rekaman jantung.",
+      "a": true,
+      "why": "Mereka mencoba model ini pada lebih dari 800.000 rekaman jantung, dan model ini mendeteksi serangan jantung serta dua kondisi jantung lainnya."
+    },
+    {
+      "s": "Studi itu terbit di jurnal Nature.",
+      "a": false,
+      "why": "Studi itu terbit di The Lancet Digital Health pada 1 September 2026."
+    },
+    {
+      "s": "Tim itu mengatakan model tersebut siap digunakan pada pasien sungguhan.",
+      "a": false,
+      "why": "Salah satu penulis pendamping studi ini mengatakan uji klinis masih diperlukan untuk mengetahui apakah hasilnya tetap berlaku dalam perawatan pasien yang sesungguhnya."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Para peneliti membangun model AI yang belajar dari 1,7 juta rekaman jantung dan catatan dokter. Model ini kini bisa mengenali penyakit jantung dari sekitar selusin contoh, yang bisa membantu untuk penyakit langka.",
+      "a": true,
+      "why": "Sistem ini dilatih dengan lebih dari 1,7 juta rekaman jantung yang dipasangkan dengan catatan klinisi, dan hanya membutuhkan sekitar selusin kasus terkonfirmasi untuk mendeteksi penyakit, berguna di tempat dengan sedikit kasus berlabel."
+    },
+    {
+      "s": "Model AI baru dapat mendeteksi penyakit jantung setelah hanya melihat sekitar selusin kasus terkonfirmasi. Karena membutuhkan data yang begitu sedikit, para penciptanya mengatakan rumah sakit bisa langsung menggunakannya pada pasien.",
+      "a": false,
+      "why": "Hampir benar, tetapi para peneliti mengatakan uji klinis masih diperlukan untuk mengetahui apakah hasilnya tetap berlaku dalam perawatan pasien yang sesungguhnya."
+    },
+    {
+      "s": "Sebuah studi rumah sakit menemukan bahwa jam tangan pintar dapat memperingatkan orang tentang detak jantung tidak teratur beberapa hari sebelum gejala muncul. Dokter jantung mengatakan peringatan itu menyebabkan penanganan lebih dini bagi ratusan pasien.",
+      "a": false,
+      "why": "Tidak ada studi jam tangan pintar dan tidak ada peringatan untuk pasien. Beritanya adalah model AI baru yang belajar mendeteksi penyakit jantung dari sangat sedikit contoh berlabel."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "Digunakan untuk mengatakan bahwa sesuatu adalah alasan utama atau bagian terpenting dari sebuah gagasan",
+    "Sounds promising": "Digunakan untuk mengatakan bahwa sesuatu tampaknya akan berhasil atau bekerja dengan baik",
+    "Not so fast": "Digunakan untuk menghentikan seseorang yang bergerak maju atau memutuskan sesuatu terlalu cepat",
+    "Trust, but verify": "Digunakan untuk mengatakan bahwa kamu menerima sesuatu tetapi tetap ingin memeriksanya sendiri",
+    "Better safe than sorry": "Digunakan untuk mengatakan bahwa bersikap hati-hati itu sepadan dengan waktu atau usaha tambahan"
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "id": "un-equal-earth-map-2026",
+  "number": 104,
+  "lang": "id",
+  "headline": "PBB memilih peta yang menunjukkan ukuran asli Afrika",
+  "chunks": [
+    "Majelis Umum PBB memberikan suara pada hari Jumat, 4 September 2026, untuk mendorong dunia meninggalkan peta Mercator tradisional. Togo mengajukan resolusi itu atas nama Kelompok Afrika, dengan dukungan Uni Afrika. Resolusi itu disetujui dengan 164 suara mendukung. Amerika Serikat menjadi satu-satunya negara yang memilih menentang, dan enam negara, termasuk Ukraina dan Serbia, abstain.",
+    "Peta Mercator berasal dari tahun 1569, ketika seorang pembuat peta asal Flandria bernama Mercator merancangnya untuk para pelaut. Pada petanya, satu garis lurus sesuai dengan satu arah kompas yang tetap, sehingga navigator bisa merencanakan rute di sepanjang satu garis lurus. Harganya adalah ukuran. Peta itu membesarkan daratan di dekat kutub, sehingga Greenland terlihat kira-kira sama besar dengan Afrika, padahal Afrika sekitar 14 kali lebih besar.",
+    "Proyeksi Equal Earth jauh lebih baru. Seorang mantan kartografer senior di Dinas Taman Nasional Amerika Serikat menciptakannya pada tahun 2018 bersama dua rekannya. Proyeksi ini menunjukkan benua dalam proporsi aslinya, meskipun bentuknya sedikit terdistorsi. Resolusi itu meminta pemerintah, sekolah, organisasi internasional, dan perusahaan teknologi menggunakan Equal Earth dan peta serupa saat ukuran relatif menjadi penting. Ini tidak mengikat. Ini tidak melarang Mercator dan tidak menutup kemungkinan penggunaannya untuk navigasi laut dan udara.",
+    "Menteri luar negeri Togo berkata, \"Peta membentuk pemahaman kita tentang dunia.\" Amerika Serikat secara terbuka menentang resolusi itu, menyebutnya bagian dari proyek ideologis. Ukraina menyampaikan kekhawatiran tentang bagaimana wilayah pendudukan akan tampak, dan Uni Eropa mengatakan pemungutan suara itu tidak berkaitan dengan perbatasan. Prancis mengatakan akan beralih ke Equal Earth untuk peta dunianya. Africa No Filter, sebuah kelompok kampanye, ingin peta yang akurat diperkenalkan secara luas di sekolah, buku pelajaran, dan organisasi berita."
+  ],
+  "verbs": [
+    {
+      "base": "move away from",
+      "correct": "Berhenti menggunakan sesuatu",
+      "wrong": "Melanjutkan ke topik berikutnya"
+    },
+    {
+      "base": "put forward",
+      "correct": "Mengajukan sesuatu secara resmi",
+      "wrong": "Menunda ke pertemuan berikutnya"
+    },
+    {
+      "base": "go through",
+      "correct": "Disetujui melalui pemungutan suara",
+      "wrong": "Diperdebatkan dalam waktu lama"
+    },
+    {
+      "base": "date back",
+      "correct": "Sudah ada sejak suatu masa",
+      "wrong": "Digantikan oleh versi baru"
+    },
+    {
+      "base": "map out",
+      "correct": "Merencanakan rute secara rinci",
+      "wrong": "Mengukur luas suatu wilayah"
+    },
+    {
+      "base": "blow up",
+      "correct": "Membuat sesuatu terlihat lebih besar",
+      "wrong": "Menyalin ke permukaan yang datar"
+    },
+    {
+      "base": "come across as",
+      "correct": "Terlihat seperti sesuatu tertentu",
+      "wrong": "Setuju setelah beberapa waktu"
+    },
+    {
+      "base": "come up with",
+      "correct": "Memikirkan sesuatu yang baru",
+      "wrong": "Menghadapi penentangan yang kuat"
+    },
+    {
+      "base": "call on",
+      "correct": "Meminta seseorang secara resmi untuk bertindak",
+      "wrong": "Membatalkan sesuatu yang direncanakan"
+    },
+    {
+      "base": "rule out",
+      "correct": "Mengatakan bahwa sesuatu tidak diizinkan",
+      "wrong": "Membuat keputusan resmi tentang sesuatu"
+    },
+    {
+      "base": "speak out against",
+      "correct": "Menyatakan secara terbuka bahwa kamu menentang",
+      "wrong": "Menyampaikan pandangan suatu kelompok"
+    },
+    {
+      "base": "switch over to",
+      "correct": "Beralih ke sesuatu yang berbeda",
+      "wrong": "Bergiliran melakukan sesuatu"
+    },
+    {
+      "base": "roll out",
+      "correct": "Memperkenalkan sesuatu secara luas",
+      "wrong": "Kembali ke versi sebelumnya"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Move away from",
+      "def": "Berhenti menggunakan sesuatu",
+      "ex": [
+        "Kota itu ingin berhenti menggunakan batu bara.",
+        "Banyak kantor sudah berhenti menggunakan berkas kertas.",
+        "Maskapai itu sedang berhenti menggunakan pembayaran tunai."
+      ]
+    },
+    {
+      "verb": "Put forward",
+      "def": "Mengajukan sesuatu secara resmi",
+      "ex": [
+        "Dia mengajukan rencana untuk memperbaiki jalan.",
+        "Dua anggota mengajukan aturan baru untuk klub itu.",
+        "Ide itu diajukan pada pertemuan terakhir."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Disetujui melalui pemungutan suara",
+      "ex": [
+        "Undang-undang baru itu disetujui minggu lalu.",
+        "Anggaran itu disetujui tanpa banyak perdebatan.",
+        "Jika rencana itu disetujui, taman akan dibuka pada bulan Mei."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Sudah ada sejak suatu masa",
+      "ex": [
+        "Gereja itu sudah ada sejak tahun 1200-an.",
+        "Tradisi ini sudah ada sejak ratusan tahun lalu.",
+        "Persahabatan mereka sudah ada sejak masa kuliah."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "def": "Merencanakan rute secara rinci",
+      "ex": [
+        "Kami merencanakan perjalanan darat kami di meja dapur.",
+        "Kapten merencanakan rute untuk menghindari badai.",
+        "Dia merencanakan jalan dari hotel ke museum."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "def": "Membuat sesuatu terlihat lebih besar",
+      "ex": [
+        "Toko itu membesarkan foto itu menjadi ukuran poster.",
+        "Perbesar untuk membuat tulisan kecil itu terlihat lebih besar.",
+        "Layar itu memperbesar gambar agar semua orang bisa melihatnya."
+      ]
+    },
+    {
+      "verb": "Come across as",
+      "def": "Terlihat seperti sesuatu tertentu",
+      "ex": [
+        "Dia terlihat sangat percaya diri.",
+        "Email itu terlihat agak dingin.",
+        "Di kamera, ruangan kecil itu terlihat sangat besar."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Memikirkan sesuatu yang baru",
+      "ex": [
+        "Tim itu memikirkan desain yang lebih murah.",
+        "Bisakah kamu memikirkan nama untuk aplikasi itu?",
+        "Dia memikirkan rencana dalam lima menit."
+      ]
+    },
+    {
+      "verb": "Call on",
+      "def": "Meminta seseorang secara resmi untuk bertindak",
+      "ex": [
+        "Wali kota meminta warga untuk menghemat air.",
+        "Kelompok itu meminta sekolah untuk mengajarkan lebih banyak sains.",
+        "Para dokter meminta pemerintah untuk bertindak cepat."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "def": "Mengatakan bahwa sesuatu tidak diizinkan",
+      "ex": [
+        "Sekolah mengatakan bahwa ponsel tidak diizinkan selama ujian.",
+        "Aturan itu tidak mengatakan bahwa bekerja dari rumah tidak diizinkan.",
+        "Pemilik rumah mengatakan bahwa hewan peliharaan tidak diizinkan di gedung itu."
+      ]
+    },
+    {
+      "verb": "Speak out against",
+      "def": "Menyatakan secara terbuka bahwa kamu menentang",
+      "ex": [
+        "Orang tua menyatakan secara terbuka bahwa mereka menentang penutupan sekolah itu.",
+        "Beberapa atlet menyatakan secara terbuka bahwa mereka menentang aturan baru itu.",
+        "Dia adalah orang pertama yang menyatakan secara terbuka bahwa dia menentang rencana itu."
+      ]
+    },
+    {
+      "verb": "Switch over to",
+      "def": "Beralih ke sesuatu yang berbeda",
+      "ex": [
+        "Kami beralih ke paket telepon yang lebih murah.",
+        "Kantor itu sedang beralih ke sistem email baru.",
+        "Banyak pengemudi sudah beralih ke mobil listrik."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Memperkenalkan sesuatu secara luas",
+      "ex": [
+        "Bank itu memperkenalkan aplikasi barunya bulan lalu.",
+        "Kota itu akan memperkenalkan bus listrik tahun depan.",
+        "Perusahaan itu memperkenalkan pembaruan itu ke semua pengguna."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "traditional",
+      "def": "Digunakan atau dilakukan dengan cara yang sama untuk waktu yang lama",
+      "ex": [
+        "Keluarga itu membuat makan malam tradisional untuk Thanksgiving.",
+        "Sekolah itu masih menggunakan buku cetak tradisional.",
+        "Peta tradisional tergantung di dinding banyak ruang kelas."
+      ]
+    },
+    {
+      "word": "resolution",
+      "def": "Keputusan atau pernyataan resmi yang disepakati melalui pemungutan suara",
+      "ex": [
+        "Dewan itu mengesahkan resolusi untuk menanam lebih banyak pohon.",
+        "Resolusi itu didukung oleh sebagian besar anggota.",
+        "PBB mengesahkan resolusi tentang air bersih."
+      ]
+    },
+    {
+      "word": "backing",
+      "def": "Dukungan dari seseorang atau kelompok",
+      "ex": [
+        "Rencana itu memiliki dukungan dewan kota.",
+        "Tanpa dukungan finansial, proyek itu terhenti.",
+        "Dia memenangkan pemilu dengan dukungan kuat dari para guru."
+      ]
+    },
+    {
+      "word": "in favor",
+      "def": "Mendukung sesuatu dalam pemungutan suara",
+      "ex": [
+        "Dua belas anggota memilih mendukung rencana itu.",
+        "Sebagian besar orang tua mendukung hari sekolah yang lebih panjang.",
+        "Dewan memilih mendukung direktur baru."
+      ]
+    },
+    {
+      "word": "abstained",
+      "def": "Memilih untuk tidak memberikan suara mendukung atau menentang",
+      "ex": [
+        "Tiga anggota abstain dalam pemungutan suara itu.",
+        "Dia abstain karena tidak yakin dengan rencana itu.",
+        "Dua negara abstain dalam resolusi itu."
+      ]
+    },
+    {
+      "word": "mapmaker",
+      "def": "Orang yang menggambar peta",
+      "ex": [
+        "Pembuat peta itu menggambar setiap sungai dengan tangan.",
+        "Pembuat peta pada masa awal bekerja berdasarkan laporan para pelaut.",
+        "Museum itu menampilkan alat yang digunakan oleh pembuat peta pada abad ketujuh belas."
+      ]
+    },
+    {
+      "word": "compass direction",
+      "def": "Arah seperti utara, selatan, timur, atau barat",
+      "ex": [
+        "Para pendaki memeriksa arah kompas mereka setiap jam.",
+        "Setiap dinding candi itu menghadap arah kompas yang berbeda.",
+        "Papan tanda itu menunjukkan arah kompas menuju kota berikutnya."
+      ]
+    },
+    {
+      "word": "navigators",
+      "def": "Orang yang merencanakan dan memandu rute kapal atau pesawat",
+      "ex": [
+        "Navigator pada masa awal menggunakan bintang untuk menemukan jalan mereka.",
+        "Navigator itu memperingatkan kapten tentang batu karang di depan.",
+        "Navigator modern bergantung pada sinyal satelit."
+      ]
+    },
+    {
+      "word": "landmasses",
+      "def": "Wilayah daratan yang sangat luas, seperti benua",
+      "ex": [
+        "Asia adalah daratan terbesar di Bumi.",
+        "Jutaan tahun lalu, daratan-daratan itu masih menyatu.",
+        "Peta itu menunjukkan daratan dengan warna hijau."
+      ]
+    },
+    {
+      "word": "poles",
+      "def": "Titik paling utara dan paling selatan di Bumi",
+      "ex": [
+        "Es menutupi daratan di dekat kutub.",
+        "Matahari tidak pernah terbenam di musim panas di kutub.",
+        "Para penjelajah mencapai kedua kutub pada awal abad kedua puluh."
+      ]
+    },
+    {
+      "word": "projection",
+      "def": "Cara menggambar Bumi yang bulat pada peta yang datar",
+      "ex": [
+        "Setiap proyeksi peta mengubah bentuk atau ukuran dengan caranya sendiri.",
+        "Guru itu membandingkan dua proyeksi dunia.",
+        "Proyeksi ini menjaga ukuran setiap negara tetap benar."
+      ]
+    },
+    {
+      "word": "senior cartographer",
+      "def": "Pakar berpengalaman yang membuat peta",
+      "ex": [
+        "Dia bekerja sebagai kartografer senior untuk perusahaan perjalanan.",
+        "Kartografer senior itu memeriksa setiap jalan pada peta baru itu.",
+        "Badan itu mempekerjakan kartografer senior untuk memperbarui atlasnya."
+      ]
+    },
+    {
+      "word": "true proportions",
+      "def": "Ukuran yang benar dari hal-hal jika dibandingkan satu sama lain",
+      "ex": [
+        "Model itu menunjukkan planet-planet dalam proporsi aslinya.",
+        "Gambar itu tidak menunjukkan proporsi asli bangunan itu.",
+        "Globe menunjukkan semua benua dalam proporsi aslinya."
+      ]
+    },
+    {
+      "word": "distorted",
+      "def": "Diubah sehingga bentuk atau ukurannya tidak lagi benar",
+      "ex": [
+        "Cermin itu memberikan gambaran wajahnya yang terdistorsi.",
+        "Foto itu terlihat terdistorsi di bagian tepinya.",
+        "Suaranya terdengar terdistorsi di telepon."
+      ]
+    },
+    {
+      "word": "relative size",
+      "def": "Seberapa besar sesuatu dibandingkan dengan hal lain",
+      "ex": [
+        "Grafik itu menunjukkan ukuran relatif ekonomi setiap negara.",
+        "Anak-anak sering salah menebak ukuran relatif matahari dan bulan.",
+        "Ukuran relatif kedua kamar itu mengejutkan para pembeli."
+      ]
+    },
+    {
+      "word": "binding",
+      "def": "Harus dipatuhi berdasarkan hukum atau kesepakatan",
+      "ex": [
+        "Kontrak itu mengikat selama dua tahun.",
+        "Pemungutan suara itu tidak mengikat, jadi tidak ada yang berubah.",
+        "Keputusan hakim itu mengikat bagi kedua belah pihak."
+      ]
+    },
+    {
+      "word": "foreign minister",
+      "def": "Pejabat pemerintah yang bertanggung jawab atas hubungan dengan negara lain",
+      "ex": [
+        "Menteri luar negeri itu bertemu rekannya dari Jepang di Tokyo.",
+        "Menteri luar negeri itu berbicara di PBB pada hari Selasa.",
+        "Wartawan bertanya kepada menteri luar negeri tentang perundingan dagang."
+      ]
+    },
+    {
+      "word": "ideological",
+      "def": "Berdasarkan sekumpulan keyakinan politik",
+      "ex": [
+        "Kedua partai itu memiliki perbedaan ideologis yang mendalam.",
+        "Para kritikus menyebut undang-undang baru itu sebagai langkah ideologis.",
+        "Dia meninggalkan kelompok itu karena perbedaan ideologis."
+      ]
+    },
+    {
+      "word": "occupied territory",
+      "def": "Wilayah yang dikuasai oleh tentara asing",
+      "ex": [
+        "Kelompok bantuan kesulitan menjangkau wilayah pendudukan itu.",
+        "Peta wilayah pendudukan itu diperdebatkan selama bertahun-tahun.",
+        "Banyak keluarga melarikan diri dari wilayah pendudukan itu selama perang."
+      ]
+    },
+    {
+      "word": "bearing",
+      "def": "Pengaruh terhadap sesuatu atau hubungan dengan sesuatu",
+      "ex": [
+        "Cuaca tidak berpengaruh pada skor akhir.",
+        "Usianya memiliki sedikit pengaruh pada keputusan dokter itu.",
+        "Aturan baru itu tidak berpengaruh pada siswa saat ini."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Amerika Serikat adalah satu-satunya negara yang memilih menentang resolusi itu.",
+      "a": true,
+      "why": "Secara keseluruhan, 164 negara anggota memilih mendukung dan enam abstain, dan Amerika Serikat secara terbuka menentang resolusi itu, menyebutnya bagian dari proyek ideologis."
+    },
+    {
+      "s": "Resolusi itu melarang peta Mercator untuk navigasi laut dan udara.",
+      "a": false,
+      "why": "Resolusi itu tidak mengikat, tidak melarang Mercator, dan tidak menutup kemungkinan penggunaannya untuk navigasi laut dan udara."
+    },
+    {
+      "s": "Pada peta Mercator, Greenland terlihat kira-kira sama besar dengan Afrika.",
+      "a": true,
+      "why": "Peta itu membesarkan daratan di dekat kutub, padahal Afrika sekitar 14 kali lebih besar daripada Greenland."
+    },
+    {
+      "s": "Proyeksi Equal Earth diciptakan pada tahun 1569.",
+      "a": false,
+      "why": "Seorang mantan kartografer senior di Dinas Taman Nasional Amerika Serikat dan dua rekannya menciptakan Equal Earth pada tahun 2018; peta Mercator-lah yang berasal dari tahun 1569."
+    },
+    {
+      "s": "Togo mengajukan resolusi itu atas nama Kelompok Afrika.",
+      "a": true,
+      "why": "Togo mendapat dukungan Uni Afrika, dan resolusi itu disetujui dengan 164 suara mendukung."
+    },
+    {
+      "s": "Prancis mengatakan akan terus menggunakan peta Mercator untuk peta dunianya.",
+      "a": false,
+      "why": "Prancis mengatakan akan beralih ke Equal Earth untuk peta dunianya."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Majelis Umum PBB memberikan suara untuk mendorong penggunaan peta Equal Earth alih-alih peta Mercator, yang membuat Afrika terlihat jauh lebih kecil daripada ukuran aslinya. Pemungutan suara itu adalah anjuran, bukan larangan.",
+      "a": true,
+      "why": "Resolusi Togo disetujui dengan 164 berbanding 1 dan meminta pemerintah, sekolah, dan perusahaan untuk menggunakan Equal Earth, tetapi tidak mengikat dan tidak melarang Mercator."
+    },
+    {
+      "s": "Anggota PBB memilih untuk melarang peta Mercator dari sekolah dan kantor pemerintah di seluruh dunia. Setiap negara sekarang memiliki waktu hingga akhir tahun untuk beralih ke proyeksi Equal Earth.",
+      "a": false,
+      "why": "Hampir benar, tetapi resolusi itu hanya mendorong penggunaan Equal Earth. Resolusi itu tidak melarang Mercator atau memaksakan penggantinya, dan tidak menetapkan tenggat waktu bagi siapa pun."
+    },
+    {
+      "s": "Uni Afrika telah meluncurkan layanan peta daring miliknya sendiri yang menunjukkan benua itu dalam ukuran aslinya. Jutaan orang mengunduh aplikasi baru itu pada minggu pertamanya.",
+      "a": false,
+      "why": "Uni Afrika mendukung pemungutan suara PBB mengenai proyeksi peta. Uni Afrika tidak meluncurkan layanan peta ataupun aplikasi apa pun."
+    }
+  ],
+  "dialogue": {
+    "I had no idea": "Digunakan untuk mengatakan bahwa suatu fakta benar-benar baru dan mengejutkan bagimu",
+    "Old habits die hard": "Digunakan untuk mengatakan bahwa orang tetap melakukan sesuatu dengan cara lama meskipun ada cara yang lebih baik",
+    "About time": "Digunakan untuk mengatakan bahwa sesuatu seharusnya sudah terjadi jauh lebih awal",
+    "You can see their point": "Digunakan untuk mengatakan bahwa kekhawatiran atau pandangan seseorang bisa dipahami, meskipun kamu tidak sepenuhnya setuju",
+    "It's a start": "Digunakan untuk mengatakan bahwa langkah kecil tetap merupakan kemajuan, meskipun masih banyak yang perlu dilakukan"
+  }
+}

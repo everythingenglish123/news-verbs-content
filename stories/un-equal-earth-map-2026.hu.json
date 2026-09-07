@@ -1,0 +1,436 @@
+{
+  "id": "un-equal-earth-map-2026",
+  "number": 104,
+  "lang": "hu",
+  "headline": "Az ENSZ egy olyan térkép mellett szavazott, amely Afrika valódi méretét mutatja",
+  "chunks": [
+    "Az ENSZ Közgyűlése pénteken, 2026. szeptember 4-én szavazott arról, hogy ösztönzi a világot a hagyományos Mercator-térkép elhagyására. Togo nyújtotta be a határozatot az Afrikai Csoport nevében, az Afrikai Unió támogatásával. A határozatot 164 igen szavazattal fogadták el. Az Egyesült Államok volt az egyetlen ország, amely ellene szavazott, hat ország pedig, köztük Ukrajna és Szerbia, tartózkodott.",
+    "A Mercator-térkép 1569-re nyúlik vissza, amikor egy Mercator nevű flamand térképész tengerészek számára tervezte. A térképén egy egyenes vonal egy állandó iránytűiránynak felel meg, így a navigátorok egyetlen egyenes vonal mentén tervezhettek meg egy útvonalat. Ennek ára a méret volt. A térkép felnagyítja a pólusok közelében lévő szárazföldeket, így Grönland nagyjából ugyanakkorának tűnik, mint Afrika, pedig Afrika körülbelül 14-szer nagyobb.",
+    "Az Equal Earth vetület sokkal újabb. Az Egyesült Államok Nemzeti Parkszolgálatának egy korábbi vezető térképésze találta ki 2018-ban két kollégájával együtt. A kontinenseket valódi arányaikban mutatja, bár a formák kissé torzultak. A határozat felszólítja a kormányokat, iskolákat, nemzetközi szervezeteket és technológiai vállalatokat, hogy használják az Equal Earth-öt és hasonló térképeket, amikor a relatív méret számít. Nem kötelező érvényű. Nem tiltja be a Mercator-térképet, és nem zárja ki a tengeri és légi hajózásban való használatát.",
+    "Togo külügyminisztere azt mondta: „A térképek alakítják a világról alkotott felfogásunkat.” Az Egyesült Államok nyilvánosan kiállt a határozat ellen, ideológiai projekt részének nevezve azt. Ukrajna aggodalmát fejezte ki amiatt, hogyan jelenne meg a megszállt terület, az Európai Unió pedig kijelentette, hogy a szavazásnak semmi köze a határokhoz. Franciaország azt mondta, áttér az Equal Earth-re a világtérképeihez. Az Africa No Filter kampánycsoport azt szeretné, hogy pontos térképeket vezessenek be az iskolákban, tankönyvekben és hírszervezeteknél."
+  ],
+  "verbs": [
+    {
+      "base": "move away from",
+      "correct": "Felhagyni valaminek a használatával",
+      "wrong": "Áttérni a következő témára"
+    },
+    {
+      "base": "put forward",
+      "correct": "Hivatalosan javasolni valamit szavazásra",
+      "wrong": "Elhalasztani egy későbbi ülésre"
+    },
+    {
+      "base": "go through",
+      "correct": "Szavazással elfogadottá válni",
+      "wrong": "Hosszan vitatott témává válni"
+    },
+    {
+      "base": "date back",
+      "correct": "Egy adott idő óta létezni",
+      "wrong": "Egy új verzióval felváltva lenni"
+    },
+    {
+      "base": "map out",
+      "correct": "Részletesen megtervezni egy útvonalat",
+      "wrong": "Megmérni egy terület méretét"
+    },
+    {
+      "base": "blow up",
+      "correct": "Nagyobbnak mutatni valamit",
+      "wrong": "Lemásolni egy lapos felületre"
+    },
+    {
+      "base": "come across as",
+      "correct": "Egy bizonyos módon hatni",
+      "wrong": "Egy idő után egyetérteni"
+    },
+    {
+      "base": "come up with",
+      "correct": "Kitalálni valami újat",
+      "wrong": "Erős ellenállásba ütközni"
+    },
+    {
+      "base": "call on",
+      "correct": "Hivatalosan felszólítani valakit cselekvésre",
+      "wrong": "Lemondani valamit, amit korábban terveztek"
+    },
+    {
+      "base": "rule out",
+      "correct": "Kimondani, hogy valami nem megengedett",
+      "wrong": "Hivatalos döntést hozni valamiről"
+    },
+    {
+      "base": "speak out against",
+      "correct": "Nyilvánosan kiállni valami ellen",
+      "wrong": "Elmondani egy csoport véleményét"
+    },
+    {
+      "base": "switch over to",
+      "correct": "Áttérni valami másra",
+      "wrong": "Felváltva csinálni valamit"
+    },
+    {
+      "base": "roll out",
+      "correct": "Széles körben bevezetni valamit",
+      "wrong": "Visszatérni egy korábbi verzióhoz"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Move away from",
+      "def": "Felhagyni valaminek a használatával",
+      "ex": [
+        "A város fel akar hagyni a szén használatával.",
+        "Sok iroda felhagyott a papíralapú iratok használatával.",
+        "A légitársaság felhagy a készpénzes fizetéssel."
+      ]
+    },
+    {
+      "verb": "Put forward",
+      "def": "Hivatalosan javasolni valamit szavazásra",
+      "ex": [
+        "Javasolt egy tervet az utak javítására.",
+        "Két tag új szabályokat javasolt a klub számára.",
+        "Az ötletet a legutóbbi ülésen javasolták."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Szavazással elfogadottá válni",
+      "ex": [
+        "Az új törvényt múlt héten fogadták el.",
+        "A költségvetést nagyobb vita nélkül fogadták el.",
+        "Ha a tervet elfogadják, a park májusban nyit."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Egy adott idő óta létezni",
+      "ex": [
+        "A templom az 1200-as évek óta létezik.",
+        "Ez a hagyomány több száz éve létezik.",
+        "A barátságuk az egyetem óta létezik."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "def": "Részletesen megtervezni egy útvonalat",
+      "ex": [
+        "A konyhaasztalnál terveztük meg a autós utunkat.",
+        "A kapitány megtervezett egy útvonalat a vihar elkerülésére.",
+        "Megtervezte az utat a szállodától a múzeumig."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "def": "Nagyobbnak mutatni valamit",
+      "ex": [
+        "Az üzlet poszterméretűre nagyította a fotót.",
+        "Nagyítsd ki, hogy jobban lásd az apró szöveget.",
+        "A képernyő megnöveli a képet, hogy mindenki lássa."
+      ]
+    },
+    {
+      "verb": "Come across as",
+      "def": "Egy bizonyos módon hatni",
+      "ex": [
+        "Nagyon magabiztosnak hat.",
+        "Az e-mail kicsit hidegnek hatott.",
+        "Kamerán a kis szoba hatalmasnak hat."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Kitalálni valami újat",
+      "ex": [
+        "A csapat egy olcsóbb tervet talált ki.",
+        "Ki tudsz találni egy nevet az alkalmazásnak?",
+        "Öt perc alatt kitalált egy tervet."
+      ]
+    },
+    {
+      "verb": "Call on",
+      "def": "Hivatalosan felszólítani valakit cselekvésre",
+      "ex": [
+        "A polgármester felszólította a lakosokat, hogy takarékoskodjanak a vízzel.",
+        "A csoport felszólítja az iskolákat, hogy több természettudományt tanítsanak.",
+        "Az orvosok felszólították a kormányt, hogy gyorsan cselekedjen."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "def": "Kimondani, hogy valami nem megengedett",
+      "ex": [
+        "Az iskola kimondta, hogy a telefonok nem megengedettek a vizsgák alatt.",
+        "A szabályok nem mondják ki, hogy az otthoni munka nem megengedett.",
+        "A bérbeadó kimondta, hogy háziállatok nem megengedettek az épületben."
+      ]
+    },
+    {
+      "verb": "Speak out against",
+      "def": "Nyilvánosan kiállni valami ellen",
+      "ex": [
+        "A szülők nyilvánosan kiálltak az iskola bezárása ellen.",
+        "Több sportoló is nyilvánosan kiállt az új szabály ellen.",
+        "Ő volt az első, aki nyilvánosan kiállt a terv ellen."
+      ]
+    },
+    {
+      "verb": "Switch over to",
+      "def": "Áttérni valami másra",
+      "ex": [
+        "Áttértünk egy olcsóbb telefoncsomagra.",
+        "Az iroda áttér egy új e-mail rendszerre.",
+        "Sok sofőr áttért az elektromos autókra."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Széles körben bevezetni valamit",
+      "ex": [
+        "A bank múlt hónapban vezette be az új alkalmazását.",
+        "A város jövőre elektromos buszokat vezet be.",
+        "A vállalat minden felhasználó számára bevezette a frissítést."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "traditional",
+      "def": "Hosszú ideje ugyanúgy használt vagy készített",
+      "ex": [
+        "A család hagyományos vacsorát készített hálaadásra.",
+        "Az iskola még mindig hagyományos nyomtatott könyveket használ.",
+        "Hagyományos térképek lógnak sok osztályterem falán."
+      ]
+    },
+    {
+      "word": "resolution",
+      "def": "Szavazással elfogadott hivatalos döntés vagy nyilatkozat",
+      "ex": [
+        "A tanács határozatot fogadott el több fa ültetéséről.",
+        "A határozatot a tagok többsége támogatta.",
+        "Az ENSZ határozatot fogadott el a tiszta vízről."
+      ]
+    },
+    {
+      "word": "backing",
+      "def": "Egy személy vagy csoport támogatása",
+      "ex": [
+        "A tervnek megvan a városi tanács támogatása.",
+        "Anyagi támogatás nélkül a projekt leállt.",
+        "A tanárok erős támogatásával nyerte meg a választást."
+      ]
+    },
+    {
+      "word": "in favor",
+      "def": "Valaminek a támogatása egy szavazáson",
+      "ex": [
+        "Tizenkét tag szavazott a terv mellett.",
+        "A legtöbb szülő a hosszabb tanítási nap mellett van.",
+        "A testület az új igazgató mellett szavazott."
+      ]
+    },
+    {
+      "word": "abstained",
+      "def": "Úgy döntött, hogy sem mellette, sem ellene nem szavaz",
+      "ex": [
+        "Három tag tartózkodott a szavazáson.",
+        "Azért tartózkodott, mert nem volt biztos a tervben.",
+        "Két ország tartózkodott a határozatnál."
+      ]
+    },
+    {
+      "word": "mapmaker",
+      "def": "Egy személy, aki térképeket rajzol",
+      "ex": [
+        "A térképész minden folyót kézzel rajzolt meg.",
+        "A korai térképészek tengerészek beszámolóiból dolgoztak.",
+        "A múzeum egy 17. századi térképész eszközeit mutatja be."
+      ]
+    },
+    {
+      "word": "compass direction",
+      "def": "Egy irány, mint például észak, dél, kelet vagy nyugat",
+      "ex": [
+        "A túrázók óránként ellenőrizték az iránytűjük irányát.",
+        "A templom minden fala más iránytűirányba néz.",
+        "A tábla mutatja az iránytű irányát a következő városba."
+      ]
+    },
+    {
+      "word": "navigators",
+      "def": "Emberek, akik megtervezik és irányítják egy hajó vagy repülőgép útvonalát",
+      "ex": [
+        "A korai navigátorok a csillagokat használták az útjuk megtalálásához.",
+        "A navigátor figyelmeztette a kapitányt az előttük lévő sziklákra.",
+        "A modern navigátorok műholdas jelekre támaszkodnak."
+      ]
+    },
+    {
+      "word": "landmasses",
+      "def": "Nagyon nagy szárazföldi területek, például kontinensek",
+      "ex": [
+        "Ázsia a Föld legnagyobb szárazföldje.",
+        "Millió évekkel ezelőtt a szárazföldek egyben voltak.",
+        "A térkép zöld színnel mutatja a szárazföldeket."
+      ]
+    },
+    {
+      "word": "poles",
+      "def": "A Föld legészakibb és legdélibb pontjai",
+      "ex": [
+        "Jég borítja a pólusok közelében a szárazföldet.",
+        "Nyáron a pólusokon sosem nyugszik le a nap.",
+        "A felfedezők a 20. század elején mindkét pólust elérték."
+      ]
+    },
+    {
+      "word": "projection",
+      "def": "A kerek Föld ábrázolásának módja egy lapos térképen",
+      "ex": [
+        "Minden térképvetület valamilyen módon megváltoztatja a formákat vagy a méreteket.",
+        "A tanár összehasonlított két vetületet a világról.",
+        "Ez a vetület helyesen mutatja az országok méreteit."
+      ]
+    },
+    {
+      "word": "senior cartographer",
+      "def": "Egy tapasztalt szakértő, aki térképeket készít",
+      "ex": [
+        "Vezető térképészként dolgozott egy utazási cégnél.",
+        "A vezető térképész ellenőrizte az összes utat az új térképen.",
+        "Az ügynökség vezető térképészt vett fel, hogy frissítse az atlaszát."
+      ]
+    },
+    {
+      "word": "true proportions",
+      "def": "A dolgok egymáshoz viszonyított helyes méretei",
+      "ex": [
+        "A modell valódi arányaikban mutatja a bolygókat.",
+        "A rajz nem mutatja az épület valódi arányait.",
+        "A földgömb a kontinenseket a valódi arányaikban mutatja."
+      ]
+    },
+    {
+      "word": "distorted",
+      "def": "Úgy megváltoztatva, hogy a forma vagy a méret nem helyes",
+      "ex": [
+        "A tükör torz képet adott az arcáról.",
+        "A fotó torznak tűnt a szélein.",
+        "A hangja torznak tűnt a telefonban."
+      ]
+    },
+    {
+      "word": "relative size",
+      "def": "Hogy valami mekkora egy másik dologhoz képest",
+      "ex": [
+        "A diagram minden ország gazdaságának relatív méretét mutatja.",
+        "A gyerekek gyakran rosszul becsülik meg a Nap és a Hold relatív méretét.",
+        "A két szoba relatív mérete meglepte a vevőket."
+      ]
+    },
+    {
+      "word": "binding",
+      "def": "Törvény vagy megállapodás alapján kötelezően betartandó",
+      "ex": [
+        "A szerződés két évig kötelező érvényű.",
+        "A szavazás nem volt kötelező érvényű, így semmi sem változott.",
+        "A bíró döntése mindkét félre nézve kötelező érvényű."
+      ]
+    },
+    {
+      "word": "foreign minister",
+      "def": "A kormány tisztviselője, aki a más országokkal való kapcsolatokért felel",
+      "ex": [
+        "A külügyminiszter Tokióban találkozott japán kollégájával.",
+        "A külügyminiszter kedden beszélt az ENSZ-ben.",
+        "A riporterek megkérdezték a külügyminisztert a kereskedelmi tárgyalásokról."
+      ]
+    },
+    {
+      "word": "ideological",
+      "def": "Politikai meggyőződések összességén alapuló",
+      "ex": [
+        "A két pártnak mély ideológiai különbségei vannak.",
+        "A kritikusok ideológiai lépésnek nevezték az új törvényt.",
+        "Ideológiai nézeteltérések miatt hagyta el a csoportot."
+      ]
+    },
+    {
+      "word": "occupied territory",
+      "def": "Egy idegen hadsereg által ellenőrzött terület",
+      "ex": [
+        "A segélyszervezetek nehezen jutottak el a megszállt területre.",
+        "A megszállt terület térképei éveken át vitatottak voltak.",
+        "A háború alatt családok menekültek el a megszállt területről."
+      ]
+    },
+    {
+      "word": "bearing",
+      "def": "Hatás valamire, vagy kapcsolat valamivel",
+      "ex": [
+        "Az időjárásnak semmi hatása nem volt a végeredményre.",
+        "A kora bizonyos hatással van az orvos döntésére.",
+        "Az új szabálynak nincs hatása a jelenlegi diákokra."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Az Egyesült Államok volt az egyetlen ország, amely a határozat ellen szavazott.",
+      "a": true,
+      "why": "Összesen 164 tagállam szavazott mellette és hat tartózkodott, az Egyesült Államok pedig nyilvánosan kiállt a határozat ellen, ideológiai projekt részének nevezve azt."
+    },
+    {
+      "s": "A határozat betiltja a Mercator-térképet a tengeri és légi hajózásban.",
+      "a": false,
+      "why": "A határozat nem kötelező érvényű, nem tiltja be a Mercator-térképet, és nem zárja ki a tengeri és légi hajózásban való használatát."
+    },
+    {
+      "s": "A Mercator-térképen Grönland nagyjából ugyanakkorának tűnik, mint Afrika.",
+      "a": true,
+      "why": "A térkép felnagyítja a pólusok közelében lévő szárazföldeket, pedig Afrika körülbelül 14-szer nagyobb, mint Grönland."
+    },
+    {
+      "s": "Az Equal Earth vetületet 1569-ben hozták létre.",
+      "a": false,
+      "why": "Az Egyesült Államok Nemzeti Parkszolgálatának egy korábbi vezető térképésze két kollégájával 2018-ban találta ki az Equal Earth-öt; a Mercator-térkép az, amely 1569-re nyúlik vissza."
+    },
+    {
+      "s": "Togo nyújtotta be a határozatot az Afrikai Csoport nevében.",
+      "a": true,
+      "why": "Togónak megvolt az Afrikai Unió támogatása, és a határozatot 164 igen szavazattal fogadták el."
+    },
+    {
+      "s": "Franciaország azt mondta, továbbra is a Mercator-térképet fogja használni a világtérképeihez.",
+      "a": false,
+      "why": "Franciaország azt mondta, áttér az Equal Earth-re a világtérképeihez."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Az ENSZ Közgyűlése arra szavazott, hogy ösztönzi az Equal Earth térkép használatát a Mercator-térkép helyett, amely sokkal kisebbnek mutatja Afrikát, mint amilyen valójában. A szavazás egy ajánlás, nem tilalom.",
+      "a": true,
+      "why": "Togo határozatát 164:1 arányban fogadták el, és felszólítja a kormányokat, iskolákat és vállalatokat az Equal Earth használatára, de nem kötelező érvényű, és nem tiltja be a Mercatort."
+    },
+    {
+      "s": "Az ENSZ tagjai megszavazták, hogy világszerte betiltják a Mercator-térképet az iskolákban és a kormányzati hivatalokban. Minden országnak most az év végéig kell áttérnie az Equal Earth vetületre.",
+      "a": false,
+      "why": "Majdnem így van, de a határozat csak ösztönzi az Equal Earth használatát. Nem tiltja be a Mercatort, és nem ír elő cserét, és senkinek sem szab határidőt."
+    },
+    {
+      "s": "Az Afrikai Unió elindította saját online térképszolgáltatását, amely a kontinenst valódi méretében mutatja. Az első héten több millió ember töltötte le az új alkalmazást.",
+      "a": false,
+      "why": "Az Afrikai Unió támogatott egy ENSZ-szavazást a térképvetületekről. Nem indított térképszolgáltatást vagy alkalmazást."
+    }
+  ],
+  "dialogue": {
+    "I had no idea": "Akkor használjuk, amikor egy tény teljesen új és meglepő számodra",
+    "Old habits die hard": "Akkor használjuk, amikor az emberek a régi módon csinálnak dolgokat még akkor is, ha van jobb megoldás",
+    "About time": "Akkor használjuk, amikor valaminek sokkal korábban meg kellett volna történnie",
+    "You can see their point": "Akkor használjuk, amikor valakinek az aggodalma vagy nézete érthető, még ha nem is értesz vele teljesen egyet",
+    "It's a start": "Akkor használjuk, amikor egy kis lépés is előrelépés, még ha sokkal többre van is szükség"
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "it",
+  "headline": "L'IA impara a individuare una malattia cardiaca da una dozzina di esempi",
+  "chunks": [
+    "Un nuovo sistema di intelligenza artificiale può individuare segni di una malattia cardiaca dopo aver visto solo una dozzina di casi confermati circa, dicono i ricercatori dello Scripps Research in California. Lo studio sul sistema è uscito su The Lancet Digital Health il 1 settembre 2026. Per costruirlo, il team ha messo insieme più di 1,7 milioni di elettrocardiogrammi, registrazioni dell'attività elettrica del cuore, provenienti da più di 540.000 persone, insieme alle note dei medici su ogni caso.",
+    "Il sistema è un modello di base, un'IA che prima impara conoscenze generali e poi viene adattata a molti compiti. Ha imparato quali parole nella nota di un medico vanno insieme a quali schemi in una registrazione cardiaca. L'autore principale dello studio ha detto che un medico clinico impara allo stesso modo: non da un milione di esempi, ma capendo prima il cuore e poi vedendo pochi casi. Il modello costruisce poco a poco un quadro generale prima di concentrarsi su una singola malattia.",
+    "I ricercatori hanno provato il modello su più di 800.000 registrazioni cardiache. È rimasto al livello dei migliori modelli usando in media circa il 91 per cento in meno di dati etichettati a mano. Ha individuato attacchi cardiaci e altre due condizioni cardiache, e ha superato altri modelli nel prevedere un battito cardiaco irregolare a partire da registrazioni che sembravano normali. Ha anche previsto chi avrebbe sviluppato una malattia renale o il diabete di tipo 2 entro tre anni. Il vantaggio è sparito poco a poco una volta disponibili molti esempi etichettati.",
+    "Questo potrebbe aiutare con le malattie rare, dove esiste solo una manciata di casi ben etichettati, dice il team. Il modello può anche indicare quali parti del segnale cardiaco ha usato, così i medici possono controllare il suo ragionamento. Un coautore dello studio ha detto che servono ancora sperimentazioni cliniche per scoprire se i risultati restano validi nella cura reale dei pazienti. In seguito, il team prevede di inserire dati dai pronto soccorso e testare il modello con dispositivi indossabili."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "Individuare qualcosa",
+      "wrong": "Etichettare a mano"
+    },
+    {
+      "base": "come out",
+      "correct": "Essere pubblicato",
+      "wrong": "Essere testato altrove"
+    },
+    {
+      "base": "put together",
+      "correct": "Mettere insieme cose in un unico gruppo",
+      "wrong": "Conservare in un luogo sicuro e chiuso"
+    },
+    {
+      "base": "go with",
+      "correct": "Andare insieme a qualcosa",
+      "wrong": "Controllare qualcosa con attenzione"
+    },
+    {
+      "base": "build up",
+      "correct": "Sviluppare qualcosa poco a poco",
+      "wrong": "Includere come parte fissa"
+    },
+    {
+      "base": "zero in on",
+      "correct": "Concentrarsi su una sola cosa",
+      "wrong": "Trattare ogni caso allo stesso modo"
+    },
+    {
+      "base": "try out",
+      "correct": "Provare qualcosa per vedere come funziona",
+      "wrong": "Rifare lo stesso studio in un altro posto"
+    },
+    {
+      "base": "keep up with",
+      "correct": "Restare allo stesso livello di",
+      "wrong": "Escludere dati da un test"
+    },
+    {
+      "base": "fall away",
+      "correct": "Sparire poco a poco",
+      "wrong": "Essere più lento degli altri"
+    },
+    {
+      "base": "point out",
+      "correct": "Mostrare o indicare qualcosa",
+      "wrong": "Inviare un segnale a un dispositivo"
+    },
+    {
+      "base": "find out",
+      "correct": "Scoprire se qualcosa è vero",
+      "wrong": "Rendere pubblico qualcosa"
+    },
+    {
+      "base": "carry over",
+      "correct": "Restare valido per altri pazienti",
+      "wrong": "Svolgere un lavoro già pianificato"
+    },
+    {
+      "base": "bring in",
+      "correct": "Aggiungere qualcosa di nuovo a un sistema",
+      "wrong": "Menzionare un tema per discuterne"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "Individuare qualcosa",
+      "ex": [
+        "Il test può individuare il virus in anticipo.",
+        "Un cane può individuare un odore da lontano.",
+        "Lo scanner ha individuato una piccola crepa nel tubo."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "Essere pubblicato",
+      "ex": [
+        "Il rapporto è uscito lunedì.",
+        "Il suo nuovo libro esce a maggio.",
+        "I risultati escono la prossima settimana."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "Mettere insieme cose in un unico gruppo",
+      "ex": [
+        "Il team ha messo insieme una lista di 200 pazienti.",
+        "Lei ha messo insieme un album di foto per i genitori.",
+        "Il museo ha messo insieme una mostra di mappe antiche."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "Andare insieme a qualcosa",
+      "ex": [
+        "Questa salsa va bene con il pesce.",
+        "Quali sintomi vanno insieme all'influenza?",
+        "La cravatta blu sta bene con il tuo completo grigio."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "Sviluppare qualcosa poco a poco",
+      "ex": [
+        "Lei ha sviluppato una squadra solida in cinque anni.",
+        "Il corridore ha guadagnato velocità poco a poco durante la stagione.",
+        "Il negozio si è costruito poco a poco una lista di clienti abituali."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "Concentrarsi su una sola cosa",
+      "ex": [
+        "Il detective si è concentrato su un solo sospettato.",
+        "Il falco si è concentrato su un topo.",
+        "Concentriamoci sul problema principale."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Provare qualcosa per vedere come funziona",
+      "ex": [
+        "Puoi provare la bici prima di comprarla.",
+        "Lo chef ha provato una nuova ricetta.",
+        "Abbiamo provato l'app con alcuni utenti."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "Restare allo stesso livello di",
+      "ex": [
+        "Il vecchio computer non riesce a stare al livello del nuovo.",
+        "Lei è rimasta al livello dei corridori più veloci.",
+        "Il forno non riesce a stare al passo con gli ordini di dicembre."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "Sparire poco a poco",
+      "ex": [
+        "Il sostegno al piano è sparito poco a poco.",
+        "Il rumore è sparito poco a poco quando l'oratore ha iniziato.",
+        "Il suo vantaggio è sparito poco a poco nell'ultimo miglio."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Mostrare o indicare qualcosa",
+      "ex": [
+        "La guida ha mostrato la casa più antica.",
+        "Lei ha segnalato un errore nella mia email.",
+        "La mappa indica il percorso più sicuro."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "Scoprire se qualcosa è vero",
+      "ex": [
+        "Dobbiamo scoprire se il farmaco è sicuro.",
+        "Dobbiamo scoprire se il tetto perde ancora.",
+        "Ha chiamato per scoprire se il treno era in ritardo."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "Restare valido per altri pazienti",
+      "ex": [
+        "Le abilità del calcio restano valide in altri sport.",
+        "I risultati restano validi anche per i pazienti più giovani.",
+        "Le buone abitudini della scuola restano valide sul lavoro."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Aggiungere qualcosa di nuovo a un sistema",
+      "ex": [
+        "La città ha introdotto un nuovo programma di riciclaggio.",
+        "La scuola ha introdotto un nuovo orario.",
+        "Prevedono di inserire dati da più cliniche."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "Dodici, o circa dodici",
+      "ex": [
+        "Ha comprato una dozzina di uova.",
+        "Circa una dozzina di persone sono venute alla riunione.",
+        "La squadra ha una dozzina di giocatori."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "Casi di una malattia che i medici hanno controllato e di cui sono sicuri",
+      "ex": [
+        "La città ha 40 casi confermati di morbillo.",
+        "Solo i casi confermati contano nel rapporto.",
+        "I casi confermati sono aumentati la settimana scorsa."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "Registrazioni dell'attività elettrica del cuore",
+      "ex": [
+        "Gli elettrocardiogrammi richiedono solo pochi minuti.",
+        "La clinica conserva vecchi elettrocardiogrammi.",
+        "Gli elettrocardiogrammi possono mostrare un attacco cardiaco."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "Un sistema di IA addestrato su una grande quantità di dati, poi adattato per molti usi",
+      "ex": [
+        "Un modello di base può essere adattato per molti compiti.",
+        "L'azienda ha costruito un modello di base per il linguaggio.",
+        "Addestrare un modello di base richiede enormi quantità di dati."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "Modificato per adattarsi a un nuovo scopo",
+      "ex": [
+        "Il libro è stato adattato per il teatro.",
+        "La lezione è stata adattata per bambini più piccoli.",
+        "Lo strumento è stato adattato per l'uso negli ospedali."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "Un medico o un infermiere che cura i pazienti",
+      "ex": [
+        "Un medico ha controllato il cuore del paziente.",
+        "I medici scrivono note dopo ogni visita.",
+        "L'app è stata progettata con i medici."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "Una comprensione ampia di qualcosa, senza i dettagli",
+      "ex": [
+        "Dammi prima il quadro generale.",
+        "Il rapporto dà un quadro generale dell'economia.",
+        "Aveva un quadro generale di come funziona il motore."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "Etichettato da una persona, un elemento alla volta",
+      "ex": [
+        "I dati etichettati a mano sono lenti da produrre.",
+        "Ogni foto etichettata a mano richiedeva un minuto.",
+        "Il modello ha bisogno di meno dati etichettati a mano."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "Eventi improvvisi in cui il sangue smette di arrivare a una parte del cuore",
+      "ex": [
+        "Gli attacchi cardiaci sono più comuni in inverno.",
+        "Ha avuto un attacco cardiaco a 52 anni.",
+        "Il dolore al petto può essere un segno di un attacco cardiaco."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "Un ritmo cardiaco che non è costante",
+      "ex": [
+        "Il medico ha notato un battito cardiaco irregolare.",
+        "Un battito cardiaco irregolare può causare capogiri.",
+        "Il suo orologio l'ha avvisata di un battito cardiaco irregolare."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "Una malattia in cui i reni smettono di pulire bene il sangue",
+      "ex": [
+        "La malattia renale spesso si sviluppa lentamente.",
+        "La pressione alta può portare a una malattia renale.",
+        "Lui prende medicine per la malattia renale."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "Qualcosa che rende una cosa migliore delle altre",
+      "ex": [
+        "La velocità è il principale vantaggio del nuovo treno.",
+        "La squadra di casa ha un vantaggio.",
+        "Il vantaggio è scomparso dopo un anno."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "Malattie che hanno pochissime persone",
+      "ex": [
+        "Le malattie rare sono spesso difficili da diagnosticare.",
+        "La clinica cura diverse malattie rare.",
+        "Pochi medici hanno visto questa malattia rara."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "Un numero molto piccolo di",
+      "ex": [
+        "È venuta solo una manciata di persone.",
+        "Una manciata di scuole ha provato il programma.",
+        "Lei ha una manciata di amici stretti."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "I passaggi di pensiero dietro una decisione",
+      "ex": [
+        "Spiega il tuo ragionamento alla classe.",
+        "La giudice ha dato il suo ragionamento per iscritto.",
+        "Non seguo il suo ragionamento."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "Test di un trattamento o di uno strumento su pazienti reali",
+      "ex": [
+        "Il farmaco ha superato tre sperimentazioni cliniche.",
+        "Le sperimentazioni cliniche possono durare anni.",
+        "I pazienti si sono offerti volontari per la sperimentazione clinica."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "Il trattamento e l'aiuto che ricevono i pazienti",
+      "ex": [
+        "Gli infermieri sono centrali per la cura dei pazienti.",
+        "L'ospedale ha migliorato la cura dei pazienti l'anno scorso.",
+        "Registri migliori portano a una migliore cura dei pazienti."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "Aree dell'ospedale che curano casi improvvisi e gravi",
+      "ex": [
+        "I pronto soccorso sono più affollati nei weekend.",
+        "Ha aspettato tre ore al pronto soccorso.",
+        "I pronto soccorso vedono molti casi di dolore al petto."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "Piccoli dispositivi elettronici indossati sul corpo, come gli smartwatch",
+      "ex": [
+        "I dispositivi indossabili possono contare i tuoi passi.",
+        "Alcuni dispositivi indossabili registrano il ritmo cardiaco.",
+        "Le vendite di dispositivi indossabili sono aumentate quest'anno."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Il modello è stato addestrato su più di 1,7 milioni di registrazioni cardiache.",
+      "a": true,
+      "why": "Il team ha messo insieme più di 1,7 milioni di registrazioni cardiache provenienti da più di 540.000 persone, insieme alle note che i medici avevano scritto su di loro."
+    },
+    {
+      "s": "Il modello ha bisogno di migliaia di casi confermati per imparare una nuova malattia.",
+      "a": false,
+      "why": "Il sistema può individuare segni di una malattia cardiaca dopo aver visto solo una dozzina di casi confermati circa, dicono i ricercatori."
+    },
+    {
+      "s": "Il sistema ha usato circa il 91 per cento in meno di dati etichettati a mano rispetto ai modelli standard.",
+      "a": true,
+      "why": "È rimasto al livello dei migliori modelli usando in media circa il 91 per cento in meno di dati etichettati a mano."
+    },
+    {
+      "s": "I ricercatori hanno testato il modello su più di 800.000 registrazioni cardiache.",
+      "a": true,
+      "why": "Hanno provato il modello su più di 800.000 registrazioni cardiache, e ha individuato attacchi cardiaci e altre due condizioni cardiache."
+    },
+    {
+      "s": "Lo studio è uscito sulla rivista Nature.",
+      "a": false,
+      "why": "È uscito su The Lancet Digital Health il 1 settembre 2026."
+    },
+    {
+      "s": "Il team dice che il modello è pronto per l'uso con pazienti reali.",
+      "a": false,
+      "why": "Un coautore dello studio ha detto che servono ancora sperimentazioni cliniche per scoprire se i risultati restano validi nella cura reale dei pazienti."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "I ricercatori hanno creato un modello di IA che ha imparato da 1,7 milioni di registrazioni cardiache e note dei medici. Ora può riconoscere una malattia cardiaca da una dozzina di esempi, il che potrebbe aiutare con le malattie rare.",
+      "a": true,
+      "why": "Il sistema è stato addestrato su più di 1,7 milioni di registrazioni cardiache abbinate alle note dei medici, e ha bisogno solo di circa una dozzina di casi confermati per individuare una malattia, utile dove esistono pochi casi etichettati."
+    },
+    {
+      "s": "Un nuovo modello di IA può individuare una malattia cardiaca dopo aver visto solo una dozzina di casi confermati circa. Poiché ha bisogno di così pochi dati, i suoi creatori dicono che gli ospedali possono iniziare a usarlo subito sui pazienti.",
+      "a": false,
+      "why": "Quasi, ma i ricercatori dicono che servono ancora sperimentazioni cliniche per scoprire se i risultati restano validi nella cura reale dei pazienti."
+    },
+    {
+      "s": "Uno studio ospedaliero ha scoperto che gli smartwatch possono avvisare le persone di un battito cardiaco irregolare giorni prima che inizino i sintomi. I cardiologi dicono che gli avvisi hanno portato a un trattamento più precoce per centinaia di pazienti.",
+      "a": false,
+      "why": "Non c'è stato nessuno studio sugli smartwatch né avvisi per i pazienti. La notizia è un nuovo modello di IA che impara a individuare una malattia cardiaca da pochissimi esempi etichettati."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "Si usa per dire che qualcosa è la ragione principale o la parte più importante di un'idea",
+    "Sounds promising": "Si usa per dire che qualcosa sembra avere buone probabilità di riuscire o funzionare bene",
+    "Not so fast": "Si usa per fermare qualcuno che sta procedendo o decidendo troppo in fretta",
+    "Trust, but verify": "Si usa per dire che accetti qualcosa ma vuoi comunque controllarlo di persona",
+    "Better safe than sorry": "Si usa per dire che vale la pena essere prudenti, anche se costa più tempo o impegno"
+  }
+}

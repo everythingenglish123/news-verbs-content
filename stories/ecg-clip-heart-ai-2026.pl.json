@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "pl",
+  "headline": "Sztuczna inteligencja uczy się rozpoznawać choroby serca na podstawie kilkunastu przykładów",
+  "chunks": [
+    "Nowy system AI potrafi wykryć oznaki choroby serca po zobaczeniu zaledwie kilkunastu potwierdzonych przypadków, twierdzą naukowcy z Scripps Research w Kalifornii. Badanie na temat systemu ukazało się w czasopiśmie The Lancet Digital Health 1 września 2026 roku. Aby go zbudować, zespół zebrał ponad 1,7 miliona elektrokardiogramów, czyli zapisów aktywności elektrycznej serca, od ponad 540 000 osób, wraz z notatkami lekarzy dotyczącymi każdego przypadku.",
+    "System jest modelem podstawowym, czyli AI, które najpierw uczy się ogólnej wiedzy, a potem jest dostosowywane do wielu zadań. Nauczył się, które słowa w notatce lekarza pasują do jakich wzorców w zapisie serca. Główny autor badania powiedział, że lekarz kliniczny uczy się tak samo: nie z miliona przykładów, ale najpierw rozumiejąc serce, a potem widząc kilka przypadków. Model buduje ogólny obraz, zanim skupi się na jednej chorobie.",
+    "Naukowcy przetestowali model na ponad 800 000 zapisach serca. Dorównywał najlepszym modelom, wykorzystując przy tym średnio o około 91 procent mniej danych oznaczonych ręcznie. Wykrył zawały serca i dwie inne choroby serca, a w przewidywaniu nieregularnego rytmu serca na podstawie zapisów, które wyglądały prawidłowo, przewyższył inne modele. Przewidział też, u kogo w ciągu trzech lat rozwinie się choroba nerek lub cukrzyca typu 2. Przewaga zniknęła, gdy dostępnych było wiele oznaczonych przykładów.",
+    "To może pomóc w przypadku rzadkich chorób, gdzie istnieje tylko garstka dobrze oznaczonych przypadków, twierdzi zespół. Model może też wskazać, których części sygnału serca użył, dzięki czemu lekarze mogą sprawdzić jego rozumowanie. Współautor badania powiedział, że nadal potrzebne są badania kliniczne, aby dowiedzieć się, czy wyniki przenoszą się na rzeczywistą opiekę nad pacjentem. Następnie zespół planuje wprowadzić dane z izb przyjęć i przetestować model z urządzeniami do noszenia."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "Wykryć coś",
+      "wrong": "Oznaczać ręcznie"
+    },
+    {
+      "base": "come out",
+      "correct": "Zostać opublikowanym",
+      "wrong": "Być testowanym w klinice"
+    },
+    {
+      "base": "put together",
+      "correct": "Zebrać rzeczy w jeden zestaw",
+      "wrong": "Przechowywać w bezpiecznym miejscu"
+    },
+    {
+      "base": "go with",
+      "correct": "Pasować do czegoś",
+      "wrong": "Dokładnie coś sprawdzić"
+    },
+    {
+      "base": "build up",
+      "correct": "Rozwijać coś stopniowo",
+      "wrong": "Uwzględnić jako stały element"
+    },
+    {
+      "base": "zero in on",
+      "correct": "Skupić całą uwagę na jednej rzeczy",
+      "wrong": "Traktować każdy przypadek tak samo"
+    },
+    {
+      "base": "try out",
+      "correct": "Wypróbować coś",
+      "wrong": "Powtórzyć gdzie indziej"
+    },
+    {
+      "base": "keep up with",
+      "correct": "Utrzymać ten sam poziom co",
+      "wrong": "Wykluczyć dane z testu"
+    },
+    {
+      "base": "fall away",
+      "correct": "Powoli zniknąć",
+      "wrong": "Wolniej niż inni"
+    },
+    {
+      "base": "point out",
+      "correct": "Wskazać coś",
+      "wrong": "Wysłać sygnał"
+    },
+    {
+      "base": "find out",
+      "correct": "Dowiedzieć się, czy coś jest prawdą",
+      "wrong": "Podać coś do wiadomości publicznej"
+    },
+    {
+      "base": "carry over",
+      "correct": "Pozostać prawdziwym dla innych pacjentów",
+      "wrong": "Wykonać wcześniej zaplanowane zadanie"
+    },
+    {
+      "base": "bring in",
+      "correct": "Dodać coś nowego do systemu",
+      "wrong": "Wspomnieć temat do dyskusji"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "Wykryć coś",
+      "ex": [
+        "Test może wykryć wirusa wcześnie.",
+        "Pies może wykryć zapach z daleka.",
+        "Skaner wykrył małe pęknięcie w rurze."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "Zostać opublikowanym",
+      "ex": [
+        "Raport został opublikowany w poniedziałek.",
+        "Jej nowa książka wychodzi w maju.",
+        "Wyniki zostaną opublikowane w przyszłym tygodniu."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "Zebrać rzeczy w jeden zestaw",
+      "ex": [
+        "Zespół zebrał listę 200 pacjentów.",
+        "Zebrała album ze zdjęciami dla rodziców.",
+        "Muzeum zorganizowało wystawę starych map."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "Pasować do czegoś",
+      "ex": [
+        "Ten sos pasuje do ryby.",
+        "Które objawy pasują do grypy?",
+        "Niebieski krawat pasuje do szarego garnituru."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "Rozwijać coś stopniowo",
+      "ex": [
+        "Przez pięć lat zbudowała silny zespół.",
+        "Biegacz stopniowo zwiększał prędkość w sezonie.",
+        "Sklep stopniowo powiększał listę stałych klientów."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "Skupić całą uwagę na jednej rzeczy",
+      "ex": [
+        "Detektyw skupił się na jednym podejrzanym.",
+        "Jastrząb skupił się na jednej myszy.",
+        "Skupmy się na głównym problemie."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Wypróbować coś",
+      "ex": [
+        "Możesz wypróbować rower przed zakupem.",
+        "Kucharz wypróbował nowy przepis.",
+        "Wypróbowaliśmy aplikację na kilku użytkownikach."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "Utrzymać ten sam poziom co",
+      "ex": [
+        "Stary komputer nie nadąża za nowym.",
+        "Utrzymywała tempo najszybszych biegaczy.",
+        "Piekarnia nie nadąża z zamówieniami w grudniu."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "Powoli zniknąć",
+      "ex": [
+        "Poparcie dla planu powoli zniknęło.",
+        "Hałas powoli ucichł, gdy mówca zaczął mówić.",
+        "Jego przewaga zniknęła na ostatniej mili."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Wskazać coś",
+      "ex": [
+        "Przewodnik wskazał najstarszy dom.",
+        "Wskazała błąd w moim e-mailu.",
+        "Mapa wskazuje najbezpieczniejszą trasę."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "Dowiedzieć się, czy coś jest prawdą",
+      "ex": [
+        "Musimy dowiedzieć się, czy lek jest bezpieczny.",
+        "Musimy dowiedzieć się, czy dach nadal przecieka.",
+        "Zadzwoniła, żeby dowiedzieć się, czy pociąg się spóźnia."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "Pozostać prawdziwym dla innych pacjentów",
+      "ex": [
+        "Umiejętności z piłki nożnej przenoszą się na inne sporty.",
+        "Wyniki pozostają prawdziwe także dla młodszych pacjentów.",
+        "Dobre nawyki ze szkoły przenoszą się do pracy."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Dodać coś nowego do systemu",
+      "ex": [
+        "Miasto wprowadziło nowy program recyklingu.",
+        "Szkoła wprowadziła nowy plan zajęć.",
+        "Planują wprowadzić dane z większej liczby klinik."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "Dwanaście, albo około dwunastu",
+      "ex": [
+        "Kupiła tuzin jajek.",
+        "Na spotkanie przyszło około tuzina osób.",
+        "Drużyna ma tuzin zawodników."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "Przypadki choroby, które lekarze sprawdzili i są ich pewni",
+      "ex": [
+        "Miasto ma 40 potwierdzonych przypadków odry.",
+        "W raporcie liczą się tylko potwierdzone przypadki.",
+        "Potwierdzone przypadki wzrosły w zeszłym tygodniu."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "Zapisy aktywności elektrycznej serca",
+      "ex": [
+        "Elektrokardiogram trwa tylko kilka minut.",
+        "Klinika przechowuje stare elektrokardiogramy.",
+        "Elektrokardiogram może wykazać zawał serca."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "System AI wytrenowany na dużej ilości danych, a potem dostosowany do wielu zastosowań",
+      "ex": [
+        "Model podstawowy można dostosować do wielu zadań.",
+        "Firma zbudowała model podstawowy dla języka.",
+        "Trenowanie modelu podstawowego wymaga ogromnych ilości danych."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "Zmieniony, aby pasować do nowego celu",
+      "ex": [
+        "Książka została zaadaptowana na scenę.",
+        "Lekcja została dostosowana dla młodszych dzieci.",
+        "Narzędzie zostało dostosowane do użytku w szpitalach."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "Lekarz lub pielęgniarka, którzy leczą pacjentów",
+      "ex": [
+        "Lekarz kliniczny sprawdził serce pacjenta.",
+        "Lekarze kliniczni piszą notatki po każdej wizycie.",
+        "Aplikacja została zaprojektowana z lekarzami klinicznymi."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "Ogólne zrozumienie czegoś, bez szczegółów",
+      "ex": [
+        "Podaj mi najpierw ogólny obraz.",
+        "Raport daje ogólny obraz gospodarki.",
+        "Miała ogólny obraz tego, jak działa silnik."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "Oznaczony przez osobę, po jednej rzeczy naraz",
+      "ex": [
+        "Dane oznaczone ręcznie powstają powoli.",
+        "Oznaczenie każdego zdjęcia ręcznie zajmowało minutę.",
+        "Model potrzebuje mniej danych oznaczonych ręcznie."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "Nagłe zdarzenia, w których krew przestaje docierać do części serca",
+      "ex": [
+        "Zawały serca są częstsze zimą.",
+        "Miał zawał serca w wieku 52 lat.",
+        "Ból w klatce piersiowej może być oznaką zawału serca."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "Rytm serca, który nie jest stały",
+      "ex": [
+        "Lekarz zauważył nieregularny rytm serca.",
+        "Nieregularny rytm serca może powodować zawroty głowy.",
+        "Jej zegarek ostrzegł ją przed nieregularnym rytmem serca."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "Choroba, w której nerki przestają dobrze oczyszczać krew",
+      "ex": [
+        "Choroba nerek często rozwija się powoli.",
+        "Wysokie ciśnienie krwi może prowadzić do choroby nerek.",
+        "Bierze leki na chorobę nerek."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "Coś, co czyni jedną rzecz lepszą od innych",
+      "ex": [
+        "Prędkość jest główną zaletą nowego pociągu.",
+        "Drużyna gospodarzy ma przewagę.",
+        "Przewaga zniknęła po roku."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "Choroby, na które choruje bardzo mało osób",
+      "ex": [
+        "Rzadkie choroby są często trudne do zdiagnozowania.",
+        "Klinika leczy kilka rzadkich chorób.",
+        "Niewielu lekarzy widziało tę rzadką chorobę."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "Bardzo mała liczba",
+      "ex": [
+        "Przyszła tylko garstka osób.",
+        "Garstka szkół wypróbowała ten program.",
+        "Ma garstkę bliskich przyjaciół."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "Kroki myślenia stojące za decyzją",
+      "ex": [
+        "Wyjaśnij klasie swój tok rozumowania.",
+        "Sędzia przedstawił swoje uzasadnienie na piśmie.",
+        "Nie nadążam za jego tokiem rozumowania."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "Testy leczenia lub narzędzia na prawdziwych pacjentach",
+      "ex": [
+        "Lek przeszedł trzy badania kliniczne.",
+        "Badania kliniczne mogą trwać latami.",
+        "Pacjenci zgłosili się na ochotnika do badania klinicznego."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "Leczenie i pomoc, jaką otrzymują pacjenci",
+      "ex": [
+        "Pielęgniarki są kluczowe dla opieki nad pacjentem.",
+        "Szpital poprawił opiekę nad pacjentem w zeszłym roku.",
+        "Lepsza dokumentacja prowadzi do lepszej opieki nad pacjentem."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "Oddziały szpitalne leczące nagłe, poważne przypadki",
+      "ex": [
+        "Izby przyjęć są najbardziej zapełnione w weekendy.",
+        "Czekał trzy godziny na izbie przyjęć.",
+        "Izby przyjęć widzą wiele przypadków bólu w klatce piersiowej."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "Małe urządzenia elektroniczne noszone na ciele, jak smartwatche",
+      "ex": [
+        "Urządzenia do noszenia mogą liczyć twoje kroki.",
+        "Niektóre urządzenia do noszenia rejestrują rytm serca.",
+        "Sprzedaż urządzeń do noszenia wzrosła w tym roku."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Model był trenowany na ponad 1,7 miliona zapisów serca.",
+      "a": true,
+      "why": "Zespół zebrał ponad 1,7 miliona zapisów serca od ponad 540 000 osób, wraz z notatkami, które napisali o nich lekarze."
+    },
+    {
+      "s": "Model potrzebuje tysięcy potwierdzonych przypadków, aby nauczyć się nowej choroby.",
+      "a": false,
+      "why": "System potrafi wykryć oznaki choroby serca po zobaczeniu zaledwie kilkunastu potwierdzonych przypadków, twierdzą naukowcy."
+    },
+    {
+      "s": "System wykorzystał około 91 procent mniej danych oznaczonych ręcznie niż standardowe modele.",
+      "a": true,
+      "why": "Dorównywał najlepszym modelom, wykorzystując przy tym średnio o około 91 procent mniej danych oznaczonych ręcznie."
+    },
+    {
+      "s": "Naukowcy przetestowali model na ponad 800 000 zapisów serca.",
+      "a": true,
+      "why": "Przetestowali model na ponad 800 000 zapisach serca, a on wykrył zawały serca i dwie inne choroby serca."
+    },
+    {
+      "s": "Badanie ukazało się w czasopiśmie Nature.",
+      "a": false,
+      "why": "Ukazało się w The Lancet Digital Health 1 września 2026 roku."
+    },
+    {
+      "s": "Zespół twierdzi, że model jest gotowy do stosowania u prawdziwych pacjentów.",
+      "a": false,
+      "why": "Współautor badania powiedział, że nadal potrzebne są badania kliniczne, aby dowiedzieć się, czy wyniki przenoszą się na rzeczywistą opiekę nad pacjentem."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Naukowcy zbudowali model AI, który uczył się na podstawie 1,7 miliona zapisów serca i notatek lekarzy. Teraz potrafi rozpoznać chorobę serca na podstawie kilkunastu przykładów, co może pomóc w przypadku rzadkich chorób.",
+      "a": true,
+      "why": "System był trenowany na ponad 1,7 miliona zapisów serca połączonych z notatkami lekarzy klinicznych, i potrzebuje jedynie kilkunastu potwierdzonych przypadków, aby wykryć chorobę, co jest przydatne tam, gdzie istnieje mało oznaczonych przypadków."
+    },
+    {
+      "s": "Nowy model AI potrafi wykryć chorobę serca po zobaczeniu zaledwie kilkunastu potwierdzonych przypadków. Ponieważ potrzebuje tak mało danych, jego twórcy twierdzą, że szpitale mogą od razu zacząć używać go u pacjentów.",
+      "a": false,
+      "why": "Blisko, ale naukowcy twierdzą, że nadal potrzebne są badania kliniczne, aby dowiedzieć się, czy wyniki przenoszą się na rzeczywistą opiekę nad pacjentem."
+    },
+    {
+      "s": "Badanie szpitalne wykazało, że smartwatche mogą ostrzegać ludzi przed nieregularnym rytmem serca na kilka dni przed pojawieniem się objawów. Kardiolodzy twierdzą, że alerty doprowadziły do wcześniejszego leczenia setek pacjentów.",
+      "a": false,
+      "why": "Nie było żadnego badania smartwatchy ani alertów dla pacjentów. Wiadomością jest nowy model AI, który uczy się wykrywać choroby serca na podstawie bardzo niewielu oznaczonych przykładów."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "Używane, aby powiedzieć, że coś jest głównym powodem lub najważniejszą częścią pomysłu",
+    "Sounds promising": "Używane, aby powiedzieć, że coś wydaje się mieć szansę na sukces lub dobre działanie",
+    "Not so fast": "Używane, aby zatrzymać kogoś, kto działa lub decyduje zbyt szybko",
+    "Trust, but verify": "Używane, aby powiedzieć, że akceptujesz coś, ale nadal chcesz to sprawdzić samodzielnie",
+    "Better safe than sorry": "Używane, aby powiedzieć, że ostrożność jest warta dodatkowego czasu lub wysiłku"
+  }
+}

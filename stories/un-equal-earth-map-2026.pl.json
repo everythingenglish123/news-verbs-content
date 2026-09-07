@@ -1,0 +1,436 @@
+{
+  "id": "un-equal-earth-map-2026",
+  "number": 104,
+  "lang": "pl",
+  "headline": "ONZ głosuje za mapą pokazującą prawdziwy rozmiar Afryki",
+  "chunks": [
+    "Zgromadzenie Ogólne ONZ przegłosowało w piątek, 4 września 2026 roku, zachętę dla świata do odejścia od tradycyjnej mapy Merkatora. Togo zgłosiło uchwałę w imieniu Grupy Afrykańskiej, z poparciem Unii Afrykańskiej. Uchwała została zatwierdzona 164 głosami za. Stany Zjednoczone były jedynym krajem, który zagłosował przeciw, a sześć krajów, w tym Ukraina i Serbia, wstrzymało się od głosu.",
+    "Mapa Merkatora istnieje od 1569 roku, kiedy flamandzki kartograf o nazwisku Merkator zaprojektował ją dla żeglarzy. Na jego mapie linia prosta odpowiada stałemu kierunkowi kompasu, więc żeglarze mogli zaplanować trasę wzdłuż jednej prostej linii. Ceną była wielkość. Mapa powiększa lądy w pobliżu biegunów, więc Grenlandia wygląda na mniej więcej tak dużą jak Afryka, choć Afryka jest około 14 razy większa.",
+    "Odwzorowanie Equal Earth jest dużo nowsze. Wymyślił je w 2018 roku były starszy kartograf amerykańskiej Służby Parków Narodowych wraz z dwoma kolegami. Pokazuje kontynenty w ich prawdziwych proporcjach, choć kształty są nieznacznie zniekształcone. Uchwała wzywa rządy, szkoły, organizacje międzynarodowe i firmy technologiczne do używania Equal Earth i podobnych map, gdy liczy się względna wielkość. Nie jest wiążąca. Nie zakazuje mapy Merkatora i nie wyklucza jej użycia do nawigacji morskiej i powietrznej.",
+    "Minister spraw zagranicznych Togo powiedział: „Mapy kształtują nasze rozumienie świata”. Stany Zjednoczone publicznie wyraziły sprzeciw wobec uchwały, nazywając ją częścią projektu ideologicznego. Ukraina wyraziła obawy dotyczące tego, jak będzie przedstawiane okupowane terytorium, a Unia Europejska powiedziała, że głosowanie nie ma wpływu na granice. Francja powiedziała, że przejdzie na Equal Earth w swoich mapach świata. Africa No Filter, grupa kampanijna, chce, by dokładne mapy zostały wprowadzone w szkołach, podręcznikach i mediach informacyjnych."
+  ],
+  "verbs": [
+    {
+      "base": "move away from",
+      "correct": "Przestać czegoś używać",
+      "wrong": "Przejść do następnego tematu"
+    },
+    {
+      "base": "put forward",
+      "correct": "Oficjalnie zgłosić coś pod głosowanie",
+      "wrong": "Odłożyć coś do kolejnego spotkania"
+    },
+    {
+      "base": "go through",
+      "correct": "Zostać zatwierdzonym w głosowaniu",
+      "wrong": "Być omawianym przez długi czas"
+    },
+    {
+      "base": "date back",
+      "correct": "Istnieć od jakiegoś czasu",
+      "wrong": "Zostać zastąpionym nowszą wersją"
+    },
+    {
+      "base": "map out",
+      "correct": "Zaplanować trasę w szczegółach",
+      "wrong": "Zmierzyć wielkość lądu"
+    },
+    {
+      "base": "blow up",
+      "correct": "Sprawić, że coś wygląda na większe",
+      "wrong": "Skopiować coś na płaską powierzchnię"
+    },
+    {
+      "base": "come across as",
+      "correct": "Sprawiać wrażenie bycia jakimś",
+      "wrong": "Zgodzić się po pewnym czasie"
+    },
+    {
+      "base": "come up with",
+      "correct": "Wymyślić coś nowego",
+      "wrong": "Napotkać silny sprzeciw"
+    },
+    {
+      "base": "call on",
+      "correct": "Formalnie wezwać kogoś do działania",
+      "wrong": "Odwołać coś zaplanowanego"
+    },
+    {
+      "base": "rule out",
+      "correct": "Uznać, że coś jest niedozwolone",
+      "wrong": "Podjąć formalną decyzję w jakiejś sprawie"
+    },
+    {
+      "base": "speak out against",
+      "correct": "Publicznie wyrazić sprzeciw",
+      "wrong": "Przedstawić poglądy grupy"
+    },
+    {
+      "base": "switch over to",
+      "correct": "Przejść na coś innego",
+      "wrong": "Robić coś na zmianę"
+    },
+    {
+      "base": "roll out",
+      "correct": "Wprowadzić coś na szeroką skalę",
+      "wrong": "Wrócić do wcześniejszej wersji"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Move away from",
+      "def": "Przestać czegoś używać",
+      "ex": [
+        "Miasto chce przestać używać węgla.",
+        "Wiele biur przestało używać papierowych dokumentów.",
+        "Linia lotnicza przestaje przyjmować płatności gotówką."
+      ]
+    },
+    {
+      "verb": "Put forward",
+      "def": "Oficjalnie zgłosić coś pod głosowanie",
+      "ex": [
+        "Zgłosiła plan naprawy dróg.",
+        "Dwóch członków zgłosiło nowe zasady dla klubu.",
+        "Pomysł został zgłoszony na ostatnim spotkaniu."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Zostać zatwierdzonym w głosowaniu",
+      "ex": [
+        "Nowa ustawa została zatwierdzona w zeszłym tygodniu.",
+        "Budżet został zatwierdzony bez większej dyskusji.",
+        "Jeśli plan zostanie zatwierdzony, park otworzy się w maju."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Istnieć od jakiegoś czasu",
+      "ex": [
+        "Kościół istnieje od XIII wieku.",
+        "Ta tradycja istnieje od setek lat.",
+        "Ich przyjaźń istnieje od czasów studiów."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "def": "Zaplanować trasę w szczegółach",
+      "ex": [
+        "Zaplanowaliśmy trasę naszej podróży przy kuchennym stole.",
+        "Kapitan zaplanował kurs omijający burzę.",
+        "Zaplanowała trasę spaceru z hotelu do muzeum."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "def": "Sprawić, że coś wygląda na większe",
+      "ex": [
+        "Sklep powiększył zdjęcie do rozmiaru plakatu.",
+        "Przybliż, aby powiększyć mały druk.",
+        "Ekran powiększa obraz, aby wszyscy mogli go zobaczyć."
+      ]
+    },
+    {
+      "verb": "Come across as",
+      "def": "Sprawiać wrażenie bycia jakimś",
+      "ex": [
+        "Sprawia wrażenie bardzo pewnego siebie.",
+        "E-mail sprawiał wrażenie trochę chłodnego.",
+        "Na kamerze mały pokój sprawia wrażenie ogromnego."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Wymyślić coś nowego",
+      "ex": [
+        "Zespół wymyślił tańszy projekt.",
+        "Czy możesz wymyślić nazwę dla aplikacji?",
+        "Wymyśliła plan w pięć minut."
+      ]
+    },
+    {
+      "verb": "Call on",
+      "def": "Formalnie wezwać kogoś do działania",
+      "ex": [
+        "Burmistrz wezwał mieszkańców do oszczędzania wody.",
+        "Grupa wzywa szkoły do nauczania większej ilości nauk przyrodniczych.",
+        "Lekarze wezwali rząd do szybkiego działania."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "def": "Uznać, że coś jest niedozwolone",
+      "ex": [
+        "Szkoła uznała, że telefony są niedozwolone podczas egzaminów.",
+        "Zasady nie zabraniają pracy z domu.",
+        "Właściciel zabronił trzymania zwierząt w budynku."
+      ]
+    },
+    {
+      "verb": "Speak out against",
+      "def": "Publicznie wyrazić sprzeciw",
+      "ex": [
+        "Rodzice publicznie wyrazili sprzeciw wobec zamknięcia szkoły.",
+        "Kilku sportowców publicznie wyraziło sprzeciw wobec nowej zasady.",
+        "Jako pierwsza publicznie wyraziła sprzeciw wobec tego planu."
+      ]
+    },
+    {
+      "verb": "Switch over to",
+      "def": "Przejść na coś innego",
+      "ex": [
+        "Przeszliśmy na tańszy plan telefoniczny.",
+        "Biuro przechodzi na nowy system poczty elektronicznej.",
+        "Wielu kierowców przeszło na samochody elektryczne."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Wprowadzić coś na szeroką skalę",
+      "ex": [
+        "Bank wprowadził nową aplikację w zeszłym miesiącu.",
+        "Miasto wprowadzi elektryczne autobusy w przyszłym roku.",
+        "Firma wprowadziła aktualizację dla wszystkich użytkowników."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "traditional",
+      "def": "Używany lub robiony w ten sam sposób od dawna",
+      "ex": [
+        "Rodzina przygotowała tradycyjny obiad na Święto Dziękczynienia.",
+        "Szkoła wciąż używa tradycyjnych drukowanych podręczników.",
+        "Tradycyjne mapy wiszą na ścianach wielu klas."
+      ]
+    },
+    {
+      "word": "resolution",
+      "def": "Formalna decyzja lub oświadczenie przyjęte w głosowaniu",
+      "ex": [
+        "Rada przyjęła uchwałę o sadzeniu większej liczby drzew.",
+        "Uchwałę poparła większość członków.",
+        "ONZ przyjęła rezolucję w sprawie czystej wody."
+      ]
+    },
+    {
+      "word": "backing",
+      "def": "Wsparcie od osoby lub grupy",
+      "ex": [
+        "Plan ma poparcie rady miejskiej.",
+        "Bez wsparcia finansowego projekt się zatrzymał.",
+        "Wygrała wybory dzięki silnemu poparciu nauczycieli."
+      ]
+    },
+    {
+      "word": "in favor",
+      "def": "Popieranie czegoś w głosowaniu",
+      "ex": [
+        "Dwunastu członków zagłosowało za planem.",
+        "Większość rodziców jest za dłuższym dniem szkolnym.",
+        "Zarząd zagłosował za nowym dyrektorem."
+      ]
+    },
+    {
+      "word": "abstained",
+      "def": "Zdecydował się nie głosować za ani przeciw",
+      "ex": [
+        "Trzech członków wstrzymało się od głosu.",
+        "Wstrzymał się od głosu, bo nie był pewien co do planu.",
+        "Dwa kraje wstrzymały się od głosu w sprawie rezolucji."
+      ]
+    },
+    {
+      "word": "mapmaker",
+      "def": "Osoba, która rysuje mapy",
+      "ex": [
+        "Kartograf narysował każdą rzekę ręcznie.",
+        "Dawni kartografowie pracowali na podstawie relacji żeglarzy.",
+        "Muzeum pokazuje narzędzia używane przez kartografa z XVII wieku."
+      ]
+    },
+    {
+      "word": "compass direction",
+      "def": "Kierunek, taki jak północ, południe, wschód lub zachód",
+      "ex": [
+        "Piechurzy sprawdzali kierunek co godzinę.",
+        "Każda ściana świątyni jest zwrócona w innym kierunku.",
+        "Znak wskazuje kierunek do następnego miasta."
+      ]
+    },
+    {
+      "word": "navigators",
+      "def": "Ludzie, którzy planują i kierują trasą statku lub samolotu",
+      "ex": [
+        "Dawni żeglarze używali gwiazd, by znaleźć drogę.",
+        "Nawigator ostrzegł kapitana przed skałami z przodu.",
+        "Współcześni żeglarze polegają na sygnałach satelitarnych."
+      ]
+    },
+    {
+      "word": "landmasses",
+      "def": "Bardzo duże obszary lądu, takie jak kontynenty",
+      "ex": [
+        "Azja jest największym lądem na Ziemi.",
+        "Miliony lat temu lądy były połączone.",
+        "Mapa pokazuje lądy na zielono."
+      ]
+    },
+    {
+      "word": "poles",
+      "def": "Najbardziej wysunięte na północ i na południe punkty na Ziemi",
+      "ex": [
+        "Lód pokrywa ląd w pobliżu biegunów.",
+        "Latem na biegunach słońce nigdy nie zachodzi.",
+        "Odkrywcy dotarli do obu biegunów na początku XX wieku."
+      ]
+    },
+    {
+      "word": "projection",
+      "def": "Sposób przedstawienia okrągłej Ziemi na płaskiej mapie",
+      "ex": [
+        "Każdy rodzaj odwzorowania mapy w jakiś sposób zmienia kształty lub rozmiary.",
+        "Nauczyciel porównał dwa odwzorowania świata.",
+        "To odwzorowanie zachowuje prawidłowe rozmiary krajów."
+      ]
+    },
+    {
+      "word": "senior cartographer",
+      "def": "Doświadczony ekspert, który tworzy mapy",
+      "ex": [
+        "Pracowała jako starszy kartograf w firmie turystycznej.",
+        "Starszy kartograf sprawdził każdą drogę na nowej mapie.",
+        "Agencja zatrudniła starszego kartografa, aby zaktualizować swój atlas."
+      ]
+    },
+    {
+      "word": "true proportions",
+      "def": "Prawidłowe rozmiary rzeczy w porównaniu ze sobą",
+      "ex": [
+        "Model przedstawia planety w ich prawdziwych proporcjach.",
+        "Rysunek nie pokazuje prawdziwych proporcji budynku.",
+        "Globus pokazuje kontynenty w ich prawdziwych proporcjach."
+      ]
+    },
+    {
+      "word": "distorted",
+      "def": "Zmieniony tak, że kształt lub rozmiar jest nieprawidłowy",
+      "ex": [
+        "Lustro dawało zniekształcony obraz jej twarzy.",
+        "Zdjęcie wyglądało na zniekształcone na brzegach.",
+        "Jego głos brzmiał zniekształcony przez telefon."
+      ]
+    },
+    {
+      "word": "relative size",
+      "def": "Jak duże coś jest w porównaniu z czymś innym",
+      "ex": [
+        "Wykres pokazuje relatywną wielkość gospodarki każdego kraju.",
+        "Dzieci często źle zgadują względną wielkość słońca i księżyca.",
+        "Względna wielkość obu pokoi zaskoczyła kupujących."
+      ]
+    },
+    {
+      "word": "binding",
+      "def": "Musi być przestrzegany na mocy prawa lub umowy",
+      "ex": [
+        "Umowa jest wiążąca przez dwa lata.",
+        "Głosowanie nie było wiążące, więc nic się nie zmieniło.",
+        "Decyzja sędziego jest wiążąca dla obu stron."
+      ]
+    },
+    {
+      "word": "foreign minister",
+      "def": "Urzędnik rządowy odpowiedzialny za relacje z innymi krajami",
+      "ex": [
+        "Minister spraw zagranicznych spotkał się ze swoim japońskim odpowiednikiem w Tokio.",
+        "Minister spraw zagranicznych przemawiał we wtorek na forum ONZ.",
+        "Dziennikarze zapytali ministra spraw zagranicznych o rozmowy handlowe."
+      ]
+    },
+    {
+      "word": "ideological",
+      "def": "Oparty na zbiorze przekonań politycznych",
+      "ex": [
+        "Te dwie partie mają głębokie różnice ideologiczne.",
+        "Krytycy nazwali nową ustawę posunięciem ideologicznym.",
+        "Odszedł z grupy z powodu różnic ideologicznych."
+      ]
+    },
+    {
+      "word": "occupied territory",
+      "def": "Ziemia kontrolowana przez obce wojsko",
+      "ex": [
+        "Organizacje pomocowe miały trudności z dotarciem na okupowane terytorium.",
+        "Mapy okupowanego terytorium były przedmiotem sporu przez lata.",
+        "Rodziny uciekały z okupowanego terytorium podczas wojny."
+      ]
+    },
+    {
+      "word": "bearing",
+      "def": "Wpływ na coś lub związek z czymś",
+      "ex": [
+        "Pogoda nie miała wpływu na końcowy wynik.",
+        "Jego wiek ma pewien wpływ na decyzję lekarza.",
+        "Nowa zasada nie ma żadnego wpływu na obecnych uczniów."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Stany Zjednoczone były jedynym krajem, który zagłosował przeciwko uchwale.",
+      "a": true,
+      "why": "W sumie 164 państwa członkowskie zagłosowały za, a sześć się wstrzymało. Stany Zjednoczone publicznie wyraziły sprzeciw wobec uchwały, nazywając ją częścią projektu ideologicznego."
+    },
+    {
+      "s": "Uchwała zakazuje używania mapy Merkatora do nawigacji morskiej i powietrznej.",
+      "a": false,
+      "why": "Uchwała nie jest wiążąca, nie zakazuje mapy Merkatora i nie wyklucza jej użycia do nawigacji morskiej i powietrznej."
+    },
+    {
+      "s": "Na mapie Merkatora Grenlandia wygląda na mniej więcej tak dużą jak Afryka.",
+      "a": true,
+      "why": "Mapa powiększa lądy w pobliżu biegunów, choć Afryka jest około 14 razy większa od Grenlandii."
+    },
+    {
+      "s": "Odwzorowanie Equal Earth powstało w 1569 roku.",
+      "a": false,
+      "why": "Były starszy kartograf amerykańskiej Służby Parków Narodowych wymyślił Equal Earth wraz z dwoma kolegami w 2018 roku. To mapa Merkatora istnieje od 1569 roku."
+    },
+    {
+      "s": "Togo zgłosiło uchwałę w imieniu Grupy Afrykańskiej.",
+      "a": true,
+      "why": "Togo miało poparcie Unii Afrykańskiej, a uchwała została zatwierdzona 164 głosami za."
+    },
+    {
+      "s": "Francja powiedziała, że będzie nadal używać mapy Merkatora do swoich map świata.",
+      "a": false,
+      "why": "Francja powiedziała, że przejdzie na Equal Earth w swoich mapach świata."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Zgromadzenie Ogólne ONZ przegłosowało zachętę do używania mapy Equal Earth zamiast mapy Merkatora, która sprawia, że Afryka wygląda na dużo mniejszą, niż jest naprawdę. Głosowanie to zalecenie, a nie zakaz.",
+      "a": true,
+      "why": "Uchwała Togo została zatwierdzona 164 do 1 i wzywa rządy, szkoły oraz firmy do używania Equal Earth, ale nie jest wiążąca i nie zakazuje mapy Merkatora."
+    },
+    {
+      "s": "Członkowie ONZ przegłosowali zakaz mapy Merkatora w szkołach i urzędach rządowych na całym świecie. Każdy kraj ma teraz czas do końca roku, by przejść na odwzorowanie Equal Earth.",
+      "a": false,
+      "why": "Blisko, ale uchwała jedynie zachęca do używania Equal Earth. Nie zakazuje mapy Merkatora ani nie narzuca zmiany i nie wyznacza żadnego terminu."
+    },
+    {
+      "s": "Unia Afrykańska uruchomiła własną internetową usługę mapową, która pokazuje kontynent w jego prawdziwym rozmiarze. Miliony ludzi pobrały nową aplikację w pierwszym tygodniu.",
+      "a": false,
+      "why": "Unia Afrykańska poparła jedynie głosowanie ONZ w sprawie odwzorowań map. Nie uruchomiła usługi mapowej ani aplikacji."
+    }
+  ],
+  "dialogue": {
+    "I had no idea": "Używane, by powiedzieć, że jakiś fakt jest dla ciebie całkowicie nowy i zaskakujący",
+    "Old habits die hard": "Używane, by powiedzieć, że ludzie nadal robią coś po staremu, nawet gdy istnieje lepszy sposób",
+    "About time": "Używane, by powiedzieć, że coś powinno było się wydarzyć dużo wcześniej",
+    "You can see their point": "Używane, by powiedzieć, że czyjeś obawy lub zdanie są zrozumiałe, nawet jeśli się z nimi w pełni nie zgadzasz",
+    "It's a start": "Używane, by powiedzieć, że mały krok to wciąż postęp, nawet jeśli potrzeba dużo więcej"
+  }
+}

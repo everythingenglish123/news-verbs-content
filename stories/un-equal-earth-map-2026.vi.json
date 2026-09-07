@@ -1,0 +1,436 @@
+{
+  "id": "un-equal-earth-map-2026",
+  "number": 104,
+  "lang": "vi",
+  "headline": "Liên Hợp Quốc bỏ phiếu thông qua bản đồ thể hiện đúng kích thước của Châu Phi",
+  "chunks": [
+    "Đại hội đồng Liên Hợp Quốc đã bỏ phiếu vào thứ Sáu, ngày 4 tháng 9 năm 2026, để khuyến khích thế giới từ bỏ bản đồ Mercator truyền thống. Togo, với sự ủng hộ của Liên minh Châu Phi, đã đề xuất nghị quyết này thay mặt cho Nhóm Châu Phi. Nghị quyết được thông qua với 164 phiếu ủng hộ. Hoa Kỳ là quốc gia duy nhất bỏ phiếu chống, và sáu quốc gia, bao gồm Ukraine và Serbia, đã bỏ phiếu trắng.",
+    "Bản đồ Mercator đã tồn tại từ năm 1569, khi một người vẽ bản đồ người Flemish tên là Mercator thiết kế nó cho các thủy thủ. Trên bản đồ của ông, một đường thẳng tương ứng với một hướng la bàn cố định, nhờ đó những người dẫn đường có thể vạch ra một lộ trình dọc theo một đường thẳng duy nhất. Cái giá phải trả là kích thước. Bản đồ này phóng to các vùng đất gần các cực, khiến Greenland trông có kích thước xấp xỉ Châu Phi, mặc dù Châu Phi lớn hơn khoảng 14 lần.",
+    "Phép chiếu Equal Earth mới hơn nhiều. Một cựu chuyên gia bản đồ cấp cao của Cơ quan Công viên Quốc gia Hoa Kỳ đã nghĩ ra nó vào năm 2018 cùng hai đồng nghiệp. Nó thể hiện các lục địa theo đúng tỷ lệ thực, mặc dù hình dạng bị méo đi đôi chút. Nghị quyết kêu gọi các chính phủ, trường học, tổ chức quốc tế và công ty công nghệ sử dụng Equal Earth và các bản đồ tương tự khi kích thước tương đối là điều quan trọng. Nó không có tính ràng buộc. Nó không cấm bản đồ Mercator và cũng không loại trừ việc sử dụng nó cho điều hướng đường biển và đường không.",
+    "Bộ trưởng Ngoại giao Togo nói, “Bản đồ định hình cách chúng ta hiểu về thế giới.” Hoa Kỳ công khai phản đối nghị quyết, gọi đó là một phần của một dự án mang tính tư tưởng. Ukraine bày tỏ lo ngại về cách vùng lãnh thổ bị chiếm đóng sẽ được thể hiện, còn Liên minh Châu Âu cho biết cuộc biểu quyết này không ảnh hưởng gì đến biên giới. Pháp cho biết sẽ chuyển sang sử dụng Equal Earth cho các bản đồ thế giới của mình. Africa No Filter, một nhóm vận động, muốn các bản đồ chính xác được triển khai rộng rãi trong trường học, sách giáo khoa và các cơ quan báo chí."
+  ],
+  "verbs": [
+    {
+      "base": "move away from",
+      "correct": "Ngừng sử dụng một thứ gì đó",
+      "wrong": "Chuyển sang chủ đề tiếp theo"
+    },
+    {
+      "base": "put forward",
+      "correct": "Chính thức đề xuất để biểu quyết",
+      "wrong": "Hoãn lại đến một cuộc họp sau"
+    },
+    {
+      "base": "go through",
+      "correct": "Được thông qua bằng biểu quyết",
+      "wrong": "Bị tranh luận trong thời gian dài"
+    },
+    {
+      "base": "date back",
+      "correct": "Đã tồn tại từ một thời điểm nào đó",
+      "wrong": "Bị thay thế bằng một phiên bản mới hơn"
+    },
+    {
+      "base": "map out",
+      "correct": "Lập kế hoạch chi tiết cho một tuyến đường",
+      "wrong": "Đo diện tích của một mảnh đất nông nghiệp"
+    },
+    {
+      "base": "blow up",
+      "correct": "Làm cho một thứ gì đó trông lớn hơn",
+      "wrong": "Sao chép lên một bề mặt phẳng"
+    },
+    {
+      "base": "come across as",
+      "correct": "Tạo cảm giác là một kiểu nhất định",
+      "wrong": "Đồng ý sau một khoảng thời gian"
+    },
+    {
+      "base": "come up with",
+      "correct": "Nghĩ ra một điều gì đó mới",
+      "wrong": "Gặp phải sự phản đối mạnh mẽ"
+    },
+    {
+      "base": "call on",
+      "correct": "Chính thức yêu cầu ai đó hành động",
+      "wrong": "Hủy bỏ một kế hoạch đã định"
+    },
+    {
+      "base": "rule out",
+      "correct": "Nói rằng một điều gì đó không được phép",
+      "wrong": "Đưa ra một quyết định chính thức về một vấn đề"
+    },
+    {
+      "base": "speak out against",
+      "correct": "Công khai nói rằng bạn phản đối",
+      "wrong": "Trình bày quan điểm của một nhóm"
+    },
+    {
+      "base": "switch over to",
+      "correct": "Chuyển sang một thứ khác",
+      "wrong": "Thay phiên nhau làm một việc gì đó"
+    },
+    {
+      "base": "roll out",
+      "correct": "Triển khai một thứ gì đó trên diện rộng",
+      "wrong": "Quay lại một phiên bản trước đó"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Move away from",
+      "def": "Ngừng sử dụng một thứ gì đó",
+      "ex": [
+        "Thị trấn muốn ngừng sử dụng than đá.",
+        "Nhiều văn phòng đã ngừng sử dụng hồ sơ giấy.",
+        "Hãng hàng không đang dần ngừng nhận thanh toán bằng tiền mặt."
+      ]
+    },
+    {
+      "verb": "Put forward",
+      "def": "Chính thức đề xuất để biểu quyết",
+      "ex": [
+        "Cô đề xuất một kế hoạch sửa đường.",
+        "Hai thành viên đề xuất các quy định mới cho câu lạc bộ.",
+        "Ý tưởng này đã được đề xuất tại cuộc họp trước."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Được thông qua bằng biểu quyết",
+      "ex": [
+        "Luật mới đã được thông qua vào tuần trước.",
+        "Ngân sách được thông qua mà không có nhiều tranh luận.",
+        "Nếu kế hoạch được thông qua, công viên sẽ mở cửa vào tháng Năm."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Đã tồn tại từ một thời điểm nào đó",
+      "ex": [
+        "Nhà thờ này đã tồn tại từ những năm 1200.",
+        "Truyền thống này đã tồn tại hàng trăm năm.",
+        "Tình bạn của họ đã tồn tại từ thời đại học."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "def": "Lập kế hoạch chi tiết cho một tuyến đường",
+      "ex": [
+        "Chúng tôi lập kế hoạch chi tiết cho chuyến đi trên bàn bếp.",
+        "Thuyền trưởng vạch ra một lộ trình để tránh cơn bão.",
+        "Cô lập kế hoạch chi tiết cho quãng đường đi bộ từ khách sạn đến bảo tàng."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "def": "Làm cho một thứ gì đó trông lớn hơn",
+      "ex": [
+        "Cửa hàng phóng to bức ảnh lên kích thước áp phích.",
+        "Phóng to để nhìn rõ chữ nhỏ.",
+        "Màn hình phóng to hình ảnh để mọi người đều có thể nhìn thấy."
+      ]
+    },
+    {
+      "verb": "Come across as",
+      "def": "Tạo cảm giác là một kiểu nhất định",
+      "ex": [
+        "Anh ấy tạo cảm giác là một người rất tự tin.",
+        "Email đó tạo cảm giác hơi lạnh lùng.",
+        "Qua camera, căn phòng nhỏ trông có vẻ rất rộng."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Nghĩ ra một điều gì đó mới",
+      "ex": [
+        "Nhóm đã nghĩ ra một thiết kế rẻ hơn.",
+        "Bạn có thể nghĩ ra một cái tên cho ứng dụng này không?",
+        "Cô đã nghĩ ra một kế hoạch trong năm phút."
+      ]
+    },
+    {
+      "verb": "Call on",
+      "def": "Chính thức yêu cầu ai đó hành động",
+      "ex": [
+        "Thị trưởng kêu gọi người dân tiết kiệm nước.",
+        "Nhóm này kêu gọi các trường dạy nhiều môn khoa học hơn.",
+        "Các bác sĩ kêu gọi chính phủ hành động nhanh chóng."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "def": "Nói rằng một điều gì đó không được phép",
+      "ex": [
+        "Trường học cấm sử dụng điện thoại trong các kỳ thi.",
+        "Các quy định không cấm làm việc tại nhà.",
+        "Chủ nhà cấm nuôi thú cưng trong tòa nhà."
+      ]
+    },
+    {
+      "verb": "Speak out against",
+      "def": "Công khai nói rằng bạn phản đối",
+      "ex": [
+        "Các bậc phụ huynh công khai phản đối việc đóng cửa trường học.",
+        "Một số vận động viên công khai phản đối quy định mới.",
+        "Cô là người đầu tiên công khai phản đối kế hoạch này."
+      ]
+    },
+    {
+      "verb": "Switch over to",
+      "def": "Chuyển sang một thứ khác",
+      "ex": [
+        "Chúng tôi chuyển sang một gói cước điện thoại rẻ hơn.",
+        "Văn phòng đang chuyển sang một hệ thống email mới.",
+        "Nhiều tài xế đã chuyển sang dùng xe điện."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Triển khai một thứ gì đó trên diện rộng",
+      "ex": [
+        "Ngân hàng đã triển khai ứng dụng mới vào tháng trước.",
+        "Thành phố sẽ triển khai xe buýt điện vào năm sau.",
+        "Công ty đã triển khai bản cập nhật cho tất cả người dùng."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "traditional",
+      "def": "Được sử dụng hoặc thực hiện theo cùng một cách trong thời gian dài",
+      "ex": [
+        "Gia đình đã chuẩn bị một bữa tối truyền thống cho Lễ Tạ ơn.",
+        "Trường học vẫn sử dụng sách in truyền thống.",
+        "Những tấm bản đồ truyền thống được treo trên tường của nhiều lớp học."
+      ]
+    },
+    {
+      "word": "resolution",
+      "def": "Một quyết định hoặc tuyên bố chính thức được thông qua bằng biểu quyết",
+      "ex": [
+        "Hội đồng đã thông qua một nghị quyết trồng thêm cây xanh.",
+        "Nghị quyết được hầu hết các thành viên ủng hộ.",
+        "Liên Hợp Quốc đã thông qua một nghị quyết về nước sạch."
+      ]
+    },
+    {
+      "word": "backing",
+      "def": "Sự ủng hộ từ một người hoặc một nhóm",
+      "ex": [
+        "Kế hoạch này nhận được sự ủng hộ của hội đồng thành phố.",
+        "Không có sự hỗ trợ tài chính, dự án đã dừng lại.",
+        "Cô ấy giành chiến thắng trong cuộc bầu cử nhờ sự ủng hộ mạnh mẽ từ các giáo viên."
+      ]
+    },
+    {
+      "word": "in favor",
+      "def": "Ủng hộ một điều gì đó trong một cuộc biểu quyết",
+      "ex": [
+        "Mười hai thành viên đã bỏ phiếu ủng hộ kế hoạch này.",
+        "Hầu hết các phụ huynh đều ủng hộ việc kéo dài ngày học.",
+        "Hội đồng đã bỏ phiếu ủng hộ giám đốc mới."
+      ]
+    },
+    {
+      "word": "abstained",
+      "def": "Chọn không bỏ phiếu ủng hộ hay phản đối",
+      "ex": [
+        "Ba thành viên đã bỏ phiếu trắng.",
+        "Anh ấy bỏ phiếu trắng vì không chắc chắn về kế hoạch này.",
+        "Hai nước bỏ phiếu trắng về nghị quyết này."
+      ]
+    },
+    {
+      "word": "mapmaker",
+      "def": "Người vẽ bản đồ",
+      "ex": [
+        "Người vẽ bản đồ đã vẽ tay từng con sông.",
+        "Những người vẽ bản đồ thời kỳ đầu dựa vào báo cáo của các thủy thủ.",
+        "Bảo tàng trưng bày các dụng cụ được một người vẽ bản đồ thế kỷ 17 sử dụng."
+      ]
+    },
+    {
+      "word": "compass direction",
+      "def": "Một hướng như bắc, nam, đông hoặc tây",
+      "ex": [
+        "Những người đi bộ đường dài kiểm tra hướng la bàn mỗi giờ.",
+        "Mỗi bức tường của ngôi đền hướng về một phía khác nhau.",
+        "Biển báo chỉ hướng la bàn đến thị trấn tiếp theo."
+      ]
+    },
+    {
+      "word": "navigators",
+      "def": "Những người lập kế hoạch và dẫn đường cho tàu hoặc máy bay",
+      "ex": [
+        "Những người dẫn đường thời kỳ đầu dùng các vì sao để tìm đường.",
+        "Người dẫn đường cảnh báo thuyền trưởng về những tảng đá phía trước.",
+        "Những người dẫn đường hiện đại phụ thuộc vào tín hiệu vệ tinh."
+      ]
+    },
+    {
+      "word": "landmasses",
+      "def": "Những vùng đất rất lớn, chẳng hạn như các lục địa",
+      "ex": [
+        "Châu Á là vùng đất lớn nhất trên Trái đất.",
+        "Hàng triệu năm trước, các vùng đất từng nối liền với nhau.",
+        "Bản đồ thể hiện các vùng đất bằng màu xanh lá."
+      ]
+    },
+    {
+      "word": "poles",
+      "def": "Những điểm cực bắc và cực nam của Trái đất",
+      "ex": [
+        "Băng bao phủ vùng đất gần các cực.",
+        "Vào mùa hè, mặt trời không bao giờ lặn ở các cực.",
+        "Các nhà thám hiểm đã đến cả hai cực vào đầu những năm 1900."
+      ]
+    },
+    {
+      "word": "projection",
+      "def": "Một cách vẽ Trái đất hình cầu lên một bản đồ phẳng",
+      "ex": [
+        "Mọi phép chiếu bản đồ đều làm thay đổi hình dạng hoặc kích thước theo cách nào đó.",
+        "Giáo viên đã so sánh hai phép chiếu bản đồ thế giới.",
+        "Phép chiếu này giữ đúng kích thước của các quốc gia."
+      ]
+    },
+    {
+      "word": "senior cartographer",
+      "def": "Một chuyên gia giàu kinh nghiệm chuyên vẽ bản đồ",
+      "ex": [
+        "Cô làm chuyên gia bản đồ cấp cao cho một công ty du lịch.",
+        "Chuyên gia bản đồ cấp cao kiểm tra từng con đường trên bản đồ mới.",
+        "Cơ quan này đã thuê một chuyên gia bản đồ cấp cao để cập nhật tập bản đồ của mình."
+      ]
+    },
+    {
+      "word": "true proportions",
+      "def": "Kích thước chính xác của các vật khi so sánh với nhau",
+      "ex": [
+        "Mô hình này thể hiện các hành tinh theo đúng tỷ lệ thực.",
+        "Bản vẽ không thể hiện đúng tỷ lệ thực của tòa nhà.",
+        "Một quả địa cầu thể hiện các lục địa theo đúng tỷ lệ thực."
+      ]
+    },
+    {
+      "word": "distorted",
+      "def": "Bị thay đổi khiến hình dạng hoặc kích thước không còn chính xác",
+      "ex": [
+        "Chiếc gương cho ra hình ảnh méo mó của khuôn mặt cô.",
+        "Bức ảnh trông bị méo ở các cạnh.",
+        "Giọng của anh ấy nghe méo trên điện thoại."
+      ]
+    },
+    {
+      "word": "relative size",
+      "def": "Một thứ lớn đến mức nào khi so với một thứ khác",
+      "ex": [
+        "Biểu đồ cho thấy quy mô tương đối của nền kinh tế mỗi nước.",
+        "Trẻ em thường đoán sai kích thước tương đối của mặt trời và mặt trăng.",
+        "Kích thước tương đối của hai căn phòng khiến người mua ngạc nhiên."
+      ]
+    },
+    {
+      "word": "binding",
+      "def": "Phải được tuân thủ theo luật hoặc thỏa thuận",
+      "ex": [
+        "Hợp đồng có hiệu lực ràng buộc trong hai năm.",
+        "Cuộc biểu quyết không có tính ràng buộc, nên không có gì thay đổi.",
+        "Quyết định của thẩm phán có tính ràng buộc với cả hai bên."
+      ]
+    },
+    {
+      "word": "foreign minister",
+      "def": "Quan chức chính phủ phụ trách quan hệ với các nước khác",
+      "ex": [
+        "Bộ trưởng Ngoại giao đã gặp người đồng cấp Nhật Bản tại Tokyo.",
+        "Bộ trưởng Ngoại giao đã phát biểu tại Liên Hợp Quốc vào thứ Ba.",
+        "Các phóng viên hỏi Bộ trưởng Ngoại giao về các cuộc đàm phán thương mại."
+      ]
+    },
+    {
+      "word": "ideological",
+      "def": "Dựa trên một hệ tư tưởng chính trị",
+      "ex": [
+        "Hai đảng có những khác biệt sâu sắc về mặt tư tưởng.",
+        "Các nhà phê bình gọi luật mới này là một động thái mang tính tư tưởng.",
+        "Anh ấy rời nhóm vì những bất đồng về tư tưởng."
+      ]
+    },
+    {
+      "word": "occupied territory",
+      "def": "Vùng đất bị một quân đội nước ngoài kiểm soát",
+      "ex": [
+        "Các tổ chức cứu trợ gặp khó khăn khi tiếp cận vùng lãnh thổ bị chiếm đóng.",
+        "Bản đồ vùng lãnh thổ bị chiếm đóng đã gây tranh cãi trong nhiều năm.",
+        "Các gia đình đã chạy trốn khỏi vùng lãnh thổ bị chiếm đóng trong chiến tranh."
+      ]
+    },
+    {
+      "word": "bearing",
+      "def": "Một tác động đến hoặc mối liên hệ với một điều gì đó",
+      "ex": [
+        "Thời tiết không ảnh hưởng gì đến kết quả chung cuộc.",
+        "Tuổi tác của anh ấy có phần ảnh hưởng đến quyết định của bác sĩ.",
+        "Quy định mới không ảnh hưởng gì đến các học sinh hiện tại."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Hoa Kỳ là quốc gia duy nhất bỏ phiếu chống lại nghị quyết này.",
+      "a": true,
+      "why": "Tổng cộng có 164 quốc gia thành viên bỏ phiếu ủng hộ và sáu quốc gia bỏ phiếu trắng, và Hoa Kỳ công khai phản đối nghị quyết, gọi đó là một phần của một dự án mang tính tư tưởng."
+    },
+    {
+      "s": "Nghị quyết cấm sử dụng bản đồ Mercator cho việc điều hướng đường biển và đường không.",
+      "a": false,
+      "why": "Nghị quyết không có tính ràng buộc, không cấm bản đồ Mercator, và cũng không loại trừ việc sử dụng nó cho điều hướng đường biển và đường không."
+    },
+    {
+      "s": "Trên bản đồ Mercator, Greenland trông có kích thước xấp xỉ Châu Phi.",
+      "a": true,
+      "why": "Bản đồ này phóng to các vùng đất gần các cực, mặc dù Châu Phi lớn hơn Greenland khoảng 14 lần."
+    },
+    {
+      "s": "Phép chiếu Equal Earth được tạo ra vào năm 1569.",
+      "a": false,
+      "why": "Một cựu chuyên gia bản đồ cấp cao của Cơ quan Công viên Quốc gia Hoa Kỳ cùng hai đồng nghiệp đã nghĩ ra Equal Earth vào năm 2018; chính bản đồ Mercator mới là thứ đã tồn tại từ năm 1569."
+    },
+    {
+      "s": "Togo đã đề xuất nghị quyết này thay mặt cho Nhóm Châu Phi.",
+      "a": true,
+      "why": "Togo nhận được sự ủng hộ của Liên minh Châu Phi, và nghị quyết được thông qua với 164 phiếu ủng hộ."
+    },
+    {
+      "s": "Pháp cho biết sẽ tiếp tục sử dụng bản đồ Mercator cho các bản đồ thế giới của mình.",
+      "a": false,
+      "why": "Pháp cho biết sẽ chuyển sang sử dụng Equal Earth cho các bản đồ thế giới của mình."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Đại hội đồng Liên Hợp Quốc đã bỏ phiếu khuyến khích sử dụng bản đồ Equal Earth thay vì bản đồ Mercator, vốn làm cho Châu Phi trông nhỏ hơn nhiều so với thực tế. Cuộc biểu quyết này là một khuyến nghị, không phải một lệnh cấm.",
+      "a": true,
+      "why": "Nghị quyết của Togo được thông qua với tỷ lệ 164 trên 1 và kêu gọi các chính phủ, trường học và công ty sử dụng Equal Earth, nhưng nó không có tính ràng buộc và không cấm bản đồ Mercator."
+    },
+    {
+      "s": "Các nước thành viên Liên Hợp Quốc đã bỏ phiếu cấm bản đồ Mercator trong các trường học và cơ quan chính phủ trên toàn thế giới. Mỗi quốc gia hiện có thời hạn đến cuối năm để chuyển sang phép chiếu Equal Earth.",
+      "a": false,
+      "why": "Gần đúng, nhưng nghị quyết chỉ khuyến khích sử dụng Equal Earth. Nó không cấm bản đồ Mercator hay bắt buộc thay đổi, và cũng không đặt ra thời hạn cho bất kỳ ai."
+    },
+    {
+      "s": "Liên minh Châu Phi đã ra mắt dịch vụ bản đồ trực tuyến riêng của mình, hiển thị lục địa này theo đúng kích thước thực. Hàng triệu người đã tải ứng dụng mới này trong tuần đầu tiên.",
+      "a": false,
+      "why": "Liên minh Châu Phi chỉ ủng hộ một cuộc biểu quyết của Liên Hợp Quốc về các phép chiếu bản đồ. Họ không ra mắt dịch vụ bản đồ hay ứng dụng nào cả."
+    }
+  ],
+  "dialogue": {
+    "I had no idea": "Dùng để nói rằng một sự thật hoàn toàn mới mẻ và bất ngờ đối với bạn",
+    "Old habits die hard": "Dùng để nói rằng mọi người vẫn tiếp tục làm một việc theo cách cũ dù đã có cách tốt hơn",
+    "About time": "Dùng để nói rằng một điều gì đó lẽ ra phải xảy ra sớm hơn nhiều",
+    "You can see their point": "Dùng để nói rằng mối lo ngại hoặc quan điểm của ai đó là có thể hiểu được, ngay cả khi bạn không hoàn toàn đồng ý",
+    "It's a start": "Dùng để nói rằng một bước tiến nhỏ vẫn là một sự tiến bộ, dù vẫn cần nhiều hơn thế nữa"
+  }
+}

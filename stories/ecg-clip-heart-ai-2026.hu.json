@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "hu",
+  "headline": "A mesterséges intelligencia egy tucatnyi példából megtanulja felismerni a szívbetegséget",
+  "chunks": [
+    "Egy új mesterségesintelligencia-rendszer képes felismerni egy szívbetegség jeleit, miután mindössze körülbelül egy tucat megerősített esetet látott, mondják a kaliforniai Scripps Research kutatói. A rendszerről szóló tanulmány 2026. szeptember 1-jén jelent meg a The Lancet Digital Health folyóiratban. Az elkészítéséhez a csapat több mint 1,7 millió elektrokardiogramot gyűjtött össze, a szív elektromos tevékenységéről készült felvételeket, több mint 540 000 embertől, az orvosok minden egyes esethez fűzött jegyzeteivel együtt.",
+    "A rendszer egy alapmodell, olyan MI, amely először általános tudást tanul meg, majd sok különböző feladathoz igazítják. Megtanulta, hogy egy orvosi jegyzet mely szavai tartoznak össze egy szívfelvétel mely mintázataival. A tanulmány vezető szerzője elmondta, hogy egy klinikus ugyanígy tanul: nem egymillió példából, hanem úgy, hogy először megérti a szívet, majd lát néhány esetet. A modell fokozatosan felépít egy általános képet, mielőtt egyetlen betegségre összpontosítana.",
+    "A kutatók több mint 800 000 szívfelvételen próbálták ki a modellt. Lépést tartott a legjobb modellekkel, miközben átlagosan mintegy 91 százalékkal kevesebb kézzel címkézett adatot használt. Felismerte a szívinfarktust és két másik szívbetegséget, és jobban teljesített más modelleknél a szabálytalan szívritmus előrejelzésében olyan felvételekből, amelyek normálisnak tűntek. Azt is előre jelezte, kinél alakul ki vesebetegség vagy 2-es típusú cukorbetegség három éven belül. Az előny fokozatosan eltűnt, amint sok címkézett példa vált elérhetővé.",
+    "Ez segíthet a ritka betegségeknél, ahol csak egy maroknyi jól címkézett eset létezik, mondja a csapat. A modell azt is meg tudja mutatni, hogy a szívjel mely részeit használta, így az orvosok ellenőrizhetik a gondolatmenetét. A tanulmány egyik társszerzője elmondta, hogy klinikai vizsgálatokra van még szükség annak kiderítésére, hogy az eredmények érvényesek maradnak-e a valódi betegellátásban. Ezután a csapat tervei szerint adatokat vonnak be a sürgősségi osztályokról, és viselhető eszközökkel is tesztelik a modellt."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "Felismerni valamit",
+      "wrong": "Kézzel megjelölni"
+    },
+    {
+      "base": "come out",
+      "correct": "Megjelenni",
+      "wrong": "Klinikán tesztelni"
+    },
+    {
+      "base": "put together",
+      "correct": "Összegyűjteni dolgokat egy egységbe",
+      "wrong": "Biztonságos helyen tárolni"
+    },
+    {
+      "base": "go with",
+      "correct": "Összetartozni valamivel",
+      "wrong": "Valamit alaposan ellenőrizni"
+    },
+    {
+      "base": "build up",
+      "correct": "Fokozatosan kifejleszteni valamit",
+      "wrong": "Állandó részként beépíteni"
+    },
+    {
+      "base": "zero in on",
+      "correct": "Egyetlen dologra összpontosítani",
+      "wrong": "Minden esetet ugyanúgy kezelni"
+    },
+    {
+      "base": "try out",
+      "correct": "Kipróbálni valamit, hogy lássuk, hogyan működik",
+      "wrong": "Megismételni egy tanulmányt egy másik helyen"
+    },
+    {
+      "base": "keep up with",
+      "correct": "Lépést tartani valamivel",
+      "wrong": "Adatokat kizárni egy tesztből"
+    },
+    {
+      "base": "fall away",
+      "correct": "Lassan eltűnni",
+      "wrong": "Lassabbnak lenni"
+    },
+    {
+      "base": "point out",
+      "correct": "Megmutatni vagy jelezni valamit",
+      "wrong": "Jelet küldeni egy eszköznek"
+    },
+    {
+      "base": "find out",
+      "correct": "Megtudni, hogy valami igaz-e",
+      "wrong": "Valamit nyilvánossá tenni"
+    },
+    {
+      "base": "carry over",
+      "correct": "Más betegekre is érvényesnek maradni",
+      "wrong": "Egy tervezett munkát elvégezni"
+    },
+    {
+      "base": "bring in",
+      "correct": "Valami újat bevezetni egy rendszerbe",
+      "wrong": "Egy témát megemlíteni megvitatásra"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "Felismerni valamit",
+      "ex": [
+        "A teszt korán felismeri a vírust.",
+        "A kutya messziről felismer egy szagot.",
+        "A szkenner felismert egy apró repedést a csőben."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "Megjelenni",
+      "ex": [
+        "A jelentés hétfőn jelent meg.",
+        "Az új könyve májusban jelenik meg.",
+        "Az eredmények jövő héten jelennek meg."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "Összegyűjteni dolgokat egy egységbe",
+      "ex": [
+        "A csapat összeállított egy listát 200 betegről.",
+        "Ő összeállított egy fotóalbumot a szüleinek.",
+        "A múzeum összeállított egy kiállítást régi térképekből."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "Összetartozni valamivel",
+      "ex": [
+        "Ez a szósz jól illik a halhoz.",
+        "Mely tünetek tartoznak össze az influenzával?",
+        "A kék nyakkendő illik a szürke öltönyödhöz."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "Fokozatosan kifejleszteni valamit",
+      "ex": [
+        "Öt év alatt egy erős csapatot épített fel.",
+        "A futó fokozatosan növelte a sebességét a szezon során.",
+        "Az üzlet fokozatosan kialakított egy törzsvásárlói kört."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "Egyetlen dologra összpontosítani",
+      "ex": [
+        "A nyomozó egyetlen gyanúsítottra összpontosított.",
+        "A sólyom egyetlen egérre összpontosított.",
+        "Összpontosítsunk a fő problémára."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Kipróbálni valamit, hogy lássuk, hogyan működik",
+      "ex": [
+        "Kipróbálhatod a biciklit, mielőtt megveszed.",
+        "A szakács kipróbált egy új receptet.",
+        "Kipróbáltuk az alkalmazást néhány felhasználóval."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "Lépést tartani valamivel",
+      "ex": [
+        "A régi számítógép nem tud lépést tartani az újjal.",
+        "Lépést tartott a leggyorsabb futókkal.",
+        "A pékség decemberben nem tud lépést tartani a rendelésekkel."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "Lassan eltűnni",
+      "ex": [
+        "A terv támogatottsága fokozatosan eltűnt.",
+        "A zaj lassan elhalt, ahogy az előadó beszélni kezdett.",
+        "Az előnye fokozatosan eltűnt az utolsó mérföldön."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Megmutatni vagy jelezni valamit",
+      "ex": [
+        "Az idegenvezető megmutatta a legrégebbi házat.",
+        "Rámutatott egy hibára az e-mailemben.",
+        "A térkép jelzi a legbiztonságosabb útvonalat."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "Megtudni, hogy valami igaz-e",
+      "ex": [
+        "Meg kell tudnunk, hogy a gyógyszer biztonságos-e.",
+        "Meg kell tudnunk, hogy a tető még mindig beázik-e.",
+        "Felhívta őket, hogy megtudja, késik-e a vonat."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "Más betegekre is érvényesnek maradni",
+      "ex": [
+        "A futballból szerzett készségek más sportokban is érvényesek maradnak.",
+        "Az eredmények a fiatalabb betegekre is érvényesek maradnak.",
+        "Az iskolából hozott jó szokások a munkahelyen is érvényesek maradnak."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Valami újat bevezetni egy rendszerbe",
+      "ex": [
+        "A város bevezetett egy új újrahasznosítási programot.",
+        "Az iskola új órarendet vezetett be.",
+        "Terveik szerint több klinikáról vonnak be adatokat."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "Tizenkettő, vagy körülbelül tizenkettő",
+      "ex": [
+        "Vett egy tucat tojást.",
+        "Körülbelül egy tucat ember jött el a találkozóra.",
+        "A csapatnak egy tucat játékosa van."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "Egy betegség olyan esetei, amelyeket az orvosok ellenőriztek és biztosak bennük",
+      "ex": [
+        "A városban 40 megerősített kanyarós eset van.",
+        "A jelentésben csak a megerősített esetek számítanak.",
+        "A megerősített esetek száma a múlt héten emelkedett."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "A szív elektromos tevékenységéről készült felvételek",
+      "ex": [
+        "Az elektrokardiogramok csak néhány percet vesznek igénybe.",
+        "A klinika régi elektrokardiogramokat tárol.",
+        "Az elektrokardiogramok szívinfarktust mutathatnak."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "Egy MI-rendszer, amelyet nagy mennyiségű adaton tanítanak be, majd sok célra igazítanak",
+      "ex": [
+        "Egy alapmodell sok feladathoz igazítható.",
+        "A cég egy alapmodellt épített a nyelvhez.",
+        "Egy alapmodell betanítása hatalmas mennyiségű adatot igényel."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "Megváltoztatva, hogy egy új célnak megfeleljen",
+      "ex": [
+        "A könyvet színpadra alkalmazták.",
+        "A leckét kisebb gyerekekhez igazították.",
+        "Az eszközt kórházi használatra igazították."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "Egy orvos vagy ápoló, aki betegeket kezel",
+      "ex": [
+        "Egy orvos megvizsgálta a beteg szívét.",
+        "Az orvosok minden vizit után jegyzeteket írnak.",
+        "Az alkalmazást orvosokkal együtt tervezték."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "Valaminek a tág megértése, a részletek nélkül",
+      "ex": [
+        "Először add meg az általános képet.",
+        "A jelentés általános képet ad a gazdaságról.",
+        "Volt egy általános képe arról, hogyan működik a motor."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "Egy ember által megjelölve, egyszerre egy elemet",
+      "ex": [
+        "A kézzel címkézett adatok lassan készülnek el.",
+        "Minden kézzel címkézett fotó egy percet vett igénybe.",
+        "A modellnek kevesebb kézzel címkézett adatra van szüksége."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "Hirtelen események, amelyek során a vér nem jut el a szív egy részéhez",
+      "ex": [
+        "A szívinfarktusok télen gyakoribbak.",
+        "52 évesen szívinfarktust kapott.",
+        "A mellkasi fájdalom a szívinfarktus jele lehet."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "Egy szívritmus, amely nem egyenletes",
+      "ex": [
+        "Az orvos szabálytalan szívritmust észlelt.",
+        "A szabálytalan szívritmus szédülést okozhat.",
+        "Az órája figyelmeztette a szabálytalan szívritmusra."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "Betegség, amelyben a vesék már nem tisztítják jól a vért",
+      "ex": [
+        "A vesebetegség gyakran lassan alakul ki.",
+        "A magas vérnyomás vesebetegséghez vezethet.",
+        "Vesebetegségre szed gyógyszert."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "Valami, ami az egyik dolgot jobbá teszi a többinél",
+      "ex": [
+        "A sebesség az új vonat fő előnye.",
+        "A hazai csapatnak előnye van.",
+        "Az előny egy év után eltűnt."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "Betegségek, amelyek nagyon kevés embernél fordulnak elő",
+      "ex": [
+        "A ritka betegségeket gyakran nehéz diagnosztizálni.",
+        "A klinika több ritka betegséget is kezel.",
+        "Kevés orvos látta már ezt a ritka betegséget."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "Nagyon kis számú",
+      "ex": [
+        "Csak egy maroknyi ember jött el.",
+        "Egy maroknyi iskola kipróbálta a programot.",
+        "Van egy maroknyi közeli barátja."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "Egy döntés mögötti gondolkodási lépések",
+      "ex": [
+        "Magyarázd el az osztálynak a gondolatmenetedet.",
+        "A bírónő írásban adta meg az indoklását.",
+        "Nem értem a gondolatmenetét."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "Egy kezelés vagy eszköz tesztelése valódi betegeken",
+      "ex": [
+        "A gyógyszer három klinikai vizsgálaton ment át.",
+        "A klinikai vizsgálatok évekig is eltarthatnak.",
+        "A betegek önként jelentkeztek a klinikai vizsgálatra."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "A kezelés és segítség, amelyet a betegek kapnak",
+      "ex": [
+        "Az ápolók kulcsszerepet játszanak a betegellátásban.",
+        "A kórház tavaly javított a betegellátáson.",
+        "A jobb nyilvántartás jobb betegellátáshoz vezet."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "Kórházi részlegek, amelyek hirtelen, súlyos eseteket kezelnek",
+      "ex": [
+        "A sürgősségi osztályok hétvégén a legzsúfoltabbak.",
+        "Három órát várt a sürgősségin.",
+        "A sürgősségi osztályokon sok mellkasi fájdalommal járó esetet látnak."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "Kis elektronikus eszközök, amelyeket a testen viselnek, például okosórák",
+      "ex": [
+        "A viselhető eszközök meg tudják számolni a lépéseidet.",
+        "Néhány viselhető eszköz rögzíti a szívritmust.",
+        "A viselhető eszközök eladásai idén emelkedtek."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "A modellt több mint 1,7 millió szívfelvételen tanították be.",
+      "a": true,
+      "why": "A csapat több mint 1,7 millió szívfelvételt gyűjtött össze több mint 540 000 embertől, együtt az orvosok által róluk írt jegyzetekkel."
+    },
+    {
+      "s": "A modellnek több ezer megerősített esetre van szüksége egy új betegség megtanulásához.",
+      "a": false,
+      "why": "A rendszer képes felismerni egy szívbetegség jeleit, miután mindössze körülbelül egy tucat megerősített esetet látott, mondják a kutatók."
+    },
+    {
+      "s": "A rendszer körülbelül 91 százalékkal kevesebb kézzel címkézett adatot használt, mint a szokásos modellek.",
+      "a": true,
+      "why": "Lépést tartott a legjobb modellekkel, miközben átlagosan mintegy 91 százalékkal kevesebb kézzel címkézett adatot használt."
+    },
+    {
+      "s": "A kutatók több mint 800 000 szívfelvételen tesztelték a modellt.",
+      "a": true,
+      "why": "Több mint 800 000 szívfelvételen próbálták ki a modellt, és felismerte a szívinfarktust és két másik szívbetegséget."
+    },
+    {
+      "s": "A tanulmány a Nature folyóiratban jelent meg.",
+      "a": false,
+      "why": "2026. szeptember 1-jén jelent meg a The Lancet Digital Health folyóiratban."
+    },
+    {
+      "s": "A csapat szerint a modell készen áll a valódi betegeknél való használatra.",
+      "a": false,
+      "why": "A tanulmány egyik társszerzője elmondta, hogy klinikai vizsgálatokra van még szükség annak kiderítésére, hogy az eredmények érvényesek maradnak-e a valódi betegellátásban."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Kutatók létrehoztak egy MI-modellt, amely 1,7 millió szívfelvételből és orvosi jegyzetekből tanult. Most már fel tud ismerni egy szívbetegséget körülbelül egy tucat példából, ami segíthet a ritka betegségeknél.",
+      "a": true,
+      "why": "A rendszert több mint 1,7 millió szívfelvételen tanították be, az orvosok jegyzeteivel párosítva, és mindössze körülbelül egy tucat megerősített esetre van szüksége egy betegség felismeréséhez, ami hasznos ott, ahol kevés címkézett eset létezik."
+    },
+    {
+      "s": "Egy új MI-modell fel tud ismerni egy szívbetegséget, miután mindössze körülbelül egy tucat megerősített esetet látott. Mivel ilyen kevés adatra van szüksége, készítői szerint a kórházak azonnal elkezdhetik használni a betegeknél.",
+      "a": false,
+      "why": "Majdnem, de a kutatók szerint klinikai vizsgálatokra van még szükség annak kiderítésére, hogy az eredmények érvényesek maradnak-e a valódi betegellátásban."
+    },
+    {
+      "s": "Egy kórházi tanulmány megállapította, hogy az okosórák napokkal a tünetek megjelenése előtt figyelmeztethetik az embereket a szabálytalan szívritmusra. A szívgyógyászok szerint a figyelmeztetések korábbi kezeléshez vezettek több száz betegnél.",
+      "a": false,
+      "why": "Nem volt sem okosóra-tanulmány, sem betegfigyelmeztetés. A hír egy új MI-modellről szól, amely megtanulja felismerni a szívbetegséget nagyon kevés címkézett példából."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "Arra használjuk, hogy elmondjuk, valami egy gondolat fő oka vagy legfontosabb része",
+    "Sounds promising": "Arra használjuk, hogy elmondjuk, valami úgy tűnik, sikeres lesz vagy jól fog működni",
+    "Not so fast": "Arra használjuk, hogy megállítsunk valakit, aki túl gyorsan halad előre vagy dönt",
+    "Trust, but verify": "Arra használjuk, hogy elmondjuk, elfogadsz valamit, de mégis saját magad akarod ellenőrizni",
+    "Better safe than sorry": "Arra használjuk, hogy elmondjuk, megéri óvatosnak lenni, még ha ez több időbe vagy erőfeszítésbe is kerül"
+  }
+}

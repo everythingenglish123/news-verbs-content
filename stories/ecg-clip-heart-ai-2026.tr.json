@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "tr",
+  "headline": "Yapay zeka bir düzine örnekten kalp hastalığını tanımayı öğreniyor",
+  "chunks": [
+    "Kaliforniya'daki Scripps Research'teki araştırmacılara göre, yeni bir yapay zeka sistemi yalnızca yaklaşık bir düzine doğrulanmış vaka gördükten sonra bir kalp hastalığının belirtilerini yakalayabiliyor. Sistem üzerine yapılan çalışma 1 Eylül 2026'da The Lancet Digital Health dergisinde yayımlandı. Ekip bunu oluşturmak için 540.000'den fazla kişiden alınan, kalbin elektriksel etkinliğinin kayıtları olan 1,7 milyondan fazla elektrokardiyogramı, her biri hakkındaki doktor notlarıyla birlikte bir araya getirdi.",
+    "Sistem bir temel modeldir; önce genel bilgi öğrenen ve ardından birçok göreve uyarlanan bir yapay zekadır. Bir doktor notundaki hangi kelimelerin bir kalp kaydındaki hangi örüntülerle eşleştiğini öğrendi. Çalışmanın kıdemli yazarı, bir klinisyenin de aynı şekilde öğrendiğini söyledi: milyonlarca örnekten değil, önce kalbi anlayıp sonra birkaç vaka görerek. Model bir hastalığa odaklanmadan önce genel bir tablo oluşturuyor.",
+    "Araştırmacılar modeli 800.000'den fazla kalp kaydı üzerinde denedi. Model, ortalama yüzde 91 daha az elle etiketlenmiş veri kullanırken en iyi modellerle aynı seviyede kaldı. Kalp krizlerini ve iki başka kalp rahatsızlığını tespit etti ve normal görünen kayıtlardan düzensiz kalp atışını tahmin etmede diğer modelleri geride bıraktı. Ayrıca üç yıl içinde kimin böbrek hastalığı veya tip 2 diyabet geliştireceğini de tahmin etti. Çok sayıda etiketlenmiş örnek mevcut olduğunda bu avantaj ortadan kayboldu.",
+    "Ekip, bunun yalnızca az sayıda iyi etiketlenmiş vakanın bulunduğu nadir hastalıklarda yardımcı olabileceğini söylüyor. Model ayrıca kalp sinyalinin hangi bölümlerini kullandığını gösterebiliyor, böylece doktorlar mantığını kontrol edebiliyor. Çalışmanın bir ortak yazarı, sonuçların gerçek hasta bakımına yansıyıp yansımadığını öğrenmek için hâlâ klinik denemelere ihtiyaç olduğunu söyledi. Ekip, ardından acil servislerden veri eklemeyi ve modeli giyilebilir cihazlarla test etmeyi planlıyor."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "bir şeyi tespit etmek",
+      "wrong": "her vakayı elle etiketlemek"
+    },
+    {
+      "base": "come out",
+      "correct": "yayımlanmak",
+      "wrong": "klinikte test edilmek"
+    },
+    {
+      "base": "put together",
+      "correct": "bir araya getirmek",
+      "wrong": "güvenli bir yerde saklamak"
+    },
+    {
+      "base": "go with",
+      "correct": "bir şeyle eşleşmek",
+      "wrong": "bir şeyi kontrol etmek"
+    },
+    {
+      "base": "build up",
+      "correct": "bir şeyi yavaş yavaş geliştirmek",
+      "wrong": "sabit bir parça olarak eklemek"
+    },
+    {
+      "base": "zero in on",
+      "correct": "tüm dikkati tek bir şeye vermek",
+      "wrong": "her vakaya aynı şekilde davranmak"
+    },
+    {
+      "base": "try out",
+      "correct": "bir şeyi nasıl çalıştığını görmek için denemek",
+      "wrong": "bir çalışmayı başka bir yerde tekrarlamak"
+    },
+    {
+      "base": "keep up with",
+      "correct": "aynı seviyede kalmak",
+      "wrong": "bir testten veriyi dışlamak"
+    },
+    {
+      "base": "fall away",
+      "correct": "yavaş yavaş kaybolmak",
+      "wrong": "diğerlerinden daha yavaş olmak"
+    },
+    {
+      "base": "point out",
+      "correct": "bir şeyi göstermek",
+      "wrong": "bir cihaza sinyal göndermek"
+    },
+    {
+      "base": "find out",
+      "correct": "bir şeyin doğru olup olmadığını öğrenmek",
+      "wrong": "bir şeyi kamuya açık hale getirmek"
+    },
+    {
+      "base": "carry over",
+      "correct": "diğer hastalar için de geçerli olmak",
+      "wrong": "önceden planlanmış bir işi yapmak"
+    },
+    {
+      "base": "bring in",
+      "correct": "bir sisteme yeni bir şey eklemek",
+      "wrong": "tartışma için bir konudan bahsetmek"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "bir şeyi tespit etmek",
+      "ex": [
+        "Test virüsü erken tespit edebilir.",
+        "Bir köpek uzaktan bir kokuyu algılayabilir.",
+        "Tarayıcı borudaki küçük bir çatlağı tespit etti."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "yayımlanmak",
+      "ex": [
+        "Rapor pazartesi günü yayımlandı.",
+        "Yeni kitabı mayıs ayında yayımlanıyor.",
+        "Sonuçlar önümüzdeki hafta yayımlanıyor."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "bir araya getirmek",
+      "ex": [
+        "Ekip 200 hastadan oluşan bir liste bir araya getirdi.",
+        "Ailesi için bir fotoğraf albümü bir araya getirdi.",
+        "Müze eski haritalardan bir sergi bir araya getirdi."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "bir şeyle eşleşmek",
+      "ex": [
+        "Bu sos balıkla eşleşiyor.",
+        "Hangi belirtiler gripte görülür?",
+        "Mavi kravat gri takım elbisenle eşleşiyor."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "bir şeyi yavaş yavaş geliştirmek",
+      "ex": [
+        "Beş yılda güçlü bir ekip geliştirdi.",
+        "Koşucu sezon boyunca hızını yavaş yavaş artırdı.",
+        "Dükkân zamanla düzenli müşteri listesi oluşturdu."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "tüm dikkati tek bir şeye vermek",
+      "ex": [
+        "Dedektif tüm dikkatini tek bir şüpheliye verdi.",
+        "Şahin tüm dikkatini bir fareye verdi.",
+        "Hadi tüm dikkatimizi ana soruna verelim."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "bir şeyi nasıl çalıştığını görmek için denemek",
+      "ex": [
+        "Bisikleti satın almadan önce deneyebilirsin.",
+        "Şef yeni bir tarifi denedi.",
+        "Uygulamayı birkaç kullanıcı üzerinde denedik."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "aynı seviyede kalmak",
+      "ex": [
+        "Eski bilgisayar yenisiyle aynı seviyede kalamıyor.",
+        "En hızlı koşucularla aynı seviyede kaldı.",
+        "Fırın aralıkta gelen siparişlerle aynı seviyede kalamıyor."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "yavaş yavaş kaybolmak",
+      "ex": [
+        "Plana olan destek yavaş yavaş kayboldu.",
+        "Konuşmacı başlayınca kalabalığın gürültüsü kayboldu.",
+        "Son kilometrede önde olma avantajı kayboldu."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "bir şeyi göstermek",
+      "ex": [
+        "Rehber sokaktaki en eski evi gösterdi.",
+        "Arkadaşı e-postandaki bir hatayı gösterdi.",
+        "Harita en güvenli rotayı gösteriyor."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "bir şeyin doğru olup olmadığını öğrenmek",
+      "ex": [
+        "İlacın güvenli olup olmadığını öğrenmemiz gerekiyor.",
+        "Çatının hâlâ akıp akmadığını öğrenmeliyiz.",
+        "Trenin geç kalıp kalmadığını öğrenmek için aradı."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "diğer hastalar için de geçerli olmak",
+      "ex": [
+        "Futboldan gelen beceriler diğer sporlar için de geçerli olur.",
+        "Bulgular daha genç hastalar için de geçerli oluyor.",
+        "Okuldan gelen iyi alışkanlıklar iş hayatı için de geçerli olur."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "bir sisteme yeni bir şey eklemek",
+      "ex": [
+        "Şehir yeni bir geri dönüşüm programı ekledi.",
+        "Okul yeni bir program ekledi.",
+        "Daha fazla klinikten veri eklemeyi planlıyorlar."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "on iki, ya da yaklaşık on iki",
+      "ex": [
+        "Bir düzine yumurta aldı.",
+        "Yaklaşık bir düzine kişi toplantıya geldi.",
+        "Takımın bir düzine oyuncusu var."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "doktorların kontrol edip emin olduğu hastalık örnekleri",
+      "ex": [
+        "Şehirde 40 doğrulanmış kızamık vakası var.",
+        "Raporda yalnızca doğrulanmış vakalar sayılıyor.",
+        "Doğrulanmış vakalar geçen hafta arttı."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "kalbin elektriksel etkinliğinin kayıtları",
+      "ex": [
+        "Elektrokardiyogramlar yalnızca birkaç dakika sürer.",
+        "Klinik eski elektrokardiyogramları saklıyor.",
+        "Elektrokardiyogramlar bir kalp krizini gösterebilir."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "büyük miktarda veriyle eğitilip sonra birçok kullanım için ayarlanan bir yapay zeka sistemi",
+      "ex": [
+        "Bir temel model birçok görev için ayarlanabilir.",
+        "Şirket dil için bir temel model geliştirdi.",
+        "Bir temel modeli eğitmek çok büyük miktarda veri gerektirir."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "yeni bir amaca uyacak şekilde değiştirilmiş",
+      "ex": [
+        "Kitap sahne için uyarlandı.",
+        "Ders küçük çocuklar için uyarlandı.",
+        "Araç hastanelerde kullanılmak üzere uyarlandı."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "hastaları tedavi eden bir doktor veya hemşire",
+      "ex": [
+        "Bir klinisyen hastanın kalbini kontrol etti.",
+        "Klinisyenler her ziyaretten sonra not tutar.",
+        "Uygulama klinisyenlerle birlikte tasarlandı."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "ayrıntılar olmadan bir şeyin geniş bir şekilde anlaşılması",
+      "ex": [
+        "Önce bana genel tabloyu ver.",
+        "Rapor ekonominin genel tablosunu veriyor.",
+        "Motorun nasıl çalıştığına dair genel bir fikri vardı."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "bir kişi tarafından tek tek işaretlenmiş",
+      "ex": [
+        "Elle etiketlenmiş veri üretmesi yavaştır.",
+        "Elle etiketlenen her fotoğraf bir dakika sürdü.",
+        "Modelin daha az elle etiketlenmiş veriye ihtiyacı var."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "kalbin bir bölümüne kan akışının aniden durduğu olaylar",
+      "ex": [
+        "Kalp krizleri kışın daha sık görülür.",
+        "52 yaşında kalp krizi geçirdi.",
+        "Göğüs ağrısı bir kalp krizinin belirtisi olabilir."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "düzenli olmayan bir kalp ritmi",
+      "ex": [
+        "Doktor düzensiz bir kalp atışı fark etti.",
+        "Düzensiz kalp atışı baş dönmesine neden olabilir.",
+        "Saati onu düzensiz bir kalp atışı konusunda uyardı."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "böbreklerin kanı iyi temizleyemediği hastalık",
+      "ex": [
+        "Böbrek hastalığı genellikle yavaş gelişir.",
+        "Yüksek tansiyon böbrek hastalığına yol açabilir.",
+        "Böbrek hastalığı için ilaç kullanıyor."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "bir şeyi diğerlerinden daha iyi yapan özellik",
+      "ex": [
+        "Hız yeni trenin başlıca avantajıdır.",
+        "Ev sahibi takımın bir avantajı var.",
+        "Avantaj bir yıl sonra ortadan kalktı."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "çok az kişinin sahip olduğu hastalıklar",
+      "ex": [
+        "Nadir hastalıkların teşhisi genellikle zordur.",
+        "Klinik birkaç nadir hastalığı tedavi ediyor.",
+        "Çok az doktor bu nadir hastalığı görmüştür."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "çok az sayıda",
+      "ex": [
+        "Yalnızca bir avuç insan geldi.",
+        "Bir avuç okul programı denedi.",
+        "Onun bir avuç yakın arkadaşı var."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "bir kararın arkasındaki düşünme adımları",
+      "ex": [
+        "Mantığını sınıfa açıkla.",
+        "Yargıç gerekçesini yazılı olarak sundu.",
+        "Onun mantığını takip edemiyorum."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "bir tedavi veya aracın gerçek hastalar üzerinde test edilmesi",
+      "ex": [
+        "İlaç üç klinik denemeyi geçti.",
+        "Klinik denemeler yıllar sürebilir.",
+        "Hastalar klinik deneme için gönüllü oldu."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "hastaların aldığı tedavi ve yardım",
+      "ex": [
+        "Hemşireler hasta bakımının merkezindedir.",
+        "Hastane geçen yıl hasta bakımını iyileştirdi.",
+        "Daha iyi kayıtlar daha iyi hasta bakımına yol açar."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "ani ve ciddi vakaları tedavi eden hastane bölümleri",
+      "ex": [
+        "Acil servisler hafta sonları en yoğun olur.",
+        "Acil serviste üç saat bekledi.",
+        "Acil servisler pek çok göğüs ağrısı vakasıyla karşılaşıyor."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "akıllı saat gibi vücutta taşınan küçük elektronik araçlar",
+      "ex": [
+        "Giyilebilir cihazlar adımlarını sayabilir.",
+        "Bazı giyilebilir cihazlar kalp ritmini kaydeder.",
+        "Giyilebilir cihaz satışları bu yıl arttı."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Model 1,7 milyondan fazla kalp kaydıyla eğitildi.",
+      "a": true,
+      "why": "Ekip, doktorların her biri hakkında yazdığı notlarla birlikte 540.000'den fazla kişiden alınan 1,7 milyondan fazla kalp kaydını bir araya getirdi."
+    },
+    {
+      "s": "Model yeni bir hastalığı öğrenmek için binlerce doğrulanmış vakaya ihtiyaç duyuyor.",
+      "a": false,
+      "why": "Araştırmacılara göre sistem, yalnızca yaklaşık bir düzine doğrulanmış vaka gördükten sonra bir kalp hastalığının belirtilerini tespit edebiliyor."
+    },
+    {
+      "s": "Sistem standart modellere göre yaklaşık yüzde 91 daha az elle etiketlenmiş veri kullandı.",
+      "a": true,
+      "why": "Ortalama yüzde 91 daha az elle etiketlenmiş veri kullanırken en iyi modellerle aynı seviyede kaldı."
+    },
+    {
+      "s": "Araştırmacılar modeli 800.000'den fazla kalp kaydında test etti.",
+      "a": true,
+      "why": "Modeli 800.000'den fazla kalp kaydı üzerinde denediler ve kalp krizlerini ve iki başka kalp rahatsızlığını tespit etti."
+    },
+    {
+      "s": "Çalışma Nature dergisinde yayımlandı.",
+      "a": false,
+      "why": "Çalışma 1 Eylül 2026'da The Lancet Digital Health dergisinde yayımlandı."
+    },
+    {
+      "s": "Ekip modelin gerçek hastalarda kullanıma hazır olduğunu söylüyor.",
+      "a": false,
+      "why": "Çalışmanın bir ortak yazarı, sonuçların gerçek hasta bakımına yansıyıp yansımadığını öğrenmek için hâlâ klinik denemelere ihtiyaç olduğunu söyledi."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Araştırmacılar 1,7 milyon kalp kaydından ve doktor notlarından öğrenen bir yapay zeka modeli geliştirdi. Artık yaklaşık bir düzine örnekten bir kalp hastalığını tanıyabiliyor, bu da nadir hastalıklarda yardımcı olabilir.",
+      "a": true,
+      "why": "Sistem, klinisyenlerin notlarıyla eşleştirilmiş 1,7 milyondan fazla kalp kaydıyla eğitildi ve bir hastalığı tespit etmek için yalnızca yaklaşık bir düzine doğrulanmış vakaya ihtiyaç duyuyor, bu da az sayıda etiketlenmiş vakanın bulunduğu durumlarda faydalı."
+    },
+    {
+      "s": "Yeni bir yapay zeka modeli yalnızca yaklaşık bir düzine doğrulanmış vaka gördükten sonra bir kalp hastalığını tespit edebiliyor. Çok az veriye ihtiyaç duyduğu için, geliştiricileri hastanelerin onu hemen hastalarda kullanmaya başlayabileceğini söylüyor.",
+      "a": false,
+      "why": "Yakın ama araştırmacılar, sonuçların gerçek hasta bakımına yansıyıp yansımadığını öğrenmek için hâlâ klinik denemelere ihtiyaç olduğunu söylüyor."
+    },
+    {
+      "s": "Bir hastane çalışması, akıllı saatlerin insanları belirtiler başlamadan günler önce düzensiz kalp atışı konusunda uyarabildiğini buldu. Kalp doktorları, uyarıların yüzlerce hasta için daha erken tedaviye yol açtığını söylüyor.",
+      "a": false,
+      "why": "Ortada bir akıllı saat çalışması ve hasta uyarısı yoktu. Haber, çok az etiketlenmiş örnekten kalp hastalığını tespit etmeyi öğrenen yeni bir yapay zeka modeliyle ilgili."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "bir fikrin ana nedeni veya en önemli parçası olduğunu söylemek için kullanılır",
+    "Sounds promising": "bir şeyin başarılı olacağa veya iyi çalışacağa benzediğini söylemek için kullanılır",
+    "Not so fast": "çok hızlı ilerleyen veya karar veren birini durdurmak için kullanılır",
+    "Trust, but verify": "bir şeyi kabul etmekle birlikte yine de kendi kendine kontrol etmek istediğini söylemek için kullanılır",
+    "Better safe than sorry": "dikkatli olmanın fazladan zaman veya çabaya değdiğini söylemek için kullanılır"
+  }
+}

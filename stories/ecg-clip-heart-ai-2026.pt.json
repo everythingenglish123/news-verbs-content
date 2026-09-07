@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "pt",
+  "headline": "IA aprende a identificar doenças cardíacas a partir de uma dezena de exemplos",
+  "chunks": [
+    "Um novo sistema de IA consegue identificar sinais de uma doença cardíaca depois de ver apenas cerca de uma dezena de casos confirmados, dizem pesquisadores do Scripps Research, na Califórnia. O estudo sobre o sistema saiu na revista The Lancet Digital Health em 1º de setembro de 2026. Para construí-lo, a equipe reuniu mais de 1,7 milhão de eletrocardiogramas, registros da atividade elétrica do coração, de mais de 540.000 pessoas, junto com anotações médicas sobre cada caso.",
+    "O sistema é um modelo de base, uma IA que primeiro aprende conhecimento geral e depois é adaptada para muitas tarefas. Ele aprendeu quais palavras em uma anotação médica combinam com quais padrões em um registro cardíaco. O autor sênior do estudo disse que um clínico aprende da mesma forma: não a partir de um milhão de exemplos, mas entendendo o coração primeiro e depois vendo alguns casos. O modelo constrói um quadro geral antes de focar em uma única doença.",
+    "Os pesquisadores testaram o modelo em mais de 800.000 registros cardíacos. Ele acompanhou os melhores modelos usando cerca de 91 por cento menos dados rotulados manualmente, em média. Ele detectou ataques cardíacos e duas outras condições cardíacas, e superou outros modelos ao prever um ritmo cardíaco irregular a partir de registros que pareciam normais. Ele também previu quem desenvolveria doença renal ou diabetes tipo 2 dentro de três anos. A vantagem desapareceu quando muitos exemplos rotulados ficaram disponíveis.",
+    "Isso pode ajudar com doenças raras, onde existem apenas alguns poucos casos bem rotulados, diz a equipe. O modelo também pode indicar quais partes do sinal cardíaco ele usou, para que os médicos possam verificar seu raciocínio. Um coautor do estudo disse que ainda são necessários testes clínicos para descobrir se os resultados valem para o cuidado real de pacientes. Em seguida, a equipe planeja trazer dados de prontos-socorros e testar o modelo com dispositivos vestíveis."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "Detectar algo",
+      "wrong": "Rotular cada caso à mão"
+    },
+    {
+      "base": "come out",
+      "correct": "Ser publicado",
+      "wrong": "Testado em clínica"
+    },
+    {
+      "base": "put together",
+      "correct": "Reunir coisas em um só conjunto",
+      "wrong": "Guardar em um lugar seguro"
+    },
+    {
+      "base": "go with",
+      "correct": "Combinar com algo",
+      "wrong": "Verificar algo com cuidado"
+    },
+    {
+      "base": "build up",
+      "correct": "Desenvolver algo aos poucos",
+      "wrong": "Incluir como uma parte fixa"
+    },
+    {
+      "base": "zero in on",
+      "correct": "Dar toda a atenção a uma coisa",
+      "wrong": "Tratar todos os casos da mesma forma"
+    },
+    {
+      "base": "try out",
+      "correct": "Testar algo para ver como funciona",
+      "wrong": "Repetir um estudo em outro lugar"
+    },
+    {
+      "base": "keep up with",
+      "correct": "Manter-se no mesmo nível que",
+      "wrong": "Excluir dados de um teste"
+    },
+    {
+      "base": "fall away",
+      "correct": "Desaparecer aos poucos",
+      "wrong": "Ser mais lento que os outros"
+    },
+    {
+      "base": "point out",
+      "correct": "Mostrar ou indicar algo",
+      "wrong": "Enviar sinal a um aparelho"
+    },
+    {
+      "base": "find out",
+      "correct": "Descobrir se algo é verdade",
+      "wrong": "Tornar algo público"
+    },
+    {
+      "base": "carry over",
+      "correct": "Continuar valendo para outros pacientes",
+      "wrong": "Fazer um trabalho já planejado"
+    },
+    {
+      "base": "bring in",
+      "correct": "Adicionar algo novo a um sistema",
+      "wrong": "Mencionar um tema para discussão"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "Detectar algo",
+      "ex": [
+        "O teste pode detectar o vírus cedo.",
+        "Um cachorro consegue detectar um cheiro de longe.",
+        "O scanner detectou uma pequena rachadura no cano."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "Ser publicado",
+      "ex": [
+        "O relatório foi publicado na segunda-feira.",
+        "O novo livro dela sai em maio.",
+        "Os resultados são publicados na próxima semana."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "Reunir coisas em um só conjunto",
+      "ex": [
+        "A equipe reuniu uma lista de 200 pacientes.",
+        "Ela montou um álbum de fotos para os pais.",
+        "O museu organizou uma exposição de mapas antigos."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "Combinar com algo",
+      "ex": [
+        "Esse molho combina com peixe.",
+        "Quais sintomas combinam com a gripe?",
+        "A gravata azul combina com o terno cinza."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "Desenvolver algo aos poucos",
+      "ex": [
+        "Ela construiu um time forte ao longo de cinco anos.",
+        "O corredor foi ganhando velocidade durante a temporada.",
+        "A loja foi construindo uma lista de clientes fiéis."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "Dar toda a atenção a uma coisa",
+      "ex": [
+        "O detetive se concentrou em um suspeito.",
+        "O gavião se concentrou em um rato.",
+        "Vamos nos concentrar no problema principal."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Testar algo para ver como funciona",
+      "ex": [
+        "Você pode testar a bicicleta antes de comprar.",
+        "O chef testou uma nova receita.",
+        "Testamos o aplicativo com alguns usuários."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "Manter-se no mesmo nível que",
+      "ex": [
+        "O computador velho não acompanha o novo.",
+        "Ela se manteve no ritmo dos corredores mais rápidos.",
+        "A padaria não consegue acompanhar os pedidos em dezembro."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "Desaparecer aos poucos",
+      "ex": [
+        "O apoio ao plano foi desaparecendo aos poucos.",
+        "O barulho foi diminuindo quando o palestrante começou a falar.",
+        "A vantagem dele foi sumindo na última milha."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Mostrar ou indicar algo",
+      "ex": [
+        "O guia apontou a casa mais antiga.",
+        "Ela apontou um erro no meu e-mail.",
+        "O mapa indica a rota mais segura."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "Descobrir se algo é verdade",
+      "ex": [
+        "Precisamos descobrir se o remédio é seguro.",
+        "Precisamos descobrir se o telhado ainda tem vazamento.",
+        "Ela ligou para descobrir se o trem estava atrasado."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "Continuar valendo para outros pacientes",
+      "ex": [
+        "Habilidades do futebol se aplicam a outros esportes.",
+        "Os resultados também continuam valendo para pacientes mais jovens.",
+        "Bons hábitos da escola se levam para o trabalho."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Adicionar algo novo a um sistema",
+      "ex": [
+        "A cidade trouxe um novo programa de reciclagem.",
+        "A escola adotou um novo horário.",
+        "Eles planejam trazer dados de mais clínicas."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "Doze, ou mais ou menos doze",
+      "ex": [
+        "Ela comprou uma dúzia de ovos.",
+        "Cerca de uma dúzia de pessoas foi à reunião.",
+        "A equipe tem uma dúzia de jogadores."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "Exemplos de uma doença que os médicos verificaram e têm certeza",
+      "ex": [
+        "A cidade tem 40 casos confirmados de sarampo.",
+        "Só os casos confirmados contam no relatório.",
+        "Os casos confirmados aumentaram na semana passada."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "Registros da atividade elétrica do coração",
+      "ex": [
+        "Um eletrocardiograma leva só alguns minutos.",
+        "A clínica guarda eletrocardiogramas antigos.",
+        "Eletrocardiogramas podem mostrar um ataque cardíaco."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "Um sistema de IA treinado com uma grande quantidade de dados, depois ajustado para muitos usos",
+      "ex": [
+        "Um modelo de base pode ser ajustado para muitas tarefas.",
+        "A empresa construiu um modelo de base para linguagem.",
+        "Treinar um modelo de base exige uma quantidade enorme de dados."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "Alterado para se ajustar a um novo propósito",
+      "ex": [
+        "O livro foi adaptado para o palco.",
+        "A aula foi adaptada para crianças mais novas.",
+        "A ferramenta foi adaptada para uso em hospitais."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "Um médico ou enfermeiro que trata pacientes",
+      "ex": [
+        "Um clínico examinou o coração do paciente.",
+        "Os clínicos escrevem anotações depois de cada consulta.",
+        "O aplicativo foi projetado com clínicos."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "Uma compreensão ampla de algo, sem os detalhes",
+      "ex": [
+        "Me dê o quadro geral primeiro.",
+        "O relatório dá um quadro geral da economia.",
+        "Ela tinha um quadro geral de como o motor funciona."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "Marcado por uma pessoa, um item de cada vez",
+      "ex": [
+        "Dados rotulados à mão demoram para ser produzidos.",
+        "Cada foto rotulada à mão levava um minuto.",
+        "O modelo precisa de menos dados rotulados à mão."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "Eventos repentinos em que o sangue para de chegar a uma parte do coração",
+      "ex": [
+        "Ataques cardíacos são mais comuns no inverno.",
+        "Ele teve um ataque cardíaco aos 52 anos.",
+        "Dor no peito pode ser um sinal de ataque cardíaco."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "Um ritmo cardíaco que não é estável",
+      "ex": [
+        "O médico notou um ritmo cardíaco irregular.",
+        "Um ritmo cardíaco irregular pode causar tontura.",
+        "O relógio dela a avisou de um ritmo cardíaco irregular."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "Doença em que os rins param de limpar bem o sangue",
+      "ex": [
+        "A doença renal costuma se desenvolver devagar.",
+        "A pressão alta pode levar à doença renal.",
+        "Ele toma remédio para a doença renal."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "Algo que torna uma coisa melhor que as outras",
+      "ex": [
+        "A velocidade é a principal vantagem do novo trem.",
+        "O time da casa tem uma vantagem.",
+        "A vantagem desapareceu depois de um ano."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "Doenças que muito poucas pessoas têm",
+      "ex": [
+        "Doenças raras costumam ser difíceis de diagnosticar.",
+        "A clínica trata várias doenças raras.",
+        "Poucos médicos já viram essa doença rara."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "Um número muito pequeno de",
+      "ex": [
+        "Só um punhado de pessoas veio.",
+        "Um punhado de escolas testou o programa.",
+        "Ela tem um punhado de amigos próximos."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "Os passos de pensamento por trás de uma decisão",
+      "ex": [
+        "Explique seu raciocínio para a turma.",
+        "A juíza deu seu raciocínio por escrito.",
+        "Eu não entendo o raciocínio dele."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "Testes de um tratamento ou ferramenta em pacientes reais",
+      "ex": [
+        "O remédio passou por três testes clínicos.",
+        "Testes clínicos podem levar anos.",
+        "Os pacientes se voluntariaram para o teste clínico."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "O tratamento e a ajuda que os pacientes recebem",
+      "ex": [
+        "As enfermeiras são fundamentais para o cuidado do paciente.",
+        "O hospital melhorou o cuidado do paciente no ano passado.",
+        "Melhores registros levam a um melhor cuidado do paciente."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "Áreas do hospital que tratam casos repentinos e graves",
+      "ex": [
+        "Os prontos-socorros ficam mais cheios nos fins de semana.",
+        "Ele esperou três horas no pronto-socorro.",
+        "Os prontos-socorros atendem muitos casos de dor no peito."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "Pequenos aparelhos eletrônicos usados no corpo, como relógios inteligentes",
+      "ex": [
+        "Dispositivos vestíveis podem contar seus passos.",
+        "Alguns dispositivos vestíveis registram o ritmo cardíaco.",
+        "As vendas de dispositivos vestíveis aumentaram este ano."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "O modelo foi treinado com mais de 1,7 milhão de registros cardíacos.",
+      "a": true,
+      "why": "A equipe reuniu mais de 1,7 milhão de registros cardíacos de mais de 540.000 pessoas, junto com as anotações que os médicos haviam escrito sobre eles."
+    },
+    {
+      "s": "O modelo precisa de milhares de casos confirmados para aprender uma nova doença.",
+      "a": false,
+      "why": "O sistema consegue identificar sinais de uma doença cardíaca depois de ver apenas cerca de uma dezena de casos confirmados, dizem os pesquisadores."
+    },
+    {
+      "s": "O sistema usou cerca de 91 por cento menos dados rotulados manualmente do que os modelos padrão.",
+      "a": true,
+      "why": "Ele acompanhou os melhores modelos usando cerca de 91 por cento menos dados rotulados manualmente, em média."
+    },
+    {
+      "s": "Os pesquisadores testaram o modelo em mais de 800.000 registros cardíacos.",
+      "a": true,
+      "why": "Eles testaram o modelo em mais de 800.000 registros cardíacos, e ele detectou ataques cardíacos e duas outras condições cardíacas."
+    },
+    {
+      "s": "O estudo saiu na revista Nature.",
+      "a": false,
+      "why": "Ele saiu na The Lancet Digital Health em 1º de setembro de 2026."
+    },
+    {
+      "s": "A equipe diz que o modelo está pronto para ser usado com pacientes reais.",
+      "a": false,
+      "why": "Um coautor do estudo disse que ainda são necessários testes clínicos para descobrir se os resultados valem para o cuidado real de pacientes."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Pesquisadores construíram um modelo de IA que aprendeu com 1,7 milhão de registros cardíacos e anotações médicas. Ele agora consegue reconhecer uma doença cardíaca a partir de cerca de uma dezena de exemplos, o que pode ajudar com doenças raras.",
+      "a": true,
+      "why": "O sistema foi treinado com mais de 1,7 milhão de registros cardíacos combinados com anotações de clínicos, e precisa apenas de cerca de uma dezena de casos confirmados para detectar uma doença, útil onde existem poucos casos rotulados."
+    },
+    {
+      "s": "Um novo modelo de IA consegue detectar uma doença cardíaca depois de ver apenas cerca de uma dezena de casos confirmados. Como precisa de tão pouca informação, seus criadores dizem que os hospitais já podem começar a usá-lo em pacientes.",
+      "a": false,
+      "why": "Quase, mas os pesquisadores dizem que ainda são necessários testes clínicos para descobrir se os resultados valem para o cuidado real de pacientes."
+    },
+    {
+      "s": "Um estudo hospitalar descobriu que relógios inteligentes podem avisar as pessoas sobre um ritmo cardíaco irregular dias antes de os sintomas começarem. Cardiologistas dizem que os alertas levaram a um tratamento mais cedo para centenas de pacientes.",
+      "a": false,
+      "why": "Não houve nenhum estudo com relógios inteligentes nem alertas para pacientes. A notícia é sobre um novo modelo de IA que aprende a detectar doenças cardíacas a partir de pouquíssimos exemplos rotulados."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "Usado para dizer que algo é o principal motivo ou a parte mais importante de uma ideia",
+    "Sounds promising": "Usado para dizer que algo parece ter boas chances de dar certo",
+    "Not so fast": "Usado para deter alguém que está agindo ou decidindo depressa demais",
+    "Trust, but verify": "Usado para dizer que você aceita algo, mas ainda quer conferir por conta própria",
+    "Better safe than sorry": "Usado para dizer que ter cuidado vale o tempo ou o esforço extra"
+  }
+}

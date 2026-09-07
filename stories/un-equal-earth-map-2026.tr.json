@@ -1,0 +1,436 @@
+{
+  "id": "un-equal-earth-map-2026",
+  "number": 104,
+  "lang": "tr",
+  "headline": "BM, Afrika'yı gerçek boyutuyla gösteren haritayı kabul etti",
+  "chunks": [
+    "Birleşmiş Milletler Genel Kurulu, Cuma günü, 4 Eylül 2026'da, dünyayı geleneksel Mercator haritasından uzaklaşmaya teşvik etmek için oy kullandı. Togo, Afrika Birliği'nin desteğiyle kararı Afrika Grubu adına önerdi. Karar 164 lehte oyla kabul edildi. Amerika Birleşik Devletleri karşı oy kullanan tek ülkeydi ve Ukrayna ile Sırbistan dahil altı ülke çekimser kaldı.",
+    "Mercator haritası, Mercator adlı bir Flaman harita yapımcısının denizciler için tasarladığı 1569 yılına kadar uzanıyor. Haritasında düz bir çizgi sabit bir pusula yönüyle örtüşüyor, böylece denizciler tek bir düz çizgi boyunca bir rota planlayabiliyordu. Bunun bedeli boyuttu. Harita, kutuplara yakın kara parçalarını olduğundan büyük gösteriyor, bu yüzden Grönland, Afrika'dan yaklaşık 14 kat daha küçük olmasına rağmen Afrika ile yaklaşık aynı büyüklükte görünüyor.",
+    "Equal Earth projeksiyonu çok daha yeni. ABD Ulusal Park Servisi'nde eski bir kıdemli harita uzmanı, iki meslektaşıyla birlikte bunu 2018'de düşündü. Kıtaları gerçek oranlarıyla gösteriyor, ancak şekiller hafifçe çarpık. Karar, göreli boyutun önemli olduğu durumlarda hükümetleri, okulları, uluslararası kuruluşları ve teknoloji şirketlerini Equal Earth ve benzeri haritaları kullanmaya çağırıyor. Bağlayıcı değil. Mercator haritasını yasaklamıyor ve deniz ile hava seyrüseferinde kullanılmasını da dışlamıyor.",
+    "Togo'nun dışişleri bakanı, “Haritalar dünyayı anlayışımızı şekillendiriyor” dedi. Amerika Birleşik Devletleri karara açıkça karşı çıkarak onu ideolojik bir projenin parçası olarak nitelendirdi. Ukrayna, işgal altındaki bölgenin nasıl görüneceği konusunda endişelerini dile getirdi ve Avrupa Birliği oylamanın sınırlar üzerinde hiçbir etkisi olmadığını söyledi. Fransa, dünya haritaları için Equal Earth'e geçeceğini söyledi. Bir kampanya grubu olan Africa No Filter, doğru haritaların okullarda, ders kitaplarında ve haber kuruluşlarında yaygın olarak sunulmasını istiyor."
+  ],
+  "verbs": [
+    {
+      "base": "move away from",
+      "correct": "Bir şeyi kullanmayı bırakmak",
+      "wrong": "Bir sonraki konuya geçmek"
+    },
+    {
+      "base": "put forward",
+      "correct": "Oylama için resmen önermek",
+      "wrong": "Sonraki bir toplantıya ertelemek"
+    },
+    {
+      "base": "go through",
+      "correct": "Oylamayla kabul edilmek",
+      "wrong": "Uzun süre tartışılmak"
+    },
+    {
+      "base": "date back",
+      "correct": "Belirli bir tarihten beri var olmak",
+      "wrong": "Daha yeni bir sürümle değiştirilmek"
+    },
+    {
+      "base": "map out",
+      "correct": "Bir güzergahı ayrıntılı olarak planlamak",
+      "wrong": "Bir arazinin büyüklüğünü ölçmek"
+    },
+    {
+      "base": "blow up",
+      "correct": "Bir şeyi olduğundan büyük göstermek",
+      "wrong": "Düz bir yüzeye kopyalamak"
+    },
+    {
+      "base": "come across as",
+      "correct": "Belirli bir şekilde görünmek",
+      "wrong": "Bir süre sonra hemfikir olmak"
+    },
+    {
+      "base": "come up with",
+      "correct": "Yeni bir şey düşünmek",
+      "wrong": "Güçlü bir dirençle karşılaşmak"
+    },
+    {
+      "base": "call on",
+      "correct": "Birinden resmen harekete geçmesini istemek",
+      "wrong": "Önceden planlanmış bir şeyi iptal etmek"
+    },
+    {
+      "base": "rule out",
+      "correct": "Bir şeye izin verilmediğini söylemek",
+      "wrong": "Bir konuda resmi bir karar vermek"
+    },
+    {
+      "base": "speak out against",
+      "correct": "Karşı olduğunu açıkça söylemek",
+      "wrong": "Bir grubun görüşlerini aktarmak"
+    },
+    {
+      "base": "switch over to",
+      "correct": "Başka bir şeye geçmek",
+      "wrong": "Bir şeyi sırayla yapmak"
+    },
+    {
+      "base": "roll out",
+      "correct": "Bir şeyi yaygın olarak sunmak",
+      "wrong": "Önceki bir sürüme geri dönmek"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Move away from",
+      "def": "Bir şeyi kullanmayı bırakmak",
+      "ex": [
+        "Kasaba kömür kullanmayı bırakmak istiyor.",
+        "Birçok ofis kağıt dosya kullanmayı bıraktı.",
+        "Havayolu şirketi nakit ödemeleri bırakıyor."
+      ]
+    },
+    {
+      "verb": "Put forward",
+      "def": "Oylama için resmen önermek",
+      "ex": [
+        "Yolları onarmak için bir plan önerdi.",
+        "İki üye kulüp için yeni kurallar önerdi.",
+        "Fikir son toplantıda önerildi."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Oylamayla kabul edilmek",
+      "ex": [
+        "Yeni yasa geçen hafta kabul edildi.",
+        "Bütçe fazla tartışılmadan kabul edildi.",
+        "Plan kabul edilirse park mayısta açılacak."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Belirli bir tarihten beri var olmak",
+      "ex": [
+        "Kilise 1200'lü yıllardan beri var.",
+        "Bu gelenek yüzyıllardır var.",
+        "Dostlukları üniversite yıllarından beri sürüyor."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "def": "Bir güzergahı ayrıntılı olarak planlamak",
+      "ex": [
+        "Mutfak masasında yol gezimizin güzergahını planladık.",
+        "Kaptan fırtınayı atlatacak bir rota planladı.",
+        "Otelden müzeye kadar olan yürüyüş yolunu planladı."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "def": "Bir şeyi olduğundan büyük göstermek",
+      "ex": [
+        "Dükkan fotoğrafı poster boyutuna büyüttü.",
+        "Küçük yazıyı büyütmek için yakınlaştır.",
+        "Ekran, herkes görebilsin diye görüntüyü büyütüyor."
+      ]
+    },
+    {
+      "verb": "Come across as",
+      "def": "Belirli bir şekilde görünmek",
+      "ex": [
+        "Çok kendinden emin biri gibi görünüyor.",
+        "E-posta biraz soğuk göründü.",
+        "Kamerada küçük oda kocaman görünüyor."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Yeni bir şey düşünmek",
+      "ex": [
+        "Takım daha ucuz bir tasarım düşündü.",
+        "Uygulama için bir isim düşünebilir misin?",
+        "Beş dakikada bir plan düşündü."
+      ]
+    },
+    {
+      "verb": "Call on",
+      "def": "Birinden resmen harekete geçmesini istemek",
+      "ex": [
+        "Belediye başkanı sakinlerden su tasarrufu yapmalarını istedi.",
+        "Grup, okullardan daha fazla fen bilimi öğretmelerini istiyor.",
+        "Doktorlar hükümetten hızlı hareket etmesini istedi."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "def": "Bir şeye izin verilmediğini söylemek",
+      "ex": [
+        "Okul sınavlarda telefonlara izin verilmediğini söyledi.",
+        "Kurallar evden çalışmayı yasaklamıyor.",
+        "Ev sahibi binada evcil hayvana izin vermedi."
+      ]
+    },
+    {
+      "verb": "Speak out against",
+      "def": "Karşı olduğunu açıkça söylemek",
+      "ex": [
+        "Ebeveynler okulun kapatılmasına açıkça karşı çıktı.",
+        "Birkaç sporcu yeni kurala açıkça karşı çıktı.",
+        "Plana açıkça karşı çıkan ilk kişi oydu."
+      ]
+    },
+    {
+      "verb": "Switch over to",
+      "def": "Başka bir şeye geçmek",
+      "ex": [
+        "Daha ucuz bir telefon paketine geçtik.",
+        "Ofis yeni bir e-posta sistemine geçiyor.",
+        "Birçok sürücü elektrikli arabalara geçti."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Bir şeyi yaygın olarak sunmak",
+      "ex": [
+        "Banka geçen ay yeni uygulamasını kullanıma sundu.",
+        "Şehir gelecek yıl elektrikli otobüsleri hizmete sunacak.",
+        "Şirket güncellemeyi tüm kullanıcılara sundu."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "traditional",
+      "def": "Uzun süredir aynı şekilde kullanılan veya yapılan",
+      "ex": [
+        "Aile Şükran Günü için geleneksel bir yemek hazırladı.",
+        "Okul hâlâ geleneksel basılı kitaplar kullanıyor.",
+        "Birçok sınıfın duvarında geleneksel haritalar asılıdır."
+      ]
+    },
+    {
+      "word": "resolution",
+      "def": "Oylamayla kabul edilen resmi bir karar veya bildiri",
+      "ex": [
+        "Meclis daha fazla ağaç dikilmesi için bir karar aldı.",
+        "Karar üyelerin çoğu tarafından desteklendi.",
+        "BM temiz su konusunda bir karar aldı."
+      ]
+    },
+    {
+      "word": "backing",
+      "def": "Bir kişi veya gruptan gelen destek",
+      "ex": [
+        "Plan, belediye meclisinin desteğine sahip.",
+        "Mali destek olmadan proje durdu.",
+        "Öğretmenlerin güçlü desteğiyle seçimi kazandı."
+      ]
+    },
+    {
+      "word": "in favor",
+      "def": "Bir oylamada bir şeyi desteklemek",
+      "ex": [
+        "On iki üye planın lehine oy verdi.",
+        "Ebeveynlerin çoğu daha uzun bir okul gününden yana.",
+        "Yönetim kurulu yeni müdürün lehine oy verdi."
+      ]
+    },
+    {
+      "word": "abstained",
+      "def": "Ne lehte ne de aleyhte oy vermemeyi seçti",
+      "ex": [
+        "Üç üye oylamada çekimser kaldı.",
+        "Plandan emin olmadığı için çekimser kaldı.",
+        "İki ülke karar konusunda çekimser kaldı."
+      ]
+    },
+    {
+      "word": "mapmaker",
+      "def": "Harita çizen kişi",
+      "ex": [
+        "Harita yapımcısı her nehri elle çizdi.",
+        "İlk harita yapımcıları denizcilerin raporlarından yararlandı.",
+        "Müze, 17. yüzyıl bir harita yapımcısının kullandığı aletleri sergiliyor."
+      ]
+    },
+    {
+      "word": "compass direction",
+      "def": "Kuzey, güney, doğu veya batı gibi bir yön",
+      "ex": [
+        "Yürüyüşçüler her saat pusula yönlerini kontrol etti.",
+        "Tapınağın her duvarı farklı bir yöne bakıyor.",
+        "Tabela, bir sonraki kasabaya olan pusula yönünü gösteriyor."
+      ]
+    },
+    {
+      "word": "navigators",
+      "def": "Bir geminin veya uçağın rotasını planlayıp yönlendiren kişiler",
+      "ex": [
+        "İlk denizciler yollarını bulmak için yıldızları kullandı.",
+        "Seyir subayı kaptanı önündeki kayalar konusunda uyardı.",
+        "Modern seyir subayları uydu sinyallerine bağlıdır."
+      ]
+    },
+    {
+      "word": "landmasses",
+      "def": "Kıtalar gibi çok geniş kara parçaları",
+      "ex": [
+        "Asya, Dünya'daki en büyük kara parçasıdır.",
+        "Milyonlarca yıl önce kara parçaları birbirine bağlıydı.",
+        "Harita, kara parçalarını yeşil renkle gösteriyor."
+      ]
+    },
+    {
+      "word": "poles",
+      "def": "Dünyanın en kuzey ve en güney noktaları",
+      "ex": [
+        "Buz, kutuplara yakın karayı kaplar.",
+        "Kutuplarda yaz aylarında güneş hiç batmaz.",
+        "Kaşifler 1900'lerin başında her iki kutba da ulaştı."
+      ]
+    },
+    {
+      "word": "projection",
+      "def": "Yuvarlak Dünya'yı düz bir haritada göstermenin bir yolu",
+      "ex": [
+        "Her harita projeksiyonu bir şekilde şekilleri veya boyutları değiştirir.",
+        "Öğretmen dünyanın iki farklı projeksiyonunu karşılaştırdı.",
+        "Bu projeksiyon, ülkelerin boyutlarını doğru şekilde koruyor."
+      ]
+    },
+    {
+      "word": "senior cartographer",
+      "def": "Harita yapan deneyimli bir uzman",
+      "ex": [
+        "Bir seyahat şirketinde kıdemli harita uzmanı olarak çalıştı.",
+        "Kıdemli harita uzmanı yeni haritadaki her yolu kontrol etti.",
+        "Ajans, atlasını güncellemek için kıdemli bir harita uzmanı işe aldı."
+      ]
+    },
+    {
+      "word": "true proportions",
+      "def": "Şeylerin birbirine göre doğru boyutları",
+      "ex": [
+        "Model, gezegenleri gerçek oranlarıyla gösteriyor.",
+        "Çizim, binanın gerçek oranlarını göstermiyor.",
+        "Bir küre, kıtaları gerçek oranlarıyla gösterir."
+      ]
+    },
+    {
+      "word": "distorted",
+      "def": "Şekli veya boyutu yanlış olacak şekilde değiştirilmiş",
+      "ex": [
+        "Ayna yüzünün çarpık bir görüntüsünü verdi.",
+        "Fotoğraf kenarlarda çarpık görünüyordu.",
+        "Sesi telefonda çarpık çıkıyordu."
+      ]
+    },
+    {
+      "word": "relative size",
+      "def": "Bir şeyin başka bir şeye göre ne kadar büyük olduğu",
+      "ex": [
+        "Grafik, her ülkenin ekonomisinin göreli büyüklüğünü gösteriyor.",
+        "Çocuklar güneş ile ayın göreli büyüklüğünü genellikle yanlış tahmin eder.",
+        "İki odanın göreli büyüklüğü alıcıları şaşırttı."
+      ]
+    },
+    {
+      "word": "binding",
+      "def": "Kanun veya sözleşme gereği uyulması zorunlu",
+      "ex": [
+        "Sözleşme iki yıl boyunca bağlayıcıdır.",
+        "Oylama bağlayıcı değildi, bu yüzden hiçbir şey değişmedi.",
+        "Hâkimin kararı her iki taraf için de bağlayıcıdır."
+      ]
+    },
+    {
+      "word": "foreign minister",
+      "def": "Diğer ülkelerle ilişkilerden sorumlu hükümet yetkilisi",
+      "ex": [
+        "Dışişleri bakanı Tokyo'da Japon mevkidaşıyla görüştü.",
+        "Dışişleri bakanı salı günü BM'de konuştu.",
+        "Gazeteciler dışişleri bakanına ticaret görüşmeleri hakkında sorular sordu."
+      ]
+    },
+    {
+      "word": "ideological",
+      "def": "Bir dizi siyasi inanca dayanan",
+      "ex": [
+        "İki partinin derin ideolojik farkları var.",
+        "Eleştirmenler yeni yasayı ideolojik bir hamle olarak nitelendirdi.",
+        "İdeolojik anlaşmazlıklar yüzünden gruptan ayrıldı."
+      ]
+    },
+    {
+      "word": "occupied territory",
+      "def": "Yabancı bir ordunun kontrolündeki toprak",
+      "ex": [
+        "Yardım grupları işgal altındaki bölgeye ulaşmakta zorlandı.",
+        "İşgal altındaki bölgenin haritaları yıllarca tartışmalıydı.",
+        "Aileler savaş sırasında işgal altındaki bölgeden kaçtı."
+      ]
+    },
+    {
+      "word": "bearing",
+      "def": "Bir şey üzerindeki etki veya onunla bağlantı",
+      "ex": [
+        "Hava durumunun final skoruna hiçbir etkisi olmadı.",
+        "Yaşının doktorun kararı üzerinde bir miktar etkisi var.",
+        "Yeni kuralın şu anki öğrenciler üzerinde hiçbir etkisi yok."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Karara karşı oy kullanan tek ülke Amerika Birleşik Devletleri'ydi.",
+      "a": true,
+      "why": "Toplamda 164 üye ülke lehte oy kullandı ve altısı çekimser kaldı. Amerika Birleşik Devletleri karara açıkça karşı çıkarak onu ideolojik bir projenin parçası olarak nitelendirdi."
+    },
+    {
+      "s": "Karar, Mercator haritasının deniz ve hava seyrüseferinde kullanılmasını yasaklıyor.",
+      "a": false,
+      "why": "Karar bağlayıcı değil, Mercator haritasını yasaklamıyor ve deniz ile hava seyrüseferinde kullanılmasını da dışlamıyor."
+    },
+    {
+      "s": "Mercator haritasında Grönland, Afrika ile yaklaşık aynı büyüklükte görünüyor.",
+      "a": true,
+      "why": "Harita, kutuplara yakın kara parçalarını olduğundan büyük gösteriyor, oysa Afrika Grönland'dan yaklaşık 14 kat daha büyük."
+    },
+    {
+      "s": "Equal Earth projeksiyonu 1569'da oluşturuldu.",
+      "a": false,
+      "why": "ABD Ulusal Park Servisi'nde eski bir kıdemli harita uzmanı, iki meslektaşıyla birlikte Equal Earth'ü 2018'de düşündü; 1569'dan beri var olan Mercator haritasıdır."
+    },
+    {
+      "s": "Togo, kararı Afrika Grubu adına önerdi.",
+      "a": true,
+      "why": "Togo, Afrika Birliği'nin desteğini aldı ve karar 164 lehte oyla kabul edildi."
+    },
+    {
+      "s": "Fransa, dünya haritalarında Mercator haritasını kullanmaya devam edeceğini söyledi.",
+      "a": false,
+      "why": "Fransa, dünya haritaları için Equal Earth'e geçeceğini söyledi."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "BM Genel Kurulu, Afrika'yı olduğundan çok daha küçük gösteren Mercator haritası yerine Equal Earth haritasının kullanımını teşvik etmek için oy kullandı. Bu oylama bir tavsiyedir, yasak değildir.",
+      "a": true,
+      "why": "Togo'nun kararı 164'e 1 oyla kabul edildi ve hükümetleri, okulları ve şirketleri Equal Earth kullanmaya çağırıyor, ama bağlayıcı değil ve Mercator haritasını yasaklamıyor."
+    },
+    {
+      "s": "BM üyeleri, dünya genelinde okullarda ve devlet dairelerinde Mercator haritasını yasaklamak için oy kullandı. Artık her ülkenin Equal Earth projeksiyonuna geçmesi için yıl sonuna kadar süresi var.",
+      "a": false,
+      "why": "Yaklaşık doğru, ama karar yalnızca Equal Earth kullanımını teşvik ediyor. Mercator haritasını yasaklamıyor veya bir değişimi zorunlu kılmıyor, ve kimseye bir son tarih belirlemiyor."
+    },
+    {
+      "s": "Afrika Birliği, kıtayı gerçek boyutuyla gösteren kendi çevrimiçi harita hizmetini başlattı. Milyonlarca insan yeni uygulamayı ilk haftasında indirdi.",
+      "a": false,
+      "why": "Afrika Birliği yalnızca harita projeksiyonlarıyla ilgili bir BM oylamasını destekledi. Bir harita hizmeti veya uygulama başlatmadı."
+    }
+  ],
+  "dialogue": {
+    "I had no idea": "Bir gerçeğin senin için tamamen yeni ve şaşırtıcı olduğunu söylemek için kullanılır",
+    "Old habits die hard": "Daha iyi bir yol olsa bile insanların bir şeyi eski usulde yapmaya devam ettiğini söylemek için kullanılır",
+    "About time": "Bir şeyin çok daha önce olması gerektiğini söylemek için kullanılır",
+    "You can see their point": "Tamamen katılmasan bile birinin endişesinin veya görüşünün anlaşılır olduğunu söylemek için kullanılır",
+    "It's a start": "Çok daha fazlası gerekse bile küçük bir adımın yine de ilerleme sayıldığını söylemek için kullanılır"
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "de",
+  "headline": "KI lernt, Herzkrankheiten anhand eines Dutzends Beispiele zu erkennen",
+  "chunks": [
+    "Ein neues KI-System kann Anzeichen einer Herzkrankheit erkennen, nachdem es nur etwa ein Dutzend bestätigte Fälle gesehen hat, sagen Forscher von Scripps Research in Kalifornien. Die Studie zu dem System erschien am 1. September 2026 in The Lancet Digital Health. Um es zu entwickeln, stellte das Team mehr als 1,7 Millionen Elektrokardiogramme zusammen, Aufzeichnungen der elektrischen Aktivität des Herzens, von mehr als 540.000 Menschen, zusammen mit den Notizen der Ärzte zu jedem Fall.",
+    "Das System ist ein Basismodell, eine KI, die zuerst allgemeines Wissen lernt und dann für viele Aufgaben angepasst wird. Es lernte, welche Wörter in der Notiz eines Arztes zu welchen Mustern in einer Herzaufzeichnung passen. Der leitende Autor der Studie sagte, ein Kliniker lerne auf dieselbe Weise: nicht aus einer Million Beispielen, sondern indem er zuerst das Herz versteht und dann einige Fälle sieht. Das Modell baut sich nach und nach ein allgemeines Bild auf, bevor es sich auf eine einzelne Krankheit konzentriert.",
+    "Die Forscher testeten das Modell an mehr als 800.000 Herzaufzeichnungen. Es hielt mit den besten Modellen mit, während es im Durchschnitt etwa 91 Prozent weniger von Hand gekennzeichnete Daten verwendete. Es erkannte Herzinfarkte und zwei weitere Herzerkrankungen und schlug andere Modelle darin, einen unregelmäßigen Herzschlag aus Aufzeichnungen vorherzusagen, die normal aussahen. Es sagte auch voraus, wer innerhalb von drei Jahren eine Nierenerkrankung oder Typ-2-Diabetes entwickeln würde. Der Vorteil verschwand nach und nach, sobald viele gekennzeichnete Beispiele verfügbar waren.",
+    "Das könnte bei seltenen Krankheiten helfen, bei denen nur eine Handvoll gut gekennzeichneter Fälle existiert, sagt das Team. Das Modell kann auch aufzeigen, welche Teile des Herzsignals es verwendet hat, damit Ärzte seine Argumentation überprüfen können. Ein Koautor der Studie sagte, klinische Studien seien noch nötig, um herauszufinden, ob die Ergebnisse auch für die echte Patientenversorgung gelten. Als Nächstes plant das Team, Daten aus Notaufnahmen einzubeziehen und das Modell mit tragbaren Geräten zu testen."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "Etwas erkennen",
+      "wrong": "Jeden Fall kennzeichnen"
+    },
+    {
+      "base": "come out",
+      "correct": "Veröffentlicht werden",
+      "wrong": "In einer Klinik getestet werden"
+    },
+    {
+      "base": "put together",
+      "correct": "Dinge zu einem Satz zusammenstellen",
+      "wrong": "An einem sicheren Ort aufbewahren"
+    },
+    {
+      "base": "go with",
+      "correct": "Zu etwas passen",
+      "wrong": "Etwas sorgfältig prüfen"
+    },
+    {
+      "base": "build up",
+      "correct": "Etwas nach und nach entwickeln",
+      "wrong": "Als festen Teil einbeziehen"
+    },
+    {
+      "base": "zero in on",
+      "correct": "Sich ganz auf eine Sache konzentrieren",
+      "wrong": "Jeden einzelnen Fall gleich behandeln"
+    },
+    {
+      "base": "try out",
+      "correct": "Etwas testen, um zu sehen, wie es funktioniert",
+      "wrong": "Eine Studie an einem anderen Ort wiederholen"
+    },
+    {
+      "base": "keep up with",
+      "correct": "Auf demselben Niveau bleiben wie",
+      "wrong": "Daten aus einem Test ausschließen"
+    },
+    {
+      "base": "fall away",
+      "correct": "Langsam verschwinden",
+      "wrong": "Langsamer sein als andere"
+    },
+    {
+      "base": "point out",
+      "correct": "Etwas zeigen oder anzeigen",
+      "wrong": "Ein Signal an ein Gerät senden"
+    },
+    {
+      "base": "find out",
+      "correct": "Herausfinden, ob etwas wahr ist",
+      "wrong": "Etwas öffentlich machen"
+    },
+    {
+      "base": "carry over",
+      "correct": "Für andere Patienten weiterhin gelten",
+      "wrong": "Eine geplante Arbeit ausführen"
+    },
+    {
+      "base": "bring in",
+      "correct": "Etwas Neues in ein System einbringen",
+      "wrong": "Ein Thema zur Diskussion erwähnen"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "Etwas erkennen",
+      "ex": [
+        "Der Test kann das Virus früh erkennen.",
+        "Ein Hund kann einen Geruch von weitem erkennen.",
+        "Der Scanner erkannte einen kleinen Riss im Rohr."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "Veröffentlicht werden",
+      "ex": [
+        "Der Bericht wurde am Montag veröffentlicht.",
+        "Ihr neues Buch wird im Mai veröffentlicht.",
+        "Die Ergebnisse werden nächste Woche veröffentlicht."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "Dinge zu einem Satz zusammenstellen",
+      "ex": [
+        "Das Team stellte eine Liste von 200 Patienten zusammen.",
+        "Sie stellte ein Fotoalbum für ihre Eltern zusammen.",
+        "Das Museum stellte eine Ausstellung alter Karten zusammen."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "Zu etwas passen",
+      "ex": [
+        "Diese Soße passt gut zu Fisch.",
+        "Welche Symptome passen zur Grippe?",
+        "Die blaue Krawatte passt zu deinem grauen Anzug."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "Etwas nach und nach entwickeln",
+      "ex": [
+        "Sie entwickelte über fünf Jahre ein starkes Team.",
+        "Der Läufer steigerte im Laufe der Saison nach und nach sein Tempo.",
+        "Der Laden baute sich nach und nach einen Stamm an Stammkunden auf."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "Sich ganz auf eine Sache konzentrieren",
+      "ex": [
+        "Der Detektiv konzentrierte sich ganz auf einen Verdächtigen.",
+        "Der Falke konzentrierte sich ganz auf eine Maus.",
+        "Konzentrieren wir uns auf das Hauptproblem."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "Etwas testen, um zu sehen, wie es funktioniert",
+      "ex": [
+        "Du kannst das Fahrrad testen, bevor du es kaufst.",
+        "Der Koch testete ein neues Rezept.",
+        "Wir testeten die App mit ein paar Nutzern."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "Auf demselben Niveau bleiben wie",
+      "ex": [
+        "Der alte Computer kann mit dem neuen nicht mithalten.",
+        "Sie blieb auf dem Niveau der schnellsten Läufer.",
+        "Die Bäckerei kommt im Dezember mit den Bestellungen nicht hinterher."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "Langsam verschwinden",
+      "ex": [
+        "Die Unterstützung für den Plan verschwand nach und nach.",
+        "Der Lärm verschwand langsam, als der Redner begann.",
+        "Sein Vorsprung schwand auf der letzten Meile."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Etwas zeigen oder anzeigen",
+      "ex": [
+        "Der Führer zeigte das älteste Haus.",
+        "Sie wies auf einen Fehler in meiner E-Mail hin.",
+        "Die Karte zeigt die sicherste Route."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "Herausfinden, ob etwas wahr ist",
+      "ex": [
+        "Wir müssen herausfinden, ob das Medikament sicher ist.",
+        "Wir müssen herausfinden, ob das Dach noch undicht ist.",
+        "Sie rief an, um herauszufinden, ob der Zug Verspätung hatte."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "Für andere Patienten weiterhin gelten",
+      "ex": [
+        "Fähigkeiten aus dem Fußball gelten auch in anderen Sportarten.",
+        "Die Ergebnisse gelten auch für jüngere Patienten.",
+        "Gute Gewohnheiten aus der Schule gelten auch bei der Arbeit."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Etwas Neues in ein System einbringen",
+      "ex": [
+        "Die Stadt führte ein neues Recyclingprogramm ein.",
+        "Die Schule führte einen neuen Stundenplan ein.",
+        "Sie planen, Daten aus weiteren Kliniken einzubeziehen."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "Zwölf, oder ungefähr zwölf",
+      "ex": [
+        "Sie kaufte ein Dutzend Eier.",
+        "Etwa ein Dutzend Leute kamen zu dem Treffen.",
+        "Das Team hat ein Dutzend Spieler."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "Fälle einer Krankheit, die Ärzte überprüft haben und von denen sie sicher sind",
+      "ex": [
+        "Die Stadt hat 40 bestätigte Masernfälle.",
+        "Im Bericht zählen nur bestätigte Fälle.",
+        "Die bestätigten Fälle stiegen letzte Woche."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "Aufzeichnungen der elektrischen Aktivität des Herzens",
+      "ex": [
+        "Elektrokardiogramme dauern nur wenige Minuten.",
+        "Die Klinik bewahrt alte Elektrokardiogramme auf.",
+        "Elektrokardiogramme können einen Herzinfarkt zeigen."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "Ein KI-System, das mit einer großen Datenmenge trainiert und dann für viele Zwecke angepasst wird",
+      "ex": [
+        "Ein Basismodell kann für viele Aufgaben angepasst werden.",
+        "Das Unternehmen baute ein Basismodell für Sprache.",
+        "Das Training eines Basismodells erfordert riesige Datenmengen."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "Verändert, um einem neuen Zweck zu dienen",
+      "ex": [
+        "Das Buch wurde für die Bühne bearbeitet.",
+        "Die Lektion wurde für jüngere Kinder angepasst.",
+        "Das Werkzeug wurde für den Einsatz in Krankenhäusern angepasst."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "Ein Arzt oder eine Pflegekraft, die Patienten behandelt",
+      "ex": [
+        "Ein Arzt untersuchte das Herz des Patienten.",
+        "Ärzte schreiben nach jedem Besuch Notizen.",
+        "Die App wurde mit Ärzten entwickelt."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "Ein grobes Verständnis von etwas, ohne die Einzelheiten",
+      "ex": [
+        "Gib mir zuerst das große Ganze.",
+        "Der Bericht gibt einen groben Überblick über die Wirtschaft.",
+        "Sie hatte ein grobes Bild davon, wie der Motor funktioniert."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "Von einer Person markiert, ein Stück nach dem anderen",
+      "ex": [
+        "Von Hand gekennzeichnete Daten sind langsam zu erstellen.",
+        "Jedes von Hand gekennzeichnete Foto dauerte eine Minute.",
+        "Das Modell braucht weniger von Hand gekennzeichnete Daten."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "Plötzliche Ereignisse, bei denen das Blut nicht mehr zu einem Teil des Herzens gelangt",
+      "ex": [
+        "Herzinfarkte sind im Winter häufiger.",
+        "Er erlitt mit 52 Jahren einen Herzinfarkt.",
+        "Brustschmerzen können ein Anzeichen für einen Herzinfarkt sein."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "Ein Herzrhythmus, der nicht gleichmäßig ist",
+      "ex": [
+        "Der Arzt bemerkte einen unregelmäßigen Herzschlag.",
+        "Ein unregelmäßiger Herzschlag kann Schwindel verursachen.",
+        "Ihre Uhr warnte sie vor einem unregelmäßigen Herzschlag."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "Eine Krankheit, bei der die Nieren das Blut nicht mehr gut reinigen",
+      "ex": [
+        "Nierenerkrankungen entwickeln sich oft langsam.",
+        "Hoher Blutdruck kann zu einer Nierenerkrankung führen.",
+        "Er nimmt Medikamente gegen eine Nierenerkrankung."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "Etwas, das eine Sache besser macht als andere",
+      "ex": [
+        "Geschwindigkeit ist der Hauptvorteil des neuen Zuges.",
+        "Die Heimmannschaft hat einen Vorteil.",
+        "Der Vorteil verschwand nach einem Jahr."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "Krankheiten, die nur sehr wenige Menschen haben",
+      "ex": [
+        "Seltene Krankheiten sind oft schwer zu diagnostizieren.",
+        "Die Klinik behandelt mehrere seltene Krankheiten.",
+        "Nur wenige Ärzte haben diese seltene Krankheit gesehen."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "Eine sehr kleine Anzahl von",
+      "ex": [
+        "Es kam nur eine Handvoll Leute.",
+        "Eine Handvoll Schulen probierte das Programm aus.",
+        "Sie hat eine Handvoll enger Freunde."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "Die Denkschritte hinter einer Entscheidung",
+      "ex": [
+        "Erkläre der Klasse deine Überlegungen.",
+        "Die Richterin legte ihre Begründung schriftlich dar.",
+        "Ich kann seinen Überlegungen nicht folgen."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "Tests einer Behandlung oder eines Hilfsmittels an echten Patienten",
+      "ex": [
+        "Das Medikament bestand drei klinische Studien.",
+        "Klinische Studien können Jahre dauern.",
+        "Patienten meldeten sich freiwillig für die klinische Studie."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "Die Behandlung und Hilfe, die Patienten erhalten",
+      "ex": [
+        "Pflegekräfte sind zentral für die Patientenversorgung.",
+        "Das Krankenhaus verbesserte letztes Jahr die Patientenversorgung.",
+        "Bessere Aufzeichnungen führen zu besserer Patientenversorgung."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "Krankenhausbereiche, die plötzliche, schwere Fälle behandeln",
+      "ex": [
+        "Notaufnahmen sind am Wochenende am vollsten.",
+        "Er wartete drei Stunden in der Notaufnahme.",
+        "Notaufnahmen sehen viele Fälle von Brustschmerzen."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "Kleine elektronische Geräte, die am Körper getragen werden, wie Smartwatches",
+      "ex": [
+        "Tragbare Geräte können deine Schritte zählen.",
+        "Manche tragbaren Geräte zeichnen den Herzrhythmus auf.",
+        "Die Verkäufe von tragbaren Geräten stiegen dieses Jahr."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Das Modell wurde mit mehr als 1,7 Millionen Herzaufzeichnungen trainiert.",
+      "a": true,
+      "why": "Das Team stellte mehr als 1,7 Millionen Herzaufzeichnungen von mehr als 540.000 Menschen zusammen, zusammen mit den Notizen, die Ärzte über sie geschrieben hatten."
+    },
+    {
+      "s": "Das Modell braucht Tausende bestätigte Fälle, um eine neue Krankheit zu lernen.",
+      "a": false,
+      "why": "Das System kann Anzeichen einer Herzkrankheit erkennen, nachdem es nur etwa ein Dutzend bestätigte Fälle gesehen hat, sagen die Forscher."
+    },
+    {
+      "s": "Das System verwendete etwa 91 Prozent weniger von Hand gekennzeichnete Daten als Standardmodelle.",
+      "a": true,
+      "why": "Es hielt mit den besten Modellen mit, während es im Durchschnitt etwa 91 Prozent weniger von Hand gekennzeichnete Daten verwendete."
+    },
+    {
+      "s": "Die Forscher testeten das Modell an mehr als 800.000 Herzaufzeichnungen.",
+      "a": true,
+      "why": "Sie testeten das Modell an mehr als 800.000 Herzaufzeichnungen, und es erkannte Herzinfarkte und zwei weitere Herzerkrankungen."
+    },
+    {
+      "s": "Die Studie erschien in der Zeitschrift Nature.",
+      "a": false,
+      "why": "Sie erschien am 1. September 2026 in The Lancet Digital Health."
+    },
+    {
+      "s": "Das Team sagt, das Modell sei bereit für den Einsatz bei echten Patienten.",
+      "a": false,
+      "why": "Ein Koautor der Studie sagte, klinische Studien seien noch nötig, um herauszufinden, ob die Ergebnisse auch für die echte Patientenversorgung gelten."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Forscher entwickelten ein KI-Modell, das aus 1,7 Millionen Herzaufzeichnungen und Arztnotizen lernte. Es kann jetzt eine Herzkrankheit anhand von etwa einem Dutzend Beispielen erkennen, was bei seltenen Krankheiten helfen könnte.",
+      "a": true,
+      "why": "Das System wurde mit mehr als 1,7 Millionen Herzaufzeichnungen zusammen mit Notizen der Ärzte trainiert und braucht nur etwa ein Dutzend bestätigte Fälle, um eine Krankheit zu erkennen, was dort nützlich ist, wo nur wenige gekennzeichnete Fälle existieren."
+    },
+    {
+      "s": "Ein neues KI-Modell kann eine Herzkrankheit erkennen, nachdem es nur etwa ein Dutzend bestätigte Fälle gesehen hat. Weil es so wenig Daten braucht, sagen seine Entwickler, dass Krankenhäuser es sofort bei Patienten einsetzen können.",
+      "a": false,
+      "why": "Fast, aber die Forscher sagen, dass klinische Studien noch nötig sind, um herauszufinden, ob die Ergebnisse auch für die echte Patientenversorgung gelten."
+    },
+    {
+      "s": "Eine Krankenhausstudie ergab, dass Smartwatches Menschen Tage vor Beginn der Symptome vor einem unregelmäßigen Herzschlag warnen können. Herzärzte sagen, die Warnungen hätten bei Hunderten von Patienten zu einer früheren Behandlung geführt.",
+      "a": false,
+      "why": "Es gab weder eine Smartwatch-Studie noch Patientenwarnungen. Die Nachricht ist ein neues KI-Modell, das lernt, Herzkrankheiten anhand von sehr wenigen gekennzeichneten Beispielen zu erkennen."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "Wird verwendet, um zu sagen, dass etwas der Hauptgrund oder der wichtigste Teil einer Idee ist",
+    "Sounds promising": "Wird verwendet, um zu sagen, dass etwas gute Chancen hat, erfolgreich zu sein oder gut zu funktionieren",
+    "Not so fast": "Wird verwendet, um jemanden aufzuhalten, der zu schnell vorangeht oder entscheidet",
+    "Trust, but verify": "Wird verwendet, um zu sagen, dass du etwas akzeptierst, es aber trotzdem selbst überprüfen willst",
+    "Better safe than sorry": "Wird verwendet, um zu sagen, dass es sich lohnt, vorsichtig zu sein, auch wenn es mehr Zeit oder Mühe kostet"
+  }
+}

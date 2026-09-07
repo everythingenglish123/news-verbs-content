@@ -1,0 +1,427 @@
+{
+  "id": "ecg-clip-heart-ai-2026",
+  "number": 103,
+  "lang": "vi",
+  "headline": "AI học cách nhận biết bệnh tim chỉ từ hơn chục ví dụ",
+  "chunks": [
+    "Một hệ thống AI mới có thể nhận ra dấu hiệu của bệnh tim chỉ sau khi thấy khoảng một chục ca đã được xác nhận, các nhà nghiên cứu tại Scripps Research ở California cho biết. Nghiên cứu về hệ thống này được công bố trên The Lancet Digital Health ngày 1 tháng 9 năm 2026. Để xây dựng nó, nhóm nghiên cứu đã tập hợp hơn 1,7 triệu bản điện tâm đồ, tức các bản ghi hoạt động điện của tim, từ hơn 540.000 người, cùng với ghi chú của bác sĩ về từng người.",
+    "Hệ thống này là một mô hình nền tảng, tức một AI trước tiên học kiến thức tổng quát rồi được điều chỉnh cho nhiều nhiệm vụ. Nó học được những từ nào trong ghi chú của bác sĩ đi cùng với những mẫu nào trong bản ghi tim. Tác giả chính của nghiên cứu nói rằng một bác sĩ lâm sàng cũng học theo cách tương tự: không phải từ hàng triệu ví dụ, mà bằng cách hiểu trái tim trước rồi mới xem một vài ca bệnh. Mô hình xây dựng dần một bức tranh tổng quát trước khi tập trung vào một bệnh cụ thể.",
+    "Các nhà nghiên cứu đã thử nghiệm mô hình trên hơn 800.000 bản ghi tim. Nó theo kịp các mô hình tốt nhất trong khi sử dụng ít hơn khoảng 91 phần trăm dữ liệu được gán nhãn thủ công. Nó phát hiện các cơn đau tim và hai bệnh tim khác, và vượt trội hơn các mô hình khác trong việc dự đoán nhịp tim không đều từ những bản ghi trông có vẻ bình thường. Nó cũng dự đoán ai sẽ mắc bệnh thận hoặc tiểu đường tuýp 2 trong vòng ba năm. Lợi thế này dần biến mất khi có nhiều ví dụ đã gán nhãn hơn.",
+    "Nhóm nghiên cứu cho biết điều này có thể hữu ích với các bệnh hiếm, nơi chỉ có một số ít ca được gán nhãn tốt. Mô hình cũng có thể chỉ ra những phần nào của tín hiệu tim mà nó đã dùng, để bác sĩ có thể kiểm tra lập luận của nó. Một đồng tác giả của nghiên cứu cho biết vẫn cần các thử nghiệm lâm sàng để biết liệu kết quả có áp dụng cho việc chăm sóc bệnh nhân thực tế hay không. Tiếp theo, nhóm dự định đưa vào dữ liệu từ các phòng cấp cứu và thử nghiệm mô hình với các thiết bị đeo."
+  ],
+  "verbs": [
+    {
+      "base": "pick up",
+      "correct": "phát hiện điều gì đó",
+      "wrong": "gán nhãn từng ca bằng tay"
+    },
+    {
+      "base": "come out",
+      "correct": "được công bố",
+      "wrong": "được thử ở phòng khám"
+    },
+    {
+      "base": "put together",
+      "correct": "tập hợp mọi thứ thành một bộ",
+      "wrong": "cất giữ ở nơi an toàn"
+    },
+    {
+      "base": "go with",
+      "correct": "đi cùng với điều gì đó",
+      "wrong": "kiểm tra kỹ điều gì đó"
+    },
+    {
+      "base": "build up",
+      "correct": "phát triển điều gì đó dần dần",
+      "wrong": "gộp vào như một phần cố định"
+    },
+    {
+      "base": "zero in on",
+      "correct": "dồn toàn bộ sự chú ý vào một thứ",
+      "wrong": "đối xử với mọi ca như nhau"
+    },
+    {
+      "base": "try out",
+      "correct": "thử điều gì đó để xem nó hoạt động ra sao",
+      "wrong": "lặp lại nghiên cứu ở một nơi khác"
+    },
+    {
+      "base": "keep up with",
+      "correct": "duy trì cùng mức độ với",
+      "wrong": "loại bỏ dữ liệu khỏi bài kiểm tra"
+    },
+    {
+      "base": "fall away",
+      "correct": "dần dần biến mất",
+      "wrong": "chậm hơn những thứ khác"
+    },
+    {
+      "base": "point out",
+      "correct": "chỉ ra điều gì đó",
+      "wrong": "gửi tín hiệu đến thiết bị"
+    },
+    {
+      "base": "find out",
+      "correct": "tìm hiểu xem điều gì đó có đúng không",
+      "wrong": "công khai điều gì đó cho công chúng"
+    },
+    {
+      "base": "carry over",
+      "correct": "vẫn đúng với các bệnh nhân khác",
+      "wrong": "thực hiện một công việc đã lên kế hoạch"
+    },
+    {
+      "base": "bring in",
+      "correct": "thêm điều gì đó mới vào một hệ thống",
+      "wrong": "nêu ra một chủ đề để thảo luận"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Pick up",
+      "def": "phát hiện điều gì đó",
+      "ex": [
+        "Xét nghiệm này có thể phát hiện virus sớm.",
+        "Một con chó có thể phát hiện mùi từ xa.",
+        "Máy quét đã phát hiện một vết nứt nhỏ trên ống nước."
+      ]
+    },
+    {
+      "verb": "Come out",
+      "def": "được công bố",
+      "ex": [
+        "Báo cáo được công bố vào thứ Hai.",
+        "Cuốn sách mới của cô ấy được công bố vào tháng Năm.",
+        "Kết quả sẽ được công bố vào tuần tới."
+      ]
+    },
+    {
+      "verb": "Put together",
+      "def": "tập hợp mọi thứ thành một bộ",
+      "ex": [
+        "Nhóm nghiên cứu tập hợp một danh sách 200 bệnh nhân.",
+        "Cô ấy tập hợp một cuốn album ảnh cho cha mẹ.",
+        "Bảo tàng tập hợp một buổi triển lãm bản đồ cổ."
+      ]
+    },
+    {
+      "verb": "Go with",
+      "def": "đi cùng với điều gì đó",
+      "ex": [
+        "Nước sốt này đi cùng với món cá rất hợp.",
+        "Những triệu chứng nào đi cùng với bệnh cúm?",
+        "Cà vạt xanh đi cùng với bộ vest xám của bạn."
+      ]
+    },
+    {
+      "verb": "Build up",
+      "def": "phát triển điều gì đó dần dần",
+      "ex": [
+        "Cô ấy xây dựng một đội mạnh trong năm năm.",
+        "Vận động viên chạy đã tăng dần tốc độ trong mùa giải.",
+        "Cửa hàng dần có được danh sách khách quen."
+      ]
+    },
+    {
+      "verb": "Zero in on",
+      "def": "dồn toàn bộ sự chú ý vào một thứ",
+      "ex": [
+        "Thám tử dồn sự chú ý vào một nghi phạm.",
+        "Con diều hâu dồn sự chú ý vào một con chuột.",
+        "Hãy tập trung vào vấn đề chính."
+      ]
+    },
+    {
+      "verb": "Try out",
+      "def": "thử điều gì đó để xem nó hoạt động ra sao",
+      "ex": [
+        "Bạn có thể thử chiếc xe đạp trước khi mua.",
+        "Đầu bếp đã thử một công thức mới.",
+        "Chúng tôi đã thử ứng dụng với vài người dùng."
+      ]
+    },
+    {
+      "verb": "Keep up with",
+      "def": "duy trì cùng mức độ với",
+      "ex": [
+        "Chiếc máy tính cũ không theo kịp máy mới.",
+        "Cô ấy theo kịp những vận động viên chạy nhanh nhất.",
+        "Tiệm bánh không theo kịp đơn hàng vào tháng Mười Hai."
+      ]
+    },
+    {
+      "verb": "Fall away",
+      "def": "dần dần biến mất",
+      "ex": [
+        "Sự ủng hộ cho kế hoạch dần dần biến mất.",
+        "Tiếng ồn của đám đông dần biến mất khi diễn giả bắt đầu nói.",
+        "Khoảng cách dẫn đầu của anh ấy biến mất ở dặm cuối."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "chỉ ra điều gì đó",
+      "ex": [
+        "Người hướng dẫn chỉ ra ngôi nhà cổ nhất.",
+        "Cô ấy chỉ ra một lỗi trong email của bạn.",
+        "Bản đồ chỉ ra tuyến đường an toàn nhất."
+      ]
+    },
+    {
+      "verb": "Find out",
+      "def": "tìm hiểu xem điều gì đó có đúng không",
+      "ex": [
+        "Chúng ta cần tìm hiểu xem loại thuốc này có an toàn không.",
+        "Chúng ta phải tìm hiểu xem mái nhà có còn bị dột không.",
+        "Cô ấy gọi điện để tìm hiểu xem tàu có trễ không."
+      ]
+    },
+    {
+      "verb": "Carry over",
+      "def": "vẫn đúng với các bệnh nhân khác",
+      "ex": [
+        "Kỹ năng từ bóng đá vẫn đúng với các môn thể thao khác.",
+        "Những phát hiện này vẫn đúng với các bệnh nhân trẻ hơn.",
+        "Thói quen tốt từ trường học vẫn còn khi đi làm."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "thêm điều gì đó mới vào một hệ thống",
+      "ex": [
+        "Thành phố đã đưa vào một chương trình tái chế mới.",
+        "Trường học đã đưa vào một thời khóa biểu mới.",
+        "Họ dự định đưa vào dữ liệu từ nhiều phòng khám hơn."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "a dozen",
+      "def": "mười hai, hoặc khoảng mười hai",
+      "ex": [
+        "Cô ấy mua một tá trứng.",
+        "Khoảng một chục người đến dự cuộc họp.",
+        "Đội có một tá cầu thủ."
+      ]
+    },
+    {
+      "word": "confirmed cases",
+      "def": "các ca bệnh mà bác sĩ đã kiểm tra và chắc chắn",
+      "ex": [
+        "Thành phố có 40 ca sởi đã được xác nhận.",
+        "Báo cáo chỉ tính các ca đã được xác nhận.",
+        "Số ca đã được xác nhận tăng vào tuần trước."
+      ]
+    },
+    {
+      "word": "electrocardiograms",
+      "def": "các bản ghi hoạt động điện của tim",
+      "ex": [
+        "Điện tâm đồ chỉ mất vài phút.",
+        "Phòng khám lưu trữ các điện tâm đồ cũ.",
+        "Điện tâm đồ có thể cho thấy một cơn đau tim."
+      ]
+    },
+    {
+      "word": "foundation model",
+      "def": "một hệ thống AI được huấn luyện trên lượng dữ liệu lớn, rồi được điều chỉnh cho nhiều mục đích sử dụng",
+      "ex": [
+        "Một mô hình nền tảng có thể được điều chỉnh cho nhiều nhiệm vụ.",
+        "Công ty đã xây dựng một mô hình nền tảng cho ngôn ngữ.",
+        "Huấn luyện một mô hình nền tảng cần một lượng dữ liệu khổng lồ."
+      ]
+    },
+    {
+      "word": "adapted",
+      "def": "được thay đổi để phù hợp với mục đích mới",
+      "ex": [
+        "Cuốn sách được chuyển thể cho sân khấu.",
+        "Bài học được điều chỉnh cho trẻ nhỏ hơn.",
+        "Công cụ này được điều chỉnh để sử dụng trong bệnh viện."
+      ]
+    },
+    {
+      "word": "clinician",
+      "def": "một bác sĩ hoặc y tá điều trị cho bệnh nhân",
+      "ex": [
+        "Một bác sĩ lâm sàng đã kiểm tra tim của bệnh nhân.",
+        "Các bác sĩ lâm sàng viết ghi chú sau mỗi lần khám.",
+        "Ứng dụng được thiết kế cùng với các bác sĩ lâm sàng."
+      ]
+    },
+    {
+      "word": "general picture",
+      "def": "một sự hiểu biết tổng quát về điều gì đó, không đi vào chi tiết",
+      "ex": [
+        "Hãy cho tôi biết bức tranh tổng quát trước.",
+        "Báo cáo đưa ra bức tranh tổng quát về nền kinh tế.",
+        "Cô ấy có một bức tranh tổng quát về cách động cơ hoạt động."
+      ]
+    },
+    {
+      "word": "hand-labeled",
+      "def": "được đánh dấu bởi một người, từng mục một",
+      "ex": [
+        "Dữ liệu gán nhãn thủ công tốn nhiều thời gian để tạo ra.",
+        "Mỗi bức ảnh gán nhãn thủ công mất một phút.",
+        "Mô hình cần ít dữ liệu gán nhãn thủ công hơn."
+      ]
+    },
+    {
+      "word": "heart attacks",
+      "def": "các sự kiện đột ngột khi máu ngừng đến một phần của tim",
+      "ex": [
+        "Cơn đau tim phổ biến hơn vào mùa đông.",
+        "Ông ấy bị một cơn đau tim ở tuổi 52.",
+        "Đau ngực có thể là một dấu hiệu của cơn đau tim."
+      ]
+    },
+    {
+      "word": "irregular heartbeat",
+      "def": "nhịp tim không đều đặn",
+      "ex": [
+        "Bác sĩ nhận thấy một nhịp tim không đều.",
+        "Nhịp tim không đều có thể gây chóng mặt.",
+        "Đồng hồ của cô ấy đã cảnh báo cô về nhịp tim không đều."
+      ]
+    },
+    {
+      "word": "kidney disease",
+      "def": "bệnh khi thận không còn lọc máu tốt",
+      "ex": [
+        "Bệnh thận thường phát triển chậm.",
+        "Huyết áp cao có thể dẫn đến bệnh thận.",
+        "Ông ấy uống thuốc trị bệnh thận."
+      ]
+    },
+    {
+      "word": "advantage",
+      "def": "điều làm cho một thứ tốt hơn những thứ khác",
+      "ex": [
+        "Tốc độ là ưu điểm chính của đoàn tàu mới.",
+        "Đội chủ nhà có một lợi thế.",
+        "Lợi thế đó biến mất sau một năm."
+      ]
+    },
+    {
+      "word": "rare diseases",
+      "def": "những bệnh mà rất ít người mắc phải",
+      "ex": [
+        "Các bệnh hiếm thường khó chẩn đoán.",
+        "Phòng khám điều trị một số bệnh hiếm.",
+        "Rất ít bác sĩ từng thấy căn bệnh hiếm này."
+      ]
+    },
+    {
+      "word": "a handful of",
+      "def": "một số lượng rất nhỏ",
+      "ex": [
+        "Chỉ một số ít người đến.",
+        "Một số ít trường học đã thử chương trình này.",
+        "Cô ấy có một số ít bạn thân."
+      ]
+    },
+    {
+      "word": "reasoning",
+      "def": "các bước suy nghĩ đằng sau một quyết định",
+      "ex": [
+        "Hãy giải thích lập luận của bạn cho cả lớp.",
+        "Thẩm phán đưa ra lập luận của mình bằng văn bản.",
+        "Tôi không hiểu lập luận của anh ấy."
+      ]
+    },
+    {
+      "word": "clinical trials",
+      "def": "các thử nghiệm một phương pháp điều trị hoặc công cụ trên bệnh nhân thực tế",
+      "ex": [
+        "Loại thuốc đã vượt qua ba thử nghiệm lâm sàng.",
+        "Thử nghiệm lâm sàng có thể kéo dài nhiều năm.",
+        "Bệnh nhân đã tình nguyện tham gia thử nghiệm lâm sàng."
+      ]
+    },
+    {
+      "word": "patient care",
+      "def": "sự điều trị và hỗ trợ mà bệnh nhân nhận được",
+      "ex": [
+        "Y tá đóng vai trò trung tâm trong chăm sóc bệnh nhân.",
+        "Bệnh viện đã cải thiện chăm sóc bệnh nhân trong năm qua.",
+        "Hồ sơ tốt hơn dẫn đến chăm sóc bệnh nhân tốt hơn."
+      ]
+    },
+    {
+      "word": "emergency rooms",
+      "def": "các khu vực bệnh viện điều trị những ca đột ngột, nghiêm trọng",
+      "ex": [
+        "Phòng cấp cứu bận rộn nhất vào cuối tuần.",
+        "Anh ấy chờ ba tiếng ở phòng cấp cứu.",
+        "Phòng cấp cứu tiếp nhận nhiều ca đau ngực."
+      ]
+    },
+    {
+      "word": "wearable devices",
+      "def": "các thiết bị điện tử nhỏ đeo trên người, như đồng hồ thông minh",
+      "ex": [
+        "Thiết bị đeo có thể đếm số bước chân của bạn.",
+        "Một số thiết bị đeo ghi lại nhịp tim.",
+        "Doanh số thiết bị đeo tăng trong năm nay."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Mô hình được huấn luyện trên hơn 1,7 triệu bản ghi tim.",
+      "a": true,
+      "why": "Nhóm nghiên cứu đã tập hợp hơn 1,7 triệu bản ghi tim từ hơn 540.000 người, cùng với các ghi chú mà bác sĩ đã viết về họ."
+    },
+    {
+      "s": "Mô hình cần hàng nghìn ca đã xác nhận để học một bệnh mới.",
+      "a": false,
+      "why": "Các nhà nghiên cứu cho biết hệ thống có thể phát hiện dấu hiệu của bệnh tim chỉ sau khi thấy khoảng một chục ca đã được xác nhận."
+    },
+    {
+      "s": "Hệ thống sử dụng ít hơn khoảng 91 phần trăm dữ liệu gán nhãn thủ công so với các mô hình chuẩn.",
+      "a": true,
+      "why": "Nó theo kịp các mô hình tốt nhất trong khi sử dụng ít hơn khoảng 91 phần trăm dữ liệu được gán nhãn thủ công."
+    },
+    {
+      "s": "Các nhà nghiên cứu đã thử nghiệm mô hình trên hơn 800.000 bản ghi tim.",
+      "a": true,
+      "why": "Họ đã thử nghiệm mô hình trên hơn 800.000 bản ghi tim, và nó phát hiện các cơn đau tim cùng hai bệnh tim khác."
+    },
+    {
+      "s": "Nghiên cứu được công bố trên tạp chí Nature.",
+      "a": false,
+      "why": "Nó được công bố trên The Lancet Digital Health ngày 1 tháng 9 năm 2026."
+    },
+    {
+      "s": "Nhóm nghiên cứu cho biết mô hình đã sẵn sàng sử dụng với bệnh nhân thực tế.",
+      "a": false,
+      "why": "Một đồng tác giả của nghiên cứu cho biết vẫn cần các thử nghiệm lâm sàng để biết liệu kết quả có áp dụng cho việc chăm sóc bệnh nhân thực tế hay không."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Các nhà nghiên cứu đã xây dựng một mô hình AI học từ 1,7 triệu bản ghi tim và ghi chú của bác sĩ. Giờ đây nó có thể nhận biết một bệnh tim chỉ từ khoảng một chục ví dụ, điều này có thể hữu ích với các bệnh hiếm.",
+      "a": true,
+      "why": "Hệ thống được huấn luyện trên hơn 1,7 triệu bản ghi tim kết hợp với ghi chú của các bác sĩ lâm sàng, và nó chỉ cần khoảng một chục ca đã xác nhận để phát hiện một bệnh, hữu ích ở nơi có ít ca đã gán nhãn."
+    },
+    {
+      "s": "Một mô hình AI mới có thể phát hiện bệnh tim chỉ sau khi thấy khoảng một chục ca đã được xác nhận. Vì cần rất ít dữ liệu, những người tạo ra nó nói rằng các bệnh viện có thể bắt đầu dùng nó cho bệnh nhân ngay lập tức.",
+      "a": false,
+      "why": "Gần đúng, nhưng các nhà nghiên cứu nói rằng vẫn cần các thử nghiệm lâm sàng để biết liệu kết quả có áp dụng cho việc chăm sóc bệnh nhân thực tế hay không."
+    },
+    {
+      "s": "Một nghiên cứu tại bệnh viện phát hiện rằng đồng hồ thông minh có thể cảnh báo mọi người về nhịp tim không đều nhiều ngày trước khi có triệu chứng. Các bác sĩ tim mạch nói rằng cảnh báo này giúp hàng trăm bệnh nhân được điều trị sớm hơn.",
+      "a": false,
+      "why": "Không có nghiên cứu đồng hồ thông minh hay cảnh báo bệnh nhân nào cả. Tin tức này nói về một mô hình AI mới học cách phát hiện bệnh tim từ rất ít ví dụ đã gán nhãn."
+    }
+  ],
+  "dialogue": {
+    "That's the whole point": "dùng để nói rằng điều gì đó là lý do chính hoặc phần quan trọng nhất của một ý tưởng",
+    "Sounds promising": "dùng để nói rằng điều gì đó có vẻ sẽ thành công hoặc hoạt động tốt",
+    "Not so fast": "dùng để ngăn ai đó đang tiến hành hoặc quyết định quá nhanh",
+    "Trust, but verify": "dùng để nói rằng bạn chấp nhận điều gì đó nhưng vẫn muốn tự mình kiểm tra",
+    "Better safe than sorry": "dùng để nói rằng cẩn thận đáng để bỏ thêm thời gian hoặc công sức"
+  }
+}

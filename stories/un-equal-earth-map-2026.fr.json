@@ -1,0 +1,436 @@
+{
+  "id": "un-equal-earth-map-2026",
+  "number": 104,
+  "lang": "fr",
+  "headline": "L'ONU vote pour une carte qui montre la vraie taille de l'Afrique",
+  "chunks": [
+    "L'Assemblée générale des Nations Unies a voté le vendredi 4 septembre 2026 pour encourager le monde à abandonner la carte traditionnelle de Mercator. Le Togo a présenté la résolution au nom du Groupe africain, avec le soutien de l'Union africaine. Elle a été adoptée avec 164 voix pour. Les États-Unis ont été le seul pays à voter contre, et six pays, dont l'Ukraine et la Serbie, se sont abstenus.",
+    "La carte de Mercator existe depuis 1569, quand un cartographe flamand nommé Mercator l'a conçue pour les marins. Sur sa carte, une ligne droite correspond à une direction fixe de la boussole, ce qui permettait aux navigateurs de tracer un itinéraire le long d'une seule ligne droite. Le prix à payer était la taille. La carte agrandit les masses continentales près des pôles, si bien que le Groenland paraît presque de la même taille que l'Afrique, alors que l'Afrique est environ 14 fois plus grande.",
+    "La projection Equal Earth est bien plus récente. Une ancienne cartographe en chef du Service des parcs nationaux des États-Unis l'a inventée en 2018 avec deux collègues. Elle montre les continents dans leurs vraies proportions, même si les formes sont légèrement déformées. La résolution demande aux gouvernements, aux écoles, aux organisations internationales et aux entreprises technologiques d'utiliser Equal Earth et des cartes semblables quand la taille relative compte. Elle n'est pas contraignante. Elle n'interdit pas Mercator et n'exclut pas son usage pour la navigation maritime et aérienne.",
+    "Le ministre des Affaires étrangères du Togo a dit : « Les cartes façonnent notre compréhension du monde. » Les États-Unis ont publiquement dénoncé la résolution, la qualifiant de projet idéologique. L'Ukraine s'est inquiétée de la façon dont le territoire occupé apparaîtrait, et l'Union européenne a dit que le vote n'avait aucun lien avec les frontières. La France a dit qu'elle passerait à Equal Earth pour ses cartes du monde. Africa No Filter, un groupe de campagne, veut que des cartes précises soient introduites dans les écoles, les manuels et les organes de presse."
+  ],
+  "verbs": [
+    {
+      "base": "move away from",
+      "correct": "Arrêter d'utiliser quelque chose",
+      "wrong": "Passer au sujet suivant"
+    },
+    {
+      "base": "put forward",
+      "correct": "Proposer quelque chose officiellement",
+      "wrong": "Reporter à une autre réunion"
+    },
+    {
+      "base": "go through",
+      "correct": "Être approuvé par un vote",
+      "wrong": "Être débattu longtemps"
+    },
+    {
+      "base": "date back",
+      "correct": "Exister depuis une époque donnée",
+      "wrong": "Être remplacé par une version récente"
+    },
+    {
+      "base": "map out",
+      "correct": "Planifier un itinéraire en détail",
+      "wrong": "Mesurer la taille d'un terrain"
+    },
+    {
+      "base": "blow up",
+      "correct": "Faire paraître quelque chose plus grand",
+      "wrong": "Faire une copie sur une surface plate"
+    },
+    {
+      "base": "come across as",
+      "correct": "Sembler être d'une certaine façon",
+      "wrong": "Accepter après un certain temps"
+    },
+    {
+      "base": "come up with",
+      "correct": "Penser à quelque chose de nouveau",
+      "wrong": "Rencontrer une forte opposition"
+    },
+    {
+      "base": "call on",
+      "correct": "Demander officiellement à quelqu'un d'agir",
+      "wrong": "Annuler quelque chose qui était prévu"
+    },
+    {
+      "base": "rule out",
+      "correct": "Dire que quelque chose n'est pas autorisé",
+      "wrong": "Prendre une décision officielle sur quelque chose"
+    },
+    {
+      "base": "speak out against",
+      "correct": "Dire publiquement qu'on s'y oppose",
+      "wrong": "Donner l'avis d'un groupe"
+    },
+    {
+      "base": "switch over to",
+      "correct": "Passer à quelque chose de différent",
+      "wrong": "Faire les choses à tour de rôle"
+    },
+    {
+      "base": "roll out",
+      "correct": "Introduire quelque chose largement",
+      "wrong": "Revenir à une version antérieure"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Move away from",
+      "def": "Arrêter d'utiliser quelque chose",
+      "ex": [
+        "La ville veut arrêter d'utiliser le charbon.",
+        "De nombreux bureaux ont arrêté d'utiliser les dossiers papier.",
+        "La compagnie aérienne arrête d'utiliser les paiements en espèces."
+      ]
+    },
+    {
+      "verb": "Put forward",
+      "def": "Proposer quelque chose officiellement",
+      "ex": [
+        "Elle a proposé un plan pour réparer les routes.",
+        "Deux membres ont proposé de nouvelles règles pour le club.",
+        "L'idée a été proposée lors de la dernière réunion."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Être approuvé par un vote",
+      "ex": [
+        "La nouvelle loi a été approuvée la semaine dernière.",
+        "Le budget a été approuvé sans grand débat.",
+        "Si le plan est approuvé, le parc ouvrira en mai."
+      ]
+    },
+    {
+      "verb": "Date back",
+      "def": "Exister depuis une époque donnée",
+      "ex": [
+        "L'église existe depuis les années 1200.",
+        "Cette tradition existe depuis des centaines d'années.",
+        "Leur amitié existe depuis l'université."
+      ]
+    },
+    {
+      "verb": "Map out",
+      "def": "Planifier un itinéraire en détail",
+      "ex": [
+        "Nous avons planifié notre road trip sur la table de la cuisine.",
+        "Le capitaine a planifié un itinéraire pour éviter la tempête.",
+        "Elle a planifié le trajet de l'hôtel au musée."
+      ]
+    },
+    {
+      "verb": "Blow up",
+      "def": "Faire paraître quelque chose plus grand",
+      "ex": [
+        "Le magasin a agrandi la photo à la taille d'une affiche.",
+        "Zoome pour agrandir le petit texte.",
+        "L'écran agrandit l'image pour que tout le monde la voie."
+      ]
+    },
+    {
+      "verb": "Come across as",
+      "def": "Sembler être d'une certaine façon",
+      "ex": [
+        "Il semble très confiant.",
+        "Le courriel a semblé un peu froid.",
+        "À la caméra, la petite pièce semble immense."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Penser à quelque chose de nouveau",
+      "ex": [
+        "L'équipe a pensé à un modèle moins cher.",
+        "Peux-tu penser à un nom pour l'application ?",
+        "Elle a pensé à un plan en cinq minutes."
+      ]
+    },
+    {
+      "verb": "Call on",
+      "def": "Demander officiellement à quelqu'un d'agir",
+      "ex": [
+        "Le maire a demandé aux habitants d'économiser l'eau.",
+        "Le groupe demande aux écoles d'enseigner plus de sciences.",
+        "Les médecins ont demandé au gouvernement d'agir vite."
+      ]
+    },
+    {
+      "verb": "Rule out",
+      "def": "Dire que quelque chose n'est pas autorisé",
+      "ex": [
+        "L'école a dit que les téléphones n'étaient pas autorisés pendant les examens.",
+        "Le règlement ne dit pas que le télétravail n'est pas autorisé.",
+        "Le propriétaire a dit que les animaux n'étaient pas autorisés dans l'immeuble."
+      ]
+    },
+    {
+      "verb": "Speak out against",
+      "def": "Dire publiquement qu'on s'y oppose",
+      "ex": [
+        "Des parents ont dit publiquement qu'ils s'opposaient à la fermeture de l'école.",
+        "Plusieurs athlètes ont dit publiquement qu'ils s'opposaient à la nouvelle règle.",
+        "Elle a été la première à dire publiquement qu'elle s'opposait au plan."
+      ]
+    },
+    {
+      "verb": "Switch over to",
+      "def": "Passer à quelque chose de différent",
+      "ex": [
+        "Nous sommes passés à un forfait téléphonique moins cher.",
+        "Le bureau passe à un nouveau système de courriel.",
+        "Beaucoup de conducteurs sont passés aux voitures électriques."
+      ]
+    },
+    {
+      "verb": "Roll out",
+      "def": "Introduire quelque chose largement",
+      "ex": [
+        "La banque a introduit sa nouvelle application le mois dernier.",
+        "La ville va introduire des bus électriques l'année prochaine.",
+        "L'entreprise a introduit la mise à jour pour tous les utilisateurs."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "traditional",
+      "def": "Utilisé ou fait de la même façon depuis longtemps",
+      "ex": [
+        "La famille a préparé un dîner traditionnel pour Thanksgiving.",
+        "L'école utilise encore des manuels imprimés traditionnels.",
+        "Des cartes traditionnelles sont accrochées aux murs de nombreuses salles de classe."
+      ]
+    },
+    {
+      "word": "resolution",
+      "def": "Une décision ou une déclaration officielle adoptée par vote",
+      "ex": [
+        "Le conseil a adopté une résolution pour planter plus d'arbres.",
+        "La résolution a été soutenue par la plupart des membres.",
+        "L'ONU a adopté une résolution sur l'eau potable."
+      ]
+    },
+    {
+      "word": "backing",
+      "def": "Le soutien d'une personne ou d'un groupe",
+      "ex": [
+        "Le plan a le soutien du conseil municipal.",
+        "Sans soutien financier, le projet s'est arrêté.",
+        "Elle a remporté l'élection avec le soutien massif des enseignants."
+      ]
+    },
+    {
+      "word": "in favor",
+      "def": "Soutenir quelque chose lors d'un vote",
+      "ex": [
+        "Douze membres ont voté pour le plan.",
+        "La plupart des parents sont favorables à une journée d'école plus longue.",
+        "Le conseil a voté en faveur du nouveau directeur."
+      ]
+    },
+    {
+      "word": "abstained",
+      "def": "A choisi de ne voter ni pour ni contre",
+      "ex": [
+        "Trois membres se sont abstenus lors du vote.",
+        "Il s'est abstenu car il n'était pas sûr du plan.",
+        "Deux pays se sont abstenus sur la résolution."
+      ]
+    },
+    {
+      "word": "mapmaker",
+      "def": "Une personne qui dessine des cartes",
+      "ex": [
+        "Le cartographe a dessiné chaque rivière à la main.",
+        "Les premiers cartographes travaillaient à partir des récits des marins.",
+        "Le musée présente des outils utilisés par un cartographe du XVIIe siècle."
+      ]
+    },
+    {
+      "word": "compass direction",
+      "def": "Une direction comme le nord, le sud, l'est ou l'ouest",
+      "ex": [
+        "Les randonneurs vérifiaient leur direction à la boussole chaque heure.",
+        "Chaque mur du temple fait face à une direction différente.",
+        "Le panneau indique la direction à la boussole vers la ville suivante."
+      ]
+    },
+    {
+      "word": "navigators",
+      "def": "Des personnes qui planifient et guident l'itinéraire d'un navire ou d'un avion",
+      "ex": [
+        "Les premiers navigateurs utilisaient les étoiles pour se guider.",
+        "Le navigateur a averti le capitaine de rochers en avant.",
+        "Les navigateurs modernes dépendent des signaux satellites."
+      ]
+    },
+    {
+      "word": "landmasses",
+      "def": "De très grandes étendues de terre, comme les continents",
+      "ex": [
+        "L'Asie est la plus grande masse continentale de la Terre.",
+        "Il y a des millions d'années, les masses continentales étaient réunies.",
+        "La carte montre les masses continentales en vert."
+      ]
+    },
+    {
+      "word": "poles",
+      "def": "Les points les plus au nord et les plus au sud de la Terre",
+      "ex": [
+        "La glace couvre la terre près des pôles.",
+        "Le soleil ne se couche jamais en été aux pôles.",
+        "Des explorateurs ont atteint les deux pôles au début du XXe siècle."
+      ]
+    },
+    {
+      "word": "projection",
+      "def": "Une façon de dessiner la Terre ronde sur une carte plate",
+      "ex": [
+        "Chaque projection de carte modifie les formes ou les tailles d'une certaine manière.",
+        "Le professeur a comparé deux projections du monde.",
+        "Cette projection conserve les tailles exactes des pays."
+      ]
+    },
+    {
+      "word": "senior cartographer",
+      "def": "Un expert expérimenté qui fait des cartes",
+      "ex": [
+        "Elle a travaillé comme cartographe en chef pour une agence de voyage.",
+        "Le cartographe en chef a vérifié chaque route sur la nouvelle carte.",
+        "L'agence a engagé un cartographe en chef pour mettre à jour son atlas."
+      ]
+    },
+    {
+      "word": "true proportions",
+      "def": "Les tailles exactes des choses les unes par rapport aux autres",
+      "ex": [
+        "La maquette montre les planètes dans leurs vraies proportions.",
+        "Le dessin ne montre pas les vraies proportions du bâtiment.",
+        "Un globe montre les continents dans leurs vraies proportions."
+      ]
+    },
+    {
+      "word": "distorted",
+      "def": "Changé de façon que la forme ou la taille ne soit plus correcte",
+      "ex": [
+        "Le miroir donnait une image déformée de son visage.",
+        "La photo paraissait déformée sur les bords.",
+        "Sa voix semblait déformée au téléphone."
+      ]
+    },
+    {
+      "word": "relative size",
+      "def": "À quel point quelque chose est grand par rapport à autre chose",
+      "ex": [
+        "Le graphique montre la taille relative de l'économie de chaque pays.",
+        "Les enfants se trompent souvent sur la taille relative du soleil et de la lune.",
+        "La taille relative des deux pièces a surpris les acheteurs."
+      ]
+    },
+    {
+      "word": "binding",
+      "def": "Doit être respecté par la loi ou par accord",
+      "ex": [
+        "Le contrat est contraignant pendant deux ans.",
+        "Le vote n'était pas contraignant, donc rien n'a changé.",
+        "La décision du juge est contraignante pour les deux parties."
+      ]
+    },
+    {
+      "word": "foreign minister",
+      "def": "Le responsable du gouvernement chargé des relations avec les autres pays",
+      "ex": [
+        "La ministre des Affaires étrangères a rencontré son homologue japonaise à Tokyo.",
+        "Le ministre des Affaires étrangères a parlé à l'ONU mardi.",
+        "Des journalistes ont interrogé le ministre des Affaires étrangères sur les négociations commerciales."
+      ]
+    },
+    {
+      "word": "ideological",
+      "def": "Fondé sur un ensemble de convictions politiques",
+      "ex": [
+        "Les deux partis ont de profondes différences idéologiques.",
+        "Les critiques ont qualifié la nouvelle loi de mesure idéologique.",
+        "Il a quitté le groupe à cause de désaccords idéologiques."
+      ]
+    },
+    {
+      "word": "occupied territory",
+      "def": "Un territoire contrôlé par une armée étrangère",
+      "ex": [
+        "Les groupes d'aide avaient du mal à atteindre le territoire occupé.",
+        "Les cartes du territoire occupé ont été contestées pendant des années.",
+        "Des familles ont fui le territoire occupé pendant la guerre."
+      ]
+    },
+    {
+      "word": "bearing",
+      "def": "Un effet sur quelque chose ou un lien avec quelque chose",
+      "ex": [
+        "La météo n'a eu aucun effet sur le score final.",
+        "Son âge a un certain lien avec la décision du médecin.",
+        "La nouvelle règle n'a aucun effet sur les étudiants actuels."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Les États-Unis ont été le seul pays à voter contre la résolution.",
+      "a": true,
+      "why": "Au total, 164 États membres ont voté pour et six se sont abstenus, et les États-Unis ont publiquement dénoncé la résolution, la qualifiant de projet idéologique."
+    },
+    {
+      "s": "La résolution interdit la carte de Mercator pour la navigation maritime et aérienne.",
+      "a": false,
+      "why": "La résolution n'est pas contraignante, elle n'interdit pas Mercator, et elle n'exclut pas son usage pour la navigation maritime et aérienne."
+    },
+    {
+      "s": "Sur la carte de Mercator, le Groenland paraît presque de la même taille que l'Afrique.",
+      "a": true,
+      "why": "La carte agrandit les masses continentales près des pôles, alors que l'Afrique est environ 14 fois plus grande que le Groenland."
+    },
+    {
+      "s": "La projection Equal Earth a été créée en 1569.",
+      "a": false,
+      "why": "Une ancienne cartographe en chef du Service des parcs nationaux des États-Unis et deux collègues ont inventé Equal Earth en 2018 ; c'est la carte de Mercator qui existe depuis 1569."
+    },
+    {
+      "s": "Le Togo a présenté la résolution au nom du Groupe africain.",
+      "a": true,
+      "why": "Le Togo avait le soutien de l'Union africaine, et la résolution a été adoptée avec 164 voix pour."
+    },
+    {
+      "s": "La France a dit qu'elle continuerait à utiliser la carte de Mercator pour ses cartes du monde.",
+      "a": false,
+      "why": "La France a dit qu'elle passerait à Equal Earth pour ses cartes du monde."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "L'Assemblée générale de l'ONU a voté pour encourager l'usage de la carte Equal Earth à la place de la carte de Mercator, qui fait paraître l'Afrique bien plus petite qu'elle ne l'est. Le vote est une recommandation, pas une interdiction.",
+      "a": true,
+      "why": "La résolution du Togo a été adoptée par 164 voix contre 1 et demande aux gouvernements, aux écoles et aux entreprises d'utiliser Equal Earth, mais elle n'est pas contraignante et n'interdit pas Mercator."
+    },
+    {
+      "s": "Les membres de l'ONU ont voté pour interdire la carte de Mercator dans les écoles et les bureaux du gouvernement du monde entier. Chaque pays a désormais jusqu'à la fin de l'année pour passer à la projection Equal Earth.",
+      "a": false,
+      "why": "Presque, mais la résolution encourage seulement l'usage d'Equal Earth. Elle n'interdit pas Mercator ni n'impose de remplacement, et elle ne fixe aucune échéance pour personne."
+    },
+    {
+      "s": "L'Union africaine a lancé son propre service de cartes en ligne qui montre le continent dans sa vraie taille. Des millions de personnes ont téléchargé la nouvelle application dès sa première semaine.",
+      "a": false,
+      "why": "L'Union africaine a soutenu un vote de l'ONU sur des projections de cartes. Elle n'a lancé ni service de cartes ni application."
+    }
+  ],
+  "dialogue": {
+    "I had no idea": "Utilisé pour dire qu'un fait est complètement nouveau et surprenant pour toi",
+    "Old habits die hard": "Utilisé pour dire que les gens continuent à faire les choses à l'ancienne même quand une meilleure façon existe",
+    "About time": "Utilisé pour dire que quelque chose aurait dû arriver bien plus tôt",
+    "You can see their point": "Utilisé pour dire que l'inquiétude ou l'avis de quelqu'un est compréhensible, même si tu n'es pas totalement d'accord",
+    "It's a start": "Utilisé pour dire qu'un petit pas est déjà un progrès, même s'il reste beaucoup à faire"
+  }
+}
