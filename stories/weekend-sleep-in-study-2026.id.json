@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "id",
+  "headline": "Tidur lebih lama di akhir pekan bisa menurunkan risiko tekanan darah tinggi",
+  "chunks": [
+    "Selama bertahun-tahun, para pakar tidur telah memperingatkan orang untuk tidak tidur lebih lama di akhir pekan. Tidur tambahan di akhir pekan, kata mereka, bisa mengganggu jam biologis tubuh. Kini sebuah studi yang dipresentasikan di kongres European Society of Cardiology di Munich, Jerman, pada 29 Agustus 2026, menunjukkan bahwa orang yang mengganti waktu tidur yang hilang secukupnya memiliki peluang lebih rendah terkena tekanan darah tinggi. Surat kabar di seluruh dunia memberitakan temuan ini dalam hitungan hari.",
+    "Peneliti dari Korea University yang mempresentasikan studi ini memeriksa data survei kesehatan nasional terhadap 40.727 orang dewasa Korea Selatan dari 2016 hingga 2023. Tidur pengganti adalah selisih antara durasi tidur akhir pekan dan hari kerja. Tidur pengganti akhir pekan dikaitkan dengan peluang 6 persen lebih rendah terkena tekanan darah tinggi. Manfaatnya meningkat menjadi 6,9 persen di antara orang dewasa yang secara fisik tidak aktif. Jumlah idealnya mencapai 1 jam 27 menit, dengan peluang 9 persen lebih rendah.",
+    "Tekanan darah biasanya menurun saat tidur, tetapi tidur yang terlalu sedikit dapat mengurangi penurunan malam hari itu, kata seorang ilmuwan tidur dari University of Utah. Peneliti itu mengatakan bahwa kurang tidur membuat jantung dan pembuluh darah bekerja lebih keras, dan tidur akhir pekan bisa membantu tubuh pulih. Namun ia menunjukkan bahwa lebih banyak tidak selalu lebih baik. Orang yang tidur lebih dari empat jam tambahan memiliki risiko lebih tinggi, karena jadwal yang tidak teratur bisa menghilangkan manfaatnya.",
+    "Para pakar tetap menyarankan orang untuk berpegang pada jam tidur dan jam bangun yang teratur. Seorang ahli jantung dari British Heart Foundation, yang tidak terlibat dalam studi ini, mengatakan bahwa banyak orang kehilangan waktu tidur karena pekerjaan dan tanggung jawab keluarga. Studi ini bukan lampu hijau untuk mengurangi olahraga, kata ahli jantung itu, tetapi orang tidak perlu merasa bersalah karena tidur larut di akhir pekan. Peneliti itu setuju: tidur tambahan mungkin hanyalah cara tubuh mengganti tidur yang hilang."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "Tidur lebih lama dari biasanya di pagi hari",
+      "wrong": "Menginap semalaman di rumah teman"
+    },
+    {
+      "base": "throw off",
+      "correct": "Mengganggu cara kerja normal sesuatu",
+      "wrong": "Menunda sesuatu sampai waktu lain"
+    },
+    {
+      "base": "catch up on",
+      "correct": "Melakukan sesuatu yang terlewat sebelumnya",
+      "wrong": "Menjadi populer di kalangan banyak orang"
+    },
+    {
+      "base": "go through",
+      "correct": "Memeriksa sesuatu dengan cermat",
+      "wrong": "Mengumpulkan sesuatu bertahun-tahun"
+    },
+    {
+      "base": "go up",
+      "correct": "Meningkat",
+      "wrong": "Tetap sama"
+    },
+    {
+      "base": "come to",
+      "correct": "Mencapai jumlah total sebesar",
+      "wrong": "Ditemukan secara kebetulan"
+    },
+    {
+      "base": "go down",
+      "correct": "Menjadi lebih rendah",
+      "wrong": "Berbunyi seperti alarm"
+    },
+    {
+      "base": "point out",
+      "correct": "Memberi tahu orang tentang suatu fakta",
+      "wrong": "Mengukur sesuatu dengan tepat"
+    },
+    {
+      "base": "cancel out",
+      "correct": "Menghilangkan efek dari sesuatu",
+      "wrong": "Mengukur efek dari sesuatu"
+    },
+    {
+      "base": "stick to",
+      "correct": "Terus mengikuti suatu rencana atau kebiasaan",
+      "wrong": "Mudah diperhatikan di antara yang lain"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Tidak mendapatkan sesuatu yang baik",
+      "wrong": "Lupa melakukan sesuatu yang penting"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Melakukan lebih sedikit dari sesuatu",
+      "wrong": "Menghentikan pasokan sesuatu"
+    },
+    {
+      "base": "make up for",
+      "correct": "Mengganti sesuatu yang hilang",
+      "wrong": "Mengarang cerita yang tidak benar"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "Tidur lebih lama dari biasanya di pagi hari",
+      "ex": [
+        "Aku suka tidur lebih lama di pagi hari Minggu.",
+        "Anak-anak tidur sampai jam sepuluh selama liburan.",
+        "Dia tidak pernah tidur lebih lama, bahkan di hari liburnya."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "Mengganggu cara kerja normal sesuatu",
+      "ex": [
+        "Perubahan zona waktu mengganggu tidurku selama seminggu.",
+        "Satu kereta yang terlambat bisa mengganggu seluruh jadwal.",
+        "Jet lag mengganggu nafsu makan maupun tidur."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "Melakukan sesuatu yang terlewat sebelumnya",
+      "ex": [
+        "Aku perlu mengganti waktu tidur akhir pekan ini.",
+        "Dia menghabiskan malam untuk mengejar ketinggalan berita.",
+        "Dia tinggal larut malam untuk menyelesaikan pekerjaan yang tertunda."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Memeriksa sesuatu dengan cermat",
+      "ex": [
+        "Dokter memeriksa hasil tesku bersamaku.",
+        "Polisi memeriksa catatan satu per satu.",
+        "Kami memeriksa laporan itu baris demi baris."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Meningkat",
+      "ex": [
+        "Harga bensin naik lagi bulan lalu.",
+        "Jumlah pengunjung meningkat setiap musim panas.",
+        "Detak jantungnya meningkat saat dia menaiki tangga."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "Mencapai jumlah total sebesar",
+      "ex": [
+        "Tagihannya mencapai 80 dolar.",
+        "Jam lembur mencapai hampir satu hari kerja.",
+        "Sumbangan mencapai lebih dari satu juta dolar."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Menjadi lebih rendah",
+      "ex": [
+        "Suhu menurun di malam hari.",
+        "Harga biasanya turun setelah liburan.",
+        "Demamnya turun menjelang pagi."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Memberi tahu orang tentang suatu fakta",
+      "ex": [
+        "Dokter menunjukkan bahwa dia butuh lebih banyak istirahat.",
+        "Dia menunjukkan sebuah kesalahan dalam laporan itu.",
+        "Para kritikus menunjukkan bahwa studi itu kecil."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "Menghilangkan efek dari sesuatu",
+      "ex": [
+        "Tidur malam yang singkat bisa menghilangkan manfaat tidur siang.",
+        "Biaya tambahan menghilangkan penghematan itu.",
+        "Dua dari perubahan itu saling menghilangkan efek satu sama lain."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "Terus mengikuti suatu rencana atau kebiasaan",
+      "ex": [
+        "Cobalah berpegang pada jam tidur yang sama setiap malam.",
+        "Dia berpegang pada rencananya dan menyelesaikan lomba itu.",
+        "Sulit berpegang pada anggaran saat liburan."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Tidak mendapatkan sesuatu yang baik",
+      "ex": [
+        "Pekerja malam sering kehilangan waktu tidur.",
+        "Jangan sampai melewatkan tiket gratis itu.",
+        "Dia kehilangan kesempatan ikut perjalanan itu karena sakit."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Melakukan lebih sedikit dari sesuatu",
+      "ex": [
+        "Dokter menyuruhnya mengurangi kopi.",
+        "Kami mengurangi pengeluaran tahun ini.",
+        "Dia mengurangi begadang sebelum ujian."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "Mengganti sesuatu yang hilang",
+      "ex": [
+        "Tidur siang bisa mengganti tidur malam yang singkat.",
+        "Dia bekerja hari Sabtu untuk mengganti hari yang hilang.",
+        "Tidak ada yang bisa mengganti waktu yang telah kita hilangkan."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "Sistem dalam tubuh yang mengatur kapan kamu merasa mengantuk atau terjaga",
+      "ex": [
+        "Bepergian melintasi zona waktu membingungkan jam biologismu.",
+        "Cahaya terang di pagi hari mengatur ulang jam biologis.",
+        "Shift malam bekerja melawan jam biologis tubuh."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Pertemuan formal besar orang-orang yang bekerja di bidang yang sama",
+      "ex": [
+        "Dokter dari 100 negara menghadiri kongres itu.",
+        "Hasilnya diumumkan di kongres medis di Paris.",
+        "Kongres itu diadakan setiap tahun di kota yang berbeda."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "Dalam jumlah yang tidak terlalu banyak",
+      "ex": [
+        "Kopi tidak apa-apa jika secukupnya.",
+        "Dokter mengatakan dia boleh minum anggur secukupnya.",
+        "Bahkan gula pun tidak berbahaya jika secukupnya."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "Peluang bahwa sesuatu akan terjadi",
+      "ex": [
+        "Olahraga menurunkan peluang penyakit jantung.",
+        "Peluang memenangkan lotre sangat kecil.",
+        "Perokok memiliki peluang lebih tinggi terkena kanker paru-paru."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "Studi yang mengumpulkan informasi tentang kesehatan orang",
+      "ex": [
+        "Survei kesehatan nasional menanyakan tentang pola makan dan olahraga.",
+        "Ribuan orang ikut serta dalam survei kesehatan itu.",
+        "Survei kesehatan itu menemukan bahwa banyak orang dewasa tidur terlalu sedikit."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "Jumlah waktu seseorang tidur",
+      "ex": [
+        "Durasi tidur rata-rata telah menurun dalam 50 tahun terakhir.",
+        "Aplikasi itu mencatat durasi tidurmu setiap malam.",
+        "Durasi tidur yang singkat dikaitkan dengan kenaikan berat badan."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Tidak banyak berolahraga",
+      "ex": [
+        "Orang dewasa yang secara fisik tidak aktif memiliki risiko diabetes lebih tinggi.",
+        "Pekerjaan kantoran membuat banyak orang secara fisik tidak aktif.",
+        "Sekitar sepertiga kelompok itu secara fisik tidak aktif."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "Yang paling baik",
+      "ex": [
+        "Jam tidur ideal bagi kebanyakan orang dewasa adalah sebelum jam 11 malam.",
+        "Musim semi adalah waktu ideal untuk mengunjungi kota itu.",
+        "Tidak ada pola makan ideal yang cocok untuk semua orang."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Penurunan pada sesuatu yang terjadi setiap malam",
+      "ex": [
+        "Penurunan suhu malam hari membantu orang tidur.",
+        "Dokter mengamati penurunan malam hari pada tekanan darahnya.",
+        "Gurun mengalami penurunan suhu malam hari yang tajam."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "Tidak cukup tidur",
+      "ex": [
+        "Kurang tidur membuat sulit berkonsentrasi.",
+        "Orang tua baru sering menderita kurang tidur.",
+        "Kurang tidur bisa memengaruhi suasana hatimu keesokan harinya."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Saluran yang membawa darah ke seluruh tubuh",
+      "ex": [
+        "Merokok merusak pembuluh darah.",
+        "Olahraga menjaga pembuluh darah tetap sehat.",
+        "Cuaca dingin membuat pembuluh darah menyempit."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "Kembali ke keadaan normal dan sehat",
+      "ex": [
+        "Butuh dua minggu baginya untuk pulih dari flu.",
+        "Tubuh pulih saat kamu tidur.",
+        "Atlet membutuhkan hari istirahat untuk pulih."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Pola waktu yang terus berubah",
+      "ex": [
+        "Perawat sering bekerja dengan jadwal yang tidak teratur.",
+        "Jadwal yang tidak teratur membuat sulit tidur nyenyak.",
+        "Jadwalnya yang tidak teratur tidak menyisakan waktu untuk berolahraga."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "Waktu ketika seseorang biasanya pergi tidur",
+      "ex": [
+        "Jam tidur anak-anak adalah jam delapan.",
+        "Jam tidur yang teratur membantumu tidur lebih nyenyak.",
+        "Dia membaca selama setengah jam sebelum jam tidur."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "Waktu ketika seseorang biasanya bangun dari tempat tidur di pagi hari",
+      "ex": [
+        "Cobalah menjaga jam bangun yang sama sepanjang minggu.",
+        "Jam bangunnya adalah jam 6 pagi pada hari kerja.",
+        "Jam bangun yang lebih siang di akhir pekan itu umum."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Hal-hal yang telah kamu janjikan untuk dilakukan dan harus kamu sediakan waktunya",
+      "ex": [
+        "Tanggung jawab keluarga membuatnya tidak bisa menghadiri pertemuan itu.",
+        "Dia memiliki terlalu banyak tanggung jawab bulan ini.",
+        "Tanggung jawab pekerjaan sering mengurangi waktu tidur."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "Izin untuk melakukan sesuatu",
+      "ex": [
+        "Kota itu memberi lampu hijau untuk taman baru.",
+        "Jangan jadikan satu hasil baik sebagai lampu hijau untuk berhenti berlatih.",
+        "Dokter memberinya lampu hijau untuk bepergian."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Merasa tidak enak karena kamu berpikir telah melakukan sesuatu yang salah",
+      "ex": [
+        "Aku merasa bersalah karena melewatkan ulang tahunnya.",
+        "Dia merasa bersalah karena tidur terlalu larut.",
+        "Tidak perlu merasa bersalah karena beristirahat."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Studi ini dipresentasikan di Munich, Jerman, pada 29 Agustus 2026.",
+      "a": true,
+      "why": "Studi ini dipresentasikan di kongres European Society of Cardiology, dan menunjukkan bahwa orang yang mengganti waktu tidur yang hilang secukupnya memiliki peluang lebih rendah terkena tekanan darah tinggi."
+    },
+    {
+      "s": "Jumlah ideal tidur tambahan akhir pekan mencapai sekitar empat jam.",
+      "a": false,
+      "why": "Jumlah idealnya mencapai 1 jam 27 menit, dan orang yang tidur lebih dari empat jam tambahan memiliki risiko lebih tinggi."
+    },
+    {
+      "s": "Survei ini mencakup 40.727 orang dewasa Korea Selatan dari 2016 hingga 2023.",
+      "a": true,
+      "why": "Peneliti dari Korea University memeriksa data survei kesehatan nasional terhadap 40.727 orang dewasa yang dikumpulkan selama tahun-tahun itu."
+    },
+    {
+      "s": "Tekanan darah biasanya meningkat saat tidur.",
+      "a": false,
+      "why": "Tekanan darah biasanya menurun saat tidur, dan tidur yang terlalu sedikit dapat mengurangi penurunan malam hari itu."
+    },
+    {
+      "s": "Manfaatnya meningkat menjadi 6,9 persen di antara orang dewasa yang secara fisik tidak aktif.",
+      "a": true,
+      "why": "Tidur pengganti dikaitkan dengan peluang 6 persen lebih rendah secara keseluruhan dan 6,9 persen di antara orang dewasa yang secara fisik tidak aktif."
+    },
+    {
+      "s": "Ahli jantung dari British Heart Foundation menyebut studi ini sebagai lampu hijau untuk mengurangi olahraga.",
+      "a": false,
+      "why": "Dia mengatakan studi ini bukan lampu hijau untuk mengurangi olahraga, hanya bahwa orang tidak perlu merasa bersalah karena tidur larut di akhir pekan."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Sebuah studi besar di Korea Selatan mengaitkan jumlah tidur tambahan yang moderat di akhir pekan dengan peluang lebih rendah terkena tekanan darah tinggi. Namun, tidur lebih dari empat jam tambahan dikaitkan dengan risiko yang lebih tinggi.",
+      "a": true,
+      "why": "Sekitar 90 menit tidur tambahan akhir pekan dikaitkan dengan peluang 9 persen lebih rendah, sementara orang yang tidur lebih dari empat jam tambahan memiliki risiko lebih tinggi."
+    },
+    {
+      "s": "Para peneliti menemukan bahwa semakin banyak tidur tambahan yang didapat orang di akhir pekan, semakin kecil kemungkinan mereka mengalami tekanan darah tinggi. Para pakar kini mengatakan jam tidur yang teratur tidak lagi penting bagi jantung.",
+      "a": false,
+      "why": "Hampir benar, tetapi manfaatnya berhenti pada jumlah yang moderat, dan orang yang tidur lebih dari empat jam tambahan memiliki risiko lebih tinggi. Para pakar tetap menyarankan jam tidur yang teratur."
+    },
+    {
+      "s": "Sebuah survei terhadap pekerja shift menemukan bahwa orang yang tidur di siang hari memiliki tekanan darah lebih tinggi daripada pekerja siang. Dokter mengatakan shift malam harus dibatasi untuk melindungi jantung setiap pekerja.",
+      "a": false,
+      "why": "Studi ini meneliti tidur tambahan akhir pekan pada orang dewasa secara umum, bukan pada pekerja shift atau tidur di siang hari."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Digunakan untuk mengakui, dengan bercanda, bahwa kamu melakukan hal yang baru saja dijelaskan seseorang",
+    "That's a relief": "Digunakan untuk mengatakan bahwa kamu merasa lebih lega karena sebuah kekhawatiran telah hilang",
+    "Don't push your luck": "Digunakan untuk memperingatkan seseorang agar tidak membawa hal baik terlalu jauh",
+    "Within reason": "Digunakan untuk mengatakan bahwa sesuatu masih boleh selama tetap pada tingkat yang wajar",
+    "Easier said than done": "Digunakan untuk mengatakan bahwa sesuatu terdengar sederhana tetapi sulit dilakukan sebenarnya"
+  }
+}

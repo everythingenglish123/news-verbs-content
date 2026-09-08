@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "es",
+  "headline": "Dormir hasta tarde los fines de semana podría reducir el riesgo de presión arterial alta",
+  "chunks": [
+    "Durante años, los expertos en sueño han advertido a la gente que no duerma hasta tarde los fines de semana. Dijeron que el sueño extra del fin de semana puede alterar el reloj interno del cuerpo. Ahora, un estudio presentado en el congreso de la Sociedad Europea de Cardiología en Múnich, Alemania, el 29 de agosto de 2026, sugiere que las personas que recuperan el sueño perdido con moderación tienen menores probabilidades de tener presión arterial alta. Periódicos de todo el mundo informaron el hallazgo en cuestión de días.",
+    "El investigador de la Universidad de Corea que presentó el estudio revisó datos de una encuesta nacional de salud de 40.727 adultos surcoreanos entre 2016 y 2023. El sueño de recuperación era la diferencia entre la duración del sueño entre semana y el fin de semana. El sueño de recuperación del fin de semana se relacionó con un 6 por ciento menos de probabilidades de presión arterial alta. El beneficio subió al 6,9 por ciento entre los adultos físicamente inactivos. La cantidad ideal ascendió a 1 hora y 27 minutos, con un 9 por ciento menos de probabilidades.",
+    "La presión arterial normalmente baja durante el sueño, pero dormir muy poco puede reducir esa caída nocturna, dijo una científica del sueño de la Universidad de Utah. La investigadora dijo que la falta de sueño hace que el corazón y los vasos sanguíneos trabajen más, y que el sueño del fin de semana puede ayudar al cuerpo a recuperarse. Pero ella señaló que más no siempre es mejor. Las personas que durmieron más de cuatro horas extra tuvieron un riesgo mayor, porque un horario irregular puede anular el beneficio.",
+    "Los expertos siguen aconsejando a la gente seguir con una hora fija para acostarse y levantarse. Un cardiólogo de la British Heart Foundation, que no participó en el estudio, dijo que muchas personas se pierden horas de sueño por el trabajo y los compromisos familiares. El estudio no es un permiso para reducir el ejercicio, dijo el cardiólogo, pero la gente no necesita sentirse culpable por dormir hasta tarde los fines de semana. La investigadora coincidió: el sueño extra puede ser simplemente la forma en que el cuerpo compensa el sueño perdido."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "Dormir más tarde de lo habitual por la mañana",
+      "wrong": "Pasar toda la noche en casa de un amigo"
+    },
+    {
+      "base": "throw off",
+      "correct": "Alterar el funcionamiento normal de algo",
+      "wrong": "Retrasar algo hasta un momento posterior"
+    },
+    {
+      "base": "catch up on",
+      "correct": "Hacer algo que se dejó pendiente antes",
+      "wrong": "Volverse popular entre mucha gente"
+    },
+    {
+      "base": "go through",
+      "correct": "Examinar algo con cuidado",
+      "wrong": "Acumular algo durante muchos años"
+    },
+    {
+      "base": "go up",
+      "correct": "Aumentar",
+      "wrong": "Quedarse igual"
+    },
+    {
+      "base": "come to",
+      "correct": "Llegar a un total de",
+      "wrong": "Encontrarse por casualidad"
+    },
+    {
+      "base": "go down",
+      "correct": "Bajar de nivel",
+      "wrong": "Sonar como una alarma"
+    },
+    {
+      "base": "point out",
+      "correct": "Decirle a la gente un hecho",
+      "wrong": "Medir algo con exactitud"
+    },
+    {
+      "base": "cancel out",
+      "correct": "Eliminar el efecto de algo",
+      "wrong": "Medir el efecto de algo"
+    },
+    {
+      "base": "stick to",
+      "correct": "Seguir un plan o una rutina",
+      "wrong": "Ser fácil de notar entre otros"
+    },
+    {
+      "base": "miss out on",
+      "correct": "No conseguir algo bueno",
+      "wrong": "Olvidarse de hacer algo"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Hacer menos de algo",
+      "wrong": "Detener el suministro de algo"
+    },
+    {
+      "base": "make up for",
+      "correct": "Reemplazar algo que se perdió",
+      "wrong": "Inventar una historia que no es cierta"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "Dormir más tarde de lo habitual por la mañana",
+      "ex": [
+        "Me gusta dormir hasta tarde los domingos por la mañana.",
+        "Los niños durmieron hasta las diez durante las vacaciones.",
+        "Ella nunca duerme hasta tarde, ni siquiera en su día libre."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "Alterar el funcionamiento normal de algo",
+      "ex": [
+        "El cambio de horario alteró mi sueño durante una semana.",
+        "Un tren tarde puede alterar todo el horario.",
+        "El desfase horario altera tanto el apetito como el sueño."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "Hacer algo que se dejó pendiente antes",
+      "ex": [
+        "Necesito ponerme al día con el sueño este fin de semana.",
+        "Él pasó la noche poniéndose al día con las noticias.",
+        "Ella se quedó hasta tarde para ponerse al día con su trabajo."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Examinar algo con cuidado",
+      "ex": [
+        "El médico revisó los resultados de mis análisis conmigo.",
+        "La policía revisó los registros uno por uno.",
+        "Revisamos el informe línea por línea."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Aumentar",
+      "ex": [
+        "El precio de la gasolina volvió a subir el mes pasado.",
+        "El número de visitantes aumenta cada verano.",
+        "Su ritmo cardíaco aumenta cuando sube escaleras."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "Llegar a un total de",
+      "ex": [
+        "La cuenta ascendió a 80 dólares.",
+        "Las horas extra sumaron casi un día de trabajo.",
+        "Las donaciones sumaron más de un millón de dólares."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Bajar de nivel",
+      "ex": [
+        "La temperatura baja por la noche.",
+        "Los precios suelen bajar después de las fiestas.",
+        "Su fiebre bajó por la mañana."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Decirle a la gente un hecho",
+      "ex": [
+        "El médico señaló que necesitaba más descanso.",
+        "Ella señaló un error en el informe.",
+        "Los críticos señalan que el estudio era pequeño."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "Eliminar el efecto de algo",
+      "ex": [
+        "Una noche sin dormir puede anular el beneficio de una siesta.",
+        "Los gastos extra anularon los ahorros.",
+        "Dos de los cambios se anulan entre sí."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "Seguir un plan o una rutina",
+      "ex": [
+        "Intenta seguir el mismo horario para acostarte cada noche.",
+        "Él siguió su plan y terminó la carrera.",
+        "Es difícil seguir un presupuesto de vacaciones."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "No conseguir algo bueno",
+      "ex": [
+        "Los trabajadores nocturnos a menudo se pierden horas de sueño.",
+        "No te pierdas las entradas gratis.",
+        "Él se perdió el viaje porque estaba enfermo."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Hacer menos de algo",
+      "ex": [
+        "El médico le dijo que redujera el café.",
+        "Estamos reduciendo los gastos este año.",
+        "Él redujo las salidas nocturnas antes del examen."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "Reemplazar algo que se perdió",
+      "ex": [
+        "Una siesta puede compensar una noche corta.",
+        "Ella trabajó el sábado para compensar el día perdido.",
+        "Nada puede compensar el tiempo que perdimos."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "El sistema del cuerpo que controla cuándo sientes sueño o estás despierto",
+      "ex": [
+        "Viajar entre husos horarios confunde tu reloj interno.",
+        "La luz brillante por la mañana reinicia el reloj interno.",
+        "Los turnos nocturnos van en contra del reloj interno del cuerpo."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Una gran reunión formal de personas que trabajan en el mismo campo",
+      "ex": [
+        "Médicos de 100 países asistieron al congreso.",
+        "Los resultados se anunciaron en un congreso médico en París.",
+        "El congreso se celebra cada año en una ciudad diferente."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "En cantidades que no son demasiado grandes",
+      "ex": [
+        "El café está bien con moderación.",
+        "El médico dijo que podía beber vino con moderación.",
+        "Incluso el azúcar no es dañino con moderación."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "La probabilidad de que algo suceda",
+      "ex": [
+        "El ejercicio reduce la probabilidad de enfermedad cardíaca.",
+        "La probabilidad de ganar la lotería es muy pequeña.",
+        "Los fumadores tienen mayor probabilidad de cáncer de pulmón."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "Un estudio que reúne información sobre la salud de las personas",
+      "ex": [
+        "La encuesta nacional de salud pregunta sobre la dieta y el ejercicio.",
+        "Miles de personas participaron en la encuesta de salud.",
+        "La encuesta de salud descubrió que muchos adultos duermen muy poco."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "La cantidad de tiempo que duerme una persona",
+      "ex": [
+        "La duración media del sueño ha bajado en los últimos 50 años.",
+        "La aplicación registra tu duración del sueño cada noche.",
+        "Una duración del sueño corta está relacionada con el aumento de peso."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Que no hace mucho ejercicio",
+      "ex": [
+        "Los adultos físicamente inactivos tienen mayor riesgo de diabetes.",
+        "Los trabajos de oficina dejan a mucha gente físicamente inactiva.",
+        "Cerca de un tercio del grupo era físicamente inactivo."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "Lo mejor posible",
+      "ex": [
+        "La hora ideal para acostarse de la mayoría de los adultos es antes de las 11 de la noche.",
+        "La primavera es la época ideal para visitar la ciudad.",
+        "No existe una dieta ideal que funcione para todos."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Una caída en algo que ocurre cada noche",
+      "ex": [
+        "La caída nocturna de la temperatura ayuda a la gente a dormir.",
+        "Los médicos vigilaron la caída nocturna de su presión arterial.",
+        "El desierto tiene una fuerte caída nocturna de temperatura."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "No dormir lo suficiente",
+      "ex": [
+        "La falta de sueño dificulta la concentración.",
+        "Los padres primerizos suelen sufrir falta de sueño.",
+        "La falta de sueño puede afectar tu estado de ánimo al día siguiente."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Los tubos que llevan la sangre por el cuerpo",
+      "ex": [
+        "Fumar daña los vasos sanguíneos.",
+        "El ejercicio mantiene sanos los vasos sanguíneos.",
+        "El clima frío hace que los vasos sanguíneos se estrechen."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "Volver a un estado normal y saludable",
+      "ex": [
+        "Le tomó dos semanas recuperarse de la gripe.",
+        "El cuerpo se recupera mientras duermes.",
+        "Los atletas necesitan días de descanso para recuperarse."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Un patrón de horarios que cambia todo el tiempo",
+      "ex": [
+        "Las enfermeras suelen trabajar con un horario irregular.",
+        "Un horario irregular dificulta dormir bien.",
+        "Su horario irregular no le dejaba tiempo para hacer ejercicio."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "La hora en que una persona suele irse a dormir",
+      "ex": [
+        "La hora de acostarse de los niños es a las ocho.",
+        "Una hora fija para dormir te ayuda a descansar mejor.",
+        "Él lee media hora antes de acostarse."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "La hora en que una persona suele levantarse por la mañana",
+      "ex": [
+        "Trata de mantener la misma hora para levantarte toda la semana.",
+        "Su hora de levantarse es a las 6 de la mañana entre semana.",
+        "Una hora de levantarse más tarde los fines de semana es algo común."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Cosas que has prometido hacer y para las que debes encontrar tiempo",
+      "ex": [
+        "Los compromisos familiares le impidieron ir a la reunión.",
+        "Ella tiene demasiados compromisos este mes.",
+        "Los compromisos laborales muchas veces reducen las horas de sueño."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "Permiso para hacer algo",
+      "ex": [
+        "La ciudad dio luz verde al nuevo parque.",
+        "No tomes un buen resultado como luz verde para dejar de entrenar.",
+        "El médico le dio luz verde para viajar."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Sentirse mal porque crees que has hecho algo malo",
+      "ex": [
+        "Me siento culpable por perderme su cumpleaños.",
+        "Él se sintió culpable por dormir hasta tan tarde.",
+        "No hace falta sentirse culpable por descansar."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "El estudio se presentó en Múnich, Alemania, el 29 de agosto de 2026.",
+      "a": true,
+      "why": "Se presentó en el congreso de la Sociedad Europea de Cardiología, y sugiere que las personas que recuperan el sueño perdido con moderación tienen menores probabilidades de tener presión arterial alta."
+    },
+    {
+      "s": "La cantidad ideal de sueño extra del fin de semana fue de unas cuatro horas.",
+      "a": false,
+      "why": "La cantidad ideal ascendió a 1 hora y 27 minutos, y las personas que durmieron más de cuatro horas extra tuvieron un riesgo mayor."
+    },
+    {
+      "s": "La encuesta abarcó a 40.727 adultos surcoreanos entre 2016 y 2023.",
+      "a": true,
+      "why": "El investigador de la Universidad de Corea revisó datos de una encuesta nacional de salud de 40.727 adultos recogidos durante esos años."
+    },
+    {
+      "s": "La presión arterial normalmente sube durante el sueño.",
+      "a": false,
+      "why": "La presión arterial normalmente baja durante el sueño, y dormir muy poco puede reducir esa caída nocturna."
+    },
+    {
+      "s": "El beneficio subió al 6,9 por ciento entre los adultos físicamente inactivos.",
+      "a": true,
+      "why": "El sueño de recuperación se relacionó con un 6 por ciento menos de probabilidades en general y un 6,9 por ciento entre los adultos físicamente inactivos."
+    },
+    {
+      "s": "El cardiólogo de la British Heart Foundation llamó al estudio un permiso para reducir el ejercicio.",
+      "a": false,
+      "why": "Ella dijo que el estudio no es un permiso para reducir el ejercicio, solo que la gente no necesita sentirse culpable por dormir hasta tarde los fines de semana."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Un gran estudio surcoreano relacionó una cantidad moderada de sueño extra del fin de semana con menores probabilidades de presión arterial alta. Sin embargo, dormir más de cuatro horas extra se relacionó con un riesgo mayor.",
+      "a": true,
+      "why": "Cerca de 90 minutos de sueño extra del fin de semana se relacionaron con un 9 por ciento menos de probabilidades, mientras que las personas que durmieron más de cuatro horas extra tuvieron un riesgo mayor."
+    },
+    {
+      "s": "Los investigadores descubrieron que cuanto más sueño extra tenía la gente los fines de semana, menos probable era que tuvieran presión arterial alta. Los expertos dicen ahora que una hora fija para acostarse ya no importa para el corazón.",
+      "a": false,
+      "why": "Cerca, pero el beneficio se detuvo en una cantidad moderada, y las personas que durmieron más de cuatro horas extra tuvieron un riesgo mayor. Los expertos siguen recomendando una hora fija para acostarse."
+    },
+    {
+      "s": "Una encuesta a trabajadores por turnos encontró que las personas que duermen de día tienen mayor presión arterial que los trabajadores diurnos. Los médicos dicen que los turnos nocturnos deben limitarse para proteger el corazón de todos los trabajadores.",
+      "a": false,
+      "why": "El estudio analizó el sueño extra del fin de semana entre adultos en general, no a trabajadores por turnos ni el sueño diurno."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Se usa para admitir, en broma, que haces lo que alguien acaba de describir",
+    "That's a relief": "Se usa para decir que te sientes mejor porque una preocupación desapareció",
+    "Don't push your luck": "Se usa para advertirle a alguien que no lleve algo bueno demasiado lejos",
+    "Within reason": "Se usa para decir que algo está bien mientras se mantenga en un nivel razonable",
+    "Easier said than done": "Se usa para decir que algo suena sencillo pero es difícil de hacer en realidad"
+  }
+}

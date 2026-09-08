@@ -1,6 +1,522 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "stories": [
+    {
+      "id": "weekend-sleep-in-study-2026",
+      "number": 105,
+      "headline": "Sleeping in on weekends may lower blood pressure risk",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n105-weekend-sleep-in-study-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "'People should not feel guilty': weekend lie-in may be good for you, experts say (The Guardian)",
+          "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/sleeping-in-weekend-may-be-good-for-you-study"
+        },
+        {
+          "title": "Sleeping in on weekends is good for the heart: What research has shown (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/8/31/sleeping-in-on-weekends-is-good-for-the-heart-what-research-has-shown"
+        },
+        {
+          "title": "Weekend Catch-Up Sleep Lowers Blood Pressure Risk, Korean Study Finds (Seoul Economic Daily)",
+          "url": "https://en.sedaily.com/culture/2026/09/05/weekend-catch-up-sleep-lowers-blood-pressure-risk-korean"
+        },
+        {
+          "title": "Protective role of weekend catch-up sleep on hypertension in adults with physical inactivity (ESC 365, European Society of Cardiology)",
+          "url": "https://esc365.escardio.org/presentation/327903"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "For years, sleep experts have warned people not to {{sleep in}} on weekends. Extra weekend sleep, they said, can {{throw off}} the body's [[internal clock]]. Now a study presented at the European Society of Cardiology [[congress]] in Munich, Germany, on August 29, 2026, suggests that people who {{catch up on}} lost sleep [[in moderation]] have lower [[odds]] of high blood pressure. Newspapers worldwide reported the finding within days.",
+          "verbs": [
+            {
+              "display": "sleep in",
+              "base": "sleep in",
+              "correct": "To sleep later than usual in the morning",
+              "wrong": "To spend the night at a friend's home",
+              "correctFirst": true,
+              "why": "Many people sleep in on their day off, and a teenager will sleep in until noon if nobody wakes him. For years, sleep experts have warned people not to sleep in on weekends."
+            },
+            {
+              "display": "throw off",
+              "base": "throw off",
+              "correct": "To disturb the normal working of something",
+              "wrong": "To delay something until a later time",
+              "correctFirst": false,
+              "why": "A long flight can throw off your sense of time, and one wrong number can throw off a whole calculation. Experts said that extra weekend sleep can throw off the body's internal clock."
+            },
+            {
+              "display": "catch up on",
+              "base": "catch up on",
+              "correct": "To do something you missed earlier",
+              "wrong": "To become popular among many people",
+              "correctFirst": true,
+              "why": "After a vacation you catch up on your email, and a student who was sick catches up on the lessons she missed. The study suggests that people who catch up on lost sleep in moderation have lower odds of high blood pressure."
+            }
+          ]
+        },
+        {
+          "text": "The Korea University researcher who presented the study {{went through}} data from a national [[health survey]] of 40,727 South Korean adults from 2016 to 2023. Catch-up sleep was the difference between weekend and weekday [[sleep duration]]. Weekend catch-up sleep was linked to 6 percent lower odds of high blood pressure. The benefit {{went up}} to 6.9 percent among [[physically inactive]] adults. The [[ideal]] amount {{came to}} 1 hour 27 minutes, with 9 percent lower odds.",
+          "verbs": [
+            {
+              "display": "went through",
+              "base": "go through",
+              "correct": "To examine something carefully",
+              "wrong": "To collect over many years",
+              "correctFirst": false,
+              "why": "An accountant goes through the receipts at the end of the month, and a teacher goes through every essay before giving grades. The Korea University researcher went through data from a national health survey of 40,727 South Korean adults."
+            },
+            {
+              "display": "went up",
+              "base": "go up",
+              "correct": "To increase",
+              "wrong": "To stay the same",
+              "correctFirst": true,
+              "why": "Rent goes up almost every year, and the temperature goes up quickly after sunrise. The benefit went up to 6.9 percent among adults who were physically inactive."
+            },
+            {
+              "display": "came to",
+              "base": "come to",
+              "correct": "To reach a total of",
+              "wrong": "To be found by chance",
+              "correctFirst": false,
+              "why": "The bill came to 40 dollars, and the total number of visitors came to just over a thousand. The ideal amount of extra weekend sleep came to 1 hour 27 minutes."
+            }
+          ]
+        },
+        {
+          "text": "Blood pressure normally {{goes down}} during sleep, but too little sleep can reduce that [[nightly drop]], said a sleep scientist at the University of Utah. The researcher said a [[lack of sleep]] keeps the heart and [[blood vessels]] working harder, and weekend sleep may help the body [[recover]]. But she {{pointed out}} that more is not always better. People who slept more than four extra hours had a higher risk, because an [[irregular schedule]] may {{cancel out}} the benefit.",
+          "verbs": [
+            {
+              "display": "goes down",
+              "base": "go down",
+              "correct": "To become lower",
+              "wrong": "To ring like an alarm",
+              "correctFirst": true,
+              "why": "Prices go down after the holidays, and the water level goes down during a dry summer. Blood pressure normally goes down during sleep, but too little sleep can reduce that nightly drop."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To tell people about a fact",
+              "wrong": "To measure something exactly",
+              "correctFirst": false,
+              "why": "A tour guide points out that the market is closed on Mondays, and a friend points out that your bus leaves from a different stop today. The researcher pointed out that more sleep is not always better."
+            },
+            {
+              "display": "cancel out",
+              "base": "cancel out",
+              "correct": "To remove the effect of something",
+              "wrong": "To measure the effect of something",
+              "correctFirst": true,
+              "why": "A big dessert can cancel out the benefit of a workout, and a late fee can cancel out a small discount. The researcher said an irregular schedule may cancel out the benefit of catch-up sleep."
+            }
+          ]
+        },
+        {
+          "text": "Experts still advise people to {{stick to}} a regular [[bedtime]] and [[wake-up time]]. A cardiologist at the British Heart Foundation, who was not involved in the study, said many people {{miss out on}} sleep because of work and family [[commitments]]. The study is not a [[green light]] to {{cut back on}} exercise, the cardiologist said, but people need not feel [[guilty]] about sleeping late on weekends. The researcher agreed: extra sleep may simply be the body's way of {{making up for}} lost sleep.",
+          "verbs": [
+            {
+              "display": "stick to",
+              "base": "stick to",
+              "correct": "To keep following a plan or routine",
+              "wrong": "To be easy to notice among others",
+              "correctFirst": false,
+              "why": "It is hard to stick to a diet during the holidays, and a good driver sticks to the speed limit. Experts still advise people to stick to a regular bedtime and wake-up time."
+            },
+            {
+              "display": "miss out on",
+              "base": "miss out on",
+              "correct": "To fail to get something good",
+              "wrong": "To forget to do something",
+              "correctFirst": true,
+              "why": "If you arrive late, you miss out on the best seats, and people who never travel miss out on a lot. A cardiologist at the British Heart Foundation said many people miss out on sleep because of work and family commitments."
+            },
+            {
+              "display": "cut back on",
+              "base": "cut back on",
+              "correct": "To do less of something",
+              "wrong": "To stop the supply of something",
+              "correctFirst": false,
+              "why": "The doctor told him to cut back on salt, and the company cut back on travel to save money. The cardiologist said the study is not a green light to cut back on exercise."
+            },
+            {
+              "display": "making up for",
+              "base": "make up for",
+              "correct": "To replace something that was lost",
+              "wrong": "To invent a story that is not true",
+              "correctFirst": true,
+              "why": "A big dinner makes up for a missed lunch, and a summer class can make up for the weeks a student lost while sick. The researcher said extra weekend sleep may simply be the body's way of making up for lost sleep."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Sleep in",
+          "def": "To sleep later than usual in the morning",
+          "ipa": "/slip ɪn/",
+          "ex": [
+            "I like to sleep in on Sunday mornings.",
+            "The kids slept in until ten during the vacation.",
+            "She never sleeps in, even on her day off."
+          ]
+        },
+        {
+          "verb": "Throw off",
+          "def": "To disturb the normal working of something",
+          "ipa": "/θroʊ ɔf/",
+          "ex": [
+            "The time change threw off my sleep for a week.",
+            "One late train can throw off the whole schedule.",
+            "Jet lag throws off your appetite as well as your sleep."
+          ]
+        },
+        {
+          "verb": "Catch up on",
+          "def": "To do something you missed earlier",
+          "ipa": "/kætʃ ʌp ɑn/",
+          "ex": [
+            "I need to catch up on some sleep this weekend.",
+            "He spent the evening catching up on the news.",
+            "She stayed late to catch up on her work."
+          ]
+        },
+        {
+          "verb": "Go through",
+          "def": "To examine something carefully",
+          "ipa": "/ɡoʊ θru/",
+          "ex": [
+            "The doctor went through my test results with me.",
+            "Police went through the records one by one.",
+            "We went through the report line by line."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To increase",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "Gas prices went up again last month.",
+            "The number of visitors goes up every summer.",
+            "Her heart rate goes up when she climbs stairs."
+          ]
+        },
+        {
+          "verb": "Come to",
+          "def": "To reach a total of",
+          "ipa": "/kʌm tu/",
+          "ex": [
+            "The bill came to 80 dollars.",
+            "The extra hours came to about a day's work.",
+            "Donations came to more than a million dollars."
+          ]
+        },
+        {
+          "verb": "Go down",
+          "def": "To become lower",
+          "ipa": "/ɡoʊ daʊn/",
+          "ex": [
+            "The temperature goes down at night.",
+            "Prices usually go down after the holidays.",
+            "Her fever went down by the morning."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people about a fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "The doctor pointed out that he needed more rest.",
+            "She pointed out a mistake in the report.",
+            "Critics point out that the study was small."
+          ]
+        },
+        {
+          "verb": "Cancel out",
+          "def": "To remove the effect of something",
+          "ipa": "/ˈkænsəl aʊt/",
+          "ex": [
+            "A late night can cancel out the benefit of a nap.",
+            "The extra costs canceled out the savings.",
+            "Two of the changes cancel each other out."
+          ]
+        },
+        {
+          "verb": "Stick to",
+          "def": "To keep following a plan or routine",
+          "ipa": "/stɪk tu/",
+          "ex": [
+            "Try to stick to the same bedtime every night.",
+            "He stuck to his plan and finished the race.",
+            "It is hard to stick to a budget on vacation."
+          ]
+        },
+        {
+          "verb": "Miss out on",
+          "def": "To fail to get something good",
+          "ipa": "/mɪs aʊt ɑn/",
+          "ex": [
+            "Night workers often miss out on sleep.",
+            "Don't miss out on the free tickets.",
+            "He missed out on the trip because he was sick."
+          ]
+        },
+        {
+          "verb": "Cut back on",
+          "def": "To do less of something",
+          "ipa": "/kʌt bæk ɑn/",
+          "ex": [
+            "The doctor told her to cut back on coffee.",
+            "We are cutting back on spending this year.",
+            "He cut back on late nights before the exam."
+          ]
+        },
+        {
+          "verb": "Make up for",
+          "def": "To replace something that was lost",
+          "ipa": "/meɪk ʌp fɔr/",
+          "ex": [
+            "A nap can make up for a short night.",
+            "She worked Saturday to make up for the lost day.",
+            "Nothing can make up for the time we missed."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "internal clock",
+          "def": "The system in the body that controls when you feel sleepy or awake",
+          "ipa": "/ɪnˈtɜrnəl klɑk/",
+          "ex": [
+            "Travel across time zones confuses your internal clock.",
+            "Bright light in the morning resets the internal clock.",
+            "Night shifts work against the body's internal clock."
+          ]
+        },
+        {
+          "word": "congress",
+          "def": "A large formal meeting of people who work in the same field",
+          "ipa": "/ˈkɑŋɡrəs/",
+          "ex": [
+            "Doctors from 100 countries attended the congress.",
+            "The results were announced at a medical congress in Paris.",
+            "The congress takes place every year in a different city."
+          ]
+        },
+        {
+          "word": "in moderation",
+          "def": "In amounts that are not too large",
+          "ipa": "/ɪn ˌmɑdəˈreɪʃən/",
+          "ex": [
+            "Coffee is fine in moderation.",
+            "The doctor said he could drink wine in moderation.",
+            "Even sugar is not harmful in moderation."
+          ]
+        },
+        {
+          "word": "odds",
+          "def": "The chance that something will happen",
+          "ipa": "/ɑdz/",
+          "ex": [
+            "Exercise lowers the odds of heart disease.",
+            "The odds of winning the lottery are very small.",
+            "Smokers face higher odds of lung cancer."
+          ]
+        },
+        {
+          "word": "health survey",
+          "def": "A study that collects information about people's health",
+          "ipa": "/hɛlθ ˈsɜrveɪ/",
+          "ex": [
+            "The national health survey asks about diet and exercise.",
+            "Thousands of people took part in the health survey.",
+            "The health survey found that many adults sleep too little."
+          ]
+        },
+        {
+          "word": "sleep duration",
+          "def": "The amount of time a person sleeps",
+          "ipa": "/slip dʊˈreɪʃən/",
+          "ex": [
+            "Average sleep duration has fallen in the last 50 years.",
+            "The app records your sleep duration each night.",
+            "Short sleep duration is linked to weight gain."
+          ]
+        },
+        {
+          "word": "physically inactive",
+          "def": "Not getting much exercise",
+          "ipa": "/ˈfɪzɪkli ɪnˈæktɪv/",
+          "ex": [
+            "Physically inactive adults have a higher risk of diabetes.",
+            "Office jobs leave many people physically inactive.",
+            "About a third of the group was physically inactive."
+          ]
+        },
+        {
+          "word": "ideal",
+          "def": "The best possible",
+          "ipa": "/aɪˈdiəl/",
+          "ex": [
+            "The ideal bedtime for most adults is before 11 p.m.",
+            "Spring is the ideal time to visit the city.",
+            "There is no ideal diet that works for everyone."
+          ]
+        },
+        {
+          "word": "nightly drop",
+          "def": "A fall in something that happens every night",
+          "ipa": "/ˈnaɪtli drɑp/",
+          "ex": [
+            "The nightly drop in temperature helps people sleep.",
+            "Doctors watched for the nightly drop in her blood pressure.",
+            "The desert has a sharp nightly drop in temperature."
+          ]
+        },
+        {
+          "word": "lack of sleep",
+          "def": "Not getting enough sleep",
+          "ipa": "/læk əv slip/",
+          "ex": [
+            "Lack of sleep makes it hard to concentrate.",
+            "New parents often suffer from lack of sleep.",
+            "Lack of sleep can affect your mood the next day."
+          ]
+        },
+        {
+          "word": "blood vessels",
+          "def": "The tubes that carry blood around the body",
+          "ipa": "/blʌd ˈvɛsəlz/",
+          "ex": [
+            "Smoking damages the blood vessels.",
+            "Exercise keeps the blood vessels healthy.",
+            "Cold weather makes the blood vessels narrower."
+          ]
+        },
+        {
+          "word": "recover",
+          "def": "To return to a normal, healthy state",
+          "ipa": "/rɪˈkʌvər/",
+          "ex": [
+            "It took her two weeks to recover from the flu.",
+            "The body recovers while you sleep.",
+            "Athletes need rest days to recover."
+          ]
+        },
+        {
+          "word": "irregular schedule",
+          "def": "A pattern of times that keeps changing",
+          "ipa": "/ɪˈrɛɡjələr ˈskɛdʒul/",
+          "ex": [
+            "Nurses often work an irregular schedule.",
+            "An irregular schedule makes it hard to sleep well.",
+            "His irregular schedule left no time for exercise."
+          ]
+        },
+        {
+          "word": "bedtime",
+          "def": "The time when a person usually goes to sleep",
+          "ipa": "/ˈbɛdˌtaɪm/",
+          "ex": [
+            "The children's bedtime is eight o'clock.",
+            "A regular bedtime helps you sleep better.",
+            "He reads for half an hour before bedtime."
+          ]
+        },
+        {
+          "word": "wake-up time",
+          "def": "The time when a person usually leaves the bed in the morning",
+          "ipa": "/ˈweɪk ʌp taɪm/",
+          "ex": [
+            "Try to keep the same wake-up time all week.",
+            "Her wake-up time is 6 a.m. on workdays.",
+            "A later wake-up time on weekends is common."
+          ]
+        },
+        {
+          "word": "commitments",
+          "def": "Things you have promised to do and must find time for",
+          "ipa": "/kəˈmɪtmənts/",
+          "ex": [
+            "Family commitments kept him from the meeting.",
+            "She has too many commitments this month.",
+            "Work commitments often cut into sleep."
+          ]
+        },
+        {
+          "word": "green light",
+          "def": "Permission to do something",
+          "ipa": "/ɡrin laɪt/",
+          "ex": [
+            "The city gave the green light to the new park.",
+            "Don't take one good result as a green light to stop training.",
+            "The doctor gave her the green light to travel."
+          ]
+        },
+        {
+          "word": "guilty",
+          "def": "Feeling bad because you think you have done something wrong",
+          "ipa": "/ˈɡɪlti/",
+          "ex": [
+            "I feel guilty about missing her birthday.",
+            "He felt guilty for sleeping so late.",
+            "There is no need to feel guilty about resting."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A large South Korean study linked a moderate amount of extra weekend sleep to lower odds of high blood pressure. Sleeping more than four extra hours, however, was tied to a higher risk.",
+          "a": true,
+          "why": "About 90 minutes of extra weekend sleep was linked to 9 percent lower odds, while people who slept more than four extra hours had a higher risk."
+        },
+        {
+          "s": "Researchers found that the more extra sleep people got on weekends, the less likely they were to have high blood pressure. Experts now say a regular bedtime no longer matters for the heart.",
+          "a": false,
+          "why": "Close, but the benefit stopped at a moderate amount, and people who slept more than four extra hours had a higher risk. Experts still advise a regular bedtime."
+        },
+        {
+          "s": "A survey of shift workers found that people who sleep during the day have higher blood pressure than day workers. Doctors say night shifts should be limited to protect the heart of every worker.",
+          "a": false,
+          "why": "The study looked at extra weekend sleep among adults in general, not at shift workers or daytime sleep."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The study was presented in Munich, Germany, on August 29, 2026.",
+          "a": true,
+          "why": "It was presented at the European Society of Cardiology congress, and it suggests that people who catch up on lost sleep in moderation have lower odds of high blood pressure."
+        },
+        {
+          "s": "The ideal amount of extra weekend sleep came to about four hours.",
+          "a": false,
+          "why": "The ideal amount came to 1 hour 27 minutes, and people who slept more than four extra hours had a higher risk."
+        },
+        {
+          "s": "The survey covered 40,727 South Korean adults from 2016 to 2023.",
+          "a": true,
+          "why": "The Korea University researcher went through data from a national health survey of 40,727 adults collected over those years."
+        },
+        {
+          "s": "Blood pressure normally goes up during sleep.",
+          "a": false,
+          "why": "Blood pressure normally goes down during sleep, and too little sleep can reduce that nightly drop."
+        },
+        {
+          "s": "The benefit went up to 6.9 percent among physically inactive adults.",
+          "a": true,
+          "why": "Catch-up sleep was linked to 6 percent lower odds overall and 6.9 percent among adults who were physically inactive."
+        },
+        {
+          "s": "The British Heart Foundation cardiologist called the study a green light to cut back on exercise.",
+          "a": false,
+          "why": "She said the study is not a green light to cut back on exercise, only that people need not feel guilty about sleeping late on weekends."
+        }
+      ]
+    },
     {
       "id": "un-equal-earth-map-2026",
       "number": 104,

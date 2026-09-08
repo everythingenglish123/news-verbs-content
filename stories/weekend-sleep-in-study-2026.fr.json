@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "fr",
+  "headline": "Faire la grasse matinée le week-end pourrait réduire le risque d'hypertension",
+  "chunks": [
+    "Pendant des années, les spécialistes du sommeil ont averti les gens de ne pas faire la grasse matinée le week-end. Le sommeil supplémentaire du week-end, disaient-ils, peut dérégler l'horloge interne du corps. Aujourd'hui, une étude présentée au congrès de la Société Européenne de Cardiologie à Munich, en Allemagne, le 29 août 2026, suggère que les personnes qui rattrapent le sommeil perdu avec modération ont moins de risques d'hypertension. Des journaux du monde entier ont rapporté cette découverte en quelques jours.",
+    "Le chercheur de l'université de Corée qui a présenté l'étude a examiné les données d'une enquête nationale de santé menée auprès de 40 727 adultes sud-coréens entre 2016 et 2023. Le sommeil de rattrapage correspondait à la différence entre la durée de sommeil du week-end et celle de la semaine. Le sommeil de rattrapage du week-end était lié à un risque d'hypertension inférieur de 6 pour cent. Le bénéfice a augmenté jusqu'à 6,9 pour cent chez les adultes physiquement inactifs. La quantité idéale s'élevait à 1 heure 27 minutes, avec un risque inférieur de 9 pour cent.",
+    "La tension artérielle baisse normalement pendant le sommeil, mais trop peu de sommeil peut réduire cette baisse nocturne, a expliqué une chercheuse en sommeil de l'université de l'Utah. La chercheuse a dit que le manque de sommeil oblige le cœur et les vaisseaux sanguins à travailler plus dur, et que le sommeil du week-end peut aider le corps à récupérer. Mais elle a fait remarquer que plus n'est pas toujours mieux. Les personnes qui ont dormi plus de quatre heures supplémentaires avaient un risque plus élevé, car un emploi du temps irrégulier peut annuler le bénéfice.",
+    "Les experts continuent de conseiller de s'en tenir à une heure de coucher et de lever régulière. Une cardiologue de la British Heart Foundation, qui n'a pas participé à l'étude, a dit que beaucoup de gens ratent du sommeil à cause du travail et des engagements familiaux. L'étude n'est pas un feu vert pour réduire l'exercice, a dit la cardiologue, mais les gens n'ont pas besoin de se sentir coupables de dormir tard le week-end. La chercheuse était d'accord : le sommeil supplémentaire pourrait simplement être la façon dont le corps compense le sommeil perdu."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "Dormir plus tard que d'habitude le matin",
+      "wrong": "Passer toute la nuit chez un ami"
+    },
+    {
+      "base": "throw off",
+      "correct": "Déranger le fonctionnement normal de quelque chose",
+      "wrong": "Retarder quelque chose jusqu'à un autre moment"
+    },
+    {
+      "base": "catch up on",
+      "correct": "Faire quelque chose que l'on avait manqué avant",
+      "wrong": "Devenir populaire auprès de beaucoup de gens"
+    },
+    {
+      "base": "go through",
+      "correct": "Examiner quelque chose avec soin",
+      "wrong": "Accumuler quelque chose pendant des années"
+    },
+    {
+      "base": "go up",
+      "correct": "Augmenter",
+      "wrong": "Rester le même"
+    },
+    {
+      "base": "come to",
+      "correct": "Atteindre un total de",
+      "wrong": "Être trouvé par hasard"
+    },
+    {
+      "base": "go down",
+      "correct": "Baisser de niveau",
+      "wrong": "Sonner comme une alarme"
+    },
+    {
+      "base": "point out",
+      "correct": "Dire un fait aux gens",
+      "wrong": "Mesurer avec précision"
+    },
+    {
+      "base": "cancel out",
+      "correct": "Supprimer l'effet de quelque chose",
+      "wrong": "Mesurer l'effet de quelque chose"
+    },
+    {
+      "base": "stick to",
+      "correct": "Continuer à suivre un plan ou une routine",
+      "wrong": "Être facile à remarquer parmi d'autres"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Ne pas obtenir quelque chose de bien",
+      "wrong": "Oublier de faire quelque chose"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Faire moins de quelque chose",
+      "wrong": "Arrêter de fournir quelque chose"
+    },
+    {
+      "base": "make up for",
+      "correct": "Remplacer quelque chose que l'on a perdu",
+      "wrong": "Inventer une histoire qui n'est pas vraie"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "Dormir plus tard que d'habitude le matin",
+      "ex": [
+        "J'aime faire la grasse matinée le dimanche.",
+        "Les enfants ont dormi jusqu'à dix heures pendant les vacances.",
+        "Elle ne fait jamais la grasse matinée, même les jours de congé."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "Déranger le fonctionnement normal de quelque chose",
+      "ex": [
+        "Le changement d'heure a déréglé mon sommeil pendant une semaine.",
+        "Un train en retard peut dérégler tout l'horaire.",
+        "Le décalage horaire dérègle autant l'appétit que le sommeil."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "Faire quelque chose que l'on avait manqué avant",
+      "ex": [
+        "J'ai besoin de rattraper du sommeil ce week-end.",
+        "Il a passé la soirée à rattraper les nouvelles.",
+        "Elle est restée tard pour rattraper son travail."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Examiner quelque chose avec soin",
+      "ex": [
+        "Le médecin a examiné mes résultats d'analyses avec moi.",
+        "La police a examiné les dossiers un par un.",
+        "Nous avons examiné le rapport ligne par ligne."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Augmenter",
+      "ex": [
+        "Le prix de l'essence a encore augmenté le mois dernier.",
+        "Le nombre de visiteurs augmente chaque été.",
+        "Son rythme cardiaque augmente quand elle monte les escaliers."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "Atteindre un total de",
+      "ex": [
+        "L'addition s'élevait à 80 dollars.",
+        "Les heures supplémentaires s'élevaient à presque une journée de travail.",
+        "Les dons se sont élevés à plus d'un million de dollars."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Baisser de niveau",
+      "ex": [
+        "La température baisse la nuit.",
+        "Les prix baissent généralement après les fêtes.",
+        "Sa fièvre a baissé au matin."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Dire un fait aux gens",
+      "ex": [
+        "Le médecin a fait remarquer qu'il avait besoin de plus de repos.",
+        "Elle a fait remarquer une erreur dans le rapport.",
+        "Les critiques font remarquer que l'étude était petite."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "Supprimer l'effet de quelque chose",
+      "ex": [
+        "Une nuit courte peut annuler le bénéfice d'une sieste.",
+        "Les coûts supplémentaires ont annulé les économies.",
+        "Deux des changements s'annulent l'un l'autre."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "Continuer à suivre un plan ou une routine",
+      "ex": [
+        "Essaie de t'en tenir à la même heure de coucher chaque soir.",
+        "Il s'en est tenu à son plan et a terminé la course.",
+        "Il est difficile de s'en tenir à un budget en vacances."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Ne pas obtenir quelque chose de bien",
+      "ex": [
+        "Les travailleurs de nuit ratent souvent du sommeil.",
+        "Ne rate pas les billets gratuits.",
+        "Il a raté le voyage parce qu'il était malade."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Faire moins de quelque chose",
+      "ex": [
+        "Le médecin lui a dit de réduire le café.",
+        "Nous réduisons les dépenses cette année.",
+        "Il a réduit les sorties nocturnes avant l'examen."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "Remplacer quelque chose que l'on a perdu",
+      "ex": [
+        "Une sieste peut compenser une nuit courte.",
+        "Elle a travaillé le samedi pour compenser le jour perdu.",
+        "Rien ne peut compenser le temps que nous avons perdu."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "Le système du corps qui contrôle le moment où l'on se sent fatigué ou éveillé",
+      "ex": [
+        "Voyager entre les fuseaux horaires perturbe ton horloge interne.",
+        "La lumière vive du matin remet à l'heure l'horloge interne.",
+        "Les postes de nuit vont à l'encontre de l'horloge interne du corps."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Une grande réunion formelle de personnes travaillant dans le même domaine",
+      "ex": [
+        "Des médecins de 100 pays ont assisté au congrès.",
+        "Les résultats ont été annoncés lors d'un congrès médical à Paris.",
+        "Le congrès a lieu chaque année dans une ville différente."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "En quantités qui ne sont pas trop grandes",
+      "ex": [
+        "Le café est acceptable avec modération.",
+        "Le médecin a dit qu'il pouvait boire du vin avec modération.",
+        "Même le sucre n'est pas nocif avec modération."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "La probabilité que quelque chose se produise",
+      "ex": [
+        "L'exercice réduit la probabilité de maladie cardiaque.",
+        "La probabilité de gagner à la loterie est très faible.",
+        "Les fumeurs ont une probabilité plus élevée de développer un cancer du poumon."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "Une étude qui recueille des informations sur la santé des gens",
+      "ex": [
+        "L'enquête nationale de santé pose des questions sur l'alimentation et l'exercice.",
+        "Des milliers de personnes ont participé à l'enquête de santé.",
+        "L'enquête de santé a révélé que beaucoup d'adultes dorment trop peu."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "La quantité de temps qu'une personne dort",
+      "ex": [
+        "La durée moyenne de sommeil a diminué au cours des 50 dernières années.",
+        "L'application enregistre ta durée de sommeil chaque nuit.",
+        "Une courte durée de sommeil est liée à la prise de poids."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Qui ne fait pas beaucoup d'exercice",
+      "ex": [
+        "Les adultes physiquement inactifs ont un risque plus élevé de diabète.",
+        "Les emplois de bureau laissent beaucoup de gens physiquement inactifs.",
+        "Environ un tiers du groupe était physiquement inactif."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "Le meilleur possible",
+      "ex": [
+        "L'heure de coucher idéale pour la plupart des adultes est avant 23 heures.",
+        "Le printemps est le moment idéal pour visiter la ville.",
+        "Il n'existe pas de régime idéal qui convienne à tout le monde."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Une baisse de quelque chose qui se produit chaque nuit",
+      "ex": [
+        "La baisse nocturne de la température aide les gens à dormir.",
+        "Les médecins surveillaient la baisse nocturne de sa tension artérielle.",
+        "Le désert connaît une forte baisse nocturne de la température."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "Ne pas dormir assez",
+      "ex": [
+        "Le manque de sommeil rend la concentration difficile.",
+        "Les nouveaux parents souffrent souvent de manque de sommeil.",
+        "Le manque de sommeil peut affecter ton humeur le lendemain."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Les tubes qui transportent le sang dans le corps",
+      "ex": [
+        "Fumer endommage les vaisseaux sanguins.",
+        "L'exercice garde les vaisseaux sanguins en bonne santé.",
+        "Le froid rend les vaisseaux sanguins plus étroits."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "Retrouver un état normal et sain",
+      "ex": [
+        "Il lui a fallu deux semaines pour se remettre de la grippe.",
+        "Le corps récupère pendant le sommeil.",
+        "Les athlètes ont besoin de jours de repos pour récupérer."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Un rythme d'horaires qui change tout le temps",
+      "ex": [
+        "Les infirmières travaillent souvent selon un emploi du temps irrégulier.",
+        "Un emploi du temps irrégulier rend le sommeil difficile.",
+        "Son emploi du temps irrégulier ne lui laissait pas de temps pour faire de l'exercice."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "L'heure à laquelle une personne se couche habituellement",
+      "ex": [
+        "L'heure du coucher des enfants est huit heures.",
+        "Une heure de coucher régulière t'aide à mieux dormir.",
+        "Il lit pendant une demi-heure avant l'heure du coucher."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "L'heure à laquelle une personne se lève habituellement le matin",
+      "ex": [
+        "Essaie de garder la même heure de lever toute la semaine.",
+        "Son heure de lever est 6 heures les jours de semaine.",
+        "Une heure de lever plus tardive le week-end est courante."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Des choses que l'on a promis de faire et pour lesquelles il faut trouver du temps",
+      "ex": [
+        "Des engagements familiaux l'ont empêché d'aller à la réunion.",
+        "Elle a trop d'engagements ce mois-ci.",
+        "Les engagements professionnels empiètent souvent sur le sommeil."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "La permission de faire quelque chose",
+      "ex": [
+        "La ville a donné le feu vert au nouveau parc.",
+        "Ne prends pas un bon résultat comme un feu vert pour arrêter l'entraînement.",
+        "Le médecin lui a donné le feu vert pour voyager."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Se sentir mal parce qu'on pense avoir fait quelque chose de mal",
+      "ex": [
+        "Je me sens coupable d'avoir manqué son anniversaire.",
+        "Il s'est senti coupable de dormir si tard.",
+        "Il n'y a pas besoin de se sentir coupable de se reposer."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "L'étude a été présentée à Munich, en Allemagne, le 29 août 2026.",
+      "a": true,
+      "why": "Elle a été présentée au congrès de la Société Européenne de Cardiologie, et elle suggère que les personnes qui rattrapent le sommeil perdu avec modération ont moins de risques d'hypertension."
+    },
+    {
+      "s": "La quantité idéale de sommeil supplémentaire le week-end s'élevait à environ quatre heures.",
+      "a": false,
+      "why": "La quantité idéale s'élevait à 1 heure 27 minutes, et les personnes qui ont dormi plus de quatre heures supplémentaires avaient un risque plus élevé."
+    },
+    {
+      "s": "L'enquête portait sur 40 727 adultes sud-coréens entre 2016 et 2023.",
+      "a": true,
+      "why": "Le chercheur de l'université de Corée a examiné les données d'une enquête nationale de santé menée auprès de 40 727 adultes sur ces années."
+    },
+    {
+      "s": "La tension artérielle augmente normalement pendant le sommeil.",
+      "a": false,
+      "why": "La tension artérielle baisse normalement pendant le sommeil, et trop peu de sommeil peut réduire cette baisse nocturne."
+    },
+    {
+      "s": "Le bénéfice a augmenté jusqu'à 6,9 pour cent chez les adultes physiquement inactifs.",
+      "a": true,
+      "why": "Le sommeil de rattrapage était lié à un risque inférieur de 6 pour cent en général et de 6,9 pour cent chez les adultes physiquement inactifs."
+    },
+    {
+      "s": "La cardiologue de la British Heart Foundation a qualifié l'étude de feu vert pour réduire l'exercice.",
+      "a": false,
+      "why": "Elle a dit que l'étude n'est pas un feu vert pour réduire l'exercice, seulement que les gens n'ont pas besoin de se sentir coupables de dormir tard le week-end."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Une grande étude sud-coréenne a lié une quantité modérée de sommeil supplémentaire le week-end à un risque réduit d'hypertension. Dormir plus de quatre heures supplémentaires, en revanche, était lié à un risque plus élevé.",
+      "a": true,
+      "why": "Environ 90 minutes de sommeil supplémentaire le week-end étaient liées à un risque inférieur de 9 pour cent, tandis que les personnes qui ont dormi plus de quatre heures supplémentaires avaient un risque plus élevé."
+    },
+    {
+      "s": "Les chercheurs ont découvert que plus les gens dormaient longtemps le week-end, moins ils risquaient d'avoir de l'hypertension. Les experts disent maintenant qu'une heure de coucher régulière n'a plus d'importance pour le cœur.",
+      "a": false,
+      "why": "Presque, mais le bénéfice s'arrêtait à une quantité modérée, et les personnes qui ont dormi plus de quatre heures supplémentaires avaient un risque plus élevé. Les experts recommandent toujours une heure de coucher régulière."
+    },
+    {
+      "s": "Une enquête sur les travailleurs postés a révélé que les personnes qui dorment le jour ont une tension artérielle plus élevée que les travailleurs de jour. Les médecins disent que les postes de nuit devraient être limités pour protéger le cœur de chaque travailleur.",
+      "a": false,
+      "why": "L'étude portait sur le sommeil supplémentaire du week-end chez les adultes en général, pas sur les travailleurs postés ni le sommeil de jour."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Utilisé pour admettre, en plaisantant, que l'on fait ce que quelqu'un vient de décrire",
+    "That's a relief": "Utilisé pour dire que l'on se sent mieux parce qu'une inquiétude a disparu",
+    "Don't push your luck": "Utilisé pour avertir quelqu'un de ne pas pousser une bonne chose trop loin",
+    "Within reason": "Utilisé pour dire que quelque chose est acceptable tant que cela reste à un niveau raisonnable",
+    "Easier said than done": "Utilisé pour dire que quelque chose semble simple mais est difficile à faire réellement"
+  }
+}

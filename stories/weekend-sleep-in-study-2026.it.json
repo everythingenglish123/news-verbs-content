@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "it",
+  "headline": "Dormire fino a tardi nel weekend potrebbe ridurre il rischio di pressione alta",
+  "chunks": [
+    "Per anni, gli esperti del sonno hanno avvertito le persone di non dormire fino a tardi nel weekend. Il sonno extra del weekend, dicevano, può alterare l'orologio interno del corpo. Ora uno studio presentato al congresso della Società Europea di Cardiologia a Monaco, in Germania, il 29 agosto 2026, suggerisce che le persone che recuperano il sonno perso con moderazione hanno una probabilità minore di avere la pressione alta. Giornali di tutto il mondo hanno riportato il risultato nel giro di pochi giorni.",
+    "Il ricercatore dell'Università di Corea che ha presentato lo studio ha esaminato i dati di un sondaggio sanitario nazionale su 40.727 adulti sudcoreani dal 2016 al 2023. Il sonno di recupero era la differenza tra la durata del sonno del weekend e quella dei giorni feriali. Il sonno di recupero del weekend era collegato a una probabilità del 6 per cento più bassa di pressione alta. Il beneficio è salito al 6,9 per cento tra gli adulti fisicamente inattivi. La quantità ideale ammontava a 1 ora e 27 minuti, con una probabilità del 9 per cento più bassa.",
+    "La pressione sanguigna normalmente scende durante il sonno, ma dormire troppo poco può ridurre quel calo notturno, ha detto una scienziata del sonno dell'Università dello Utah. La ricercatrice ha detto che la mancanza di sonno fa lavorare di più il cuore e i vasi sanguigni, e che il sonno del weekend può aiutare il corpo a riprendersi. Ma ha fatto notare che di più non è sempre meglio. Le persone che hanno dormito più di quattro ore extra hanno avuto un rischio più alto, perché un orario irregolare può annullare il beneficio.",
+    "Gli esperti continuano a consigliare di attenersi a un orario regolare per andare a dormire e svegliarsi. Una cardiologa della British Heart Foundation, che non ha partecipato allo studio, ha detto che molte persone perdono ore di sonno per il lavoro e gli impegni familiari. Lo studio non è un via libera per ridurre l'esercizio fisico, ha detto la cardiologa, ma le persone non devono sentirsi in colpa per aver dormito fino a tardi nel weekend. La ricercatrice era d'accordo: il sonno extra potrebbe semplicemente essere il modo in cui il corpo compensa il sonno perso."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "Dormire più a lungo del solito al mattino",
+      "wrong": "Passare la notte a casa di un amico"
+    },
+    {
+      "base": "throw off",
+      "correct": "Disturbare il funzionamento normale di qualcosa",
+      "wrong": "Rimandare qualcosa a un momento successivo"
+    },
+    {
+      "base": "catch up on",
+      "correct": "Fare qualcosa che si era tralasciato prima",
+      "wrong": "Diventare popolare tra molte persone"
+    },
+    {
+      "base": "go through",
+      "correct": "Esaminare qualcosa con attenzione",
+      "wrong": "Accumulare qualcosa nel corso di anni"
+    },
+    {
+      "base": "go up",
+      "correct": "Aumentare",
+      "wrong": "Rimanere uguale"
+    },
+    {
+      "base": "come to",
+      "correct": "Ammontare a un totale di",
+      "wrong": "Essere trovato per caso"
+    },
+    {
+      "base": "go down",
+      "correct": "Scendere di livello",
+      "wrong": "Suonare come un allarme"
+    },
+    {
+      "base": "point out",
+      "correct": "Far notare un fatto alle persone",
+      "wrong": "Misurare qualcosa con precisione"
+    },
+    {
+      "base": "cancel out",
+      "correct": "Eliminare l'effetto di qualcosa",
+      "wrong": "Misurare l'effetto di qualcosa"
+    },
+    {
+      "base": "stick to",
+      "correct": "Continuare a seguire un piano o una routine",
+      "wrong": "Essere facile da notare tra gli altri"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Non ottenere qualcosa di buono",
+      "wrong": "Dimenticarsi di fare qualcosa"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Fare meno di qualcosa",
+      "wrong": "Interrompere una fornitura"
+    },
+    {
+      "base": "make up for",
+      "correct": "Sostituire qualcosa che si è perso",
+      "wrong": "Inventare una storia che non è vera"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "Dormire più a lungo del solito al mattino",
+      "ex": [
+        "Mi piace dormire fino a tardi la domenica mattina.",
+        "I bambini hanno dormito fino alle dieci durante le vacanze.",
+        "Lei non dorme mai fino a tardi, nemmeno nel suo giorno libero."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "Disturbare il funzionamento normale di qualcosa",
+      "ex": [
+        "Il cambio di orario ha disturbato il mio sonno per una settimana.",
+        "Un treno in ritardo può disturbare tutto l'orario.",
+        "Il jet lag disturba sia l'appetito che il sonno."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "Fare qualcosa che si era tralasciato prima",
+      "ex": [
+        "Ho bisogno di recuperare un po' di sonno questo weekend.",
+        "Ha passato la serata a recuperare le notizie che si era perso.",
+        "È rimasta fino a tardi per recuperare il lavoro arretrato."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Esaminare qualcosa con attenzione",
+      "ex": [
+        "Il medico ha esaminato i risultati dei miei esami con me.",
+        "La polizia ha esaminato i documenti uno per uno.",
+        "Abbiamo esaminato il rapporto riga per riga."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Aumentare",
+      "ex": [
+        "Il prezzo della benzina è aumentato di nuovo il mese scorso.",
+        "Il numero di visitatori aumenta ogni estate.",
+        "Il suo battito cardiaco aumenta quando sale le scale."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "Ammontare a un totale di",
+      "ex": [
+        "Il conto ammontava a 80 dollari.",
+        "Le ore straordinarie ammontavano quasi a una giornata di lavoro.",
+        "Le donazioni sono ammontate a più di un milione di dollari."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Scendere di livello",
+      "ex": [
+        "La temperatura scende di notte.",
+        "I prezzi di solito scendono dopo le feste.",
+        "La sua febbre è scesa entro il mattino."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Far notare un fatto alle persone",
+      "ex": [
+        "Il medico ha fatto notare che aveva bisogno di più riposo.",
+        "Lei ha fatto notare un errore nel rapporto.",
+        "I critici fanno notare che lo studio era piccolo."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "Eliminare l'effetto di qualcosa",
+      "ex": [
+        "Una notte breve può annullare il beneficio di un pisolino.",
+        "I costi extra hanno annullato i risparmi.",
+        "Due dei cambiamenti si annullano a vicenda."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "Continuare a seguire un piano o una routine",
+      "ex": [
+        "Cerca di attenerti allo stesso orario per andare a letto ogni sera.",
+        "Ha seguito il suo piano e ha finito la gara.",
+        "È difficile attenersi a un budget in vacanza."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Non ottenere qualcosa di buono",
+      "ex": [
+        "Chi lavora di notte spesso perde ore di sonno.",
+        "Non perderti i biglietti gratuiti.",
+        "Si è perso il viaggio perché era malato."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Fare meno di qualcosa",
+      "ex": [
+        "Il medico le ha detto di ridurre il caffè.",
+        "Stiamo riducendo le spese quest'anno.",
+        "Ha ridotto le uscite serali prima dell'esame."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "Sostituire qualcosa che si è perso",
+      "ex": [
+        "Un pisolino può compensare una notte breve.",
+        "Ha lavorato sabato per recuperare la giornata persa.",
+        "Niente può compensare il tempo che abbiamo perso."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "Il sistema del corpo che controlla quando ci si sente assonnati o svegli",
+      "ex": [
+        "Viaggiare tra i fusi orari confonde il tuo orologio interno.",
+        "La luce intensa del mattino resetta l'orologio interno.",
+        "I turni notturni vanno contro l'orologio interno del corpo."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Una grande riunione formale di persone che lavorano nello stesso settore",
+      "ex": [
+        "Medici provenienti da 100 paesi hanno partecipato al congresso.",
+        "I risultati sono stati annunciati a un congresso medico a Parigi.",
+        "Il congresso si svolge ogni anno in una città diversa."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "In quantità che non sono troppo grandi",
+      "ex": [
+        "Il caffè va bene con moderazione.",
+        "Il medico ha detto che poteva bere vino con moderazione.",
+        "Anche lo zucchero non fa male con moderazione."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "La probabilità che qualcosa accada",
+      "ex": [
+        "L'esercizio riduce la probabilità di malattie cardiache.",
+        "La probabilità di vincere alla lotteria è molto piccola.",
+        "I fumatori affrontano una probabilità più alta di cancro ai polmoni."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "Uno studio che raccoglie informazioni sulla salute delle persone",
+      "ex": [
+        "Il sondaggio sanitario nazionale chiede della dieta e dell'esercizio.",
+        "Migliaia di persone hanno preso parte al sondaggio sanitario.",
+        "Il sondaggio sanitario ha scoperto che molti adulti dormono troppo poco."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "La quantità di tempo che una persona dorme",
+      "ex": [
+        "La durata media del sonno è diminuita negli ultimi 50 anni.",
+        "L'app registra la tua durata del sonno ogni notte.",
+        "Una breve durata del sonno è collegata all'aumento di peso."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Che non fa molto esercizio",
+      "ex": [
+        "Gli adulti fisicamente inattivi hanno un rischio più alto di diabete.",
+        "I lavori d'ufficio lasciano molte persone fisicamente inattive.",
+        "Circa un terzo del gruppo era fisicamente inattivo."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "Il migliore possibile",
+      "ex": [
+        "L'orario ideale per andare a dormire per la maggior parte degli adulti è prima delle 23.",
+        "La primavera è il momento ideale per visitare la città.",
+        "Non esiste una dieta ideale che funzioni per tutti."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Un calo di qualcosa che avviene ogni notte",
+      "ex": [
+        "Il calo notturno della temperatura aiuta le persone a dormire.",
+        "I medici osservavano il calo notturno della sua pressione sanguigna.",
+        "Il deserto ha un forte calo notturno della temperatura."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "Non dormire abbastanza",
+      "ex": [
+        "La mancanza di sonno rende difficile concentrarsi.",
+        "I neogenitori spesso soffrono di mancanza di sonno.",
+        "La mancanza di sonno può influenzare il tuo umore il giorno dopo."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "I tubi che trasportano il sangue nel corpo",
+      "ex": [
+        "Fumare danneggia i vasi sanguigni.",
+        "L'esercizio mantiene sani i vasi sanguigni.",
+        "Il freddo rende i vasi sanguigni più stretti."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "Tornare a uno stato normale e sano",
+      "ex": [
+        "Le ci sono volute due settimane per riprendersi dall'influenza.",
+        "Il corpo si riprende mentre dormi.",
+        "Gli atleti hanno bisogno di giorni di riposo per riprendersi."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Un ritmo di orari che continua a cambiare",
+      "ex": [
+        "Gli infermieri spesso lavorano con un orario irregolare.",
+        "Un orario irregolare rende difficile dormire bene.",
+        "Il suo orario irregolare non gli lasciava tempo per fare esercizio."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "L'ora in cui una persona di solito va a dormire",
+      "ex": [
+        "L'ora della nanna dei bambini è alle otto.",
+        "Un orario fisso per andare a letto ti aiuta a dormire meglio.",
+        "Legge per mezz'ora prima di andare a letto."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "L'ora in cui una persona di solito si alza dal letto al mattino",
+      "ex": [
+        "Cerca di mantenere lo stesso orario di sveglia tutta la settimana.",
+        "Il suo orario di sveglia è le 6 nei giorni feriali.",
+        "Un orario di sveglia più tardi nel weekend è comune."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Cose che hai promesso di fare e per cui devi trovare tempo",
+      "ex": [
+        "Gli impegni familiari gli hanno impedito di andare alla riunione.",
+        "Lei ha troppi impegni questo mese.",
+        "Gli impegni di lavoro spesso tolgono tempo al sonno."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "Il permesso di fare qualcosa",
+      "ex": [
+        "La città ha dato il via libera al nuovo parco.",
+        "Non prendere un buon risultato come un via libera per smettere di allenarti.",
+        "Il medico le ha dato il via libera per viaggiare."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Sentirsi male perché si pensa di aver fatto qualcosa di sbagliato",
+      "ex": [
+        "Mi sento in colpa per aver perso il suo compleanno.",
+        "Si è sentito in colpa per aver dormito così tanto.",
+        "Non c'è bisogno di sentirsi in colpa per riposare."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Lo studio è stato presentato a Monaco, in Germania, il 29 agosto 2026.",
+      "a": true,
+      "why": "È stato presentato al congresso della Società Europea di Cardiologia, e suggerisce che le persone che recuperano il sonno perso con moderazione hanno una probabilità minore di avere la pressione alta."
+    },
+    {
+      "s": "La quantità ideale di sonno extra nel weekend ammontava a circa quattro ore.",
+      "a": false,
+      "why": "La quantità ideale ammontava a 1 ora e 27 minuti, e le persone che hanno dormito più di quattro ore extra hanno avuto un rischio più alto."
+    },
+    {
+      "s": "Il sondaggio ha coinvolto 40.727 adulti sudcoreani dal 2016 al 2023.",
+      "a": true,
+      "why": "Il ricercatore dell'Università di Corea ha esaminato i dati di un sondaggio sanitario nazionale su 40.727 adulti raccolti in quegli anni."
+    },
+    {
+      "s": "La pressione sanguigna normalmente sale durante il sonno.",
+      "a": false,
+      "why": "La pressione sanguigna normalmente scende durante il sonno, e dormire troppo poco può ridurre quel calo notturno."
+    },
+    {
+      "s": "Il beneficio è salito al 6,9 per cento tra gli adulti fisicamente inattivi.",
+      "a": true,
+      "why": "Il sonno di recupero era collegato a una probabilità del 6 per cento più bassa in generale e del 6,9 per cento tra gli adulti fisicamente inattivi."
+    },
+    {
+      "s": "La cardiologa della British Heart Foundation ha definito lo studio un via libera per ridurre l'esercizio fisico.",
+      "a": false,
+      "why": "Ha detto che lo studio non è un via libera per ridurre l'esercizio fisico, solo che le persone non devono sentirsi in colpa per aver dormito fino a tardi nel weekend."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Un ampio studio sudcoreano ha collegato una quantità moderata di sonno extra nel weekend a una probabilità minore di pressione alta. Dormire più di quattro ore extra, invece, era collegato a un rischio più alto.",
+      "a": true,
+      "why": "Circa 90 minuti di sonno extra nel weekend erano collegati a una probabilità del 9 per cento più bassa, mentre le persone che hanno dormito più di quattro ore extra hanno avuto un rischio più alto."
+    },
+    {
+      "s": "I ricercatori hanno scoperto che più sonno extra le persone facevano nel weekend, meno probabile era che avessero la pressione alta. Gli esperti ora dicono che un orario regolare per andare a dormire non conta più per il cuore.",
+      "a": false,
+      "why": "Quasi, ma il beneficio si fermava a una quantità moderata, e le persone che hanno dormito più di quattro ore extra hanno avuto un rischio più alto. Gli esperti consigliano ancora un orario regolare per andare a dormire."
+    },
+    {
+      "s": "Un sondaggio sui turnisti ha scoperto che le persone che dormono di giorno hanno una pressione sanguigna più alta rispetto a chi lavora di giorno. I medici dicono che i turni notturni dovrebbero essere limitati per proteggere il cuore di ogni lavoratore.",
+      "a": false,
+      "why": "Lo studio ha esaminato il sonno extra nel weekend tra gli adulti in generale, non i turnisti o il sonno diurno."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Usato per ammettere, scherzosamente, di fare la cosa che qualcuno ha appena descritto",
+    "That's a relief": "Usato per dire che ci si sente meglio perché una preoccupazione è passata",
+    "Don't push your luck": "Usato per avvisare qualcuno di non spingere troppo oltre una cosa buona",
+    "Within reason": "Usato per dire che qualcosa va bene finché rimane a un livello ragionevole",
+    "Easier said than done": "Usato per dire che qualcosa sembra semplice ma è difficile da fare davvero"
+  }
+}

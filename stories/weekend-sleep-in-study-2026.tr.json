@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "tr",
+  "headline": "Hafta sonu geç kalkmak yüksek tansiyon riskini azaltabilir",
+  "chunks": [
+    "Yıllardır uyku uzmanları insanları hafta sonları geç kalkmamaları için uyardı. Hafta sonu fazladan uyumanın, dediklerine göre, vücudun iç saatini bozabileceğini söylediler. Şimdi 29 Ağustos 2026'da Almanya'nın Münih kentinde düzenlenen Avrupa Kardiyoloji Derneği kongresinde sunulan bir çalışma, kaybedilen uykuyu ölçülü şekilde telafi eden kişilerin yüksek tansiyon olasılığının daha düşük olduğunu öne sürüyor. Dünya çapındaki gazeteler bu bulguyu birkaç gün içinde haberleştirdi.",
+    "Çalışmayı sunan Kore Üniversitesi araştırmacısı, 2016'dan 2023'e kadar 40.727 Güney Koreli yetişkini kapsayan ulusal bir sağlık anketinin verilerini inceledi. Telafi uykusu, hafta sonu ve hafta içi uyku süresi arasındaki farktı. Hafta sonu telafi uykusu, yüzde 6 daha düşük yüksek tansiyon olasılığıyla ilişkilendirildi. Bu fayda, fiziksel olarak aktif olmayan yetişkinler arasında yüzde 6,9'a çıktı. İdeal miktar, yüzde 9 daha düşük olasılıkla, 1 saat 27 dakikaya ulaştı.",
+    "Kan basıncı normalde uyku sırasında düşer, ancak çok az uyku bu gecelik düşüşü azaltabilir dedi Utah Üniversitesi'nden bir uyku bilimcisi. Araştırmacı, uyku eksikliğinin kalbi ve kan damarlarını daha çok çalıştırdığını ve hafta sonu uykusunun vücudun toparlanmasına yardımcı olabileceğini söyledi. Ancak daha fazlasının her zaman daha iyi olmadığını belirtti. Dört saatten fazla ekstra uyuyan kişilerde risk daha yüksekti, çünkü düzensiz bir program faydayı ortadan kaldırabilir.",
+    "Uzmanlar hâlâ insanlara düzenli bir yatma ve kalkma saatine bağlı kalmalarını tavsiye ediyor. Çalışmaya katılmayan British Heart Foundation'dan bir kardiyolog, birçok insanın iş ve aile yükümlülükleri yüzünden uykudan mahrum kaldığını söyledi. Kardiyolog, çalışmanın egzersizi azaltmak için bir yeşil ışık olmadığını, ancak insanların hafta sonları geç uyumaktan dolayı suçluluk hissetmelerine gerek olmadığını söyledi. Araştırmacı da aynı fikirdeydi: fazladan uyku, vücudun kaybedilen uykuyu telafi etme şekli olabilir."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "sabah normalden daha geç kalkmak",
+      "wrong": "bir arkadaşının evinde geceyi geçirmek"
+    },
+    {
+      "base": "throw off",
+      "correct": "bir şeyin normal işleyişini bozmak",
+      "wrong": "bir şeyi daha sonraya ertelemek"
+    },
+    {
+      "base": "catch up on",
+      "correct": "daha önce kaçırdığın bir şeyi yapmak",
+      "wrong": "birçok kişi arasında popüler olmak"
+    },
+    {
+      "base": "go through",
+      "correct": "bir şeyi dikkatle incelemek",
+      "wrong": "yıllar boyunca bir şey biriktirmek"
+    },
+    {
+      "base": "go up",
+      "correct": "artmak",
+      "wrong": "aynı kalmak"
+    },
+    {
+      "base": "come to",
+      "correct": "toplamda bir sayıya ulaşmak",
+      "wrong": "tesadüfen bulunmak"
+    },
+    {
+      "base": "go down",
+      "correct": "azalmak",
+      "wrong": "alarm gibi çalmak"
+    },
+    {
+      "base": "point out",
+      "correct": "insanlara bir gerçeği söylemek",
+      "wrong": "bir şeyi tam olarak ölçmek"
+    },
+    {
+      "base": "cancel out",
+      "correct": "bir şeyin etkisini ortadan kaldırmak",
+      "wrong": "bir şeyin etkisini tam olarak ölçmek"
+    },
+    {
+      "base": "stick to",
+      "correct": "bir plana veya rutine uymaya devam etmek",
+      "wrong": "başkaları arasında kolayca dikkat çekmek"
+    },
+    {
+      "base": "miss out on",
+      "correct": "iyi bir şeyi elde edememek",
+      "wrong": "bir şeyi yapmayı unutmak"
+    },
+    {
+      "base": "cut back on",
+      "correct": "bir şeyi daha az yapmak",
+      "wrong": "bir şeyin arzını durdurmak"
+    },
+    {
+      "base": "make up for",
+      "correct": "kaybedilen bir şeyin yerini doldurmak",
+      "wrong": "gerçek olmayan bir hikaye uydurmak"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "sabah normalden daha geç kalkmak",
+      "ex": [
+        "Pazar sabahları geç kalkmayı severim.",
+        "Çocuklar tatilde saat ona kadar uyudu.",
+        "O, izin gününde bile hiç geç kalkmaz."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "bir şeyin normal işleyişini bozmak",
+      "ex": [
+        "Saat değişikliği bir hafta boyunca uykumu bozdu.",
+        "Tek bir gecikmiş tren tüm programı bozabilir.",
+        "Jet lag hem iştahını hem uykunu bozar."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "daha önce kaçırdığın bir şeyi yapmak",
+      "ex": [
+        "Bu hafta sonu biraz uyku eksiğimi kapatmam gerekiyor.",
+        "Akşamı haberlerdeki eksiğini kapatarak geçirdi.",
+        "İşindeki eksiğini kapatmak için geç saatlere kadar kaldı."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "bir şeyi dikkatle incelemek",
+      "ex": [
+        "Doktor test sonuçlarımı benimle birlikte inceledi.",
+        "Polis kayıtları tek tek inceledi.",
+        "Raporu satır satır inceledik."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "artmak",
+      "ex": [
+        "Benzin fiyatları geçen ay yine arttı.",
+        "Ziyaretçi sayısı her yaz artar.",
+        "Merdiven çıkarken kalp atış hızı artar."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "toplamda bir sayıya ulaşmak",
+      "ex": [
+        "Fatura toplamda 80 dolara ulaştı.",
+        "Fazla mesai saatleri neredeyse bir günlük işe ulaştı.",
+        "Bağışlar toplamda bir milyon dolardan fazlaya ulaştı."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "azalmak",
+      "ex": [
+        "Sıcaklık geceleri düşer.",
+        "Fiyatlar genellikle tatillerden sonra düşer.",
+        "Ateşi sabaha kadar düştü."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "insanlara bir gerçeği söylemek",
+      "ex": [
+        "Doktor daha fazla dinlenmesi gerektiğini belirtti.",
+        "Raporda bir hata olduğunu belirtti.",
+        "Eleştirmenler çalışmanın küçük olduğunu belirtiyor."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "bir şeyin etkisini ortadan kaldırmak",
+      "ex": [
+        "Geç bir gece bir şekerlemenin faydasını ortadan kaldırabilir.",
+        "Ek maliyetler tasarrufu ortadan kaldırdı.",
+        "Değişikliklerden ikisi birbirini ortadan kaldırıyor."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "bir plana veya rutine uymaya devam etmek",
+      "ex": [
+        "Her gece aynı yatma saatine bağlı kalmaya çalış.",
+        "Planına bağlı kaldı ve yarışı bitirdi.",
+        "Tatilde bir bütçeye bağlı kalmak zordur."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "iyi bir şeyi elde edememek",
+      "ex": [
+        "Gece çalışanlar genellikle yeterli uyku alamaz.",
+        "Ücretsiz biletleri kaçırma.",
+        "Hasta olduğu için geziyi kaçırdı."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "bir şeyi daha az yapmak",
+      "ex": [
+        "Doktor ona kahveyi azaltmasını söyledi.",
+        "Bu yıl harcamalarımızı azaltıyoruz.",
+        "Sınavdan önce geç saatlere kadar oturmayı azalttı."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "kaybedilen bir şeyin yerini doldurmak",
+      "ex": [
+        "Bir şekerleme kısa bir gecenin yerini doldurabilir.",
+        "Kaybettiği günün yerini doldurmak için cumartesi çalıştı.",
+        "Kaçırdığımız zamanın yerini hiçbir şey dolduramaz."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "Vücutta ne zaman uykulu ya da uyanık hissedeceğini kontrol eden sistem",
+      "ex": [
+        "Zaman dilimleri arasında seyahat etmek iç saatini karıştırır.",
+        "Sabahki güçlü ışık iç saati sıfırlar.",
+        "Gece vardiyaları vücudun iç saatine karşı çalışır."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Aynı alanda çalışan insanların katıldığı büyük, resmi bir toplantı",
+      "ex": [
+        "100 ülkeden doktorlar kongreye katıldı.",
+        "Sonuçlar Paris'teki bir tıp kongresinde açıklandı.",
+        "Kongre her yıl farklı bir şehirde yapılır."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "Çok fazla olmayan miktarlarda",
+      "ex": [
+        "Kahve ölçülü tüketildiğinde sorun değildir.",
+        "Doktor, ölçülü miktarda şarap içebileceğini söyledi.",
+        "Ölçülü tüketildiğinde şeker bile zararlı değildir."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "Bir şeyin gerçekleşme olasılığı",
+      "ex": [
+        "Egzersiz kalp hastalığı olasılığını azaltır.",
+        "Piyangoyu kazanma olasılığı çok düşüktür.",
+        "Sigara içenlerde akciğer kanseri olasılığı daha yüksektir."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "İnsanların sağlığı hakkında bilgi toplayan bir çalışma",
+      "ex": [
+        "Ulusal sağlık anketi beslenme ve egzersiz hakkında sorular soruyor.",
+        "Binlerce kişi sağlık anketine katıldı.",
+        "Sağlık anketi birçok yetişkinin çok az uyuduğunu ortaya çıkardı."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "Bir kişinin uyuduğu süre",
+      "ex": [
+        "Ortalama uyku süresi son 50 yılda azaldı.",
+        "Uygulama her gece uyku sürenizi kaydeder.",
+        "Kısa uyku süresi kilo alımıyla ilişkilidir."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Yeterince egzersiz yapmayan",
+      "ex": [
+        "Fiziksel olarak aktif olmayan yetişkinlerde diyabet riski daha yüksektir.",
+        "Ofis işleri birçok insanı fiziksel olarak hareketsiz bırakır.",
+        "Grubun yaklaşık üçte biri fiziksel olarak hareketsizdi."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "Mümkün olan en iyisi",
+      "ex": [
+        "Çoğu yetişkin için ideal yatma saati saat 23'ten önce.",
+        "İlkbahar bu şehri ziyaret etmek için ideal zamandır.",
+        "Herkese uyan ideal bir diyet yoktur."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Her gece meydana gelen bir düşüş",
+      "ex": [
+        "Sıcaklıktaki gecelik düşüş insanların uyumasına yardımcı olur.",
+        "Doktorlar onun kan basıncındaki gecelik düşüşü izledi.",
+        "Çölde sıcaklıkta keskin bir gecelik düşüş olur."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "Yeterince uyuyamamak",
+      "ex": [
+        "Uyku eksikliği konsantre olmayı zorlaştırır.",
+        "Yeni ebeveynler genellikle uyku eksikliği çeker.",
+        "Uyku eksikliği ertesi gün ruh halini etkileyebilir."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Kanı vücutta taşıyan borular",
+      "ex": [
+        "Sigara içmek kan damarlarına zarar verir.",
+        "Egzersiz kan damarlarını sağlıklı tutar.",
+        "Soğuk hava kan damarlarını daraltır."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "Normal, sağlıklı bir duruma geri dönmek",
+      "ex": [
+        "Gripten iyileşmesi iki hafta sürdü.",
+        "Vücut sen uyurken iyileşir.",
+        "Sporcuların iyileşmek için dinlenme günlerine ihtiyacı vardır."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Sürekli değişen bir zaman düzeni",
+      "ex": [
+        "Hemşireler genellikle düzensiz bir programla çalışır.",
+        "Düzensiz bir program iyi uyumayı zorlaştırır.",
+        "Düzensiz programı ona egzersiz için zaman bırakmadı."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "Bir kişinin genellikle uyumaya gittiği saat",
+      "ex": [
+        "Çocukların yatma saati sekizdir.",
+        "Düzenli bir yatma saati daha iyi uyumana yardımcı olur.",
+        "Yatmadan önce yarım saat kitap okur."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "Bir kişinin sabah genellikle yataktan kalktığı saat",
+      "ex": [
+        "Hafta boyunca aynı kalkma saatini korumaya çalış.",
+        "Onun iş günlerindeki kalkma saati sabah 6'dır.",
+        "Hafta sonları daha geç bir kalkma saati yaygındır."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Yapacağına söz verdiğin ve zaman ayırman gereken şeyler",
+      "ex": [
+        "Aile yükümlülükleri onun toplantıya gelmesini engelledi.",
+        "Bu ay çok fazla yükümlülüğü var.",
+        "İş yükümlülükleri genellikle uyku süresini kısaltır."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "Bir şeyi yapmak için izin",
+      "ex": [
+        "Şehir, yeni parka yeşil ışık yaktı.",
+        "İyi bir sonucu, antrenmanı bırakmak için bir yeşil ışık olarak görme.",
+        "Doktor ona seyahat etmesi için yeşil ışık yaktı."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Yanlış bir şey yaptığını düşündüğün için kendini kötü hissetmek",
+      "ex": [
+        "Doğum gününü kaçırdığım için kendimi suçlu hissediyorum.",
+        "O kadar geç uyuduğu için kendini suçlu hissetti.",
+        "Dinlenmek için kendini suçlu hissetmene gerek yok."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Çalışma, 29 Ağustos 2026'da Almanya'nın Münih kentinde sunuldu.",
+      "a": true,
+      "why": "Avrupa Kardiyoloji Derneği kongresinde sunuldu ve kaybedilen uykuyu ölçülü şekilde telafi eden kişilerin yüksek tansiyon olasılığının daha düşük olduğunu öne sürüyor."
+    },
+    {
+      "s": "Hafta sonu ekstra uykunun ideal miktarı yaklaşık dört saate ulaştı.",
+      "a": false,
+      "why": "İdeal miktar 1 saat 27 dakikaya ulaştı ve dört saatten fazla ekstra uyuyanlarda risk daha yüksekti."
+    },
+    {
+      "s": "Anket, 2016'dan 2023'e kadar 40.727 Güney Koreli yetişkini kapsadı.",
+      "a": true,
+      "why": "Kore Üniversitesi araştırmacısı, o yıllarda toplanan 40.727 yetişkine ait ulusal sağlık anketinin verilerini inceledi."
+    },
+    {
+      "s": "Kan basıncı normalde uyku sırasında yükselir.",
+      "a": false,
+      "why": "Kan basıncı normalde uyku sırasında düşer ve çok az uyku bu gecelik düşüşü azaltabilir."
+    },
+    {
+      "s": "Fayda, fiziksel olarak aktif olmayan yetişkinler arasında yüzde 6,9'a çıktı.",
+      "a": true,
+      "why": "Hafta sonu telafi uykusu genel olarak yüzde 6, fiziksel olarak aktif olmayan yetişkinler arasında ise yüzde 6,9 daha düşük olasılıkla ilişkilendirildi."
+    },
+    {
+      "s": "British Heart Foundation'daki kardiyolog, çalışmayı egzersizi azaltmak için bir yeşil ışık olarak nitelendirdi.",
+      "a": false,
+      "why": "Kardiyolog, çalışmanın egzersizi azaltmak için bir yeşil ışık olmadığını, sadece insanların hafta sonları geç uyumaktan suçluluk duymasına gerek olmadığını söyledi."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Büyük bir Güney Kore çalışması, hafta sonu ölçülü miktarda ekstra uykuyu daha düşük yüksek tansiyon olasılığıyla ilişkilendirdi. Ancak dört saatten fazla ekstra uyumak daha yüksek bir riskle ilişkilendirildi.",
+      "a": true,
+      "why": "Yaklaşık 90 dakikalık ekstra hafta sonu uykusu yüzde 9 daha düşük olasılıkla ilişkilendirildi, dört saatten fazla ekstra uyuyanlarda ise risk daha yüksekti."
+    },
+    {
+      "s": "Araştırmacılar, insanların hafta sonları ne kadar çok ekstra uyursa yüksek tansiyona sahip olma olasılıklarının o kadar azaldığını buldu. Uzmanlar artık düzenli bir yatma saatinin kalp için önemli olmadığını söylüyor.",
+      "a": false,
+      "why": "Yakın ama fayda ölçülü bir miktarda durdu ve dört saatten fazla ekstra uyuyanlarda risk daha yüksekti. Uzmanlar hâlâ düzenli bir yatma saati öneriyor."
+    },
+    {
+      "s": "Vardiyalı çalışanlarla yapılan bir anket, gündüz uyuyan kişilerin gündüz çalışanlardan daha yüksek tansiyona sahip olduğunu buldu. Doktorlar, her çalışanın kalbini korumak için gece vardiyalarının sınırlandırılması gerektiğini söylüyor.",
+      "a": false,
+      "why": "Çalışma, vardiyalı çalışanları veya gündüz uykusunu değil, genel olarak yetişkinlerdeki hafta sonu ekstra uykusunu inceledi."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Birinin az önce anlattığı şeyi gerçekten yaptığını şaka yollu kabul etmek için kullanılır",
+    "That's a relief": "Bir endişenin geçmesi nedeniyle kendini daha iyi hissettiğini söylemek için kullanılır",
+    "Don't push your luck": "Birini iyi bir şeyi fazla ileri götürmemesi için uyarmak amacıyla kullanılır",
+    "Within reason": "Bir şeyin makul bir seviyede kaldığı sürece uygun olduğunu söylemek için kullanılır",
+    "Easier said than done": "Bir şeyin basit görünse de yapılmasının zor olduğunu söylemek için kullanılır"
+  }
+}

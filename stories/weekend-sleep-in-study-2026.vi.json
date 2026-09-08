@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "vi",
+  "headline": "Ngủ nướng vào cuối tuần có thể giảm nguy cơ huyết áp cao",
+  "chunks": [
+    "Nhiều năm qua, các chuyên gia về giấc ngủ đã cảnh báo mọi người không nên ngủ nướng vào cuối tuần. Họ cho biết giấc ngủ thêm vào cuối tuần có thể làm rối loạn đồng hồ sinh học của cơ thể. Giờ đây một nghiên cứu được trình bày tại hội nghị của Hiệp hội Tim mạch Châu Âu ở Munich, Đức, vào ngày 29 tháng 8 năm 2026, cho thấy những người bù đắp giấc ngủ đã mất một cách vừa phải có nguy cơ huyết áp cao thấp hơn. Các tờ báo trên khắp thế giới đã đưa tin về phát hiện này trong vòng vài ngày.",
+    "Nhà nghiên cứu của Đại học Hàn Quốc trình bày nghiên cứu này đã xem xét kỹ dữ liệu từ một cuộc khảo sát sức khỏe quốc gia với 40.727 người trưởng thành Hàn Quốc từ năm 2016 đến năm 2023. Giấc ngủ bù là sự chênh lệch giữa thời lượng ngủ vào cuối tuần và ngày thường. Giấc ngủ bù vào cuối tuần có liên quan đến nguy cơ huyết áp cao thấp hơn 6 phần trăm. Lợi ích này tăng lên 6,9 phần trăm ở những người trưởng thành ít vận động. Lượng lý tưởng là 1 giờ 27 phút, với nguy cơ thấp hơn 9 phần trăm.",
+    "Huyết áp thường giảm trong khi ngủ, nhưng ngủ quá ít có thể làm giảm mức giảm ban đêm đó, một nhà khoa học về giấc ngủ tại Đại học Utah cho biết. Nhà nghiên cứu cho biết thiếu ngủ khiến tim và mạch máu phải làm việc vất vả hơn, và giấc ngủ cuối tuần có thể giúp cơ thể phục hồi. Nhưng bà chỉ ra rằng ngủ nhiều hơn không phải lúc nào cũng tốt hơn. Những người ngủ thêm hơn bốn giờ có nguy cơ cao hơn, vì lịch trình thất thường có thể triệt tiêu lợi ích đó.",
+    "Các chuyên gia vẫn khuyên mọi người nên tuân theo giờ đi ngủ và giờ thức dậy đều đặn. Một bác sĩ tim mạch tại British Heart Foundation, người không tham gia nghiên cứu, cho biết nhiều người bỏ lỡ giấc ngủ vì công việc và trách nhiệm gia đình. Bác sĩ tim mạch này nói nghiên cứu này không phải là sự cho phép để cắt giảm việc tập thể dục, nhưng mọi người không cần cảm thấy có lỗi vì ngủ muộn vào cuối tuần. Nhà nghiên cứu đồng ý: giấc ngủ thêm có thể chỉ đơn giản là cách cơ thể bù đắp cho giấc ngủ đã mất."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "ngủ dậy muộn hơn bình thường vào buổi sáng",
+      "wrong": "ngủ qua đêm tại nhà một người bạn"
+    },
+    {
+      "base": "throw off",
+      "correct": "làm rối loạn hoạt động bình thường của thứ gì đó",
+      "wrong": "trì hoãn thứ gì đó đến một thời điểm sau"
+    },
+    {
+      "base": "catch up on",
+      "correct": "làm điều gì đó bạn đã bỏ lỡ trước đó",
+      "wrong": "trở nên nổi tiếng với nhiều người"
+    },
+    {
+      "base": "go through",
+      "correct": "xem xét kỹ lưỡng thứ gì đó",
+      "wrong": "tích lũy thứ gì đó qua nhiều năm"
+    },
+    {
+      "base": "go up",
+      "correct": "tăng lên",
+      "wrong": "giữ nguyên"
+    },
+    {
+      "base": "come to",
+      "correct": "đạt tổng cộng một con số",
+      "wrong": "được tìm thấy một cách tình cờ"
+    },
+    {
+      "base": "go down",
+      "correct": "giảm xuống",
+      "wrong": "reo như chuông"
+    },
+    {
+      "base": "point out",
+      "correct": "cho mọi người biết một sự thật",
+      "wrong": "đo thứ gì đó một cách chính xác"
+    },
+    {
+      "base": "cancel out",
+      "correct": "loại bỏ tác động của thứ gì đó",
+      "wrong": "đo tác động của thứ gì đó"
+    },
+    {
+      "base": "stick to",
+      "correct": "tiếp tục tuân theo một kế hoạch hoặc thói quen",
+      "wrong": "dễ dàng nổi bật giữa những người khác"
+    },
+    {
+      "base": "miss out on",
+      "correct": "không có được điều gì đó tốt đẹp",
+      "wrong": "quên mất việc phải làm điều gì đó"
+    },
+    {
+      "base": "cut back on",
+      "correct": "làm ít hơn một điều gì đó",
+      "wrong": "ngừng cung cấp thứ gì đó"
+    },
+    {
+      "base": "make up for",
+      "correct": "bù đắp cho thứ gì đó đã mất",
+      "wrong": "bịa ra một câu chuyện không có thật"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "ngủ dậy muộn hơn bình thường vào buổi sáng",
+      "ex": [
+        "Tôi thích ngủ nướng vào sáng Chủ nhật.",
+        "Bọn trẻ ngủ đến mười giờ trong kỳ nghỉ.",
+        "Cô ấy không bao giờ ngủ nướng, kể cả vào ngày nghỉ."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "làm rối loạn hoạt động bình thường của thứ gì đó",
+      "ex": [
+        "Sự thay đổi múi giờ làm rối loạn giấc ngủ của tôi cả tuần.",
+        "Một chuyến tàu trễ có thể làm rối loạn cả lịch trình.",
+        "Lệch múi giờ làm rối loạn cả khẩu vị lẫn giấc ngủ của bạn."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "làm điều gì đó bạn đã bỏ lỡ trước đó",
+      "ex": [
+        "Tôi cần bù giấc ngủ vào cuối tuần này.",
+        "Anh ấy dành cả buổi tối để cập nhật tin tức đã bỏ lỡ.",
+        "Cô ấy ở lại muộn để giải quyết công việc còn tồn đọng."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "xem xét kỹ lưỡng thứ gì đó",
+      "ex": [
+        "Bác sĩ đã xem xét kỹ kết quả xét nghiệm của tôi cùng tôi.",
+        "Cảnh sát xem xét kỹ từng hồ sơ một.",
+        "Chúng tôi xem xét kỹ báo cáo từng dòng một."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "tăng lên",
+      "ex": [
+        "Giá xăng lại tăng vào tháng trước.",
+        "Số lượng du khách tăng lên mỗi mùa hè.",
+        "Nhịp tim của cô ấy tăng lên khi leo cầu thang."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "đạt tổng cộng một con số",
+      "ex": [
+        "Hóa đơn đạt tổng cộng 80 đô la.",
+        "Số giờ làm thêm đạt tổng cộng gần bằng một ngày làm việc.",
+        "Số tiền quyên góp đạt tổng cộng hơn một triệu đô la."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "giảm xuống",
+      "ex": [
+        "Nhiệt độ giảm xuống vào ban đêm.",
+        "Giá cả thường giảm xuống sau các kỳ nghỉ lễ.",
+        "Cơn sốt của cô ấy giảm xuống vào buổi sáng."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "cho mọi người biết một sự thật",
+      "ex": [
+        "Bác sĩ cho biết anh ấy cần nghỉ ngơi nhiều hơn.",
+        "Cô ấy chỉ ra một lỗi trong báo cáo.",
+        "Các nhà phê bình chỉ ra rằng nghiên cứu này còn nhỏ."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "loại bỏ tác động của thứ gì đó",
+      "ex": [
+        "Một đêm thức khuya có thể triệt tiêu lợi ích của một giấc ngủ ngắn.",
+        "Chi phí phát sinh đã triệt tiêu khoản tiết kiệm.",
+        "Hai thay đổi đó triệt tiêu lẫn nhau."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "tiếp tục tuân theo một kế hoạch hoặc thói quen",
+      "ex": [
+        "Hãy cố gắng giữ giờ đi ngủ giống nhau mỗi đêm.",
+        "Anh ấy tuân theo kế hoạch của mình và hoàn thành cuộc đua.",
+        "Thật khó để tuân theo ngân sách khi đi nghỉ."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "không có được điều gì đó tốt đẹp",
+      "ex": [
+        "Người làm ca đêm thường không có đủ giấc ngủ.",
+        "Đừng bỏ lỡ những tấm vé miễn phí.",
+        "Anh ấy đã bỏ lỡ chuyến đi vì bị ốm."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "làm ít hơn một điều gì đó",
+      "ex": [
+        "Bác sĩ bảo cô ấy giảm cà phê.",
+        "Chúng tôi đang cắt giảm chi tiêu trong năm nay.",
+        "Anh ấy giảm bớt việc thức khuya trước kỳ thi."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "bù đắp cho thứ gì đó đã mất",
+      "ex": [
+        "Một giấc ngủ ngắn có thể bù đắp cho một đêm ngủ ít.",
+        "Cô ấy làm việc vào thứ Bảy để bù cho ngày đã mất.",
+        "Không gì có thể bù đắp cho thời gian chúng ta đã bỏ lỡ."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "hệ thống trong cơ thể kiểm soát khi nào bạn cảm thấy buồn ngủ hoặc tỉnh táo",
+      "ex": [
+        "Di chuyển qua các múi giờ làm rối loạn đồng hồ sinh học của bạn.",
+        "Ánh sáng mạnh vào buổi sáng đặt lại đồng hồ sinh học.",
+        "Ca làm đêm hoạt động ngược với đồng hồ sinh học của cơ thể."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "một cuộc họp lớn, chính thức của những người làm việc trong cùng một lĩnh vực",
+      "ex": [
+        "Bác sĩ từ 100 quốc gia đã tham dự hội nghị này.",
+        "Kết quả được công bố tại một hội nghị y khoa ở Paris.",
+        "Hội nghị được tổ chức mỗi năm ở một thành phố khác nhau."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "với số lượng không quá nhiều",
+      "ex": [
+        "Cà phê không sao nếu uống vừa phải.",
+        "Bác sĩ nói anh ấy có thể uống rượu vang một cách vừa phải.",
+        "Ngay cả đường cũng không có hại nếu dùng vừa phải."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "khả năng một điều gì đó sẽ xảy ra",
+      "ex": [
+        "Tập thể dục làm giảm nguy cơ mắc bệnh tim.",
+        "Khả năng trúng số rất nhỏ.",
+        "Người hút thuốc có nguy cơ ung thư phổi cao hơn."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "một nghiên cứu thu thập thông tin về sức khỏe của mọi người",
+      "ex": [
+        "Cuộc khảo sát sức khỏe quốc gia hỏi về chế độ ăn uống và tập thể dục.",
+        "Hàng nghìn người đã tham gia cuộc khảo sát sức khỏe này.",
+        "Cuộc khảo sát sức khỏe cho thấy nhiều người trưởng thành ngủ quá ít."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "khoảng thời gian một người ngủ",
+      "ex": [
+        "Thời lượng ngủ trung bình đã giảm trong 50 năm qua.",
+        "Ứng dụng ghi lại thời lượng ngủ của bạn mỗi đêm.",
+        "Thời lượng ngủ ngắn có liên quan đến việc tăng cân."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "không tập thể dục nhiều",
+      "ex": [
+        "Người trưởng thành ít vận động có nguy cơ mắc bệnh tiểu đường cao hơn.",
+        "Công việc văn phòng khiến nhiều người ít vận động.",
+        "Khoảng một phần ba nhóm này ít vận động."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "tốt nhất có thể",
+      "ex": [
+        "Giờ đi ngủ lý tưởng cho hầu hết người trưởng thành là trước 11 giờ đêm.",
+        "Mùa xuân là thời điểm lý tưởng để đến thăm thành phố này.",
+        "Không có chế độ ăn lý tưởng nào phù hợp với tất cả mọi người."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "sự sụt giảm của điều gì đó xảy ra mỗi đêm",
+      "ex": [
+        "Sự sụt giảm nhiệt độ ban đêm giúp mọi người ngủ ngon hơn.",
+        "Các bác sĩ theo dõi mức giảm huyết áp ban đêm của cô ấy.",
+        "Sa mạc có sự sụt giảm nhiệt độ mạnh vào ban đêm."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "không ngủ đủ giấc",
+      "ex": [
+        "Thiếu ngủ khiến việc tập trung trở nên khó khăn.",
+        "Các bậc cha mẹ mới thường bị thiếu ngủ.",
+        "Thiếu ngủ có thể ảnh hưởng đến tâm trạng của bạn vào ngày hôm sau."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "những ống dẫn máu đi khắp cơ thể",
+      "ex": [
+        "Hút thuốc làm tổn hại mạch máu.",
+        "Tập thể dục giúp mạch máu khỏe mạnh.",
+        "Thời tiết lạnh làm mạch máu hẹp lại."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "trở lại trạng thái bình thường, khỏe mạnh",
+      "ex": [
+        "Cô ấy mất hai tuần để hồi phục sau cúm.",
+        "Cơ thể hồi phục trong khi bạn ngủ.",
+        "Vận động viên cần những ngày nghỉ ngơi để hồi phục."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "một khuôn mẫu thời gian liên tục thay đổi",
+      "ex": [
+        "Y tá thường làm việc theo lịch trình thất thường.",
+        "Lịch trình thất thường khiến việc ngủ ngon trở nên khó khăn.",
+        "Lịch trình thất thường của anh ấy không để lại thời gian cho việc tập thể dục."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "thời điểm một người thường đi ngủ",
+      "ex": [
+        "Giờ đi ngủ của trẻ em là tám giờ.",
+        "Giờ đi ngủ đều đặn giúp bạn ngủ ngon hơn.",
+        "Anh ấy đọc sách nửa tiếng trước giờ đi ngủ."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "thời điểm một người thường rời khỏi giường vào buổi sáng",
+      "ex": [
+        "Hãy cố gắng giữ cùng một giờ thức dậy suốt cả tuần.",
+        "Giờ thức dậy của cô ấy vào các ngày làm việc là 6 giờ sáng.",
+        "Giờ thức dậy muộn hơn vào cuối tuần là điều phổ biến."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "những việc bạn đã hứa sẽ làm và phải sắp xếp thời gian cho",
+      "ex": [
+        "Trách nhiệm gia đình khiến anh ấy không thể đến cuộc họp.",
+        "Cô ấy có quá nhiều trách nhiệm trong tháng này.",
+        "Trách nhiệm công việc thường lấn vào giờ ngủ."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "sự cho phép để làm điều gì đó",
+      "ex": [
+        "Thành phố đã bật đèn xanh cho công viên mới.",
+        "Đừng coi một kết quả tốt là đèn xanh để ngừng tập luyện.",
+        "Bác sĩ đã bật đèn xanh cho cô ấy đi du lịch."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "cảm thấy tồi tệ vì bạn nghĩ mình đã làm sai điều gì đó",
+      "ex": [
+        "Tôi cảm thấy có lỗi vì đã bỏ lỡ sinh nhật của cô ấy.",
+        "Anh ấy cảm thấy có lỗi vì đã ngủ quá muộn.",
+        "Không cần cảm thấy có lỗi vì đã nghỉ ngơi."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Nghiên cứu này được trình bày ở Munich, Đức, vào ngày 29 tháng 8 năm 2026.",
+      "a": true,
+      "why": "Nó được trình bày tại hội nghị của Hiệp hội Tim mạch Châu Âu, và cho thấy những người bù đắp giấc ngủ đã mất một cách vừa phải có nguy cơ huyết áp cao thấp hơn."
+    },
+    {
+      "s": "Lượng giấc ngủ thêm lý tưởng vào cuối tuần đạt khoảng bốn giờ.",
+      "a": false,
+      "why": "Lượng lý tưởng là 1 giờ 27 phút, và những người ngủ thêm hơn bốn giờ có nguy cơ cao hơn."
+    },
+    {
+      "s": "Cuộc khảo sát bao gồm 40.727 người trưởng thành Hàn Quốc từ năm 2016 đến năm 2023.",
+      "a": true,
+      "why": "Nhà nghiên cứu của Đại học Hàn Quốc đã xem xét kỹ dữ liệu từ cuộc khảo sát sức khỏe quốc gia với 40.727 người trưởng thành được thu thập trong những năm đó."
+    },
+    {
+      "s": "Huyết áp thường tăng lên trong khi ngủ.",
+      "a": false,
+      "why": "Huyết áp thường giảm trong khi ngủ, và ngủ quá ít có thể làm giảm mức giảm ban đêm đó."
+    },
+    {
+      "s": "Lợi ích này tăng lên 6,9 phần trăm ở những người trưởng thành ít vận động.",
+      "a": true,
+      "why": "Giấc ngủ bù vào cuối tuần có liên quan đến nguy cơ thấp hơn 6 phần trăm nói chung và 6,9 phần trăm ở những người trưởng thành ít vận động."
+    },
+    {
+      "s": "Bác sĩ tim mạch tại British Heart Foundation gọi nghiên cứu này là sự cho phép để cắt giảm việc tập thể dục.",
+      "a": false,
+      "why": "Bà nói nghiên cứu này không phải là sự cho phép để cắt giảm việc tập thể dục, chỉ là mọi người không cần cảm thấy có lỗi vì ngủ muộn vào cuối tuần."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Một nghiên cứu lớn của Hàn Quốc liên kết một lượng giấc ngủ thêm vừa phải vào cuối tuần với nguy cơ huyết áp cao thấp hơn. Tuy nhiên, ngủ thêm hơn bốn giờ lại liên quan đến nguy cơ cao hơn.",
+      "a": true,
+      "why": "Khoảng 90 phút giấc ngủ thêm vào cuối tuần có liên quan đến nguy cơ thấp hơn 9 phần trăm, trong khi những người ngủ thêm hơn bốn giờ có nguy cơ cao hơn."
+    },
+    {
+      "s": "Các nhà nghiên cứu phát hiện rằng càng ngủ thêm nhiều vào cuối tuần, mọi người càng ít có khả năng bị huyết áp cao. Các chuyên gia hiện nói rằng giờ đi ngủ đều đặn không còn quan trọng đối với trái tim nữa.",
+      "a": false,
+      "why": "Gần đúng, nhưng lợi ích dừng lại ở một mức vừa phải, và những người ngủ thêm hơn bốn giờ có nguy cơ cao hơn. Các chuyên gia vẫn khuyên nên có giờ đi ngủ đều đặn."
+    },
+    {
+      "s": "Một cuộc khảo sát những người làm ca phát hiện rằng những người ngủ vào ban ngày có huyết áp cao hơn những người làm việc ban ngày. Các bác sĩ cho rằng nên hạn chế làm ca đêm để bảo vệ trái tim của mọi người lao động.",
+      "a": false,
+      "why": "Nghiên cứu này xem xét giấc ngủ thêm vào cuối tuần ở người trưởng thành nói chung, không phải ở người làm ca hoặc giấc ngủ ban ngày."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "dùng để thừa nhận một cách hài hước rằng bạn thực sự làm điều mà ai đó vừa nói",
+    "That's a relief": "dùng để nói rằng bạn cảm thấy nhẹ nhõm hơn vì một mối lo đã qua",
+    "Don't push your luck": "dùng để cảnh báo ai đó đừng lợi dụng một điều tốt quá mức",
+    "Within reason": "dùng để nói rằng điều gì đó vẫn ổn miễn là nó ở mức hợp lý",
+    "Easier said than done": "dùng để nói rằng điều gì đó nghe có vẻ đơn giản nhưng thực sự khó làm"
+  }
+}

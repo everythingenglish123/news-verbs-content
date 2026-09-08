@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "de",
+  "headline": "Ausschlafen am Wochenende könnte das Risiko für Bluthochdruck senken",
+  "chunks": [
+    "Seit Jahren warnen Schlafexperten davor, an Wochenenden auszuschlafen. Zusätzlicher Schlaf am Wochenende, sagten sie, kann die innere Uhr des Körpers stören. Jetzt legt eine Studie, die am 29. August 2026 auf dem Kongress der Europäischen Gesellschaft für Kardiologie in München, Deutschland, vorgestellt wurde, nahe, dass Menschen, die verlorenen Schlaf in Maßen nachholen, ein geringeres Risiko für Bluthochdruck haben. Zeitungen weltweit berichteten innerhalb weniger Tage über den Befund.",
+    "Der Forscher der Korea University, der die Studie vorstellte, sah Daten einer nationalen Gesundheitsbefragung von 40.727 südkoreanischen Erwachsenen aus den Jahren 2016 bis 2023 durch. Nachholschlaf war der Unterschied zwischen der Schlafdauer am Wochenende und an Wochentagen. Nachholschlaf am Wochenende wurde mit einem 6 Prozent geringeren Risiko für Bluthochdruck in Verbindung gebracht. Der Nutzen stieg bei körperlich inaktiven Erwachsenen auf 6,9 Prozent. Die ideale Menge belief sich auf 1 Stunde und 27 Minuten, mit 9 Prozent geringerem Risiko.",
+    "Der Blutdruck sinkt normalerweise während des Schlafs, aber zu wenig Schlaf kann diesen nächtlichen Abfall verringern, sagte eine Schlafforscherin der University of Utah. Die Forscherin sagte, dass Schlafmangel Herz und Blutgefäße stärker arbeiten lässt, und dass Schlaf am Wochenende dem Körper helfen kann, sich zu erholen. Aber sie wies darauf hin, dass mehr nicht immer besser ist. Menschen, die mehr als vier zusätzliche Stunden schliefen, hatten ein höheres Risiko, weil ein unregelmäßiger Zeitplan den Nutzen aufheben kann.",
+    "Experten raten den Menschen weiterhin, sich an eine feste Schlafenszeit und Aufwachzeit zu halten. Eine Kardiologin der British Heart Foundation, die nicht an der Studie beteiligt war, sagte, dass viele Menschen wegen der Arbeit und familiärer Verpflichtungen Schlaf verpassen. Die Studie sei kein Freibrief, weniger Sport zu treiben, sagte die Kardiologin, aber die Menschen müssten sich nicht schuldig fühlen, wenn sie am Wochenende lange schlafen. Die Forscherin stimmte zu: Zusätzlicher Schlaf könnte einfach die Art sein, wie der Körper verlorenen Schlaf ausgleicht."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "Morgens länger als gewöhnlich schlafen",
+      "wrong": "Bei einem Freund übernachten"
+    },
+    {
+      "base": "throw off",
+      "correct": "Den normalen Ablauf von etwas stören",
+      "wrong": "Etwas auf später verschieben"
+    },
+    {
+      "base": "catch up on",
+      "correct": "Etwas nachholen, das man vorher verpasst hat",
+      "wrong": "Bei vielen Menschen beliebt werden"
+    },
+    {
+      "base": "go through",
+      "correct": "Etwas sorgfältig durchsehen",
+      "wrong": "Etwas über viele Jahre ansammeln"
+    },
+    {
+      "base": "go up",
+      "correct": "Steigen",
+      "wrong": "Gleich bleiben"
+    },
+    {
+      "base": "come to",
+      "correct": "Sich auf einen Gesamtbetrag belaufen",
+      "wrong": "Durch Zufall gefunden werden"
+    },
+    {
+      "base": "go down",
+      "correct": "Niedriger werden",
+      "wrong": "Wie ein Wecker klingeln"
+    },
+    {
+      "base": "point out",
+      "correct": "Den Leuten eine Tatsache mitteilen",
+      "wrong": "Etwas ganz genau abmessen"
+    },
+    {
+      "base": "cancel out",
+      "correct": "Die Wirkung von etwas aufheben",
+      "wrong": "Die Wirkung von etwas messen"
+    },
+    {
+      "base": "stick to",
+      "correct": "Einem Plan oder einer Routine weiter folgen",
+      "wrong": "Unter anderen Menschen leicht auffallen"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Etwas Gutes nicht bekommen",
+      "wrong": "Vergessen, etwas zu tun"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Weniger von etwas tun",
+      "wrong": "Die Versorgung stoppen"
+    },
+    {
+      "base": "make up for",
+      "correct": "Etwas Verlorenes ersetzen",
+      "wrong": "Eine unwahre Geschichte erfinden"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "Morgens länger als gewöhnlich schlafen",
+      "ex": [
+        "Ich schlafe sonntags gern lange.",
+        "Die Kinder schliefen im Urlaub bis zehn Uhr.",
+        "Sie schläft nie lange, selbst an ihrem freien Tag nicht."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "Den normalen Ablauf von etwas stören",
+      "ex": [
+        "Die Zeitumstellung störte eine Woche lang meinen Schlaf.",
+        "Ein verspäteter Zug kann den ganzen Fahrplan durcheinanderbringen.",
+        "Jetlag stört sowohl den Appetit als auch den Schlaf."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "Etwas nachholen, das man vorher verpasst hat",
+      "ex": [
+        "Ich muss dieses Wochenende Schlaf nachholen.",
+        "Er verbrachte den Abend damit, die Nachrichten nachzuholen.",
+        "Sie blieb lange auf, um ihre Arbeit nachzuholen."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Etwas sorgfältig durchsehen",
+      "ex": [
+        "Der Arzt ging meine Testergebnisse mit mir durch.",
+        "Die Polizei sah die Akten eine nach der anderen durch.",
+        "Wir gingen den Bericht Zeile für Zeile durch."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Steigen",
+      "ex": [
+        "Die Benzinpreise sind letzten Monat wieder gestiegen.",
+        "Die Zahl der Besucher steigt jeden Sommer.",
+        "Ihr Puls steigt, wenn sie Treppen steigt."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "Sich auf einen Gesamtbetrag belaufen",
+      "ex": [
+        "Die Rechnung belief sich auf 80 Dollar.",
+        "Die Überstunden beliefen sich auf fast einen ganzen Arbeitstag.",
+        "Die Spenden beliefen sich auf mehr als eine Million Dollar."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Niedriger werden",
+      "ex": [
+        "Die Temperatur sinkt nachts.",
+        "Die Preise sinken meist nach den Feiertagen.",
+        "Ihr Fieber war bis zum Morgen gesunken."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Den Leuten eine Tatsache mitteilen",
+      "ex": [
+        "Der Arzt wies darauf hin, dass er mehr Ruhe brauchte.",
+        "Sie wies auf einen Fehler im Bericht hin.",
+        "Kritiker weisen darauf hin, dass die Studie klein war."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "Die Wirkung von etwas aufheben",
+      "ex": [
+        "Eine kurze Nacht kann den Nutzen eines Nickerchens aufheben.",
+        "Die zusätzlichen Kosten hoben die Ersparnisse auf.",
+        "Zwei der Änderungen heben sich gegenseitig auf."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "Einem Plan oder einer Routine weiter folgen",
+      "ex": [
+        "Versuche, jeden Abend zur gleichen Zeit ins Bett zu gehen.",
+        "Er hielt sich an seinen Plan und beendete das Rennen.",
+        "Es ist schwer, sich im Urlaub an ein Budget zu halten."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Etwas Gutes nicht bekommen",
+      "ex": [
+        "Nachtarbeiter verpassen oft Schlaf.",
+        "Verpasse nicht die kostenlosen Tickets.",
+        "Er verpasste die Reise, weil er krank war."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Weniger von etwas tun",
+      "ex": [
+        "Der Arzt sagte ihr, weniger Kaffee zu trinken.",
+        "Wir geben dieses Jahr weniger Geld aus.",
+        "Er machte vor der Prüfung weniger lange Abende."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "Etwas Verlorenes ersetzen",
+      "ex": [
+        "Ein Nickerchen kann eine kurze Nacht ausgleichen.",
+        "Sie arbeitete samstags, um den verlorenen Tag auszugleichen.",
+        "Nichts kann die Zeit ausgleichen, die wir verloren haben."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "Das System im Körper, das steuert, wann man müde oder wach ist",
+      "ex": [
+        "Reisen über Zeitzonen hinweg bringt deine innere Uhr durcheinander.",
+        "Helles Licht am Morgen stellt die innere Uhr neu.",
+        "Nachtschichten wirken der inneren Uhr des Körpers entgegen."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Ein großes formelles Treffen von Menschen, die im gleichen Fachgebiet arbeiten",
+      "ex": [
+        "Ärzte aus 100 Ländern nahmen an dem Kongress teil.",
+        "Die Ergebnisse wurden auf einem medizinischen Kongress in Paris bekanntgegeben.",
+        "Der Kongress findet jedes Jahr in einer anderen Stadt statt."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "In Mengen, die nicht zu groß sind",
+      "ex": [
+        "Kaffee ist in Maßen in Ordnung.",
+        "Der Arzt sagte, er könne in Maßen Wein trinken.",
+        "Selbst Zucker ist in Maßen nicht schädlich."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "Die Wahrscheinlichkeit, dass etwas geschieht",
+      "ex": [
+        "Bewegung senkt die Wahrscheinlichkeit für Herzkrankheiten.",
+        "Die Wahrscheinlichkeit, im Lotto zu gewinnen, ist sehr gering.",
+        "Raucher haben eine höhere Wahrscheinlichkeit für Lungenkrebs."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "Eine Studie, die Informationen über die Gesundheit von Menschen sammelt",
+      "ex": [
+        "Die nationale Gesundheitsbefragung fragt nach Ernährung und Bewegung.",
+        "Tausende Menschen nahmen an der Gesundheitsbefragung teil.",
+        "Die Gesundheitsbefragung ergab, dass viele Erwachsene zu wenig schlafen."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "Die Zeitmenge, die eine Person schläft",
+      "ex": [
+        "Die durchschnittliche Schlafdauer ist in den letzten 50 Jahren gesunken.",
+        "Die App zeichnet deine Schlafdauer jede Nacht auf.",
+        "Eine kurze Schlafdauer wird mit Gewichtszunahme in Verbindung gebracht."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Sich nicht viel bewegend",
+      "ex": [
+        "Körperlich inaktive Erwachsene haben ein höheres Diabetesrisiko.",
+        "Bürojobs machen viele Menschen körperlich inaktiv.",
+        "Etwa ein Drittel der Gruppe war körperlich inaktiv."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "Das Bestmögliche",
+      "ex": [
+        "Die ideale Schlafenszeit für die meisten Erwachsenen liegt vor 23 Uhr.",
+        "Der Frühling ist die ideale Zeit, um die Stadt zu besuchen.",
+        "Es gibt keine ideale Ernährung, die für alle funktioniert."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Ein Rückgang bei etwas, das jede Nacht geschieht",
+      "ex": [
+        "Der nächtliche Rückgang der Temperatur hilft den Menschen beim Schlafen.",
+        "Die Ärzte beobachteten den nächtlichen Rückgang ihres Blutdrucks.",
+        "Die Wüste hat einen starken nächtlichen Rückgang der Temperatur."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "Nicht genug Schlaf bekommen",
+      "ex": [
+        "Schlafmangel erschwert die Konzentration.",
+        "Frischgebackene Eltern leiden oft unter Schlafmangel.",
+        "Schlafmangel kann sich am nächsten Tag auf deine Stimmung auswirken."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Die Röhren, die das Blut durch den Körper transportieren",
+      "ex": [
+        "Rauchen schädigt die Blutgefäße.",
+        "Bewegung hält die Blutgefäße gesund.",
+        "Kaltes Wetter macht die Blutgefäße enger."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "In einen normalen, gesunden Zustand zurückkehren",
+      "ex": [
+        "Sie brauchte zwei Wochen, um sich von der Grippe zu erholen.",
+        "Der Körper erholt sich während des Schlafs.",
+        "Sportler brauchen Ruhetage, um sich zu erholen."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Ein Zeitmuster, das sich ständig ändert",
+      "ex": [
+        "Krankenschwestern arbeiten oft nach einem unregelmäßigen Zeitplan.",
+        "Ein unregelmäßiger Zeitplan erschwert das gute Schlafen.",
+        "Sein unregelmäßiger Zeitplan ließ keine Zeit für Sport."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "Die Zeit, zu der eine Person normalerweise schlafen geht",
+      "ex": [
+        "Die Schlafenszeit der Kinder ist acht Uhr.",
+        "Eine feste Schlafenszeit hilft dir, besser zu schlafen.",
+        "Er liest eine halbe Stunde vor der Schlafenszeit."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "Die Zeit, zu der eine Person morgens normalerweise aufsteht",
+      "ex": [
+        "Versuche, die ganze Woche über die gleiche Aufwachzeit zu behalten.",
+        "Ihre Aufwachzeit ist an Werktagen 6 Uhr.",
+        "Eine spätere Aufwachzeit am Wochenende ist üblich."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Dinge, die man versprochen hat zu tun und für die man Zeit finden muss",
+      "ex": [
+        "Familiäre Verpflichtungen hielten ihn von dem Treffen fern.",
+        "Sie hat diesen Monat zu viele Verpflichtungen.",
+        "Berufliche Verpflichtungen gehen oft auf Kosten des Schlafs."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "Die Erlaubnis, etwas zu tun",
+      "ex": [
+        "Die Stadt gab grünes Licht für den neuen Park.",
+        "Nimm ein gutes Ergebnis nicht als grünes Licht, mit dem Training aufzuhören.",
+        "Der Arzt gab ihr grünes Licht für die Reise."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Sich schlecht fühlen, weil man denkt, etwas Falsches getan zu haben",
+      "ex": [
+        "Ich fühle mich schuldig, weil ich ihren Geburtstag verpasst habe.",
+        "Er fühlte sich schuldig, weil er so lange geschlafen hatte.",
+        "Es besteht kein Grund, sich wegen des Ausruhens schuldig zu fühlen."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Die Studie wurde am 29. August 2026 in München, Deutschland, vorgestellt.",
+      "a": true,
+      "why": "Sie wurde auf dem Kongress der Europäischen Gesellschaft für Kardiologie vorgestellt, und sie legt nahe, dass Menschen, die verlorenen Schlaf in Maßen nachholen, ein geringeres Risiko für Bluthochdruck haben."
+    },
+    {
+      "s": "Die ideale Menge an zusätzlichem Wochenendschlaf belief sich auf etwa vier Stunden.",
+      "a": false,
+      "why": "Die ideale Menge belief sich auf 1 Stunde und 27 Minuten, und Menschen, die mehr als vier zusätzliche Stunden schliefen, hatten ein höheres Risiko."
+    },
+    {
+      "s": "Die Befragung umfasste 40.727 südkoreanische Erwachsene aus den Jahren 2016 bis 2023.",
+      "a": true,
+      "why": "Der Forscher der Korea University sah Daten einer nationalen Gesundheitsbefragung von 40.727 Erwachsenen durch, die über diese Jahre gesammelt wurden."
+    },
+    {
+      "s": "Der Blutdruck steigt normalerweise während des Schlafs.",
+      "a": false,
+      "why": "Der Blutdruck sinkt normalerweise während des Schlafs, und zu wenig Schlaf kann diesen nächtlichen Abfall verringern."
+    },
+    {
+      "s": "Der Nutzen stieg bei körperlich inaktiven Erwachsenen auf 6,9 Prozent.",
+      "a": true,
+      "why": "Nachholschlaf wurde insgesamt mit einem 6 Prozent geringeren Risiko und bei körperlich inaktiven Erwachsenen mit 6,9 Prozent in Verbindung gebracht."
+    },
+    {
+      "s": "Die Kardiologin der British Heart Foundation bezeichnete die Studie als Freibrief, weniger Sport zu treiben.",
+      "a": false,
+      "why": "Sie sagte, die Studie sei kein Freibrief, weniger Sport zu treiben, sondern nur, dass sich die Menschen nicht schuldig fühlen müssten, wenn sie am Wochenende lange schlafen."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Eine große südkoreanische Studie brachte eine moderate Menge an zusätzlichem Wochenendschlaf mit einem geringeren Risiko für Bluthochdruck in Verbindung. Mehr als vier zusätzliche Stunden Schlaf waren dagegen mit einem höheren Risiko verbunden.",
+      "a": true,
+      "why": "Etwa 90 Minuten zusätzlicher Wochenendschlaf wurden mit einem 9 Prozent geringeren Risiko in Verbindung gebracht, während Menschen, die mehr als vier zusätzliche Stunden schliefen, ein höheres Risiko hatten."
+    },
+    {
+      "s": "Forscher fanden heraus, dass Menschen umso seltener Bluthochdruck hatten, je mehr zusätzlichen Schlaf sie am Wochenende bekamen. Experten sagen jetzt, dass eine feste Schlafenszeit für das Herz keine Rolle mehr spielt.",
+      "a": false,
+      "why": "Nahe dran, aber der Nutzen endete bei einer moderaten Menge, und Menschen, die mehr als vier zusätzliche Stunden schliefen, hatten ein höheres Risiko. Experten raten weiterhin zu einer festen Schlafenszeit."
+    },
+    {
+      "s": "Eine Befragung von Schichtarbeitern ergab, dass Menschen, die tagsüber schlafen, einen höheren Blutdruck haben als Tagarbeiter. Ärzte sagen, dass Nachtschichten begrenzt werden sollten, um das Herz jedes Arbeitnehmers zu schützen.",
+      "a": false,
+      "why": "Die Studie untersuchte zusätzlichen Wochenendschlaf bei Erwachsenen im Allgemeinen, nicht bei Schichtarbeitern oder Tagesschlaf."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Wird verwendet, um scherzhaft zuzugeben, dass man genau das tut, was jemand gerade beschrieben hat",
+    "That's a relief": "Wird verwendet, um zu sagen, dass man sich besser fühlt, weil eine Sorge verschwunden ist",
+    "Don't push your luck": "Wird verwendet, um jemanden zu warnen, eine gute Sache nicht zu weit zu treiben",
+    "Within reason": "Wird verwendet, um zu sagen, dass etwas in Ordnung ist, solange es in einem vernünftigen Rahmen bleibt",
+    "Easier said than done": "Wird verwendet, um zu sagen, dass etwas einfach klingt, aber in Wirklichkeit schwer zu tun ist"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "pl",
+  "headline": "Dłuższy sen w weekendy może obniżyć ryzyko wysokiego ciśnienia krwi",
+  "chunks": [
+    "Od lat eksperci od snu ostrzegają ludzi, żeby nie spali dłużej w weekendy. Dodatkowy weekendowy sen, jak twierdzili, może zakłócić wewnętrzny zegar organizmu. Teraz badanie przedstawione na kongresie Europejskiego Towarzystwa Kardiologicznego w Monachium w Niemczech, 29 sierpnia 2026 roku, sugeruje, że osoby, które nadrabiają stracony sen z umiarem, mają niższą szansę na wysokie ciśnienie krwi. Gazety na całym świecie doniosły o tym odkryciu w ciągu kilku dni.",
+    "Badacz z Korea University, który przedstawił badanie, przeanalizował dane z krajowego badania zdrowia obejmującego 40 727 dorosłych z Korei Południowej z lat 2016 do 2023. Nadrabianie snu to różnica między czasem snu w weekend a w dni powszednie. Weekendowe nadrabianie snu wiązało się z 6-procentową niższą szansą na wysokie ciśnienie krwi. Korzyść wzrosła do 6,9 procent wśród dorosłych mało aktywnych fizycznie. Idealna ilość wyniosła 1 godzinę i 27 minut, przy 9-procentowej niższej szansie.",
+    "Ciśnienie krwi normalnie spada podczas snu, ale zbyt mało snu może zmniejszyć ten nocny spadek, powiedziała naukowczyni zajmująca się snem z University of Utah. Badaczka powiedziała, że brak snu sprawia, że serce i naczynia krwionośne pracują ciężej, a weekendowy sen może pomóc ciału się zregenerować. Ale zwróciła uwagę, że więcej nie zawsze znaczy lepiej. Osoby, które spały ponad cztery dodatkowe godziny, miały wyższe ryzyko, ponieważ nieregularny grafik może zniweczyć tę korzyść.",
+    "Eksperci wciąż zalecają ludziom trzymanie się stałej pory snu i pobudki. Kardiolog z British Heart Foundation, który nie brał udziału w badaniu, powiedział, że wiele osób traci okazję do snu z powodu pracy i obowiązków rodzinnych. Badanie nie jest zielonym światłem do ograniczenia ćwiczeń, powiedział kardiolog, ale ludzie nie muszą czuć się winni z powodu spania do późna w weekendy. Badaczka się z tym zgodziła: dodatkowy sen może być po prostu sposobem, w jaki ciało rekompensuje stracony sen."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "Spać dłużej niż zwykle rano",
+      "wrong": "Spędzić noc u przyjaciela"
+    },
+    {
+      "base": "throw off",
+      "correct": "Zakłócić normalne działanie czegoś",
+      "wrong": "Opóźnić coś do późniejszego czasu"
+    },
+    {
+      "base": "catch up on",
+      "correct": "Nadrobić coś, co się wcześniej przegapiło",
+      "wrong": "Stać się popularnym wśród wielu ludzi"
+    },
+    {
+      "base": "go through",
+      "correct": "Dokładnie coś przeanalizować",
+      "wrong": "Zbierać coś przez wiele lat"
+    },
+    {
+      "base": "go up",
+      "correct": "Wzrosnąć",
+      "wrong": "Nie zmieniać się"
+    },
+    {
+      "base": "come to",
+      "correct": "Osiągnąć jakąś sumę w całości",
+      "wrong": "Zostać znalezionym przypadkiem"
+    },
+    {
+      "base": "go down",
+      "correct": "Stać się niższym",
+      "wrong": "Dzwonić jak alarm"
+    },
+    {
+      "base": "point out",
+      "correct": "Powiedzieć ludziom o jakimś fakcie",
+      "wrong": "Zmierzyć coś bardzo dokładnie"
+    },
+    {
+      "base": "cancel out",
+      "correct": "Usunąć skutek czegoś",
+      "wrong": "Zmierzyć skutek czegoś"
+    },
+    {
+      "base": "stick to",
+      "correct": "Konsekwentnie trzymać się planu lub zwyczaju",
+      "wrong": "Być łatwo zauważalnym pośród innych rzeczy"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Nie skorzystać z czegoś dobrego",
+      "wrong": "Zapomnieć zrobić jakąś rzecz"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Robić czegoś mniej",
+      "wrong": "Przerwać dostawę czegoś"
+    },
+    {
+      "base": "make up for",
+      "correct": "Zrekompensować coś, co zostało stracone",
+      "wrong": "Wymyślić historię, która nie jest prawdziwa"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "Spać dłużej niż zwykle rano",
+      "ex": [
+        "Lubię spać dłużej w niedzielne poranki.",
+        "Dzieci spały do dziesiątej podczas wakacji.",
+        "Ona nigdy nie śpi dłużej, nawet w dzień wolny."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "Zakłócić normalne działanie czegoś",
+      "ex": [
+        "Zmiana czasu zakłóciła mój sen na cały tydzień.",
+        "Jedno spóźnione połączenie może zakłócić cały rozkład.",
+        "Jet lag zakłóca nie tylko sen, ale i apetyt."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "Nadrobić coś, co się wcześniej przegapiło",
+      "ex": [
+        "Muszę nadrobić trochę snu w ten weekend.",
+        "Spędził wieczór, nadrabiając zaległe wiadomości.",
+        "Została do późna, żeby nadrobić zaległą pracę."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Dokładnie coś przeanalizować",
+      "ex": [
+        "Lekarz dokładnie przeanalizował ze mną wyniki badań.",
+        "Policja przeanalizowała dokumenty jeden po drugim.",
+        "Przeanalizowaliśmy raport linijka po linijce."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Wzrosnąć",
+      "ex": [
+        "Ceny paliwa znowu wzrosły w zeszłym miesiącu.",
+        "Liczba odwiedzających wzrasta każdego lata.",
+        "Jej tętno wzrasta, gdy wchodzi po schodach."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "Osiągnąć jakąś sumę w całości",
+      "ex": [
+        "Rachunek wyniósł w sumie 80 dolarów.",
+        "Nadgodziny wyniosły w sumie mniej więcej dzień pracy.",
+        "Darowizny wyniosły łącznie ponad milion dolarów."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Stać się niższym",
+      "ex": [
+        "Temperatura spada w nocy.",
+        "Ceny zwykle spadają po świętach.",
+        "Jej gorączka spadła do rana."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Powiedzieć ludziom o jakimś fakcie",
+      "ex": [
+        "Lekarz zwrócił mu uwagę, że potrzebuje więcej odpoczynku.",
+        "Wskazała błąd w raporcie.",
+        "Krytycy wskazują, że badanie było małe."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "Usunąć skutek czegoś",
+      "ex": [
+        "Późna noc może zniweczyć korzyść z drzemki.",
+        "Dodatkowe koszty zniweczyły oszczędności.",
+        "Dwie zmiany wzajemnie się znoszą."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "Konsekwentnie trzymać się planu lub zwyczaju",
+      "ex": [
+        "Staraj się trzymać tej samej pory snu każdej nocy.",
+        "Trzymał się swojego planu i ukończył wyścig.",
+        "Trudno jest trzymać się budżetu na wakacjach."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Nie skorzystać z czegoś dobrego",
+      "ex": [
+        "Pracownicy nocnej zmiany często tracą okazję do snu.",
+        "Nie przegap darmowych biletów.",
+        "Stracił okazję na wyjazd, bo był chory."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Robić czegoś mniej",
+      "ex": [
+        "Lekarz kazał jej ograniczyć kawę.",
+        "Ograniczamy wydatki w tym roku.",
+        "Ograniczył późne wieczory przed egzaminem."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "Zrekompensować coś, co zostało stracone",
+      "ex": [
+        "Drzemka może zrekompensować krótką noc.",
+        "Pracowała w sobotę, żeby nadrobić stracony dzień.",
+        "Nic nie może zrekompensować straconego czasu."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "System w ciele, który kontroluje, kiedy czujesz się senny lub rozbudzony",
+      "ex": [
+        "Podróż przez strefy czasowe myli zegar biologiczny.",
+        "Jasne światło rano resetuje zegar biologiczny.",
+        "Praca na nocnych zmianach działa wbrew zegarowi biologicznemu organizmu."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Duże formalne spotkanie ludzi pracujących w tej samej dziedzinie",
+      "ex": [
+        "Lekarze ze 100 krajów wzięli udział w kongresie.",
+        "Wyniki ogłoszono na kongresie medycznym w Paryżu.",
+        "Kongres odbywa się co roku w innym mieście."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "W ilościach, które nie są zbyt duże",
+      "ex": [
+        "Kawa w umiarkowanych ilościach jest w porządku.",
+        "Lekarz powiedział, że może pić wino z umiarem.",
+        "Nawet cukier nie jest szkodliwy z umiarem."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "Szansa, że coś się wydarzy",
+      "ex": [
+        "Ćwiczenia obniżają szansę na chorobę serca.",
+        "Szansa na wygraną na loterii jest bardzo mała.",
+        "Palacze mają większą szansę na raka płuc."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "Badanie, które zbiera informacje o zdrowiu ludzi",
+      "ex": [
+        "Krajowe badanie zdrowia pyta o dietę i aktywność fizyczną.",
+        "Tysiące ludzi wzięło udział w badaniu zdrowia.",
+        "Badanie zdrowia wykazało, że wielu dorosłych śpi zbyt mało."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "Ilość czasu, przez którą osoba śpi",
+      "ex": [
+        "Średni czas snu spadł w ciągu ostatnich 50 lat.",
+        "Aplikacja zapisuje twój czas snu każdej nocy.",
+        "Krótki czas snu wiąże się z przybieraniem na wadze."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Niewykonujący dużo ćwiczeń",
+      "ex": [
+        "Osoby dorosłe mało aktywne fizycznie mają wyższe ryzyko cukrzycy.",
+        "Praca biurowa sprawia, że wiele osób jest mało aktywnych fizycznie.",
+        "Około jedna trzecia grupy była mało aktywna fizycznie."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "Najlepszy możliwy",
+      "ex": [
+        "Idealna pora snu dla większości dorosłych to przed godziną 23.",
+        "Wiosna to idealny czas na odwiedzenie tego miasta.",
+        "Nie ma idealnej diety, która działa dla wszystkich."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Spadek czegoś, który zdarza się co noc",
+      "ex": [
+        "Nocny spadek temperatury pomaga ludziom spać.",
+        "Lekarze obserwowali nocny spadek jej ciśnienia krwi.",
+        "Na pustyni występuje gwałtowny nocny spadek temperatury."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "Niedostateczna ilość snu",
+      "ex": [
+        "Brak snu utrudnia koncentrację.",
+        "Nowi rodzice często cierpią z powodu braku snu.",
+        "Brak snu może wpłynąć na twój nastrój następnego dnia."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Rurki przenoszące krew po ciele",
+      "ex": [
+        "Palenie uszkadza naczynia krwionośne.",
+        "Ćwiczenia utrzymują naczynia krwionośne w zdrowiu.",
+        "Zimna pogoda zwęża naczynia krwionośne."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "Wrócić do normalnego, zdrowego stanu",
+      "ex": [
+        "Powrót do zdrowia po grypie zajął jej dwa tygodnie.",
+        "Ciało regeneruje się podczas snu.",
+        "Sportowcy potrzebują dni odpoczynku, żeby się zregenerować."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Wzorzec godzin, który ciągle się zmienia",
+      "ex": [
+        "Pielęgniarki często pracują w nieregularnym grafiku.",
+        "Nieregularny grafik utrudnia dobry sen.",
+        "Jego nieregularny grafik nie zostawiał czasu na ćwiczenia."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "Godzina, o której osoba zwykle idzie spać",
+      "ex": [
+        "Pora snu dzieci to ósma wieczorem.",
+        "Stała pora snu pomaga lepiej spać.",
+        "Czyta przez pół godziny przed porą snu."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "Godzina, o której osoba zwykle wstaje z łóżka rano",
+      "ex": [
+        "Staraj się zachować tę samą godzinę pobudki przez cały tydzień.",
+        "Jej godzina pobudki w dni robocze to 6 rano.",
+        "Późniejsza godzina pobudki w weekendy jest powszechna."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Rzeczy, które obiecałeś zrobić i na które musisz znaleźć czas",
+      "ex": [
+        "Obowiązki rodzinne nie pozwoliły mu przyjść na spotkanie.",
+        "Ma w tym miesiącu za dużo zobowiązań.",
+        "Obowiązki zawodowe często ograniczają czas na sen."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "Pozwolenie na zrobienie czegoś",
+      "ex": [
+        "Miasto dało zielone światło nowemu parkowi.",
+        "Nie traktuj jednego dobrego wyniku jako zielonego światła do przerwania treningów.",
+        "Lekarz dał jej zielone światło na podróż."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Czujący się źle, bo myślisz, że zrobiłeś coś złego",
+      "ex": [
+        "Czuję się winny, że przegapiłem jej urodziny.",
+        "Poczuł się winny, że spał tak długo.",
+        "Nie trzeba czuć się winnym z powodu odpoczynku."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Badanie zostało przedstawione w Monachium w Niemczech 29 sierpnia 2026 roku.",
+      "a": true,
+      "why": "Zostało przedstawione na kongresie Europejskiego Towarzystwa Kardiologicznego i sugeruje, że osoby, które nadrabiają stracony sen z umiarem, mają niższą szansę na wysokie ciśnienie krwi."
+    },
+    {
+      "s": "Idealna ilość dodatkowego weekendowego snu wyniosła około czterech godzin.",
+      "a": false,
+      "why": "Idealna ilość wyniosła 1 godzinę i 27 minut, a osoby, które spały ponad cztery dodatkowe godziny, miały wyższe ryzyko."
+    },
+    {
+      "s": "Badanie objęło 40 727 dorosłych z Korei Południowej z lat 2016 do 2023.",
+      "a": true,
+      "why": "Badacz z Korea University przeanalizował dane z krajowego badania zdrowia obejmującego 40 727 dorosłych zebrane w tych latach."
+    },
+    {
+      "s": "Ciśnienie krwi normalnie wzrasta podczas snu.",
+      "a": false,
+      "why": "Ciśnienie krwi normalnie spada podczas snu, a zbyt mało snu może zmniejszyć ten nocny spadek."
+    },
+    {
+      "s": "Korzyść wzrosła do 6,9 procent wśród dorosłych mało aktywnych fizycznie.",
+      "a": true,
+      "why": "Nadrabianie snu wiązało się z 6-procentową niższą szansą ogółem i z 6,9 procent wśród dorosłych mało aktywnych fizycznie."
+    },
+    {
+      "s": "Kardiolog z British Heart Foundation nazwał to badanie zielonym światłem do ograniczenia ćwiczeń.",
+      "a": false,
+      "why": "Powiedziała, że badanie nie jest zielonym światłem do ograniczenia ćwiczeń, a jedynie że ludzie nie muszą czuć się winni z powodu spania do późna w weekendy."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Duże południowokoreańskie badanie powiązało umiarkowaną ilość dodatkowego weekendowego snu z niższą szansą na wysokie ciśnienie krwi. Spanie ponad cztery dodatkowe godziny wiązało się jednak z wyższym ryzykiem.",
+      "a": true,
+      "why": "Około 90 minut dodatkowego weekendowego snu wiązało się z 9-procentową niższą szansą, podczas gdy osoby, które spały ponad cztery dodatkowe godziny, miały wyższe ryzyko."
+    },
+    {
+      "s": "Badacze odkryli, że im więcej dodatkowego snu ludzie mieli w weekendy, tym mniej prawdopodobne było u nich wysokie ciśnienie krwi. Eksperci twierdzą teraz, że stała pora snu nie ma już znaczenia dla serca.",
+      "a": false,
+      "why": "Blisko, ale korzyść zatrzymała się na umiarkowanej ilości, a osoby, które spały ponad cztery dodatkowe godziny, miały wyższe ryzyko. Eksperci wciąż zalecają stałą porę snu."
+    },
+    {
+      "s": "Badanie pracowników zmianowych wykazało, że osoby śpiące w ciągu dnia mają wyższe ciśnienie krwi niż pracownicy dzienni. Lekarze twierdzą, że nocne zmiany powinny być ograniczone, aby chronić serce każdego pracownika.",
+      "a": false,
+      "why": "Badanie dotyczyło dodatkowego weekendowego snu wśród dorosłych ogółem, a nie pracowników zmianowych ani snu w ciągu dnia."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Używane, żeby żartobliwie przyznać, że robi się dokładnie to, o czym ktoś właśnie powiedział",
+    "That's a relief": "Używane, żeby powiedzieć, że czujesz się lepiej, bo zmartwienie minęło",
+    "Don't push your luck": "Używane, żeby ostrzec kogoś, by nie posuwał dobrej sytuacji za daleko",
+    "Within reason": "Używane, żeby powiedzieć, że coś jest w porządku, dopóki pozostaje na rozsądnym poziomie",
+    "Easier said than done": "Używane, żeby powiedzieć, że coś brzmi prosto, ale trudno to naprawdę zrobić"
+  }
+}

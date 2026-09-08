@@ -1,0 +1,418 @@
+{
+  "id": "weekend-sleep-in-study-2026",
+  "number": 105,
+  "lang": "hu",
+  "headline": "A hétvégi kialvás csökkentheti a magas vérnyomás kockázatát",
+  "chunks": [
+    "Az alvásszakértők évek óta figyelmeztetik az embereket, hogy hétvégén ne aludjanak sokáig. Azt mondták, hogy a hétvégi plusz alvás megzavarhatja a test belső óráját. Most egy, az Európai Kardiológiai Társaság 2026. augusztus 29-i, müncheni, németországi kongresszusán bemutatott tanulmány szerint azoknak, akik mértékkel pótolják az elveszett alvást, alacsonyabb az esélyük a magas vérnyomásra. Világszerte lapok napokon belül beszámoltak az eredményről.",
+    "A Koreai Egyetem kutatója, aki bemutatta a tanulmányt, egy 40 727 dél-koreai felnőttet vizsgáló, 2016 és 2023 közötti nemzeti egészségügyi felmérés adatait nézte át. A pótalvás a hétvégi és a hétköznapi alvásidő közötti különbséget jelentette. A hétvégi pótalvás 6 százalékkal alacsonyabb esélyt jelentett a magas vérnyomásra. A haszon 6,9 százalékra nőtt a fizikailag inaktív felnőttek körében. Az ideális mennyiség 1 óra 27 percet tett ki, 9 százalékkal alacsonyabb eséllyel.",
+    "A vérnyomás alvás közben rendszerint csökken, de a túl kevés alvás csökkentheti ezt az éjszakai esést, mondta a Utah Egyetem egyik alváskutatója. A kutató szerint az alváshiány miatt a szívnek és az ereknek jobban meg kell dolgozniuk, a hétvégi alvás pedig segíthet a testnek felépülni. De rámutatott arra, hogy a több nem mindig jobb. Azoknak, akik négy óránál több plusz alvást aludtak, magasabb volt a kockázatuk, mert egy szabálytalan napirend megszüntetheti a hasznot.",
+    "A szakértők továbbra is azt tanácsolják, hogy tartsunk ki egy rendszeres lefekvési és ébredési idő mellett. Egy, a British Heart Foundation kardiológusa, aki nem vett részt a tanulmányban, azt mondta, hogy sok ember a munka és a családi kötelezettségek miatt marad le alvásról. A tanulmány nem egy zöld út a testmozgás visszafogására, mondta a kardiológus, de az embereknek nem kell bűntudatot érezniük amiatt, hogy hétvégén sokáig alszanak. A kutató egyetértett: a plusz alvás egyszerűen az lehet, ahogy a test pótolja az elveszett alvást."
+  ],
+  "verbs": [
+    {
+      "base": "sleep in",
+      "correct": "Reggel a szokásosnál tovább aludni",
+      "wrong": "Egy barátnál tölteni az éjszakát"
+    },
+    {
+      "base": "throw off",
+      "correct": "Megzavarni valaminek a normál működését",
+      "wrong": "Elhalasztani valamit egy későbbi időpontra"
+    },
+    {
+      "base": "catch up on",
+      "correct": "Pótolni valamit, amit korábban elmulasztottunk",
+      "wrong": "Nagyon népszerűvé válni sok ember körében"
+    },
+    {
+      "base": "go through",
+      "correct": "Alaposan átnézni valamit",
+      "wrong": "Sok éven át felhalmozni valamit"
+    },
+    {
+      "base": "go up",
+      "correct": "Növekedni",
+      "wrong": "Változatlan maradni"
+    },
+    {
+      "base": "come to",
+      "correct": "Elérni egy végösszeget",
+      "wrong": "Véletlenül megtalálni valamit"
+    },
+    {
+      "base": "go down",
+      "correct": "Alacsonyabbá válni",
+      "wrong": "Riasztóként megszólalni"
+    },
+    {
+      "base": "point out",
+      "correct": "Elmondani az embereknek egy tényt",
+      "wrong": "Nagyon pontosan megmérni valamit"
+    },
+    {
+      "base": "cancel out",
+      "correct": "Megszüntetni valaminek a hatását",
+      "wrong": "Megmérni valaminek a hatását"
+    },
+    {
+      "base": "stick to",
+      "correct": "Továbbra is követni egy tervet vagy egy szokást",
+      "wrong": "Könnyen észrevehetőnek lenni mások között"
+    },
+    {
+      "base": "miss out on",
+      "correct": "Nem megkapni valami jót",
+      "wrong": "Elfelejteni megtenni valamit"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Kevesebbet tenni valamiből",
+      "wrong": "Leállítani valaminek az ellátását"
+    },
+    {
+      "base": "make up for",
+      "correct": "Pótolni valamit, ami elveszett",
+      "wrong": "Kitalálni egy nem igaz történetet"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Sleep in",
+      "def": "Reggel a szokásosnál tovább aludni",
+      "ex": [
+        "Szeretek vasárnap reggel sokáig aludni.",
+        "A gyerekek tízig aludtak a szünidő alatt.",
+        "Ő soha nem alszik sokáig, még a szabadnapján sem."
+      ]
+    },
+    {
+      "verb": "Throw off",
+      "def": "Megzavarni valaminek a normál működését",
+      "ex": [
+        "Az óraátállítás egy hétre megzavarta az alvásomat.",
+        "Egy késő vonat megzavarhatja az egész menetrendet.",
+        "Az időeltolódás megzavarja mind az étvágyat, mind az alvást."
+      ]
+    },
+    {
+      "verb": "Catch up on",
+      "def": "Pótolni valamit, amit korábban elmulasztottunk",
+      "ex": [
+        "Ezen a hétvégén pótolnom kell az alvást.",
+        "Az estét a hírek pótlásával töltötte.",
+        "Sokáig fent maradt, hogy pótolja a munkáját."
+      ]
+    },
+    {
+      "verb": "Go through",
+      "def": "Alaposan átnézni valamit",
+      "ex": [
+        "Az orvos velem együtt átnézte a vizsgálati eredményeimet.",
+        "A rendőrség egyenként átnézte az iratokat.",
+        "Sorról sorra átnéztük a jelentést."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Növekedni",
+      "ex": [
+        "Az üzemanyag ára múlt hónapban ismét emelkedett.",
+        "A látogatók száma minden nyáron nő.",
+        "A pulzusa emelkedik, amikor lépcsőn megy fel."
+      ]
+    },
+    {
+      "verb": "Come to",
+      "def": "Elérni egy végösszeget",
+      "ex": [
+        "A számla 80 dollárra rúgott.",
+        "A túlórák majdnem egy teljes munkanapra rúgtak.",
+        "Az adományok több mint egymillió dollárra rúgtak."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Alacsonyabbá válni",
+      "ex": [
+        "A hőmérséklet éjszaka csökken.",
+        "Az árak általában az ünnepek után csökkennek.",
+        "A láza reggelre lement."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Elmondani az embereknek egy tényt",
+      "ex": [
+        "Az orvos rámutatott, hogy több pihenésre van szüksége.",
+        "Rámutatott egy hibára a jelentésben.",
+        "A kritikusok rámutatnak, hogy a tanulmány kicsi volt."
+      ]
+    },
+    {
+      "verb": "Cancel out",
+      "def": "Megszüntetni valaminek a hatását",
+      "ex": [
+        "Egy rövid éjszaka megszüntetheti egy szunyókálás hasznát.",
+        "A plusz költségek megszüntették a megtakarításokat.",
+        "A változtatások közül kettő kioltja egymást."
+      ]
+    },
+    {
+      "verb": "Stick to",
+      "def": "Továbbra is követni egy tervet vagy egy szokást",
+      "ex": [
+        "Próbálj minden este ugyanabban az időben lefeküdni.",
+        "Kitartott a terve mellett, és befejezte a versenyt.",
+        "Nehéz tartani egy költségvetést nyaraláskor."
+      ]
+    },
+    {
+      "verb": "Miss out on",
+      "def": "Nem megkapni valami jót",
+      "ex": [
+        "Az éjszakai dolgozók gyakran maradnak le alvásról.",
+        "Ne maradj le az ingyenes jegyekről.",
+        "Lemaradt az útról, mert beteg volt."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Kevesebbet tenni valamiből",
+      "ex": [
+        "Az orvos azt mondta neki, hogy igyon kevesebb kávét.",
+        "Idén kevesebbet költünk.",
+        "A vizsga előtt kevesebb éjszakázást engedett meg magának."
+      ]
+    },
+    {
+      "verb": "Make up for",
+      "def": "Pótolni valamit, ami elveszett",
+      "ex": [
+        "Egy szunyókálás pótolhat egy rövid éjszakát.",
+        "Szombaton dolgozott, hogy pótolja az elvesztett napot.",
+        "Semmi nem pótolhatja az időt, amit elveszítettünk."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "internal clock",
+      "def": "A testben lévő rendszer, amely szabályozza, mikor érzed magad álmosnak vagy ébernek",
+      "ex": [
+        "Az időzónák közötti utazás összezavarja a belső órádat.",
+        "A reggeli erős fény visszaállítja a belső órát.",
+        "Az éjszakai műszakok a test belső órája ellen dolgoznak."
+      ]
+    },
+    {
+      "word": "congress",
+      "def": "Azonos szakterületen dolgozó emberek nagy formális találkozója",
+      "ex": [
+        "100 országból érkeztek orvosok a kongresszusra.",
+        "Az eredményeket egy párizsi orvosi kongresszuson jelentették be.",
+        "A kongresszust minden évben más városban tartják."
+      ]
+    },
+    {
+      "word": "in moderation",
+      "def": "Olyan mennyiségben, amely nem túl nagy",
+      "ex": [
+        "A kávé mértékkel fogyasztva rendben van.",
+        "Az orvos azt mondta, hogy mértékkel ihat bort.",
+        "Mértékkel még a cukor sem árt."
+      ]
+    },
+    {
+      "word": "odds",
+      "def": "Annak az esélye, hogy valami megtörténik",
+      "ex": [
+        "A testmozgás csökkenti a szívbetegség esélyét.",
+        "A lottónyerés esélye nagyon kicsi.",
+        "A dohányosoknak nagyobb az esélyük a tüdőrákra."
+      ]
+    },
+    {
+      "word": "health survey",
+      "def": "Egy olyan tanulmány, amely információkat gyűjt az emberek egészségéről",
+      "ex": [
+        "A nemzeti egészségügyi felmérés az étrendről és a testmozgásról kérdez.",
+        "Több ezer ember vett részt az egészségügyi felmérésben.",
+        "Az egészségügyi felmérés kimutatta, hogy sok felnőtt túl keveset alszik."
+      ]
+    },
+    {
+      "word": "sleep duration",
+      "def": "Az az időmennyiség, amennyit egy ember alszik",
+      "ex": [
+        "Az átlagos alvásidő az elmúlt 50 évben csökkent.",
+        "Az alkalmazás minden éjszaka rögzíti az alvásidődet.",
+        "A rövid alvásidő súlygyarapodással jár együtt."
+      ]
+    },
+    {
+      "word": "physically inactive",
+      "def": "Nem sokat mozgó",
+      "ex": [
+        "A fizikailag inaktív felnőtteknek magasabb a cukorbetegség kockázata.",
+        "Az irodai munkák sok embert fizikailag inaktívvá tesznek.",
+        "A csoport körülbelül egyharmada volt fizikailag inaktív."
+      ]
+    },
+    {
+      "word": "ideal",
+      "def": "A lehető legjobb",
+      "ex": [
+        "A legtöbb felnőtt számára az ideális lefekvési idő 23 óra előtt van.",
+        "A tavasz az ideális időszak a város meglátogatására.",
+        "Nincs olyan ideális étrend, amely mindenkinek beválik."
+      ]
+    },
+    {
+      "word": "nightly drop",
+      "def": "Egy minden éjszaka bekövetkező csökkenés",
+      "ex": [
+        "A hőmérséklet éjszakai csökkenése segít az embereknek aludni.",
+        "Az orvosok figyelték a vérnyomása éjszakai csökkenését.",
+        "A sivatagban éles a hőmérséklet éjszakai csökkenése."
+      ]
+    },
+    {
+      "word": "lack of sleep",
+      "def": "Nem elég alvás",
+      "ex": [
+        "Az alváshiány megnehezíti a koncentrálást.",
+        "A friss szülők gyakran szenvednek alváshiánytól.",
+        "Az alváshiány másnap befolyásolhatja a hangulatodat."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "A csövek, amelyek a vért szállítják a testben",
+      "ex": [
+        "A dohányzás károsítja az ereket.",
+        "A testmozgás egészségesen tartja az ereket.",
+        "A hideg idő szűkebbé teszi az ereket."
+      ]
+    },
+    {
+      "word": "recover",
+      "def": "Visszatérni egy normális, egészséges állapotba",
+      "ex": [
+        "Két hétbe telt, mire felépült az influenzából.",
+        "A test alvás közben regenerálódik.",
+        "A sportolóknak pihenőnapokra van szükségük a regenerálódáshoz."
+      ]
+    },
+    {
+      "word": "irregular schedule",
+      "def": "Egy folyamatosan változó időbeosztás",
+      "ex": [
+        "Az ápolók gyakran dolgoznak szabálytalan időbeosztás szerint.",
+        "Egy szabálytalan időbeosztás megnehezíti a jó alvást.",
+        "A szabálytalan időbeosztása nem hagyott időt a testmozgásra."
+      ]
+    },
+    {
+      "word": "bedtime",
+      "def": "Az az idő, amikor egy ember rendszerint lefekszik aludni",
+      "ex": [
+        "A gyerekek lefekvési ideje nyolc óra.",
+        "Egy rendszeres lefekvési idő segít jobban aludni.",
+        "Fél órát olvas lefekvés előtt."
+      ]
+    },
+    {
+      "word": "wake-up time",
+      "def": "Az az idő, amikor egy ember rendszerint felkel reggel",
+      "ex": [
+        "Próbáld egész héten ugyanazt az ébredési időt tartani.",
+        "Az ébredési ideje munkanapokon reggel 6 óra.",
+        "Hétvégén gyakori a későbbi ébredési idő."
+      ]
+    },
+    {
+      "word": "commitments",
+      "def": "Olyan dolgok, amiket megígértél, és amikre időt kell találnod",
+      "ex": [
+        "A családi kötelezettségek miatt nem tudott elmenni a találkozóra.",
+        "Ebben a hónapban túl sok kötelezettsége van.",
+        "A munkahelyi kötelezettségek gyakran csökkentik az alvásidőt."
+      ]
+    },
+    {
+      "word": "green light",
+      "def": "Engedély valaminek a megtételére",
+      "ex": [
+        "A város zöld utat adott az új parknak.",
+        "Ne vegyél egy jó eredményt zöld útnak arra, hogy abbahagyd az edzést.",
+        "Az orvos zöld utat adott neki az utazáshoz."
+      ]
+    },
+    {
+      "word": "guilty",
+      "def": "Rosszul érzed magad, mert úgy gondolod, hogy valami rosszat tettél",
+      "ex": [
+        "Bűntudatom van, amiért kihagytam a születésnapját.",
+        "Bűntudatot érzett, amiért ilyen sokáig aludt.",
+        "Nem kell bűntudatot érezni a pihenés miatt."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "A tanulmányt 2026. augusztus 29-én mutatták be Münchenben, Németországban.",
+      "a": true,
+      "why": "Az Európai Kardiológiai Társaság kongresszusán mutatták be, és azt sugallja, hogy azoknak, akik mértékkel pótolják az elveszett alvást, alacsonyabb az esélyük a magas vérnyomásra."
+    },
+    {
+      "s": "A hétvégi plusz alvás ideális mennyisége körülbelül négy óra volt.",
+      "a": false,
+      "why": "Az ideális mennyiség 1 óra 27 percet tett ki, és azoknak, akik négy óránál több plusz alvást aludtak, magasabb volt a kockázatuk."
+    },
+    {
+      "s": "A felmérés 40 727 dél-koreai felnőttre terjedt ki 2016 és 2023 között.",
+      "a": true,
+      "why": "A Koreai Egyetem kutatója egy 40 727 felnőttre kiterjedő, ezekben az években gyűjtött nemzeti egészségügyi felmérés adatait nézte át."
+    },
+    {
+      "s": "A vérnyomás alvás közben rendszerint emelkedik.",
+      "a": false,
+      "why": "A vérnyomás alvás közben rendszerint csökken, és a túl kevés alvás csökkentheti ezt az éjszakai esést."
+    },
+    {
+      "s": "A haszon 6,9 százalékra nőtt a fizikailag inaktív felnőttek körében.",
+      "a": true,
+      "why": "A pótalvás összességében 6 százalékkal, a fizikailag inaktív felnőttek körében pedig 6,9 százalékkal alacsonyabb esélyt jelentett."
+    },
+    {
+      "s": "A British Heart Foundation kardiológusa a tanulmányt a testmozgás visszafogásának zöld útjaként nevezte meg.",
+      "a": false,
+      "why": "Azt mondta, hogy a tanulmány nem egy zöld út a testmozgás visszafogására, csak azt, hogy az embereknek nem kell bűntudatot érezniük amiatt, hogy hétvégén sokáig alszanak."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Egy nagy dél-koreai tanulmány a hétvégi plusz alvás mérsékelt mennyiségét alacsonyabb magas vérnyomás-kockázattal kapcsolta össze. A négy óránál több plusz alvás azonban magasabb kockázattal járt együtt.",
+      "a": true,
+      "why": "Körülbelül 90 perc hétvégi plusz alvás 9 százalékkal alacsonyabb esélyhez kapcsolódott, míg azoknak, akik négy óránál több plusz alvást aludtak, magasabb volt a kockázatuk."
+    },
+    {
+      "s": "A kutatók azt találták, hogy minél több plusz alvást kaptak az emberek hétvégén, annál kisebb volt az esélyük a magas vérnyomásra. A szakértők most azt mondják, hogy a rendszeres lefekvési idő már nem számít a szívnek.",
+      "a": false,
+      "why": "Közel jár, de a haszon egy mérsékelt mennyiségnél megállt, és azoknak, akik négy óránál több plusz alvást aludtak, magasabb volt a kockázatuk. A szakértők továbbra is rendszeres lefekvési időt javasolnak."
+    },
+    {
+      "s": "Egy műszakban dolgozókról szóló felmérés azt találta, hogy azoknak, akik napközben alszanak, magasabb a vérnyomásuk, mint a nappal dolgozóknak. Az orvosok szerint az éjszakai műszakokat korlátozni kellene minden dolgozó szíve érdekében.",
+      "a": false,
+      "why": "A tanulmány a felnőttek körében általánosságban vizsgálta a hétvégi plusz alvást, nem a műszakban dolgozókat vagy a nappali alvást."
+    }
+  ],
+  "dialogue": {
+    "Guilty as charged": "Tréfásan arra használjuk, hogy beismerjük, pontosan azt tesszük, amit valaki az imént leírt",
+    "That's a relief": "Arra használjuk, hogy elmondjuk, jobban érezzük magunkat, mert egy aggodalom elmúlt",
+    "Don't push your luck": "Arra használjuk, hogy figyelmeztessünk valakit, ne vigyen túlzásba egy jó dolgot",
+    "Within reason": "Arra használjuk, hogy elmondjuk, valami rendben van, amíg egy ésszerű szinten marad",
+    "Easier said than done": "Arra használjuk, hogy elmondjuk, valami egyszerűnek hangzik, de a valóságban nehéz megtenni"
+  }
+}
