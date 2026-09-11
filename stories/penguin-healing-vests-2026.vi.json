@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "vi",
+  "headline": "Chim cánh cụt bị thương ở Chile mặc áo đồng",
+  "chunks": [
+    "Các nhà nghiên cứu ở Chile đang thử nghiệm những chiếc áo đỏ vừa vặn trên những con chim cánh cụt Humboldt bị thương. Vải được dệt bằng đồng và kẽm, có thể giúp vết thương lành nhanh hơn. Các bác sĩ thú y sử dụng những bộ đồ tương tự trên chó và mèo, và một nhóm người Chile đã nghĩ ra phiên bản dành cho chim cánh cụt. Giám đốc một sở thú gần Santiago nói với hãng tin Associated Press vào ngày 2 tháng 9 năm 2026 rằng, “Chúng tôi bắt đầu tự hỏi, tại sao thứ này không thể dùng cho chim cánh cụt?”",
+    "Một trung tâm cứu hộ phi lợi nhuận ở miền bắc Chile tiếp nhận những con chim cánh cụt mắc cạn từ bờ biển. Bác sĩ thú y phụ trách chương trình cho biết một số con bị thương do lưới đánh cá hoặc chân vịt tàu thuyền, số khác thì yếu ớt vì đói. Chim cánh cụt vặn cổ để mổ vào vết thương và kéo chỉ khâu ra, nên băng gạc phải được thay hàng ngày. Nhân viên cởi áo ra để điều trị rồi nhanh chóng thay lại, việc này giúp giảm bớt số lần chạm vào chim.",
+    "Đồng và kẽm ngăn chặn vi khuẩn và nấm, và kẽm giúp hình thành các mạch máu mới, nhờ đó mô bị tổn thương hồi phục nhanh hơn. Chile là nước sản xuất đồng lớn nhất thế giới. Nhà sản xuất Chile bán phiên bản dành cho thú cưng ở hơn 40 quốc gia. Những bộ đồ làm cho thú cưng bốn chân thường tuột xuống trên một con chim đứng thẳng, vì vậy các nhà thiết kế đã đo vây, cổ và đuôi rồi thử nghiệm các mẫu thử tại sở thú trước khi gửi chúng đến trung tâm cứu hộ.",
+    "Chim cánh cụt Humboldt của Chile, một loài dễ bị tổn thương, đang suy giảm mạnh. Các cuộc khảo sát những quần thể sinh sản chính vào năm 2024 và 2025 phát hiện số tổ đang hoạt động ít hơn 63 phần trăm so với ba năm trước đó. El Niño làm ấm biển và xua đuổi những con cá mà chúng ăn, nên chim bố mẹ bỏ chim non lại để đi kiếm ăn. Bác sĩ thú y nói rằng những con chim chịu đựng chiếc áo khá tốt và vết thương trông đỡ hơn chỉ sau một ngày, nhưng nhóm nghiên cứu vẫn chưa chứng minh được rằng chiếc áo giúp đẩy nhanh quá trình lành vết thương."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Thử nghiệm điều gì đó để xem nó hoạt động ra sao",
+      "wrong": "Mặc thử quần áo để kiểm tra độ vừa vặn"
+    },
+    {
+      "base": "heal up",
+      "correct": "Trở nên khỏe mạnh trở lại",
+      "wrong": "Đóng chặt lại một thứ gì đó"
+    },
+    {
+      "base": "come up with",
+      "correct": "Nghĩ ra một ý tưởng hoặc kế hoạch",
+      "wrong": "Gặp phải một vấn đề khó khăn"
+    },
+    {
+      "base": "take in",
+      "correct": "Tiếp nhận ai đó và chăm sóc họ",
+      "wrong": "Giành quyền kiểm soát nơi hoặc nhóm"
+    },
+    {
+      "base": "pull out",
+      "correct": "Kéo một thứ gì đó ra",
+      "wrong": "Hồi phục sau một bệnh nặng"
+    },
+    {
+      "base": "take off",
+      "correct": "Cởi bỏ một thứ đang mặc hoặc đội",
+      "wrong": "Chăm sóc một con vật bị ốm hoặc bị thương"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Giảm bớt lượng của một thứ gì đó",
+      "wrong": "Tách ai đó ra khỏi những người khác"
+    },
+    {
+      "base": "hold back",
+      "correct": "Ngăn chặn một thứ gì đó lan rộng",
+      "wrong": "Giữ cho một thứ gì đó ấm và khô"
+    },
+    {
+      "base": "slip down",
+      "correct": "Trượt xuống vị trí thấp hơn",
+      "wrong": "Mắc một lỗi nhỏ do bất cẩn"
+    },
+    {
+      "base": "send off",
+      "correct": "Gửi một thứ gì đó đến một nơi",
+      "wrong": "Trả lại một thứ gì đó cho nhà sản xuất"
+    },
+    {
+      "base": "drive away",
+      "correct": "Buộc một thứ gì đó phải rời đi",
+      "wrong": "Làm cho một thứ gì đó tăng nhanh"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Rời đi mà không mang theo ai đó",
+      "wrong": "Không đưa một thứ vào trong nhóm"
+    },
+    {
+      "base": "put up with",
+      "correct": "Chấp nhận điều gì đó mà không phàn nàn",
+      "wrong": "Mặc trang phục cho một con vật"
+    },
+    {
+      "base": "speed up",
+      "correct": "Làm cho một điều gì đó diễn ra nhanh hơn",
+      "wrong": "Dùng hết hoàn toàn một thứ gì đó"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Thử nghiệm điều gì đó để xem nó hoạt động ra sao",
+      "ex": [
+        "Ngôi trường đang thử áp dụng một thời khóa biểu mới trong mùa thu này.",
+        "Tôi muốn thử chiếc xe đạp này trước khi mua nó.",
+        "Họ đã thử ba công thức nấu ăn cho bữa tiệc."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Trở nên khỏe mạnh trở lại",
+      "ex": [
+        "Vết cắt trên tay tôi đã lành sau vài ngày.",
+        "Hãy để vết bỏng có thời gian lành lại.",
+        "Mắt cá chân của anh ấy đã lành trước khi mùa giải bắt đầu."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Nghĩ ra một ý tưởng hoặc kế hoạch",
+      "ex": [
+        "Cô ấy đã nghĩ ra một cái tên tuyệt vời cho đội.",
+        "Chúng ta cần nghĩ ra một kế hoạch trước thứ Sáu.",
+        "Anh ấy nghĩ ra ý tưởng này khi đang tắm."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Tiếp nhận ai đó và chăm sóc họ",
+      "ex": [
+        "Trại cứu hộ tiếp nhận những chú chó không có nhà.",
+        "Họ đã tiếp nhận hai học sinh từ nước ngoài.",
+        "Bệnh viện đã tiếp nhận hàng chục bệnh nhân sau cơn bão."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Kéo một thứ gì đó ra",
+      "ex": [
+        "Nha sĩ đã nhổ chiếc răng khôn của tôi.",
+        "Anh ấy dùng nhíp gắp ra một cái dằm.",
+        "Cô ấy nhổ cỏ dại dọc theo hàng rào."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Cởi bỏ một thứ đang mặc hoặc đội",
+      "ex": [
+        "Cởi áo khoác ra và ngồi xuống.",
+        "Anh ấy tháo kính ra để đọc biển báo.",
+        "Y tá tháo băng gạc cũ ra."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Giảm bớt lượng của một thứ gì đó",
+      "ex": [
+        "Tôi đang cố gắng giảm lượng đường.",
+        "Thành phố muốn giảm bớt tình trạng ùn tắc giao thông ở trung tâm.",
+        "Chúng tôi giảm in ấn để tiết kiệm giấy."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Ngăn chặn một thứ gì đó lan rộng",
+      "ex": [
+        "Các bao cát đã ngăn nước lũ lại.",
+        "Loại thuốc này ngăn nhiễm trùng lan rộng.",
+        "Cảnh sát đã ngăn đám đông lại ở cổng."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Trượt xuống vị trí thấp hơn",
+      "ex": [
+        "Tất của tôi cứ tuột xuống bên trong đôi bốt.",
+        "Dây đeo tuột xuống khỏi vai cô ấy.",
+        "Chiếc mũ của em bé tuột xuống che mắt cậu bé."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Gửi một thứ gì đó đến một nơi",
+      "ex": [
+        "Cô ấy đã gửi gói hàng đi vào thứ Hai.",
+        "Chúng tôi đã gửi các mẫu đến phòng thí nghiệm.",
+        "Anh ấy đã gửi đơn xin việc vào tuần trước."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Buộc một thứ gì đó phải rời đi",
+      "ex": [
+        "Tiếng ồn đã xua đuổi lũ chim khỏi sân.",
+        "Giá cao đã khiến nhiều khách hàng bỏ đi.",
+        "Nước ấm xua đuổi lũ cá."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Rời đi mà không mang theo ai đó",
+      "ex": [
+        "Gia đình đã để lại con chó khi họ chuyển nhà.",
+        "Cô ấy để em trai lại và đi đến công viên.",
+        "Chiếc xe buýt đã bỏ lại ba hành khách."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Chấp nhận điều gì đó mà không phàn nàn",
+      "ex": [
+        "Tôi không thể chịu đựng tiếng ồn này thêm nữa.",
+        "Cô ấy đã chịu đựng cơn đau trong nhiều tuần.",
+        "Con chó chịu đựng việc tắm mà không phản kháng."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Làm cho một điều gì đó diễn ra nhanh hơn",
+      "ex": [
+        "Con đường mới giúp rút ngắn thời gian di chuyển đến sân bay.",
+        "Thời tiết ấm áp giúp cây cối phát triển nhanh hơn.",
+        "Một chiếc máy tính nhanh hơn đã giúp công việc của chúng tôi nhanh hơn."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Vừa vặn sát và thoải mái quanh cơ thể",
+      "ex": [
+        "Chiếc áo khoác vừa khít ở vai.",
+        "Em bé được ủ ấm áp trong chiếc chăn của mình.",
+        "Đôi ủng này vừa khít nhưng không chật."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Được tạo ra bằng cách đan các sợi chỉ qua lại với nhau",
+      "ex": [
+        "Chiếc giỏ được đan từ những dải gỗ mỏng.",
+        "Sợi chỉ bạc được dệt vào chiếc váy.",
+        "Tấm thảm được dệt bằng tay ở Peru."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Những vết thương nơi da bị cắt hoặc rách",
+      "ex": [
+        "Y tá đã làm sạch vết thương trên cánh tay anh ấy.",
+        "Vết thương sâu có thể cần khâu.",
+        "Con chó liếm vết thương trên chân của nó."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Bị bỏ lại ở một nơi và không thể di chuyển hoặc thoát ra",
+      "ex": [
+        "Đội cứu hộ tìm thấy một con cá voi mắc cạn trên bãi biển.",
+        "Cơn bão khiến hàng trăm hành khách bị mắc kẹt tại sân bay.",
+        "Một con hải cẩu mắc cạn được đưa trở lại mặt nước."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Những tấm lưới lớn dùng để bắt cá trên biển",
+      "ex": [
+        "Lưới đánh cá cũ có thể mắc kẹt rùa và chim.",
+        "Thủy thủ đoàn sửa lưới đánh cá trên bến tàu.",
+        "Thợ lặn gỡ lưới đánh cá khỏi rạn san hô."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Những cánh quạt xoay giúp đẩy tàu hoặc máy bay về phía trước",
+      "ex": [
+        "Chân vịt tàu thuyền có thể làm bị thương động vật biển.",
+        "Máy bay có hai cánh quạt trên mỗi bên cánh.",
+        "Rong biển mắc vào chân vịt."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Hoạt động để giúp đỡ con người hoặc động vật, không phải để kiếm tiền",
+      "ex": [
+        "Cô ấy điều hành một tổ chức phi lợi nhuận cung cấp thức ăn cho các gia đình vô gia cư.",
+        "Tổ chức phi lợi nhuận này phụ thuộc vào các khoản quyên góp.",
+        "Một nhóm phi lợi nhuận đã trồng cây trong công viên."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Một nơi mà động vật được cứu và chăm sóc",
+      "ex": [
+        "Trung tâm cứu hộ đã tiếp nhận ba con hải cẩu con.",
+        "Tình nguyện viên tại trung tâm cứu hộ cho chim ăn hai lần một ngày.",
+        "Con rùa được thả khỏi trung tâm cứu hộ vào tháng Năm."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Mổ hoặc cắn một thứ gì đó bằng mỏ",
+      "ex": [
+        "Gà mổ hạt trên mặt đất.",
+        "Con vẹt đã mổ vào ngón tay tôi.",
+        "Một con chim gõ kiến mổ lỗ trên thân cây."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Những sợi chỉ mà bác sĩ dùng để khâu kín một vết cắt",
+      "ex": [
+        "Anh ấy phải khâu sáu mũi ở cằm.",
+        "Bác sĩ đã cắt chỉ sau mười ngày.",
+        "Đừng để mũi khâu bị ướt."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Những dải vải được quấn quanh một vết thương",
+      "ex": [
+        "Y tá thay băng gạc mỗi sáng.",
+        "Hãy giữ băng gạc sạch sẽ và khô ráo.",
+        "Anh ấy quấn băng gạc quanh đầu gối."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Những ống dẫn máu đi khắp cơ thể",
+      "ex": [
+        "Tập thể dục giúp mạch máu của bạn khỏe mạnh.",
+        "Những mạch máu nhỏ mang oxy đến da.",
+        "Vết cắt làm tổn thương vài mạch máu nhỏ."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "Chất liệu tạo nên các bộ phận của cơ thể",
+      "ex": [
+        "Vết bỏng làm tổn thương mô dưới da.",
+        "Mô cơ tự phục hồi sau khi tập thể dục.",
+        "Các bác sĩ cắt bỏ mô bị tổn thương."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "Đứng thẳng, không nằm ngang",
+      "ex": [
+        "Chim cánh cụt đi thẳng đứng trên hai chân.",
+        "Hãy giữ chai thẳng đứng để nó không đổ.",
+        "Cậu ấy ngồi thẳng lưng khi giáo viên bước vào."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Những chi dẹt mà chim cánh cụt và hải cẩu dùng để bơi",
+      "ex": [
+        "Con chim cánh cụt vỗ vây rồi lặn xuống nước.",
+        "Hải cẩu dùng vây của chúng để di chuyển trên cạn.",
+        "Vây của con rùa bị mắc vào lưới."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Những phiên bản đầu tiên của một sản phẩm được làm ra để thử nghiệm",
+      "ex": [
+        "Công ty đã chế tạo ba mẫu thử của chiếc xe mới.",
+        "Các kỹ sư đã thử nghiệm mẫu thử này trong một tháng.",
+        "Những mẫu thử đầu tiên quá nặng."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Một loài động vật hoặc thực vật có nguy cơ tuyệt chủng",
+      "ex": [
+        "Gấu Bắc Cực được liệt kê là loài dễ bị tổn thương.",
+        "Luật pháp bảo vệ các loài dễ bị tổn thương khỏi bị săn bắt.",
+        "Các nhà khoa học theo dõi các loài dễ bị tổn thương bằng thẻ đánh dấu."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Những nơi mà nhiều động vật tụ tập để sinh con",
+      "ex": [
+        "Hàng ngàn con chim biển quay trở lại các quần thể sinh sản mỗi mùa xuân.",
+        "Hòn đảo này có một trong những quần thể sinh sản hải cẩu lớn nhất.",
+        "Du khách không được vào quần thể sinh sản."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Những tổ mà chim đang sử dụng để nuôi con non",
+      "ex": [
+        "Các kiểm lâm viên đếm được 200 tổ đang hoạt động trên vách đá.",
+        "Số lượng tổ đang hoạt động giảm sau cơn bão.",
+        "Mỗi tổ đang hoạt động có hai quả trứng."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Những chiếc áo có màu đỏ và chứa đồng cùng kẽm.",
+      "a": true,
+      "why": "Các nhà nghiên cứu ở Chile đang thử nghiệm những chiếc áo đỏ vừa vặn, với vải được dệt bằng đồng và kẽm."
+    },
+    {
+      "s": "Chim cánh cụt được đo kích thước cho những chiếc áo đầu tiên tại trung tâm cứu hộ.",
+      "a": false,
+      "why": "Các nhà nghiên cứu đã đo chim cánh cụt tại một sở thú gần Santiago, và các mẫu thử sau đó mới được gửi đến trung tâm cứu hộ."
+    },
+    {
+      "s": "Kẽm trong vải giúp hình thành các mạch máu mới.",
+      "a": true,
+      "why": "Đồng và kẽm ngăn chặn vi khuẩn và nấm, và kẽm giúp hình thành các mạch máu mới, nhờ đó mô bị tổn thương hồi phục nhanh hơn."
+    },
+    {
+      "s": "Nhóm nghiên cứu đã chứng minh rằng những chiếc áo giúp đẩy nhanh quá trình lành vết thương.",
+      "a": false,
+      "why": "Bác sĩ thú y nói rằng những con chim chịu đựng chiếc áo khá tốt và vết thương trông đỡ hơn sau một ngày, nhưng nhóm nghiên cứu vẫn chưa chứng minh được rằng chiếc áo giúp đẩy nhanh quá trình lành vết thương."
+    },
+    {
+      "s": "Các cuộc khảo sát phát hiện số tổ đang hoạt động ít hơn 63 phần trăm so với ba năm trước đó.",
+      "a": true,
+      "why": "Các cuộc khảo sát những quần thể sinh sản chính vào năm 2024 và 2025 phát hiện số tổ đang hoạt động ít hơn 63 phần trăm, và El Niño xua đuổi những con cá mà chim cánh cụt ăn."
+    },
+    {
+      "s": "Trước khi có những chiếc áo này, băng gạc trên chim cánh cụt chỉ được thay một lần một tuần.",
+      "a": false,
+      "why": "Chim cánh cụt mổ vào vết thương và kéo chỉ khâu ra, nên băng gạc phải được thay hàng ngày."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Các nhà nghiên cứu Chile đang thử nghiệm những chiếc áo đỏ dệt bằng đồng và kẽm trên những con chim cánh cụt Humboldt bị thương. Những chiếc áo ngăn chim kéo chỉ khâu ra và có thể giúp vết thương khép miệng nhanh hơn.",
+      "a": true,
+      "why": "Những chiếc áo được cải tiến từ bộ đồ dành cho thú cưng, và đồng cùng kẽm trong vải giúp ngăn chặn vi khuẩn trong khi bộ trang phục ngăn chim cánh cụt kéo chỉ khâu ra."
+    },
+    {
+      "s": "Các trung tâm cứu hộ ở Chile đã chứng minh rằng áo đồng giúp chữa lành vết thương chim cánh cụt nhanh gấp đôi so với băng gạc. Những bộ đồ này, ban đầu làm cho chó và mèo, giờ đây được bán cho các sở thú ở 40 quốc gia.",
+      "a": false,
+      "why": "Gần đúng, nhưng nhóm nghiên cứu vẫn chưa chứng minh được rằng những chiếc áo giúp đẩy nhanh quá trình lành vết thương, và chính phiên bản dành cho thú cưng của bộ đồ mới được bán ở hơn 40 quốc gia."
+    },
+    {
+      "s": "Các nhà khoa học ở Chile đã đếm số lượng chim cánh cụt Humboldt của đất nước và phát hiện số lượng ít hơn 63 phần trăm so với năm 2021. Họ đổ lỗi cho lưới đánh cá và nhựa, và muốn có thêm những khu bảo tồn mới dọc theo bờ biển.",
+      "a": false,
+      "why": "Con số 63 phần trăm là mức giảm số tổ đang hoạt động tại các quần thể sinh sản, và bản tin này nói về việc thử nghiệm áo trên những con chim cánh cụt bị thương, không phải về một kế hoạch cho khu bảo tồn."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Dùng để nói rằng điều gì đó nghe có vẻ thú vị hoặc buồn cười đến mức bạn thực sự muốn xem nó.",
+    "Poor things": "Dùng để bày tỏ sự cảm thông với những con vật hoặc con người đang chịu khổ.",
+    "That figures": "Dùng để nói rằng một điều gì đó trở nên hợp lý khi bạn biết được sự thật.",
+    "Too soon to say": "Dùng để nói rằng chưa có đủ bằng chứng để đánh giá điều gì đó.",
+    "Every little bit helps": "Dùng để nói rằng ngay cả một đóng góp hay cải thiện nhỏ cũng hữu ích."
+  }
+}

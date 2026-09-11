@@ -1,0 +1,418 @@
+{
+  "id": "gen-z-joymaxxing-2026",
+  "number": 108,
+  "lang": "id",
+  "headline": "Gen Z menghabiskan musim panas 2026 mencari kebahagiaan di luar dunia maya",
+  "chunks": [
+    "Gen Z menghabiskan musim panas 2026 dengan \"joymaxxing,\" kata sebuah perusahaan riset yang mempelajari konsumen muda. Kata itu menggambarkan anak muda yang memulai dengan tujuan menemukan lebih banyak kebahagiaan dalam kehidupan sehari-hari. Laporan perusahaan itu tanggal 20 Agustus mengatakan mereka mengurangi waktu layar, hadir di acara secara langsung, dan menghabiskan lebih banyak waktu bersantai dengan teman secara tatap muka. Alih-alih merekam setiap momen untuk media sosial, mereka memilih untuk hadir sepenuhnya.",
+    "Laporan itu cocok dengan temuan lain tahun ini. Sebuah survei tahun 2025 oleh perusahaan jajak pendapat menemukan bahwa 47 persen orang Amerika di bawah usia 30 tahun berusaha mengurangi waktu layar. Dalam survei Talker Research bulan Desember 2025, 63 persen Gen Z mengatakan mereka sengaja menyimpan ponsel mereka, dibandingkan dengan 29 persen baby boomer. Hampir setengah remaja mengatakan kepada Pew Research bahwa media sosial memiliki efek yang sebagian besar negatif pada mereka. Angka-angka itu bergabung menjadi satu pola yang jelas.",
+    "Bisnis-bisnis menyadari perubahan itu. Sebuah situs berita melaporkan pada April 2026 bahwa restoran dan bar di setidaknya 11 negara bagian kini membatasi ponsel atau memberi hadiah kepada pelanggan yang tidak menggunakannya. Sebuah bar di North Carolina mengunci ponsel dalam kantong selama dua jam, dan restoran salah satu jaringan makanan cepat saji memberikan es krim gratis kepada pelanggan yang makan tanpa ponsel. The Offline Club, kelompok yang mengatur perkumpulan bebas ponsel, dimulai di Amsterdam pada tahun 2021 dan kini menjalankan acara di 19 kota.",
+    "Tren ini berkembang dari bertahun-tahun kekhawatiran tentang penggunaan ponsel yang berat. Seorang profesor psikologi di Georgetown University mengatakan kepada situs berita bahwa minat terhadap ruang bebas ponsel telah menjadi \"hal yang sangat besar.\" Ini tidak berarti berhenti menggunakan ponsel sepenuhnya: The Offline Club sendiri memiliki hampir 600.000 pengikut Instagram. Tetapi daripada menunggu kehidupan menjadi lebih baik, kata perusahaan riset itu, Gen Z memilih untuk menjalani hidup dengan tempo yang lebih tenang dan menikmati apa yang sudah terjangkau."
+  ],
+  "verbs": [
+    {
+      "base": "set out",
+      "correct": "Memulai dengan tujuan yang jelas",
+      "wrong": "Menghemat waktu untuk suatu tujuan"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Menggunakan lebih sedikit sesuatu",
+      "wrong": "Kehilangan kontak dengan seseorang"
+    },
+    {
+      "base": "show up",
+      "correct": "Hadir di suatu acara",
+      "wrong": "Mencoba terlihat mengesankan"
+    },
+    {
+      "base": "hang out",
+      "correct": "Menghabiskan waktu santai bersama",
+      "wrong": "Menunggu untuk waktu yang singkat"
+    },
+    {
+      "base": "fit in with",
+      "correct": "Cocok dengan informasi lain",
+      "wrong": "Memberi rincian kepada orang lain"
+    },
+    {
+      "base": "put away",
+      "correct": "Berhenti menggunakan sesuatu untuk sementara",
+      "wrong": "Menyimpan sesuatu untuk nanti saja"
+    },
+    {
+      "base": "add up to",
+      "correct": "Bergabung menjadi satu hasil",
+      "wrong": "Menambahkan sesuatu sebagai ekstra"
+    },
+    {
+      "base": "pick up on",
+      "correct": "Menyadari sesuatu yang baru",
+      "wrong": "Membuat aturan tentang sesuatu"
+    },
+    {
+      "base": "hand out",
+      "correct": "Memberikan sesuatu ke banyak orang",
+      "wrong": "Menyerahkan kendali ke orang lain"
+    },
+    {
+      "base": "put on",
+      "correct": "Mengatur sebuah acara",
+      "wrong": "Membiarkan seseorang menginap"
+    },
+    {
+      "base": "grow out of",
+      "correct": "Berkembang dari sesuatu yang lebih awal",
+      "wrong": "Menjadi dewasa selama bertahun-tahun"
+    },
+    {
+      "base": "give up",
+      "correct": "Berhenti menggunakan sesuatu sepenuhnya",
+      "wrong": "Mengembalikan sesuatu kepada pemiliknya"
+    },
+    {
+      "base": "slow down",
+      "correct": "Menjalani hidup dengan tempo yang lebih tenang",
+      "wrong": "Mengakhiri sesuatu sepenuhnya dan selamanya"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Set out",
+      "def": "Memulai dengan tujuan yang jelas",
+      "ex": [
+        "Dia memulai dengan tujuan belajar bahasa Spanyol dalam satu tahun.",
+        "Tim itu memulai dengan tujuan membuat ponsel yang lebih murah.",
+        "Dia memulai dengan tujuan mengunjungi setiap taman nasional."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Menggunakan lebih sedikit sesuatu",
+      "ex": [
+        "Kita perlu menggunakan lebih sedikit gula.",
+        "Perusahaan itu menggunakan lebih sedikit anggaran perjalanan tahun ini.",
+        "Saya berusaha menggunakan lebih sedikit ponsel larut malam."
+      ]
+    },
+    {
+      "verb": "Show up",
+      "def": "Hadir di suatu acara",
+      "ex": [
+        "Ratusan orang hadir di konser itu.",
+        "Dia tidak pernah hadir tepat waktu.",
+        "Hanya sepuluh siswa yang hadir di pertemuan itu."
+      ]
+    },
+    {
+      "verb": "Hang out",
+      "def": "Menghabiskan waktu santai bersama",
+      "ex": [
+        "Kami menghabiskan waktu santai di taman sepanjang sore.",
+        "Adik saya menghabiskan waktu santai dengan teman-temannya di akhir pekan.",
+        "Mau menghabiskan waktu santai bersama setelah bekerja?"
+      ]
+    },
+    {
+      "verb": "Fit in with",
+      "def": "Cocok dengan informasi lain",
+      "ex": [
+        "Data baru itu cocok dengan hasil sebelumnya.",
+        "Ceritanya tidak cocok dengan apa yang ditemukan polisi.",
+        "Angka-angka ini cocok dengan tren nasional."
+      ]
+    },
+    {
+      "verb": "Put away",
+      "def": "Berhenti menggunakan sesuatu untuk sementara",
+      "ex": [
+        "Tolong berhenti menggunakan laptop saat makan malam.",
+        "Dia berhenti menggunakan tabletnya dan pergi keluar untuk jalan-jalan.",
+        "Anak-anak berhenti menggunakan mainan sebelum tidur."
+      ]
+    },
+    {
+      "verb": "Add up to",
+      "def": "Bergabung menjadi satu hasil",
+      "ex": [
+        "Perubahan kecil bergabung menjadi penghematan besar.",
+        "Semua bukti bergabung menjadi satu jawaban.",
+        "Beberapa menit setiap hari bergabung menjadi berjam-jam dalam sebulan."
+      ]
+    },
+    {
+      "verb": "Pick up on",
+      "def": "Menyadari sesuatu yang baru",
+      "ex": [
+        "Dia langsung menyadari nada gugup dalam suaranya.",
+        "Manajer yang baik menyadari masalah kecil sejak awal.",
+        "Wartawan itu menyadari perubahan dalam rencana wali kota."
+      ]
+    },
+    {
+      "verb": "Hand out",
+      "def": "Memberikan sesuatu ke banyak orang",
+      "ex": [
+        "Perawat itu memberikan masker di pintu.",
+        "Mereka memberikan contoh gratis di toko.",
+        "Pelatih itu memberikan seragam baru kepada tim."
+      ]
+    },
+    {
+      "verb": "Put on",
+      "def": "Mengatur sebuah acara",
+      "ex": [
+        "Perpustakaan itu mengatur pameran buku setiap musim gugur.",
+        "Para siswa mengatur konser untuk orang tua mereka.",
+        "Kota itu mengatur festival setiap musim panas."
+      ]
+    },
+    {
+      "verb": "Grow out of",
+      "def": "Berkembang dari sesuatu yang lebih awal",
+      "ex": [
+        "Band itu berkembang dari klub musik SMA.",
+        "Undang-undang baru itu berkembang dari bertahun-tahun keluhan.",
+        "Bisnisnya berkembang dari hobi akhir pekan."
+      ]
+    },
+    {
+      "verb": "Give up",
+      "def": "Berhenti menggunakan sesuatu sepenuhnya",
+      "ex": [
+        "Dia berhenti menggunakan soda tahun lalu.",
+        "Dia berhenti menggunakan mobilnya dan sekarang naik sepeda.",
+        "Saya tidak akan pernah berhenti menggunakan kopi pagi saya."
+      ]
+    },
+    {
+      "verb": "Slow down",
+      "def": "Menjalani hidup dengan tempo yang lebih tenang",
+      "ex": [
+        "Setelah operasi, dokter menyuruhnya menjalani hidup lebih tenang.",
+        "Kami pindah ke kota kecil untuk menjalani hidup lebih tenang.",
+        "Dia belajar menjalani hidup lebih tenang dan menikmati akhir pekannya."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "research firm",
+      "def": "Perusahaan yang mengumpulkan dan mempelajari informasi untuk kliennya",
+      "ex": [
+        "Sebuah perusahaan riset bertanya kepada 2.000 orang tentang kebiasaan belanja mereka.",
+        "Perusahaan riset itu menerbitkan laporan setiap musim semi.",
+        "Dia bekerja di sebuah perusahaan riset di Chicago."
+      ]
+    },
+    {
+      "word": "consumers",
+      "def": "Orang yang membeli dan menggunakan produk atau layanan",
+      "ex": [
+        "Konsumen muda menghabiskan lebih banyak untuk pengalaman daripada pakaian.",
+        "Undang-undang baru itu melindungi konsumen dari biaya tersembunyi.",
+        "Konsumen membeli lebih sedikit mobil baru tahun ini."
+      ]
+    },
+    {
+      "word": "ordinary life",
+      "def": "Kehidupan sehari-hari yang biasa, bukan acara khusus",
+      "ex": [
+        "Dia menemukan keindahan dalam kehidupan sehari-hari, seperti berjalan ke toko.",
+        "Setelah perjalanan itu, dia senang kembali ke kehidupan sehari-hari.",
+        "Foto-foto itu menunjukkan kehidupan sehari-hari di sebuah kota nelayan kecil."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Jam-jam yang dihabiskan untuk melihat ponsel, komputer, atau televisi",
+      "ex": [
+        "Dokter menyarankan waktu layar lebih sedikit untuk anak kecil.",
+        "Ponsel saya melacak waktu layar saya setiap minggu.",
+        "Terlalu banyak waktu layar dapat membuat sulit tidur."
+      ]
+    },
+    {
+      "word": "in person",
+      "def": "Hadir secara fisik, bukan daring atau lewat telepon",
+      "ex": [
+        "Senang akhirnya bertemu dengannya secara langsung.",
+        "Kelas itu bertemu secara langsung dua kali seminggu.",
+        "Anda harus menandatangani formulir secara langsung di kantor."
+      ]
+    },
+    {
+      "word": "present",
+      "def": "Memberi perhatian penuh pada momen yang sedang dijalani",
+      "ex": [
+        "Cobalah untuk hadir sepenuhnya saat bersama anak-anakmu.",
+        "Dia merasa lebih hadir setelah mematikan ponselnya.",
+        "Yoga membantunya tetap hadir dan tenang."
+      ]
+    },
+    {
+      "word": "findings",
+      "def": "Hasil dari sebuah penelitian atau investigasi",
+      "ex": [
+        "Hasil temuan itu diterbitkan dalam jurnal medis.",
+        "Temuannya mengejutkan seluruh tim.",
+        "Temuan laporan itu menunjukkan peningkatan orang yang berjalan kaki ke tempat kerja."
+      ]
+    },
+    {
+      "word": "survey",
+      "def": "Serangkaian pertanyaan yang diajukan kepada banyak orang untuk mengetahui pandangan mereka",
+      "ex": [
+        "Survei itu bertanya kepada 1.000 orang dewasa tentang tidur.",
+        "Silakan isi survei setelah kunjungan Anda.",
+        "Survei baru menunjukkan sebagian besar orang menginginkan minggu kerja yang lebih pendek."
+      ]
+    },
+    {
+      "word": "intentionally",
+      "def": "Dengan sengaja, bukan tanpa disadari",
+      "ex": [
+        "Dia sengaja meninggalkan ponselnya di rumah.",
+        "Dia sengaja datang lebih awal untuk mendapat tempat duduk yang bagus.",
+        "Toko itu sengaja menjaga harganya tetap rendah."
+      ]
+    },
+    {
+      "word": "baby boomers",
+      "def": "Orang Amerika yang lahir antara tahun 1946 dan 1964",
+      "ex": [
+        "Banyak baby boomer kini memasuki masa pensiun.",
+        "Baby boomer tumbuh besar tanpa internet.",
+        "Survei itu membandingkan baby boomer dengan orang dewasa yang lebih muda."
+      ]
+    },
+    {
+      "word": "negative effect",
+      "def": "Sebuah hasil yang merugikan",
+      "ex": [
+        "Tidur yang buruk memiliki efek negatif pada ingatan.",
+        "Mogok kerja itu memiliki efek negatif pada maskapai.",
+        "Kebisingan dapat memiliki efek negatif pada pembelajaran anak-anak."
+      ]
+    },
+    {
+      "word": "reward",
+      "def": "Memberikan sesuatu yang baik kepada seseorang atas apa yang mereka lakukan",
+      "ex": [
+        "Maskapai itu memberi hadiah perjalanan gratis kepada penumpang setia.",
+        "Orang tua sering memberi hadiah kecil untuk nilai bagus.",
+        "Aplikasi itu memberi hadiah kepada pengguna yang berjalan 10.000 langkah sehari."
+      ]
+    },
+    {
+      "word": "pouches",
+      "def": "Kantong kecil yang lembut dan menutup di bagian atas",
+      "ex": [
+        "Staf konser memasukkan ponsel ke dalam kantong terkunci.",
+        "Dia menyimpan koinnya dalam kantong kulit kecil.",
+        "Kanguru membawa bayinya dalam kantong."
+      ]
+    },
+    {
+      "word": "gatherings",
+      "def": "Acara di mana sekelompok orang berkumpul",
+      "ex": [
+        "Klub lari itu mengadakan perkumpulan setiap hari Sabtu.",
+        "Dia bertemu rekan bisnisnya di sebuah perkumpulan kecil pekerja teknologi.",
+        "Perkumpulan permainan papan populer di kota ini."
+      ]
+    },
+    {
+      "word": "heavy",
+      "def": "Sangat sering atau dalam jumlah besar",
+      "ex": [
+        "Penggunaan media sosial yang berat dapat memengaruhi tidur.",
+        "Kota itu memiliki lalu lintas yang padat di pagi hari.",
+        "Dia banyak minum kopi."
+      ]
+    },
+    {
+      "word": "psychology professor",
+      "def": "Dosen universitas yang mempelajari cara kerja pikiran",
+      "ex": [
+        "Seorang profesor psikologi menjelaskan mengapa orang lupa nama.",
+        "Profesor psikologi itu mempelajari bagaimana anak-anak belajar.",
+        "Dia menjadi profesor psikologi pada usia 35 tahun."
+      ]
+    },
+    {
+      "word": "followers",
+      "def": "Orang yang memilih untuk melihat unggahan seseorang di media sosial",
+      "ex": [
+        "Koki itu memiliki dua juta pengikut di Instagram.",
+        "Dia kehilangan pengikut setelah jeda panjang.",
+        "Pengikut museum itu memberi suara untuk pameran berikutnya."
+      ]
+    },
+    {
+      "word": "within reach",
+      "def": "Cukup dekat untuk didapat atau dinikmati dengan mudah",
+      "ex": [
+        "Simpan segelas air dalam jangkauan di malam hari.",
+        "Dengan kereta baru, pantai itu terjangkau untuk perjalanan sehari.",
+        "Tujuan itu akhirnya terjangkau."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Laporan itu mengatakan Gen Z mengurangi waktu layar musim panas ini.",
+      "a": true,
+      "why": "Laporan perusahaan riset tanggal 20 Agustus mengatakan mereka mengurangi waktu layar, hadir di acara secara langsung, dan menghabiskan lebih banyak waktu bersantai dengan teman secara tatap muka."
+    },
+    {
+      "s": "Dalam survei Talker Research, 29 persen Gen Z mengatakan mereka menyimpan ponsel mereka.",
+      "a": false,
+      "why": "Dalam survei Desember 2025, 63 persen Gen Z mengatakan mereka sengaja menyimpan ponsel mereka; 29 persen adalah angka untuk baby boomer."
+    },
+    {
+      "s": "Beberapa restoran di jaringan makanan cepat saji memberikan es krim gratis kepada pelanggan yang makan tanpa ponsel.",
+      "a": true,
+      "why": "Sebuah situs berita melaporkan bahwa beberapa restoran di jaringan makanan cepat saji memberikan es krim gratis kepada pelanggan yang makan tanpa ponsel."
+    },
+    {
+      "s": "The Offline Club dimulai di Amsterdam pada tahun 2021.",
+      "a": true,
+      "why": "Kelompok yang mengatur perkumpulan bebas ponsel itu dimulai di Amsterdam pada tahun 2021 dan kini menjalankan acara di 19 kota."
+    },
+    {
+      "s": "Sebuah bar di North Carolina mengunci ponsel pelanggan dalam kantong sepanjang malam.",
+      "a": false,
+      "why": "Bisnis-bisnis menyadari perubahan itu, dan bar tersebut mengunci ponsel dalam kantong selama dua jam, bukan sepanjang malam."
+    },
+    {
+      "s": "The Offline Club memiliki kurang dari 10.000 pengikut di Instagram.",
+      "a": false,
+      "why": "Kelompok itu memiliki hampir 600.000 pengikut Instagram, yang menunjukkan bahwa tren ini bukan berarti meninggalkan ponsel sepenuhnya."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Sebuah perusahaan riset remaja mengatakan Gen Z melakukan usaha sengaja musim panas ini untuk menggunakan ponsel lebih sedikit dan menikmati kehidupan nyata. Survei dan bisnis baru bebas ponsel menunjukkan pergeseran yang sama di kalangan anak muda Amerika.",
+      "a": true,
+      "why": "Perusahaan riset remaja itu melaporkan bahwa Gen Z mengurangi waktu layar dan hadir secara langsung, dan survei dari perusahaan jajak pendapat, Talker Research, dan Pew menunjukkan pola yang serupa."
+    },
+    {
+      "s": "Anak muda Amerika meletakkan ponsel mereka musim panas ini karena restoran dan bar di banyak negara bagian kini melarangnya. Sebuah perusahaan riset remaja mengatakan aturan baru itu mendorong Gen Z untuk lebih hadir.",
+      "a": false,
+      "why": "Hampir benar, tetapi perubahan itu dimulai dari anak muda sendiri; bisnis-bisnis menyadarinya belakangan dan menambahkan batasan serta hadiah ponsel."
+    },
+    {
+      "s": "Sebuah studi baru menemukan bahwa remaja yang menggunakan media sosial lebih dari empat jam sehari tidur lebih sedikit dan mendapat nilai lebih buruk. Para peneliti ingin sekolah melarang ponsel selama hari sekolah.",
+      "a": false,
+      "why": "Tidak ada studi tentang tidur atau nilai, dan tidak ada seruan untuk larangan sekolah. Laporan itu menggambarkan tren anak muda yang memilih menghabiskan lebih banyak waktu tanpa internet."
+    }
+  ],
+  "dialogue": {
+    "That's a new one for me": "Digunakan untuk mengatakan kamu belum pernah mendengar sebuah kata atau ide sebelumnya",
+    "Sounds like a normal summer to me": "Digunakan untuk mengatakan sesuatu yang tampak istimewa sebenarnya biasa saja",
+    "I'd do it for the ice cream alone": "Digunakan untuk mengatakan satu hadiah kecil saja sudah cukup alasan untuk ikut serta",
+    "There's some irony in that": "Digunakan untuk menunjukkan bahwa suatu situasi justru kebalikan dari yang diharapkan",
+    "I'm all for that": "Digunakan untuk mengatakan kamu mendukung sebuah ide"
+  }
+}

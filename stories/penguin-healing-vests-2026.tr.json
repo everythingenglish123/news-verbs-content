@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "tr",
+  "headline": "Şili'de yaralı penguenler bakır yelek giyiyor",
+  "chunks": [
+    "Şili'deki araştırmacılar yaralı Humboldt penguenleri üzerinde dar kesim kırmızı yelekleri deniyor. Kumaş bakır ve çinko ile dokunmuş, bu da yaraların daha hızlı iyileşmesine yardımcı olabilir. Veterinerler benzer kıyafetleri köpekler ve kediler üzerinde kullanıyor, ve bir Şili ekibi penguen versiyonunu buldu. Santiago yakınlarındaki bir hayvanat bahçesinin müdürü, 2 Eylül 2026'da Associated Press'e “Neden bunun penguenlerde kullanılamayacağını merak etmeye başladık” dedi.",
+    "Kuzey Şili'deki kar amacı gütmeyen bir kurtarma merkezi, kıyıdan gelen karaya vurmuş penguenleri kabul ediyor. Programı yöneten veterinere göre, bazıları balık ağları veya tekne pervaneleri tarafından kesiliyor, diğerleri ise açlıktan güçsüz düşüyor. Penguenler boyunlarını bükerek yaralarını gagalıyor ve dikişlerini çekip çıkarıyor, bu yüzden sargıların her gün değiştirilmesi gerekiyordu. Personel tedavi için yeleği çıkarıyor ve hızlıca değiştiriyor, bu da penguenlerle temas süresini azaltıyor.",
+    "Bakır ve çinko bakteri ve mantarların yayılmasını engelliyor, ve çinko yeni kan damarlarının oluşmasına yardımcı oluyor, böylece hasar görmüş doku daha hızlı iyileşiyor. Şili dünyanın en büyük bakır üreticisi. Şilili üretici, evcil hayvan versiyonunu 40'tan fazla ülkede satıyor. Dört ayaklı evcil hayvanlar için yapılan kıyafetler dik duran bir kuşta aşağı kayma eğiliminde, bu yüzden tasarımcılar yüzgeçleri, boyunları ve kuyrukları ölçtü ve kurtarma merkezine göndermeden önce prototipleri hayvanat bahçesinde test etti.",
+    "Hassas bir tür olan Şili'nin Humboldt penguenleri hızla azalıyor. 2024 ve 2025'te ana üreme kolonilerinde yapılan araştırmalar, üç yıl öncesine göre yüzde 63 daha az aktif yuva bulundu. El Niño denizi ısıtıyor ve penguenlerin yediği balıkları uzaklaştırıyor, bu yüzden ebeveynler avlanmak için yavrularını geride bırakıyor. Veteriner, kuşların yelekleri iyi tolere ettiğini ve yaraların bir gün içinde daha iyi göründüğünü söyledi, ama ekip yeleklerin iyileşmeyi hızlandırdığını henüz kanıtlamadı."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "bir şeyi nasıl çalıştığını görmek için denemek",
+      "wrong": "bir kıyafeti uyup uymadığını kontrol etmek için giymek"
+    },
+    {
+      "base": "heal up",
+      "correct": "yeniden sağlıklı hale gelmek",
+      "wrong": "bir şeyi sıkıca kapatmak"
+    },
+    {
+      "base": "come up with",
+      "correct": "bir fikir veya plan bulmak",
+      "wrong": "zor bir sorunla karşılaşmak"
+    },
+    {
+      "base": "take in",
+      "correct": "birini kabul edip ona bakmak",
+      "wrong": "bir yer ya da grubun kontrolünü almak"
+    },
+    {
+      "base": "pull out",
+      "correct": "bir şeyi çekerek çıkarmak",
+      "wrong": "ciddi bir hastalıktan iyileşmek"
+    },
+    {
+      "base": "take off",
+      "correct": "giyilen bir şeyi çıkarmak",
+      "wrong": "hasta bir hayvana bakmak"
+    },
+    {
+      "base": "cut down on",
+      "correct": "bir şeyin miktarını azaltmak",
+      "wrong": "birini diğerlerinden ayırmak"
+    },
+    {
+      "base": "hold back",
+      "correct": "bir şeyin yayılmasını durdurmak",
+      "wrong": "bir şeyi sıcak ve kuru tutmak"
+    },
+    {
+      "base": "slip down",
+      "correct": "daha düşük bir konuma kaymak",
+      "wrong": "küçük dikkatsiz bir hata yapmak"
+    },
+    {
+      "base": "send off",
+      "correct": "bir şeyi bir yere göndermek",
+      "wrong": "bir şeyi üreticisine geri göndermek"
+    },
+    {
+      "base": "drive away",
+      "correct": "bir şeyi gitmeye zorlamak",
+      "wrong": "bir şeyi hızla yükseltmek"
+    },
+    {
+      "base": "leave behind",
+      "correct": "birini almadan bir yere gitmek",
+      "wrong": "bir şeyi bir gruba dahil etmemek"
+    },
+    {
+      "base": "put up with",
+      "correct": "bir şeyi şikayet etmeden kabullenmek",
+      "wrong": "bir hayvanı kıyafetle giydirmek"
+    },
+    {
+      "base": "speed up",
+      "correct": "bir şeyin daha hızlı olmasını sağlamak",
+      "wrong": "bir şeyi sonuna kadar kullanmak"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "bir şeyi nasıl çalıştığını görmek için denemek",
+      "ex": [
+        "Okul bu sonbaharda yeni bir ders programını deniyor.",
+        "Bisikleti satın almadan önce denemek istiyorum.",
+        "Parti için üç tarif denediler."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "yeniden sağlıklı hale gelmek",
+      "ex": [
+        "Elimdeki kesik birkaç günde iyileşti.",
+        "Yanığın iyileşmesi için zaman tanı.",
+        "Ayak bileği sezon başlamadan önce iyileşti."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "bir fikir veya plan bulmak",
+      "ex": [
+        "Takım için harika bir isim buldu.",
+        "Cuma gününe kadar bir plan bulmamız gerekiyor.",
+        "Fikri duşta buldu."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "birini kabul edip ona bakmak",
+      "ex": [
+        "Barınak evi olmayan köpekleri kabul ediyor.",
+        "Yurt dışından iki öğrenciyi evlerine kabul ettiler.",
+        "Hastane fırtınadan sonra düzinelerce hastayı kabul etti."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "bir şeyi çekerek çıkarmak",
+      "ex": [
+        "Diş hekimi yirmi yaş dişimi çekti.",
+        "Cımbızla bir kıymık çıkardı.",
+        "Çit boyunca yabani otları çekip çıkardı."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "giyilen bir şeyi çıkarmak",
+      "ex": [
+        "Ceketini çıkar ve otur.",
+        "Tabelayı okumak için gözlüğünü çıkardı.",
+        "Hemşire eski sargıyı çıkardı."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "bir şeyin miktarını azaltmak",
+      "ex": [
+        "Şeker tüketimimi azaltmaya çalışıyorum.",
+        "Şehir, merkezdeki trafiği azaltmak istiyor.",
+        "Kağıt tasarrufu için baskıyı azalttık."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "bir şeyin yayılmasını durdurmak",
+      "ex": [
+        "Kum torbaları sel suyunu durdurdu.",
+        "İlaç enfeksiyonun yayılmasını engelliyor.",
+        "Polis kapıda kalabalığı geri tuttu."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "daha düşük bir konuma kaymak",
+      "ex": [
+        "Çoraplarım botlarımın içinde sürekli aşağı kayıyor.",
+        "Askı omzundan aşağı kaydı.",
+        "Bebeğin şapkası gözlerinin üzerine kaydı."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "bir şeyi bir yere göndermek",
+      "ex": [
+        "Paketi pazartesi günü gönderdi.",
+        "Numuneleri laboratuvara gönderdik.",
+        "Başvurusunu geçen hafta gönderdi."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "bir şeyi gitmeye zorlamak",
+      "ex": [
+        "Gürültü kuşları bahçeden kaçırdı.",
+        "Yüksek fiyatlar birçok müşteriyi uzaklaştırdı.",
+        "Ilık su balıkları uzaklaştırıyor."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "birini almadan bir yere gitmek",
+      "ex": [
+        "Aile taşınırken köpeği geride bıraktı.",
+        "Küçük kardeşini geride bıraktı ve parka gitti.",
+        "Otobüs üç yolcuyu geride bıraktı."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "bir şeyi şikayet etmeden kabullenmek",
+      "ex": [
+        "Bu gürültüye artık daha fazla katlanamam.",
+        "Haftalarca ağrıya katlandı.",
+        "Köpek banyoya şikayet etmeden katlandı."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "bir şeyin daha hızlı olmasını sağlamak",
+      "ex": [
+        "Yeni yol havaalanına yolculuğu hızlandırıyor.",
+        "Sıcak hava bitkilerin büyümesini hızlandırıyor.",
+        "Daha hızlı bir bilgisayar işimizi hızlandırdı."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "vücuda yakın ve rahat oturan",
+      "ex": [
+        "Ceket omuzlarda tam oturuyordu.",
+        "Bebek battaniyesinde sıcacıktı.",
+        "Bu botlar tam oturuyor ama sıkmıyor."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "iplikleri birbirine geçirerek yapılmış",
+      "ex": [
+        "Sepet ince tahta şeritlerinden dokunmuş.",
+        "Elbiseye gümüş iplik dokunmuştu.",
+        "Halı Peru'da elle dokunmuştu."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "derinin kesildiği veya yırtıldığı yaralanmalar",
+      "ex": [
+        "Hemşire kolundaki yaraları temizledi.",
+        "Derin yaralar dikiş gerektirebilir.",
+        "Köpek pençesindeki yarayı yaladı."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "bir yerde kalıp hareket edemeyen veya kurtulamayan",
+      "ex": [
+        "Kurtarma ekibi sahilde mahsur kalmış bir balina buldu.",
+        "Fırtına yüzlerce yolcuyu havaalanında mahsur bıraktı.",
+        "Mahsur kalmış bir fok tekrar suya taşındı."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "denizde balık tutmak için kullanılan büyük ağlar",
+      "ex": [
+        "Eski balık ağları kaplumbağaları ve kuşları yakalayabilir.",
+        "Ekip limanda balık ağlarını onardı.",
+        "Dalgıçlar resiften balık ağlarını çıkardı."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "bir tekneyi veya uçağı öne iten dönen kanatlar",
+      "ex": [
+        "Tekne pervaneleri deniz hayvanlarını yaralayabilir.",
+        "Uçağın her kanadında iki pervanesi var.",
+        "Yosunlar pervaneye takıldı."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "para kazanmak için değil, insanlara veya hayvanlara yardım etmek için çalışan",
+      "ex": [
+        "Evsiz aileleri besleyen bir kar amacı gütmeyen kuruluş yönetiyor.",
+        "Kar amacı gütmeyen kuruluş bağışlara bağımlı.",
+        "Kar amacı gütmeyen bir grup parka ağaç dikti."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "hayvanların kurtarıldığı ve bakıldığı bir yer",
+      "ex": [
+        "Kurtarma merkezi üç yavru fok aldı.",
+        "Kurtarma merkezindeki gönüllüler kuşları günde iki kez besliyor.",
+        "Kaplumbağa mayıs ayında kurtarma merkezinden serbest bırakıldı."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "gagayla vurmak veya ısırmak",
+      "ex": [
+        "Tavuklar yerdeki taneleri gagalıyor.",
+        "Papağan parmağımı gagaladı.",
+        "Bir ağaçkakan ağaçlarda delikler gagalar."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "bir doktorun bir kesiği kapatmak için kullandığı iplikler",
+      "ex": [
+        "Çenesine altı dikiş atıldı.",
+        "Doktor on gün sonra dikişleri aldı.",
+        "Dikişleri ıslatma."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "bir yaranın etrafına sarılan kumaş şeritleri",
+      "ex": [
+        "Hemşire her sabah sargıları değiştirdi.",
+        "Sargıyı temiz ve kuru tut.",
+        "Dizine bir sargı sardı."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "vücutta kanı taşıyan borular",
+      "ex": [
+        "Egzersiz kan damarlarını sağlıklı tutar.",
+        "Küçük kan damarları cilde oksijen taşır.",
+        "Kesik birkaç küçük kan damarına zarar verdi."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "vücudun parçalarının yapıldığı madde",
+      "ex": [
+        "Yanık, derinin altındaki dokuya zarar verdi.",
+        "Kas dokusu egzersizden sonra kendini onarır.",
+        "Doktorlar hasarlı dokuyu aldı."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "düz durarak ayakta, yatık değil",
+      "ex": [
+        "Penguenler iki bacak üzerinde dik yürür.",
+        "Şişeyi dökülmemesi için dik tut.",
+        "Öğretmen içeri girdiğinde dik oturdu."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "penguenlerin ve fokların yüzmek için kullandığı düz uzuvlar",
+      "ex": [
+        "Penguen yüzgeçlerini çırpıp suya daldı.",
+        "Foklar karada hareket etmek için yüzgeçlerini kullanır.",
+        "Kaplumbağanın yüzgeçleri bir ağa dolaştı."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "test için yapılan bir ürünün ilk versiyonları",
+      "ex": [
+        "Şirket yeni arabanın üç prototipini üretti.",
+        "Mühendisler prototipi bir ay boyunca test etti.",
+        "İlk prototipler çok ağırdı."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "nesli tükenme riski taşıyan bir hayvan veya bitki türü",
+      "ex": [
+        "Kutup ayısı hassas bir tür olarak listelenmiştir.",
+        "Yasalar hassas türleri avlanmaya karşı koruyor.",
+        "Bilim insanları hassas türleri etiketlerle takip ediyor."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "birçok hayvanın yavrulamak için bir araya geldiği yerler",
+      "ex": [
+        "Binlerce deniz kuşu her ilkbaharda üreme kolonilerine geri dönüyor.",
+        "Adada en büyük fok üreme kolonilerinden biri var.",
+        "Turistler üreme kolonisine giremez."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "kuşların yavrularını yetiştirmek için kullandığı yuvalar",
+      "ex": [
+        "Korucular kayalıkta 200 aktif yuva saydı.",
+        "Fırtınadan sonra aktif yuva sayısı düştü.",
+        "Her aktif yuvada iki yumurta vardı."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Yelekler kırmızı ve bakır ile çinko içeriyor.",
+      "a": true,
+      "why": "Şili'deki araştırmacılar kumaşı bakır ve çinko ile dokunmuş dar kesim kırmızı yelekleri deniyor."
+    },
+    {
+      "s": "Penguenler ilk yelekler için kurtarma merkezinde ölçüldü.",
+      "a": false,
+      "why": "Araştırmacılar penguenleri Santiago yakınındaki bir hayvanat bahçesinde ölçtü, ve prototipler daha sonra kurtarma merkezine gönderildi."
+    },
+    {
+      "s": "Kumaştaki çinko yeni kan damarlarının oluşmasına yardımcı oluyor.",
+      "a": true,
+      "why": "Bakır ve çinko bakteri ve mantarların yayılmasını engelliyor, ve çinko yeni kan damarlarının oluşmasına yardımcı oluyor, böylece hasar görmüş doku daha hızlı iyileşiyor."
+    },
+    {
+      "s": "Ekip, yeleklerin iyileşmeyi hızlandırdığını kanıtladı.",
+      "a": false,
+      "why": "Veteriner, kuşların yelekleri iyi tolere ettiğini ve yaraların bir gün içinde daha iyi göründüğünü söyledi, ama ekip yeleklerin iyileşmeyi hızlandırdığını henüz kanıtlamadı."
+    },
+    {
+      "s": "Araştırmalar, üç yıl öncesine göre yüzde 63 daha az aktif yuva buldu.",
+      "a": true,
+      "why": "2024 ve 2025'te ana üreme kolonilerinde yapılan araştırmalar yüzde 63 daha az aktif yuva buldu, ve El Niño penguenlerin yediği balıkları uzaklaştırıyor."
+    },
+    {
+      "s": "Yeleklerden önce, penguenlerin sargıları haftada bir kez değiştiriliyordu.",
+      "a": false,
+      "why": "Penguenler yaralarını gagalıyor ve dikişlerini çekip çıkarıyor, bu yüzden sargıların her gün değiştirilmesi gerekiyordu."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Şilili araştırmacılar, yaralı Humboldt penguenleri üzerinde bakır ve çinko ile dokunmuş kırmızı yelekleri test ediyor. Yelekler kuşların dikişlerini çıkarmasını engelliyor ve yaraların daha hızlı kapanmasına yardımcı olabilir.",
+      "a": true,
+      "why": "Yelekler evcil hayvan kıyafetlerinden uyarlandı, ve kumaştaki bakır ve çinko bakterinin yayılmasını engellerken, kıyafet penguenlerin dikişlerini çekip çıkarmasını önlüyor."
+    },
+    {
+      "s": "Şili'deki kurtarma merkezleri, bakır yeleklerin penguen yaralarını sargılardan iki kat daha hızlı iyileştirdiğini kanıtladı. Önce köpekler ve kediler için yapılan kıyafetler, artık 40 ülkedeki hayvanat bahçelerine satılıyor.",
+      "a": false,
+      "why": "Yaklaşık doğru, ama ekip yeleklerin iyileşmeyi hızlandırdığını henüz kanıtlamadı, ve 40'tan fazla ülkede satılan şey kıyafetin evcil hayvan versiyonu."
+    },
+    {
+      "s": "Şili'deki bilim insanları ülkenin Humboldt penguenlerini saydı ve 2021'e göre yüzde 63 daha az kuş buldu. Balık ağlarını ve plastiği suçluyorlar ve kıyı boyunca yeni koruma alanları istiyorlar.",
+      "a": false,
+      "why": "Yüzde 63 rakamı, üreme kolonilerindeki aktif yuvalardaki bir düşüş, ve haber koruma alanı planıyla değil, yaralı penguenler üzerinde test edilen yeleklerle ilgili."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Bir şeyin o kadar hoş veya komik geldiğini, gerçekten görmek isteneceğini söylemek için kullanılır",
+    "Poor things": "Acı çeken hayvanlara veya insanlara sempati göstermek için kullanılır",
+    "That figures": "Gerçekleri öğrenince bir şeyin mantıklı geldiğini söylemek için kullanılır",
+    "Too soon to say": "Bir şeyi değerlendirmek için henüz yeterli kanıt olmadığını söylemek için kullanılır",
+    "Every little bit helps": "Küçük bir katkının veya iyileştirmenin bile yararlı olduğunu söylemek için kullanılır"
+  }
+}

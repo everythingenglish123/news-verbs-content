@@ -1,0 +1,418 @@
+{
+  "id": "gen-z-joymaxxing-2026",
+  "number": 108,
+  "lang": "pl",
+  "headline": "Pokolenie Z spędziło lato 2026 na szukaniu radości offline",
+  "chunks": [
+    "Pokolenie Z spędziło lato 2026 roku na „joymaxxingu”, jak twierdzi firma badawcza, która zajmuje się młodymi konsumentami. To słowo opisuje młodych ludzi, którzy postanowili znaleźć więcej szczęścia w codziennym życiu. Raport firmy z 20 sierpnia mówi, że ograniczyli czas spędzany przed ekranem, pojawiali się na wydarzeniach osobiście i spędzali więcej czasu, spotykając się z przyjaciółmi twarzą w twarz. Zamiast nagrywać każdą chwilę dla mediów społecznościowych, wybrali bycie obecnym tu i teraz.",
+    "Ten raport pasuje do innych tegorocznych ustaleń. Badanie przeprowadzone w 2025 roku przez firmę sondażową wykazało, że 47 procent Amerykanów poniżej 30 roku życia próbowało ograniczyć czas spędzany przed ekranem. W badaniu Talker Research z grudnia 2025 roku 63 procent przedstawicieli pokolenia Z powiedziało, że celowo odkładało telefony, wobec 29 procent pokolenia wyżu demograficznego. Prawie połowa nastolatków mówi Pew Research, że media społecznościowe mają na nich w większości negatywny wpływ. Te liczby składają się na wyraźny wzorzec.",
+    "Firmy zauważyły tę zmianę. Serwis informacyjny doniósł w kwietniu 2026 roku, że restauracje i bary w co najmniej 11 stanach ograniczają teraz korzystanie z telefonów albo nagradzają klientów, którzy je odkładają. Bar w Karolinie Północnej zamyka telefony w woreczkach na dwie godziny, a restauracje jednej sieci fast food rozdają darmowe lody klientom jedzącym bez telefonu. Offline Club, grupa, która organizuje spotkania bez telefonów, powstała w Amsterdamie w 2021 roku i teraz organizuje wydarzenia w 19 miastach.",
+    "Ten trend wyrósł z wieloletnich obaw o nadmierne korzystanie z telefonu. Profesor psychologii z Uniwersytetu Georgetown powiedział serwisowi informacyjnemu, że zainteresowanie przestrzeniami bez telefonów stało się „ogromną sprawą”. Nie oznacza to całkowitej rezygnacji z telefonów: sam Offline Club ma prawie 600 000 obserwujących na Instagramie. Ale zamiast czekać, aż życie się poprawi, firma badawcza twierdzi, że pokolenie Z wybiera zwolnienie tempa i cieszenie się tym, co jest w zasięgu ręki."
+  ],
+  "verbs": [
+    {
+      "base": "set out",
+      "correct": "Zacząć coś z jasnym celem",
+      "wrong": "Zaoszczędzić czas w jakimś celu"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Używać czegoś mniej",
+      "wrong": "Stracić kontakt z kimś"
+    },
+    {
+      "base": "show up",
+      "correct": "Być obecnym na wydarzeniu",
+      "wrong": "Chcieć zaimponować innym"
+    },
+    {
+      "base": "hang out",
+      "correct": "Spędzać razem odprężony czas",
+      "wrong": "Czekać przez krótki czas"
+    },
+    {
+      "base": "fit in with",
+      "correct": "Pasować do innych informacji",
+      "wrong": "Podać komuś szczegóły"
+    },
+    {
+      "base": "put away",
+      "correct": "Przestać na jakiś czas czegoś używać",
+      "wrong": "Odłożyć wykonanie czegoś na później"
+    },
+    {
+      "base": "add up to",
+      "correct": "Złożyć się na jakiś wynik",
+      "wrong": "Dodać coś jako dodatek"
+    },
+    {
+      "base": "pick up on",
+      "correct": "Zauważyć coś nowego",
+      "wrong": "Wprowadzić jakąś zasadę"
+    },
+    {
+      "base": "hand out",
+      "correct": "Rozdać coś wielu osobom",
+      "wrong": "Oddać kontrolę innej osobie"
+    },
+    {
+      "base": "put on",
+      "correct": "Zorganizować wydarzenie",
+      "wrong": "Pozwolić komuś zostać na noc"
+    },
+    {
+      "base": "grow out of",
+      "correct": "Rozwinąć się z czegoś wcześniejszego",
+      "wrong": "Stać się dorosłym z biegiem lat"
+    },
+    {
+      "base": "give up",
+      "correct": "Przestać całkowicie czegoś używać",
+      "wrong": "Oddać coś właścicielowi"
+    },
+    {
+      "base": "slow down",
+      "correct": "Żyć w spokojniejszym tempie",
+      "wrong": "Doprowadzić coś do końca"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Set out",
+      "def": "Zacząć coś z jasnym celem",
+      "ex": [
+        "Postanowiła nauczyć się hiszpańskiego w rok.",
+        "Zespół postawił sobie za cel stworzenie tańszego telefonu.",
+        "Postanowił odwiedzić każdy park stanowy."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Używać czegoś mniej",
+      "ex": [
+        "Musimy ograniczyć spożycie cukru.",
+        "Firma ograniczyła w tym roku podróże służbowe.",
+        "Staram się ograniczyć oglądanie telewizji późnym wieczorem."
+      ]
+    },
+    {
+      "verb": "Show up",
+      "def": "Być obecnym na wydarzeniu",
+      "ex": [
+        "Na koncert przyszły setki ludzi.",
+        "On nigdy nie pojawia się na czas.",
+        "Na spotkaniu pojawiło się tylko dziesięciu studentów."
+      ]
+    },
+    {
+      "verb": "Hang out",
+      "def": "Spędzać razem odprężony czas",
+      "ex": [
+        "Spędziliśmy całe popołudnie w parku.",
+        "Mój brat spotyka się z przyjaciółmi w weekendy.",
+        "Chcesz się spotkać po pracy?"
+      ]
+    },
+    {
+      "verb": "Fit in with",
+      "def": "Pasować do innych informacji",
+      "ex": [
+        "Nowe dane pasują do wcześniejszych wyników.",
+        "Jego historia nie pasuje do tego, co znalazła policja.",
+        "Te liczby pasują do ogólnokrajowego trendu."
+      ]
+    },
+    {
+      "verb": "Put away",
+      "def": "Przestać na jakiś czas czegoś używać",
+      "ex": [
+        "Odłóż laptopa na czas kolacji.",
+        "Odłożyła tablet i wyszła na spacer.",
+        "Dzieci odłożyły gry przed snem."
+      ]
+    },
+    {
+      "verb": "Add up to",
+      "def": "Złożyć się na jakiś wynik",
+      "ex": [
+        "Małe zmiany składają się na duże oszczędności.",
+        "Wszystkie dowody składają się na jedną odpowiedź.",
+        "Kilka minut dziennie składa się na godziny w ciągu miesiąca."
+      ]
+    },
+    {
+      "verb": "Pick up on",
+      "def": "Zauważyć coś nowego",
+      "ex": [
+        "Od razu zauważyła jego nerwowy ton.",
+        "Dobrzy menedżerowie wcześnie zauważają małe problemy.",
+        "Reporter zauważył zmianę w planach burmistrza."
+      ]
+    },
+    {
+      "verb": "Hand out",
+      "def": "Rozdać coś wielu osobom",
+      "ex": [
+        "Pielęgniarka rozdawała maseczki przy drzwiach.",
+        "Rozdają darmowe próbki w sklepie.",
+        "Trener rozdał drużynie nowe stroje."
+      ]
+    },
+    {
+      "verb": "Put on",
+      "def": "Zorganizować wydarzenie",
+      "ex": [
+        "Biblioteka organizuje targi książki co jesień.",
+        "Uczniowie zorganizowali koncert dla swoich rodziców.",
+        "Miasto organizuje festyn każdego lata."
+      ]
+    },
+    {
+      "verb": "Grow out of",
+      "def": "Rozwinąć się z czegoś wcześniejszego",
+      "ex": [
+        "Zespół powstał z kółka muzycznego w liceum.",
+        "Nowe prawo powstało z lat skarg.",
+        "Jej firma rozwinęła się z weekendowego hobby."
+      ]
+    },
+    {
+      "verb": "Give up",
+      "def": "Przestać całkowicie czegoś używać",
+      "ex": [
+        "W zeszłym roku całkowicie zrezygnował z gazowanych napojów.",
+        "Zrezygnowała z samochodu i teraz jeździ na rowerze.",
+        "Nigdy nie mogłabym zrezygnować z porannej kawy."
+      ]
+    },
+    {
+      "verb": "Slow down",
+      "def": "Żyć w spokojniejszym tempie",
+      "ex": [
+        "Po operacji lekarz kazał mu zwolnić tempo.",
+        "Przenieśliśmy się do małego miasteczka, żeby zwolnić tempo.",
+        "Nauczyła się zwalniać tempo i cieszyć weekendami."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "research firm",
+      "def": "Firma, która zbiera i bada informacje dla klientów",
+      "ex": [
+        "Firma badawcza zapytała 2000 osób o ich nawyki zakupowe.",
+        "Firma badawcza publikuje raport co wiosnę.",
+        "Ona pracuje w firmie badawczej w Chicago."
+      ]
+    },
+    {
+      "word": "consumers",
+      "def": "Ludzie, którzy kupują i używają produktów lub usług",
+      "ex": [
+        "Młodzi konsumenci wydają więcej na doświadczenia niż na ubrania.",
+        "Nowe prawo chroni konsumentów przed ukrytymi opłatami.",
+        "Konsumenci kupują w tym roku mniej nowych samochodów."
+      ]
+    },
+    {
+      "word": "ordinary life",
+      "def": "Zwykłe codzienne życie, a nie wyjątkowe okazje",
+      "ex": [
+        "Znajduje piękno w codziennym życiu, na przykład w spacerze do sklepu.",
+        "Po podróży był zadowolony, że wraca do codziennego życia.",
+        "Zdjęcia pokazują codzienne życie w małym miasteczku rybackim."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Godziny spędzone na patrzeniu w telefony, komputery lub telewizory",
+      "ex": [
+        "Lekarze zalecają mniej czasu przed ekranem dla małych dzieci.",
+        "Mój telefon śledzi mój czas przed ekranem co tydzień.",
+        "Zbyt duża ilość czasu przed ekranem może utrudniać zasypianie."
+      ]
+    },
+    {
+      "word": "in person",
+      "def": "Fizycznie obecny, a nie online lub przez telefon",
+      "ex": [
+        "Miło było w końcu spotkać ją osobiście.",
+        "Zajęcia odbywają się osobiście dwa razy w tygodniu.",
+        "Musisz podpisać formularz osobiście w biurze."
+      ]
+    },
+    {
+      "word": "present",
+      "def": "Poświęcanie pełnej uwagi chwili, w której się jest",
+      "ex": [
+        "Staraj się być obecny, gdy jesteś ze swoimi dziećmi.",
+        "Poczuł się bardziej obecny, gdy wyłączył telefon.",
+        "Joga pomaga jej być obecną i spokojną."
+      ]
+    },
+    {
+      "word": "findings",
+      "def": "Wyniki badania lub śledztwa",
+      "ex": [
+        "Wyniki zostały opublikowane w czasopiśmie medycznym.",
+        "Jej wyniki zaskoczyły cały zespół.",
+        "Wyniki raportu pokazują wzrost liczby osób chodzących pieszo do pracy."
+      ]
+    },
+    {
+      "word": "survey",
+      "def": "Zestaw pytań zadawanych wielu ludziom, by poznać ich opinie",
+      "ex": [
+        "Ankieta zapytała 1000 dorosłych o sen.",
+        "Proszę wypełnić ankietę po wizycie.",
+        "Nowa ankieta pokazuje, że większość ludzi chce krótszych tygodni pracy."
+      ]
+    },
+    {
+      "word": "intentionally",
+      "def": "Celowo, nie przez przypadek",
+      "ex": [
+        "Celowo zostawiła telefon w domu.",
+        "Celowo przyszedł wcześniej, żeby zająć dobre miejsce.",
+        "Sklep celowo utrzymuje niskie ceny."
+      ]
+    },
+    {
+      "word": "baby boomers",
+      "def": "Amerykanie urodzeni między 1946 a 1964 rokiem",
+      "ex": [
+        "Wielu przedstawicieli wyżu demograficznego teraz przechodzi na emeryturę.",
+        "Pokolenie wyżu demograficznego dorastało bez internetu.",
+        "Ankieta porównała pokolenie wyżu demograficznego z młodszymi dorosłymi."
+      ]
+    },
+    {
+      "word": "negative effect",
+      "def": "Szkodliwy skutek",
+      "ex": [
+        "Słaby sen ma negatywny wpływ na pamięć.",
+        "Strajk miał negatywny wpływ na linię lotniczą.",
+        "Hałas może mieć negatywny wpływ na naukę dzieci."
+      ]
+    },
+    {
+      "word": "reward",
+      "def": "Dać coś dobrego komuś za to, co zrobił",
+      "ex": [
+        "Linia lotnicza nagradza stałych pasażerów darmowymi podróżami.",
+        "Rodzice często nagradzają dobre oceny małym prezentem.",
+        "Aplikacja nagradza użytkowników, którzy przechodzą 10 000 kroków dziennie."
+      ]
+    },
+    {
+      "word": "pouches",
+      "def": "Małe miękkie torebki, które zamykają się u góry",
+      "ex": [
+        "Personel koncertu włożył telefony do zamkniętych woreczków.",
+        "Trzyma monety w małym skórzanym woreczku.",
+        "Kangur nosi swoje młode w torbie."
+      ]
+    },
+    {
+      "word": "gatherings",
+      "def": "Wydarzenia, na których spotyka się grupa ludzi",
+      "ex": [
+        "Klub biegowy organizuje spotkania w każdą sobotę.",
+        "Poznała swojego wspólnika biznesowego na małym spotkaniu dla pracowników technologii.",
+        "Spotkania przy grach planszowych są popularne w tym mieście."
+      ]
+    },
+    {
+      "word": "heavy",
+      "def": "Bardzo częsty lub w dużych ilościach",
+      "ex": [
+        "Intensywne korzystanie z mediów społecznościowych może wpływać na sen.",
+        "W tym mieście rano jest duży ruch.",
+        "On pije dużo kawy."
+      ]
+    },
+    {
+      "word": "psychology professor",
+      "def": "Nauczyciel akademicki, który bada, jak działa umysł",
+      "ex": [
+        "Profesor psychologii wyjaśnił, dlaczego ludzie zapominają imiona.",
+        "Ten profesor psychologii bada, jak uczą się dzieci.",
+        "Została profesorem psychologii w wieku 35 lat."
+      ]
+    },
+    {
+      "word": "followers",
+      "def": "Ludzie, którzy wybierają, by widzieć czyjeś posty w mediach społecznościowych",
+      "ex": [
+        "Ten szef kuchni ma dwa miliony obserwujących na Instagramie.",
+        "Straciła obserwujących po długiej przerwie.",
+        "Obserwujący muzeum głosują na następną wystawę."
+      ]
+    },
+    {
+      "word": "within reach",
+      "def": "Wystarczająco blisko, by łatwo to zdobyć lub tym się cieszyć",
+      "ex": [
+        "Trzymaj szklankę wody w zasięgu ręki na noc.",
+        "Dzięki nowemu pociągowi plaża jest w zasięgu jednodniowej wycieczki.",
+        "Cel jest wreszcie w zasięgu."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Raport mówi, że pokolenie Z ograniczyło tego lata czas przed ekranem.",
+      "a": true,
+      "why": "Sierpniowy raport firmy badawczej z 20 sierpnia mówi, że ograniczyli czas przed ekranem, pojawiali się na wydarzeniach osobiście i spędzali więcej czasu, spotykając się z przyjaciółmi twarzą w twarz."
+    },
+    {
+      "s": "W badaniu Talker Research 29 procent przedstawicieli pokolenia Z powiedziało, że odkłada telefony.",
+      "a": false,
+      "why": "W badaniu z grudnia 2025 roku 63 procent przedstawicieli pokolenia Z powiedziało, że celowo odkłada telefony; 29 procent to była liczba dla pokolenia wyżu demograficznego."
+    },
+    {
+      "s": "Niektóre restauracje jednej sieci fast food rozdają darmowe lody klientom jedzącym bez telefonu.",
+      "a": true,
+      "why": "Serwis informacyjny doniósł, że niektóre restauracje jednej sieci fast food dają darmowe lody klientom, którzy jedzą bez telefonów."
+    },
+    {
+      "s": "Offline Club powstał w Amsterdamie w 2021 roku.",
+      "a": true,
+      "why": "Grupa, która organizuje spotkania bez telefonów, powstała w Amsterdamie w 2021 roku i teraz organizuje wydarzenia w 19 miastach."
+    },
+    {
+      "s": "Bar w Karolinie Północnej zamyka telefony klientów w woreczkach na całą noc.",
+      "a": false,
+      "why": "Firmy zauważyły tę zmianę, a bar zamyka telefony w woreczkach na dwie godziny, a nie na całą noc."
+    },
+    {
+      "s": "Offline Club ma mniej niż 10 000 obserwujących na Instagramie.",
+      "a": false,
+      "why": "Grupa ma prawie 600 000 obserwujących na Instagramie, co pokazuje, że ten trend nie oznacza całkowitej rezygnacji z telefonów."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Firma badawcza zajmująca się młodzieżą twierdzi, że pokolenie Z podjęło tego lata świadomy wysiłek, by mniej korzystać z telefonów i cieszyć się prawdziwym życiem. Badania i nowe firmy działające bez telefonów pokazują tę samą zmianę wśród młodych Amerykanów.",
+      "a": true,
+      "why": "Firma badawcza zajmująca się młodzieżą podała, że pokolenie Z ograniczyło czas przed ekranem i pojawiało się osobiście, a badania firmy sondażowej, Talker Research i Pew pokazują podobny wzorzec."
+    },
+    {
+      "s": "Młodzi Amerykanie odłożyli tego lata telefony, ponieważ restauracje i bary w wielu stanach teraz je zakazują. Firma badawcza zajmująca się młodzieżą twierdzi, że nowe zasady skłoniły pokolenie Z do większej obecności.",
+      "a": false,
+      "why": "Blisko, ale zmiana zaczęła się od samych młodych ludzi; firmy zauważyły to później i dodały ograniczenia oraz nagrody dotyczące telefonów."
+    },
+    {
+      "s": "Nowe badanie wykazało, że nastolatkowie korzystający z mediów społecznościowych ponad cztery godziny dziennie śpią mniej i mają gorsze oceny. Badacze chcą, by szkoły zakazały telefonów w czasie zajęć.",
+      "a": false,
+      "why": "Nie było żadnego badania dotyczącego snu ani ocen, ani żadnego wezwania do zakazów szkolnych. Raport opisywał trend, w którym młodzi ludzie wybierają spędzanie więcej czasu offline."
+    }
+  ],
+  "dialogue": {
+    "That's a new one for me": "Używane, gdy słyszysz o słowie lub pomyśle po raz pierwszy",
+    "Sounds like a normal summer to me": "Używane, by powiedzieć, że coś przedstawione jako wyjątkowe jest w rzeczywistości zwyczajne",
+    "I'd do it for the ice cream alone": "Używane, by powiedzieć, że jedna mała nagroda wystarczy jako powód, by dołączyć",
+    "There's some irony in that": "Używane, by zwrócić uwagę, że sytuacja jest przeciwieństwem tego, czego można by się spodziewać",
+    "I'm all for that": "Używane, by powiedzieć, że popiera się jakiś pomysł"
+  }
+}

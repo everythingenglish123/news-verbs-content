@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "it",
+  "headline": "Pinguini feriti in Cile indossano gilet di rame",
+  "chunks": [
+    "Ricercatori in Cile stanno provando gilet rossi aderenti su pinguini di Humboldt feriti. Il tessuto è intessuto con rame e zinco, il che potrebbe aiutare le ferite a guarire più in fretta. I veterinari usano tute simili su cani e gatti, e un team cileno ha creato una versione per pinguini. \"Abbiamo iniziato a chiederci perché non si potesse usare anche sui pinguini\", ha detto il direttore di uno zoo vicino a Santiago all'agenzia The Associated Press il 2 settembre 2026.",
+    "Un centro di soccorso senza scopo di lucro nel nord del Cile accoglie pinguini spiaggiati provenienti dalla costa. Alcuni sono feriti da reti da pesca o eliche di barche, e altri sono deboli per la fame, ha detto la veterinaria che dirige il programma. I pinguini torcono il collo per beccare le ferite e togliersi i punti, e le fasciature dovevano essere cambiate ogni giorno. Il personale toglie il gilet per la cura e lo rimette in fretta, il che riduce il contatto diretto con gli uccelli.",
+    "Il rame e lo zinco frenano batteri e funghi, e lo zinco aiuta a formare nuovi vasi sanguigni, così il tessuto danneggiato guarisce più in fretta. Il Cile è il maggior produttore di rame al mondo. Il produttore cileno vende una versione per animali domestici in più di 40 paesi. Le tute fatte per animali domestici a quattro zampe tendono a scivolare verso il basso su un uccello che sta eretto, quindi i progettisti hanno misurato pinne, colli e code e testato prototipi allo zoo prima di inviarli al centro di soccorso.",
+    "I pinguini di Humboldt del Cile, una specie vulnerabile, stanno diminuendo drasticamente. Rilevamenti delle principali colonie riproduttive nel 2024 e 2025 hanno trovato il 63 percento in meno di nidi attivi rispetto a tre anni prima. El Niño riscalda il mare e allontana i pesci di cui si nutrono, così i genitori lasciano indietro i pulcini per andare a caccia. La veterinaria ha detto che gli uccelli hanno sopportato bene i gilet e le ferite sembravano migliori entro un giorno, ma il team non ha ancora dimostrato che i gilet accelerino la guarigione."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Provare qualcosa per vedere come funziona",
+      "wrong": "Indossare vestiti per controllare la taglia"
+    },
+    {
+      "base": "heal up",
+      "correct": "Tornare di nuovo in salute",
+      "wrong": "Chiudere qualcosa molto stretto"
+    },
+    {
+      "base": "come up with",
+      "correct": "Pensare a un'idea o a un piano",
+      "wrong": "Incontrare un problema difficile"
+    },
+    {
+      "base": "take in",
+      "correct": "Accogliere qualcuno e prendersene cura",
+      "wrong": "Prendere il controllo di un luogo"
+    },
+    {
+      "base": "pull out",
+      "correct": "Togliere qualcosa tirandolo",
+      "wrong": "Guarire da una malattia grave"
+    },
+    {
+      "base": "take off",
+      "correct": "Togliersi qualcosa che si indossa",
+      "wrong": "Prendersi cura di un animale malato"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Ridurre la quantità di qualcosa",
+      "wrong": "Separare qualcuno dagli altri"
+    },
+    {
+      "base": "hold back",
+      "correct": "Impedire a qualcosa di diffondersi",
+      "wrong": "Tenere qualcosa caldo e asciutto"
+    },
+    {
+      "base": "slip down",
+      "correct": "Scivolare verso una posizione più bassa",
+      "wrong": "Fare un piccolo errore di distrazione"
+    },
+    {
+      "base": "send off",
+      "correct": "Spedire qualcosa in un luogo",
+      "wrong": "Restituire qualcosa a chi lo ha fatto"
+    },
+    {
+      "base": "drive away",
+      "correct": "Costringere qualcosa ad andarsene",
+      "wrong": "Far salire qualcosa molto in fretta"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Andare da qualche parte senza portare qualcuno",
+      "wrong": "Non includere qualcosa in un gruppo di persone"
+    },
+    {
+      "base": "put up with",
+      "correct": "Accettare qualcosa senza lamentarsi",
+      "wrong": "Vestire un animale con dei vestiti"
+    },
+    {
+      "base": "speed up",
+      "correct": "Far succedere qualcosa più in fretta",
+      "wrong": "Usare completamente qualcosa"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Provare qualcosa per vedere come funziona",
+      "ex": [
+        "La scuola sta provando un nuovo orario questo autunno.",
+        "Voglio provare la bici prima di comprarla.",
+        "Hanno provato tre ricette per la festa."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Tornare di nuovo in salute",
+      "ex": [
+        "Il taglio sulla mia mano è guarito in pochi giorni.",
+        "Dai tempo alla scottatura per guarire.",
+        "La sua caviglia è guarita prima dell'inizio della stagione."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Pensare a un'idea o a un piano",
+      "ex": [
+        "Ha pensato a un nome fantastico per la squadra.",
+        "Dobbiamo pensare a un piano entro venerdì.",
+        "Ha avuto l'idea sotto la doccia."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Accogliere qualcuno e prendersene cura",
+      "ex": [
+        "Il rifugio accoglie cani senza casa.",
+        "Hanno accolto due studenti dall'estero.",
+        "L'ospedale ha accolto decine di pazienti dopo la tempesta."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Togliere qualcosa tirandolo",
+      "ex": [
+        "Il dentista mi ha tolto il dente del giudizio.",
+        "Ha tolto una scheggia con le pinzette.",
+        "Ha tolto le erbacce lungo il recinto."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Togliersi qualcosa che si indossa",
+      "ex": [
+        "Togliti il cappotto e siediti.",
+        "Si è tolto gli occhiali per leggere il cartello.",
+        "L'infermiera ha tolto la vecchia fasciatura."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Ridurre la quantità di qualcosa",
+      "ex": [
+        "Sto cercando di ridurre lo zucchero.",
+        "La città vuole ridurre il traffico in centro.",
+        "Abbiamo ridotto le stampe per risparmiare carta."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Impedire a qualcosa di diffondersi",
+      "ex": [
+        "I sacchi di sabbia hanno trattenuto l'acqua dell'alluvione.",
+        "Il farmaco frena l'infezione.",
+        "La polizia ha trattenuto la folla al cancello."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Scivolare verso una posizione più bassa",
+      "ex": [
+        "I miei calzini scivolano sempre dentro gli stivali.",
+        "La bretella le è scivolata giù dalla spalla.",
+        "Il cappellino del bambino gli è scivolato sugli occhi."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Spedire qualcosa in un luogo",
+      "ex": [
+        "Ha spedito il pacco lunedì.",
+        "Abbiamo spedito i campioni al laboratorio.",
+        "Ha spedito la sua candidatura la settimana scorsa."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Costringere qualcosa ad andarsene",
+      "ex": [
+        "Il rumore ha allontanato gli uccelli dal giardino.",
+        "I prezzi alti hanno allontanato molti clienti.",
+        "L'acqua calda allontana i pesci."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Andare da qualche parte senza portare qualcuno",
+      "ex": [
+        "La famiglia ha lasciato indietro il cane quando ha traslocato.",
+        "Ha lasciato il fratellino ed è andata al parco.",
+        "L'autobus ha lasciato indietro tre passeggeri."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Accettare qualcosa senza lamentarsi",
+      "ex": [
+        "Non riesco più a sopportare questo rumore.",
+        "Ha sopportato il dolore per settimane.",
+        "Il cane ha sopportato il bagno senza lamentarsi."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Far succedere qualcosa più in fretta",
+      "ex": [
+        "La nuova strada accelera il viaggio verso l'aeroporto.",
+        "Il clima caldo accelera la crescita delle piante.",
+        "Un computer più veloce ha accelerato il nostro lavoro."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Aderente e comodo intorno al corpo",
+      "ex": [
+        "La giacca era aderente sulle spalle.",
+        "Il bambino era ben avvolto nella sua coperta.",
+        "Questi stivali sono aderenti ma non stretti."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Fatto incrociando fili sopra e sotto l'uno all'altro",
+      "ex": [
+        "Il cesto è intessuto con sottili strisce di legno.",
+        "Un filo d'argento è stato intessuto nel vestito.",
+        "Il tappeto è stato tessuto a mano in Perù."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Lesioni in cui la pelle è tagliata o strappata",
+      "ex": [
+        "L'infermiera ha pulito le ferite sul suo braccio.",
+        "Le ferite profonde possono richiedere punti.",
+        "Il cane si è leccato la ferita sulla zampa."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Lasciato in un posto e incapace di muoversi o andarsene",
+      "ex": [
+        "I soccorritori hanno trovato una balena spiaggiata sulla riva.",
+        "La tempesta ha lasciato centinaia di viaggiatori bloccati in aeroporto.",
+        "Una foca spiaggiata è stata riportata in acqua."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Grandi reti usate per pescare in mare",
+      "ex": [
+        "Le vecchie reti da pesca possono intrappolare tartarughe e uccelli.",
+        "L'equipaggio ha riparato le reti da pesca sulla banchina.",
+        "I sommozzatori hanno rimosso le reti da pesca dalla barriera corallina."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Pale rotanti che spingono in avanti una barca o un aereo",
+      "ex": [
+        "Le eliche delle barche possono ferire gli animali marini.",
+        "L'aereo ha due eliche su ogni ala.",
+        "Delle alghe sono rimaste incastrate nell'elica."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Che lavora per aiutare persone o animali, non per guadagnare denaro",
+      "ex": [
+        "Dirige un'organizzazione senza scopo di lucro che nutre famiglie senza casa.",
+        "L'organizzazione senza scopo di lucro dipende dalle donazioni.",
+        "Un gruppo senza scopo di lucro ha piantato alberi nel parco."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Un luogo dove gli animali vengono salvati e curati",
+      "ex": [
+        "Il centro di soccorso ha accolto tre cuccioli di foca.",
+        "I volontari del centro di soccorso danno da mangiare agli uccelli due volte al giorno.",
+        "La tartaruga è stata rilasciata dal centro di soccorso a maggio."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Colpire o mordere qualcosa con il becco",
+      "ex": [
+        "Le galline beccano semi a terra.",
+        "Il pappagallo mi ha beccato il dito.",
+        "Un picchio becca buchi negli alberi."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Fili che un medico usa per chiudere un taglio",
+      "ex": [
+        "Ha avuto bisogno di sei punti al mento.",
+        "Il medico ha tolto i punti dopo dieci giorni.",
+        "Non bagnare i punti."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Strisce di stoffa avvolte intorno a una ferita",
+      "ex": [
+        "L'infermiera cambiava le fasciature ogni mattina.",
+        "Tieni la fasciatura pulita e asciutta.",
+        "Si è avvolto una fasciatura intorno al ginocchio."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Tubi che trasportano il sangue nel corpo",
+      "ex": [
+        "L'esercizio mantiene sani i tuoi vasi sanguigni.",
+        "Minuscoli vasi sanguigni portano ossigeno alla pelle.",
+        "Il taglio ha danneggiato diversi piccoli vasi sanguigni."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "Il materiale di cui sono fatte le parti di un corpo",
+      "ex": [
+        "L'ustione ha danneggiato il tessuto sotto la pelle.",
+        "Il tessuto muscolare si ripara da solo dopo l'esercizio.",
+        "I medici hanno rimosso il tessuto danneggiato."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "In piedi, non sdraiato",
+      "ex": [
+        "I pinguini camminano eretti su due zampe.",
+        "Tieni la bottiglia dritta perché non si rovesci.",
+        "Si è seduto dritto quando è entrato l'insegnante."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Gli arti piatti che pinguini e foche usano per nuotare",
+      "ex": [
+        "Il pinguino ha sbattuto le pinne ed è tuffato.",
+        "Le foche usano le loro pinne per muoversi a terra.",
+        "Le pinne della tartaruga erano impigliate in una rete."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Le prime versioni di un prodotto realizzate per essere testate",
+      "ex": [
+        "L'azienda ha costruito tre prototipi della nuova auto.",
+        "Gli ingegneri hanno testato il prototipo per un mese.",
+        "I primi prototipi erano troppo pesanti."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Un tipo di animale o pianta a rischio di estinzione",
+      "ex": [
+        "L'orso polare è elencato come specie vulnerabile.",
+        "Le leggi proteggono le specie vulnerabili dalla caccia.",
+        "Gli scienziati monitorano le specie vulnerabili con etichette."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Luoghi dove molti animali si radunano per avere i loro piccoli",
+      "ex": [
+        "Migliaia di uccelli marini tornano alle colonie riproduttive ogni primavera.",
+        "L'isola ospita una delle più grandi colonie riproduttive di foche.",
+        "I turisti non possono entrare nella colonia riproduttiva."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Nidi che gli uccelli usano per allevare i loro piccoli",
+      "ex": [
+        "I guardiani hanno contato 200 nidi attivi sulla scogliera.",
+        "Il numero di nidi attivi è diminuito dopo la tempesta.",
+        "Ogni nido attivo conteneva due uova."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "I gilet sono rossi e contengono rame e zinco.",
+      "a": true,
+      "why": "Ricercatori in Cile stanno provando gilet rossi aderenti il cui tessuto è intessuto con rame e zinco."
+    },
+    {
+      "s": "I pinguini sono stati misurati per i primi gilet al centro di soccorso.",
+      "a": false,
+      "why": "I ricercatori hanno misurato i pinguini in uno zoo vicino a Santiago, e i prototipi sono stati inviati al centro di soccorso in seguito."
+    },
+    {
+      "s": "Lo zinco nel tessuto aiuta a formare nuovi vasi sanguigni.",
+      "a": true,
+      "why": "Il rame e lo zinco frenano batteri e funghi, e lo zinco aiuta a formare nuovi vasi sanguigni così il tessuto danneggiato guarisce più in fretta."
+    },
+    {
+      "s": "Il team ha dimostrato che i gilet accelerano la guarigione.",
+      "a": false,
+      "why": "La veterinaria ha detto che gli uccelli hanno sopportato bene i gilet e le ferite sembravano migliori entro un giorno, ma il team non ha ancora dimostrato che i gilet accelerino la guarigione."
+    },
+    {
+      "s": "I rilevamenti hanno trovato il 63 percento in meno di nidi attivi rispetto a tre anni prima.",
+      "a": true,
+      "why": "Rilevamenti delle principali colonie riproduttive nel 2024 e 2025 hanno trovato il 63 percento in meno di nidi attivi, ed El Niño allontana i pesci di cui si nutrono i pinguini."
+    },
+    {
+      "s": "Prima dei gilet, le fasciature dei pinguini venivano cambiate una volta a settimana.",
+      "a": false,
+      "why": "I pinguini beccano le ferite e si tolgono i punti, e le fasciature dovevano essere cambiate ogni giorno."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Ricercatori cileni stanno testando gilet rossi intessuti con rame e zinco su pinguini di Humboldt feriti. I gilet impediscono agli uccelli di togliersi i punti e potrebbero aiutare le ferite a chiudersi più in fretta.",
+      "a": true,
+      "why": "I gilet sono stati adattati da tute per animali domestici, e il rame e lo zinco nel tessuto frenano i batteri mentre l'indumento impedisce ai pinguini di togliersi i punti."
+    },
+    {
+      "s": "I centri di soccorso in Cile hanno dimostrato che i gilet di rame guariscono le ferite dei pinguini due volte più in fretta delle fasciature. Le tute, fatte prima per cani e gatti, ora vengono vendute a zoo in 40 paesi.",
+      "a": false,
+      "why": "Quasi, ma il team non ha ancora dimostrato che i gilet accelerino la guarigione, ed è la versione per animali domestici della tuta a essere venduta in più di 40 paesi."
+    },
+    {
+      "s": "Scienziati in Cile hanno contato i pinguini di Humboldt del paese e hanno trovato il 63 percento di uccelli in meno rispetto al 2021. Danno la colpa alle reti da pesca e alla plastica e vogliono nuove aree protette lungo la costa.",
+      "a": false,
+      "why": "La cifra del 63 percento è un calo dei nidi attivi nelle colonie riproduttive, e la notizia riguarda gilet testati su pinguini feriti, non un piano per aree protette."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Usato per dire che qualcosa sembra così simpatico o buffo che si desidera davvero vederlo",
+    "Poor things": "Usato per mostrare compassione verso animali o persone che soffrono",
+    "That figures": "Usato per dire che qualcosa ha senso una volta conosciuti i fatti",
+    "Too soon to say": "Usato per dire che non ci sono ancora prove sufficienti per giudicare qualcosa",
+    "Every little bit helps": "Usato per dire che anche un piccolo contributo o miglioramento è utile"
+  }
+}

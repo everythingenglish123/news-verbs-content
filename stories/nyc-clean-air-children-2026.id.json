@@ -1,0 +1,424 @@
+{
+  "id": "nyc-clean-air-children-2026",
+  "number": 106,
+  "lang": "id",
+  "headline": "Udara New York yang lebih bersih dikaitkan dengan skor anak balita yang lebih tinggi",
+  "chunks": [
+    "Anak-anak di Kota New York mendapat skor lebih tinggi pada tes perkembangan mental dini seiring udara yang dihirup ibu mereka selama kehamilan menjadi lebih bersih, menurut laporan Universitas Columbia. Studi ini terbit di jurnal Environmental Health pada 15 Agustus 2026. Tim peneliti mengikuti lebih dari 1.000 pasangan ibu dan anak yang mendaftar antara 1998 dan 2020 di Manhattan Utara dan Bronx Selatan, dua wilayah berpenghasilan rendah tempat anak-anak itu tumbuh besar.",
+    "Columbia menyebut partikel halus turun 32 persen dan nitrogen dioksida turun 30 persen dari 1998 hingga 2016. Sekelompok bahan kimia berbahaya dari pembakaran bahan bakar fosil turun 60 persen dari 1998 hingga 2020. Ibu hamil memakai alat pemantau di dalam tas ransel untuk mengukur bahan kimia tersebut, dan polutan lain diperkirakan untuk setiap rumah. Anak-anak dites pada usia 1, 2, dan 3 tahun. Skor pada usia 3 tahun naik 26 persen antara kelompok tertua dan terbaru, setelah tim memperhitungkan pendidikan ibu, jenis kelamin anak, dan kebiasaan merokok di rumah.",
+    "Para peneliti mengaitkan udara yang lebih bersih dengan kebijakan yang diterapkan kota selama tahun-tahun itu. Program Clean Fuel Bus dan undang-undang Clean Air Taxi mengurangi emisi lalu lintas. Program Clean Heat menghapus secara bertahap penggunaan minyak pemanas kotor di gedung-gedung, dan Climate Mobilization Act mewajibkan gedung besar mengurangi gas rumah kaca. \"Kebijakan untuk mengurangi emisi bahan bakar fosil menguntungkan otak yang sedang berkembang,\" kata profesor Columbia yang memimpin studi ini, sambil menambahkan bahwa hasilnya mendukung upaya mempertahankan pengurangan tersebut.",
+    "Tim peneliti bertekad menguji apakah udara yang lebih bersih akibat kebijakan-kebijakan ini terkait dengan skor kognitif yang lebih baik, menjadikannya studi pertama yang melakukan hal itu selama 20 tahun. Studi ini memiliki keterbatasan. Hanya 1.109 dari 1.446 anak yang memiliki hasil tes, sehingga sisanya tidak disertakan. Para penulis juga mencatat bahwa perubahan yang tidak diukur studi ini, seperti pergeseran di lingkungan sekitar, bisa menjelaskan sebagian dari peningkatan tersebut."
+  ],
+  "verbs": [
+    {
+      "base": "come out",
+      "correct": "Diterbitkan dalam sebuah jurnal",
+      "wrong": "Disebutkan dalam sebuah laporan"
+    },
+    {
+      "base": "sign up",
+      "correct": "Mendaftar untuk sebuah studi atau program",
+      "wrong": "Memberikan persetujuan resmi untuk sesuatu"
+    },
+    {
+      "base": "grow up",
+      "correct": "Menghabiskan masa kecil di suatu tempat",
+      "wrong": "Menjadi lebih disukai seiring waktu"
+    },
+    {
+      "base": "go down",
+      "correct": "Turun ke tingkat yang lebih rendah",
+      "wrong": "Berlanjut untuk waktu yang lama"
+    },
+    {
+      "base": "go up",
+      "correct": "Naik ke tingkat yang lebih tinggi",
+      "wrong": "Memeriksa sesuatu dengan saksama"
+    },
+    {
+      "base": "factor in",
+      "correct": "Memasukkan sesuatu ke dalam sebuah perhitungan",
+      "wrong": "Menguji ulang sesuatu untuk kedua kalinya secara saksama"
+    },
+    {
+      "base": "bring in",
+      "correct": "Memperkenalkan undang-undang atau aturan baru",
+      "wrong": "Menyebutkan sebuah topik untuk dibahas"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Mengurangi jumlah sesuatu",
+      "wrong": "Menghentikan pasokan sesuatu"
+    },
+    {
+      "base": "phase out",
+      "correct": "Menghentikan penggunaan sesuatu secara bertahap",
+      "wrong": "Memperkenalkan sesuatu secara bertahap"
+    },
+    {
+      "base": "keep up",
+      "correct": "Melanjutkan pada tingkat yang sama",
+      "wrong": "Mencegah sesuatu untuk masuk ke suatu tempat"
+    },
+    {
+      "base": "set out",
+      "correct": "Memulai sebuah tugas dengan tujuan yang jelas",
+      "wrong": "Menyimpan sesuatu untuk digunakan nanti"
+    },
+    {
+      "base": "leave out",
+      "correct": "Tidak menyertakan sesuatu",
+      "wrong": "Menyimpan sesuatu untuk nanti"
+    },
+    {
+      "base": "point out",
+      "correct": "Memberi tahu orang tentang sebuah fakta",
+      "wrong": "Menjadi tanda yang jelas dari sesuatu"
+    },
+    {
+      "base": "account for",
+      "correct": "Menjadi penyebab dari sesuatu",
+      "wrong": "Mengukur sesuatu secara tepat"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "def": "Diterbitkan dalam sebuah jurnal",
+      "ex": [
+        "Novel pertamanya terbit pada tahun 2019.",
+        "Laporan baru itu akan terbit hari Jumat.",
+        "Studi ini terbit minggu lalu."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "def": "Mendaftar untuk sebuah studi atau program",
+      "ex": [
+        "Saya mendaftar kelas bahasa Spanyol.",
+        "Dua ratus orang mendaftar untuk uji coba itu.",
+        "Kamu bisa mendaftar secara daring dalam beberapa menit."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "def": "Menghabiskan masa kecil di suatu tempat",
+      "ex": [
+        "Dia besar di kota kecil di Texas.",
+        "Orang tua saya besar di dekat laut.",
+        "Anak-anak yang besar di kota melihat lebih sedikit bintang."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Turun ke tingkat yang lebih rendah",
+      "ex": [
+        "Harga turun setelah Tahun Baru.",
+        "Jumlah kecelakaan menurun.",
+        "Demamnya turun pada pagi hari."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Naik ke tingkat yang lebih tinggi",
+      "ex": [
+        "Uang sewa naik setiap tahun.",
+        "Nilai ujiannya naik semester ini.",
+        "Harga tiket naik lagi."
+      ]
+    },
+    {
+      "verb": "Factor in",
+      "def": "Memasukkan sesuatu ke dalam sebuah perhitungan",
+      "ex": [
+        "Perhitungkan pajaknya sebelum kamu memutuskan.",
+        "Rencana itu tidak memperhitungkan cuaca buruk.",
+        "Kami memperhitungkan waktu perjalanan dan berangkat lebih awal."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Memperkenalkan undang-undang atau aturan baru",
+      "ex": [
+        "Kota itu memperkenalkan aturan parkir baru.",
+        "Perusahaan itu memberlakukan aturan berpakaian.",
+        "Para pembuat undang-undang berencana memberlakukan batasan yang lebih ketat."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Mengurangi jumlah sesuatu",
+      "ex": [
+        "Saya perlu mengurangi konsumsi kopi.",
+        "Pabrik itu mengurangi limbahnya.",
+        "Kami mengurangi bepergian dengan mobil untuk menghemat bensin."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Menghentikan penggunaan sesuatu secara bertahap",
+      "ex": [
+        "Maskapai itu menghentikan penggunaan pesawat tuanya secara bertahap.",
+        "Toko itu menghentikan penggunaan kantong plastik secara bertahap.",
+        "Pembangkit batu bara akan dihentikan secara bertahap pada 2035."
+      ]
+    },
+    {
+      "verb": "Keep up",
+      "def": "Melanjutkan pada tingkat yang sama",
+      "ex": [
+        "Dia mempertahankan jalan kaki hariannya sepanjang musim dingin.",
+        "Sulit mempertahankan kebiasaan baik.",
+        "Tim itu mempertahankan tekanan di babak kedua."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "Memulai sebuah tugas dengan tujuan yang jelas",
+      "ex": [
+        "Mereka bertekad membuat mobil yang lebih murah.",
+        "Dia bertekad berlari maraton sebelum usia 40.",
+        "Tim itu bertekad menjawab satu pertanyaan."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "def": "Tidak menyertakan sesuatu",
+      "ex": [
+        "Jangan lewatkan nomor teleponmu di formulir.",
+        "Laporan itu melewatkan dua fakta penting.",
+        "Dia tidak menyertakan gula dalam resepnya."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Memberi tahu orang tentang sebuah fakta",
+      "ex": [
+        "Guru itu menunjukkan sebuah kesalahan dalam esai saya.",
+        "Dia menunjukkan bahwa toko itu tutup pukul enam.",
+        "Izinkan saya menunjukkan satu masalah pada rencana ini."
+      ]
+    },
+    {
+      "verb": "Account for",
+      "def": "Menjadi penyebab dari sesuatu",
+      "ex": [
+        "Lalu lintas menjadi penyebab sebagian besar kebisingan di sini.",
+        "Badai itu menjadi penyebab keterlambatan.",
+        "Stres bisa menjadi penyebab sakit kepalanya."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "mental development",
+      "def": "Pertumbuhan kemampuan seorang anak untuk berpikir, belajar, dan memahami",
+      "ex": [
+        "Bermain penting untuk perkembangan mental anak.",
+        "Dokter memeriksa perkembangan mental pada setiap kunjungan.",
+        "Gizi yang baik mendukung perkembangan mental."
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "def": "Masa ketika seorang wanita mengandung bayi di dalam tubuhnya",
+      "ex": [
+        "Dia berhenti minum kopi selama kehamilannya.",
+        "Dokter mendampinginya sepanjang masa kehamilan.",
+        "Merokok selama kehamilan bisa membahayakan bayi."
+      ]
+    },
+    {
+      "word": "journal",
+      "def": "Sebuah majalah tempat ilmuwan menerbitkan penelitian mereka",
+      "ex": [
+        "Makalah itu terbit di sebuah jurnal medis.",
+        "Jurnal itu menerbitkan studi baru setiap bulan.",
+        "Para ahli meninjau setiap artikel sebelum jurnal itu menerbitkannya."
+      ]
+    },
+    {
+      "word": "low-income",
+      "def": "Memiliki sedikit uang dibandingkan kebanyakan orang",
+      "ex": [
+        "Program ini membantu keluarga berpenghasilan rendah membayar biaya pemanas.",
+        "Banyak lingkungan berpenghasilan rendah memiliki lebih sedikit taman.",
+        "Klinik itu menawarkan perawatan gratis untuk pasien berpenghasilan rendah."
+      ]
+    },
+    {
+      "word": "pollutants",
+      "def": "Zat yang membuat udara, air, atau tanah kotor atau berbahaya",
+      "ex": [
+        "Mobil melepaskan polutan ke udara.",
+        "Sungai itu membawa polutan dari pabrik.",
+        "Masker bisa menahan sebagian polutan."
+      ]
+    },
+    {
+      "word": "fine particles",
+      "def": "Partikel debu atau asap yang sangat kecil di udara yang bisa masuk ke paru-paru",
+      "ex": [
+        "Asap kebakaran hutan penuh dengan partikel halus.",
+        "Partikel halus dari lalu lintas bisa mencapai paru-paru.",
+        "Alat pemantau itu menghitung partikel halus di udara."
+      ]
+    },
+    {
+      "word": "harmful chemicals",
+      "def": "Zat yang bisa merusak kesehatan",
+      "ex": [
+        "Beberapa produk pembersih mengandung bahan kimia berbahaya.",
+        "Pabrik itu melepaskan bahan kimia berbahaya ke sungai.",
+        "Asap rokok mengandung puluhan bahan kimia berbahaya."
+      ]
+    },
+    {
+      "word": "fossil fuels",
+      "def": "Batu bara, minyak, dan gas alam, yang dibakar untuk energi",
+      "ex": [
+        "Sebagian besar truk masih menggunakan bahan bakar fosil.",
+        "Membakar bahan bakar fosil memanaskan planet ini.",
+        "Kota itu ingin menggunakan lebih sedikit bahan bakar fosil pada tahun 2040."
+      ]
+    },
+    {
+      "word": "monitors",
+      "def": "Alat yang mengukur dan mencatat sesuatu dari waktu ke waktu",
+      "ex": [
+        "Alat pemantau di atap melacak tingkat polusi.",
+        "Perawat memasang alat pemantau jantung pada pasien.",
+        "Alat pemantau kecil di dalam ransel mengukur udara."
+      ]
+    },
+    {
+      "word": "estimated",
+      "def": "Dihitung secara kasar, bukan diukur secara tepat",
+      "ex": [
+        "Biaya perkiraan jembatan itu adalah 2 miliar dolar.",
+        "Polisi memperkirakan jumlah kerumunan sekitar 5.000 orang.",
+        "Waktu kedatangannya diperkirakan pukul 18.00."
+      ]
+    },
+    {
+      "word": "legislation",
+      "def": "Sebuah undang-undang atau kumpulan undang-undang yang dibuat oleh pemerintah",
+      "ex": [
+        "Undang-undang baru itu melarang merokok di taman.",
+        "Kongres mengesahkan undang-undang tentang air bersih.",
+        "Undang-undang itu mulai berlaku pada bulan Januari."
+      ]
+    },
+    {
+      "word": "traffic emissions",
+      "def": "Gas dan partikel yang dikeluarkan oleh mobil, truk, dan bus",
+      "ex": [
+        "Emisi lalu lintas paling buruk saat jam sibuk.",
+        "Kota itu mengukur emisi lalu lintas di jalan-jalan utama.",
+        "Bus listrik tidak menghasilkan emisi lalu lintas."
+      ]
+    },
+    {
+      "word": "heating oil",
+      "def": "Minyak yang dibakar di sebuah gedung untuk menjaganya tetap hangat",
+      "ex": [
+        "Banyak gedung tua masih membakar minyak pemanas.",
+        "Harga minyak pemanas naik pada musim dingin.",
+        "Truk itu mengantarkan minyak pemanas ke gedung apartemen."
+      ]
+    },
+    {
+      "word": "greenhouse gases",
+      "def": "Gas seperti karbon dioksida yang menahan panas di atmosfer",
+      "ex": [
+        "Mobil dan pembangkit listrik menghasilkan gas rumah kaca.",
+        "Undang-undang itu bertujuan memangkas separuh gas rumah kaca.",
+        "Sapi juga melepaskan gas rumah kaca."
+      ]
+    },
+    {
+      "word": "cognitive scores",
+      "def": "Hasil dari tes berpikir, ingatan, dan belajar",
+      "ex": [
+        "Tidur meningkatkan skor kognitif anak-anak.",
+        "Skor kognitif pasien diperiksa setiap tahun.",
+        "Paparan timbal menurunkan skor kognitif."
+      ]
+    },
+    {
+      "word": "shifts",
+      "def": "Perubahan dari satu keadaan ke keadaan lain",
+      "ex": [
+        "Ada pergeseran besar dalam cara orang berbelanja.",
+        "Survei itu menunjukkan pergeseran dalam opini publik.",
+        "Perubahan kecil pada suhu bisa merusak tanaman."
+      ]
+    },
+    {
+      "word": "gains",
+      "def": "Peningkatan atau kenaikan",
+      "ex": [
+        "Para siswa membuat kemajuan besar dalam membaca.",
+        "Perusahaan itu melaporkan kenaikan dalam penjualan.",
+        "Kenaikan kecil setiap hari bertambah menjadi hasil yang besar."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Bahan kimia dari pembakaran bahan bakar fosil turun 60 persen pada 2020.",
+      "a": true,
+      "why": "Columbia melaporkan bahwa bahan kimia berbahaya dari pembakaran bahan bakar fosil turun 60 persen dari 1998 hingga 2020, sementara partikel halus dan nitrogen dioksida turun sekitar 30 persen."
+    },
+    {
+      "s": "Anak-anak dites pada usia 5, 6, dan 7 tahun.",
+      "a": false,
+      "why": "Anak-anak mengikuti tes standar pada usia 1, 2, dan 3 tahun, dan skor pada usia 3 tahun naik 26 persen dari kelompok tertua ke kelompok terbaru."
+    },
+    {
+      "s": "Lebih dari 1.000 pasangan ibu dan anak mendaftar untuk studi ini.",
+      "a": true,
+      "why": "Mereka mendaftar antara 1998 dan 2020 di Manhattan Utara dan Bronx Selatan, dan ibu hamil memakai alat pemantau di dalam tas ransel untuk mengukur bahan kimia tersebut."
+    },
+    {
+      "s": "Program Clean Heat menghapus secara bertahap penggunaan minyak pemanas kotor di gedung-gedung.",
+      "a": true,
+      "why": "Program Clean Heat menghapus secara bertahap penggunaan minyak pemanas kotor, dan Climate Mobilization Act mewajibkan gedung besar mengurangi gas rumah kaca."
+    },
+    {
+      "s": "Studi ini terbit di jurnal Science pada 15 Agustus 2026.",
+      "a": false,
+      "why": "Studi ini terbit di jurnal Environmental Health pada 15 Agustus 2026, dari para peneliti Universitas Columbia."
+    },
+    {
+      "s": "Seluruh 1.446 anak dalam studi ini memiliki hasil tes.",
+      "a": false,
+      "why": "Hanya 1.109 dari 1.446 anak yang memiliki hasil tes, sehingga sisanya tidak disertakan dalam analisis."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Para peneliti mengikuti keluarga di Kota New York selama lebih dari 20 tahun seiring polusi dari lalu lintas dan pemanas menurun. Udara yang lebih bersih selama kehamilan dikaitkan dengan skor perkembangan dini yang lebih tinggi pada anak-anak.",
+      "a": true,
+      "why": "Lebih dari 1.000 pasangan ibu dan anak diikuti dari 1998 hingga 2020, dan skor pada usia 3 tahun naik 26 persen seiring partikel halus, nitrogen dioksida, dan bahan kimia dari bahan bakar fosil menurun."
+    },
+    {
+      "s": "Sebuah studi selama 20 tahun menemukan bahwa anak-anak di Kota New York mendapat skor lebih tinggi pada tes perkembangan seiring polusi udara menurun. Para peneliti mengatakan udara yang lebih bersih terutama berasal dari penutupan pabrik-pabrik tua.",
+      "a": false,
+      "why": "Hampir benar, tetapi para peneliti mengaitkan udara yang lebih bersih dengan kebijakan kota tentang bus, taksi, minyak pemanas, dan emisi gedung, bukan penutupan pabrik."
+    },
+    {
+      "s": "Kota New York mengesahkan undang-undang yang mewajibkan setiap bus sekolah beroperasi dengan listrik pada 2035. Pejabat kesehatan mengatakan perubahan ini akan melindungi anak-anak dari asap knalpot berbahaya selama perjalanan harian mereka.",
+      "a": false,
+      "why": "Tidak ada undang-undang bus sekolah baru. Studi ini meneliti kebijakan yang disahkan antara 1998 dan 2020 serta bagaimana skor tes anak-anak berubah seiring udara menjadi lebih bersih."
+    }
+  ],
+  "dialogue": {
+    "Those are real numbers": "Digunakan untuk mengatakan bahwa suatu perubahan atau jumlah cukup besar untuk berarti, bukan kecil atau kabur",
+    "Good news for once": "Digunakan untuk menyambut sebuah kabar positif setelah banyak kabar buruk",
+    "Credit where it's due": "Digunakan untuk mengakui bahwa seseorang pantas mendapat pujian, meskipun biasanya kamu tidak memujinya",
+    "Points for saying so": "Digunakan untuk memberi apresiasi kepada seseorang yang secara terbuka mengakui kelemahan atau masalah alih-alih menyembunyikannya",
+    "Hard to argue with": "Digunakan untuk mengatakan bahwa bukti atau hasilnya begitu jelas sehingga tak ada yang bisa membantahnya secara wajar",
+    "Is there a catch?": "Digunakan untuk menanyakan apakah sesuatu yang terdengar bagus memiliki masalah atau syarat tersembunyi"
+  }
+}

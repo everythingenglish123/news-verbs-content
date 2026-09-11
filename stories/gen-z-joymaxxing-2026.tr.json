@@ -1,0 +1,418 @@
+{
+  "id": "gen-z-joymaxxing-2026",
+  "number": 108,
+  "lang": "tr",
+  "headline": "Gen Z, 2026 yazını çevrimdışı mutluluk arayışıyla geçirdi",
+  "chunks": [
+    "Genç tüketicileri inceleyen bir araştırma şirketine göre Gen Z, 2026 yazını “joymaxxing” yaparak geçirdi. Bu kelime, gündelik hayatta daha fazla mutluluk bulmak için net bir hedefle başlayan genç insanları anlatıyor. Şirketin 20 Ağustos raporuna göre bu gençler ekran süresini daha az kullandı, etkinliklerde şahsen hazır bulundu ve arkadaşlarıyla yüz yüze vakit geçirmeye daha fazla zaman ayırdı. Her anı sosyal medya için kaydetmek yerine, anda olmayı seçtiler.",
+    "Bu rapor, bu yılki diğer bulgularla uyuşuyor. Bir anket şirketinin 2025 anketi, 30 yaşın altındaki Amerikalıların yüzde 47'sinin ekran süresini azaltmaya çalıştığını buldu. Talker Research'ün Aralık 2025 anketinde Gen Z'nin yüzde 63'ü telefonlarını bilerek bir süreliğine kullanmadıklarını söyledi, bu oran bebek patlaması kuşağında yüzde 29'du. Gençlerin neredeyse yarısı Pew Research'e sosyal medyanın kendileri üzerinde çoğunlukla olumsuz bir etkisi olduğunu söylüyor. Bu rakamlar net bir sonuç oluşturacak şekilde birleşiyor.",
+    "İşletmeler bu değişimi fark etti. Bir haber sitesi Nisan 2026'da en az 11 eyaletteki restoran ve barların artık telefon kullanımını sınırladığını veya telefonlarına dokunmayan müşterileri ödüllendirdiğini bildirdi. Kuzey Carolina'daki bir bar telefonları iki saatliğine kilitli keselerde tutuyor, bir fast food zincirinin restoranları ise telefonsuz yemek yiyen müşterilere ücretsiz dondurma dağıtıyor. Telefonsuz buluşmalar düzenleyen bir grup olan Offline Club, 2021'de Amsterdam'da başladı ve şimdi 19 şehirde etkinlik düzenliyor.",
+    "Bu eğilim, yoğun telefon kullanımı konusundaki yıllarca süren endişeden gelişti. Georgetown Üniversitesi'nden bir psikoloji profesörü bir haber sitesine, telefonsuz alanlara olan ilginin “çok büyük bir şey” haline geldiğini söyledi. Bu, telefonları tamamen kullanmayı bırakmak anlamına gelmiyor: Offline Club'ın kendisinin Instagram'da neredeyse 600.000 takipçisi var. Ancak araştırma şirketine göre Gen Z, hayatın kendiliğinden iyileşmesini beklemek yerine, yavaşlamayı ve zaten elinin altında olanın tadını çıkarmayı seçiyor."
+  ],
+  "verbs": [
+    {
+      "base": "set out",
+      "correct": "Net bir hedefle başlamak",
+      "wrong": "Bir amaç için zaman ayırmak"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Bir şeyi daha az kullanmak",
+      "wrong": "Biriyle bağlantıyı kaybetmek"
+    },
+    {
+      "base": "show up",
+      "correct": "Bir etkinlikte hazır bulunmak",
+      "wrong": "Başkalarını etkilemeye çalışmak"
+    },
+    {
+      "base": "hang out",
+      "correct": "Birlikte rahat vakit geçirmek",
+      "wrong": "Kısa bir süre beklemek"
+    },
+    {
+      "base": "fit in with",
+      "correct": "Diğer bilgilerle uyuşmak",
+      "wrong": "Birine ayrıntıları vermek"
+    },
+    {
+      "base": "put away",
+      "correct": "Bir şeyi bir süreliğine kullanmamak",
+      "wrong": "Bir şeyi sonraya ertelemek"
+    },
+    {
+      "base": "add up to",
+      "correct": "Bir sonuç oluşturacak şekilde birleşmek",
+      "wrong": "Bir şeyi fazladan ek olarak eklemek"
+    },
+    {
+      "base": "pick up on",
+      "correct": "Yeni bir şeyi fark etmek",
+      "wrong": "Bir şey hakkında kural koymak"
+    },
+    {
+      "base": "hand out",
+      "correct": "Bir şeyi çok kişiye dağıtmak",
+      "wrong": "Kontrolü başka birine devretmek"
+    },
+    {
+      "base": "put on",
+      "correct": "Bir etkinlik düzenlemek",
+      "wrong": "Birinin gecelemesine izin vermek"
+    },
+    {
+      "base": "grow out of",
+      "correct": "Daha önceki bir şeyden gelişmek",
+      "wrong": "Yıllar içinde yetişkin olmak"
+    },
+    {
+      "base": "give up",
+      "correct": "Bir şeyi tamamen kullanmayı bırakmak",
+      "wrong": "Bir şeyi sahibine geri vermek"
+    },
+    {
+      "base": "slow down",
+      "correct": "Daha sakin bir tempoda yaşamak",
+      "wrong": "Bir şeyi sona erdirmek"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Set out",
+      "def": "Net bir hedefle başlamak",
+      "ex": [
+        "Bir yıl içinde İspanyolca öğrenmek için net bir hedefle başladı.",
+        "Takım, daha ucuz bir telefon üretmek için net bir hedefle başladı.",
+        "Her eyalet parkını ziyaret etmek için net bir hedefle başladı."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Bir şeyi daha az kullanmak",
+      "ex": [
+        "Şeker tüketimini azaltmamız gerekiyor.",
+        "Şirket bu yıl seyahatleri azalttı.",
+        "Geceleri televizyon izlemeyi azaltmaya çalışıyorum."
+      ]
+    },
+    {
+      "verb": "Show up",
+      "def": "Bir etkinlikte hazır bulunmak",
+      "ex": [
+        "Konsere yüzlerce kişi geldi.",
+        "O asla zamanında gelmez.",
+        "Toplantıya sadece on öğrenci geldi."
+      ]
+    },
+    {
+      "verb": "Hang out",
+      "def": "Birlikte rahat vakit geçirmek",
+      "ex": [
+        "Bütün öğleden sonrayı parkta birlikte rahat vakit geçirerek geçirdik.",
+        "Kardeşim hafta sonları arkadaşlarıyla birlikte vakit geçiriyor.",
+        "İşten sonra birlikte vakit geçirmek ister misin?"
+      ]
+    },
+    {
+      "verb": "Fit in with",
+      "def": "Diğer bilgilerle uyuşmak",
+      "ex": [
+        "Yeni veriler önceki sonuçlarla uyuşuyor.",
+        "Onun anlattıkları polisin bulduklarıyla uyuşmuyor.",
+        "Bu rakamlar ulusal eğilimle uyuşuyor."
+      ]
+    },
+    {
+      "verb": "Put away",
+      "def": "Bir şeyi bir süreliğine kullanmamak",
+      "ex": [
+        "Lütfen akşam yemeği sırasında dizüstü bilgisayarını bir kenara koy.",
+        "Tabletini bir kenara koydu ve dışarı yürüyüşe çıktı.",
+        "Çocuklar yatmadan önce oyunlarını bıraktı."
+      ]
+    },
+    {
+      "verb": "Add up to",
+      "def": "Bir sonuç oluşturacak şekilde birleşmek",
+      "ex": [
+        "Küçük değişiklikler büyük tasarruflar oluşturacak şekilde birleşir.",
+        "Bütün kanıtlar tek bir cevap oluşturacak şekilde birleşiyor.",
+        "Günde birkaç dakika ayda saatler oluşturacak şekilde birleşir."
+      ]
+    },
+    {
+      "verb": "Pick up on",
+      "def": "Yeni bir şeyi fark etmek",
+      "ex": [
+        "Onun gergin tonunu hemen fark etti.",
+        "İyi yöneticiler küçük sorunları erken fark eder.",
+        "Muhabir belediye başkanının planlarındaki değişikliği fark etti."
+      ]
+    },
+    {
+      "verb": "Hand out",
+      "def": "Bir şeyi çok kişiye dağıtmak",
+      "ex": [
+        "Hemşire kapıda maske dağıttı.",
+        "Mağazada ücretsiz örnekler dağıtıyorlar.",
+        "Koç takıma yeni formalar dağıttı."
+      ]
+    },
+    {
+      "verb": "Put on",
+      "def": "Bir etkinlik düzenlemek",
+      "ex": [
+        "Kütüphane her sonbahar bir kitap fuarı düzenliyor.",
+        "Öğrenciler aileleri için bir konser düzenledi.",
+        "Kasaba her yaz bir festival düzenliyor."
+      ]
+    },
+    {
+      "verb": "Grow out of",
+      "def": "Daha önceki bir şeyden gelişmek",
+      "ex": [
+        "Grup, bir lise müzik kulübünden gelişti.",
+        "Yeni yasa, yıllarca süren şikayetlerden gelişti.",
+        "İşi, bir hafta sonu hobisinden gelişti."
+      ]
+    },
+    {
+      "verb": "Give up",
+      "def": "Bir şeyi tamamen kullanmayı bırakmak",
+      "ex": [
+        "Geçen yıl gazozu tamamen bıraktı.",
+        "Arabasını tamamen bıraktı ve şimdi bisikletle gidiyor.",
+        "Sabah kahvemi asla tamamen bırakamam."
+      ]
+    },
+    {
+      "verb": "Slow down",
+      "def": "Daha sakin bir tempoda yaşamak",
+      "ex": [
+        "Ameliyattan sonra doktor ona daha sakin bir tempoda yaşamasını söyledi.",
+        "Daha sakin bir tempoda yaşamak için küçük bir kasabaya taşındık.",
+        "Daha sakin bir tempoda yaşamayı ve hafta sonlarının tadını çıkarmayı öğrendi."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "research firm",
+      "def": "Müşteriler için bilgi toplayan ve inceleyen bir şirket",
+      "ex": [
+        "Bir araştırma şirketi 2.000 kişiye alışveriş alışkanlıklarını sordu.",
+        "Araştırma şirketi her bahar bir rapor yayınlıyor.",
+        "Chicago'da bir araştırma şirketinde çalışıyor."
+      ]
+    },
+    {
+      "word": "consumers",
+      "def": "Ürün veya hizmet satın alan ve kullanan insanlar",
+      "ex": [
+        "Genç tüketiciler giysiden çok deneyimlere para harcıyor.",
+        "Yeni yasa tüketicileri gizli ücretlerden koruyor.",
+        "Tüketiciler bu yıl daha az yeni araba satın alıyor."
+      ]
+    },
+    {
+      "word": "ordinary life",
+      "def": "Özel durumlar değil, normal gündelik yaşam",
+      "ex": [
+        "Mağazaya yürümek gibi gündelik hayatta güzellik buluyor.",
+        "Gezinin ardından normal hayatına dönmekten mutlu oldu.",
+        "Fotoğraflar küçük bir balıkçı kasabasındaki gündelik yaşamı gösteriyor."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Telefon, bilgisayar veya televizyon ekranına bakarak geçirilen saatler",
+      "ex": [
+        "Doktorlar küçük çocuklar için daha az ekran süresi öneriyor.",
+        "Telefonum her hafta ekran süremi takip ediyor.",
+        "Çok fazla ekran süresi uykuya dalmayı zorlaştırabilir."
+      ]
+    },
+    {
+      "word": "in person",
+      "def": "Çevrimiçi veya telefonla değil, fiziksel olarak orada olmak",
+      "ex": [
+        "Sonunda onunla şahsen tanışmak güzeldi.",
+        "Ders haftada iki kez yüz yüze yapılıyor.",
+        "Formu ofiste şahsen imzalamalısın."
+      ]
+    },
+    {
+      "word": "present",
+      "def": "Bulunduğun ana tam dikkat vermek",
+      "ex": [
+        "Çocuklarınla birlikteyken anda olmaya çalış.",
+        "Telefonunu kapattıktan sonra kendini daha çok anda hissetti.",
+        "Yoga onun anda kalmasına ve sakin olmasına yardımcı oluyor."
+      ]
+    },
+    {
+      "word": "findings",
+      "def": "Bir araştırmanın veya incelemenin sonuçları",
+      "ex": [
+        "Bulgular tıbbi bir dergide yayınlandı.",
+        "Onun bulguları tüm ekibi şaşırttı.",
+        "Raporun bulguları işe yürüyerek gitmenin arttığını gösteriyor."
+      ]
+    },
+    {
+      "word": "survey",
+      "def": "Görüşlerini öğrenmek için çok kişiye sorulan bir dizi soru",
+      "ex": [
+        "Ankette 1.000 yetişkine uyku hakkında soru soruldu.",
+        "Lütfen ziyaretinizden sonra anketi doldurun.",
+        "Yeni bir anket çoğu insanın daha kısa çalışma haftaları istediğini gösteriyor."
+      ]
+    },
+    {
+      "word": "intentionally",
+      "def": "Kazara değil, bilerek",
+      "ex": [
+        "Telefonunu bilerek evde bıraktı.",
+        "İyi bir yer kapmak için bilerek erken geldi.",
+        "Mağaza fiyatlarını bilerek düşük tutuyor."
+      ]
+    },
+    {
+      "word": "baby boomers",
+      "def": "1946 ile 1964 arasında doğan Amerikalılar",
+      "ex": [
+        "Birçok bebek patlaması kuşağı üyesi şimdi emekli oluyor.",
+        "Bebek patlaması kuşağı internetsiz büyüdü.",
+        "Anket, bebek patlaması kuşağını daha genç yetişkinlerle karşılaştırdı."
+      ]
+    },
+    {
+      "word": "negative effect",
+      "def": "Zararlı bir sonuç",
+      "ex": [
+        "Yetersiz uyku hafıza üzerinde olumsuz bir etkiye sahiptir.",
+        "Grev havayolu üzerinde olumsuz bir etki yarattı.",
+        "Gürültü çocukların öğrenmesi üzerinde olumsuz bir etkiye sahip olabilir."
+      ]
+    },
+    {
+      "word": "reward",
+      "def": "Birine yaptığı bir şey için iyi bir şey vermek",
+      "ex": [
+        "Havayolu sık uçan yolcuları ücretsiz seyahatlerle ödüllendiriyor.",
+        "Ebeveynler genellikle iyi notları küçük bir hediyeyle ödüllendirir.",
+        "Uygulama günde 10.000 adım atan kullanıcıları ödüllendiriyor."
+      ]
+    },
+    {
+      "word": "pouches",
+      "def": "Üstten kapanan küçük yumuşak torbalar",
+      "ex": [
+        "Konser görevlileri telefonları kilitli keselerde topladı.",
+        "Bozuk paralarını küçük bir deri kesede tutuyor.",
+        "Kanguru yavrusunu bir kesede taşır."
+      ]
+    },
+    {
+      "word": "gatherings",
+      "def": "Bir grup insanın bir araya geldiği etkinlikler",
+      "ex": [
+        "Koşu kulübü her cumartesi buluşmalar düzenliyor.",
+        "İş ortağıyla teknoloji çalışanları için küçük bir buluşmada tanıştı.",
+        "Kutu oyunu buluşmaları şehirde popüler."
+      ]
+    },
+    {
+      "word": "heavy",
+      "def": "Çok sık veya büyük miktarlarda",
+      "ex": [
+        "Sosyal medyanın yoğun kullanımı uykuyu etkileyebilir.",
+        "Şehirde sabahları yoğun trafik oluyor.",
+        "O çok kahve içer."
+      ]
+    },
+    {
+      "word": "psychology professor",
+      "def": "Zihnin nasıl çalıştığını inceleyen bir üniversite öğretim üyesi",
+      "ex": [
+        "Bir psikoloji profesörü insanların neden isimleri unuttuğunu açıkladı.",
+        "Bu psikoloji profesörü çocukların nasıl öğrendiğini inceliyor.",
+        "35 yaşında psikoloji profesörü oldu."
+      ]
+    },
+    {
+      "word": "followers",
+      "def": "Birinin sosyal medya paylaşımlarını görmeyi seçen insanlar",
+      "ex": [
+        "Bu şefin Instagram'da iki milyon takipçisi var.",
+        "Uzun bir aradan sonra takipçi kaybetti.",
+        "Müzenin takipçileri bir sonraki sergi için oy veriyor."
+      ]
+    },
+    {
+      "word": "within reach",
+      "def": "Kolayca elde edilebilecek veya tadını çıkarılabilecek kadar yakın",
+      "ex": [
+        "Geceleri bir bardak suyu elinin altında tut.",
+        "Yeni tren sayesinde sahil artık bir günlük gezi için ulaşılabilir.",
+        "Hedef artık ulaşılabilir durumda."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Rapora göre Gen Z bu yaz ekran süresini azalttı.",
+      "a": true,
+      "why": "Araştırma şirketinin 20 Ağustos raporuna göre ekran süresini azalttılar, etkinliklerde şahsen hazır bulundular ve arkadaşlarıyla yüz yüze vakit geçirmeye daha fazla zaman ayırdılar."
+    },
+    {
+      "s": "Talker Research anketinde Gen Z'nin yüzde 29'u telefonlarını kullanmadıklarını söyledi.",
+      "a": false,
+      "why": "Aralık 2025 anketinde Gen Z'nin yüzde 63'ü telefonlarını bilerek kullanmadıklarını söyledi; yüzde 29 bebek patlaması kuşağı için olan rakamdı."
+    },
+    {
+      "s": "Bir fast food zincirindeki bazı restoranlar telefonsuz yemek yiyen müşterilere ücretsiz dondurma dağıtıyor.",
+      "a": true,
+      "why": "Bir haber sitesi, bir fast food zincirindeki bazı restoranların telefonsuz yemek yiyen müşterilere ücretsiz dondurma verdiğini bildirdi."
+    },
+    {
+      "s": "Offline Club 2021'de Amsterdam'da başladı.",
+      "a": true,
+      "why": "Telefonsuz buluşmalar düzenleyen bu grup 2021'de Amsterdam'da başladı ve şimdi 19 şehirde etkinlik düzenliyor."
+    },
+    {
+      "s": "Kuzey Carolina'daki bir bar müşterilerin telefonlarını bütün gece kilitli keselerde tutuyor.",
+      "a": false,
+      "why": "İşletmeler bu değişimi fark etti ve bar telefonları bütün gece değil, iki saatliğine kilitli keselerde tutuyor."
+    },
+    {
+      "s": "Offline Club'ın Instagram'da 10.000'den az takipçisi var.",
+      "a": false,
+      "why": "Grubun Instagram'da neredeyse 600.000 takipçisi var, bu da eğilimin telefonları tamamen bırakmak anlamına gelmediğini gösteriyor."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Gençleri inceleyen bir araştırma şirketi, Gen Z'nin bu yaz telefonlarını daha az kullanmak ve gerçek hayatın tadını çıkarmak için bilinçli bir çaba gösterdiğini söylüyor. Anketler ve yeni telefonsuz işletmeler genç Amerikalılar arasında aynı değişimi gösteriyor.",
+      "a": true,
+      "why": "Gençleri inceleyen araştırma şirketi, Gen Z'nin ekran süresini azalttığını ve etkinliklerde şahsen hazır bulunduğunu bildirdi; bir anket şirketinin, Talker Research'ün ve Pew'ün anketleri de benzer bir örüntü gösteriyor."
+    },
+    {
+      "s": "Genç Amerikalılar bu yaz telefonlarını bıraktı çünkü birçok eyalette restoranlar ve barlar artık onları yasaklıyor. Gençleri inceleyen bir araştırma şirketi, yeni kuralların Gen Z'yi daha çok anda olmaya ittiğini söylüyor.",
+      "a": false,
+      "why": "Yakın, ama değişim gençlerin kendisiyle başladı; işletmeler bunu daha sonra fark edip telefon sınırlamaları ve ödüller ekledi."
+    },
+    {
+      "s": "Yeni bir araştırma, günde dört saatten fazla sosyal medya kullanan gençlerin daha az uyuduğunu ve daha düşük notlar aldığını buldu. Araştırmacılar okulların ders saatlerinde telefonları yasaklamasını istiyor.",
+      "a": false,
+      "why": "Uyku veya notlar hakkında bir araştırma yoktu ve okul yasağı çağrısı da yoktu. Rapor, gençlerin daha fazla zamanı çevrimdışı geçirmeyi seçtiği bir eğilimi anlatıyordu."
+    }
+  ],
+  "dialogue": {
+    "That's a new one for me": "Daha önce hiç duymadığın bir kelime veya fikir için söylenir",
+    "Sounds like a normal summer to me": "Özel olarak sunulan bir şeyin aslında sıradan olduğunu söylemek için kullanılır",
+    "I'd do it for the ice cream alone": "Küçük bir ödülün katılmak için yeterli bir sebep olduğunu söylemek için kullanılır",
+    "There's some irony in that": "Bir durumun beklenenin tam tersi olduğunu belirtmek için kullanılır",
+    "I'm all for that": "Bir fikri desteklediğini söylemek için kullanılır"
+  }
+}

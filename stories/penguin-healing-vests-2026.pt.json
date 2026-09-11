@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "pt",
+  "headline": "Pinguins feridos no Chile usam coletes de cobre",
+  "chunks": [
+    "Pesquisadores no Chile estão testando coletes vermelhos justos em pinguins-de-humboldt feridos. O tecido é tecido com cobre e zinco, o que pode ajudar as feridas a cicatrizar mais rápido. Veterinários usam roupas parecidas em cães e gatos, e uma equipe chilena criou uma versão para pinguins. \"Começamos a nos perguntar, por que isso não pode ser usado em pinguins?\", disse o diretor de um zoológico perto de Santiago à Associated Press em 2 de setembro de 2026.",
+    "Um centro de resgate sem fins lucrativos no norte do Chile recebe pinguins encalhados na costa. Alguns são cortados por redes de pesca ou hélices de barco, e outros estão fracos de fome, disse a veterinária que lidera o programa. Os pinguins torcem o pescoço para bicar as feridas e arrancar os pontos, e os curativos tinham que ser trocados todos os dias. A equipe tira o colete para o tratamento e o coloca de volta rapidamente, o que reduz o manuseio.",
+    "O cobre e o zinco impedem a propagação de bactérias e fungos, e o zinco ajuda a formar novos vasos sanguíneos, então o tecido danificado se recupera mais rápido. O Chile é o maior produtor mundial de cobre. O fabricante chileno vende uma versão para animais de estimação em mais de 40 países. Roupas feitas para animais de quatro patas tendem a escorregar em um pássaro que fica em pé, então os designers mediram nadadeiras, pescoços e caudas e testaram protótipos no zoológico antes de enviá-los ao centro de resgate.",
+    "Os pinguins-de-humboldt do Chile, uma espécie vulnerável, estão diminuindo rapidamente. Levantamentos das principais colônias de reprodução em 2024 e 2025 encontraram 63 por cento menos ninhos ativos do que três anos antes. O El Niño esquenta o mar e afasta os peixes que eles comem, então os pais deixam os filhotes para trás para caçar. A veterinária disse que as aves toleram bem os coletes e as feridas pareciam melhores em um dia, mas a equipe ainda não provou que os coletes aceleram a cicatrização."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Testar algo para ver como funciona",
+      "wrong": "Experimentar roupas para ver se servem"
+    },
+    {
+      "base": "heal up",
+      "correct": "Ficar saudável de novo",
+      "wrong": "Fechar algo com força"
+    },
+    {
+      "base": "come up with",
+      "correct": "Pensar em uma ideia ou plano",
+      "wrong": "Encontrar um problema difícil"
+    },
+    {
+      "base": "take in",
+      "correct": "Acolher alguém e cuidar dele",
+      "wrong": "Tomar controle de um lugar ou grupo"
+    },
+    {
+      "base": "pull out",
+      "correct": "Remover algo puxando",
+      "wrong": "Recuperar-se de uma doença"
+    },
+    {
+      "base": "take off",
+      "correct": "Tirar algo que está sendo usado",
+      "wrong": "Cuidar de um animal doente ou ferido"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Reduzir a quantidade de algo",
+      "wrong": "Separar alguém dos outros"
+    },
+    {
+      "base": "hold back",
+      "correct": "Impedir que algo se espalhe",
+      "wrong": "Manter algo quente e seco"
+    },
+    {
+      "base": "slip down",
+      "correct": "Escorregar para uma posição mais baixa",
+      "wrong": "Cometer um pequeno erro descuidado"
+    },
+    {
+      "base": "send off",
+      "correct": "Enviar ou entregar algo a um lugar",
+      "wrong": "Devolver algo ao fabricante"
+    },
+    {
+      "base": "drive away",
+      "correct": "Forçar algo a ir embora",
+      "wrong": "Fazer algo subir rapidamente"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Ir a algum lugar sem levar alguém",
+      "wrong": "Não incluir algo em um grupo"
+    },
+    {
+      "base": "put up with",
+      "correct": "Aceitar algo sem reclamar",
+      "wrong": "Vestir um animal com roupa"
+    },
+    {
+      "base": "speed up",
+      "correct": "Fazer algo acontecer mais rápido",
+      "wrong": "Usar algo por completo"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Testar algo para ver como funciona",
+      "ex": [
+        "A escola está testando um novo horário neste outono.",
+        "Quero experimentar a bicicleta antes de comprá-la.",
+        "Eles testaram três receitas para a festa."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Ficar saudável de novo",
+      "ex": [
+        "O corte na minha mão cicatrizou em poucos dias.",
+        "Dê tempo para a queimadura cicatrizar.",
+        "O tornozelo dele cicatrizou antes do início da temporada."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Pensar em uma ideia ou plano",
+      "ex": [
+        "Ela pensou em um ótimo nome para o time.",
+        "Precisamos pensar em um plano até sexta-feira.",
+        "Ele teve a ideia no banho."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Acolher alguém e cuidar dele",
+      "ex": [
+        "O abrigo acolhe cães que não têm lar.",
+        "Eles acolheram dois estudantes vindos do exterior.",
+        "O hospital acolheu dezenas de pacientes depois da tempestade."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Remover algo puxando",
+      "ex": [
+        "O dentista arrancou meu dente do siso.",
+        "Ele tirou uma farpa com uma pinça.",
+        "Ela arrancou o mato ao longo da cerca."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Tirar algo que está sendo usado",
+      "ex": [
+        "Tire o casaco e sente-se.",
+        "Ele tirou os óculos para ler a placa.",
+        "A enfermeira tirou o curativo antigo."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Reduzir a quantidade de algo",
+      "ex": [
+        "Estou tentando reduzir o açúcar.",
+        "A cidade quer reduzir o trânsito no centro.",
+        "Reduzimos as impressões para economizar papel."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Impedir que algo se espalhe",
+      "ex": [
+        "Sacos de areia contiveram a água da enchente.",
+        "O remédio impede que a infecção se espalhe.",
+        "A polícia conteve a multidão no portão."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Escorregar para uma posição mais baixa",
+      "ex": [
+        "Minhas meias vivem escorregando dentro das botas.",
+        "A alça escorregou do ombro dela.",
+        "O chapéu do bebê escorregou sobre os olhos dele."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Enviar ou entregar algo a um lugar",
+      "ex": [
+        "Ela enviou o pacote na segunda-feira.",
+        "Enviamos as amostras para o laboratório.",
+        "Ele enviou sua candidatura na semana passada."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Forçar algo a ir embora",
+      "ex": [
+        "O barulho afastou os pássaros do quintal.",
+        "Preços altos afastaram muitos clientes.",
+        "A água morna afasta os peixes."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Ir a algum lugar sem levar alguém",
+      "ex": [
+        "A família deixou o cachorro para trás quando se mudou.",
+        "Ela deixou o irmão mais novo e foi ao parque.",
+        "O ônibus deixou três passageiros para trás."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Aceitar algo sem reclamar",
+      "ex": [
+        "Não aguento mais esse barulho.",
+        "Ela aguentou a dor por semanas.",
+        "O cachorro aguentou o banho sem reclamar."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Fazer algo acontecer mais rápido",
+      "ex": [
+        "A nova estrada acelera a viagem até o aeroporto.",
+        "O clima quente acelera o crescimento das plantas.",
+        "Um computador mais rápido acelerou nosso trabalho."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Que se ajusta de forma justa e confortável ao corpo",
+      "ex": [
+        "A jaqueta ficava justa nos ombros.",
+        "O bebê estava aconchegado no cobertor.",
+        "Essas botas ficam justas, mas não apertadas."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Feito cruzando fios por cima e por baixo uns dos outros",
+      "ex": [
+        "A cesta é tecida com tiras finas de madeira.",
+        "Um fio de prata foi tecido no vestido.",
+        "O tapete foi tecido à mão no Peru."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Lesões em que a pele é cortada ou rompida",
+      "ex": [
+        "A enfermeira limpou as feridas no braço dele.",
+        "Feridas profundas podem precisar de pontos.",
+        "O cachorro lambeu a ferida na pata."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Deixado em algum lugar e sem conseguir se mover ou sair",
+      "ex": [
+        "Socorristas encontraram uma baleia encalhada na praia.",
+        "A tempestade deixou centenas de viajantes presos no aeroporto.",
+        "Uma foca encalhada foi levada de volta para a água."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Redes grandes usadas para pescar no mar",
+      "ex": [
+        "Redes de pesca velhas podem prender tartarugas e pássaros.",
+        "A tripulação consertou as redes de pesca no cais.",
+        "Mergulhadores retiraram redes de pesca do recife."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Lâminas giratórias que impulsionam um barco ou avião",
+      "ex": [
+        "As hélices dos barcos podem ferir animais marinhos.",
+        "O avião tem duas hélices em cada asa.",
+        "Algas ficaram presas na hélice."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Que trabalha para ajudar pessoas ou animais, não para ganhar dinheiro",
+      "ex": [
+        "Ela dirige uma organização sem fins lucrativos que alimenta famílias sem-teto.",
+        "A organização sem fins lucrativos depende de doações.",
+        "Um grupo sem fins lucrativos plantou árvores no parque."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Um lugar onde animais são salvos e cuidados",
+      "ex": [
+        "O centro de resgate acolheu três filhotes de foca.",
+        "Voluntários do centro de resgate alimentam as aves duas vezes ao dia.",
+        "A tartaruga foi solta do centro de resgate em maio."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Bater ou morder algo com o bico",
+      "ex": [
+        "As galinhas bicam sementes no chão.",
+        "O papagaio bicou meu dedo.",
+        "Um pica-pau bica buracos nas árvores."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Fios usados por um médico para fechar um corte",
+      "ex": [
+        "Ele precisou de seis pontos no queixo.",
+        "O médico retirou os pontos depois de dez dias.",
+        "Não molhe os pontos."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Tiras de pano enroladas ao redor de um ferimento",
+      "ex": [
+        "A enfermeira trocava os curativos toda manhã.",
+        "Mantenha o curativo limpo e seco.",
+        "Ele enrolou um curativo ao redor do joelho."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Tubos que transportam sangue pelo corpo",
+      "ex": [
+        "O exercício mantém os vasos sanguíneos saudáveis.",
+        "Vasos sanguíneos minúsculos levam oxigênio à pele.",
+        "O corte danificou vários vasos sanguíneos pequenos."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "O material do qual as partes do corpo são feitas",
+      "ex": [
+        "A queimadura danificou o tecido sob a pele.",
+        "O tecido muscular se repara depois do exercício.",
+        "Os médicos removeram o tecido danificado."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "De pé, esticado, e não deitado",
+      "ex": [
+        "Os pinguins andam eretos sobre duas pernas.",
+        "Mantenha a garrafa em pé para não derramar.",
+        "Ele sentou ereto quando o professor entrou."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Os membros achatados que pinguins e focas usam para nadar",
+      "ex": [
+        "O pinguim bateu as nadadeiras e mergulhou.",
+        "As focas usam as nadadeiras para se mover em terra.",
+        "As nadadeiras da tartaruga ficaram presas numa rede."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Primeiras versões de um produto feitas para teste",
+      "ex": [
+        "A empresa construiu três protótipos do novo carro.",
+        "Os engenheiros testaram o protótipo por um mês.",
+        "Os primeiros protótipos eram pesados demais."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Um tipo de animal ou planta em risco de desaparecer",
+      "ex": [
+        "O urso polar está listado como espécie vulnerável.",
+        "Leis protegem espécies vulneráveis da caça.",
+        "Os cientistas rastreiam espécies vulneráveis com etiquetas."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Lugares onde muitos animais se reúnem para ter filhotes",
+      "ex": [
+        "Milhares de aves marinhas voltam às colônias de reprodução a cada primavera.",
+        "A ilha tem uma das maiores colônias de reprodução de focas.",
+        "Os turistas não podem entrar na colônia de reprodução."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Ninhos que as aves estão usando para criar seus filhotes",
+      "ex": [
+        "Guardas florestais contaram 200 ninhos ativos no penhasco.",
+        "O número de ninhos ativos caiu depois da tempestade.",
+        "Cada ninho ativo tinha dois ovos."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Os coletes são vermelhos e contêm cobre e zinco.",
+      "a": true,
+      "why": "Pesquisadores no Chile estão testando coletes vermelhos justos cujo tecido é tecido com cobre e zinco."
+    },
+    {
+      "s": "Os pinguins foram medidos para os primeiros coletes no centro de resgate.",
+      "a": false,
+      "why": "Os pesquisadores mediram os pinguins em um zoológico perto de Santiago, e os protótipos foram enviados ao centro de resgate depois."
+    },
+    {
+      "s": "O zinco no tecido ajuda a formar novos vasos sanguíneos.",
+      "a": true,
+      "why": "O cobre e o zinco impedem a propagação de bactérias e fungos, e o zinco ajuda a formar novos vasos sanguíneos, então o tecido danificado se recupera mais rápido."
+    },
+    {
+      "s": "A equipe provou que os coletes aceleram a cicatrização.",
+      "a": false,
+      "why": "A veterinária disse que as aves toleram bem os coletes e as feridas pareciam melhores em um dia, mas a equipe ainda não provou que os coletes aceleram a cicatrização."
+    },
+    {
+      "s": "Levantamentos encontraram 63 por cento menos ninhos ativos do que três anos antes.",
+      "a": true,
+      "why": "Levantamentos das principais colônias de reprodução em 2024 e 2025 encontraram 63 por cento menos ninhos ativos, e o El Niño afasta os peixes que os pinguins comem."
+    },
+    {
+      "s": "Antes dos coletes, os curativos dos pinguins eram trocados uma vez por semana.",
+      "a": false,
+      "why": "Os pinguins bicam as feridas e arrancam os pontos, e os curativos tinham que ser trocados todos os dias."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Pesquisadores chilenos estão testando coletes vermelhos tecidos com cobre e zinco em pinguins-de-humboldt feridos. Os coletes impedem que as aves removam os pontos e podem ajudar as feridas a fechar mais rápido.",
+      "a": true,
+      "why": "Os coletes foram adaptados de roupas para animais de estimação, e o cobre e o zinco no tecido impedem bactérias, enquanto a peça impede que os pinguins arranquem os pontos."
+    },
+    {
+      "s": "Centros de resgate no Chile provaram que coletes de cobre curam feridas de pinguins duas vezes mais rápido do que curativos. As roupas, feitas primeiro para cães e gatos, agora são vendidas a zoológicos em 40 países.",
+      "a": false,
+      "why": "Quase, mas a equipe ainda não provou que os coletes aceleram a cicatrização, e é a versão para animais de estimação que é vendida em mais de 40 países."
+    },
+    {
+      "s": "Cientistas no Chile contaram os pinguins-de-humboldt do país e encontraram 63 por cento menos aves do que em 2021. Eles culpam redes de pesca e plástico e querem novas áreas protegidas ao longo da costa.",
+      "a": false,
+      "why": "O número de 63 por cento é uma queda em ninhos ativos nas colônias de reprodução, e a notícia é sobre coletes sendo testados em pinguins feridos, não um plano de áreas protegidas."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Usado para dizer que algo parece tão encantador ou engraçado que você realmente quer ver",
+    "Poor things": "Usado para mostrar compaixão por animais ou pessoas que estão sofrendo",
+    "That figures": "Usado para dizer que algo faz sentido quando você conhece os fatos",
+    "Too soon to say": "Usado para dizer que ainda não há evidências suficientes para julgar algo",
+    "Every little bit helps": "Usado para dizer que até uma pequena contribuição ou melhoria é útil"
+  }
+}

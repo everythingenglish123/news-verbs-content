@@ -1,0 +1,418 @@
+{
+  "id": "gen-z-joymaxxing-2026",
+  "number": 108,
+  "lang": "es",
+  "headline": "La generación Z pasó el verano de 2026 buscando alegría fuera de línea",
+  "chunks": [
+    "La generación Z pasó el verano de 2026 haciendo \"joymaxxing\", dice una empresa de investigación que estudia a los consumidores jóvenes. La palabra describe a los jóvenes que se propusieron encontrar más felicidad en la vida cotidiana. El informe de la empresa del 20 de agosto dice que usaron menos el teléfono, estuvieron presentes en eventos en persona, y pasaron más tiempo relajados con amigos cara a cara. En lugar de grabar cada momento para las redes sociales, eligieron estar presentes.",
+    "El informe coincide con otros hallazgos de este año. Una encuesta de una empresa de encuestas de 2025 encontró que el 47 por ciento de los estadounidenses menores de 30 años intentaban reducir el tiempo de pantalla. En una encuesta de Talker Research de diciembre de 2025, el 63 por ciento de la generación Z dijo que dejó de usar sus teléfonos a propósito, frente al 29 por ciento de los baby boomers. Casi la mitad de los adolescentes le dicen a Pew Research que las redes sociales tienen un efecto mayormente negativo en ellos. Los números se suman para formar un patrón claro.",
+    "Los negocios notaron el cambio. Un sitio de noticias informó en abril de 2026 que restaurantes y bares en al menos 11 estados ahora limitan los teléfonos o premian a los clientes que los dejan a un lado. Un bar en Carolina del Norte guarda los teléfonos en bolsas con candado por dos horas, y los restaurantes de una cadena de comida rápida dan helado gratis a los clientes que comen sin teléfono. El Offline Club, un grupo que organiza reuniones sin teléfonos, empezó en Ámsterdam en 2021 y ahora organiza eventos en 19 ciudades.",
+    "La tendencia surgió de años de preocupación por el uso intenso del teléfono. Una profesora de psicología de la Universidad de Georgetown le dijo a un sitio de noticias que el interés en los espacios sin teléfonos se ha vuelto \"algo enorme\". No significa dejar el teléfono por completo: el Offline Club mismo tiene casi 600.000 seguidores en Instagram. Pero en lugar de esperar a que la vida mejore, dice la empresa de investigación, la generación Z elige vivir a un ritmo más tranquilo y disfrutar lo que ya está al alcance."
+  ],
+  "verbs": [
+    {
+      "base": "set out",
+      "correct": "Empezar con una meta clara",
+      "wrong": "Ahorrar tiempo para un propósito"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Usar menos de algo",
+      "wrong": "Perder contacto con alguien"
+    },
+    {
+      "base": "show up",
+      "correct": "Estar presente en un evento",
+      "wrong": "Intentar impresionar a otras personas"
+    },
+    {
+      "base": "hang out",
+      "correct": "Pasar tiempo relajado juntos",
+      "wrong": "Esperar un rato corto"
+    },
+    {
+      "base": "fit in with",
+      "correct": "Coincidir con otra información",
+      "wrong": "Darle a alguien los detalles"
+    },
+    {
+      "base": "put away",
+      "correct": "Dejar de usar algo por un tiempo",
+      "wrong": "Posponer algo para después"
+    },
+    {
+      "base": "add up to",
+      "correct": "Sumarse para formar un resultado",
+      "wrong": "Incluir algo como algo extra"
+    },
+    {
+      "base": "pick up on",
+      "correct": "Notar algo nuevo",
+      "wrong": "Crear una regla sobre algo"
+    },
+    {
+      "base": "hand out",
+      "correct": "Dar algo a muchas personas",
+      "wrong": "Dar el control a otra persona"
+    },
+    {
+      "base": "put on",
+      "correct": "Organizar un evento",
+      "wrong": "Dejar que alguien se quede"
+    },
+    {
+      "base": "grow out of",
+      "correct": "Surgir de algo anterior",
+      "wrong": "Volverse adulto con los años"
+    },
+    {
+      "base": "give up",
+      "correct": "Dejar de usar algo por completo",
+      "wrong": "Devolver algo a su dueño"
+    },
+    {
+      "base": "slow down",
+      "correct": "Vivir a un ritmo más tranquilo",
+      "wrong": "Poner fin a algo por completo"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Set out",
+      "def": "Empezar con una meta clara",
+      "ex": [
+        "Ella se propuso aprender español en un año.",
+        "El equipo se propuso construir un teléfono más barato.",
+        "Él se propuso visitar todos los parques estatales."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Usar menos de algo",
+      "ex": [
+        "Necesitamos usar menos azúcar.",
+        "La empresa usó menos viajes este año.",
+        "Estoy tratando de usar menos la tele por la noche."
+      ]
+    },
+    {
+      "verb": "Show up",
+      "def": "Estar presente en un evento",
+      "ex": [
+        "Cientos de personas estuvieron presentes en el concierto.",
+        "Él nunca está presente a tiempo.",
+        "Solo diez estudiantes estuvieron presentes en la reunión."
+      ]
+    },
+    {
+      "verb": "Hang out",
+      "def": "Pasar tiempo relajado juntos",
+      "ex": [
+        "Pasamos toda la tarde relajados en el parque.",
+        "Mi hermano pasa tiempo relajado con sus amigos los fines de semana.",
+        "¿Quieres pasar tiempo relajado después del trabajo?"
+      ]
+    },
+    {
+      "verb": "Fit in with",
+      "def": "Coincidir con otra información",
+      "ex": [
+        "Los nuevos datos coinciden con los resultados anteriores.",
+        "Su historia no coincide con lo que encontró la policía.",
+        "Estos números coinciden con la tendencia nacional."
+      ]
+    },
+    {
+      "verb": "Put away",
+      "def": "Dejar de usar algo por un tiempo",
+      "ex": [
+        "Por favor deja de usar tu laptop durante la cena.",
+        "Ella dejó de usar su tableta y salió a caminar.",
+        "Los niños dejaron de usar sus juegos antes de dormir."
+      ]
+    },
+    {
+      "verb": "Add up to",
+      "def": "Sumarse para formar un resultado",
+      "ex": [
+        "Los pequeños cambios se suman para formar un gran ahorro.",
+        "Toda la evidencia se suma para formar una sola respuesta.",
+        "Unos minutos al día se suman para formar horas cada mes."
+      ]
+    },
+    {
+      "verb": "Pick up on",
+      "def": "Notar algo nuevo",
+      "ex": [
+        "Ella notó su tono nervioso de inmediato.",
+        "Los buenos gerentes notan los problemas pequeños temprano.",
+        "El reportero notó un cambio en los planes del alcalde."
+      ]
+    },
+    {
+      "verb": "Hand out",
+      "def": "Dar algo a muchas personas",
+      "ex": [
+        "La enfermera dio mascarillas en la puerta.",
+        "Dan muestras gratis en la tienda.",
+        "El entrenador dio uniformes nuevos al equipo."
+      ]
+    },
+    {
+      "verb": "Put on",
+      "def": "Organizar un evento",
+      "ex": [
+        "La biblioteca organiza una feria del libro cada otoño.",
+        "Los estudiantes organizaron un concierto para sus padres.",
+        "El pueblo organiza un festival cada verano."
+      ]
+    },
+    {
+      "verb": "Grow out of",
+      "def": "Surgir de algo anterior",
+      "ex": [
+        "La banda surgió de un club de música de secundaria.",
+        "La nueva ley surgió de años de quejas.",
+        "Su negocio surgió de un pasatiempo de fin de semana."
+      ]
+    },
+    {
+      "verb": "Give up",
+      "def": "Dejar de usar algo por completo",
+      "ex": [
+        "Él dejó de tomar refresco por completo el año pasado.",
+        "Ella dejó de usar su auto por completo y ahora anda en bicicleta.",
+        "Yo nunca podría dejar mi café de la mañana por completo."
+      ]
+    },
+    {
+      "verb": "Slow down",
+      "def": "Vivir a un ritmo más tranquilo",
+      "ex": [
+        "Después de la cirugía, el doctor le dijo que viviera a un ritmo más tranquilo.",
+        "Nos mudamos a un pueblo pequeño para vivir a un ritmo más tranquilo.",
+        "Ella aprendió a vivir a un ritmo más tranquilo y disfrutar sus fines de semana."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "research firm",
+      "def": "Una empresa que reúne y estudia información para sus clientes",
+      "ex": [
+        "Una empresa de investigación preguntó a 2.000 personas sobre sus hábitos de compra.",
+        "La empresa de investigación publica un informe cada primavera.",
+        "Ella trabaja para una empresa de investigación en Chicago."
+      ]
+    },
+    {
+      "word": "consumers",
+      "def": "Personas que compran y usan productos o servicios",
+      "ex": [
+        "Los consumidores jóvenes gastan más en experiencias que en ropa.",
+        "La nueva ley protege a los consumidores de cargos ocultos.",
+        "Los consumidores están comprando menos autos nuevos este año."
+      ]
+    },
+    {
+      "word": "ordinary life",
+      "def": "La vida cotidiana normal, no ocasiones especiales",
+      "ex": [
+        "Ella encuentra belleza en la vida cotidiana, como una caminata a la tienda.",
+        "Después del viaje, él estaba feliz de volver a la vida cotidiana.",
+        "Las fotos muestran la vida cotidiana en un pequeño pueblo pesquero."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Las horas que se pasan mirando teléfonos, computadoras o televisores",
+      "ex": [
+        "Los médicos sugieren menos tiempo de pantalla para los niños pequeños.",
+        "Mi teléfono registra mi tiempo de pantalla cada semana.",
+        "Demasiado tiempo de pantalla puede hacer que sea difícil dormir."
+      ]
+    },
+    {
+      "word": "in person",
+      "def": "Físicamente presente, no en línea ni por teléfono",
+      "ex": [
+        "Fue lindo por fin conocerla en persona.",
+        "La clase se reúne en persona dos veces por semana.",
+        "Debes firmar el formulario en persona en la oficina."
+      ]
+    },
+    {
+      "word": "present",
+      "def": "Prestar toda la atención al momento en el que estás",
+      "ex": [
+        "Trata de estar presente cuando estás con tus hijos.",
+        "Él se sintió más presente después de apagar su teléfono.",
+        "El yoga la ayuda a estar presente y tranquila."
+      ]
+    },
+    {
+      "word": "findings",
+      "def": "Los resultados de un estudio o una investigación",
+      "ex": [
+        "Los hallazgos se publicaron en una revista médica.",
+        "Sus hallazgos sorprendieron a todo el equipo.",
+        "Los hallazgos del informe muestran un aumento en las caminatas al trabajo."
+      ]
+    },
+    {
+      "word": "survey",
+      "def": "Un conjunto de preguntas que se hacen a mucha gente para conocer su opinión",
+      "ex": [
+        "La encuesta preguntó a 1.000 adultos sobre el sueño.",
+        "Por favor completa la encuesta después de tu visita.",
+        "Una nueva encuesta muestra que la mayoría de la gente quiere semanas laborales más cortas."
+      ]
+    },
+    {
+      "word": "intentionally",
+      "def": "A propósito, no por accidente",
+      "ex": [
+        "Ella dejó su teléfono en casa a propósito.",
+        "Él llegó temprano a propósito para conseguir un buen asiento.",
+        "La tienda mantiene sus precios bajos a propósito."
+      ]
+    },
+    {
+      "word": "baby boomers",
+      "def": "Los estadounidenses nacidos entre 1946 y 1964",
+      "ex": [
+        "Muchos baby boomers se están jubilando ahora.",
+        "Los baby boomers crecieron sin internet.",
+        "La encuesta comparó a los baby boomers con adultos más jóvenes."
+      ]
+    },
+    {
+      "word": "negative effect",
+      "def": "Un resultado dañino",
+      "ex": [
+        "Dormir mal tiene un efecto negativo en la memoria.",
+        "La huelga tuvo un efecto negativo en la aerolínea.",
+        "El ruido puede tener un efecto negativo en el aprendizaje de los niños."
+      ]
+    },
+    {
+      "word": "reward",
+      "def": "Darle algo bueno a alguien por lo que hizo",
+      "ex": [
+        "La aerolínea premia a los viajeros frecuentes con viajes gratis.",
+        "Los padres a menudo premian las buenas notas con un pequeño regalo.",
+        "La aplicación premia a los usuarios que caminan 10.000 pasos al día."
+      ]
+    },
+    {
+      "word": "pouches",
+      "def": "Bolsas pequeñas y suaves que se cierran por arriba",
+      "ex": [
+        "El personal del concierto puso los teléfonos en bolsas con candado.",
+        "Ella guarda sus monedas en una pequeña bolsa de cuero.",
+        "El canguro lleva a su cría en una bolsa."
+      ]
+    },
+    {
+      "word": "gatherings",
+      "def": "Eventos donde se reúne un grupo de personas",
+      "ex": [
+        "El club de corredores organiza reuniones cada sábado.",
+        "Ella conoció a su socio en una pequeña reunión de trabajadores de tecnología.",
+        "Las reuniones de juegos de mesa son populares en la ciudad."
+      ]
+    },
+    {
+      "word": "heavy",
+      "def": "Muy frecuente o en grandes cantidades",
+      "ex": [
+        "El uso intenso de las redes sociales puede afectar el sueño.",
+        "La ciudad tiene tráfico intenso por la mañana.",
+        "Él toma mucho café."
+      ]
+    },
+    {
+      "word": "psychology professor",
+      "def": "Un profesor universitario que estudia cómo funciona la mente",
+      "ex": [
+        "Una profesora de psicología explicó por qué la gente olvida los nombres.",
+        "El profesor de psicología estudia cómo aprenden los niños.",
+        "Ella se convirtió en profesora de psicología a los 35 años."
+      ]
+    },
+    {
+      "word": "followers",
+      "def": "Personas que eligen ver las publicaciones de alguien en redes sociales",
+      "ex": [
+        "El chef tiene dos millones de seguidores en Instagram.",
+        "Ella perdió seguidores después de la larga pausa.",
+        "Los seguidores del museo votan por la próxima exposición."
+      ]
+    },
+    {
+      "word": "within reach",
+      "def": "Lo bastante cerca como para conseguirlo o disfrutarlo fácilmente",
+      "ex": [
+        "Ten un vaso de agua al alcance de la mano por la noche.",
+        "Con el nuevo tren, la playa está al alcance para una excursión de un día.",
+        "La meta finalmente está al alcance."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "El informe dice que la generación Z usó menos el teléfono este verano.",
+      "a": true,
+      "why": "El informe de la empresa de investigación del 20 de agosto dice que usaron menos el teléfono, estuvieron presentes en eventos en persona, y pasaron más tiempo relajados con amigos cara a cara."
+    },
+    {
+      "s": "En una encuesta de Talker Research, el 29 por ciento de la generación Z dijo que dejó de usar sus teléfonos.",
+      "a": false,
+      "why": "En la encuesta de diciembre de 2025, el 63 por ciento de la generación Z dijo que dejó de usar sus teléfonos a propósito; el 29 por ciento era la cifra de los baby boomers."
+    },
+    {
+      "s": "Algunos restaurantes de una cadena de comida rápida dan helado gratis a los clientes que comen sin teléfono.",
+      "a": true,
+      "why": "Un sitio de noticias informó que algunos restaurantes de una cadena de comida rápida dan helado gratis a los clientes que comen sin sus teléfonos."
+    },
+    {
+      "s": "El Offline Club empezó en Ámsterdam en 2021.",
+      "a": true,
+      "why": "El grupo, que organiza reuniones sin teléfonos, empezó en Ámsterdam en 2021 y ahora organiza eventos en 19 ciudades."
+    },
+    {
+      "s": "Un bar en Carolina del Norte guarda los teléfonos de los clientes en bolsas con candado toda la noche.",
+      "a": false,
+      "why": "Los negocios notaron el cambio, y el bar guarda los teléfonos en bolsas con candado por dos horas, no por toda la noche."
+    },
+    {
+      "s": "El Offline Club tiene menos de 10.000 seguidores en Instagram.",
+      "a": false,
+      "why": "El grupo tiene casi 600.000 seguidores en Instagram, lo que muestra que la tendencia no significa dejar el teléfono por completo."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Una empresa de investigación juvenil dice que la generación Z hizo un esfuerzo deliberado este verano para usar menos el teléfono y disfrutar de la vida real. Encuestas y nuevos negocios sin teléfonos muestran el mismo cambio entre los jóvenes estadounidenses.",
+      "a": true,
+      "why": "La empresa de investigación juvenil informó que la generación Z usó menos el teléfono y estuvo presente en persona, y encuestas de una empresa de encuestas, Talker Research, y Pew muestran un patrón similar."
+    },
+    {
+      "s": "Los jóvenes estadounidenses dejaron sus teléfonos este verano porque los restaurantes y bares en muchos estados ahora los prohíben. Una empresa de investigación juvenil dice que las nuevas reglas empujaron a la generación Z a estar más presente.",
+      "a": false,
+      "why": "Cerca, pero el cambio empezó con los propios jóvenes; los negocios lo notaron después y agregaron límites y recompensas por el teléfono."
+    },
+    {
+      "s": "Un nuevo estudio encontró que los adolescentes que usan redes sociales más de cuatro horas al día duermen menos y sacan notas más bajas. Los investigadores quieren que las escuelas prohíban los teléfonos durante el horario escolar.",
+      "a": false,
+      "why": "No hubo ningún estudio sobre el sueño o las notas ni un llamado a prohibiciones escolares. El informe describió una tendencia de jóvenes que eligen pasar más tiempo fuera de línea."
+    }
+  ],
+  "dialogue": {
+    "That's a new one for me": "Se usa para decir que nunca has oído hablar de una palabra o una idea",
+    "Sounds like a normal summer to me": "Se usa para decir que algo presentado como especial es en realidad ordinario",
+    "I'd do it for the ice cream alone": "Se usa para decir que una pequeña recompensa ya es razón suficiente para participar",
+    "There's some irony in that": "Se usa para señalar que una situación es lo contrario de lo que se esperaría",
+    "I'm all for that": "Se usa para decir que apoyas una idea"
+  }
+}

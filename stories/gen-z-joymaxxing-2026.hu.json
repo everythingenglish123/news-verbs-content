@@ -1,0 +1,418 @@
+{
+  "id": "gen-z-joymaxxing-2026",
+  "number": 108,
+  "lang": "hu",
+  "headline": "A Z generáció a 2026-os nyarat offline örömkereséssel töltötte",
+  "chunks": [
+    "A Z generáció a 2026-os nyarat \"joymaxxinggal\" töltötte, mondja egy kutatócég, amely a fiatal fogyasztókat vizsgálja. A szó azokat a fiatalokat írja le, akik azzal a céllal indultak el, hogy több boldogságot találjanak a mindennapi életben. A cég augusztus 20-i jelentése szerint csökkentették a képernyőidejüket, személyesen megjelentek eseményeken, és több időt töltöttek barátaikkal kellemesen, szemtől szemben. Ahelyett, hogy minden pillanatot rögzítettek volna a közösségi médiának, inkább a jelenlétet választották.",
+    "A jelentés megfelel az idei év más eredményeinek. Egy közvélemény-kutató cég 2025-ös felmérése szerint a 30 év alatti amerikaiak 47 százaléka próbálta csökkenteni a képernyőidejét. A Talker Research 2025 decemberi felmérésében a Z generáció 63 százaléka mondta, hogy szándékosan elrakta a telefonját, szemben a baby boomerek 29 százalékával. A tizenévesek majdnem fele mondja a Pew Researchnek, hogy a közösségi médiának többnyire negatív hatása van rájuk. A számok egy világos mintázattá adódnak össze.",
+    "A vállalkozások észrevették a változást. Egy híroldal 2026 áprilisában arról számolt be, hogy legalább 11 államban éttermek és bárok most korlátozzák a telefonokat, vagy jutalmazzák azokat a vendégeket, akik nem használják őket. Egy észak-karolinai bár két órára zacskóba zárja a telefonokat, és egy gyorsétteremlánc éttermei ingyenes fagylaltot adnak a telefon nélkül étkezőknek. A The Offline Club, egy csoport, amely telefonmentes összejöveteleket szervez, 2021-ben indult Amszterdamban, és most 19 városban tart rendezvényeket.",
+    "A trend a telefonok intenzív használata miatti évek óta tartó aggodalomból fejlődött ki. A Georgetown Egyetem egyik pszichológiaprofesszora azt mondta egy híroldalnak, hogy a telefonmentes terek iránti érdeklődés \"hatalmas dologgá\" vált. Ez nem jelenti a telefon teljes elhagyását: a The Offline Clubnak magának közel 600 000 Instagram-követője van. De ahelyett, hogy megvárnák, míg az élet jobb lesz, mondja a kutatócég, a Z generáció úgy dönt, hogy nyugodtabb tempóban él, és élvezi azt, ami már elérhető közelségben van."
+  ],
+  "verbs": [
+    {
+      "base": "set out",
+      "correct": "Egyértelmű céllal elkezdeni valamit",
+      "wrong": "Időt megtakarítani egy célra"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Kevesebbet használni valamiből",
+      "wrong": "Elveszíteni a kapcsolatot valakivel"
+    },
+    {
+      "base": "show up",
+      "correct": "Jelen lenni egy eseményen",
+      "wrong": "Megpróbálni lenyűgözni másokat"
+    },
+    {
+      "base": "hang out",
+      "correct": "Kellemesen időt tölteni együtt",
+      "wrong": "Egy rövid ideig várakozni"
+    },
+    {
+      "base": "fit in with",
+      "correct": "Megfelelni más információknak",
+      "wrong": "Megadni valakinek a részleteket"
+    },
+    {
+      "base": "put away",
+      "correct": "Egy időre abbahagyni valami használatát",
+      "wrong": "Elhalasztani valamit későbbre"
+    },
+    {
+      "base": "add up to",
+      "correct": "Összeadódni egy eredménnyé",
+      "wrong": "Hozzáadni valamit extraként"
+    },
+    {
+      "base": "pick up on",
+      "correct": "Észrevenni valami újat",
+      "wrong": "Szabályt alkotni valamiről"
+    },
+    {
+      "base": "hand out",
+      "correct": "Sok embernek adni valamit",
+      "wrong": "Átadni az irányítást másnak"
+    },
+    {
+      "base": "put on",
+      "correct": "Megszervezni egy eseményt",
+      "wrong": "Hagyni valakit ott aludni"
+    },
+    {
+      "base": "grow out of",
+      "correct": "Kifejlődni valami korábbiból",
+      "wrong": "Évek alatt felnőtté válni"
+    },
+    {
+      "base": "give up",
+      "correct": "Teljesen abbahagyni valami használatát",
+      "wrong": "Visszaadni valamit a tulajdonosának"
+    },
+    {
+      "base": "slow down",
+      "correct": "Nyugodtabb tempóban élni",
+      "wrong": "Véget vetni valaminek"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Set out",
+      "def": "Egyértelmű céllal elkezdeni valamit",
+      "ex": [
+        "Elkezdte azzal a céllal, hogy egy év alatt megtanul spanyolul.",
+        "A csapat azzal a céllal kezdte, hogy olcsóbb telefont épít.",
+        "Azzal a céllal indult el, hogy minden állami parkot meglátogat."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Kevesebbet használni valamiből",
+      "ex": [
+        "Kevesebb cukrot kell használnunk.",
+        "A cég ebben az évben kevesebb utazást használt.",
+        "Próbálok kevesebbet tévézni késő este."
+      ]
+    },
+    {
+      "verb": "Show up",
+      "def": "Jelen lenni egy eseményen",
+      "ex": [
+        "Több százan voltak jelen a koncerten.",
+        "Ő sosincs jelen időben.",
+        "Csak tíz diák volt jelen a megbeszélésen."
+      ]
+    },
+    {
+      "verb": "Hang out",
+      "def": "Kellemesen időt tölteni együtt",
+      "ex": [
+        "Egész délután kellemesen töltöttük az időt a parkban.",
+        "Az öcsém hétvégén kellemesen tölti az időt a barátaival.",
+        "Akarsz kellemesen időt tölteni munka után?"
+      ]
+    },
+    {
+      "verb": "Fit in with",
+      "def": "Megfelelni más információknak",
+      "ex": [
+        "Az új adatok megfelelnek a korábbi eredményeknek.",
+        "A története nem felel meg annak, amit a rendőrség talált.",
+        "Ezek a számok megfelelnek az országos trendnek."
+      ]
+    },
+    {
+      "verb": "Put away",
+      "def": "Egy időre abbahagyni valami használatát",
+      "ex": [
+        "Kérlek, hagyd abba a laptop használatát vacsora közben.",
+        "Abbahagyta a tablet használatát, és kiment sétálni.",
+        "A gyerekek lefekvés előtt abbahagyták a játékok használatát."
+      ]
+    },
+    {
+      "verb": "Add up to",
+      "def": "Összeadódni egy eredménnyé",
+      "ex": [
+        "A kis változások nagy megtakarítássá adódnak össze.",
+        "Minden bizonyíték egy válasszá adódik össze.",
+        "Néhány perc naponta órákká adódik össze havonta."
+      ]
+    },
+    {
+      "verb": "Pick up on",
+      "def": "Észrevenni valami újat",
+      "ex": [
+        "Azonnal észrevette az idegességét a hangjában.",
+        "A jó vezetők korán észreveszik a kis problémákat.",
+        "A riporter észrevett egy változást a polgármester terveiben."
+      ]
+    },
+    {
+      "verb": "Hand out",
+      "def": "Sok embernek adni valamit",
+      "ex": [
+        "A nővér maszkokat adott az ajtónál.",
+        "Ingyenes mintákat adnak az üzletben.",
+        "Az edző új mezeket adott a csapatnak."
+      ]
+    },
+    {
+      "verb": "Put on",
+      "def": "Megszervezni egy eseményt",
+      "ex": [
+        "A könyvtár minden ősszel könyvvásárt rendez.",
+        "A diákok koncertet rendeznek a szüleiknek.",
+        "A város minden nyáron fesztivált rendez."
+      ]
+    },
+    {
+      "verb": "Grow out of",
+      "def": "Kifejlődni valami korábbiból",
+      "ex": [
+        "A zenekar egy középiskolai zeneklubból nőtt ki.",
+        "Az új törvény évekig tartó panaszokból nőtt ki.",
+        "Vállalkozása egy hétvégi hobbiból nőtt ki."
+      ]
+    },
+    {
+      "verb": "Give up",
+      "def": "Teljesen abbahagyni valami használatát",
+      "ex": [
+        "Tavaly abbahagyta a szénsavas üdítő ivását.",
+        "Lemondott az autójáról, és most biciklivel jár.",
+        "Sosem tudnám feladni a reggeli kávémat."
+      ]
+    },
+    {
+      "verb": "Slow down",
+      "def": "Nyugodtabb tempóban élni",
+      "ex": [
+        "A műtét után az orvos azt mondta neki, hogy lassítson.",
+        "Egy kisvárosba költöztünk, hogy lassítsunk.",
+        "Megtanult lassítani és élvezni a hétvégéit."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "research firm",
+      "def": "Egy cég, amely információt gyűjt és vizsgál ügyfelei számára",
+      "ex": [
+        "Egy kutatócég 2000 embert kérdezett a vásárlási szokásaikról.",
+        "A kutatócég minden tavasszal jelentést tesz közzé.",
+        "Egy kutatócégnél dolgozik Chicagóban."
+      ]
+    },
+    {
+      "word": "consumers",
+      "def": "Emberek, akik termékeket vagy szolgáltatásokat vásárolnak és használnak",
+      "ex": [
+        "A fiatal fogyasztók többet költenek élményekre, mint ruhákra.",
+        "Az új törvény megvédi a fogyasztókat a rejtett díjaktól.",
+        "A fogyasztók idén kevesebb új autót vásárolnak."
+      ]
+    },
+    {
+      "word": "ordinary life",
+      "def": "A normál mindennapi élet, nem különleges alkalmak",
+      "ex": [
+        "Szépséget talál a mindennapi életben, mint egy séta a boltig.",
+        "Az utazás után örült, hogy visszatérhet a mindennapi élethez.",
+        "A fényképek egy kis halászfalu mindennapi életét mutatják."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "A telefonok, számítógépek vagy tévék nézésével töltött órák",
+      "ex": [
+        "Az orvosok kevesebb képernyőidőt javasolnak a kisgyerekeknek.",
+        "A telefonom minden héten nyomon követi a képernyőidőmet.",
+        "A túl sok képernyőidő megnehezítheti az elalvást."
+      ]
+    },
+    {
+      "word": "in person",
+      "def": "Fizikailag jelen lenni, nem online vagy telefonon",
+      "ex": [
+        "Jó volt végre személyesen találkozni vele.",
+        "Az óra hetente kétszer találkozik személyesen.",
+        "A formanyomtatványt személyesen kell aláírnod az irodában."
+      ]
+    },
+    {
+      "word": "present",
+      "def": "Teljes figyelmet fordítani arra a pillanatra, amelyben vagy",
+      "ex": [
+        "Próbálj jelen lenni, amikor a gyerekeiddel vagy.",
+        "Jelenlévőbbnek érezte magát, miután kikapcsolta a telefonját.",
+        "A jóga segít neki jelen lenni és nyugodtnak maradni."
+      ]
+    },
+    {
+      "word": "findings",
+      "def": "Egy tanulmány vagy vizsgálat eredményei",
+      "ex": [
+        "Az eredményeket egy orvosi folyóiratban tették közzé.",
+        "Az eredményei meglepték az egész csapatot.",
+        "A jelentés eredményei a munkába gyaloglás növekedését mutatják."
+      ]
+    },
+    {
+      "word": "survey",
+      "def": "Sok embernek feltett kérdések sora, hogy megismerjék a véleményüket",
+      "ex": [
+        "A felmérés 1000 felnőttet kérdezett az alvásról.",
+        "Kérjük, töltsd ki a felmérést a látogatásod után.",
+        "Egy új felmérés szerint a legtöbb ember rövidebb munkaheteket szeretne."
+      ]
+    },
+    {
+      "word": "intentionally",
+      "def": "Szándékosan, nem véletlenül",
+      "ex": [
+        "Szándékosan otthon hagyta a telefonját.",
+        "Szándékosan érkezett korán, hogy jó helyet kapjon.",
+        "Az üzlet szándékosan alacsonyan tartja az árait."
+      ]
+    },
+    {
+      "word": "baby boomers",
+      "def": "Az 1946 és 1964 között született amerikaiak",
+      "ex": [
+        "Sok baby boomer most vonul nyugdíjba.",
+        "A baby boomerek internet nélkül nőttek fel.",
+        "A felmérés összehasonlította a baby boomereket a fiatalabb felnőttekkel."
+      ]
+    },
+    {
+      "word": "negative effect",
+      "def": "Egy káros eredmény",
+      "ex": [
+        "A rossz alvás negatív hatással van a memóriára.",
+        "A sztrájk negatív hatással volt a légitársaságra.",
+        "A zaj negatív hatással lehet a gyerekek tanulására."
+      ]
+    },
+    {
+      "word": "reward",
+      "def": "Valami jót adni valakinek azért, amit tett",
+      "ex": [
+        "A légitársaság ingyenes utazásokkal jutalmazza a gyakori utasokat.",
+        "A szülők gyakran egy kis ajándékkal jutalmazzák a jó jegyeket.",
+        "Az app megjutalmazza azokat a felhasználókat, akik napi 10 000 lépést tesznek meg."
+      ]
+    },
+    {
+      "word": "pouches",
+      "def": "Kis puha zacskók, amelyek felül záródnak",
+      "ex": [
+        "A koncertszemélyzet zárható zacskókba tette a telefonokat.",
+        "Az érméit egy kis bőrzacskóban tartja.",
+        "A kenguru az erszényében hordja a kicsinyét."
+      ]
+    },
+    {
+      "word": "gatherings",
+      "def": "Események, ahol egy csoport ember összegyűlik",
+      "ex": [
+        "A futóklub minden szombaton összejövetelt tart.",
+        "Egy kis technológiai dolgozói összejövetelen ismerkedett meg az üzlettársával.",
+        "A társasjáték-összejövetelek népszerűek a városban."
+      ]
+    },
+    {
+      "word": "heavy",
+      "def": "Nagyon gyakori vagy nagy mennyiségben",
+      "ex": [
+        "A közösségi média intenzív használata befolyásolhatja az alvást.",
+        "A városban reggel nagy a forgalom.",
+        "Sok kávét iszik."
+      ]
+    },
+    {
+      "word": "psychology professor",
+      "def": "Egyetemi tanár, aki azt tanulmányozza, hogyan működik az elme",
+      "ex": [
+        "Egy pszichológiaprofesszor elmagyarázta, miért felejtik el az emberek a neveket.",
+        "A pszichológiaprofesszor azt tanulmányozza, hogyan tanulnak a gyerekek.",
+        "35 évesen lett pszichológiaprofesszor."
+      ]
+    },
+    {
+      "word": "followers",
+      "def": "Emberek, akik úgy döntenek, hogy látják valaki bejegyzéseit a közösségi médiában",
+      "ex": [
+        "A szakácsnak kétmillió követője van az Instagramon.",
+        "A hosszú szünet után követőket veszített.",
+        "A múzeum követői szavaznak a következő kiállításról."
+      ]
+    },
+    {
+      "word": "within reach",
+      "def": "Elég közel ahhoz, hogy könnyen megszerezhető vagy élvezhető legyen",
+      "ex": [
+        "Tarts egy pohár vizet éjszaka elérhető közelségben.",
+        "Az új vonattal a strand elérhető közelségben van egy napos kirándulásra.",
+        "A cél végre elérhető közelségben van."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "A jelentés szerint a Z generáció csökkentette a képernyőidejét ezen a nyáron.",
+      "a": true,
+      "why": "A kutatócég augusztus 20-i jelentése szerint csökkentették a képernyőidejüket, személyesen megjelentek eseményeken, és több időt töltöttek barátaikkal szemtől szemben."
+    },
+    {
+      "s": "Egy Talker Research felmérésben a Z generáció 29 százaléka mondta, hogy elrakta a telefonját.",
+      "a": false,
+      "why": "A 2025 decemberi felmérésben a Z generáció 63 százaléka mondta, hogy szándékosan elrakta a telefonját; a 29 százalék a baby boomerekre vonatkozó szám volt."
+    },
+    {
+      "s": "Egy gyorsétteremlánc néhány étterme ingyenes fagylaltot ad a telefon nélkül étkező vendégeknek.",
+      "a": true,
+      "why": "Egy híroldal arról számolt be, hogy egy gyorsétteremlánc néhány étterme ingyenes fagylaltot ad a telefon nélkül étkező vendégeknek."
+    },
+    {
+      "s": "A The Offline Club 2021-ben indult Amszterdamban.",
+      "a": true,
+      "why": "A csoport, amely telefonmentes összejöveteleket szervez, 2021-ben indult Amszterdamban, és most 19 városban tart rendezvényeket."
+    },
+    {
+      "s": "Egy észak-karolinai bár egész éjszakára zacskóba zárja a vendégek telefonját.",
+      "a": false,
+      "why": "A vállalkozások észrevették a változást, és a bár két órára zárja zacskóba a telefonokat, nem egész éjszakára."
+    },
+    {
+      "s": "A The Offline Clubnak kevesebb mint 10 000 követője van az Instagramon.",
+      "a": false,
+      "why": "A csoportnak közel 600 000 Instagram-követője van, ami mutatja, hogy a trend nem jelenti a telefon teljes elhagyását."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Egy ifjúsági kutatócég szerint a Z generáció ezen a nyáron tudatos erőfeszítést tett arra, hogy kevesebb telefont használjon és élvezze a valódi életet. Felmérések és új telefonmentes vállalkozások ugyanazt a változást mutatják a fiatal amerikaiak körében.",
+      "a": true,
+      "why": "Az ifjúsági kutatócég arról számolt be, hogy a Z generáció csökkentette a képernyőidőt és személyesen megjelent, és egy közvélemény-kutató cég, a Talker Research és a Pew felmérései hasonló mintázatot mutatnak."
+    },
+    {
+      "s": "A fiatal amerikaiak ezen a nyáron letették a telefonjukat, mert sok államban éttermek és bárok most tiltják azokat. Egy ifjúsági kutatócég szerint az új szabályok arra késztették a Z generációt, hogy jobban jelen legyen.",
+      "a": false,
+      "why": "Majdnem, de a változás magukból a fiatalokból indult ki; a vállalkozások utólag vették észre, és telefonkorlátozásokat és jutalmakat vezettek be."
+    },
+    {
+      "s": "Egy új tanulmány szerint azok a tizenévesek, akik napi négy óránál többet töltenek közösségi médiával, kevesebbet alszanak és rosszabb jegyeket kapnak. A kutatók azt szeretnék, hogy az iskolák tiltsák be a telefonokat a tanítási napon.",
+      "a": false,
+      "why": "Nem volt tanulmány az alvásról vagy a jegyekről, és nem volt felhívás iskolai tiltásra. A jelentés azt a trendet írta le, hogy a fiatalok több időt töltenek internet nélkül."
+    }
+  ],
+  "dialogue": {
+    "That's a new one for me": "Akkor használjuk, amikor azt mondjuk, hogy még sosem hallottunk egy szóról vagy ötletről",
+    "Sounds like a normal summer to me": "Akkor használjuk, amikor azt mondjuk, hogy valami különlegesnek tűnő dolog valójában hétköznapi",
+    "I'd do it for the ice cream alone": "Akkor használjuk, amikor azt mondjuk, hogy egyetlen kis jutalom is elég ok a csatlakozásra",
+    "There's some irony in that": "Akkor használjuk, amikor rámutatunk, hogy egy helyzet pont az ellenkezője annak, amit várnánk",
+    "I'm all for that": "Akkor használjuk, amikor azt mondjuk, hogy támogatunk egy ötletet"
+  }
+}

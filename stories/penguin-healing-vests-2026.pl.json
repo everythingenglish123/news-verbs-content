@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "pl",
+  "headline": "Ranne pingwiny w Chile noszą miedziane kamizelki",
+  "chunks": [
+    "Naukowcy w Chile testują dopasowane czerwone kamizelki na rannych pingwinach Humboldta. Tkanina jest utkana z miedzi i cynku, co może pomóc ranom szybciej się goić. Weterynarze używają podobnych ubranek u psów i kotów, a chilijski zespół opracował wersję dla pingwinów. „Zaczęliśmy się zastanawiać, dlaczego nie można by tego użyć na pingwinach?”, powiedział dyrektor zoo niedaleko Santiago agencji The Associated Press 2 września 2026 roku.",
+    "Niedochodowe centrum ratunkowe w północnym Chile przyjmuje pingwiny, które utknęły na wybrzeżu. Niektóre są pocięte przez sieci rybackie lub śruby łodzi, a inne są osłabione z głodu, powiedziała weterynarka kierująca programem. Pingwiny wykręcają szyje, żeby dziobać rany i wyciągać sobie szwy, więc bandaże trzeba było zmieniać codziennie. Personel zdejmuje kamizelkę na czas leczenia i szybko zakłada ją z powrotem, co ogranicza obchodzenie się z ptakami.",
+    "Miedź i cynk powstrzymują bakterie i grzyby, a cynk pomaga tworzyć nowe naczynia krwionośne, dzięki czemu uszkodzona tkanka szybciej się regeneruje. Chile jest największym na świecie producentem miedzi. Chilijski producent sprzedaje wersję dla zwierząt domowych w ponad 40 krajach. Ubranka zrobione dla czworonożnych zwierząt zwykle zsuwają się na ptaku, który stoi wyprostowany, więc projektanci zmierzyli płetwy, szyje i ogony oraz przetestowali prototypy w zoo, zanim wysłali je do centrum ratunkowego.",
+    "Pingwiny Humboldta w Chile, gatunek narażony na wyginięcie, gwałtownie zmniejszają swoją liczebność. Badania głównych kolonii lęgowych w 2024 i 2025 roku wykazały o 63 procent mniej czynnych gniazd niż trzy lata wcześniej. El Niño ociepla morze i odstrasza ryby, którymi żywią się pingwiny, więc rodzice zostawiają pisklęta, żeby polować. Weterynarka powiedziała, że ptaki dobrze znoszą kamizelki, a rany wyglądały lepiej już po jednym dniu, ale zespół jeszcze nie udowodnił, że kamizelki przyspieszają gojenie."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Wypróbować coś, żeby zobaczyć, jak działa",
+      "wrong": "Przymierzyć ubranie, żeby sprawdzić rozmiar"
+    },
+    {
+      "base": "heal up",
+      "correct": "Znowu stać się zdrowym",
+      "wrong": "Zamknąć coś szczelnie"
+    },
+    {
+      "base": "come up with",
+      "correct": "Wymyślić pomysł lub plan",
+      "wrong": "Napotkać trudny problem"
+    },
+    {
+      "base": "take in",
+      "correct": "Przyjąć kogoś i się nim zaopiekować",
+      "wrong": "Przejąć kontrolę nad miejscem lub grupą"
+    },
+    {
+      "base": "pull out",
+      "correct": "Usunąć coś, pociągając",
+      "wrong": "Wyzdrowieć z ciężkiej choroby"
+    },
+    {
+      "base": "take off",
+      "correct": "Zdjąć coś, co się nosi",
+      "wrong": "Opiekować się chorym zwierzęciem"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Zmniejszyć ilość czegoś",
+      "wrong": "Odseparować kogoś od innych"
+    },
+    {
+      "base": "hold back",
+      "correct": "Powstrzymać coś przed rozprzestrzenianiem się",
+      "wrong": "Utrzymywać coś w cieple i całkowitej suchości"
+    },
+    {
+      "base": "slip down",
+      "correct": "Zsunąć się niżej",
+      "wrong": "Popełnić mały błąd"
+    },
+    {
+      "base": "send off",
+      "correct": "Wysłać lub dostarczyć coś gdzieś",
+      "wrong": "Odesłać coś do producenta"
+    },
+    {
+      "base": "drive away",
+      "correct": "Zmusić coś do odejścia",
+      "wrong": "Sprawić że coś szybko rośnie"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Pójść gdzieś, nie zabierając kogoś",
+      "wrong": "Nie uwzględnić czegoś w grupie"
+    },
+    {
+      "base": "put up with",
+      "correct": "Znosić coś bez narzekania",
+      "wrong": "Ubrać zwierzę w ubranko"
+    },
+    {
+      "base": "speed up",
+      "correct": "Sprawić, że coś dzieje się szybciej",
+      "wrong": "Wykorzystać coś w pełni i całkowicie"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Wypróbować coś, żeby zobaczyć, jak działa",
+      "ex": [
+        "Szkoła testuje w tym semestrze nowy plan zajęć.",
+        "Chcę wypróbować ten rower, zanim go kupię.",
+        "Wypróbowali trzy przepisy na przyjęcie."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Znowu stać się zdrowym",
+      "ex": [
+        "Skaleczenie na mojej ręce zagoiło się w kilka dni.",
+        "Daj oparzeniu czas, żeby się zagoiło.",
+        "Jego kostka zagoiła się przed rozpoczęciem sezonu."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Wymyślić pomysł lub plan",
+      "ex": [
+        "Wymyśliła świetną nazwę dla drużyny.",
+        "Musimy wymyślić plan do piątku.",
+        "Wpadł na ten pomysł pod prysznicem."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Przyjąć kogoś i się nim zaopiekować",
+      "ex": [
+        "Schronisko przyjmuje psy, które nie mają domu.",
+        "Przyjęli dwoje studentów z zagranicy.",
+        "Szpital przyjął dziesiątki pacjentów po burzy."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Usunąć coś, pociągając",
+      "ex": [
+        "Dentysta usunął mi ząb mądrości.",
+        "Wyciągnął drzazgę pęsetą.",
+        "Wyrwała chwasty wzdłuż płotu."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Zdjąć coś, co się nosi",
+      "ex": [
+        "Zdejmij płaszcz i usiądź.",
+        "Zdjął okulary, żeby przeczytać znak.",
+        "Pielęgniarka zdjęła stary bandaż."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Zmniejszyć ilość czegoś",
+      "ex": [
+        "Staram się ograniczyć cukier.",
+        "Miasto chce ograniczyć ruch w centrum.",
+        "Ograniczyliśmy drukowanie, żeby oszczędzać papier."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Powstrzymać coś przed rozprzestrzenianiem się",
+      "ex": [
+        "Worki z piaskiem powstrzymały wodę powodziową.",
+        "Lek powstrzymuje rozprzestrzenianie się infekcji.",
+        "Policja powstrzymała tłum przy bramie."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Zsunąć się niżej",
+      "ex": [
+        "Moje skarpetki ciągle zsuwają się w butach.",
+        "Pasek zsunął się jej z ramienia.",
+        "Czapka dziecka zsunęła się na oczy."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Wysłać lub dostarczyć coś gdzieś",
+      "ex": [
+        "Wysłała paczkę w poniedziałek.",
+        "Wysłaliśmy próbki do laboratorium.",
+        "Wysłał swoje podanie w zeszłym tygodniu."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Zmusić coś do odejścia",
+      "ex": [
+        "Hałas przegonił ptaki z podwórka.",
+        "Wysokie ceny odstraszyły wielu klientów.",
+        "Ciepła woda odstrasza ryby."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Pójść gdzieś, nie zabierając kogoś",
+      "ex": [
+        "Rodzina zostawiła psa, kiedy się przeprowadzała.",
+        "Zostawiła młodszego brata i poszła do parku.",
+        "Autobus zostawił trzech pasażerów."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Znosić coś bez narzekania",
+      "ex": [
+        "Nie mogę już znieść tego hałasu.",
+        "Znosiła ból przez tygodnie.",
+        "Pies zniósł kąpiel bez narzekania."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Sprawić, że coś dzieje się szybciej",
+      "ex": [
+        "Nowa droga skraca podróż na lotnisko.",
+        "Ciepła pogoda przyspiesza wzrost roślin.",
+        "Szybszy komputer przyspieszył naszą pracę."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Dopasowany blisko i wygodnie do ciała",
+      "ex": [
+        "Kurtka była ciasno dopasowana w ramionach.",
+        "Dziecko było ciepło otulone w kocyku.",
+        "Te buty są dopasowane, ale nie ciasne."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Zrobiony przez krzyżowanie nitek nad i pod sobą",
+      "ex": [
+        "Koszyk jest utkany z cienkich pasków drewna.",
+        "Srebrna nić była wpleciona w suknię.",
+        "Dywan został utkany ręcznie w Peru."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Obrażenia, w których skóra jest przecięta lub uszkodzona",
+      "ex": [
+        "Pielęgniarka oczyściła rany na jego ramieniu.",
+        "Głębokie rany mogą wymagać szwów.",
+        "Pies polizał ranę na łapie."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Pozostawiony gdzieś, bez możliwości poruszania się lub ucieczki",
+      "ex": [
+        "Ratownicy znaleźli na plaży wieloryba, który utknął na mieliźnie.",
+        "Burza uwięziła setki podróżnych na lotnisku.",
+        "Foka, która utknęła na mieliźnie, została zaniesiona z powrotem do wody."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Duże sieci używane do łowienia ryb w morzu",
+      "ex": [
+        "Stare sieci rybackie mogą uwięzić żółwie i ptaki.",
+        "Załoga naprawiła sieci rybackie na nabrzeżu.",
+        "Nurkowie usunęli sieci rybackie z rafy."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Obracające się łopatki, które napędzają łódź lub samolot",
+      "ex": [
+        "Śruby łodzi mogą ranić zwierzęta morskie.",
+        "Samolot ma dwa śmigła na każdym skrzydle.",
+        "Wodorosty zaplątały się w śrubie."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Działający, żeby pomagać ludziom lub zwierzętom, a nie zarabiać pieniądze",
+      "ex": [
+        "Prowadzi organizację non profit, która żywi bezdomne rodziny.",
+        "Organizacja non profit zależy od darowizn.",
+        "Organizacja non profit posadziła drzewa w parku."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Miejsce, w którym zwierzęta są ratowane i pod opieką",
+      "ex": [
+        "Centrum ratunkowe przyjęło trzy młode foki.",
+        "Wolontariusze w centrum ratunkowym karmią ptaki dwa razy dziennie.",
+        "Żółw został wypuszczony z centrum ratunkowego w maju."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Uderzać lub gryźć coś dziobem",
+      "ex": [
+        "Kury dziobią ziarna na ziemi.",
+        "Papuga dziobnęła mnie w palec.",
+        "Dzięcioł wydziobuje dziury w drzewach."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Nici używane przez lekarza do zszywania rany",
+      "ex": [
+        "Potrzebował sześciu szwów na brodzie.",
+        "Lekarz zdjął szwy po dziesięciu dniach.",
+        "Nie mocz szwów."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Paski materiału owinięte wokół rany",
+      "ex": [
+        "Pielęgniarka zmieniała bandaże każdego ranka.",
+        "Trzymaj bandaż czysty i suchy.",
+        "Owinął bandaż wokół kolana."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Rurki, które przenoszą krew przez ciało",
+      "ex": [
+        "Ćwiczenia utrzymują naczynia krwionośne w zdrowiu.",
+        "Drobne naczynia krwionośne dostarczają tlen do skóry.",
+        "Skaleczenie uszkodziło kilka małych naczyń krwionośnych."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "Materiał, z którego zbudowane są części ciała",
+      "ex": [
+        "Oparzenie uszkodziło tkankę pod skórą.",
+        "Tkanka mięśniowa regeneruje się po ćwiczeniach.",
+        "Lekarze usunęli uszkodzoną tkankę."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "Stojący prosto, a nie leżący płasko",
+      "ex": [
+        "Pingwiny chodzą wyprostowane na dwóch nogach.",
+        "Trzymaj butelkę pionowo, żeby się nie rozlała.",
+        "Usiadł prosto, gdy wszedł nauczyciel."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Płaskie kończyny, których pingwiny i foki używają do pływania",
+      "ex": [
+        "Pingwin machał płetwami i zanurkował.",
+        "Foki używają płetw do poruszania się na lądzie.",
+        "Płetwy żółwia zaplątały się w sieci."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Pierwsze wersje produktu zrobione do testów",
+      "ex": [
+        "Firma zbudowała trzy prototypy nowego samochodu.",
+        "Inżynierowie testowali prototyp przez miesiąc.",
+        "Pierwsze prototypy były zbyt ciężkie."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Rodzaj zwierzęcia lub rośliny narażony na wyginięcie",
+      "ex": [
+        "Niedźwiedź polarny jest wymieniony jako gatunek narażony na wyginięcie.",
+        "Prawo chroni gatunki narażone na wyginięcie przed polowaniem.",
+        "Naukowcy śledzą gatunki narażone na wyginięcie za pomocą znaczników."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Miejsca, w których wiele zwierząt gromadzi się, żeby mieć młode",
+      "ex": [
+        "Tysiące ptaków morskich wraca do kolonii lęgowych każdej wiosny.",
+        "Wyspa ma jedną z największych kolonii lęgowych fok.",
+        "Turyści nie mogą wchodzić do kolonii lęgowej."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Gniazda, których ptaki używają do wychowywania młodych",
+      "ex": [
+        "Strażnicy naliczyli 200 czynnych gniazd na klifie.",
+        "Liczba czynnych gniazd spadła po burzy.",
+        "Każde czynne gniazdo miało dwa jajka."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Kamizelki są czerwone i zawierają miedź i cynk.",
+      "a": true,
+      "why": "Naukowcy w Chile testują dopasowane czerwone kamizelki, których tkanina jest utkana z miedzi i cynku."
+    },
+    {
+      "s": "Pingwiny zmierzono do pierwszych kamizelek w centrum ratunkowym.",
+      "a": false,
+      "why": "Naukowcy zmierzyli pingwiny w zoo niedaleko Santiago, a prototypy zostały potem wysłane do centrum ratunkowego."
+    },
+    {
+      "s": "Cynk w tkaninie pomaga tworzyć nowe naczynia krwionośne.",
+      "a": true,
+      "why": "Miedź i cynk powstrzymują bakterie i grzyby, a cynk pomaga tworzyć nowe naczynia krwionośne, dzięki czemu uszkodzona tkanka szybciej się regeneruje."
+    },
+    {
+      "s": "Zespół udowodnił, że kamizelki przyspieszają gojenie.",
+      "a": false,
+      "why": "Weterynarka powiedziała, że ptaki dobrze znoszą kamizelki, a rany wyglądały lepiej już po jednym dniu, ale zespół jeszcze nie udowodnił, że kamizelki przyspieszają gojenie."
+    },
+    {
+      "s": "Badania wykazały o 63 procent mniej czynnych gniazd niż trzy lata wcześniej.",
+      "a": true,
+      "why": "Badania głównych kolonii lęgowych w 2024 i 2025 roku wykazały o 63 procent mniej czynnych gniazd, a El Niño odstrasza ryby, którymi żywią się pingwiny."
+    },
+    {
+      "s": "Przed kamizelkami bandaże pingwinów zmieniano raz w tygodniu.",
+      "a": false,
+      "why": "Pingwiny dziobią rany i wyciągają sobie szwy, więc bandaże trzeba było zmieniać codziennie."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Chilijscy naukowcy testują czerwone kamizelki utkane z miedzi i cynku na rannych pingwinach Humboldta. Kamizelki powstrzymują ptaki przed usuwaniem szwów i mogą pomóc ranom szybciej się zamykać.",
+      "a": true,
+      "why": "Kamizelki powstały na bazie ubranek dla zwierząt domowych, a miedź i cynk w tkaninie powstrzymują bakterie, podczas gdy ubranko nie pozwala pingwinom wyciągać sobie szwów."
+    },
+    {
+      "s": "Centra ratunkowe w Chile udowodniły, że miedziane kamizelki goją rany pingwinów dwa razy szybciej niż bandaże. Ubranka, zrobione najpierw dla psów i kotów, są teraz sprzedawane do zoo w 40 krajach.",
+      "a": false,
+      "why": "Blisko, ale zespół jeszcze nie udowodnił, że kamizelki przyspieszają gojenie, a to wersja dla zwierząt domowych jest sprzedawana w ponad 40 krajach."
+    },
+    {
+      "s": "Naukowcy w Chile policzyli pingwiny Humboldta w kraju i odkryli o 63 procent mniej ptaków niż w 2021 roku. Obwiniają sieci rybackie i plastik i chcą nowych obszarów chronionych wzdłuż wybrzeża.",
+      "a": false,
+      "why": "Liczba 63 procent to spadek czynnych gniazd w koloniach lęgowych, a wiadomość dotyczy kamizelek testowanych na rannych pingwinach, a nie planu obszarów chronionych."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Używane, żeby powiedzieć, że coś brzmi tak urocze lub zabawne, że naprawdę chce się to zobaczyć",
+    "Poor things": "Używane, żeby okazać współczucie zwierzętom lub ludziom, którzy cierpią",
+    "That figures": "Używane, żeby powiedzieć, że coś ma sens, gdy pozna się fakty",
+    "Too soon to say": "Używane, żeby powiedzieć, że nie ma jeszcze wystarczających dowodów, żeby coś ocenić",
+    "Every little bit helps": "Używane, żeby powiedzieć, że nawet mały wkład lub poprawa są przydatne"
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "id": "nyc-clean-air-children-2026",
+  "number": 106,
+  "lang": "es",
+  "headline": "Aire más limpio en Nueva York vinculado a puntajes más altos en niños pequeños",
+  "chunks": [
+    "Los niños de la ciudad de Nueva York obtuvieron puntajes más altos en pruebas de desarrollo mental temprano a medida que el aire que respiraban sus madres durante el embarazo se volvió más limpio, informa la Universidad de Columbia. El estudio se publicó en la revista Environmental Health el 15 de agosto de 2026. El equipo siguió a más de 1,000 parejas de madre e hijo que se inscribieron entre 1998 y 2020 en el norte de Manhattan y el sur del Bronx, dos zonas de bajos ingresos donde los niños crecieron.",
+    "Columbia dice que las partículas finas bajaron 32 por ciento y el dióxido de nitrógeno 30 por ciento entre 1998 y 2016. Un grupo de sustancias químicas nocivas provenientes de la quema de combustibles fósiles cayó 60 por ciento entre 1998 y 2020. Las mujeres embarazadas usaron monitores en mochilas para medir esas sustancias químicas, y los demás contaminantes se calcularon en cada hogar. Los niños fueron evaluados a las edades de 1, 2 y 3 años. Los puntajes a los 3 años subieron 26 por ciento entre el grupo más antiguo y el más reciente, después de que el equipo tomara en cuenta la educación de la madre, el sexo del niño y si se fumaba en casa.",
+    "Los investigadores vinculan el aire más limpio con políticas que la ciudad introdujo durante esos años. El Programa de Autobuses de Combustible Limpio y la legislación de Taxis de Aire Limpio redujeron las emisiones del tráfico. El Programa de Calor Limpio eliminó gradualmente el uso de aceite de calefacción sucio en los edificios, y la Ley de Movilización Climática exigió a los edificios más grandes reducir los gases de efecto invernadero. \"Las políticas para reducir las emisiones de combustibles fósiles benefician a los cerebros en desarrollo\", dijo el profesor de Columbia que dirigió el estudio, y añadió que los resultados respaldan los esfuerzos por mantener los recortes.",
+    "El equipo se propuso comprobar si el aire más limpio derivado de estas políticas estaba vinculado a mejores puntajes cognitivos, el primer estudio en hacerlo durante 20 años. Tiene límites. Solo 1,109 de los 1,446 niños tenían resultados de pruebas, así que el resto quedó fuera. Los autores también señalan que cambios que el estudio no midió, como cambios en los vecindarios, podrían explicar parte de las mejoras."
+  ],
+  "verbs": [
+    {
+      "base": "come out",
+      "correct": "Publicarse en una revista",
+      "wrong": "Mencionarse en un informe"
+    },
+    {
+      "base": "sign up",
+      "correct": "Inscribirse en un estudio o programa",
+      "wrong": "Dar una aprobación oficial"
+    },
+    {
+      "base": "grow up",
+      "correct": "Pasar la infancia en un lugar",
+      "wrong": "Volverse más popular con el tiempo"
+    },
+    {
+      "base": "go down",
+      "correct": "Bajar a un nivel más bajo",
+      "wrong": "Continuar durante mucho tiempo"
+    },
+    {
+      "base": "go up",
+      "correct": "Subir a un nivel más alto",
+      "wrong": "Revisar algo con cuidado"
+    },
+    {
+      "base": "factor in",
+      "correct": "Incluir algo en un cálculo",
+      "wrong": "Probar algo por segunda vez"
+    },
+    {
+      "base": "bring in",
+      "correct": "Introducir una nueva ley o norma",
+      "wrong": "Mencionar un tema para discutirlo"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Reducir la cantidad de algo",
+      "wrong": "Detener el suministro de algo"
+    },
+    {
+      "base": "phase out",
+      "correct": "Terminar gradualmente el uso de algo",
+      "wrong": "Introducir algo por etapas"
+    },
+    {
+      "base": "keep up",
+      "correct": "Continuar al mismo nivel",
+      "wrong": "Impedir que algo entre"
+    },
+    {
+      "base": "set out",
+      "correct": "Empezar una tarea con un objetivo claro",
+      "wrong": "Guardar algo para usarlo después"
+    },
+    {
+      "base": "leave out",
+      "correct": "No incluir algo",
+      "wrong": "Guardarlo para después"
+    },
+    {
+      "base": "point out",
+      "correct": "Decirle a la gente un hecho",
+      "wrong": "Ser una señal de algo"
+    },
+    {
+      "base": "account for",
+      "correct": "Ser la causa de algo",
+      "wrong": "Medir algo con exactitud"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "def": "Publicarse en una revista",
+      "ex": [
+        "Su primera novela se publicó en 2019.",
+        "El nuevo informe se publica el viernes.",
+        "El estudio se publicó la semana pasada."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "def": "Inscribirse en un estudio o programa",
+      "ex": [
+        "Me inscribí en una clase de español.",
+        "Doscientas personas se inscribieron en el ensayo clínico.",
+        "Puedes inscribirte en línea en pocos minutos."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "def": "Pasar la infancia en un lugar",
+      "ex": [
+        "Él creció en un pueblo pequeño de Texas.",
+        "Mis padres crecieron cerca del mar.",
+        "Los niños que crecen en las ciudades ven menos estrellas."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Bajar a un nivel más bajo",
+      "ex": [
+        "Los precios bajaron después de Año Nuevo.",
+        "El número de accidentes bajó.",
+        "La fiebre bajó para la mañana."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Subir a un nivel más alto",
+      "ex": [
+        "El alquiler sube cada año.",
+        "Sus calificaciones subieron este semestre.",
+        "Los precios de las entradas subieron otra vez."
+      ]
+    },
+    {
+      "verb": "Factor in",
+      "def": "Incluir algo en un cálculo",
+      "ex": [
+        "Incluye el impuesto antes de decidir.",
+        "El plan no incluye el mal tiempo.",
+        "Incluimos el tiempo de viaje y salimos temprano."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Introducir una nueva ley o norma",
+      "ex": [
+        "La ciudad introdujo una nueva norma de estacionamiento.",
+        "La empresa introdujo un código de vestimenta.",
+        "Los legisladores planean introducir límites más estrictos."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Reducir la cantidad de algo",
+      "ex": [
+        "Necesito reducir el café.",
+        "La fábrica redujo sus desechos.",
+        "Redujimos el uso del auto para ahorrar gasolina."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Terminar gradualmente el uso de algo",
+      "ex": [
+        "La aerolínea está eliminando gradualmente sus aviones más antiguos.",
+        "La tienda eliminó gradualmente las bolsas de plástico.",
+        "Las plantas de carbón se eliminarán gradualmente para 2035."
+      ]
+    },
+    {
+      "verb": "Keep up",
+      "def": "Continuar al mismo nivel",
+      "ex": [
+        "Ella continuó con sus caminatas diarias durante todo el invierno.",
+        "Es difícil continuar con un buen hábito.",
+        "El equipo continuó con la presión en el segundo tiempo."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "Empezar una tarea con un objetivo claro",
+      "ex": [
+        "Se propusieron construir un auto más barato.",
+        "Se propuso correr un maratón antes de los 40.",
+        "El equipo se propuso responder una pregunta."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "def": "No incluir algo",
+      "ex": [
+        "No dejes fuera tu número de teléfono en el formulario.",
+        "El informe dejó fuera dos datos importantes.",
+        "Dejó el azúcar fuera de la receta."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Decirle a la gente un hecho",
+      "ex": [
+        "El maestro señaló un error en mi ensayo.",
+        "Señaló que la tienda cierra a las seis.",
+        "Déjame señalar un problema con el plan."
+      ]
+    },
+    {
+      "verb": "Account for",
+      "def": "Ser la causa de algo",
+      "ex": [
+        "El tráfico es la causa de la mayor parte del ruido aquí.",
+        "La tormenta fue la causa del retraso.",
+        "El estrés podría ser la causa de sus dolores de cabeza."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "mental development",
+      "def": "El crecimiento de la capacidad de un niño para pensar, aprender y entender",
+      "ex": [
+        "El juego es importante para el desarrollo mental de un niño.",
+        "Los médicos revisan el desarrollo mental en cada visita.",
+        "Una buena nutrición favorece el desarrollo mental."
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "def": "El tiempo en que una mujer tiene un bebé creciendo dentro de ella",
+      "ex": [
+        "Dejó de tomar café durante su embarazo.",
+        "El médico la siguió durante todo el embarazo.",
+        "Fumar durante el embarazo puede dañar al bebé."
+      ]
+    },
+    {
+      "word": "journal",
+      "def": "Una revista donde los científicos publican sus investigaciones",
+      "ex": [
+        "El artículo apareció en una revista médica.",
+        "La revista publica nuevos estudios cada mes.",
+        "Los expertos revisan cada artículo antes de que la revista lo publique."
+      ]
+    },
+    {
+      "word": "low-income",
+      "def": "Tener poco dinero en comparación con la mayoría de la gente",
+      "ex": [
+        "El programa ayuda a las familias de bajos ingresos a pagar la calefacción.",
+        "Muchos vecindarios de bajos ingresos tienen menos parques.",
+        "La clínica ofrece atención gratuita a pacientes de bajos ingresos."
+      ]
+    },
+    {
+      "word": "pollutants",
+      "def": "Sustancias que ensucian o dañan el aire, el agua o la tierra",
+      "ex": [
+        "Los autos liberan contaminantes en el aire.",
+        "El río transporta contaminantes de la fábrica.",
+        "Las mascarillas pueden bloquear algunos contaminantes."
+      ]
+    },
+    {
+      "word": "fine particles",
+      "def": "Pedacitos muy pequeños de polvo o humo en el aire que pueden entrar a los pulmones",
+      "ex": [
+        "El humo de incendios forestales está lleno de partículas finas.",
+        "Las partículas finas del tráfico pueden llegar a los pulmones.",
+        "El monitor cuenta las partículas finas en el aire."
+      ]
+    },
+    {
+      "word": "harmful chemicals",
+      "def": "Sustancias que pueden dañar la salud",
+      "ex": [
+        "Algunos productos de limpieza contienen sustancias químicas nocivas.",
+        "La fábrica liberó sustancias químicas nocivas en el río.",
+        "El humo de cigarrillo tiene docenas de sustancias químicas nocivas."
+      ]
+    },
+    {
+      "word": "fossil fuels",
+      "def": "Carbón, petróleo y gas natural, que se queman para obtener energía",
+      "ex": [
+        "La mayoría de los camiones todavía funcionan con combustibles fósiles.",
+        "Quemar combustibles fósiles calienta el planeta.",
+        "La ciudad quiere usar menos combustibles fósiles para 2040."
+      ]
+    },
+    {
+      "word": "monitors",
+      "def": "Aparatos que miden y registran algo con el tiempo",
+      "ex": [
+        "Los monitores de aire en el techo rastrean los niveles de contaminación.",
+        "La enfermera conectó monitores cardíacos al paciente.",
+        "Pequeños monitores en la mochila midieron el aire."
+      ]
+    },
+    {
+      "word": "estimated",
+      "def": "Calculado aproximadamente en lugar de medido con exactitud",
+      "ex": [
+        "El costo estimado del puente es de 2 mil millones de dólares.",
+        "La policía calculó a la multitud en 5,000 personas.",
+        "Su hora de llegada estimada es las 6 de la tarde."
+      ]
+    },
+    {
+      "word": "legislation",
+      "def": "Una ley o conjunto de leyes creadas por un gobierno",
+      "ex": [
+        "La nueva legislación prohíbe fumar en los parques.",
+        "El Congreso aprobó legislación sobre agua limpia.",
+        "La legislación entra en vigor en enero."
+      ]
+    },
+    {
+      "word": "traffic emissions",
+      "def": "Gases y partículas liberados por autos, camiones y autobuses",
+      "ex": [
+        "Las emisiones del tráfico son peores durante la hora pico.",
+        "La ciudad mide las emisiones del tráfico en las calles principales.",
+        "Los autobuses eléctricos no producen emisiones del tráfico."
+      ]
+    },
+    {
+      "word": "heating oil",
+      "def": "Aceite que se quema en un edificio para mantenerlo caliente",
+      "ex": [
+        "Muchos edificios viejos todavía queman aceite de calefacción.",
+        "El precio del aceite de calefacción sube en invierno.",
+        "El camión entrega aceite de calefacción al edificio de apartamentos."
+      ]
+    },
+    {
+      "word": "greenhouse gases",
+      "def": "Gases como el dióxido de carbono que atrapan el calor en la atmósfera",
+      "ex": [
+        "Los autos y las plantas de energía producen gases de efecto invernadero.",
+        "La ley busca reducir los gases de efecto invernadero a la mitad.",
+        "Las vacas también liberan gases de efecto invernadero."
+      ]
+    },
+    {
+      "word": "cognitive scores",
+      "def": "Resultados en pruebas de pensamiento, memoria y aprendizaje",
+      "ex": [
+        "El sueño mejora los puntajes cognitivos de los niños.",
+        "Los puntajes cognitivos de los pacientes se revisaban cada año.",
+        "La exposición al plomo reduce los puntajes cognitivos."
+      ]
+    },
+    {
+      "word": "shifts",
+      "def": "Cambios de una situación a otra",
+      "ex": [
+        "Ha habido grandes cambios en la forma en que la gente compra.",
+        "La encuesta muestra cambios en la opinión pública.",
+        "Pequeños cambios en la temperatura pueden dañar los cultivos."
+      ]
+    },
+    {
+      "word": "gains",
+      "def": "Mejoras o aumentos",
+      "ex": [
+        "Los estudiantes lograron grandes avances en lectura.",
+        "La empresa reportó avances en las ventas.",
+        "Los pequeños avances diarios se suman a un gran resultado."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Las sustancias químicas de la quema de combustibles fósiles cayeron 60 por ciento para 2020.",
+      "a": true,
+      "why": "Columbia informó que las sustancias químicas nocivas de la quema de combustibles fósiles cayeron 60 por ciento entre 1998 y 2020, mientras que las partículas finas y el dióxido de nitrógeno bajaron cerca de 30 por ciento."
+    },
+    {
+      "s": "Los niños fueron evaluados a las edades de 5, 6 y 7 años.",
+      "a": false,
+      "why": "Los niños tomaron una prueba estándar a las edades de 1, 2 y 3 años, y los puntajes a los 3 años subieron 26 por ciento del grupo más antiguo al más reciente."
+    },
+    {
+      "s": "Más de 1,000 parejas de madre e hijo se inscribieron en el estudio.",
+      "a": true,
+      "why": "Se inscribieron entre 1998 y 2020 en el norte de Manhattan y el sur del Bronx, y las mujeres embarazadas usaron monitores en mochilas para medir las sustancias químicas."
+    },
+    {
+      "s": "El Programa de Calor Limpio eliminó gradualmente el uso de aceite de calefacción sucio en los edificios.",
+      "a": true,
+      "why": "El Programa de Calor Limpio eliminó gradualmente el uso de aceite de calefacción sucio, y la Ley de Movilización Climática exigió a los edificios más grandes reducir los gases de efecto invernadero."
+    },
+    {
+      "s": "El estudio se publicó en la revista Science el 15 de agosto de 2026.",
+      "a": false,
+      "why": "El estudio se publicó en la revista Environmental Health el 15 de agosto de 2026, por investigadores de la Universidad de Columbia."
+    },
+    {
+      "s": "Los 1,446 niños del estudio tenían resultados de pruebas.",
+      "a": false,
+      "why": "Solo 1,109 de los 1,446 niños tenían resultados de pruebas, así que el resto quedó fuera del análisis."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Los investigadores siguieron a familias de la ciudad de Nueva York durante más de 20 años mientras la contaminación del tráfico y la calefacción disminuía. El aire más limpio durante el embarazo se vinculó con puntajes más altos de desarrollo temprano en los niños.",
+      "a": true,
+      "why": "Se siguió a más de 1,000 parejas de madre e hijo de 1998 a 2020, y los puntajes a los 3 años subieron 26 por ciento a medida que bajaron las partículas finas, el dióxido de nitrógeno y las sustancias químicas de los combustibles fósiles."
+    },
+    {
+      "s": "Un estudio de 20 años encontró que los niños de la ciudad de Nueva York obtuvieron puntajes más altos en pruebas de desarrollo a medida que bajaba la contaminación del aire. Los investigadores dicen que el aire más limpio provino principalmente del cierre de fábricas antiguas.",
+      "a": false,
+      "why": "Cerca, pero los investigadores vinculan el aire más limpio con políticas de la ciudad sobre autobuses, taxis, aceite de calefacción y emisiones de edificios, no con el cierre de fábricas."
+    },
+    {
+      "s": "La ciudad de Nueva York aprobó una ley que exige que cada autobús escolar funcione con electricidad para 2035. Los funcionarios de salud dicen que el cambio protegerá a los niños del humo dañino en sus traslados diarios.",
+      "a": false,
+      "why": "No hubo ninguna nueva ley de autobuses escolares. El estudio analizó políticas aprobadas entre 1998 y 2020 y cómo cambiaron los puntajes de las pruebas de los niños a medida que el aire se volvía más limpio."
+    }
+  ],
+  "dialogue": {
+    "Those are real numbers": "Se usa para decir que un cambio o una cantidad es lo bastante grande para importar, no pequeño ni vago",
+    "Good news for once": "Se usa para dar la bienvenida a una noticia positiva después de muchas malas",
+    "Credit where it's due": "Se usa para admitir que alguien merece elogios, aunque normalmente no se lo elogie",
+    "Points for saying so": "Se usa para reconocerle a alguien que admita abiertamente una debilidad o un problema en lugar de ocultarlo",
+    "Hard to argue with": "Se usa para decir que una evidencia o un resultado es tan claro que nadie podría discrepar razonablemente",
+    "Is there a catch?": "Se usa para preguntar si algo que suena bien tiene un problema o una condición oculta"
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "id",
+  "headline": "Penguin terluka di Chile memakai rompi tembaga",
+  "chunks": [
+    "Peneliti di Chile sedang mencoba rompi merah yang pas pada penguin Humboldt yang terluka. Kainnya ditenun dengan tembaga dan seng, yang mungkin membantu luka sembuh lebih cepat. Dokter hewan menggunakan pakaian serupa pada anjing dan kucing, dan tim Chile menciptakan versi untuk penguin. \"Kami mulai bertanya-tanya, kenapa ini tidak bisa dipakai pada penguin?\" kata direktur kebun binatang dekat Santiago kepada The Associated Press pada 2 September 2026.",
+    "Sebuah pusat penyelamatan nirlaba di Chile utara menerima penguin yang terdampar dari pantai. Beberapa terluka oleh jaring ikan atau baling-baling perahu, dan yang lain lemah karena kelaparan, kata dokter hewan yang memimpin program tersebut. Penguin memutar leher mereka untuk mematuk luka dan menarik keluar jahitan mereka, dan perban harus diganti setiap hari. Staf melepas rompi untuk perawatan dan menggantinya dengan cepat, yang mengurangi penanganan langsung terhadap burung tersebut.",
+    "Tembaga dan seng menahan bakteri dan jamur, dan seng membantu pembentukan pembuluh darah baru, sehingga jaringan yang rusak pulih lebih cepat. Chile adalah produsen tembaga terbesar di dunia. Pembuat asal Chile menjual versi untuk hewan peliharaan di lebih dari 40 negara. Pakaian yang dibuat untuk hewan peliharaan berkaki empat cenderung merosot turun pada burung yang berdiri tegak, jadi para desainer mengukur sirip, leher, dan ekor lalu menguji prototipe di kebun binatang sebelum mengirimkannya ke pusat penyelamatan.",
+    "Penguin Humboldt Chile, spesies yang rentan, mengalami penurunan tajam. Survei koloni pembiakan utama pada 2024 dan 2025 menemukan 63 persen lebih sedikit sarang aktif dibandingkan tiga tahun sebelumnya. El Niño menghangatkan laut dan mengusir ikan yang menjadi makanan mereka, sehingga induk meninggalkan anak-anaknya untuk berburu. Dokter hewan itu mengatakan burung-burung menerima rompi dengan baik dan luka terlihat lebih baik dalam sehari, tetapi tim belum membuktikan bahwa rompi mempercepat penyembuhan."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Menguji sesuatu untuk melihat cara kerjanya",
+      "wrong": "Memakai pakaian untuk memeriksa ukurannya"
+    },
+    {
+      "base": "heal up",
+      "correct": "Menjadi sehat kembali",
+      "wrong": "Menutup sesuatu dengan rapat"
+    },
+    {
+      "base": "come up with",
+      "correct": "Memikirkan sebuah ide atau rencana",
+      "wrong": "Menghadapi masalah yang sulit"
+    },
+    {
+      "base": "take in",
+      "correct": "Menerima seseorang dan memberinya perawatan",
+      "wrong": "Mengambil alih kendali suatu tempat"
+    },
+    {
+      "base": "pull out",
+      "correct": "Mengeluarkan sesuatu dengan menarik",
+      "wrong": "Sembuh dari penyakit yang serius"
+    },
+    {
+      "base": "take off",
+      "correct": "Melepas sesuatu yang dikenakan",
+      "wrong": "Merawat hewan yang sakit atau terluka"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Mengurangi jumlah sesuatu",
+      "wrong": "Memisahkan orang dari kelompoknya"
+    },
+    {
+      "base": "hold back",
+      "correct": "Mencegah sesuatu menyebar",
+      "wrong": "Menjaga sesuatu hangat dan kering"
+    },
+    {
+      "base": "slip down",
+      "correct": "Merosot ke posisi yang lebih rendah",
+      "wrong": "Membuat kesalahan kecil karena ceroboh"
+    },
+    {
+      "base": "send off",
+      "correct": "Mengirim sesuatu ke suatu tempat",
+      "wrong": "Mengembalikan sesuatu kepada pembuatnya"
+    },
+    {
+      "base": "drive away",
+      "correct": "Memaksa sesuatu untuk pergi",
+      "wrong": "Membuat sesuatu naik dengan cepat"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Pergi ke suatu tempat tanpa membawa seseorang",
+      "wrong": "Tidak menyertakan sesuatu dalam sebuah kelompok"
+    },
+    {
+      "base": "put up with",
+      "correct": "Menerima sesuatu tanpa mengeluh",
+      "wrong": "Memakaikan pakaian pada hewan"
+    },
+    {
+      "base": "speed up",
+      "correct": "Membuat sesuatu terjadi lebih cepat",
+      "wrong": "Menghabiskan sesuatu sepenuhnya"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Menguji sesuatu untuk melihat cara kerjanya",
+      "ex": [
+        "Sekolah sedang mencoba jadwal baru musim gugur ini.",
+        "Saya ingin mencoba sepeda itu sebelum membelinya.",
+        "Mereka mencoba tiga resep untuk pesta itu."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Menjadi sehat kembali",
+      "ex": [
+        "Luka di tanganku sembuh dalam beberapa hari.",
+        "Beri waktu bagi luka bakar itu untuk sembuh.",
+        "Pergelangan kakinya sembuh sebelum musim dimulai."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Memikirkan sebuah ide atau rencana",
+      "ex": [
+        "Dia memikirkan nama yang bagus untuk tim itu.",
+        "Kita perlu memikirkan rencana sebelum hari Jumat.",
+        "Dia mendapat ide itu saat mandi."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Menerima seseorang dan memberinya perawatan",
+      "ex": [
+        "Penampungan menerima anjing yang tidak punya rumah.",
+        "Mereka menerima dua siswa dari luar negeri.",
+        "Rumah sakit menerima puluhan pasien setelah badai."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Mengeluarkan sesuatu dengan menarik",
+      "ex": [
+        "Dokter gigi mencabut gigi bungsuku.",
+        "Dia mengeluarkan serpihan kayu dengan pinset.",
+        "Dia mencabut rumput liar di sepanjang pagar."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Melepas sesuatu yang dikenakan",
+      "ex": [
+        "Lepas mantelmu dan duduklah.",
+        "Dia melepas kacamatanya untuk membaca tanda itu.",
+        "Perawat melepas perban lama."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Mengurangi jumlah sesuatu",
+      "ex": [
+        "Saya sedang berusaha mengurangi gula.",
+        "Kota itu ingin mengurangi lalu lintas di pusat kota.",
+        "Kami mengurangi percetakan untuk menghemat kertas."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Mencegah sesuatu menyebar",
+      "ex": [
+        "Karung pasir menahan air banjir.",
+        "Obat itu menahan penyebaran infeksi.",
+        "Polisi menahan kerumunan di gerbang."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Merosot ke posisi yang lebih rendah",
+      "ex": [
+        "Kaus kakiku terus merosot di dalam sepatu botku.",
+        "Talinya merosot dari bahunya.",
+        "Topi bayi itu merosot menutupi matanya."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Mengirim sesuatu ke suatu tempat",
+      "ex": [
+        "Dia mengirim paket itu hari Senin.",
+        "Kami mengirim sampel ke laboratorium.",
+        "Dia mengirim lamarannya minggu lalu."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Memaksa sesuatu untuk pergi",
+      "ex": [
+        "Suara bising mengusir burung dari halaman.",
+        "Harga yang tinggi mengusir banyak pelanggan.",
+        "Air hangat mengusir ikan."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Pergi ke suatu tempat tanpa membawa seseorang",
+      "ex": [
+        "Keluarga itu meninggalkan anjing mereka saat pindah rumah.",
+        "Dia meninggalkan adik laki-lakinya dan pergi ke taman.",
+        "Bus itu meninggalkan tiga penumpang."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Menerima sesuatu tanpa mengeluh",
+      "ex": [
+        "Saya tidak bisa menahan suara bising ini lagi.",
+        "Dia menahan rasa sakit selama berminggu-minggu.",
+        "Anjing itu menahan mandi tanpa mengeluh."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Membuat sesuatu terjadi lebih cepat",
+      "ex": [
+        "Jalan baru mempercepat perjalanan ke bandara.",
+        "Cuaca hangat mempercepat pertumbuhan tanaman.",
+        "Komputer yang lebih cepat mempercepat pekerjaan kami."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Pas dan nyaman menempel di tubuh",
+      "ex": [
+        "Jaket itu pas di bagian bahu.",
+        "Bayi itu nyaman terbungkus di selimutnya.",
+        "Sepatu bot ini terasa pas, tapi tidak sempit."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Dibuat dengan menyilangkan benang di atas dan di bawah satu sama lain",
+      "ex": [
+        "Keranjang itu ditenun dari potongan kayu tipis.",
+        "Benang perak ditenun ke dalam gaun itu.",
+        "Karpet itu ditenun dengan tangan di Peru."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Cedera di mana kulit terpotong atau robek",
+      "ex": [
+        "Perawat membersihkan luka di lengannya.",
+        "Luka yang dalam mungkin memerlukan jahitan.",
+        "Anjing itu menjilat luka di kakinya."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Ditinggalkan di suatu tempat dan tidak bisa bergerak atau pergi",
+      "ex": [
+        "Tim penyelamat menemukan paus terdampar di pantai.",
+        "Badai membuat ratusan pelancong terdampar di bandara.",
+        "Seekor anjing laut yang terdampar dibawa kembali ke air."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Jaring besar yang digunakan untuk menangkap ikan di laut",
+      "ex": [
+        "Jaring ikan lama bisa menjerat penyu dan burung.",
+        "Awak kapal memperbaiki jaring ikan di dermaga.",
+        "Penyelam mengangkat jaring ikan dari terumbu karang."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Bilah berputar yang mendorong perahu atau pesawat ke depan",
+      "ex": [
+        "Baling-baling perahu bisa melukai hewan laut.",
+        "Pesawat itu memiliki dua baling-baling di setiap sayap.",
+        "Rumput laut tersangkut di baling-baling."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Bekerja untuk membantu orang atau hewan, bukan untuk mencari uang",
+      "ex": [
+        "Dia menjalankan lembaga nirlaba yang memberi makan keluarga tunawisma.",
+        "Lembaga nirlaba itu bergantung pada donasi.",
+        "Sekelompok lembaga nirlaba menanam pohon di taman."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Tempat di mana hewan diselamatkan dan dirawat",
+      "ex": [
+        "Pusat penyelamatan menerima tiga anak anjing laut.",
+        "Relawan di pusat penyelamatan memberi makan burung dua kali sehari.",
+        "Penyu itu dilepaskan dari pusat penyelamatan pada bulan Mei."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Memukul atau menggigit sesuatu dengan paruh",
+      "ex": [
+        "Ayam mematuk biji-bijian di tanah.",
+        "Burung beo mematuk jariku.",
+        "Burung pelatuk mematuk lubang di pohon."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Benang yang digunakan dokter untuk menutup luka sayatan",
+      "ex": [
+        "Dia membutuhkan enam jahitan di dagunya.",
+        "Dokter melepas jahitan setelah sepuluh hari.",
+        "Jangan biarkan jahitan itu basah."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Potongan kain yang dililitkan pada luka",
+      "ex": [
+        "Perawat mengganti perban setiap pagi.",
+        "Jaga agar perban tetap bersih dan kering.",
+        "Dia melilitkan perban di sekitar lututnya."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Pembuluh yang membawa darah ke seluruh tubuh",
+      "ex": [
+        "Olahraga menjaga pembuluh darahmu tetap sehat.",
+        "Pembuluh darah kecil membawa oksigen ke kulit.",
+        "Luka sayatan itu merusak beberapa pembuluh darah kecil."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "Bahan yang menyusun bagian-bagian tubuh",
+      "ex": [
+        "Luka bakar itu merusak jaringan di bawah kulit.",
+        "Jaringan otot memperbaiki dirinya sendiri setelah olahraga.",
+        "Dokter mengangkat jaringan yang rusak."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "Berdiri tegak, tidak berbaring",
+      "ex": [
+        "Penguin berjalan tegak dengan dua kaki.",
+        "Jaga agar botol tetap tegak supaya tidak tumpah.",
+        "Dia duduk tegak saat gurunya masuk."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Anggota tubuh datar yang digunakan penguin dan anjing laut untuk berenang",
+      "ex": [
+        "Penguin itu mengepakkan siripnya dan menyelam.",
+        "Anjing laut menggunakan sirip mereka untuk bergerak di darat.",
+        "Sirip penyu itu tersangkut di jaring."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Versi pertama dari sebuah produk yang dibuat untuk diuji",
+      "ex": [
+        "Perusahaan itu membangun tiga prototipe mobil baru.",
+        "Insinyur menguji prototipe itu selama sebulan.",
+        "Prototipe pertama terlalu berat."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Jenis hewan atau tumbuhan yang berisiko punah",
+      "ex": [
+        "Beruang kutub terdaftar sebagai spesies rentan.",
+        "Hukum melindungi spesies rentan dari perburuan.",
+        "Ilmuwan melacak spesies rentan dengan label."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Tempat di mana banyak hewan berkumpul untuk memiliki anak",
+      "ex": [
+        "Ribuan burung laut kembali ke koloni pembiakan setiap musim semi.",
+        "Pulau itu memiliki salah satu koloni pembiakan anjing laut terbesar.",
+        "Wisatawan tidak boleh masuk ke koloni pembiakan."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Sarang yang digunakan burung untuk membesarkan anak-anaknya",
+      "ex": [
+        "Petugas menghitung 200 sarang aktif di tebing itu.",
+        "Jumlah sarang aktif menurun setelah badai.",
+        "Setiap sarang aktif berisi dua telur."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Rompi itu berwarna merah dan mengandung tembaga dan seng.",
+      "a": true,
+      "why": "Peneliti di Chile sedang mencoba rompi merah yang pas, yang kainnya ditenun dengan tembaga dan seng."
+    },
+    {
+      "s": "Penguin diukur untuk rompi pertama di pusat penyelamatan.",
+      "a": false,
+      "why": "Peneliti mengukur penguin di kebun binatang dekat Santiago, dan prototipe dikirim ke pusat penyelamatan setelahnya."
+    },
+    {
+      "s": "Seng dalam kain membantu pembentukan pembuluh darah baru.",
+      "a": true,
+      "why": "Tembaga dan seng menahan bakteri dan jamur, dan seng membantu pembentukan pembuluh darah baru sehingga jaringan yang rusak pulih lebih cepat."
+    },
+    {
+      "s": "Tim telah membuktikan bahwa rompi mempercepat penyembuhan.",
+      "a": false,
+      "why": "Dokter hewan itu mengatakan burung-burung menerima rompi dengan baik dan luka terlihat lebih baik dalam sehari, tetapi tim belum membuktikan bahwa rompi mempercepat penyembuhan."
+    },
+    {
+      "s": "Survei menemukan 63 persen lebih sedikit sarang aktif dibandingkan tiga tahun sebelumnya.",
+      "a": true,
+      "why": "Survei koloni pembiakan utama pada 2024 dan 2025 menemukan 63 persen lebih sedikit sarang aktif, dan El Niño mengusir ikan yang dimakan penguin."
+    },
+    {
+      "s": "Sebelum ada rompi, perban penguin diganti seminggu sekali.",
+      "a": false,
+      "why": "Penguin mematuk luka mereka dan menarik keluar jahitan mereka, dan perban harus diganti setiap hari."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Peneliti Chile sedang menguji rompi merah yang ditenun dengan tembaga dan seng pada penguin Humboldt yang terluka. Rompi itu mencegah burung-burung menarik keluar jahitan mereka dan mungkin membantu luka menutup lebih cepat.",
+      "a": true,
+      "why": "Rompi itu diadaptasi dari pakaian hewan peliharaan, dan tembaga serta seng dalam kain menahan bakteri sementara pakaian itu mencegah penguin menarik keluar jahitan mereka."
+    },
+    {
+      "s": "Pusat-pusat penyelamatan di Chile telah membuktikan bahwa rompi tembaga menyembuhkan luka penguin dua kali lebih cepat daripada perban. Pakaian itu, yang pertama kali dibuat untuk anjing dan kucing, kini dijual ke kebun binatang di 40 negara.",
+      "a": false,
+      "why": "Hampir benar, tetapi tim belum membuktikan bahwa rompi mempercepat penyembuhan, dan yang dijual di lebih dari 40 negara adalah versi hewan peliharaan dari pakaian itu."
+    },
+    {
+      "s": "Ilmuwan di Chile menghitung penguin Humboldt di negara itu dan menemukan 63 persen lebih sedikit burung dibandingkan tahun 2021. Mereka menyalahkan jaring ikan dan plastik serta menginginkan kawasan lindung baru di sepanjang pantai.",
+      "a": false,
+      "why": "Angka 63 persen adalah penurunan sarang aktif di koloni pembiakan, dan beritanya tentang rompi yang diuji pada penguin terluka, bukan tentang rencana kawasan lindung."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Digunakan untuk mengatakan bahwa sesuatu terdengar begitu menggemaskan atau lucu sehingga seseorang benar-benar ingin melihatnya",
+    "Poor things": "Digunakan untuk menunjukkan rasa iba pada hewan atau orang yang sedang menderita",
+    "That figures": "Digunakan untuk mengatakan bahwa sesuatu masuk akal setelah mengetahui faktanya",
+    "Too soon to say": "Digunakan untuk mengatakan bahwa belum ada cukup bukti untuk menilai sesuatu",
+    "Every little bit helps": "Digunakan untuk mengatakan bahwa bahkan kontribusi atau perbaikan kecil pun berguna"
+  }
+}

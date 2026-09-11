@@ -1,0 +1,424 @@
+{
+  "id": "nyc-clean-air-children-2026",
+  "number": 106,
+  "lang": "vi",
+  "headline": "Không khí New York sạch hơn liên quan đến điểm số cao hơn ở trẻ nhỏ",
+  "chunks": [
+    "Trẻ em thành phố New York đạt điểm cao hơn trong các bài kiểm tra phát triển trí tuệ sớm khi không khí mà mẹ của các em hít thở trong thai kỳ trở nên sạch hơn, theo báo cáo của Đại học Columbia. Nghiên cứu được công bố trên tạp chí Environmental Health vào ngày 15 tháng 8 năm 2026. Nhóm nghiên cứu theo dõi hơn 1.000 cặp mẹ con đã đăng ký tham gia trong giai đoạn từ 1998 đến 2020 tại Bắc Manhattan và Nam Bronx, hai khu vực thu nhập thấp nơi những đứa trẻ này lớn lên.",
+    "Columbia cho biết các hạt bụi mịn giảm 32 phần trăm và nitơ dioxide giảm 30 phần trăm từ năm 1998 đến 2016. Một nhóm hóa chất độc hại từ việc đốt nhiên liệu hóa thạch giảm 60 phần trăm từ năm 1998 đến 2020. Phụ nữ mang thai đeo thiết bị theo dõi dạng ba lô để đo các hóa chất đó, còn các chất ô nhiễm khác được ước tính cho từng ngôi nhà. Trẻ em được kiểm tra ở độ tuổi 1, 2 và 3. Điểm số ở tuổi lên 3 tăng 26 phần trăm giữa nhóm sớm nhất và nhóm gần nhất, sau khi nhóm nghiên cứu tính đến trình độ học vấn của mẹ, giới tính của trẻ và việc hút thuốc trong nhà.",
+    "Các nhà nghiên cứu liên hệ không khí sạch hơn với các chính sách mà thành phố đưa vào thực hiện trong những năm đó. Chương trình xe buýt nhiên liệu sạch và luật taxi không khí sạch giảm bớt lượng khí thải giao thông. Chương trình sưởi ấm sạch loại bỏ dần dầu sưởi bẩn trong các tòa nhà, và Đạo luật Huy động Khí hậu yêu cầu các tòa nhà lớn giảm khí nhà kính. Vị giáo sư Columbia dẫn đầu nghiên cứu nói rằng các chính sách giảm khí thải nhiên liệu hóa thạch có lợi cho những bộ não đang phát triển, và thêm rằng kết quả này ủng hộ nỗ lực duy trì mức giảm đó.",
+    "Nhóm nghiên cứu bắt đầu kiểm tra xem không khí sạch hơn từ những chính sách này có liên quan đến điểm số nhận thức tốt hơn hay không, trở thành nghiên cứu đầu tiên làm điều này trong suốt 20 năm. Nghiên cứu này có những hạn chế. Chỉ có 1.109 trong số 1.446 trẻ em có kết quả kiểm tra, vì vậy số còn lại bị loại ra. Các tác giả cũng chỉ ra rằng những thay đổi mà nghiên cứu không đo lường được, chẳng hạn như sự dịch chuyển dân cư trong các khu vực, có thể là nguyên nhân của một phần sự cải thiện."
+  ],
+  "verbs": [
+    {
+      "base": "come out",
+      "correct": "được công bố trên một tạp chí",
+      "wrong": "được nhắc đến trong một báo cáo"
+    },
+    {
+      "base": "sign up",
+      "correct": "đăng ký tham gia một nghiên cứu hoặc chương trình",
+      "wrong": "đưa ra sự chấp thuận chính thức cho một điều gì đó"
+    },
+    {
+      "base": "grow up",
+      "correct": "trải qua thời thơ ấu ở một nơi",
+      "wrong": "được yêu thích hơn theo thời gian"
+    },
+    {
+      "base": "go down",
+      "correct": "giảm xuống mức thấp hơn",
+      "wrong": "tiếp tục trong một thời gian dài"
+    },
+    {
+      "base": "go up",
+      "correct": "tăng lên mức cao hơn",
+      "wrong": "kiểm tra kỹ một điều gì đó"
+    },
+    {
+      "base": "factor in",
+      "correct": "đưa một yếu tố vào phép tính",
+      "wrong": "kiểm tra lại một điều gì đó"
+    },
+    {
+      "base": "bring in",
+      "correct": "đưa ra một luật hoặc quy định mới",
+      "wrong": "nêu ra một chủ đề để thảo luận"
+    },
+    {
+      "base": "cut down on",
+      "correct": "giảm bớt lượng của một thứ gì đó",
+      "wrong": "ngừng cung cấp một thứ gì đó"
+    },
+    {
+      "base": "phase out",
+      "correct": "loại bỏ dần việc sử dụng một thứ gì đó",
+      "wrong": "đưa một thứ gì đó vào theo từng giai đoạn"
+    },
+    {
+      "base": "keep up",
+      "correct": "tiếp tục duy trì cùng một mức độ",
+      "wrong": "ngăn không cho một thứ gì đó xâm nhập vào"
+    },
+    {
+      "base": "set out",
+      "correct": "bắt đầu một nhiệm vụ với mục tiêu rõ ràng",
+      "wrong": "giữ lại một thứ gì đó để dùng sau này"
+    },
+    {
+      "base": "leave out",
+      "correct": "không bao gồm một thứ gì đó",
+      "wrong": "giữ lại một thứ gì đó cho lần sau"
+    },
+    {
+      "base": "point out",
+      "correct": "cho mọi người biết về một sự thật",
+      "wrong": "là một dấu hiệu của một điều gì đó"
+    },
+    {
+      "base": "account for",
+      "correct": "là nguyên nhân của một điều gì đó",
+      "wrong": "đo lường chính xác một điều gì đó"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "def": "được công bố trên một tạp chí",
+      "ex": [
+        "Cuốn tiểu thuyết đầu tay của cô ấy ra mắt năm 2019.",
+        "Báo cáo mới sẽ được công bố vào thứ Sáu.",
+        "Nghiên cứu đã được công bố vào tuần trước."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "def": "đăng ký tham gia một nghiên cứu hoặc chương trình",
+      "ex": [
+        "Bạn đã đăng ký một lớp học tiếng Tây Ban Nha.",
+        "Hai trăm người đã đăng ký tham gia thử nghiệm.",
+        "Bạn có thể đăng ký trực tuyến trong vài phút."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "def": "trải qua thời thơ ấu ở một nơi",
+      "ex": [
+        "Anh ấy lớn lên ở một thị trấn nhỏ tại Texas.",
+        "Bố mẹ tôi lớn lên gần biển.",
+        "Trẻ em lớn lên ở thành phố thấy ít ngôi sao hơn."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "giảm xuống mức thấp hơn",
+      "ex": [
+        "Giá cả giảm sau năm mới.",
+        "Số vụ tai nạn đã giảm.",
+        "Cơn sốt đã hạ vào buổi sáng."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "tăng lên mức cao hơn",
+      "ex": [
+        "Tiền thuê nhà tăng mỗi năm.",
+        "Điểm số của cô ấy tăng lên trong học kỳ này.",
+        "Giá vé lại tăng lên."
+      ]
+    },
+    {
+      "verb": "Factor in",
+      "def": "đưa một yếu tố vào phép tính",
+      "ex": [
+        "Bạn hãy tính thêm thuế trước khi quyết định.",
+        "Kế hoạch này không tính đến thời tiết xấu.",
+        "Chúng tôi đã tính thêm thời gian di chuyển và xuất phát sớm."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "đưa ra một luật hoặc quy định mới",
+      "ex": [
+        "Thành phố đã đưa ra một quy định đỗ xe mới.",
+        "Công ty đã đưa ra một quy định về trang phục.",
+        "Các nhà lập pháp dự định đưa ra các giới hạn nghiêm ngặt hơn."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "giảm bớt lượng của một thứ gì đó",
+      "ex": [
+        "Bạn nên giảm bớt lượng cà phê.",
+        "Nhà máy đã giảm bớt lượng chất thải.",
+        "Chúng tôi giảm bớt việc lái xe để tiết kiệm xăng."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "loại bỏ dần việc sử dụng một thứ gì đó",
+      "ex": [
+        "Hãng hàng không đang loại bỏ dần các máy bay cũ.",
+        "Cửa hàng đã loại bỏ dần túi nhựa.",
+        "Các nhà máy than sẽ bị loại bỏ dần vào năm 2035."
+      ]
+    },
+    {
+      "verb": "Keep up",
+      "def": "tiếp tục duy trì cùng một mức độ",
+      "ex": [
+        "Cô ấy duy trì việc đi bộ hằng ngày suốt cả mùa đông.",
+        "Bạn khó mà duy trì một thói quen tốt.",
+        "Đội bóng duy trì sức ép trong hiệp hai."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "bắt đầu một nhiệm vụ với mục tiêu rõ ràng",
+      "ex": [
+        "Họ đặt mục tiêu chế tạo một chiếc xe rẻ hơn.",
+        "Anh ấy đặt mục tiêu chạy marathon trước tuổi 40.",
+        "Đội nghiên cứu đặt mục tiêu trả lời một câu hỏi."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "def": "không bao gồm một thứ gì đó",
+      "ex": [
+        "Bạn đừng quên ghi số điện thoại vào biểu mẫu.",
+        "Báo cáo đã bỏ sót hai sự thật quan trọng.",
+        "Cô ấy đã bỏ đường ra khỏi công thức."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "cho mọi người biết về một sự thật",
+      "ex": [
+        "Giáo viên đã chỉ ra một lỗi trong bài luận của tôi.",
+        "Anh ấy chỉ ra rằng cửa hàng đóng cửa lúc sáu giờ.",
+        "Bạn hãy để tôi chỉ ra một vấn đề trong kế hoạch này."
+      ]
+    },
+    {
+      "verb": "Account for",
+      "def": "là nguyên nhân của một điều gì đó",
+      "ex": [
+        "Giao thông là nguyên nhân của phần lớn tiếng ồn ở đây.",
+        "Cơn bão là nguyên nhân của sự chậm trễ.",
+        "Căng thẳng có thể là nguyên nhân của những cơn đau đầu của cô ấy."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "mental development",
+      "def": "sự phát triển khả năng suy nghĩ, học hỏi và hiểu biết của trẻ",
+      "ex": [
+        "Vui chơi rất quan trọng đối với sự phát triển trí tuệ của trẻ.",
+        "Bác sĩ kiểm tra sự phát triển trí tuệ trong mỗi lần khám.",
+        "Dinh dưỡng tốt hỗ trợ sự phát triển trí tuệ."
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "def": "khoảng thời gian một người phụ nữ có em bé đang lớn bên trong",
+      "ex": [
+        "Cô ấy ngừng uống cà phê trong thời gian mang thai.",
+        "Bác sĩ theo dõi cô ấy suốt cả thai kỳ.",
+        "Hút thuốc trong thời gian mang thai có thể gây hại cho em bé."
+      ]
+    },
+    {
+      "word": "journal",
+      "def": "một tạp chí nơi các nhà khoa học công bố nghiên cứu của họ",
+      "ex": [
+        "Bài báo xuất hiện trên một tạp chí y khoa.",
+        "Tạp chí này in các nghiên cứu mới mỗi tháng.",
+        "Các chuyên gia xem xét từng bài viết trước khi tạp chí đăng."
+      ]
+    },
+    {
+      "word": "low-income",
+      "def": "có ít tiền hơn so với hầu hết mọi người",
+      "ex": [
+        "Chương trình này giúp các gia đình thu nhập thấp trả tiền sưởi ấm.",
+        "Nhiều khu vực thu nhập thấp có ít công viên hơn.",
+        "Phòng khám cung cấp dịch vụ chăm sóc miễn phí cho bệnh nhân thu nhập thấp."
+      ]
+    },
+    {
+      "word": "pollutants",
+      "def": "những chất làm cho không khí, nước hoặc đất bị bẩn hoặc có hại",
+      "ex": [
+        "Xe hơi thải các chất ô nhiễm vào không khí.",
+        "Dòng sông mang theo các chất ô nhiễm từ nhà máy.",
+        "Khẩu trang có thể chặn một số chất ô nhiễm."
+      ]
+    },
+    {
+      "word": "fine particles",
+      "def": "những hạt bụi hoặc khói rất nhỏ trong không khí có thể xâm nhập vào phổi",
+      "ex": [
+        "Khói cháy rừng chứa đầy hạt bụi mịn.",
+        "Hạt bụi mịn từ giao thông có thể xâm nhập vào phổi.",
+        "Máy đo đếm các hạt bụi mịn trong không khí."
+      ]
+    },
+    {
+      "word": "harmful chemicals",
+      "def": "những chất có thể gây hại cho sức khỏe",
+      "ex": [
+        "Một số sản phẩm tẩy rửa chứa hóa chất độc hại.",
+        "Nhà máy đã xả hóa chất độc hại xuống dòng sông.",
+        "Khói thuốc lá chứa hàng chục hóa chất độc hại."
+      ]
+    },
+    {
+      "word": "fossil fuels",
+      "def": "than, dầu và khí tự nhiên, được đốt để lấy năng lượng",
+      "ex": [
+        "Hầu hết xe tải vẫn chạy bằng nhiên liệu hóa thạch.",
+        "Đốt nhiên liệu hóa thạch làm trái đất nóng lên.",
+        "Thành phố muốn sử dụng ít nhiên liệu hóa thạch hơn vào năm 2040."
+      ]
+    },
+    {
+      "word": "monitors",
+      "def": "những thiết bị đo và ghi lại một thứ gì đó theo thời gian",
+      "ex": [
+        "Máy đo không khí trên mái nhà theo dõi mức độ ô nhiễm.",
+        "Y tá gắn máy theo dõi nhịp tim cho bệnh nhân.",
+        "Những máy đo nhỏ trong ba lô đã đo không khí."
+      ]
+    },
+    {
+      "word": "estimated",
+      "def": "được tính toán một cách ước lượng thay vì đo chính xác",
+      "ex": [
+        "Chi phí ước tính của cây cầu là 2 tỷ đô la.",
+        "Cảnh sát ước tính đám đông có khoảng 5.000 người.",
+        "Giờ đến ước tính của cô ấy là 6 giờ chiều."
+      ]
+    },
+    {
+      "word": "legislation",
+      "def": "một luật hoặc một bộ luật do chính phủ ban hành",
+      "ex": [
+        "Luật mới cấm hút thuốc trong công viên.",
+        "Quốc hội đã thông qua luật về nước sạch.",
+        "Luật này có hiệu lực vào tháng Giêng."
+      ]
+    },
+    {
+      "word": "traffic emissions",
+      "def": "khí và các hạt được thải ra từ ô tô, xe tải và xe buýt",
+      "ex": [
+        "Khí thải giao thông tồi tệ nhất vào giờ cao điểm.",
+        "Thành phố đo lường khí thải giao thông trên các con đường chính.",
+        "Xe buýt điện không tạo ra khí thải giao thông."
+      ]
+    },
+    {
+      "word": "heating oil",
+      "def": "dầu được đốt trong một tòa nhà để giữ ấm",
+      "ex": [
+        "Nhiều tòa nhà cũ vẫn đốt dầu sưởi.",
+        "Giá dầu sưởi tăng vào mùa đông.",
+        "Xe tải giao dầu sưởi đến tòa nhà chung cư."
+      ]
+    },
+    {
+      "word": "greenhouse gases",
+      "def": "các loại khí như carbon dioxide giữ nhiệt trong bầu khí quyển",
+      "ex": [
+        "Ô tô và nhà máy điện tạo ra khí nhà kính.",
+        "Luật này nhằm giảm khí nhà kính đi một nửa.",
+        "Bò cũng thải ra khí nhà kính."
+      ]
+    },
+    {
+      "word": "cognitive scores",
+      "def": "kết quả của các bài kiểm tra về tư duy, trí nhớ và học hỏi",
+      "ex": [
+        "Giấc ngủ cải thiện điểm số nhận thức của trẻ em.",
+        "Điểm số nhận thức của bệnh nhân được kiểm tra mỗi năm.",
+        "Việc tiếp xúc với chì làm giảm điểm số nhận thức."
+      ]
+    },
+    {
+      "word": "shifts",
+      "def": "những thay đổi từ tình huống này sang tình huống khác",
+      "ex": [
+        "Đã có những thay đổi lớn trong cách mọi người mua sắm.",
+        "Cuộc khảo sát cho thấy những thay đổi trong dư luận.",
+        "Những thay đổi nhỏ về nhiệt độ có thể gây hại cho mùa màng."
+      ]
+    },
+    {
+      "word": "gains",
+      "def": "những cải thiện hoặc gia tăng",
+      "ex": [
+        "Học sinh đã đạt được những tiến bộ lớn trong đọc hiểu.",
+        "Công ty báo cáo mức tăng trưởng trong doanh số.",
+        "Những tiến bộ nhỏ hằng ngày cộng lại thành một kết quả lớn."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Các hóa chất từ việc đốt nhiên liệu hóa thạch giảm 60 phần trăm vào năm 2020.",
+      "a": true,
+      "why": "Columbia báo cáo rằng các hóa chất độc hại từ việc đốt nhiên liệu hóa thạch giảm 60 phần trăm từ năm 1998 đến 2020, trong khi hạt bụi mịn và nitơ dioxide giảm khoảng 30 phần trăm."
+    },
+    {
+      "s": "Trẻ em được kiểm tra ở độ tuổi 5, 6 và 7.",
+      "a": false,
+      "why": "Trẻ em làm bài kiểm tra tiêu chuẩn ở độ tuổi 1, 2 và 3, và điểm số ở tuổi lên 3 tăng 26 phần trăm từ nhóm sớm nhất đến nhóm gần nhất."
+    },
+    {
+      "s": "Hơn 1.000 cặp mẹ con đã đăng ký tham gia nghiên cứu.",
+      "a": true,
+      "why": "Họ đăng ký tham gia trong giai đoạn 1998 đến 2020 tại Bắc Manhattan và Nam Bronx, và phụ nữ mang thai đeo thiết bị theo dõi dạng ba lô để đo hóa chất."
+    },
+    {
+      "s": "Chương trình sưởi ấm sạch loại bỏ dần dầu sưởi bẩn trong các tòa nhà.",
+      "a": true,
+      "why": "Chương trình sưởi ấm sạch loại bỏ dần dầu sưởi bẩn, và Đạo luật Huy động Khí hậu yêu cầu các tòa nhà lớn giảm khí nhà kính."
+    },
+    {
+      "s": "Nghiên cứu được công bố trên tạp chí Science vào ngày 15 tháng 8 năm 2026.",
+      "a": false,
+      "why": "Nghiên cứu được công bố trên tạp chí Environmental Health vào ngày 15 tháng 8 năm 2026, từ các nhà nghiên cứu tại Đại học Columbia."
+    },
+    {
+      "s": "Tất cả 1.446 trẻ em trong nghiên cứu đều có kết quả kiểm tra.",
+      "a": false,
+      "why": "Chỉ có 1.109 trong số 1.446 trẻ em có kết quả kiểm tra, vì vậy số còn lại bị loại khỏi phân tích."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Các nhà nghiên cứu theo dõi các gia đình ở New York trong hơn 20 năm khi ô nhiễm từ giao thông và sưởi ấm giảm dần. Không khí sạch hơn trong thai kỳ liên quan đến điểm số phát triển sớm cao hơn ở trẻ em.",
+      "a": true,
+      "why": "Hơn 1.000 cặp mẹ con được theo dõi từ năm 1998 đến 2020, và điểm số ở tuổi lên 3 tăng 26 phần trăm khi hạt bụi mịn, nitơ dioxide và hóa chất từ nhiên liệu hóa thạch giảm xuống."
+    },
+    {
+      "s": "Một nghiên cứu kéo dài 20 năm cho thấy trẻ em thành phố New York đạt điểm cao hơn trong các bài kiểm tra phát triển khi ô nhiễm không khí giảm. Các nhà nghiên cứu nói rằng không khí sạch hơn chủ yếu đến từ việc đóng cửa các nhà máy cũ.",
+      "a": false,
+      "why": "Gần đúng, nhưng các nhà nghiên cứu liên hệ không khí sạch hơn với các chính sách của thành phố về xe buýt, taxi, dầu sưởi và khí thải tòa nhà, không phải việc đóng cửa nhà máy."
+    },
+    {
+      "s": "Thành phố New York đã thông qua một luật yêu cầu mọi xe buýt trường học phải chạy bằng điện vào năm 2035. Các quan chức y tế cho biết thay đổi này sẽ bảo vệ trẻ em khỏi khí thải độc hại trong hành trình hằng ngày.",
+      "a": false,
+      "why": "Không có luật xe buýt trường học mới nào. Nghiên cứu xem xét các chính sách được thông qua từ năm 1998 đến 2020 và cách điểm số kiểm tra của trẻ em thay đổi khi không khí trở nên sạch hơn."
+    }
+  ],
+  "dialogue": {
+    "Those are real numbers": "được dùng để nói rằng một sự thay đổi hoặc số lượng đủ lớn để có ý nghĩa, không nhỏ hay mơ hồ",
+    "Good news for once": "được dùng để chào đón một câu chuyện tích cực sau nhiều tin xấu",
+    "Credit where it's due": "được dùng để thừa nhận rằng ai đó xứng đáng được khen ngợi, ngay cả khi bạn không thường khen họ",
+    "Points for saying so": "được dùng để ghi nhận ai đó đã thẳng thắn thừa nhận một điểm yếu hoặc vấn đề thay vì che giấu nó",
+    "Hard to argue with": "được dùng để nói rằng bằng chứng hoặc kết quả rõ ràng đến mức không ai có thể hợp lý phản đối",
+    "Is there a catch?": "được dùng để hỏi liệu một điều gì đó nghe có vẻ tốt có ẩn chứa một vấn đề hoặc điều kiện nào không"
+  }
+}

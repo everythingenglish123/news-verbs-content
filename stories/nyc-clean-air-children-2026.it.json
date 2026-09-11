@@ -1,0 +1,424 @@
+{
+  "id": "nyc-clean-air-children-2026",
+  "number": 106,
+  "lang": "it",
+  "headline": "Un'aria più pulita a New York è legata a punteggi più alti nei bambini piccoli",
+  "chunks": [
+    "I bambini di New York hanno ottenuto punteggi più alti nei test sullo sviluppo mentale precoce man mano che l'aria respirata dalle loro madri durante la gravidanza diventava più pulita, riferisce la Columbia University. Lo studio è uscito sulla rivista Environmental Health il 15 agosto 2026. Il gruppo di ricerca ha seguito più di 1.000 coppie madre-figlio che si sono iscritte tra il 1998 e il 2020 nel nord di Manhattan e nel sud del Bronx, due zone a basso reddito dove i bambini sono cresciuti.",
+    "Columbia afferma che le particelle fini sono diminuite del 32 percento e il biossido di azoto del 30 percento dal 1998 al 2016. Un gruppo di sostanze chimiche nocive derivanti dalla combustione di combustibili fossili è calato del 60 percento dal 1998 al 2020. Le donne incinte indossavano sensori in uno zaino per misurare quelle sostanze chimiche, e gli altri inquinanti venivano stimati per ogni abitazione. I bambini sono stati testati a 1, 2 e 3 anni. I punteggi a 3 anni sono aumentati del 26 percento tra il gruppo più vecchio e quello più recente, dopo che il gruppo di ricerca ha tenuto conto dell'istruzione della madre, del sesso del bambino e del fumo in casa.",
+    "I ricercatori collegano l'aria più pulita alle politiche che la città ha introdotto in quegli anni. Il Clean Fuel Bus Program e la legge Clean Air Taxi hanno ridotto le emissioni del traffico. Il Clean Heat Program ha eliminato gradualmente il gasolio da riscaldamento inquinante negli edifici, e il Climate Mobilization Act ha obbligato gli edifici più grandi a ridurre i gas serra. \"Le politiche per ridurre le emissioni di combustibili fossili giovano ai cervelli in via di sviluppo\", ha dichiarato la professoressa della Columbia che ha guidato lo studio, aggiungendo che i risultati sostengono gli sforzi per mantenere queste riduzioni.",
+    "Il gruppo di ricerca si è proposto di verificare se l'aria più pulita derivante da queste politiche fosse legata a punteggi cognitivi migliori, il primo studio a farlo nell'arco di 20 anni. Presenta dei limiti. Solo 1.109 dei 1.446 bambini avevano risultati dei test, quindi il resto è stato escluso. Gli autori segnalano anche che cambiamenti che lo studio non ha misurato, come gli spostamenti nei quartieri, potrebbero spiegare parte dei progressi."
+  ],
+  "verbs": [
+    {
+      "base": "come out",
+      "correct": "Essere pubblicato su una rivista",
+      "wrong": "Essere menzionato in un rapporto"
+    },
+    {
+      "base": "sign up",
+      "correct": "Iscriversi a uno studio o un programma",
+      "wrong": "Dare un'approvazione ufficiale"
+    },
+    {
+      "base": "grow up",
+      "correct": "Trascorrere l'infanzia in un luogo",
+      "wrong": "Diventare più apprezzato col tempo"
+    },
+    {
+      "base": "go down",
+      "correct": "Scendere a un livello più basso",
+      "wrong": "Continuare per molto tempo"
+    },
+    {
+      "base": "go up",
+      "correct": "Salire a un livello più alto",
+      "wrong": "Controllare qualcosa con attenzione"
+    },
+    {
+      "base": "factor in",
+      "correct": "Includere qualcosa in un calcolo",
+      "wrong": "Testare di nuovo qualcosa"
+    },
+    {
+      "base": "bring in",
+      "correct": "Introdurre una nuova legge o regola",
+      "wrong": "Menzionare un argomento da discutere"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Ridurre la quantità di qualcosa",
+      "wrong": "Interrompere la fornitura di qualcosa"
+    },
+    {
+      "base": "phase out",
+      "correct": "Eliminare gradualmente l'uso di qualcosa",
+      "wrong": "Introdurre gradualmente qualcosa a fasi successive"
+    },
+    {
+      "base": "keep up",
+      "correct": "Continuare allo stesso livello",
+      "wrong": "Impedire a qualcosa di entrare"
+    },
+    {
+      "base": "set out",
+      "correct": "Iniziare un compito con un obiettivo chiaro",
+      "wrong": "Conservare qualcosa per un uso successivo"
+    },
+    {
+      "base": "leave out",
+      "correct": "Non includere qualcosa",
+      "wrong": "Conservare qualcosa per dopo"
+    },
+    {
+      "base": "point out",
+      "correct": "Segnalare un fatto alle persone",
+      "wrong": "Essere un segno di qualcosa"
+    },
+    {
+      "base": "account for",
+      "correct": "Essere la causa di qualcosa",
+      "wrong": "Misurare qualcosa con precisione"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "def": "Essere pubblicato su una rivista",
+      "ex": [
+        "Il suo primo romanzo è uscito nel 2019.",
+        "Il nuovo rapporto esce venerdì.",
+        "Lo studio è uscito la settimana scorsa."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "def": "Iscriversi a uno studio o un programma",
+      "ex": [
+        "Mi sono iscritto a un corso di spagnolo.",
+        "Duecento persone si sono iscritte alla sperimentazione.",
+        "Puoi iscriverti online in pochi minuti."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "def": "Trascorrere l'infanzia in un luogo",
+      "ex": [
+        "È cresciuto in una piccola città del Texas.",
+        "I miei genitori sono cresciuti vicino al mare.",
+        "I bambini che crescono in città vedono meno stelle."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Scendere a un livello più basso",
+      "ex": [
+        "I prezzi sono scesi dopo il nuovo anno.",
+        "Il numero di incidenti è diminuito.",
+        "La febbre è scesa entro il mattino."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Salire a un livello più alto",
+      "ex": [
+        "L'affitto sale ogni anno.",
+        "I suoi voti sono saliti questo semestre.",
+        "I prezzi dei biglietti sono saliti di nuovo."
+      ]
+    },
+    {
+      "verb": "Factor in",
+      "def": "Includere qualcosa in un calcolo",
+      "ex": [
+        "Tieni conto delle tasse prima di decidere.",
+        "Il piano non tiene conto del maltempo.",
+        "Abbiamo tenuto conto del tempo di viaggio e siamo partiti presto."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Introdurre una nuova legge o regola",
+      "ex": [
+        "La città ha introdotto una nuova regola sui parcheggi.",
+        "L'azienda ha introdotto un codice di abbigliamento.",
+        "I legislatori intendono introdurre limiti più severi."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Ridurre la quantità di qualcosa",
+      "ex": [
+        "Devo ridurre il caffè.",
+        "La fabbrica ha ridotto gli scarti.",
+        "Abbiamo ridotto gli spostamenti in auto per risparmiare benzina."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Eliminare gradualmente l'uso di qualcosa",
+      "ex": [
+        "La compagnia aerea sta eliminando gradualmente i suoi aerei più vecchi.",
+        "Il negozio ha eliminato gradualmente i sacchetti di plastica.",
+        "Le centrali a carbone saranno eliminate gradualmente entro il 2035."
+      ]
+    },
+    {
+      "verb": "Keep up",
+      "def": "Continuare allo stesso livello",
+      "ex": [
+        "Ha mantenuto le sue passeggiate quotidiane per tutto l'inverno.",
+        "È difficile mantenere una buona abitudine.",
+        "La squadra ha mantenuto la pressione nel secondo tempo."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "Iniziare un compito con un obiettivo chiaro",
+      "ex": [
+        "Si sono proposti di costruire un'auto più economica.",
+        "Si è proposto di correre una maratona prima dei 40 anni.",
+        "La squadra si è proposta di rispondere a una sola domanda."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "def": "Non includere qualcosa",
+      "ex": [
+        "Non dimenticare il tuo numero di telefono sul modulo.",
+        "Il rapporto ha omesso due fatti importanti.",
+        "Ha omesso lo zucchero dalla ricetta."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Segnalare un fatto alle persone",
+      "ex": [
+        "L'insegnante ha segnalato un errore nel mio saggio.",
+        "Ha fatto notare che il negozio chiude alle sei.",
+        "Lasciami segnalare un problema del piano."
+      ]
+    },
+    {
+      "verb": "Account for",
+      "def": "Essere la causa di qualcosa",
+      "ex": [
+        "Il traffico spiega gran parte del rumore qui.",
+        "La tempesta ha causato il ritardo.",
+        "Lo stress potrebbe essere la causa dei suoi mal di testa."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "mental development",
+      "def": "La crescita della capacità di un bambino di pensare, imparare e capire",
+      "ex": [
+        "Il gioco è importante per lo sviluppo mentale di un bambino.",
+        "I medici controllano lo sviluppo mentale a ogni visita.",
+        "Una buona alimentazione favorisce lo sviluppo mentale."
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "def": "Il periodo in cui una donna ha un bambino che cresce dentro di sé",
+      "ex": [
+        "Ha smesso di bere caffè durante la gravidanza.",
+        "Il medico l'ha seguita per tutta la gravidanza.",
+        "Fumare durante la gravidanza può danneggiare il bambino."
+      ]
+    },
+    {
+      "word": "journal",
+      "def": "Una rivista dove gli scienziati pubblicano le loro ricerche",
+      "ex": [
+        "L'articolo è apparso su una rivista medica.",
+        "La rivista pubblica nuovi studi ogni mese.",
+        "Gli esperti rivedono ogni articolo prima che la rivista lo pubblichi."
+      ]
+    },
+    {
+      "word": "low-income",
+      "def": "Avere poco denaro rispetto alla maggior parte delle persone",
+      "ex": [
+        "Il programma aiuta le famiglie a basso reddito a pagare il riscaldamento.",
+        "Molti quartieri a basso reddito hanno meno parchi.",
+        "La clinica offre assistenza gratuita ai pazienti a basso reddito."
+      ]
+    },
+    {
+      "word": "pollutants",
+      "def": "Sostanze che rendono l'aria, l'acqua o il suolo sporchi o dannosi",
+      "ex": [
+        "Le auto rilasciano inquinanti nell'aria.",
+        "Il fiume trasporta inquinanti dalla fabbrica.",
+        "Le mascherine possono bloccare alcuni inquinanti."
+      ]
+    },
+    {
+      "word": "fine particles",
+      "def": "Minuscole particelle di polvere o fumo nell'aria che possono entrare nei polmoni",
+      "ex": [
+        "Il fumo degli incendi boschivi è pieno di particelle fini.",
+        "Le particelle fini del traffico possono raggiungere i polmoni.",
+        "Il sensore conta le particelle fini nell'aria."
+      ]
+    },
+    {
+      "word": "harmful chemicals",
+      "def": "Sostanze che possono danneggiare la salute",
+      "ex": [
+        "Alcuni detergenti contengono sostanze chimiche nocive.",
+        "La fabbrica ha rilasciato sostanze chimiche nocive nel fiume.",
+        "Il fumo di sigaretta contiene decine di sostanze chimiche nocive."
+      ]
+    },
+    {
+      "word": "fossil fuels",
+      "def": "Carbone, petrolio e gas naturale, bruciati per produrre energia",
+      "ex": [
+        "La maggior parte dei camion funziona ancora a combustibili fossili.",
+        "Bruciare combustibili fossili riscalda il pianeta.",
+        "La città vuole usare meno combustibili fossili entro il 2040."
+      ]
+    },
+    {
+      "word": "monitors",
+      "def": "Dispositivi che misurano e registrano qualcosa nel tempo",
+      "ex": [
+        "I sensori sul tetto monitorano i livelli di inquinamento.",
+        "L'infermiera ha collegato monitor cardiaci al paziente.",
+        "Piccoli sensori nello zaino hanno misurato l'aria."
+      ]
+    },
+    {
+      "word": "estimated",
+      "def": "Calcolato approssimativamente anziché misurato con precisione",
+      "ex": [
+        "Il costo stimato del ponte è di 2 miliardi di dollari.",
+        "La polizia ha stimato la folla in 5.000 persone.",
+        "Il suo orario di arrivo stimato è le 18."
+      ]
+    },
+    {
+      "word": "legislation",
+      "def": "Una legge o un insieme di leggi fatte da un governo",
+      "ex": [
+        "La nuova legge vieta di fumare nei parchi.",
+        "Il Congresso ha approvato una legge sull'acqua pulita.",
+        "La legge entra in vigore a gennaio."
+      ]
+    },
+    {
+      "word": "traffic emissions",
+      "def": "Gas e particelle rilasciati da auto, camion e autobus",
+      "ex": [
+        "Le emissioni del traffico sono peggiori nelle ore di punta.",
+        "La città misura le emissioni del traffico sulle strade principali.",
+        "Gli autobus elettrici non producono emissioni del traffico."
+      ]
+    },
+    {
+      "word": "heating oil",
+      "def": "Olio bruciato in un edificio per tenerlo caldo",
+      "ex": [
+        "Molti edifici vecchi bruciano ancora gasolio da riscaldamento.",
+        "Il prezzo del gasolio da riscaldamento sale d'inverno.",
+        "Il camion consegna gasolio da riscaldamento al condominio."
+      ]
+    },
+    {
+      "word": "greenhouse gases",
+      "def": "Gas come l'anidride carbonica che trattengono il calore nell'atmosfera",
+      "ex": [
+        "Auto e centrali elettriche producono gas serra.",
+        "La legge mira a dimezzare i gas serra.",
+        "Anche le mucche rilasciano gas serra."
+      ]
+    },
+    {
+      "word": "cognitive scores",
+      "def": "Risultati nei test di pensiero, memoria e apprendimento",
+      "ex": [
+        "Il sonno migliora i punteggi cognitivi dei bambini.",
+        "I punteggi cognitivi dei pazienti venivano controllati ogni anno.",
+        "L'esposizione al piombo abbassa i punteggi cognitivi."
+      ]
+    },
+    {
+      "word": "shifts",
+      "def": "Cambiamenti da una situazione a un'altra",
+      "ex": [
+        "Ci sono stati grandi cambiamenti nel modo in cui le persone fanno acquisti.",
+        "Il sondaggio mostra cambiamenti nell'opinione pubblica.",
+        "Piccoli cambiamenti di temperatura possono danneggiare i raccolti."
+      ]
+    },
+    {
+      "word": "gains",
+      "def": "Miglioramenti o aumenti",
+      "ex": [
+        "Gli studenti hanno fatto grandi progressi nella lettura.",
+        "L'azienda ha riportato guadagni nelle vendite.",
+        "Piccoli progressi quotidiani si sommano in un grande risultato."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Le sostanze chimiche derivanti dalla combustione di combustibili fossili sono calate del 60 percento entro il 2020.",
+      "a": true,
+      "why": "Columbia ha riferito che le sostanze chimiche nocive derivanti dalla combustione di combustibili fossili sono calate del 60 percento dal 1998 al 2020, mentre le particelle fini e il biossido di azoto sono diminuiti di circa il 30 percento."
+    },
+    {
+      "s": "I bambini sono stati testati a 5, 6 e 7 anni.",
+      "a": false,
+      "why": "I bambini hanno svolto un test standard a 1, 2 e 3 anni, e i punteggi a 3 anni sono aumentati del 26 percento dal gruppo più vecchio a quello più recente."
+    },
+    {
+      "s": "Più di 1.000 coppie madre-figlio si sono iscritte allo studio.",
+      "a": true,
+      "why": "Si sono iscritte tra il 1998 e il 2020 nel nord di Manhattan e nel sud del Bronx, e le donne incinte indossavano sensori in uno zaino per misurare le sostanze chimiche."
+    },
+    {
+      "s": "Il Clean Heat Program ha eliminato gradualmente il gasolio da riscaldamento inquinante negli edifici.",
+      "a": true,
+      "why": "Il Clean Heat Program ha eliminato gradualmente il gasolio da riscaldamento inquinante, e il Climate Mobilization Act ha obbligato gli edifici più grandi a ridurre i gas serra."
+    },
+    {
+      "s": "Lo studio è uscito sulla rivista Science il 15 agosto 2026.",
+      "a": false,
+      "why": "Lo studio è uscito sulla rivista Environmental Health il 15 agosto 2026, condotto da ricercatori della Columbia University."
+    },
+    {
+      "s": "Tutti i 1.446 bambini dello studio avevano risultati dei test.",
+      "a": false,
+      "why": "Solo 1.109 dei 1.446 bambini avevano risultati dei test, quindi il resto è stato escluso dall'analisi."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "I ricercatori hanno seguito le famiglie di New York per oltre 20 anni mentre l'inquinamento da traffico e riscaldamento diminuiva. Un'aria più pulita durante la gravidanza è stata legata a punteggi di sviluppo precoce più alti nei bambini.",
+      "a": true,
+      "why": "Più di 1.000 coppie madre-figlio sono state seguite dal 1998 al 2020, e i punteggi a 3 anni sono aumentati del 26 percento man mano che le particelle fini, il biossido di azoto e le sostanze chimiche dei combustibili fossili diminuivano."
+    },
+    {
+      "s": "Uno studio durato 20 anni ha rilevato che i bambini di New York ottenevano punteggi più alti nei test di sviluppo man mano che l'inquinamento atmosferico diminuiva. I ricercatori dicono che l'aria più pulita derivava principalmente dalla chiusura di vecchie fabbriche.",
+      "a": false,
+      "why": "Quasi corretto, ma i ricercatori collegano l'aria più pulita alle politiche della città su autobus, taxi, gasolio da riscaldamento ed emissioni degli edifici, non alla chiusura di fabbriche."
+    },
+    {
+      "s": "New York ha approvato una legge che richiede a ogni scuolabus di funzionare a elettricità entro il 2035. I funzionari sanitari affermano che il cambiamento proteggerà i bambini dai gas di scarico nocivi durante i loro tragitti quotidiani.",
+      "a": false,
+      "why": "Non c'è stata alcuna nuova legge sugli scuolabus. Lo studio ha esaminato le politiche approvate tra il 1998 e il 2020 e come sono cambiati i punteggi dei test dei bambini man mano che l'aria diventava più pulita."
+    }
+  ],
+  "dialogue": {
+    "Those are real numbers": "Usato per dire che un cambiamento o una quantità è abbastanza grande da contare, non piccola o vaga",
+    "Good news for once": "Usato per accogliere una notizia positiva dopo molte notizie negative",
+    "Credit where it's due": "Usato per ammettere che qualcuno merita un riconoscimento, anche se di solito non lo si elogia",
+    "Points for saying so": "Usato per dare merito a qualcuno che ammette apertamente una debolezza o un problema invece di nasconderlo",
+    "Hard to argue with": "Usato per dire che una prova o un risultato è così chiaro che nessuno può ragionevolmente contraddirlo",
+    "Is there a catch?": "Usato per chiedere se qualcosa che sembra positivo ha un problema o una condizione nascosta"
+  }
+}

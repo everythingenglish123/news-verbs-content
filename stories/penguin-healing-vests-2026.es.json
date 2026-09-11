@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "es",
+  "headline": "Pingüinos heridos en Chile usan chalecos de cobre",
+  "chunks": [
+    "Investigadores en Chile están probando chalecos rojos ajustados en pingüinos de Humboldt heridos. La tela está tejida con cobre y zinc, lo cual podría ayudar a que las heridas sanen más rápido. Los veterinarios usan trajes similares en perros y gatos, y un equipo chileno creó una versión para pingüinos. \"Empezamos a preguntarnos, ¿por qué no se puede usar esto en pingüinos?\", dijo el director de un zoológico cerca de Santiago a The Associated Press el 2 de septiembre de 2026.",
+    "Un centro de rescate sin fines de lucro en el norte de Chile acoge a pingüinos varados de la costa. Algunos tienen cortes por redes de pesca o hélices de botes, y otros están débiles por el hambre, dijo la veterinaria que dirige el programa. Los pingüinos tuercen el cuello para picotear sus heridas y sacarse los puntos, y había que cambiar las vendas todos los días. El personal le quita el chaleco para el tratamiento y lo reemplaza rápido, lo cual reduce la manipulación.",
+    "El cobre y el zinc frenan las bacterias y los hongos, y el zinc ayuda a formar nuevos vasos sanguíneos, así que el tejido dañado se recupera más rápido. Chile es el mayor productor de cobre del mundo. El fabricante chileno vende una versión para mascotas en más de 40 países. Los trajes hechos para mascotas de cuatro patas suelen resbalarse en un ave que se mantiene erguida, así que los diseñadores midieron aletas, cuellos y colas, y probaron prototipos en el zoológico antes de enviarlos al centro de rescate.",
+    "Los pingüinos de Humboldt de Chile, una especie vulnerable, están disminuyendo rápidamente. Estudios de las principales colonias de anidación en 2024 y 2025 encontraron un 63 por ciento menos de nidos activos que tres años antes. El Niño calienta el mar y ahuyenta a los peces que comen, así que los padres dejan a los polluelos para ir a cazar. La veterinaria dijo que las aves toleran bien los chalecos y que las heridas se veían mejor en un día, pero el equipo aún no ha probado que los chalecos aceleren la sanación."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Probar algo para ver cómo funciona",
+      "wrong": "Ponerse ropa para revisar la talla"
+    },
+    {
+      "base": "heal up",
+      "correct": "Volver a estar sano",
+      "wrong": "Cerrar algo con mucha fuerza"
+    },
+    {
+      "base": "come up with",
+      "correct": "Pensar en una idea o un plan",
+      "wrong": "Encontrarse con un problema difícil"
+    },
+    {
+      "base": "take in",
+      "correct": "Acoger a alguien y darle cuidado",
+      "wrong": "Tomar el control de un lugar"
+    },
+    {
+      "base": "pull out",
+      "correct": "Sacar algo tirando de él",
+      "wrong": "Sanar de una enfermedad grave"
+    },
+    {
+      "base": "take off",
+      "correct": "Quitarse algo que se lleva puesto",
+      "wrong": "Cuidar a un animal enfermo"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Reducir la cantidad de algo",
+      "wrong": "Separar a alguien de los demás"
+    },
+    {
+      "base": "hold back",
+      "correct": "Impedir que algo se propague",
+      "wrong": "Mantener algo cálido y seco"
+    },
+    {
+      "base": "slip down",
+      "correct": "Resbalar hacia una posición más baja",
+      "wrong": "Cometer un pequeño descuido"
+    },
+    {
+      "base": "send off",
+      "correct": "Enviar algo a un lugar",
+      "wrong": "Devolver algo a quien lo hizo"
+    },
+    {
+      "base": "drive away",
+      "correct": "Obligar a algo a irse",
+      "wrong": "Hacer que algo suba rápido"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Irse a un lugar sin llevar a alguien",
+      "wrong": "No incluir algo en un grupo"
+    },
+    {
+      "base": "put up with",
+      "correct": "Aceptar algo sin quejarse",
+      "wrong": "Vestir a un animal con ropa"
+    },
+    {
+      "base": "speed up",
+      "correct": "Hacer que algo pase más rápido",
+      "wrong": "Usar algo por completo"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Probar algo para ver cómo funciona",
+      "ex": [
+        "La escuela está probando un nuevo horario este otoño.",
+        "Quiero probar la bicicleta antes de comprarla.",
+        "Probaron tres recetas para la fiesta."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Volver a estar sano",
+      "ex": [
+        "El corte en mi mano sanó en pocos días.",
+        "Dale tiempo a la quemadura para sanar.",
+        "Su tobillo sanó antes de que empezara la temporada."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Pensar en una idea o un plan",
+      "ex": [
+        "Ella pensó en un gran nombre para el equipo.",
+        "Necesitamos pensar en un plan para el viernes.",
+        "Se le ocurrió la idea en la ducha."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Acoger a alguien y darle cuidado",
+      "ex": [
+        "El refugio acoge a perros que no tienen hogar.",
+        "Acogieron a dos estudiantes del extranjero.",
+        "El hospital acogió a docenas de pacientes después de la tormenta."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Sacar algo tirando de él",
+      "ex": [
+        "El dentista me sacó la muela del juicio.",
+        "Se sacó una astilla con pinzas.",
+        "Ella sacó la maleza a lo largo de la cerca."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Quitarse algo que se lleva puesto",
+      "ex": [
+        "Quítate el abrigo y siéntate.",
+        "Se quitó los lentes para leer el cartel.",
+        "La enfermera quitó la venda vieja."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Reducir la cantidad de algo",
+      "ex": [
+        "Estoy tratando de reducir el azúcar.",
+        "La ciudad quiere reducir el tráfico en el centro.",
+        "Redujimos la impresión para ahorrar papel."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Impedir que algo se propague",
+      "ex": [
+        "Los sacos de arena frenaron el agua de la inundación.",
+        "El medicamento frena la infección.",
+        "La policía contuvo a la multitud en la entrada."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Resbalar hacia una posición más baja",
+      "ex": [
+        "Mis medias se resbalan dentro de las botas.",
+        "El tirante se resbaló de su hombro.",
+        "El gorro del bebé se resbaló sobre sus ojos."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Enviar algo a un lugar",
+      "ex": [
+        "Ella envió el paquete el lunes.",
+        "Enviamos las muestras al laboratorio.",
+        "Él envió su solicitud la semana pasada."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Obligar a algo a irse",
+      "ex": [
+        "El ruido ahuyentó a los pájaros del patio.",
+        "Los precios altos ahuyentaron a muchos clientes.",
+        "El agua tibia ahuyenta a los peces."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Irse a un lugar sin llevar a alguien",
+      "ex": [
+        "La familia dejó al perro al mudarse.",
+        "Dejó a su hermano menor y se fue al parque.",
+        "El autobús dejó a tres pasajeros."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Aceptar algo sin quejarse",
+      "ex": [
+        "Ya no puedo aguantar este ruido.",
+        "Ella aguantó el dolor durante semanas.",
+        "El perro aguantó el baño sin quejarse."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Hacer que algo pase más rápido",
+      "ex": [
+        "La nueva carretera acelera el viaje al aeropuerto.",
+        "El clima cálido acelera el crecimiento de las plantas.",
+        "Una computadora más rápida aceleró nuestro trabajo."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Que queda ajustado y cómodo al cuerpo",
+      "ex": [
+        "La chaqueta le quedaba ajustada en los hombros.",
+        "El bebé estaba cómodo y abrigado en su manta.",
+        "Estas botas quedan ajustadas pero no apretadas."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Hecho cruzando hilos por encima y por debajo",
+      "ex": [
+        "La canasta está tejida con tiras delgadas de madera.",
+        "Se tejió un hilo de plata en el vestido.",
+        "La alfombra fue tejida a mano en Perú."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Lesiones donde la piel está cortada o rota",
+      "ex": [
+        "La enfermera limpió las heridas de su brazo.",
+        "Las heridas profundas pueden necesitar puntos.",
+        "El perro se lamió la herida de la pata."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Dejado en un lugar sin poder moverse ni salir de allí",
+      "ex": [
+        "Los rescatistas encontraron una ballena varada en la playa.",
+        "La tormenta dejó a cientos de viajeros varados en el aeropuerto.",
+        "Una foca varada fue llevada de regreso al agua."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Redes grandes usadas para pescar en el mar",
+      "ex": [
+        "Las redes de pesca viejas pueden atrapar tortugas y aves.",
+        "La tripulación reparó las redes de pesca en el muelle.",
+        "Los buzos retiraron las redes de pesca del arrecife."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Aspas giratorias que impulsan un bote o un avión",
+      "ex": [
+        "Las hélices de los botes pueden herir a los animales marinos.",
+        "El avión tiene dos hélices en cada ala.",
+        "Las algas se enredaron en la hélice."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Que trabaja para ayudar a personas o animales, no para ganar dinero",
+      "ex": [
+        "Ella dirige una organización sin fines de lucro que alimenta a familias sin hogar.",
+        "La organización sin fines de lucro depende de donaciones.",
+        "Un grupo sin fines de lucro plantó árboles en el parque."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Un lugar donde se salva y se cuida a los animales",
+      "ex": [
+        "El centro de rescate acogió a tres crías de foca.",
+        "Los voluntarios del centro de rescate alimentan a las aves dos veces al día.",
+        "La tortuga fue liberada del centro de rescate en mayo."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Golpear o morder algo con el pico",
+      "ex": [
+        "Las gallinas picotean semillas en el suelo.",
+        "El loro me picoteó el dedo.",
+        "Un pájaro carpintero picotea agujeros en los árboles."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Hilos que usa un médico para cerrar un corte",
+      "ex": [
+        "Necesitó seis puntos en la barbilla.",
+        "El médico quitó los puntos después de diez días.",
+        "No mojes los puntos."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Tiras de tela envueltas alrededor de una herida",
+      "ex": [
+        "La enfermera cambiaba las vendas todas las mañanas.",
+        "Mantén la venda limpia y seca.",
+        "Se envolvió una venda alrededor de la rodilla."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Tubos que transportan la sangre por el cuerpo",
+      "ex": [
+        "El ejercicio mantiene sanos los vasos sanguíneos.",
+        "Vasos sanguíneos diminutos llevan oxígeno a la piel.",
+        "El corte dañó varios vasos sanguíneos pequeños."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "El material del que están hechas las partes del cuerpo",
+      "ex": [
+        "La quemadura dañó el tejido bajo la piel.",
+        "El tejido muscular se repara solo después del ejercicio.",
+        "Los médicos extirparon el tejido dañado."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "De pie, sin estar acostado",
+      "ex": [
+        "Los pingüinos caminan erguidos sobre dos patas.",
+        "Mantén la botella derecha para que no se derrame.",
+        "Se sentó erguido cuando entró el maestro."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Las extremidades planas que los pingüinos y las focas usan para nadar",
+      "ex": [
+        "El pingüino movió las aletas y se lanzó al agua.",
+        "Las focas usan sus aletas para moverse en tierra.",
+        "Las aletas de la tortuga estaban enredadas en una red."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Las primeras versiones de un producto hechas para pruebas",
+      "ex": [
+        "La empresa construyó tres prototipos del auto nuevo.",
+        "Los ingenieros probaron el prototipo durante un mes.",
+        "Los primeros prototipos eran demasiado pesados."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Un tipo de animal o planta en riesgo de desaparecer",
+      "ex": [
+        "El oso polar figura como especie vulnerable.",
+        "Las leyes protegen a las especies vulnerables de la caza.",
+        "Los científicos rastrean especies vulnerables con etiquetas."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Lugares donde muchos animales se reúnen para tener sus crías",
+      "ex": [
+        "Miles de aves marinas vuelven a las colonias de anidación cada primavera.",
+        "La isla tiene una de las colonias de anidación de focas más grandes.",
+        "Los turistas no pueden entrar a la colonia de anidación."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Nidos que las aves usan para criar a sus polluelos",
+      "ex": [
+        "Los guardaparques contaron 200 nidos activos en el acantilado.",
+        "El número de nidos activos bajó después de la tormenta.",
+        "Cada nido activo tenía dos huevos."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Los chalecos son rojos y contienen cobre y zinc.",
+      "a": true,
+      "why": "Investigadores en Chile están probando chalecos rojos ajustados cuya tela está tejida con cobre y zinc."
+    },
+    {
+      "s": "Los pingüinos fueron medidos para los primeros chalecos en el centro de rescate.",
+      "a": false,
+      "why": "Los investigadores midieron a los pingüinos en un zoológico cerca de Santiago, y los prototipos se enviaron al centro de rescate después."
+    },
+    {
+      "s": "El zinc en la tela ayuda a formar nuevos vasos sanguíneos.",
+      "a": true,
+      "why": "El cobre y el zinc frenan las bacterias y los hongos, y el zinc ayuda a formar nuevos vasos sanguíneos para que el tejido dañado se recupere más rápido."
+    },
+    {
+      "s": "El equipo ha probado que los chalecos aceleran la sanación.",
+      "a": false,
+      "why": "La veterinaria dijo que las aves toleran bien los chalecos y que las heridas se veían mejor en un día, pero el equipo aún no ha probado que los chalecos aceleren la sanación."
+    },
+    {
+      "s": "Los estudios encontraron un 63 por ciento menos de nidos activos que tres años antes.",
+      "a": true,
+      "why": "Estudios de las principales colonias de anidación en 2024 y 2025 encontraron un 63 por ciento menos de nidos activos, y El Niño ahuyenta a los peces que comen los pingüinos."
+    },
+    {
+      "s": "Antes de los chalecos, las vendas de los pingüinos se cambiaban una vez por semana.",
+      "a": false,
+      "why": "Los pingüinos picotean sus heridas y se sacan los puntos, y había que cambiar las vendas todos los días."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Investigadores chilenos están probando chalecos rojos tejidos con cobre y zinc en pingüinos de Humboldt heridos. Los chalecos evitan que las aves se saquen los puntos y podrían ayudar a que las heridas cierren más rápido.",
+      "a": true,
+      "why": "Los chalecos se adaptaron de trajes para mascotas, y el cobre y el zinc de la tela frenan las bacterias mientras la prenda evita que los pingüinos se saquen los puntos."
+    },
+    {
+      "s": "Los centros de rescate en Chile han probado que los chalecos de cobre sanan las heridas de los pingüinos el doble de rápido que las vendas. Los trajes, hechos primero para perros y gatos, ahora se venden a zoológicos en 40 países.",
+      "a": false,
+      "why": "Cerca, pero el equipo aún no ha probado que los chalecos aceleren la sanación, y es la versión para mascotas del traje la que se vende en más de 40 países."
+    },
+    {
+      "s": "Científicos en Chile contaron los pingüinos de Humboldt del país y encontraron un 63 por ciento menos de aves que en 2021. Culpan a las redes de pesca y al plástico y quieren nuevas áreas protegidas a lo largo de la costa.",
+      "a": false,
+      "why": "La cifra del 63 por ciento es una caída en los nidos activos de las colonias de anidación, y la noticia trata sobre chalecos que se están probando en pingüinos heridos, no sobre un plan de áreas protegidas."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Se usa para decir que algo suena tan encantador o gracioso que uno realmente quiere verlo",
+    "Poor things": "Se usa para mostrar compasión por animales o personas que están sufriendo",
+    "That figures": "Se usa para decir que algo tiene sentido una vez que se conocen los hechos",
+    "Too soon to say": "Se usa para decir que todavía no hay suficiente evidencia para juzgar algo",
+    "Every little bit helps": "Se usa para decir que hasta una pequeña contribución o mejora es útil"
+  }
+}

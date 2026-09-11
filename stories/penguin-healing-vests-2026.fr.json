@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "fr",
+  "headline": "Des manchots blessés au Chili portent des gilets en cuivre",
+  "chunks": [
+    "Des chercheurs au Chili essaient des gilets rouges ajustés sur des manchots de Humboldt blessés. Le tissu est tissé avec du cuivre et du zinc, ce qui pourrait aider les blessures à guérir plus vite. Les vétérinaires utilisent des combinaisons semblables sur les chiens et les chats, et une équipe chilienne a créé une version pour manchots. « Nous avons commencé à nous demander pourquoi cela ne pourrait pas être utilisé sur des manchots », a déclaré le directeur d'un zoo près de Santiago à l'agence The Associated Press le 2 septembre 2026.",
+    "Un centre de secours à but non lucratif dans le nord du Chili accueille des manchots échoués venus de la côte. Certains sont blessés par des filets de pêche ou des hélices de bateau, et d'autres sont affaiblis par la faim, a dit la vétérinaire qui dirige le programme. Les manchots tordent le cou pour picorer leurs blessures et arracher leurs points de suture, et il fallait changer les bandages chaque jour. Le personnel enlève le gilet pour le traitement et le remet vite, ce qui réduit la manipulation des oiseaux.",
+    "Le cuivre et le zinc freinent les bactéries et les champignons, et le zinc aide de nouveaux vaisseaux sanguins à se former, si bien que le tissu abîmé récupère plus vite. Le Chili est le premier producteur de cuivre au monde. Le fabricant chilien vend une version pour animaux de compagnie dans plus de 40 pays. Les combinaisons faites pour des animaux à quatre pattes ont tendance à glisser vers le bas sur un oiseau qui se tient debout, alors les concepteurs ont mesuré les nageoires, les cous et les queues, et testé des prototypes au zoo avant de les envoyer au centre de secours.",
+    "Les manchots de Humboldt du Chili, une espèce vulnérable, diminuent fortement. Des études des principales colonies de reproduction en 2024 et 2025 ont trouvé 63 pour cent de nids actifs en moins qu'il y a trois ans. El Niño réchauffe la mer et chasse les poissons dont ils se nourrissent, alors les parents laissent leurs poussins pour aller chasser. La vétérinaire a dit que les oiseaux supportaient bien les gilets et que les blessures paraissaient mieux en un jour, mais l'équipe n'a pas encore prouvé que les gilets accélèrent la guérison."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Tester quelque chose pour voir comment ça marche",
+      "wrong": "Mettre des vêtements pour vérifier la taille"
+    },
+    {
+      "base": "heal up",
+      "correct": "Redevenir en bonne santé",
+      "wrong": "Fermer quelque chose bien fort"
+    },
+    {
+      "base": "come up with",
+      "correct": "Penser à une idée ou à un plan",
+      "wrong": "Rencontrer un problème difficile"
+    },
+    {
+      "base": "take in",
+      "correct": "Accueillir quelqu'un et prendre soin de lui",
+      "wrong": "Prendre entièrement le contrôle d'un lieu"
+    },
+    {
+      "base": "pull out",
+      "correct": "Retirer quelque chose en le tirant",
+      "wrong": "Guérir d'une maladie grave"
+    },
+    {
+      "base": "take off",
+      "correct": "Enlever quelque chose que l'on porte",
+      "wrong": "Soigner un animal malade ou blessé"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Réduire la quantité de quelque chose",
+      "wrong": "Séparer quelqu'un des autres"
+    },
+    {
+      "base": "hold back",
+      "correct": "Empêcher quelque chose de se propager",
+      "wrong": "Garder quelque chose au chaud et au sec"
+    },
+    {
+      "base": "slip down",
+      "correct": "Glisser vers une position plus basse",
+      "wrong": "Faire une petite erreur d'inattention"
+    },
+    {
+      "base": "send off",
+      "correct": "Envoyer quelque chose à un endroit",
+      "wrong": "Rendre quelque chose à son fabricant"
+    },
+    {
+      "base": "drive away",
+      "correct": "Forcer quelque chose à partir",
+      "wrong": "Faire monter quelque chose très vite"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Aller quelque part sans emmener quelqu'un",
+      "wrong": "Ne pas inclure quelque chose dans un groupe"
+    },
+    {
+      "base": "put up with",
+      "correct": "Accepter quelque chose sans se plaindre",
+      "wrong": "Habiller un animal avec des vêtements"
+    },
+    {
+      "base": "speed up",
+      "correct": "Faire en sorte que quelque chose aille plus vite",
+      "wrong": "Utiliser complètement quelque chose jusqu'au bout"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Tester quelque chose pour voir comment ça marche",
+      "ex": [
+        "L'école teste un nouvel horaire cet automne.",
+        "Je veux essayer le vélo avant de l'acheter.",
+        "Ils ont testé trois recettes pour la fête."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Redevenir en bonne santé",
+      "ex": [
+        "La coupure sur ma main a guéri en quelques jours.",
+        "Laisse le temps à la brûlure de guérir.",
+        "Sa cheville a guéri avant le début de la saison."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Penser à une idée ou à un plan",
+      "ex": [
+        "Elle a trouvé un super nom pour l'équipe.",
+        "Nous devons trouver un plan d'ici vendredi.",
+        "Il a eu l'idée sous la douche."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Accueillir quelqu'un et prendre soin de lui",
+      "ex": [
+        "Le refuge accueille des chiens sans foyer.",
+        "Ils ont accueilli deux étudiants venus de l'étranger.",
+        "L'hôpital a accueilli des dizaines de patients après la tempête."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Retirer quelque chose en le tirant",
+      "ex": [
+        "Le dentiste m'a retiré une dent de sagesse.",
+        "Il a retiré une écharde avec une pince.",
+        "Elle a arraché les mauvaises herbes le long de la clôture."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Enlever quelque chose que l'on porte",
+      "ex": [
+        "Enlève ton manteau et assieds-toi.",
+        "Il a enlevé ses lunettes pour lire le panneau.",
+        "L'infirmière a retiré le vieux bandage."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Réduire la quantité de quelque chose",
+      "ex": [
+        "J'essaie de réduire le sucre.",
+        "La ville veut réduire la circulation au centre-ville.",
+        "Nous avons réduit l'impression pour économiser du papier."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Empêcher quelque chose de se propager",
+      "ex": [
+        "Des sacs de sable ont freiné l'eau de l'inondation.",
+        "Le médicament freine l'infection.",
+        "La police a contenu la foule à l'entrée."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Glisser vers une position plus basse",
+      "ex": [
+        "Mes chaussettes n'arrêtent pas de glisser dans mes bottes.",
+        "La bretelle a glissé de son épaule.",
+        "Le bonnet du bébé a glissé sur ses yeux."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Envoyer quelque chose à un endroit",
+      "ex": [
+        "Elle a envoyé le colis lundi.",
+        "Nous avons envoyé les échantillons au laboratoire.",
+        "Il a envoyé sa candidature la semaine dernière."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Forcer quelque chose à partir",
+      "ex": [
+        "Le bruit a chassé les oiseaux du jardin.",
+        "Les prix élevés ont fait fuir beaucoup de clients.",
+        "L'eau chaude chasse les poissons."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Aller quelque part sans emmener quelqu'un",
+      "ex": [
+        "La famille a laissé le chien en déménageant.",
+        "Elle a laissé son petit frère et est allée au parc.",
+        "Le bus a laissé trois passagers derrière lui."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Accepter quelque chose sans se plaindre",
+      "ex": [
+        "Je ne peux plus supporter ce bruit.",
+        "Elle a supporté la douleur pendant des semaines.",
+        "Le chien a supporté le bain sans se plaindre."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Faire en sorte que quelque chose aille plus vite",
+      "ex": [
+        "La nouvelle route accélère le trajet vers l'aéroport.",
+        "Le temps chaud accélère la croissance des plantes.",
+        "Un ordinateur plus rapide a accéléré notre travail."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Qui s'ajuste bien et confortablement au corps",
+      "ex": [
+        "La veste était bien ajustée aux épaules.",
+        "Le bébé était bien au chaud dans sa couverture.",
+        "Ces bottes sont bien ajustées, mais pas serrées."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Fait en croisant des fils au-dessus et en dessous les uns des autres",
+      "ex": [
+        "Le panier est tissé avec de fines lanières de bois.",
+        "Un fil d'argent a été tissé dans la robe.",
+        "Le tapis a été tissé à la main au Pérou."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Des blessures où la peau est coupée ou déchirée",
+      "ex": [
+        "L'infirmière a nettoyé les blessures sur son bras.",
+        "Les blessures profondes peuvent nécessiter des points de suture.",
+        "Le chien a léché la blessure sur sa patte."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Laissé quelque part et incapable de bouger ou de partir",
+      "ex": [
+        "Des sauveteurs ont trouvé une baleine échouée sur la plage.",
+        "La tempête a laissé des centaines de voyageurs bloqués à l'aéroport.",
+        "Un phoque échoué a été ramené à l'eau."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "De grands filets utilisés pour attraper des poissons en mer",
+      "ex": [
+        "De vieux filets de pêche peuvent piéger des tortues et des oiseaux.",
+        "L'équipage a réparé les filets de pêche sur le quai.",
+        "Des plongeurs ont retiré des filets de pêche du récif."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Des pales tournantes qui font avancer un bateau ou un avion",
+      "ex": [
+        "Les hélices des bateaux peuvent blesser des animaux marins.",
+        "L'avion a deux hélices sur chaque aile.",
+        "Des algues se sont coincées dans l'hélice."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Qui travaille pour aider des gens ou des animaux, pas pour gagner de l'argent",
+      "ex": [
+        "Elle dirige une organisation à but non lucratif qui nourrit des familles sans abri.",
+        "L'organisation à but non lucratif dépend des dons.",
+        "Un groupe à but non lucratif a planté des arbres dans le parc."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Un lieu où l'on sauve les animaux et où l'on s'en occupe",
+      "ex": [
+        "Le centre de secours a accueilli trois bébés phoques.",
+        "Les bénévoles du centre de secours nourrissent les oiseaux deux fois par jour.",
+        "La tortue a été relâchée du centre de secours en mai."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Frapper ou mordre quelque chose avec le bec",
+      "ex": [
+        "Les poules picorent des graines par terre.",
+        "Le perroquet m'a piqué le doigt.",
+        "Un pic picore des trous dans les arbres."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Des fils qu'un médecin utilise pour fermer une coupure",
+      "ex": [
+        "Il a eu besoin de six points de suture au menton.",
+        "Le médecin a retiré les points après dix jours.",
+        "Ne mouille pas les points de suture."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Des bandes de tissu enroulées autour d'une blessure",
+      "ex": [
+        "L'infirmière changeait les bandages chaque matin.",
+        "Garde le bandage propre et sec.",
+        "Il a enroulé un bandage autour de son genou."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Des tubes qui transportent le sang dans le corps",
+      "ex": [
+        "L'exercice garde tes vaisseaux sanguins en bonne santé.",
+        "De minuscules vaisseaux sanguins apportent de l'oxygène à la peau.",
+        "La coupure a endommagé plusieurs petits vaisseaux sanguins."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "La matière dont sont faites les parties d'un corps",
+      "ex": [
+        "La brûlure a endommagé le tissu sous la peau.",
+        "Le tissu musculaire se répare tout seul après l'exercice.",
+        "Les médecins ont retiré le tissu endommagé."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "Debout, pas allongé",
+      "ex": [
+        "Les manchots marchent debout sur deux pattes.",
+        "Garde la bouteille debout pour qu'elle ne se renverse pas.",
+        "Il s'est assis droit quand le professeur est entré."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Les membres plats que les manchots et les phoques utilisent pour nager",
+      "ex": [
+        "Le manchot a agité ses nageoires et a plongé.",
+        "Les phoques utilisent leurs nageoires pour se déplacer sur terre.",
+        "Les nageoires de la tortue étaient prises dans un filet."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Les premières versions d'un produit fabriquées pour des essais",
+      "ex": [
+        "L'entreprise a construit trois prototypes de la nouvelle voiture.",
+        "Des ingénieurs ont testé le prototype pendant un mois.",
+        "Les premiers prototypes étaient trop lourds."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Un type d'animal ou de plante menacé de disparition",
+      "ex": [
+        "L'ours polaire figure comme une espèce vulnérable.",
+        "Des lois protègent les espèces vulnérables de la chasse.",
+        "Les scientifiques suivent les espèces vulnérables à l'aide d'étiquettes."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Des lieux où de nombreux animaux se rassemblent pour avoir leurs petits",
+      "ex": [
+        "Des milliers d'oiseaux marins reviennent aux colonies de reproduction chaque printemps.",
+        "L'île abrite l'une des plus grandes colonies de reproduction de phoques.",
+        "Les touristes ne peuvent pas entrer dans la colonie de reproduction."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Des nids que les oiseaux utilisent pour élever leurs petits",
+      "ex": [
+        "Des gardes ont compté 200 nids actifs sur la falaise.",
+        "Le nombre de nids actifs a baissé après la tempête.",
+        "Chaque nid actif contenait deux œufs."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Les gilets sont rouges et contiennent du cuivre et du zinc.",
+      "a": true,
+      "why": "Des chercheurs au Chili essaient des gilets rouges ajustés dont le tissu est tissé avec du cuivre et du zinc."
+    },
+    {
+      "s": "Les manchots ont été mesurés pour les premiers gilets au centre de secours.",
+      "a": false,
+      "why": "Les chercheurs ont mesuré les manchots dans un zoo près de Santiago, et les prototypes ont été envoyés au centre de secours ensuite."
+    },
+    {
+      "s": "Le zinc dans le tissu aide de nouveaux vaisseaux sanguins à se former.",
+      "a": true,
+      "why": "Le cuivre et le zinc freinent les bactéries et les champignons, et le zinc aide de nouveaux vaisseaux sanguins à se former pour que le tissu abîmé récupère plus vite."
+    },
+    {
+      "s": "L'équipe a prouvé que les gilets accélèrent la guérison.",
+      "a": false,
+      "why": "La vétérinaire a dit que les oiseaux supportaient bien les gilets et que les blessures paraissaient mieux en un jour, mais l'équipe n'a pas encore prouvé que les gilets accélèrent la guérison."
+    },
+    {
+      "s": "Des études ont trouvé 63 pour cent de nids actifs en moins qu'il y a trois ans.",
+      "a": true,
+      "why": "Des études des principales colonies de reproduction en 2024 et 2025 ont trouvé 63 pour cent de nids actifs en moins, et El Niño chasse les poissons que mangent les manchots."
+    },
+    {
+      "s": "Avant les gilets, les bandages des manchots étaient changés une fois par semaine.",
+      "a": false,
+      "why": "Les manchots picorent leurs blessures et arrachent leurs points de suture, et il fallait changer les bandages chaque jour."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Des chercheurs chiliens testent des gilets rouges tissés avec du cuivre et du zinc sur des manchots de Humboldt blessés. Les gilets empêchent les oiseaux d'arracher leurs points de suture et pourraient aider les blessures à se refermer plus vite.",
+      "a": true,
+      "why": "Les gilets ont été adaptés de combinaisons pour animaux de compagnie, et le cuivre et le zinc du tissu freinent les bactéries pendant que le vêtement empêche les manchots d'arracher leurs points de suture."
+    },
+    {
+      "s": "Des centres de secours au Chili ont prouvé que les gilets de cuivre guérissent les blessures des manchots deux fois plus vite que les bandages. Les combinaisons, d'abord conçues pour les chiens et les chats, sont maintenant vendues à des zoos dans 40 pays.",
+      "a": false,
+      "why": "Presque, mais l'équipe n'a pas encore prouvé que les gilets accélèrent la guérison, et c'est la version pour animaux de compagnie de la combinaison qui est vendue dans plus de 40 pays."
+    },
+    {
+      "s": "Des scientifiques au Chili ont compté les manchots de Humboldt du pays et ont trouvé 63 pour cent d'oiseaux en moins qu'en 2021. Ils accusent les filets de pêche et le plastique et veulent de nouvelles zones protégées le long de la côte.",
+      "a": false,
+      "why": "Le chiffre de 63 pour cent est une baisse des nids actifs dans les colonies de reproduction, et la nouvelle parle de gilets testés sur des manchots blessés, pas d'un projet de zones protégées."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Utilisé pour dire que quelque chose semble si charmant ou drôle qu'on a vraiment envie de le voir",
+    "Poor things": "Utilisé pour montrer de la compassion envers des animaux ou des personnes qui souffrent",
+    "That figures": "Utilisé pour dire que quelque chose devient logique une fois qu'on connaît les faits",
+    "Too soon to say": "Utilisé pour dire qu'il n'y a pas encore assez de preuves pour juger quelque chose",
+    "Every little bit helps": "Utilisé pour dire que même une petite contribution ou une petite amélioration est utile"
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "de",
+  "headline": "Verletzte Pinguine in Chile tragen Westen aus Kupfer",
+  "chunks": [
+    "Forscher in Chile testen enge rote Westen an verletzten Humboldt-Pinguinen. Der Stoff ist mit Kupfer und Zink gewebt, was Wunden helfen könnte, schneller zu heilen. Tierärzte verwenden ähnliche Anzüge bei Hunden und Katzen, und ein chilenisches Team entwickelte eine Version für Pinguine. „Wir begannen uns zu fragen, warum das nicht auch bei Pinguinen funktionieren sollte\", sagte der Direktor eines Zoos nahe Santiago der Nachrichtenagentur The Associated Press am 2. September 2026.",
+    "Ein gemeinnütziges Rettungszentrum im Norden Chiles nimmt gestrandete Pinguine von der Küste auf. Manche sind durch Fischernetze oder Bootspropeller verletzt, andere sind vom Hunger geschwächt, sagte die Tierärztin, die das Programm leitet. Pinguine verdrehen den Hals, um an Wunden zu picken und ihre Fäden herauszuziehen, und die Verbände mussten täglich gewechselt werden. Das Personal zieht die Weste zur Behandlung aus und ersetzt sie schnell wieder, was den Umgang mit den Tieren verringert.",
+    "Kupfer und Zink halten Bakterien und Pilze zurück, und Zink hilft neuen Blutgefäßen zu entstehen, sodass geschädigtes Gewebe schneller heilt. Chile ist der weltweit größte Kupferproduzent. Der chilenische Hersteller verkauft eine Version für Haustiere in mehr als 40 Ländern. Anzüge, die für vierbeinige Haustiere gemacht sind, rutschen bei einem Vogel, der aufrecht steht, leicht herunter, deshalb maßen die Designer Flossen, Hälse und Schwänze und testeten Prototypen im Zoo, bevor sie sie an das Rettungszentrum schickten.",
+    "Chiles Humboldt-Pinguine, eine gefährdete Art, gehen stark zurück. Untersuchungen der wichtigsten Brutkolonien in 2024 und 2025 fanden 63 Prozent weniger aktive Nester als drei Jahre zuvor. El Niño erwärmt das Meer und vertreibt die Fische, von denen sie sich ernähren, sodass Eltern ihre Küken zurücklassen, um zu jagen. Die Tierärztin sagte, die Vögel hätten die Westen gut ertragen und die Wunden hätten innerhalb eines Tages besser ausgesehen, aber das Team hat noch nicht bewiesen, dass die Westen die Heilung beschleunigen."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Etwas testen, um zu sehen, wie es funktioniert",
+      "wrong": "Kleidung anprobieren, um die Passform zu prüfen"
+    },
+    {
+      "base": "heal up",
+      "correct": "Wieder gesund werden",
+      "wrong": "Etwas fest verschließen"
+    },
+    {
+      "base": "come up with",
+      "correct": "Sich eine Idee oder einen Plan ausdenken",
+      "wrong": "Auf ein schwieriges Problem stoßen"
+    },
+    {
+      "base": "take in",
+      "correct": "Jemanden aufnehmen und ihm Pflege geben",
+      "wrong": "Die Kontrolle über einen Ort übernehmen"
+    },
+    {
+      "base": "pull out",
+      "correct": "Etwas durch Ziehen entfernen",
+      "wrong": "Sich von einer Krankheit erholen"
+    },
+    {
+      "base": "take off",
+      "correct": "Etwas ausziehen, das man trägt",
+      "wrong": "Ein krankes oder verletztes Tier pflegen"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Die Menge von etwas verringern",
+      "wrong": "Jemanden von anderen trennen"
+    },
+    {
+      "base": "hold back",
+      "correct": "Verhindern, dass sich etwas ausbreitet",
+      "wrong": "Etwas warm und trocken halten"
+    },
+    {
+      "base": "slip down",
+      "correct": "In eine tiefere Position rutschen",
+      "wrong": "Einen kleinen, unachtsamen Fehler machen"
+    },
+    {
+      "base": "send off",
+      "correct": "Etwas an einen Ort schicken",
+      "wrong": "Etwas an den Hersteller zurückgeben"
+    },
+    {
+      "base": "drive away",
+      "correct": "Etwas dazu zwingen wegzugehen",
+      "wrong": "Etwas schnell ansteigen lassen"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Irgendwohin gehen, ohne jemanden mitzunehmen",
+      "wrong": "Etwas nicht in eine Gruppe aufnehmen"
+    },
+    {
+      "base": "put up with",
+      "correct": "Etwas ohne Beschwerde hinnehmen",
+      "wrong": "Ein Tier in Kleidung stecken"
+    },
+    {
+      "base": "speed up",
+      "correct": "Etwas schneller geschehen lassen",
+      "wrong": "Etwas vollständig aufbrauchen"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Etwas testen, um zu sehen, wie es funktioniert",
+      "ex": [
+        "Die Schule testet diesen Herbst einen neuen Stundenplan.",
+        "Ich möchte das Fahrrad testen, bevor ich es kaufe.",
+        "Sie testeten drei Rezepte für die Feier."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Wieder gesund werden",
+      "ex": [
+        "Der Schnitt an meiner Hand heilte in wenigen Tagen.",
+        "Gib der Verbrennung Zeit zu heilen.",
+        "Sein Knöchel heilte, bevor die Saison begann."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Sich eine Idee oder einen Plan ausdenken",
+      "ex": [
+        "Sie dachte sich einen tollen Namen für das Team aus.",
+        "Wir müssen uns bis Freitag einen Plan ausdenken.",
+        "Er hatte die Idee unter der Dusche."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Jemanden aufnehmen und ihm Pflege geben",
+      "ex": [
+        "Das Heim nimmt Hunde ohne Zuhause auf.",
+        "Sie nahmen zwei Studenten aus dem Ausland auf.",
+        "Das Krankenhaus nahm nach dem Sturm Dutzende Patienten auf."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Etwas durch Ziehen entfernen",
+      "ex": [
+        "Der Zahnarzt zog meinen Weisheitszahn.",
+        "Er zog einen Splitter mit einer Pinzette heraus.",
+        "Sie zog das Unkraut am Zaun heraus."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Etwas ausziehen, das man trägt",
+      "ex": [
+        "Zieh deinen Mantel aus und setz dich.",
+        "Er nahm die Brille ab, um das Schild zu lesen.",
+        "Die Krankenschwester nahm den alten Verband ab."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Die Menge von etwas verringern",
+      "ex": [
+        "Ich versuche, weniger Zucker zu essen.",
+        "Die Stadt will den Verkehr in der Innenstadt verringern.",
+        "Wir haben das Drucken reduziert, um Papier zu sparen."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Verhindern, dass sich etwas ausbreitet",
+      "ex": [
+        "Sandsäcke hielten das Hochwasser zurück.",
+        "Das Medikament hält die Infektion zurück.",
+        "Die Polizei hielt die Menge am Tor zurück."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "In eine tiefere Position rutschen",
+      "ex": [
+        "Meine Socken rutschen ständig in den Stiefeln herunter.",
+        "Der Träger rutschte von ihrer Schulter herunter.",
+        "Die Mütze des Babys rutschte über seine Augen."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Etwas an einen Ort schicken",
+      "ex": [
+        "Sie schickte das Paket am Montag ab.",
+        "Wir schickten die Proben ins Labor.",
+        "Er schickte seinen Antrag letzte Woche ab."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Etwas dazu zwingen wegzugehen",
+      "ex": [
+        "Der Lärm vertrieb die Vögel aus dem Garten.",
+        "Hohe Preise vertrieben viele Kunden.",
+        "Warmes Wasser vertreibt die Fische."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Irgendwohin gehen, ohne jemanden mitzunehmen",
+      "ex": [
+        "Die Familie ließ den Hund beim Umzug zurück.",
+        "Sie ließ ihren kleinen Bruder zurück und ging in den Park.",
+        "Der Bus ließ drei Fahrgäste zurück."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Etwas ohne Beschwerde hinnehmen",
+      "ex": [
+        "Ich kann diesen Lärm nicht länger ertragen.",
+        "Sie ertrug die Schmerzen wochenlang.",
+        "Der Hund ertrug das Bad ohne zu murren."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Etwas schneller geschehen lassen",
+      "ex": [
+        "Die neue Straße beschleunigt die Fahrt zum Flughafen.",
+        "Warmes Wetter beschleunigt das Wachstum der Pflanzen.",
+        "Ein schnellerer Computer beschleunigte unsere Arbeit."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Eng und bequem am Körper anliegend",
+      "ex": [
+        "Die Jacke saß an den Schultern eng an.",
+        "Das Baby lag warm eingehüllt in seiner Decke.",
+        "Diese Stiefel sitzen eng, aber nicht zu eng."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Hergestellt, indem Fäden über- und untereinander gekreuzt werden",
+      "ex": [
+        "Der Korb ist aus dünnen Holzstreifen gewebt.",
+        "Silberfaden wurde in das Kleid eingewebt.",
+        "Der Teppich wurde in Peru von Hand gewebt."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Verletzungen, bei denen die Haut geschnitten oder aufgerissen ist",
+      "ex": [
+        "Die Krankenschwester reinigte die Wunden an seinem Arm.",
+        "Tiefe Wunden brauchen manchmal Stiche.",
+        "Der Hund leckte die Wunde an seiner Pfote."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "An einem Ort zurückgelassen und unfähig, sich zu bewegen oder wegzukommen",
+      "ex": [
+        "Retter fanden einen gestrandeten Wal am Strand.",
+        "Der Sturm ließ Hunderte Reisende am Flughafen stranden.",
+        "Eine gestrandete Robbe wurde zurück ins Wasser gebracht."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Große Netze, mit denen Fische im Meer gefangen werden",
+      "ex": [
+        "Alte Fischernetze können Schildkröten und Vögel einfangen.",
+        "Die Crew reparierte die Fischernetze am Kai.",
+        "Taucher entfernten Fischernetze vom Riff."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Sich drehende Blätter, die ein Boot oder Flugzeug vorwärtstreiben",
+      "ex": [
+        "Bootspropeller können Meerestiere verletzen.",
+        "Das Flugzeug hat zwei Propeller an jedem Flügel.",
+        "Algen verfingen sich im Propeller."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Arbeitet, um Menschen oder Tieren zu helfen, nicht um Geld zu verdienen",
+      "ex": [
+        "Sie leitet eine gemeinnützige Organisation, die obdachlose Familien versorgt.",
+        "Die gemeinnützige Organisation ist auf Spenden angewiesen.",
+        "Eine gemeinnützige Gruppe pflanzte Bäume im Park."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Ein Ort, an dem Tiere gerettet und gepflegt werden",
+      "ex": [
+        "Das Rettungszentrum nahm drei Robbenbabys auf.",
+        "Freiwillige im Rettungszentrum füttern die Vögel zweimal täglich.",
+        "Die Schildkröte wurde im Mai aus dem Rettungszentrum entlassen."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Etwas mit dem Schnabel schlagen oder beißen",
+      "ex": [
+        "Hühner picken Samen vom Boden auf.",
+        "Der Papagei pickte nach meinem Finger.",
+        "Ein Specht pickt Löcher in Bäume."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Fäden, mit denen ein Arzt einen Schnitt schließt",
+      "ex": [
+        "Er brauchte sechs Stiche am Kinn.",
+        "Der Arzt entfernte die Fäden nach zehn Tagen.",
+        "Lass die Stiche nicht nass werden."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Stoffstreifen, die um eine Verletzung gewickelt werden",
+      "ex": [
+        "Die Krankenschwester wechselte jeden Morgen die Verbände.",
+        "Halte den Verband sauber und trocken.",
+        "Er wickelte einen Verband um sein Knie."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Röhren, die Blut durch den Körper leiten",
+      "ex": [
+        "Bewegung hält deine Blutgefäße gesund.",
+        "Winzige Blutgefäße bringen Sauerstoff zur Haut.",
+        "Der Schnitt beschädigte mehrere kleine Blutgefäße."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "Das Material, aus dem die Teile eines Körpers bestehen",
+      "ex": [
+        "Die Verbrennung schädigte das Gewebe unter der Haut.",
+        "Muskelgewebe repariert sich nach dem Training selbst.",
+        "Die Ärzte entfernten das beschädigte Gewebe."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "Aufrecht stehend, nicht liegend",
+      "ex": [
+        "Pinguine laufen aufrecht auf zwei Beinen.",
+        "Halte die Flasche aufrecht, damit sie nicht ausläuft.",
+        "Er setzte sich aufrecht hin, als der Lehrer hereinkam."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "Die flachen Gliedmaßen, mit denen Pinguine und Robben schwimmen",
+      "ex": [
+        "Der Pinguin schlug mit den Flossen und tauchte hinein.",
+        "Robben nutzen ihre Flossen, um sich an Land zu bewegen.",
+        "Die Flossen der Schildkröte verfingen sich in einem Netz."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Erste Versionen eines Produkts, die zum Testen hergestellt werden",
+      "ex": [
+        "Das Unternehmen baute drei Prototypen des neuen Autos.",
+        "Ingenieure testeten den Prototyp einen Monat lang.",
+        "Die ersten Prototypen waren zu schwer."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Eine Art von Tier oder Pflanze, die vom Aussterben bedroht ist",
+      "ex": [
+        "Der Eisbär gilt als gefährdete Art.",
+        "Gesetze schützen gefährdete Arten vor der Jagd.",
+        "Wissenschaftler verfolgen gefährdete Arten mit Markierungen."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Orte, an denen sich viele Tiere versammeln, um ihre Jungen aufzuziehen",
+      "ex": [
+        "Tausende Seevögel kehren jedes Frühjahr zu den Brutkolonien zurück.",
+        "Die Insel hat eine der größten Brutkolonien von Robben.",
+        "Touristen dürfen die Brutkolonie nicht betreten."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Nester, die Vögel benutzen, um ihre Jungen aufzuziehen",
+      "ex": [
+        "Ranger zählten 200 aktive Nester an der Klippe.",
+        "Die Zahl der aktiven Nester sank nach dem Sturm.",
+        "Jedes aktive Nest enthielt zwei Eier."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Die Westen sind rot und enthalten Kupfer und Zink.",
+      "a": true,
+      "why": "Forscher in Chile testen enge rote Westen, deren Stoff mit Kupfer und Zink gewebt ist."
+    },
+    {
+      "s": "Die Pinguine wurden für die ersten Westen im Rettungszentrum vermessen.",
+      "a": false,
+      "why": "Die Forscher vermaßen die Pinguine in einem Zoo nahe Santiago, und die Prototypen wurden danach an das Rettungszentrum geschickt."
+    },
+    {
+      "s": "Zink im Stoff hilft neuen Blutgefäßen zu entstehen.",
+      "a": true,
+      "why": "Kupfer und Zink halten Bakterien und Pilze zurück, und Zink hilft neuen Blutgefäßen zu entstehen, sodass geschädigtes Gewebe schneller heilt."
+    },
+    {
+      "s": "Das Team hat bewiesen, dass die Westen die Heilung beschleunigen.",
+      "a": false,
+      "why": "Die Tierärztin sagte, die Vögel hätten die Westen gut ertragen und die Wunden hätten innerhalb eines Tages besser ausgesehen, aber das Team hat noch nicht bewiesen, dass die Westen die Heilung beschleunigen."
+    },
+    {
+      "s": "Untersuchungen fanden 63 Prozent weniger aktive Nester als drei Jahre zuvor.",
+      "a": true,
+      "why": "Untersuchungen der wichtigsten Brutkolonien in 2024 und 2025 fanden 63 Prozent weniger aktive Nester, und El Niño vertreibt die Fische, von denen sich die Pinguine ernähren."
+    },
+    {
+      "s": "Vor den Westen wurden die Verbände der Pinguine einmal pro Woche gewechselt.",
+      "a": false,
+      "why": "Pinguine picken an Wunden und ziehen ihre Fäden heraus, und die Verbände mussten täglich gewechselt werden."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Chilenische Forscher testen rote Westen aus Kupfer und Zink an verletzten Humboldt-Pinguinen. Die Westen hindern die Vögel daran, ihre Fäden herauszuziehen, und könnten helfen, dass Wunden schneller heilen.",
+      "a": true,
+      "why": "Die Westen wurden von Haustieranzügen abgeleitet, und das Kupfer und Zink im Stoff halten Bakterien zurück, während das Kleidungsstück die Pinguine davon abhält, ihre Fäden herauszuziehen."
+    },
+    {
+      "s": "Rettungszentren in Chile haben bewiesen, dass Kupferwesten Pinguinwunden doppelt so schnell heilen wie Verbände. Die Anzüge, die zuerst für Hunde und Katzen gemacht wurden, werden nun an Zoos in 40 Ländern verkauft.",
+      "a": false,
+      "why": "Nahe dran, aber das Team hat noch nicht bewiesen, dass die Westen die Heilung beschleunigen, und es ist die Haustierversion des Anzugs, die in mehr als 40 Ländern verkauft wird."
+    },
+    {
+      "s": "Wissenschaftler in Chile zählten die Humboldt-Pinguine des Landes und fanden 63 Prozent weniger Vögel als 2021. Sie geben Fischernetzen und Plastik die Schuld und wollen neue Schutzgebiete entlang der Küste.",
+      "a": false,
+      "why": "Die Zahl von 63 Prozent bezieht sich auf einen Rückgang der aktiven Nester in Brutkolonien, und die Nachricht handelt von Westen, die an verletzten Pinguinen getestet werden, nicht von einem Plan für Schutzgebiete."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Wird verwendet, um zu sagen, dass etwas so reizend oder witzig klingt, dass man es wirklich sehen möchte",
+    "Poor things": "Wird verwendet, um Mitgefühl für leidende Tiere oder Menschen zu zeigen",
+    "That figures": "Wird verwendet, um zu sagen, dass etwas Sinn ergibt, sobald man die Fakten kennt",
+    "Too soon to say": "Wird verwendet, um zu sagen, dass es noch nicht genug Beweise gibt, um etwas zu beurteilen",
+    "Every little bit helps": "Wird verwendet, um zu sagen, dass sogar ein kleiner Beitrag oder eine kleine Verbesserung nützlich ist"
+  }
+}

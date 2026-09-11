@@ -1,0 +1,424 @@
+{
+  "id": "nyc-clean-air-children-2026",
+  "number": 106,
+  "lang": "tr",
+  "headline": "New York'ta daha temiz hava, küçük çocuklarda daha yüksek puanlarla ilişkilendirildi",
+  "chunks": [
+    "Columbia Üniversitesi'ne göre, anneleri hamilelik sırasında soludukları hava temizlendikçe New York'taki çocuklar erken zihinsel gelişim testlerinde daha yüksek puanlar aldı. Araştırma 15 Ağustos 2026'da Environmental Health dergisinde yayınlandı. Ekip, 1998 ile 2020 yılları arasında Kuzey Manhattan ve Güney Bronx'ta, çocukların büyüdüğü iki düşük gelirli bölgede programa kaydolan 1.000'den fazla anne-çocuk çiftini takip etti.",
+    "Columbia'ya göre ince partiküller yüzde 32, nitrojen dioksit ise yüzde 30 azaldı. Fosil yakıt yakılmasından kaynaklanan zararlı kimyasallar grubu 1998'den 2020'ye kadar yüzde 60 azaldı. Hamile kadınlar bu kimyasalları ölçmek için sırt çantası şeklinde monitörler taktı, diğer kirleticiler ise her ev için tahmin edildi. Çocuklar 1, 2 ve 3 yaşlarında test edildi. Ekip annenin eğitimini, çocuğun cinsiyetini ve evde sigara içilmesini hesaba katmasının ardından, en erken grupla en son grup arasında 3 yaşındaki puanlar yüzde 26 arttı.",
+    "Araştırmacılar daha temiz havayı, şehrin o yıllarda yürürlüğe koyduğu politikalarla ilişkilendiriyor. Temiz Yakıt Otobüs Programı ve Temiz Hava Taksi mevzuatı trafik emisyonlarını azalttı. Temiz Isınma Programı binalardaki kirli ısıtma yağını kademeli olarak ortadan kaldırdı ve İklim Seferberliği Yasası büyük binaların sera gazlarını azaltmasını zorunlu kıldı. Araştırmayı yöneten Columbia profesörü, \"Fosil yakıt emisyonlarını azaltan politikalar, gelişmekte olan beyinlere fayda sağlıyor\" dedi ve sonuçların bu azalmaları sürdürme çabalarını desteklediğini ekledi.",
+    "Ekip, bu politikalardan kaynaklanan daha temiz havanın daha iyi bilişsel puanlarla ilişkili olup olmadığını test etmeyi amaçladı ve bunu 20 yıl boyunca yapan ilk araştırma oldu. Araştırmanın sınırlamaları var. 1.446 çocuktan yalnızca 1.109'unun test sonucu vardı, bu yüzden geri kalanlar dışarıda bırakıldı. Yazarlar ayrıca, mahallelerdeki nüfus değişimleri gibi araştırmanın ölçmediği değişikliklerin kazanımların bir kısmının nedeni olabileceğini belirtiyor."
+  ],
+  "verbs": [
+    {
+      "base": "come out",
+      "correct": "bir dergide yayınlanmak",
+      "wrong": "bir raporda anılmak"
+    },
+    {
+      "base": "sign up",
+      "correct": "bir araştırmaya veya programa kaydolmak",
+      "wrong": "bir şeye resmi olarak onay vermek"
+    },
+    {
+      "base": "grow up",
+      "correct": "çocukluğunu bir yerde geçirmek",
+      "wrong": "zamanla daha çok sevilmek"
+    },
+    {
+      "base": "go down",
+      "correct": "daha düşük bir seviyeye düşmek",
+      "wrong": "uzun süre devam etmek"
+    },
+    {
+      "base": "go up",
+      "correct": "daha yüksek bir seviyeye çıkmak",
+      "wrong": "bir şeyi dikkatle kontrol etmek"
+    },
+    {
+      "base": "factor in",
+      "correct": "bir şeyi hesaplamaya dahil etmek",
+      "wrong": "bir şeyi ikinci kez test etmek"
+    },
+    {
+      "base": "bring in",
+      "correct": "yeni bir yasa veya kural getirmek",
+      "wrong": "tartışmak için bir konudan bahsetmek"
+    },
+    {
+      "base": "cut down on",
+      "correct": "bir şeyin miktarını azaltmak",
+      "wrong": "bir şeyin arzını durdurmak"
+    },
+    {
+      "base": "phase out",
+      "correct": "bir şeyin kullanımını kademeli olarak sonlandırmak",
+      "wrong": "bir şeyi aşamalı olarak yeni baştan tanıtmak"
+    },
+    {
+      "base": "keep up",
+      "correct": "aynı seviyede devam etmek",
+      "wrong": "bir şeyin girmesini engellemek"
+    },
+    {
+      "base": "set out",
+      "correct": "net bir amaçla bir göreve başlamak",
+      "wrong": "bir şeyi sonra kullanmak için saklamak"
+    },
+    {
+      "base": "leave out",
+      "correct": "bir şeyi dahil etmemek",
+      "wrong": "bir şeyi sonrası için tutmak"
+    },
+    {
+      "base": "point out",
+      "correct": "insanlara bir gerçeği söylemek",
+      "wrong": "bir şeyin işareti olmak"
+    },
+    {
+      "base": "account for",
+      "correct": "bir şeyin nedeni olmak",
+      "wrong": "bir şeyi tam olarak ölçmek"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "def": "bir dergide yayınlanmak",
+      "ex": [
+        "İlk romanı 2019'da yayınlandı.",
+        "Yeni rapor cuma günü yayınlanıyor.",
+        "Araştırma geçen hafta yayınlandı."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "def": "bir araştırmaya veya programa kaydolmak",
+      "ex": [
+        "Bir İspanyolca kursuna kaydoldum.",
+        "İki yüz kişi denemeye kaydoldu.",
+        "Birkaç dakika içinde çevrimiçi kaydolabilirsin."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "def": "çocukluğunu bir yerde geçirmek",
+      "ex": [
+        "Teksas'ta küçük bir kasabada büyüdü.",
+        "Ailem denizin yakınında büyüdü.",
+        "Şehirlerde büyüyen çocuklar daha az yıldız görüyor."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "daha düşük bir seviyeye düşmek",
+      "ex": [
+        "Fiyatlar yılbaşından sonra düştü.",
+        "Kaza sayısı azaldı.",
+        "Ateş sabaha kadar düştü."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "daha yüksek bir seviyeye çıkmak",
+      "ex": [
+        "Kira her yıl artıyor.",
+        "Bu dönem notları yükseldi.",
+        "Bilet fiyatları yine arttı."
+      ]
+    },
+    {
+      "verb": "Factor in",
+      "def": "bir şeyi hesaplamaya dahil etmek",
+      "ex": [
+        "Karar vermeden önce vergiyi hesaba kat.",
+        "Plan kötü hava koşulunu hesaba katmıyor.",
+        "Yol süresini hesaba kattık ve erken çıktık."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "yeni bir yasa veya kural getirmek",
+      "ex": [
+        "Şehir yeni bir park kuralı getirdi.",
+        "Şirket bir kıyafet kuralı getirdi.",
+        "Milletvekilleri daha sıkı sınırlar getirmeyi planlıyor."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "bir şeyin miktarını azaltmak",
+      "ex": [
+        "Kahve tüketimimi azaltmam gerekiyor.",
+        "Fabrika atıklarını azalttı.",
+        "Benzin biriktirmek için araba kullanımını azalttık."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "bir şeyin kullanımını kademeli olarak sonlandırmak",
+      "ex": [
+        "Havayolu eski uçaklarını kademeli olarak kaldırıyor.",
+        "Mağaza plastik torbaları kademeli olarak kaldırdı.",
+        "Kömür santralleri 2035'e kadar kademeli olarak kapatılacak."
+      ]
+    },
+    {
+      "verb": "Keep up",
+      "def": "aynı seviyede devam etmek",
+      "ex": [
+        "Tüm kış boyunca günlük yürüyüşlerini sürdürdü.",
+        "İyi bir alışkanlığı sürdürmek zordur.",
+        "Takım ikinci yarıda baskıyı sürdürdü."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "net bir amaçla bir göreve başlamak",
+      "ex": [
+        "Daha ucuz bir araba üretmeyi hedeflediler.",
+        "40 yaşından önce maraton koşmayı hedefledi.",
+        "Takım tek bir soruyu yanıtlamayı hedefledi."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "def": "bir şeyi dahil etmemek",
+      "ex": [
+        "Formda telefon numaranı atlamayı unutma.",
+        "Rapor iki önemli gerçeği atladı.",
+        "Tarife şekeri koymayı unuttu."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "insanlara bir gerçeği söylemek",
+      "ex": [
+        "Öğretmen kompozisyonumdaki bir hatayı gösterdi.",
+        "Mağazanın saat altıda kapandığını belirtti.",
+        "Plandaki bir sorunu belirtmeme izin ver."
+      ]
+    },
+    {
+      "verb": "Account for",
+      "def": "bir şeyin nedeni olmak",
+      "ex": [
+        "Buradaki gürültünün çoğunun nedeni trafik.",
+        "Gecikmenin nedeni fırtınaydı.",
+        "Baş ağrılarının nedeni stres olabilir."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "mental development",
+      "def": "bir çocuğun düşünme, öğrenme ve anlama becerisinin gelişimi",
+      "ex": [
+        "Oyun, bir çocuğun zihinsel gelişimi için önemlidir.",
+        "Doktorlar her ziyarette zihinsel gelişimi kontrol eder.",
+        "İyi beslenme zihinsel gelişimi destekler."
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "def": "bir kadının içinde bebeğin büyüdüğü dönem",
+      "ex": [
+        "Hamilelik sırasında kahve içmeyi bıraktı.",
+        "Doktor onu tüm hamilelik boyunca takip etti.",
+        "Hamilelik sırasında sigara içmek bebeğe zarar verebilir."
+      ]
+    },
+    {
+      "word": "journal",
+      "def": "bilim insanlarının araştırmalarını yayınladığı dergi",
+      "ex": [
+        "Makale tıp dergisinde yayınlandı.",
+        "Dergi her ay yeni araştırmalar basıyor.",
+        "Dergi yayınlamadan önce uzmanlar her makaleyi inceler."
+      ]
+    },
+    {
+      "word": "low-income",
+      "def": "çoğu insana göre daha az parası olan",
+      "ex": [
+        "Program düşük gelirli ailelerin ısınma masraflarını ödemesine yardım ediyor.",
+        "Birçok düşük gelirli mahallede daha az park var.",
+        "Klinik, düşük gelirli hastalara ücretsiz bakım sunuyor."
+      ]
+    },
+    {
+      "word": "pollutants",
+      "def": "havayı, suyu veya toprağı kirli ya da zararlı hale getiren maddeler",
+      "ex": [
+        "Arabalar havaya kirletici madde yayıyor.",
+        "Nehir fabrikadan gelen kirleticileri taşıyor.",
+        "Maskeler bazı kirletici maddeleri engelleyebilir."
+      ]
+    },
+    {
+      "word": "fine particles",
+      "def": "havadaki, ciğerlere ulaşabilen küçük toz veya duman parçacıkları",
+      "ex": [
+        "Orman yangını dumanı ince partiküllerle dolu.",
+        "Trafikten kaynaklanan ince partiküller ciğerlere ulaşabilir.",
+        "Monitör havadaki ince partikülleri sayıyor."
+      ]
+    },
+    {
+      "word": "harmful chemicals",
+      "def": "sağlığa zarar verebilecek maddeler",
+      "ex": [
+        "Bazı temizlik ürünleri zararlı kimyasallar içerir.",
+        "Fabrika nehre zararlı kimyasallar bıraktı.",
+        "Sigara dumanı onlarca zararlı kimyasal içerir."
+      ]
+    },
+    {
+      "word": "fossil fuels",
+      "def": "enerji için yakılan kömür, petrol ve doğal gaz",
+      "ex": [
+        "Çoğu kamyon hâlâ fosil yakıtla çalışıyor.",
+        "Fosil yakıt yakmak gezegeni ısıtıyor.",
+        "Şehir, 2040 yılına kadar daha az fosil yakıt kullanmak istiyor."
+      ]
+    },
+    {
+      "word": "monitors",
+      "def": "bir şeyi zaman içinde ölçüp kaydeden cihazlar",
+      "ex": [
+        "Çatıdaki hava monitörleri kirlilik seviyesini takip ediyor.",
+        "Hemşire hastaya kalp monitörleri bağladı.",
+        "Sırt çantasındaki küçük monitörler havayı ölçtü."
+      ]
+    },
+    {
+      "word": "estimated",
+      "def": "tam olarak ölçülmek yerine kabaca hesaplanan",
+      "ex": [
+        "Köprünün tahmini maliyeti 2 milyar dolar.",
+        "Polis kalabalığı 5.000 kişi olarak tahmin etti.",
+        "Tahmini varış saati 18.00."
+      ]
+    },
+    {
+      "word": "legislation",
+      "def": "bir hükümet tarafından çıkarılan yasa veya yasalar dizisi",
+      "ex": [
+        "Yeni yasa parklarda sigarayı yasaklıyor.",
+        "Kongre temiz su hakkında bir yasa çıkardı.",
+        "Yasa ocak ayında yürürlüğe giriyor."
+      ]
+    },
+    {
+      "word": "traffic emissions",
+      "def": "arabalar, kamyonlar ve otobüsler tarafından salınan gaz ve parçacıklar",
+      "ex": [
+        "Trafik emisyonları en çok yoğun saatlerde kötü.",
+        "Şehir, ana yollarda trafik emisyonlarını ölçüyor.",
+        "Elektrikli otobüsler hiç trafik emisyonu üretmiyor."
+      ]
+    },
+    {
+      "word": "heating oil",
+      "def": "bir binayı ısıtmak için yakılan yağ",
+      "ex": [
+        "Birçok eski bina hâlâ ısıtma yağı yakıyor.",
+        "Isıtma yağının fiyatı kışın yükseliyor.",
+        "Kamyon apartman binasına ısıtma yağı teslim ediyor."
+      ]
+    },
+    {
+      "word": "greenhouse gases",
+      "def": "karbondioksit gibi atmosferde ısıyı hapseden gazlar",
+      "ex": [
+        "Arabalar ve enerji santralleri sera gazı üretiyor.",
+        "Yasa, sera gazlarını yarıya indirmeyi hedefliyor.",
+        "İnekler de sera gazı salıyor."
+      ]
+    },
+    {
+      "word": "cognitive scores",
+      "def": "düşünme, hafıza ve öğrenme testlerinin sonuçları",
+      "ex": [
+        "Uyku, çocukların bilişsel puanlarını iyileştiriyor.",
+        "Hastaların bilişsel puanları her yıl kontrol ediliyordu.",
+        "Kurşuna maruz kalmak bilişsel puanları düşürüyor."
+      ]
+    },
+    {
+      "word": "shifts",
+      "def": "bir durumdan başka bir duruma geçişler",
+      "ex": [
+        "İnsanların alışveriş şeklinde büyük değişimler oldu.",
+        "Anket, kamuoyundaki değişimleri gösteriyor.",
+        "Sıcaklıktaki küçük değişimler mahsullere zarar verebilir."
+      ]
+    },
+    {
+      "word": "gains",
+      "def": "iyileşmeler veya artışlar",
+      "ex": [
+        "Öğrenciler okumada büyük kazanımlar elde etti.",
+        "Şirket satışlarda kazanımlar bildirdi.",
+        "Küçük günlük kazanımlar büyük bir sonuca dönüşür."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Fosil yakıt yakılmasından kaynaklanan kimyasallar 2020'ye kadar yüzde 60 azaldı.",
+      "a": true,
+      "why": "Columbia, fosil yakıt yakılmasından kaynaklanan zararlı kimyasalların 1998'den 2020'ye kadar yüzde 60 azaldığını, ince partiküller ve nitrojen dioksitin ise yaklaşık yüzde 30 azaldığını bildirdi."
+    },
+    {
+      "s": "Çocuklar 5, 6 ve 7 yaşlarında test edildi.",
+      "a": false,
+      "why": "Çocuklar standart bir testle 1, 2 ve 3 yaşlarında test edildi ve 3 yaşındaki puanlar en erken gruptan en son gruba yüzde 26 arttı."
+    },
+    {
+      "s": "1.000'den fazla anne-çocuk çifti araştırmaya kaydoldu.",
+      "a": true,
+      "why": "1998 ile 2020 yılları arasında Kuzey Manhattan ve Güney Bronx'ta kaydoldular ve hamile kadınlar kimyasalları ölçmek için sırt çantası monitörleri taktı."
+    },
+    {
+      "s": "Temiz Isınma Programı binalardaki kirli ısıtma yağını kademeli olarak ortadan kaldırdı.",
+      "a": true,
+      "why": "Temiz Isınma Programı kirli ısıtma yağını kademeli olarak ortadan kaldırdı ve İklim Seferberliği Yasası büyük binaların sera gazlarını azaltmasını zorunlu kıldı."
+    },
+    {
+      "s": "Araştırma 15 Ağustos 2026'da Science dergisinde yayınlandı.",
+      "a": false,
+      "why": "Araştırma, Columbia Üniversitesi'ndeki araştırmacılar tarafından 15 Ağustos 2026'da Environmental Health dergisinde yayınlandı."
+    },
+    {
+      "s": "Araştırmadaki 1.446 çocuğun hepsinin test sonucu vardı.",
+      "a": false,
+      "why": "1.446 çocuktan yalnızca 1.109'unun test sonucu vardı, bu yüzden geri kalanlar analizin dışında bırakıldı."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Trafik ve ısınmadan kaynaklanan kirlilik azalırken, araştırmacılar New York ailelerini 20 yıldan uzun süre takip etti. Hamilelik sırasında daha temiz hava, çocuklarda daha yüksek erken gelişim puanlarıyla ilişkilendirildi.",
+      "a": true,
+      "why": "1.000'den fazla anne-çocuk çifti 1998'den 2020'ye kadar takip edildi ve ince partiküller, nitrojen dioksit ve fosil yakıt kimyasalları azalırken 3 yaşındaki puanlar yüzde 26 arttı."
+    },
+    {
+      "s": "20 yıllık bir araştırma, hava kirliliği azaldıkça New York'taki çocukların gelişim testlerinde daha yüksek puanlar aldığını buldu. Araştırmacılar, daha temiz havanın esas olarak eski fabrikaların kapanmasından geldiğini söylüyor.",
+      "a": false,
+      "why": "Yakın, ama araştırmacılar daha temiz havayı fabrika kapanmalarına değil, otobüsler, taksiler, ısıtma yağı ve bina emisyonlarıyla ilgili şehir politikalarına bağlıyor."
+    },
+    {
+      "s": "New York, her okul otobüsünün 2035'e kadar elektrikle çalışmasını gerektiren bir yasa çıkardı. Sağlık yetkilileri bu değişikliğin çocukları günlük ulaşımlarındaki zararlı egzozdan koruyacağını söylüyor.",
+      "a": false,
+      "why": "Yeni bir okul otobüsü yasası yoktu. Araştırma, 1998 ile 2020 arasında çıkarılan politikaları ve hava temizlendikçe çocukların test puanlarının nasıl değiştiğini inceledi."
+    }
+  ],
+  "dialogue": {
+    "Those are real numbers": "bir değişikliğin veya miktarın küçük ya da belirsiz değil, önemli sayılacak kadar büyük olduğunu söylemek için kullanılır",
+    "Good news for once": "çok sayıda kötü haberden sonra gelen olumlu bir haberi karşılamak için kullanılır",
+    "Credit where it's due": "genellikle övmesen bile birinin övgüyü hak ettiğini kabul etmek için kullanılır",
+    "Points for saying so": "birinin bir zayıflığı ya da sorunu gizlemek yerine açıkça kabul etmesine değer vermek için kullanılır",
+    "Hard to argue with": "bir kanıtın veya sonucun kimsenin makul biçimde itiraz edemeyeceği kadar açık olduğunu söylemek için kullanılır",
+    "Is there a catch?": "iyi görünen bir şeyin gizli bir sorunu veya koşulu olup olmadığını sormak için kullanılır"
+  }
+}

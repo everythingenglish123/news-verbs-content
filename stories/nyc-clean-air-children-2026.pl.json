@@ -1,0 +1,424 @@
+{
+  "id": "nyc-clean-air-children-2026",
+  "number": 106,
+  "lang": "pl",
+  "headline": "Czystsze powietrze w Nowym Jorku łączy się z lepszymi wynikami rozwojowymi u małych dzieci",
+  "chunks": [
+    "Dzieci w Nowym Jorku uzyskiwały wyższe wyniki w testach wczesnego rozwoju umysłowego w miarę jak powietrze, którym oddychały ich matki w czasie ciąży, stawało się czystsze, informuje Uniwersytet Columbia. Badanie ukazało się w czasopiśmie Environmental Health 15 sierpnia 2026 roku. Zespół badawczy śledził ponad 1000 par matka-dziecko, które zgłosiły się do udziału w latach 1998-2020 w Północnym Manhattanie i South Bronx, dwóch dzielnicach o niskich dochodach, gdzie dzieci dorastały.",
+    "Według Uniwersytetu Columbia, drobne cząstki stałe spadły o 32 procent, a dwutlenek azotu o 30 procent, między 1998 a 2016 rokiem. Grupa szkodliwych substancji chemicznych powstających ze spalania paliw kopalnych spadła o 60 procent między 1998 a 2020 rokiem. Kobiety w ciąży nosiły plecakowe czujniki, aby mierzyć te substancje chemiczne, a pozostałe zanieczyszczenia szacowano w każdym domu. Dzieci były testowane w wieku 1, 2 i 3 lat. Wyniki w wieku 3 lat wzrosły o 26 procent między najwcześniejszą a najpóźniejszą grupą, nawet po tym, jak zespół uwzględnił wykształcenie matki, płeć dziecka i palenie w domu.",
+    "Naukowcy wiążą czystsze powietrze z politykami, które miasto wprowadziło w tych latach. Program Czystego Paliwa dla Autobusów oraz przepisy dotyczące Czystych Taksówek Powietrznych ograniczyły emisje z ruchu drogowego. Program Czystego Ciepła stopniowo wycofał brudny olej opałowy z budynków, a ustawa o mobilizacji klimatycznej zobowiązała większe budynki do redukcji gazów cieplarnianych. „Polityki ograniczające emisje z paliw kopalnych przynoszą korzyść rozwijającym się mózgom”, powiedziała profesor z Uniwersytetu Columbia, która kierowała badaniem, dodając, że wyniki wspierają wysiłki na rzecz utrzymania tych redukcji.",
+    "Zespół postanowił zbadać, czy czystsze powietrze wynikające z tych polityk było powiązane z lepszymi wynikami poznawczymi. To pierwsze badanie, które zbadało to na przestrzeni 20 lat. Ma ono ograniczenia. Tylko 1109 z 1446 dzieci miało wyniki testów, więc reszta została pominięta. Autorzy zwracają też uwagę, że zmiany, których badanie nie mierzyło, takie jak przemiany w dzielnicach, mogły odpowiadać za część tych wzrostów."
+  ],
+  "verbs": [
+    {
+      "base": "come out",
+      "correct": "Zostać opublikowanym w czasopiśmie",
+      "wrong": "Zostać wspomnianym w raporcie"
+    },
+    {
+      "base": "sign up",
+      "correct": "Zgłosić się do badania lub programu",
+      "wrong": "Udzielić oficjalnej zgody"
+    },
+    {
+      "base": "grow up",
+      "correct": "Spędzić dzieciństwo w jakimś miejscu",
+      "wrong": "Stawać się bardziej lubianym z czasem"
+    },
+    {
+      "base": "go down",
+      "correct": "Spaść do niższego poziomu",
+      "wrong": "Trwać przez długi czas"
+    },
+    {
+      "base": "go up",
+      "correct": "Wzrosnąć do wyższego poziomu",
+      "wrong": "Dokładnie coś sprawdzić"
+    },
+    {
+      "base": "factor in",
+      "correct": "Uwzględnić coś w obliczeniach",
+      "wrong": "Przetestować coś po raz drugi"
+    },
+    {
+      "base": "bring in",
+      "correct": "Wprowadzić nowe prawo lub zasadę",
+      "wrong": "Poruszyć temat do dyskusji"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Zmniejszyć ilość czegoś",
+      "wrong": "Zatrzymać dostawę czegoś"
+    },
+    {
+      "base": "phase out",
+      "correct": "Stopniowo zaprzestać używania czegoś",
+      "wrong": "Wprowadzić coś nowego etapami"
+    },
+    {
+      "base": "keep up",
+      "correct": "Utrzymywać ten sam poziom",
+      "wrong": "Nie dopuszczać czegoś do wejścia"
+    },
+    {
+      "base": "set out",
+      "correct": "Rozpocząć zadanie z jasnym celem",
+      "wrong": "Zachować coś na później"
+    },
+    {
+      "base": "leave out",
+      "correct": "Nie uwzględnić czegoś",
+      "wrong": "Zachować coś na potem"
+    },
+    {
+      "base": "point out",
+      "correct": "Poinformować ludzi o jakimś fakcie",
+      "wrong": "Być oznaką lub sygnałem czegoś"
+    },
+    {
+      "base": "account for",
+      "correct": "Być przyczyną czegoś",
+      "wrong": "Dokładnie coś zmierzyć"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "def": "Zostać opublikowanym w czasopiśmie",
+      "ex": [
+        "Jej pierwsza powieść ukazała się w 2019 roku.",
+        "Nowy raport ukaże się w piątek.",
+        "Badanie zostało opublikowane w zeszłym tygodniu."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "def": "Zgłosić się do badania lub programu",
+      "ex": [
+        "Zapisałem się na kurs hiszpańskiego.",
+        "Dwieście osób zgłosiło się do badania klinicznego.",
+        "Możesz zapisać się online w kilka minut."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "def": "Spędzić dzieciństwo w jakimś miejscu",
+      "ex": [
+        "Dorastał w małym miasteczku w Teksasie.",
+        "Moi rodzice dorastali blisko morza.",
+        "Dzieci, które dorastają w miastach, widzą mniej gwiazd."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Spaść do niższego poziomu",
+      "ex": [
+        "Ceny spadły po Nowym Roku.",
+        "Liczba wypadków spadła.",
+        "Gorączka spadła do rana."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Wzrosnąć do wyższego poziomu",
+      "ex": [
+        "Czynsz rośnie co roku.",
+        "Jej oceny wzrosły w tym semestrze.",
+        "Ceny biletów znów wzrosły."
+      ]
+    },
+    {
+      "verb": "Factor in",
+      "def": "Uwzględnić coś w obliczeniach",
+      "ex": [
+        "Uwzględnij podatek, zanim zdecydujesz.",
+        "Ten plan nie uwzględnia złej pogody.",
+        "Uwzględniliśmy czas dojazdu i wyszliśmy wcześniej."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Wprowadzić nowe prawo lub zasadę",
+      "ex": [
+        "Miasto wprowadziło nową zasadę parkowania.",
+        "Firma wprowadziła zasady dotyczące ubioru.",
+        "Ustawodawcy planują wprowadzić surowsze limity."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Zmniejszyć ilość czegoś",
+      "ex": [
+        "Muszę ograniczyć ilość kawy.",
+        "Fabryka ograniczyła ilość odpadów.",
+        "Ograniczyliśmy jeżdżenie samochodem, żeby zaoszczędzić na paliwie."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Stopniowo zaprzestać używania czegoś",
+      "ex": [
+        "Linia lotnicza stopniowo wycofuje starsze samoloty.",
+        "Sklep stopniowo wycofał plastikowe torby.",
+        "Elektrownie węglowe zostaną stopniowo wycofane do 2035 roku."
+      ]
+    },
+    {
+      "verb": "Keep up",
+      "def": "Utrzymywać ten sam poziom",
+      "ex": [
+        "Utrzymywała codzienne spacery przez całą zimę.",
+        "Trudno utrzymać dobry nawyk.",
+        "Drużyna utrzymała presję w drugiej połowie."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "Rozpocząć zadanie z jasnym celem",
+      "ex": [
+        "Postanowili zbudować tańszy samochód.",
+        "Postanowił przebiec maraton przed czterdziestką.",
+        "Zespół postanowił odpowiedzieć na jedno pytanie."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "def": "Nie uwzględnić czegoś",
+      "ex": [
+        "Nie pomiń numeru telefonu w formularzu.",
+        "Raport pominął dwa ważne fakty.",
+        "Pominęła cukier w przepisie."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Poinformować ludzi o jakimś fakcie",
+      "ex": [
+        "Nauczyciel wskazał błąd w moim wypracowaniu.",
+        "Zwrócił uwagę, że sklep zamyka się o szóstej.",
+        "Pozwól, że wskażę jeden problem z tym planem."
+      ]
+    },
+    {
+      "verb": "Account for",
+      "def": "Być przyczyną czegoś",
+      "ex": [
+        "Ruch drogowy odpowiada za większość hałasu w tej okolicy.",
+        "Burza była przyczyną opóźnienia.",
+        "Stres może być przyczyną jej bólów głowy."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "mental development",
+      "def": "Rozwój zdolności dziecka do myślenia, uczenia się i rozumienia",
+      "ex": [
+        "Zabawa jest ważna dla rozwoju umysłowego dziecka.",
+        "Lekarze sprawdzają rozwój umysłowy przy każdej wizycie.",
+        "Dobre odżywianie wspiera rozwój umysłowy."
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "def": "Czas, gdy w brzuchu kobiety rośnie dziecko",
+      "ex": [
+        "Przestała pić kawę w czasie ciąży.",
+        "Lekarz obserwował ją przez całą ciążę.",
+        "Palenie w czasie ciąży może zaszkodzić dziecku."
+      ]
+    },
+    {
+      "word": "journal",
+      "def": "Czasopismo, w którym naukowcy publikują swoje badania",
+      "ex": [
+        "Artykuł ukazał się w czasopiśmie medycznym.",
+        "Czasopismo publikuje nowe badania co miesiąc.",
+        "Eksperci sprawdzają każdy artykuł, zanim czasopismo go opublikuje."
+      ]
+    },
+    {
+      "word": "low-income",
+      "def": "Mający mało pieniędzy w porównaniu z większością ludzi",
+      "ex": [
+        "Program pomaga rodzinom o niskich dochodach płacić za ogrzewanie.",
+        "W wielu dzielnicach o niskich dochodach jest mniej parków.",
+        "Klinika oferuje bezpłatną opiekę pacjentom o niskich dochodach."
+      ]
+    },
+    {
+      "word": "pollutants",
+      "def": "Substancje, które zanieczyszczają lub szkodzą powietrzu, wodzie lub glebie",
+      "ex": [
+        "Samochody uwalniają zanieczyszczenia do powietrza.",
+        "Rzeka niesie zanieczyszczenia z fabryki.",
+        "Maski mogą blokować niektóre zanieczyszczenia."
+      ]
+    },
+    {
+      "word": "fine particles",
+      "def": "Drobne cząstki kurzu lub dymu w powietrzu, które mogą dostać się do płuc",
+      "ex": [
+        "Dym z pożarów lasów jest pełen drobnych cząstek.",
+        "Drobne cząstki z ruchu drogowego mogą docierać do płuc.",
+        "Czujnik liczy drobne cząstki w powietrzu."
+      ]
+    },
+    {
+      "word": "harmful chemicals",
+      "def": "Substancje, które mogą zaszkodzić zdrowiu",
+      "ex": [
+        "Niektóre środki czyszczące zawierają szkodliwe substancje chemiczne.",
+        "Fabryka uwolniła szkodliwe substancje chemiczne do rzeki.",
+        "Dym papierosowy zawiera dziesiątki szkodliwych substancji chemicznych."
+      ]
+    },
+    {
+      "word": "fossil fuels",
+      "def": "Węgiel, ropa i gaz ziemny, spalane w celu wytworzenia energii",
+      "ex": [
+        "Większość ciężarówek nadal jeździ na paliwach kopalnych.",
+        "Spalanie paliw kopalnych ociepla planetę.",
+        "Miasto chce zużywać mniej paliw kopalnych do 2040 roku."
+      ]
+    },
+    {
+      "word": "monitors",
+      "def": "Urządzenia, które mierzą i rejestrują coś przez pewien czas",
+      "ex": [
+        "Czujniki powietrza na dachu śledzą poziom zanieczyszczenia.",
+        "Pielęgniarka podłączyła pacjentowi monitory pracy serca.",
+        "Małe czujniki w plecaku mierzyły powietrze."
+      ]
+    },
+    {
+      "word": "estimated",
+      "def": "Obliczony w przybliżeniu, a nie zmierzony dokładnie",
+      "ex": [
+        "Szacowany koszt mostu to 2 miliardy dolarów.",
+        "Policja oszacowała tłum na 5000 osób.",
+        "Jej szacowany czas przylotu to 18:00."
+      ]
+    },
+    {
+      "word": "legislation",
+      "def": "Prawo lub zbiór praw uchwalonych przez rząd",
+      "ex": [
+        "Nowe przepisy zakazują palenia w parkach.",
+        "Kongres uchwalił przepisy dotyczące czystej wody.",
+        "Przepisy wchodzą w życie w styczniu."
+      ]
+    },
+    {
+      "word": "traffic emissions",
+      "def": "Gazy i cząstki wydzielane przez samochody, ciężarówki i autobusy",
+      "ex": [
+        "Emisje z ruchu drogowego są najgorsze w godzinach szczytu.",
+        "Miasto mierzy emisje z ruchu drogowego na głównych drogach.",
+        "Autobusy elektryczne nie wytwarzają emisji z ruchu drogowego."
+      ]
+    },
+    {
+      "word": "heating oil",
+      "def": "Olej spalany w budynku, aby utrzymać w nim ciepło",
+      "ex": [
+        "Wiele starych budynków wciąż spala olej opałowy.",
+        "Cena oleju opałowego rośnie zimą.",
+        "Ciężarówka dostarcza olej opałowy do bloku mieszkalnego."
+      ]
+    },
+    {
+      "word": "greenhouse gases",
+      "def": "Gazy, takie jak dwutlenek węgla, które zatrzymują ciepło w atmosferze",
+      "ex": [
+        "Samochody i elektrownie wytwarzają gazy cieplarniane.",
+        "Ustawa ma na celu zmniejszenie gazów cieplarnianych o połowę.",
+        "Krowy również wydzielają gazy cieplarniane."
+      ]
+    },
+    {
+      "word": "cognitive scores",
+      "def": "Wyniki testów myślenia, pamięci i uczenia się",
+      "ex": [
+        "Sen poprawia wyniki poznawcze dzieci.",
+        "Wyniki poznawcze pacjentów sprawdzano co roku.",
+        "Narażenie na ołów obniża wyniki poznawcze."
+      ]
+    },
+    {
+      "word": "shifts",
+      "def": "Zmiany z jednej sytuacji w inną",
+      "ex": [
+        "Nastąpiły duże zmiany w sposobie robienia zakupów przez ludzi.",
+        "Badanie pokazuje zmiany w opinii publicznej.",
+        "Małe zmiany temperatury mogą zaszkodzić uprawom."
+      ]
+    },
+    {
+      "word": "gains",
+      "def": "Poprawy lub wzrosty",
+      "ex": [
+        "Uczniowie osiągnęli duże postępy w czytaniu.",
+        "Firma odnotowała wzrost sprzedaży.",
+        "Małe codzienne postępy sumują się w duży wynik."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Substancje chemiczne ze spalania paliw kopalnych spadły o 60 procent do 2020 roku.",
+      "a": true,
+      "why": "Uniwersytet Columbia poinformował, że szkodliwe substancje chemiczne ze spalania paliw kopalnych spadły o 60 procent między 1998 a 2020 rokiem, podczas gdy drobne cząstki stałe i dwutlenek azotu spadły o około 30 procent."
+    },
+    {
+      "s": "Dzieci były testowane w wieku 5, 6 i 7 lat.",
+      "a": false,
+      "why": "Dzieci przechodziły standardowy test w wieku 1, 2 i 3 lat, a wyniki w wieku 3 lat wzrosły o 26 procent między najwcześniejszą a najpóźniejszą grupą."
+    },
+    {
+      "s": "Ponad 1000 par matka-dziecko zgłosiło się do udziału w badaniu.",
+      "a": true,
+      "why": "Zgłosiły się między 1998 a 2020 rokiem w Północnym Manhattanie i South Bronx, a kobiety w ciąży nosiły plecakowe czujniki, by mierzyć te substancje chemiczne."
+    },
+    {
+      "s": "Program Czystego Ciepła stopniowo wycofał brudny olej opałowy z budynków.",
+      "a": true,
+      "why": "Program Czystego Ciepła stopniowo wycofał brudny olej opałowy, a ustawa o mobilizacji klimatycznej zobowiązała większe budynki do redukcji gazów cieplarnianych."
+    },
+    {
+      "s": "Badanie ukazało się w czasopiśmie Science 15 sierpnia 2026 roku.",
+      "a": false,
+      "why": "Badanie ukazało się w czasopiśmie Environmental Health 15 sierpnia 2026 roku, autorstwa naukowców z Uniwersytetu Columbia."
+    },
+    {
+      "s": "Wszystkie 1446 dzieci w badaniu miało wyniki testów.",
+      "a": false,
+      "why": "Tylko 1109 z 1446 dzieci miało wyniki testów, więc reszta została pominięta w analizie."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Naukowcy śledzili rodziny z Nowego Jorku przez ponad 20 lat, gdy zanieczyszczenie z ruchu drogowego i ogrzewania spadało. Czystsze powietrze w czasie ciąży było powiązane z wyższymi wynikami wczesnego rozwoju u dzieci.",
+      "a": true,
+      "why": "Ponad 1000 par matka-dziecko było obserwowanych od 1998 do 2020 roku, a wyniki w wieku 3 lat wzrosły o 26 procent, gdy drobne cząstki stałe, dwutlenek azotu i substancje chemiczne z paliw kopalnych spadały."
+    },
+    {
+      "s": "20-letnie badanie wykazało, że dzieci w Nowym Jorku uzyskiwały wyższe wyniki w testach rozwojowych, gdy zanieczyszczenie powietrza spadało. Naukowcy twierdzą, że czystsze powietrze wynikało głównie z zamykania starych fabryk.",
+      "a": false,
+      "why": "Blisko, ale naukowcy wiążą czystsze powietrze z politykami miasta dotyczącymi autobusów, taksówek, oleju opałowego i emisji z budynków, a nie z zamykaniem fabryk."
+    },
+    {
+      "s": "Nowy Jork uchwalił prawo wymagające, aby każdy autobus szkolny jeździł na energii elektrycznej do 2035 roku. Urzędnicy zdrowia twierdzą, że ta zmiana ochroni dzieci przed szkodliwymi spalinami podczas codziennych dojazdów.",
+      "a": false,
+      "why": "Nie było żadnego nowego prawa dotyczącego autobusów szkolnych. Badanie dotyczyło polityk uchwalonych między 1998 a 2020 rokiem oraz tego, jak zmieniały się wyniki testów dzieci w miarę oczyszczania się powietrza."
+    }
+  ],
+  "dialogue": {
+    "Those are real numbers": "Używane, by powiedzieć, że zmiana lub ilość jest wystarczająco duża, by mieć znaczenie, a nie mała czy niejasna",
+    "Good news for once": "Używane, by przywitać pozytywną historię po wielu złych wiadomościach",
+    "Credit where it's due": "Używane, by przyznać, że ktoś zasługuje na pochwałę, nawet jeśli zwykle się go nie chwali",
+    "Points for saying so": "Używane, by docenić kogoś za otwarte przyznanie się do słabości lub problemu, zamiast go ukrywać",
+    "Hard to argue with": "Używane, by powiedzieć, że dowody lub wynik są tak jasne, że nikt nie może się z nimi rozsądnie nie zgodzić",
+    "Is there a catch?": "Używane, by zapytać, czy coś, co brzmi dobrze, ma ukryty problem lub warunek"
+  }
+}

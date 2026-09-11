@@ -1,0 +1,424 @@
+{
+  "id": "nyc-clean-air-children-2026",
+  "number": 106,
+  "lang": "hu",
+  "headline": "A New York-i tisztább levegő magasabb kisgyermekkori pontszámokkal jár együtt",
+  "chunks": [
+    "A New York-i gyerekek magasabb pontszámokat értek el a korai mentális fejlődést mérő teszteken, ahogy az anyjuk által a terhesség alatt belélegzett levegő tisztább lett, jelentette a Columbia Egyetem. A tanulmány 2026. augusztus 15-én jelent meg az Environmental Health folyóiratban. A kutatócsoport több mint 1000 anya-gyermek párt követett, akik 1998 és 2020 között jelentkeztek Észak-Manhattanben és Dél-Bronxban, két alacsony jövedelmű területen, ahol a gyerekek felnőttek.",
+    "A Columbia szerint a finom részecskék 32 százalékkal, a nitrogén-dioxid 30 százalékkal csökkent 1998 és 2016 között. A fosszilis tüzelőanyagok égetéséből származó káros vegyi anyagok csoportja 60 százalékkal esett vissza 1998 és 2020 között. A terhes nők hátizsákos érzékelőket viseltek ezeknek a vegyi anyagoknak a mérésére, a többi szennyező anyagot pedig háztartásonként becsülték meg. A gyerekeket 1, 2 és 3 éves korukban tesztelték. A 3 éves kori pontszámok 26 százalékkal emelkedtek a legkorábbi és a legújabb csoport között, miután a kutatócsoport figyelembe vette az anya iskolázottságát, a gyermek nemét és az otthoni dohányzást.",
+    "A kutatók a tisztább levegőt azokhoz a szabályozásokhoz kötik, amelyeket a város azokban az években vezetett be. A Clean Fuel Bus program és a Clean Air Taxi törvény csökkentette a közlekedési kibocsátást. A Clean Heat program fokozatosan kivezette a szennyező fűtőolajat az épületekből, a Climate Mobilization Act pedig arra kötelezte a nagyobb épületeket, hogy csökkentsék az üvegházhatású gázokat. „A fosszilis tüzelőanyagok kibocsátását csökkentő szabályozások jót tesznek a fejlődő agynak” mondta a tanulmányt vezető Columbia professzor, hozzátéve, hogy az eredmények alátámasztják a csökkentések fenntartására tett erőfeszítéseket.",
+    "A kutatócsoport azt tűzte ki célul, hogy megvizsgálja, összefügg-e ezeknek a szabályozásoknak köszönhető tisztább levegő a jobb kognitív pontszámokkal; ez az első tanulmány, amely 20 éven át végezte ezt. Vannak korlátai. Az 1446 gyerek közül csupán 1109-nek voltak tesztereményei, így a többiek kimaradtak. A szerzők azt is megjegyzik, hogy olyan változások, amelyeket a tanulmány nem mért, például a környékek átalakulása, magyarázhatják a javulás egy részét."
+  ],
+  "verbs": [
+    {
+      "base": "come out",
+      "correct": "Megjelenni egy folyóiratban",
+      "wrong": "Megemlítésre kerülni egy jelentésben"
+    },
+    {
+      "base": "sign up",
+      "correct": "Jelentkezni egy tanulmányra vagy programra",
+      "wrong": "Hivatalos jóváhagyást adni valakinek egy kérésre"
+    },
+    {
+      "base": "grow up",
+      "correct": "Gyermekkorát egy helyen tölteni",
+      "wrong": "Idővel népszerűbbé válni"
+    },
+    {
+      "base": "go down",
+      "correct": "Alacsonyabb szintre esni",
+      "wrong": "Hosszú ideig folytatódni"
+    },
+    {
+      "base": "go up",
+      "correct": "Magasabb szintre emelkedni",
+      "wrong": "Valamit alaposan ellenőrizni"
+    },
+    {
+      "base": "factor in",
+      "correct": "Figyelembe venni valamit egy számításban",
+      "wrong": "Valamit másodszor is letesztelni"
+    },
+    {
+      "base": "bring in",
+      "correct": "Új törvényt vagy szabályt bevezetni",
+      "wrong": "Egy témát megemlíteni vitára"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Csökkenteni valaminek a mennyiségét",
+      "wrong": "Leállítani valaminek az ellátását"
+    },
+    {
+      "base": "phase out",
+      "correct": "Fokozatosan megszüntetni valaminek a használatát",
+      "wrong": "Valamit fokozatosan, több szakaszban újonnan bevezetni"
+    },
+    {
+      "base": "keep up",
+      "correct": "Ugyanazon a szinten folytatni",
+      "wrong": "Megakadályozni, hogy valami bejusson"
+    },
+    {
+      "base": "set out",
+      "correct": "Egy világos céllal belekezdeni egy feladatba",
+      "wrong": "Valamit későbbi felhasználásra félretenni"
+    },
+    {
+      "base": "leave out",
+      "correct": "Nem belefoglalni valamit",
+      "wrong": "Valamit későbbre félretenni"
+    },
+    {
+      "base": "point out",
+      "correct": "Elmondani az embereknek egy tényt",
+      "wrong": "Egyértelműen valaminek a jele lenni"
+    },
+    {
+      "base": "account for",
+      "correct": "Valaminek az oka lenni",
+      "wrong": "Valamit pontosan megmérni"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Come out",
+      "def": "Megjelenni egy folyóiratban",
+      "ex": [
+        "Első regénye 2019-ben jelent meg.",
+        "Az új jelentés pénteken jelenik meg.",
+        "A tanulmány múlt héten jelent meg."
+      ]
+    },
+    {
+      "verb": "Sign up",
+      "def": "Jelentkezni egy tanulmányra vagy programra",
+      "ex": [
+        "Jelentkeztem egy spanyol tanfolyamra.",
+        "Kétszáz ember jelentkezett a vizsgálatra.",
+        "Néhány perc alatt online jelentkezhetsz."
+      ]
+    },
+    {
+      "verb": "Grow up",
+      "def": "Gyermekkorát egy helyen tölteni",
+      "ex": [
+        "Egy texasi kisvárosban nőtt fel.",
+        "A szüleim a tenger közelében nőttek fel.",
+        "A városokban felnövő gyerekek kevesebb csillagot látnak."
+      ]
+    },
+    {
+      "verb": "Go down",
+      "def": "Alacsonyabb szintre esni",
+      "ex": [
+        "Az árak az újév után csökkentek.",
+        "A balesetek száma csökkent.",
+        "A láz reggelre lement."
+      ]
+    },
+    {
+      "verb": "Go up",
+      "def": "Magasabb szintre emelkedni",
+      "ex": [
+        "A bérleti díj minden évben emelkedik.",
+        "A jegyei ebben a félévben javultak.",
+        "A jegyárak ismét emelkedtek."
+      ]
+    },
+    {
+      "verb": "Factor in",
+      "def": "Figyelembe venni valamit egy számításban",
+      "ex": [
+        "Vedd figyelembe az adót, mielőtt döntesz.",
+        "A terv nem veszi figyelembe a rossz időjárást.",
+        "Figyelembe vettük az utazási időt, és korán elindultunk."
+      ]
+    },
+    {
+      "verb": "Bring in",
+      "def": "Új törvényt vagy szabályt bevezetni",
+      "ex": [
+        "A város új parkolási szabályt vezetett be.",
+        "A cég öltözködési szabályzatot vezetett be.",
+        "A törvényhozók szigorúbb korlátozásokat terveznek bevezetni."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Csökkenteni valaminek a mennyiségét",
+      "ex": [
+        "Csökkentenem kell a kávéfogyasztásomat.",
+        "A gyár csökkentette a hulladékot.",
+        "Csökkentettük az autózást, hogy spóroljunk a benzinen."
+      ]
+    },
+    {
+      "verb": "Phase out",
+      "def": "Fokozatosan megszüntetni valaminek a használatát",
+      "ex": [
+        "A légitársaság fokozatosan kivonja a régebbi repülőgépeit.",
+        "A bolt fokozatosan kivezette a műanyag zacskókat.",
+        "A szénerőműveket 2035-re fokozatosan bezárják."
+      ]
+    },
+    {
+      "verb": "Keep up",
+      "def": "Ugyanazon a szinten folytatni",
+      "ex": [
+        "Egész télen folytatta a napi sétáit.",
+        "Nehéz fenntartani egy jó szokást.",
+        "A csapat fenntartotta a nyomást a második félidőben."
+      ]
+    },
+    {
+      "verb": "Set out",
+      "def": "Egy világos céllal belekezdeni egy feladatba",
+      "ex": [
+        "Azt tűzték ki célul, hogy olcsóbb autót építenek.",
+        "Azt a célt tűzte ki, hogy 40 éves kora előtt lefusson egy maratont.",
+        "A csapat azt tűzte ki célul, hogy megválaszol egy kérdést."
+      ]
+    },
+    {
+      "verb": "Leave out",
+      "def": "Nem belefoglalni valamit",
+      "ex": [
+        "Ne hagyd ki a telefonszámodat az űrlapról.",
+        "A jelentésből kimaradt két fontos tény.",
+        "A cukrot kihagyta a receptből."
+      ]
+    },
+    {
+      "verb": "Point out",
+      "def": "Elmondani az embereknek egy tényt",
+      "ex": [
+        "A tanár rámutatott egy hibára a dolgozatomban.",
+        "Rámutatott, hogy a bolt hatkor zár.",
+        "Hadd mutassak rá a terv egy problémájára."
+      ]
+    },
+    {
+      "verb": "Account for",
+      "def": "Valaminek az oka lenni",
+      "ex": [
+        "A forgalom felelős a legtöbb zajért itt.",
+        "A vihar okozta a késést.",
+        "A stressz állhat a fejfájása mögött."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "mental development",
+      "def": "A gyermek gondolkodási, tanulási és megértési képességének fejlődése",
+      "ex": [
+        "A játék fontos a gyermek mentális fejlődéséhez.",
+        "Az orvosok minden látogatáskor ellenőrzik a mentális fejlődést.",
+        "A jó táplálkozás támogatja a mentális fejlődést."
+      ]
+    },
+    {
+      "word": "pregnancy",
+      "def": "Az az időszak, amikor egy nő méhében baba növekszik",
+      "ex": [
+        "Abbahagyta a kávéivást a terhessége alatt.",
+        "Az orvos végigkísérte a teljes terhességét.",
+        "A dohányzás a terhesség alatt árthat a babának."
+      ]
+    },
+    {
+      "word": "journal",
+      "def": "Egy folyóirat, amelyben a tudósok publikálják kutatásaikat",
+      "ex": [
+        "A tanulmány egy orvosi folyóiratban jelent meg.",
+        "A folyóirat minden hónapban új tanulmányokat közöl.",
+        "A szakértők minden cikket átnéznek, mielőtt a folyóirat közli."
+      ]
+    },
+    {
+      "word": "low-income",
+      "def": "Kevés pénzzel rendelkezni a legtöbb emberhez képest",
+      "ex": [
+        "A program segít az alacsony jövedelmű családoknak fizetni a fűtésért.",
+        "Sok alacsony jövedelmű környéken kevesebb park van.",
+        "A klinika ingyenes ellátást kínál az alacsony jövedelmű betegeknek."
+      ]
+    },
+    {
+      "word": "pollutants",
+      "def": "Olyan anyagok, amelyek szennyezik vagy károsítják a levegőt, vizet vagy talajt",
+      "ex": [
+        "Az autók szennyező anyagokat bocsátanak ki a levegőbe.",
+        "A folyó szennyező anyagokat szállít a gyárból.",
+        "A maszkok bizonyos szennyező anyagokat kiszűrhetnek."
+      ]
+    },
+    {
+      "word": "fine particles",
+      "def": "Apró por- vagy füstszemcsék a levegőben, amelyek bejuthatnak a tüdőbe",
+      "ex": [
+        "Az erdőtűz füstje tele van finom részecskékkel.",
+        "A forgalomból származó finom részecskék elérhetik a tüdőt.",
+        "Az érzékelő méri a levegőben lévő finom részecskéket."
+      ]
+    },
+    {
+      "word": "harmful chemicals",
+      "def": "Olyan anyagok, amelyek károsíthatják az egészséget",
+      "ex": [
+        "Egyes tisztítószerek káros vegyi anyagokat tartalmaznak.",
+        "A gyár káros vegyi anyagokat engedett a folyóba.",
+        "A cigarettafüst több tucat káros vegyi anyagot tartalmaz."
+      ]
+    },
+    {
+      "word": "fossil fuels",
+      "def": "Szén, olaj és földgáz, amelyeket energiatermelésre égetnek el",
+      "ex": [
+        "A legtöbb teherautó még mindig fosszilis tüzelőanyaggal üzemel.",
+        "A fosszilis tüzelőanyagok égetése melegíti a bolygót.",
+        "A város 2040-re kevesebb fosszilis tüzelőanyagot szeretne használni."
+      ]
+    },
+    {
+      "word": "monitors",
+      "def": "Olyan eszközök, amelyek idővel mérnek és rögzítenek valamit",
+      "ex": [
+        "A tetőn lévő érzékelők nyomon követik a szennyezettségi szintet.",
+        "A nővér szívmonitorokat csatlakoztatott a beteghez.",
+        "Kis érzékelők a hátizsákban mérték a levegőt."
+      ]
+    },
+    {
+      "word": "estimated",
+      "def": "Hozzávetőlegesen kiszámítva, nem pontosan megmérve",
+      "ex": [
+        "A híd becsült költsége 2 milliárd dollár.",
+        "A rendőrség 5000 főre becsülte a tömeget.",
+        "A becsült érkezési ideje 18 óra."
+      ]
+    },
+    {
+      "word": "legislation",
+      "def": "Egy kormány által alkotott törvény vagy törvények összessége",
+      "ex": [
+        "Az új törvény tiltja a dohányzást a parkokban.",
+        "A kongresszus törvényt fogadott el a tiszta vízről.",
+        "A törvény januárban lép hatályba."
+      ]
+    },
+    {
+      "word": "traffic emissions",
+      "def": "Autók, teherautók és buszok által kibocsátott gázok és részecskék",
+      "ex": [
+        "A közlekedési kibocsátás csúcsforgalomban a legrosszabb.",
+        "A város a fő utakon méri a közlekedési kibocsátást.",
+        "Az elektromos buszok nem termelnek közlekedési kibocsátást."
+      ]
+    },
+    {
+      "word": "heating oil",
+      "def": "Olaj, amelyet egy épület melegen tartására égetnek el",
+      "ex": [
+        "Sok régi épület még mindig fűtőolajat éget.",
+        "A fűtőolaj ára télen emelkedik.",
+        "A teherautó fűtőolajat szállít a lakóépületnek."
+      ]
+    },
+    {
+      "word": "greenhouse gases",
+      "def": "Olyan gázok, mint a szén-dioxid, amelyek hőt tartanak vissza a légkörben",
+      "ex": [
+        "Az autók és az erőművek üvegházhatású gázokat termelnek.",
+        "A törvény célja az üvegházhatású gázok felére csökkentése.",
+        "A tehenek is üvegházhatású gázokat bocsátanak ki."
+      ]
+    },
+    {
+      "word": "cognitive scores",
+      "def": "A gondolkodást, memóriát és tanulást mérő tesztek eredményei",
+      "ex": [
+        "Az alvás javítja a gyerekek kognitív pontszámait.",
+        "A betegek kognitív pontszámait évente ellenőrizték.",
+        "Az ólomexpozíció csökkenti a kognitív pontszámokat."
+      ]
+    },
+    {
+      "word": "shifts",
+      "def": "Egyik helyzetből a másikba való változások",
+      "ex": [
+        "Nagy változások történtek abban, ahogyan az emberek vásárolnak.",
+        "A felmérés változásokat mutat a közvéleményben.",
+        "A kis hőmérséklet-változások árthatnak a termésnek."
+      ]
+    },
+    {
+      "word": "gains",
+      "def": "Javulások vagy növekedések",
+      "ex": [
+        "A diákok nagy fejlődést mutattak olvasásban.",
+        "A cég növekedésről számolt be az eladásokban.",
+        "A kis napi javulások nagy eredménnyé adódnak össze."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "A fosszilis tüzelőanyagok égetéséből származó vegyi anyagok 2020-ra 60 százalékkal estek vissza.",
+      "a": true,
+      "why": "A Columbia arról számolt be, hogy a fosszilis tüzelőanyagok égetéséből származó káros vegyi anyagok 60 százalékkal estek vissza 1998 és 2020 között, míg a finom részecskék és a nitrogén-dioxid körülbelül 30 százalékkal csökkentek."
+    },
+    {
+      "s": "A gyerekeket 5, 6 és 7 éves korukban tesztelték.",
+      "a": false,
+      "why": "A gyerekek 1, 2 és 3 éves korukban végeztek el egy szabványos tesztet, és a 3 éves kori pontszámok 26 százalékkal emelkedtek a legkorábbi csoporttól a legújabbig."
+    },
+    {
+      "s": "Több mint 1000 anya-gyermek pár jelentkezett a tanulmányra.",
+      "a": true,
+      "why": "1998 és 2020 között jelentkeztek Észak-Manhattenben és Dél-Bronxban, és a terhes nők hátizsákos érzékelőket viseltek a vegyi anyagok méréséhez."
+    },
+    {
+      "s": "A Clean Heat program fokozatosan kivezette a szennyező fűtőolajat az épületekből.",
+      "a": true,
+      "why": "A Clean Heat program fokozatosan kivezette a szennyező fűtőolajat, a Climate Mobilization Act pedig arra kötelezte a nagyobb épületeket, hogy csökkentsék az üvegházhatású gázokat."
+    },
+    {
+      "s": "A tanulmány 2026. augusztus 15-én jelent meg a Science folyóiratban.",
+      "a": false,
+      "why": "A tanulmány 2026. augusztus 15-én jelent meg az Environmental Health folyóiratban, amelyet a Columbia Egyetem kutatói készítettek."
+    },
+    {
+      "s": "A tanulmányban részt vevő mind az 1446 gyereknek volt tesztereménye.",
+      "a": false,
+      "why": "Az 1446 gyerek közül csak 1109-nek voltak tesztereményei, így a többiek kimaradtak az elemzésből."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A kutatók több mint 20 éven át követték a New York-i családokat, miközben a közlekedésből és a fűtésből származó szennyezés csökkent. A terhesség alatti tisztább levegő magasabb korai fejlődési pontszámokkal járt együtt a gyerekeknél.",
+      "a": true,
+      "why": "Több mint 1000 anya-gyermek párt követtek 1998-tól 2020-ig, és a 3 éves kori pontszámok 26 százalékkal emelkedtek, ahogy a finom részecskék, a nitrogén-dioxid és a fosszilis tüzelőanyagokból származó vegyi anyagok csökkentek."
+    },
+    {
+      "s": "Egy 20 éves tanulmány szerint a New York-i gyerekek magasabb pontszámokat értek el a fejlődési teszteken, ahogy a légszennyezés csökkent. A kutatók szerint a tisztább levegő főként a régi gyárak bezárásából származott.",
+      "a": false,
+      "why": "Majdnem igaz, de a kutatók a tisztább levegőt a városnak a buszokra, taxikra, fűtőolajra és épületkibocsátásra vonatkozó szabályozásaihoz kötik, nem a gyárbezárásokhoz."
+    },
+    {
+      "s": "New York City törvényt fogadott el, amely szerint minden iskolabusznak 2035-ig elektromossá kell válnia. Az egészségügyi tisztviselők szerint ez a változás megvédi a gyerekeket a káros kipufogógázoktól a napi utazásaik során.",
+      "a": false,
+      "why": "Nem született új iskolabusz-törvény. A tanulmány az 1998 és 2020 között elfogadott szabályozásokat és azt vizsgálta, hogyan változtak a gyerekek tesztpontszámai, ahogy a levegő tisztább lett."
+    }
+  ],
+  "dialogue": {
+    "Those are real numbers": "Azt fejezi ki, hogy egy változás vagy összeg elég nagy ahhoz, hogy számítson, nem kicsi vagy homályos",
+    "Good news for once": "Azt fejezi ki, hogy örülünk egy pozitív hírnek sok rossz hír után",
+    "Credit where it's due": "Azt fejezi ki, hogy valaki dicséretet érdemel, még akkor is, ha általában nem szoktuk dicsérni",
+    "Points for saying so": "Azt fejezi ki, hogy elismerést érdemel valaki, aki nyíltan beismer egy gyengeséget vagy problémát ahelyett, hogy eltitkolná",
+    "Hard to argue with": "Azt fejezi ki, hogy egy bizonyíték vagy eredmény annyira egyértelmű, hogy senki nem vitathatja ésszerűen",
+    "Is there a catch?": "Azt fejezi ki, hogy megkérdezzük, van-e rejtett probléma vagy feltétel valami jónak tűnő dologban"
+  }
+}

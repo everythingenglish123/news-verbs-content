@@ -1,0 +1,418 @@
+{
+  "id": "gen-z-joymaxxing-2026",
+  "number": 108,
+  "lang": "vi",
+  "headline": "Gen Z đã dành mùa hè năm 2026 để tìm niềm vui ngoài đời thực",
+  "chunks": [
+    "Gen Z đã dành mùa hè năm 2026 để “joymaxxing”, theo một công ty nghiên cứu chuyên nghiên cứu người tiêu dùng trẻ. Từ này mô tả những người trẻ bắt đầu với mục tiêu rõ ràng là tìm nhiều niềm vui hơn trong cuộc sống bình thường. Báo cáo ngày 20 tháng 8 của công ty cho biết họ đã giảm thời gian dùng màn hình, có mặt trực tiếp tại các sự kiện, và dành nhiều thời gian hơn để gặp gỡ bạn bè trực tiếp. Thay vì ghi lại mọi khoảnh khắc cho mạng xã hội, họ chọn cách hiện diện.",
+    "Báo cáo này phù hợp với các phát hiện khác trong năm nay. Một cuộc khảo sát năm 2025 của một công ty thăm dò cho thấy 47 phần trăm người Mỹ dưới 30 tuổi đang cố gắng giảm thời gian dùng màn hình. Trong khảo sát của Talker Research vào tháng 12 năm 2025, 63 phần trăm Gen Z nói rằng họ cố ý cất điện thoại đi, so với 29 phần trăm ở thế hệ baby boomer. Gần một nửa thanh thiếu niên nói với Pew Research rằng mạng xã hội chủ yếu có tác động tiêu cực đến họ. Những con số này cộng lại thành một mô hình rõ ràng.",
+    "Các doanh nghiệp đã nhận ra sự thay đổi này. Một trang tin đưa tin vào tháng 4 năm 2026 rằng các nhà hàng và quán bar ở ít nhất 11 bang giờ đây hạn chế việc dùng điện thoại hoặc thưởng cho khách hàng không đụng đến điện thoại. Một quán bar ở Bắc Carolina khóa điện thoại trong túi trong hai giờ, và các nhà hàng của một chuỗi thức ăn nhanh phát kem miễn phí cho khách ăn mà không dùng điện thoại. Offline Club, một nhóm tổ chức các buổi tụ họp không điện thoại, bắt đầu ở Amsterdam vào năm 2021 và hiện tổ chức sự kiện tại 19 thành phố.",
+    "Xu hướng này phát triển từ nhiều năm lo ngại về việc dùng điện thoại quá nhiều. Một giáo sư tâm lý học tại Đại học Georgetown nói với một trang tin rằng sự quan tâm đến những không gian không điện thoại đã trở thành “một điều rất lớn”. Điều này không có nghĩa là từ bỏ điện thoại hoàn toàn: bản thân Offline Club có gần 600.000 người theo dõi trên Instagram. Nhưng thay vì chờ đợi cuộc sống trở nên tốt hơn, công ty nghiên cứu cho biết, Gen Z đang chọn sống chậm lại và tận hưởng những gì đã trong tầm với."
+  ],
+  "verbs": [
+    {
+      "base": "set out",
+      "correct": "Bắt đầu với một mục tiêu rõ ràng",
+      "wrong": "Tiết kiệm thời gian cho một mục đích"
+    },
+    {
+      "base": "cut back on",
+      "correct": "Sử dụng ít hơn một thứ gì đó",
+      "wrong": "Mất liên lạc với ai đó"
+    },
+    {
+      "base": "show up",
+      "correct": "Có mặt tại một sự kiện",
+      "wrong": "Cố gắng gây ấn tượng"
+    },
+    {
+      "base": "hang out",
+      "correct": "Dành thời gian thư giãn cùng nhau",
+      "wrong": "Chờ đợi trong một lúc ngắn thôi"
+    },
+    {
+      "base": "fit in with",
+      "correct": "Phù hợp với thông tin khác",
+      "wrong": "Cung cấp chi tiết cho ai đó"
+    },
+    {
+      "base": "put away",
+      "correct": "Ngừng dùng một thứ gì đó một thời gian",
+      "wrong": "Trì hoãn một việc gì đó đến sau"
+    },
+    {
+      "base": "add up to",
+      "correct": "Cộng lại thành một kết quả",
+      "wrong": "Thêm một thứ gì đó vào cho đủ"
+    },
+    {
+      "base": "pick up on",
+      "correct": "Nhận ra một điều mới",
+      "wrong": "Đặt ra quy tắc về điều gì đó"
+    },
+    {
+      "base": "hand out",
+      "correct": "Phát một thứ gì đó cho nhiều người",
+      "wrong": "Trao quyền kiểm soát cho người khác"
+    },
+    {
+      "base": "put on",
+      "correct": "Tổ chức một sự kiện",
+      "wrong": "Cho phép ai đó ở lại qua đêm"
+    },
+    {
+      "base": "grow out of",
+      "correct": "Phát triển từ một điều trước đó",
+      "wrong": "Trở thành người lớn theo năm tháng"
+    },
+    {
+      "base": "give up",
+      "correct": "Ngừng dùng hoàn toàn một thứ gì đó",
+      "wrong": "Trả lại một thứ gì đó cho chủ nhân"
+    },
+    {
+      "base": "slow down",
+      "correct": "Sống với nhịp độ chậm hơn",
+      "wrong": "Làm cho một việc gì đó kết thúc"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Set out",
+      "def": "Bắt đầu với một mục tiêu rõ ràng",
+      "ex": [
+        "Cô ấy bắt đầu với mục tiêu học tiếng Tây Ban Nha trong một năm.",
+        "Đội đã bắt đầu với mục tiêu tạo ra một chiếc điện thoại rẻ hơn.",
+        "Anh ấy bắt đầu với mục tiêu ghé thăm mọi công viên tiểu bang."
+      ]
+    },
+    {
+      "verb": "Cut back on",
+      "def": "Sử dụng ít hơn một thứ gì đó",
+      "ex": [
+        "Chúng ta cần ăn ít đường hơn.",
+        "Công ty đã giảm đi lại trong năm nay.",
+        "Tôi đang cố gắng xem tivi ít hơn vào ban đêm."
+      ]
+    },
+    {
+      "verb": "Show up",
+      "def": "Có mặt tại một sự kiện",
+      "ex": [
+        "Hàng trăm người đã có mặt tại buổi hòa nhạc.",
+        "Anh ấy không bao giờ có mặt đúng giờ.",
+        "Chỉ có mười sinh viên có mặt tại cuộc họp."
+      ]
+    },
+    {
+      "verb": "Hang out",
+      "def": "Dành thời gian thư giãn cùng nhau",
+      "ex": [
+        "Chúng tôi đã dành cả buổi chiều thư giãn cùng nhau ở công viên.",
+        "Anh trai tôi dành thời gian với bạn bè vào cuối tuần.",
+        "Bạn có muốn dành thời gian cùng nhau sau giờ làm không?"
+      ]
+    },
+    {
+      "verb": "Fit in with",
+      "def": "Phù hợp với thông tin khác",
+      "ex": [
+        "Dữ liệu mới phù hợp với các kết quả trước đó.",
+        "Câu chuyện của anh ấy không phù hợp với những gì cảnh sát tìm thấy.",
+        "Những con số này phù hợp với xu hướng chung của cả nước."
+      ]
+    },
+    {
+      "verb": "Put away",
+      "def": "Ngừng dùng một thứ gì đó một thời gian",
+      "ex": [
+        "Hãy cất laptop đi trong bữa tối.",
+        "Cô ấy đã cất máy tính bảng đi và ra ngoài đi bộ.",
+        "Bọn trẻ đã cất đồ chơi trước khi đi ngủ."
+      ]
+    },
+    {
+      "verb": "Add up to",
+      "def": "Cộng lại thành một kết quả",
+      "ex": [
+        "Những thay đổi nhỏ cộng lại thành một khoản tiết kiệm lớn.",
+        "Tất cả bằng chứng cộng lại thành một câu trả lời duy nhất.",
+        "Vài phút mỗi ngày cộng lại thành nhiều giờ mỗi tháng."
+      ]
+    },
+    {
+      "verb": "Pick up on",
+      "def": "Nhận ra một điều mới",
+      "ex": [
+        "Cô ấy nhận ra ngay giọng điệu lo lắng của anh.",
+        "Những người quản lý giỏi nhận ra vấn đề nhỏ từ sớm.",
+        "Phóng viên nhận ra sự thay đổi trong kế hoạch của thị trưởng."
+      ]
+    },
+    {
+      "verb": "Hand out",
+      "def": "Phát một thứ gì đó cho nhiều người",
+      "ex": [
+        "Y tá phát khẩu trang ở cửa.",
+        "Cửa hàng phát mẫu thử miễn phí.",
+        "Huấn luyện viên phát đồng phục mới cho đội."
+      ]
+    },
+    {
+      "verb": "Put on",
+      "def": "Tổ chức một sự kiện",
+      "ex": [
+        "Thư viện tổ chức hội chợ sách mỗi mùa thu.",
+        "Học sinh tổ chức một buổi hòa nhạc cho phụ huynh.",
+        "Thị trấn tổ chức lễ hội mỗi mùa hè."
+      ]
+    },
+    {
+      "verb": "Grow out of",
+      "def": "Phát triển từ một điều trước đó",
+      "ex": [
+        "Ban nhạc phát triển từ một câu lạc bộ âm nhạc trung học.",
+        "Luật mới phát triển từ nhiều năm khiếu nại.",
+        "Việc kinh doanh của cô ấy phát triển từ một sở thích cuối tuần."
+      ]
+    },
+    {
+      "verb": "Give up",
+      "def": "Ngừng dùng hoàn toàn một thứ gì đó",
+      "ex": [
+        "Anh ấy đã bỏ hoàn toàn nước ngọt vào năm ngoái.",
+        "Cô ấy đã bỏ xe hơi và giờ đi xe đạp.",
+        "Tôi không bao giờ có thể bỏ cà phê buổi sáng."
+      ]
+    },
+    {
+      "verb": "Slow down",
+      "def": "Sống với nhịp độ chậm hơn",
+      "ex": [
+        "Sau ca phẫu thuật, bác sĩ bảo anh ấy sống chậm lại.",
+        "Chúng tôi chuyển đến một thị trấn nhỏ để sống chậm lại.",
+        "Cô ấy học được cách sống chậm lại và tận hưởng những ngày cuối tuần."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "research firm",
+      "def": "Một công ty thu thập và nghiên cứu thông tin cho khách hàng",
+      "ex": [
+        "Một công ty nghiên cứu đã hỏi 2.000 người về thói quen mua sắm của họ.",
+        "Công ty nghiên cứu này công bố báo cáo mỗi mùa xuân.",
+        "Cô ấy làm việc cho một công ty nghiên cứu ở Chicago."
+      ]
+    },
+    {
+      "word": "consumers",
+      "def": "Những người mua và sử dụng sản phẩm hoặc dịch vụ",
+      "ex": [
+        "Người tiêu dùng trẻ chi tiêu cho trải nghiệm nhiều hơn quần áo.",
+        "Luật mới bảo vệ người tiêu dùng khỏi các khoản phí ẩn.",
+        "Người tiêu dùng đang mua ít xe hơi mới hơn trong năm nay."
+      ]
+    },
+    {
+      "word": "ordinary life",
+      "def": "Cuộc sống hằng ngày bình thường, không phải dịp đặc biệt",
+      "ex": [
+        "Cô ấy tìm thấy vẻ đẹp trong cuộc sống bình thường, như đi bộ đến cửa hàng.",
+        "Sau chuyến đi, anh ấy vui vì được trở lại cuộc sống bình thường.",
+        "Những bức ảnh cho thấy cuộc sống bình thường ở một thị trấn chài nhỏ."
+      ]
+    },
+    {
+      "word": "screen time",
+      "def": "Số giờ dành để nhìn vào điện thoại, máy tính hoặc tivi",
+      "ex": [
+        "Bác sĩ khuyên trẻ nhỏ nên giảm thời gian dùng màn hình.",
+        "Điện thoại của tôi theo dõi thời gian dùng màn hình mỗi tuần.",
+        "Quá nhiều thời gian dùng màn hình có thể khiến khó ngủ."
+      ]
+    },
+    {
+      "word": "in person",
+      "def": "Có mặt trực tiếp, không phải trực tuyến hay qua điện thoại",
+      "ex": [
+        "Thật vui khi cuối cùng cũng được gặp cô ấy trực tiếp.",
+        "Lớp học gặp trực tiếp hai lần một tuần.",
+        "Bạn phải ký vào biểu mẫu trực tiếp tại văn phòng."
+      ]
+    },
+    {
+      "word": "present",
+      "def": "Dành toàn bộ sự chú ý cho khoảnh khắc bạn đang sống",
+      "ex": [
+        "Hãy cố gắng hiện diện khi ở bên con cái.",
+        "Anh ấy cảm thấy hiện diện hơn sau khi tắt điện thoại.",
+        "Yoga giúp cô ấy giữ được sự hiện diện và bình tĩnh."
+      ]
+    },
+    {
+      "word": "findings",
+      "def": "Kết quả của một nghiên cứu hoặc cuộc điều tra",
+      "ex": [
+        "Các phát hiện đã được công bố trên một tạp chí y khoa.",
+        "Những phát hiện của cô ấy khiến cả đội bất ngờ.",
+        "Các phát hiện của báo cáo cho thấy sự gia tăng của việc đi bộ đến chỗ làm."
+      ]
+    },
+    {
+      "word": "survey",
+      "def": "Một loạt câu hỏi được hỏi nhiều người để biết quan điểm của họ",
+      "ex": [
+        "Cuộc khảo sát đã hỏi 1.000 người lớn về giấc ngủ.",
+        "Vui lòng điền khảo sát sau chuyến thăm của bạn.",
+        "Một cuộc khảo sát mới cho thấy hầu hết mọi người muốn tuần làm việc ngắn hơn."
+      ]
+    },
+    {
+      "word": "intentionally",
+      "def": "Cố ý, không phải tình cờ",
+      "ex": [
+        "Cô ấy cố ý để điện thoại ở nhà.",
+        "Anh ấy cố ý đến sớm để có chỗ ngồi tốt.",
+        "Cửa hàng cố ý giữ giá thấp."
+      ]
+    },
+    {
+      "word": "baby boomers",
+      "def": "Người Mỹ sinh từ năm 1946 đến 1964",
+      "ex": [
+        "Nhiều người thuộc thế hệ baby boomer giờ đang nghỉ hưu.",
+        "Thế hệ baby boomer lớn lên mà không có internet.",
+        "Cuộc khảo sát so sánh thế hệ baby boomer với những người trưởng thành trẻ hơn."
+      ]
+    },
+    {
+      "word": "negative effect",
+      "def": "Một kết quả có hại",
+      "ex": [
+        "Ngủ không đủ có tác động tiêu cực đến trí nhớ.",
+        "Cuộc đình công có tác động tiêu cực đến hãng hàng không.",
+        "Tiếng ồn có thể có tác động tiêu cực đến việc học của trẻ em."
+      ]
+    },
+    {
+      "word": "reward",
+      "def": "Cho ai đó một điều tốt vì việc họ đã làm",
+      "ex": [
+        "Hãng hàng không thưởng cho khách bay thường xuyên bằng những chuyến bay miễn phí.",
+        "Cha mẹ thường thưởng cho điểm số tốt bằng một món quà nhỏ.",
+        "Ứng dụng thưởng cho người dùng đi bộ 10.000 bước mỗi ngày."
+      ]
+    },
+    {
+      "word": "pouches",
+      "def": "Những chiếc túi nhỏ, mềm, đóng ở phía trên",
+      "ex": [
+        "Nhân viên buổi hòa nhạc cất điện thoại vào những chiếc túi khóa lại.",
+        "Cô ấy giữ tiền xu trong một chiếc túi da nhỏ.",
+        "Con kangaroo mang con của nó trong một chiếc túi."
+      ]
+    },
+    {
+      "word": "gatherings",
+      "def": "Những sự kiện nơi một nhóm người tụ họp lại",
+      "ex": [
+        "Câu lạc bộ chạy bộ tổ chức buổi tụ họp mỗi thứ Bảy.",
+        "Cô ấy gặp đối tác kinh doanh của mình tại một buổi tụ họp nhỏ dành cho người làm công nghệ.",
+        "Các buổi tụ họp chơi board game rất phổ biến trong thành phố."
+      ]
+    },
+    {
+      "word": "heavy",
+      "def": "Rất thường xuyên hoặc với số lượng lớn",
+      "ex": [
+        "Việc sử dụng mạng xã hội quá nhiều có thể ảnh hưởng đến giấc ngủ.",
+        "Thành phố này có giao thông đông đúc vào buổi sáng.",
+        "Anh ấy uống rất nhiều cà phê."
+      ]
+    },
+    {
+      "word": "psychology professor",
+      "def": "Một giảng viên đại học nghiên cứu cách tâm trí hoạt động",
+      "ex": [
+        "Một giáo sư tâm lý học giải thích tại sao mọi người quên tên.",
+        "Giáo sư tâm lý học này nghiên cứu cách trẻ em học tập.",
+        "Cô ấy trở thành giáo sư tâm lý học ở tuổi 35."
+      ]
+    },
+    {
+      "word": "followers",
+      "def": "Những người chọn theo dõi bài đăng của ai đó trên mạng xã hội",
+      "ex": [
+        "Đầu bếp này có hai triệu người theo dõi trên Instagram.",
+        "Cô ấy mất người theo dõi sau một thời gian dài nghỉ.",
+        "Người theo dõi của bảo tàng bỏ phiếu cho triển lãm tiếp theo."
+      ]
+    },
+    {
+      "word": "within reach",
+      "def": "Đủ gần để dễ dàng đạt được hoặc tận hưởng",
+      "ex": [
+        "Hãy để một cốc nước trong tầm với vào ban đêm.",
+        "Nhờ tuyến tàu mới, bãi biển giờ đây trong tầm với cho một chuyến đi trong ngày.",
+        "Mục tiêu cuối cùng cũng trong tầm với."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Báo cáo cho biết Gen Z đã giảm thời gian dùng màn hình vào mùa hè này.",
+      "a": true,
+      "why": "Báo cáo ngày 20 tháng 8 của công ty nghiên cứu cho biết họ đã giảm thời gian dùng màn hình, có mặt trực tiếp tại các sự kiện, và dành nhiều thời gian hơn để gặp gỡ bạn bè trực tiếp."
+    },
+    {
+      "s": "Trong một khảo sát của Talker Research, 29 phần trăm Gen Z nói rằng họ đã cất điện thoại đi.",
+      "a": false,
+      "why": "Trong khảo sát tháng 12 năm 2025, 63 phần trăm Gen Z nói rằng họ cố ý cất điện thoại đi; 29 phần trăm là con số của thế hệ baby boomer."
+    },
+    {
+      "s": "Một số nhà hàng trong chuỗi thức ăn nhanh phát kem miễn phí cho khách ăn mà không dùng điện thoại.",
+      "a": true,
+      "why": "Một trang tin đã đưa tin rằng một số nhà hàng trong chuỗi thức ăn nhanh tặng kem miễn phí cho khách ăn mà không dùng điện thoại."
+    },
+    {
+      "s": "Offline Club bắt đầu ở Amsterdam vào năm 2021.",
+      "a": true,
+      "why": "Nhóm này, tổ chức các buổi tụ họp không điện thoại, bắt đầu ở Amsterdam vào năm 2021 và hiện tổ chức sự kiện tại 19 thành phố."
+    },
+    {
+      "s": "Một quán bar ở Bắc Carolina khóa điện thoại của khách trong túi suốt cả đêm.",
+      "a": false,
+      "why": "Các doanh nghiệp đã nhận ra sự thay đổi này, và quán bar khóa điện thoại trong túi trong hai giờ, không phải suốt cả đêm."
+    },
+    {
+      "s": "Offline Club có ít hơn 10.000 người theo dõi trên Instagram.",
+      "a": false,
+      "why": "Nhóm này có gần 600.000 người theo dõi trên Instagram, cho thấy xu hướng này không có nghĩa là từ bỏ điện thoại hoàn toàn."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Một công ty nghiên cứu giới trẻ cho biết Gen Z đã cố ý nỗ lực dùng điện thoại ít hơn và tận hưởng cuộc sống thực nhiều hơn trong mùa hè này. Các cuộc khảo sát và doanh nghiệp không điện thoại mới cho thấy sự thay đổi tương tự trong giới trẻ Mỹ.",
+      "a": true,
+      "why": "Công ty nghiên cứu giới trẻ báo cáo rằng Gen Z đã giảm thời gian dùng màn hình và có mặt trực tiếp tại các sự kiện, và các khảo sát của một công ty thăm dò, Talker Research, và Pew đều cho thấy một mô hình tương tự."
+    },
+    {
+      "s": "Người Mỹ trẻ đã bỏ điện thoại xuống trong mùa hè này vì các nhà hàng và quán bar ở nhiều bang giờ đây cấm chúng. Một công ty nghiên cứu giới trẻ cho biết các quy định mới đã thúc đẩy Gen Z hiện diện nhiều hơn.",
+      "a": false,
+      "why": "Gần đúng, nhưng sự thay đổi bắt đầu từ chính giới trẻ; các doanh nghiệp nhận ra điều này sau đó và thêm vào các giới hạn và phần thưởng về điện thoại."
+    },
+    {
+      "s": "Một nghiên cứu mới phát hiện rằng thanh thiếu niên dùng mạng xã hội hơn bốn giờ mỗi ngày ngủ ít hơn và có điểm số thấp hơn. Các nhà nghiên cứu muốn trường học cấm điện thoại trong giờ học.",
+      "a": false,
+      "why": "Không có nghiên cứu nào về giấc ngủ hay điểm số, và cũng không có lời kêu gọi cấm điện thoại ở trường học. Báo cáo mô tả một xu hướng mà giới trẻ chọn dành nhiều thời gian hơn ngoài mạng."
+    }
+  ],
+  "dialogue": {
+    "That's a new one for me": "Dùng khi bạn chưa bao giờ nghe về một từ hay ý tưởng nào đó",
+    "Sounds like a normal summer to me": "Dùng để nói rằng điều gì đó được trình bày là đặc biệt thực ra lại bình thường",
+    "I'd do it for the ice cream alone": "Dùng để nói rằng chỉ một phần thưởng nhỏ cũng đủ lý do để tham gia",
+    "There's some irony in that": "Dùng để chỉ ra rằng một tình huống trái ngược với điều bạn mong đợi",
+    "I'm all for that": "Dùng để nói rằng bạn ủng hộ một ý tưởng nào đó"
+  }
+}

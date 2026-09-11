@@ -1,6 +1,1590 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-11",
   "stories": [
+    {
+      "id": "gen-z-joymaxxing-2026",
+      "number": 108,
+      "headline": "Gen Z spent summer 2026 looking for joy offline",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n108-gen-z-joymaxxing-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Gen Z Spent Summer 2026 Joymaxxing (YPulse)",
+          "url": "https://www.ypulse.com/article/2026/08/20/gen-z-spent-summer-2026-joymaxxing/"
+        },
+        {
+          "title": "Phone-free bars and restaurants on the rise across the U.S. (Axios)",
+          "url": "https://www.axios.com/2026/04/05/phone-free-restaurants-bars-bans-restrictions-offline"
+        },
+        {
+          "title": "How Gen Z is helping to drive a digital detox boom (Axios)",
+          "url": "https://www.axios.com/2026/04/24/phone-free-spaces-digital-detox-retreats-gen-z"
+        },
+        {
+          "title": "Gen Z is engineering an analog future, and it's at least a $5 billion opportunity (Fortune)",
+          "url": "https://fortune.com/2026/04/01/gen-z-analog-economy-5-billion-market-nostalgia"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Gen Z spent summer 2026 \"joymaxxing,\" says a [[research firm]] that studies young [[consumers]]. The word describes young people who {{set out}} to find more happiness in [[ordinary life]]. The firm's August 20 report says they {{cut back on}} [[screen time]], {{showed up}} at events [[in person]], and spent more time {{hanging out}} with friends face to face. Instead of recording every moment for social media, they chose to be [[present]].",
+          "verbs": [
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To begin with a clear goal",
+              "wrong": "To save time for a purpose",
+              "correctFirst": true,
+              "why": "A runner sets out to finish a marathon, and a small company sets out to win new customers. The research firm says young people set out this summer to find more happiness in ordinary life."
+            },
+            {
+              "display": "cut back on",
+              "base": "cut back on",
+              "correct": "To use less of something",
+              "wrong": "To lose contact with someone",
+              "correctFirst": false,
+              "why": "A family can cut back on eating out to save money, and a city may cut back on water use in a dry summer. The report says Gen Z cut back on screen time and spent more time offline."
+            },
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To be present at an event",
+              "wrong": "To try to impress other people",
+              "correctFirst": true,
+              "why": "Only half the class showed up for the early lecture, and the whole town shows up for the summer parade. According to the research firm, Gen Z showed up at events in person instead of only watching online."
+            },
+            {
+              "display": "hanging out",
+              "base": "hang out",
+              "correct": "To spend relaxed time together",
+              "wrong": "To wait for a short time",
+              "correctFirst": false,
+              "why": "Teenagers hang out at the mall after school, and coworkers sometimes hang out at a cafe on Friday. The report says young people spent more of the summer hanging out with friends face to face."
+            }
+          ]
+        },
+        {
+          "text": "The report {{fits in with}} other [[findings]] this year. A 2025 [[survey]] by a polling company found 47 percent of Americans under 30 were trying to reduce screen time. In a Talker Research survey from December 2025, 63 percent of Gen Z said they [[intentionally]] {{put away}} their phones, against 29 percent of [[baby boomers]]. Nearly half of teenagers tell Pew Research that social media has a mostly [[negative effect]] on them. The numbers {{add up to}} a clear pattern.",
+          "verbs": [
+            {
+              "display": "fits in with",
+              "base": "fit in with",
+              "correct": "To match other information",
+              "wrong": "To give someone the details",
+              "correctFirst": true,
+              "why": "A witness's story should fit in with the other evidence, and the total on a receipt should fit in with what your bank app shows. The youth research report fits in with other survey findings from this year."
+            },
+            {
+              "display": "put away",
+              "base": "put away",
+              "correct": "To stop using something for a while",
+              "wrong": "To delay something until later",
+              "correctFirst": false,
+              "why": "Children put away their toys before bed, and a teacher asks students to put away their books before a test. In one survey, 63 percent of Gen Z said they intentionally put away their phones."
+            },
+            {
+              "display": "add up to",
+              "base": "add up to",
+              "correct": "To combine to make a result",
+              "wrong": "To include something as an extra",
+              "correctFirst": true,
+              "why": "Small daily savings add up to a nice vacation, and a few late nights add up to a very tired week. Taken together, the survey numbers add up to a clear pattern of young people using their phones less."
+            }
+          ]
+        },
+        {
+          "text": "Businesses have {{picked up on}} the change. A news site reported in April 2026 that restaurants and bars in at least 11 states now limit phones or [[reward]] customers who leave them alone. A bar in North Carolina locks phones in [[pouches]] for two hours, and one fast-food chain's restaurants {{hand out}} free ice cream to phone-free diners. The Offline Club, a group that {{puts on}} phone-free [[gatherings]], began in Amsterdam in 2021 and now runs events in 19 cities.",
+          "verbs": [
+            {
+              "display": "picked up on",
+              "base": "pick up on",
+              "correct": "To notice something new",
+              "wrong": "To make a rule about something",
+              "correctFirst": false,
+              "why": "A good teacher picks up on a student's confusion, and a store quickly picks up on what shoppers want. Businesses have picked up on the change and now offer phone-free dining."
+            },
+            {
+              "display": "hand out",
+              "base": "hand out",
+              "correct": "To give something to many people",
+              "wrong": "To give control to another person",
+              "correctFirst": true,
+              "why": "Volunteers hand out water at a race, and a teacher hands out the test papers. Some restaurants in a fast-food chain hand out free ice cream to customers who eat without their phones."
+            },
+            {
+              "display": "puts on",
+              "base": "put on",
+              "correct": "To organize an event",
+              "wrong": "To let someone stay overnight",
+              "correctFirst": false,
+              "why": "The school puts on a play every spring, and the city puts on a fireworks show in July. The Offline Club puts on phone-free gatherings in 19 cities."
+            }
+          ]
+        },
+        {
+          "text": "The trend {{grew out of}} years of worry about [[heavy]] phone use. A [[psychology professor]] at Georgetown University told a news site that interest in phone-free spaces has become \"a huge thing.\" It does not mean {{giving up}} phones completely: The Offline Club has nearly 600,000 Instagram [[followers]]. But rather than wait for life to improve, the research firm says, Gen Z is choosing to {{slow down}} and enjoy what is [[within reach]].",
+          "verbs": [
+            {
+              "display": "grew out of",
+              "base": "grow out of",
+              "correct": "To develop from something earlier",
+              "wrong": "To become an adult over the years",
+              "correctFirst": true,
+              "why": "The company grew out of a college project, and many friendships grow out of shared hobbies. The joymaxxing trend grew out of years of worry about heavy phone use."
+            },
+            {
+              "display": "giving up",
+              "base": "give up",
+              "correct": "To stop using something completely",
+              "wrong": "To return something to its owner",
+              "correctFirst": false,
+              "why": "Some people give up coffee for a month, and a doctor may tell a patient to give up smoking. The trend does not mean giving up phones completely, since the Offline Club itself has nearly 600,000 Instagram followers."
+            },
+            {
+              "display": "slow down",
+              "base": "slow down",
+              "correct": "To live at a calmer pace",
+              "wrong": "To bring something to an end",
+              "correctFirst": true,
+              "why": "Doctors tell busy patients to slow down, and many people slow down after they retire. The research firm says Gen Z is choosing to slow down and enjoy what is already within reach."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Set out",
+          "def": "To begin with a clear goal",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "She set out to learn Spanish in one year.",
+            "The team set out to build a cheaper phone.",
+            "He set out to visit every state park."
+          ]
+        },
+        {
+          "verb": "Cut back on",
+          "def": "To use less of something",
+          "ipa": "/kʌt bæk ɑn/",
+          "ex": [
+            "We need to cut back on sugar.",
+            "The company cut back on travel this year.",
+            "I'm trying to cut back on late-night TV."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To be present at an event",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "Hundreds of people showed up for the concert.",
+            "He never shows up on time.",
+            "Only ten students showed up to the meeting."
+          ]
+        },
+        {
+          "verb": "Hang out",
+          "def": "To spend relaxed time together",
+          "ipa": "/hæŋ aʊt/",
+          "ex": [
+            "We hung out at the park all afternoon.",
+            "My brother hangs out with his friends on weekends.",
+            "Do you want to hang out after work?"
+          ]
+        },
+        {
+          "verb": "Fit in with",
+          "def": "To match other information",
+          "ipa": "/fɪt ɪn wɪð/",
+          "ex": [
+            "The new data fits in with the earlier results.",
+            "His story doesn't fit in with what the police found.",
+            "These numbers fit in with the national trend."
+          ]
+        },
+        {
+          "verb": "Put away",
+          "def": "To stop using something for a while",
+          "ipa": "/pʊt əˈweɪ/",
+          "ex": [
+            "Please put away your laptop during dinner.",
+            "She put her tablet away and went outside to walk.",
+            "The kids put away their games before bed."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "def": "To combine to make a result",
+          "ipa": "/æd ʌp tu/",
+          "ex": [
+            "Small changes add up to big savings.",
+            "All the evidence adds up to one answer.",
+            "A few minutes a day add up to hours each month."
+          ]
+        },
+        {
+          "verb": "Pick up on",
+          "def": "To notice something new",
+          "ipa": "/pɪk ʌp ɑn/",
+          "ex": [
+            "She picked up on his nervous tone right away.",
+            "Good managers pick up on small problems early.",
+            "The reporter picked up on a change in the mayor's plans."
+          ]
+        },
+        {
+          "verb": "Hand out",
+          "def": "To give something to many people",
+          "ipa": "/hænd aʊt/",
+          "ex": [
+            "The nurse handed out masks at the door.",
+            "They hand out free samples at the store.",
+            "The coach handed out new uniforms to the team."
+          ]
+        },
+        {
+          "verb": "Put on",
+          "def": "To organize an event",
+          "ipa": "/pʊt ɑn/",
+          "ex": [
+            "The library puts on a book fair every fall.",
+            "Students put on a concert for their parents.",
+            "The town puts on a festival each summer."
+          ]
+        },
+        {
+          "verb": "Grow out of",
+          "def": "To develop from something earlier",
+          "ipa": "/ɡroʊ aʊt ʌv/",
+          "ex": [
+            "The band grew out of a high school music club.",
+            "The new law grew out of years of complaints.",
+            "Her business grew out of a weekend hobby."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "def": "To stop using something completely",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "He gave up soda last year.",
+            "She gave up her car and now rides a bike.",
+            "I could never give up my morning coffee."
+          ]
+        },
+        {
+          "verb": "Slow down",
+          "def": "To live at a calmer pace",
+          "ipa": "/sloʊ daʊn/",
+          "ex": [
+            "After the surgery, the doctor told him to slow down.",
+            "We moved to a small town to slow down.",
+            "She learned to slow down and enjoy her weekends."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "research firm",
+          "def": "A company that collects and studies information for clients",
+          "ipa": "/ˈrisɜrtʃ fɜrm/",
+          "ex": [
+            "A research firm asked 2,000 people about their shopping habits.",
+            "The research firm publishes a report every spring.",
+            "She works for a research firm in Chicago."
+          ]
+        },
+        {
+          "word": "consumers",
+          "def": "People who buy and use products or services",
+          "ipa": "/kənˈsumərz/",
+          "ex": [
+            "Young consumers spend more on experiences than on clothes.",
+            "The new law protects consumers from hidden fees.",
+            "Consumers are buying fewer new cars this year."
+          ]
+        },
+        {
+          "word": "ordinary life",
+          "def": "Normal everyday living, not special occasions",
+          "ipa": "/ˈɔrdəˌnɛri laɪf/",
+          "ex": [
+            "She finds beauty in ordinary life, like a walk to the store.",
+            "After the trip, he was glad to return to ordinary life.",
+            "The photos show ordinary life in a small fishing town."
+          ]
+        },
+        {
+          "word": "screen time",
+          "def": "The hours spent looking at phones, computers, or TVs",
+          "ipa": "/skrin taɪm/",
+          "ex": [
+            "Doctors suggest less screen time for young children.",
+            "My phone tracks my screen time every week.",
+            "Too much screen time can make it hard to sleep."
+          ]
+        },
+        {
+          "word": "in person",
+          "def": "Physically present, not online or by phone",
+          "ipa": "/ɪn ˈpɜrsən/",
+          "ex": [
+            "It was nice to finally meet her in person.",
+            "The class meets in person twice a week.",
+            "You must sign the form in person at the office."
+          ]
+        },
+        {
+          "word": "present",
+          "def": "Paying full attention to the moment you are in",
+          "ipa": "/ˈprɛzənt/",
+          "ex": [
+            "Try to be present when you are with your kids.",
+            "He felt more present after he turned off his phone.",
+            "Yoga helps her stay present and calm."
+          ]
+        },
+        {
+          "word": "findings",
+          "def": "The results of a study or investigation",
+          "ipa": "/ˈfaɪndɪŋz/",
+          "ex": [
+            "The findings were published in a medical journal.",
+            "Her findings surprised the whole team.",
+            "The report's findings show a rise in walking to work."
+          ]
+        },
+        {
+          "word": "survey",
+          "def": "A set of questions asked to many people to learn their views",
+          "ipa": "/ˈsɜrveɪ/",
+          "ex": [
+            "The survey asked 1,000 adults about sleep.",
+            "Please fill out the survey after your visit.",
+            "A new survey shows most people want shorter workweeks."
+          ]
+        },
+        {
+          "word": "intentionally",
+          "def": "On purpose, not by accident",
+          "ipa": "/ɪnˈtɛnʃənəli/",
+          "ex": [
+            "She intentionally left her phone at home.",
+            "He intentionally arrived early to get a good seat.",
+            "The store intentionally keeps its prices low."
+          ]
+        },
+        {
+          "word": "baby boomers",
+          "def": "Americans born between 1946 and 1964",
+          "ipa": "/ˈbeɪbi ˈbumərz/",
+          "ex": [
+            "Many baby boomers are now retiring.",
+            "Baby boomers grew up without the internet.",
+            "The survey compared baby boomers with younger adults."
+          ]
+        },
+        {
+          "word": "negative effect",
+          "def": "A harmful result",
+          "ipa": "/ˈnɛɡətɪv ɪˈfɛkt/",
+          "ex": [
+            "Poor sleep has a negative effect on memory.",
+            "The strike had a negative effect on the airline.",
+            "Noise can have a negative effect on children's learning."
+          ]
+        },
+        {
+          "word": "reward",
+          "def": "To give something good to someone for what they did",
+          "ipa": "/rɪˈwɔrd/",
+          "ex": [
+            "The airline rewards frequent flyers with free trips.",
+            "Parents often reward good grades with a small gift.",
+            "The app rewards users who walk 10,000 steps a day."
+          ]
+        },
+        {
+          "word": "pouches",
+          "def": "Small soft bags that close at the top",
+          "ipa": "/ˈpaʊtʃɪz/",
+          "ex": [
+            "The concert staff put phones in locked pouches.",
+            "She keeps her coins in a little leather pouch.",
+            "The kangaroo carries its baby in a pouch."
+          ]
+        },
+        {
+          "word": "gatherings",
+          "def": "Events where a group of people come together",
+          "ipa": "/ˈɡæðərɪŋz/",
+          "ex": [
+            "The running club holds gatherings every Saturday.",
+            "She met her business partner at a small gathering for tech workers.",
+            "Board game gatherings are popular in the city."
+          ]
+        },
+        {
+          "word": "heavy",
+          "def": "Very frequent or in large amounts",
+          "ipa": "/ˈhɛvi/",
+          "ex": [
+            "Heavy use of social media can affect sleep.",
+            "The city has heavy traffic in the morning.",
+            "He is a heavy coffee drinker."
+          ]
+        },
+        {
+          "word": "psychology professor",
+          "def": "A university teacher who studies how the mind works",
+          "ipa": "/saɪˈkɑlədʒi prəˈfɛsər/",
+          "ex": [
+            "A psychology professor explained why people forget names.",
+            "The psychology professor studies how children learn.",
+            "She became a psychology professor at age 35."
+          ]
+        },
+        {
+          "word": "followers",
+          "def": "People who choose to see someone's posts on social media",
+          "ipa": "/ˈfɑloʊərz/",
+          "ex": [
+            "The chef has two million followers on Instagram.",
+            "She lost followers after the long break.",
+            "The museum's followers vote on the next exhibit."
+          ]
+        },
+        {
+          "word": "within reach",
+          "def": "Close enough to get or enjoy easily",
+          "ipa": "/wɪˈðɪn ritʃ/",
+          "ex": [
+            "Keep a glass of water within reach at night.",
+            "With the new train, the beach is within reach for a day trip.",
+            "The goal is finally within reach."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A youth research firm says Gen Z made a deliberate effort this summer to use phones less and enjoy real life. Surveys and new phone-free businesses show the same shift.",
+          "a": true,
+          "why": "The youth research firm reported that Gen Z cut back on screen time and showed up in person, and surveys from a polling company, Talker Research, and Pew show a similar pattern."
+        },
+        {
+          "s": "Young Americans put down their phones this summer because restaurants and bars in many states now ban them. A youth research firm says the rules pushed Gen Z to be present.",
+          "a": false,
+          "why": "Close, but the change started with young people themselves; businesses picked up on it afterward and added phone limits and rewards."
+        },
+        {
+          "s": "A new study found that teenagers who use social media more than four hours a day sleep less and get lower grades. Researchers want schools to ban phones during the day.",
+          "a": false,
+          "why": "There was no study about sleep or grades and no call for school bans. The report described a trend of young people choosing to spend more time offline."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The report says Gen Z cut back on screen time this summer.",
+          "a": true,
+          "why": "The research firm's August 20 report says they cut back on screen time, showed up at events in person, and spent more time hanging out with friends face to face."
+        },
+        {
+          "s": "In a Talker Research survey, 29 percent of Gen Z said they put away their phones.",
+          "a": false,
+          "why": "In the December 2025 survey, 63 percent of Gen Z said they intentionally put away their phones; 29 percent was the figure for baby boomers."
+        },
+        {
+          "s": "Some restaurants in a fast-food chain hand out free ice cream to customers who eat phone-free.",
+          "a": true,
+          "why": "A news site reported that some restaurants in a fast-food chain give free ice cream to diners who eat without their phones."
+        },
+        {
+          "s": "The Offline Club began in Amsterdam in 2021.",
+          "a": true,
+          "why": "The group, which puts on phone-free gatherings, started in Amsterdam in 2021 and now runs events in 19 cities."
+        },
+        {
+          "s": "A bar in North Carolina locks customers' phones in pouches for the whole night.",
+          "a": false,
+          "why": "Businesses have picked up on the change, and the bar locks phones in pouches for two hours, not for the whole night."
+        },
+        {
+          "s": "The Offline Club has fewer than 10,000 followers on Instagram.",
+          "a": false,
+          "why": "The group has nearly 600,000 Instagram followers, which shows the trend does not mean giving up phones completely."
+        }
+      ]
+    },
+    {
+      "id": "penguin-healing-vests-2026",
+      "number": 107,
+      "headline": "Injured penguins in Chile wear copper vests",
+      "badge": "Nature",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n107-penguin-healing-vests-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Copper vests help Chile's penguins heal (AP News)",
+          "url": "https://apnews.com/article/6e93b8d4eaef903e4c85d16ade7d5881"
+        },
+        {
+          "title": "Innovación en Coquimbo: Pingüinos usan trajes de cobre para acelerar su recuperación y rehabilitación (Cooperativa Ciencia)",
+          "url": "https://www.cooperativaciencia.cl/ciencia/2026/08/25/pinguinos-de-coquimbo-usan-trajes-de-cobre-para-acelerar-su-recuperacion-y-rehabilitacion/"
+        },
+        {
+          "title": "La innovadora terapia que ayuda a sanar a los pingüinos heridos (Diario El Día)",
+          "url": "https://www.diarioeldia.cl/noticias/2026/08/17/147967-la-innovadora-terapia-que-ayuda-a-sanar-a-los-pinginos-heridos"
+        },
+        {
+          "title": "Rehabilitan pingüinos con trajes forrados de cobre: así funciona la tecnología chilena que protege sus heridas (El Tiempo)",
+          "url": "https://www.eltiempo.com/vida/medio-ambiente/rehabilitan-pingueinos-con-trajes-forrados-de-cobre-asi-funciona-la-tecnologia-chilena-que-protege-sus-heridas-3582987"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Researchers in Chile are {{trying out}} [[snug]] red vests on injured Humboldt penguins. The fabric is [[woven]] with copper and zinc, which may help [[wounds]] {{heal up}} faster. Veterinarians use similar suits on dogs and cats, and a Chilean team {{came up with}} a penguin version. \"We began to wonder, why can't this be used on penguins?\" the director of a zoo near Santiago told The Associated Press on September 2, 2026.",
+          "verbs": [
+            {
+              "display": "trying out",
+              "base": "try out",
+              "correct": "To test something to see how it works",
+              "wrong": "To wear clothes to check their fit",
+              "correctFirst": true,
+              "why": "Shoppers try out a new phone in the store before buying it, and a coach tries out a new player in a practice game. Researchers in Chile are trying out snug red vests on injured Humboldt penguins."
+            },
+            {
+              "display": "heal up",
+              "base": "heal up",
+              "correct": "To become healthy again",
+              "wrong": "To close something tightly",
+              "correctFirst": false,
+              "why": "A scraped knee heals up in about a week, and a broken bone can take months to heal up. The team hopes the copper and zinc in the fabric will help the penguins' wounds heal up faster."
+            },
+            {
+              "display": "came up with",
+              "base": "come up with",
+              "correct": "To think of an idea or plan",
+              "wrong": "To meet a difficult problem",
+              "correctFirst": true,
+              "why": "A student comes up with a topic for an essay, and a company comes up with a name for its new product. A Chilean team came up with a penguin version of the healing suits used on dogs and cats."
+            }
+          ]
+        },
+        {
+          "text": "A [[nonprofit]] [[rescue center]] in northern Chile {{takes in}} [[stranded]] penguins from the coast. Some are cut by [[fishing nets]] or boat [[propellers]], and others are weak from hunger, said the veterinarian who leads the program. Penguins twist their necks to [[peck]] at wounds and {{pull out}} their [[stitches]], and [[bandages]] had to be changed daily. Staff {{take the vest off}} for treatment and replace it quickly, which {{cuts down on}} handling.",
+          "verbs": [
+            {
+              "display": "takes in",
+              "base": "take in",
+              "correct": "To accept someone and give them care",
+              "wrong": "To gain control of a place or group",
+              "correctFirst": false,
+              "why": "A family can take in a stray cat, and a shelter takes in people during a storm. Wildlife clinics on Chile's coast take in stranded penguins, some cut by fishing nets or boat propellers."
+            },
+            {
+              "display": "pull out",
+              "base": "pull out",
+              "correct": "To remove something by pulling",
+              "wrong": "To recover from a serious illness",
+              "correctFirst": true,
+              "why": "A dentist pulls out a bad tooth, and a gardener pulls out weeds after the rain. Penguins twist their necks to peck at wounds and pull out their stitches."
+            },
+            {
+              "display": "take the vest off",
+              "base": "take off",
+              "correct": "To remove something that is worn",
+              "wrong": "To care for a sick or injured animal",
+              "correctFirst": false,
+              "why": "People take off their shoes at the door, and a nurse takes off an old bandage before cleaning a cut. Staff take the vest off for treatment and replace it quickly."
+            },
+            {
+              "display": "cuts down on",
+              "base": "cut down on",
+              "correct": "To reduce the amount of something",
+              "wrong": "To separate someone from others",
+              "correctFirst": true,
+              "why": "A doctor may tell you to cut down on salt, and a family can cut down on driving to save gas. Removing and replacing the vest quickly cuts down on handling of the penguins."
+            }
+          ]
+        },
+        {
+          "text": "Copper and zinc {{hold back}} bacteria and fungi, and zinc helps new [[blood vessels]] form, so damaged [[tissue]] recovers faster. Chile is the world's top copper producer. The Chilean maker sells a pet version in more than 40 countries. Suits made for four-legged pets tend to {{slip down}} on a bird that stands [[upright]], so designers measured [[flippers]], necks, and tails and tested [[prototypes]] at the zoo before {{sending them off}} to the rescue center.",
+          "verbs": [
+            {
+              "display": "hold back",
+              "base": "hold back",
+              "correct": "To stop something from spreading",
+              "wrong": "To keep something warm and dry",
+              "correctFirst": false,
+              "why": "A dam holds back the river, and a fence holds back the crowd at a concert. Copper and zinc in the fabric hold back bacteria and fungi in the wound."
+            },
+            {
+              "display": "slip down",
+              "base": "slip down",
+              "correct": "To slide to a lower position",
+              "wrong": "To make a small careless mistake",
+              "correctFirst": true,
+              "why": "Loose socks slip down inside your shoes, and a heavy backpack slips down off one shoulder. Suits made for four-legged pets tend to slip down on a bird that stands upright."
+            },
+            {
+              "display": "sending them off",
+              "base": "send off",
+              "correct": "To mail or deliver something to a place",
+              "wrong": "To return something to its maker",
+              "correctFirst": false,
+              "why": "A student sends off a college application, and a shop sends off its orders every morning. Designers tested prototypes at the zoo before sending them off to the rescue center."
+            }
+          ]
+        },
+        {
+          "text": "Chile's Humboldt penguins, a [[vulnerable species]], are declining sharply. Surveys of the main [[breeding colonies]] in 2024 and 2025 found 63 percent fewer [[active nests]] than three years earlier. El Niño warms the sea and {{drives away}} the fish they eat, so parents {{leave chicks behind}} to hunt. The veterinarian said the birds {{put up with}} the vests well and wounds looked better within a day, but the team has not yet proved the vests {{speed up}} healing.",
+          "verbs": [
+            {
+              "display": "drives away",
+              "base": "drive away",
+              "correct": "To force something to leave",
+              "wrong": "To make something rise quickly",
+              "correctFirst": true,
+              "why": "Loud music drives away the neighbors, and a bad smell drives away customers. El Niño warms the sea and drives away the fish that penguins eat."
+            },
+            {
+              "display": "leave chicks behind",
+              "base": "leave behind",
+              "correct": "To go somewhere without taking someone",
+              "wrong": "To not include something in a group",
+              "correctFirst": false,
+              "why": "A mother leaves her son behind with a neighbor when she works a night shift, and a coach leaves two players behind when the team flies to a game. Hungry penguin parents leave chicks behind while they search for food."
+            },
+            {
+              "display": "put up with",
+              "base": "put up with",
+              "correct": "To accept something without complaint",
+              "wrong": "To dress an animal in clothing",
+              "correctFirst": true,
+              "why": "A neighbor puts up with noise from the street, and a commuter puts up with a crowded train. The veterinarian said the penguins put up with the vests well."
+            },
+            {
+              "display": "speed up",
+              "base": "speed up",
+              "correct": "To make something happen faster",
+              "wrong": "To use all of something completely",
+              "correctFirst": false,
+              "why": "A shortcut speeds up a trip to work, and a new machine speeds up the work of a factory. The team has not yet proved that the vests speed up healing."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Try out",
+          "def": "To test something to see how it works",
+          "ipa": "/traɪ aʊt/",
+          "ex": [
+            "The school is trying out a new schedule this fall.",
+            "I want to try out the bike before I buy it.",
+            "They tried out three recipes for the party."
+          ]
+        },
+        {
+          "verb": "Heal up",
+          "def": "To become healthy again",
+          "ipa": "/hil ʌp/",
+          "ex": [
+            "The cut on my hand healed up in a few days.",
+            "Give the burn time to heal up.",
+            "His ankle healed up before the season started."
+          ]
+        },
+        {
+          "verb": "Come up with",
+          "def": "To think of an idea or plan",
+          "ipa": "/kʌm ʌp wɪð/",
+          "ex": [
+            "She came up with a great name for the team.",
+            "We need to come up with a plan by Friday.",
+            "He came up with the idea in the shower."
+          ]
+        },
+        {
+          "verb": "Take in",
+          "def": "To accept someone and give them care",
+          "ipa": "/teɪk ɪn/",
+          "ex": [
+            "The shelter takes in dogs that have no home.",
+            "They took in two students from abroad.",
+            "The hospital took in dozens of patients after the storm."
+          ]
+        },
+        {
+          "verb": "Pull out",
+          "def": "To remove something by pulling",
+          "ipa": "/pʊl aʊt/",
+          "ex": [
+            "The dentist pulled out my wisdom tooth.",
+            "He pulled out a splinter with tweezers.",
+            "She pulled out the weeds along the fence."
+          ]
+        },
+        {
+          "verb": "Take off",
+          "def": "To remove something that is worn",
+          "ipa": "/teɪk ɔf/",
+          "ex": [
+            "Take off your coat and sit down.",
+            "He took off his glasses to read the sign.",
+            "The nurse took off the old bandage."
+          ]
+        },
+        {
+          "verb": "Cut down on",
+          "def": "To reduce the amount of something",
+          "ipa": "/kʌt daʊn ɑn/",
+          "ex": [
+            "I'm trying to cut down on sugar.",
+            "The city wants to cut down on traffic downtown.",
+            "We cut down on printing to save paper."
+          ]
+        },
+        {
+          "verb": "Hold back",
+          "def": "To stop something from spreading",
+          "ipa": "/hoʊld bæk/",
+          "ex": [
+            "Sandbags held back the flood water.",
+            "The medicine holds back the infection.",
+            "Police held back the crowd at the gate."
+          ]
+        },
+        {
+          "verb": "Slip down",
+          "def": "To slide to a lower position",
+          "ipa": "/slɪp daʊn/",
+          "ex": [
+            "My socks keep slipping down inside my boots.",
+            "The strap slipped down off her shoulder.",
+            "The baby's hat slipped down over his eyes."
+          ]
+        },
+        {
+          "verb": "Send off",
+          "def": "To mail or deliver something to a place",
+          "ipa": "/sɛnd ɔf/",
+          "ex": [
+            "She sent off the package on Monday.",
+            "We sent off the samples to the lab.",
+            "He sent off his application last week."
+          ]
+        },
+        {
+          "verb": "Drive away",
+          "def": "To force something to leave",
+          "ipa": "/draɪv əˈweɪ/",
+          "ex": [
+            "The noise drove away the birds from the yard.",
+            "High prices drove away many customers.",
+            "Warm water drives away the fish."
+          ]
+        },
+        {
+          "verb": "Leave behind",
+          "def": "To go somewhere without taking someone",
+          "ipa": "/liv bɪˈhaɪnd/",
+          "ex": [
+            "The family left the dog behind when they moved.",
+            "She left her younger brother behind and went to the park.",
+            "The bus left three passengers behind."
+          ]
+        },
+        {
+          "verb": "Put up with",
+          "def": "To accept something without complaint",
+          "ipa": "/pʊt ʌp wɪð/",
+          "ex": [
+            "I can't put up with this noise any longer.",
+            "She put up with the pain for weeks.",
+            "The dog put up with the bath without complaining."
+          ]
+        },
+        {
+          "verb": "Speed up",
+          "def": "To make something happen faster",
+          "ipa": "/spid ʌp/",
+          "ex": [
+            "The new road speeds up the trip to the airport.",
+            "Warm weather speeds up the growth of plants.",
+            "A faster computer sped up our work."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "snug",
+          "def": "Fitting closely and comfortably around the body",
+          "ipa": "/snʌɡ/",
+          "ex": [
+            "The jacket was a snug fit across the shoulders.",
+            "The baby was snug in her blanket.",
+            "These boots feel snug but not tight."
+          ]
+        },
+        {
+          "word": "woven",
+          "def": "Made by crossing threads over and under each other",
+          "ipa": "/ˈwoʊvən/",
+          "ex": [
+            "The basket is woven from thin strips of wood.",
+            "Silver thread was woven into the dress.",
+            "The rug was woven by hand in Peru."
+          ]
+        },
+        {
+          "word": "wounds",
+          "def": "Injuries where the skin is cut or broken",
+          "ipa": "/wundz/",
+          "ex": [
+            "The nurse cleaned the wounds on his arm.",
+            "Deep wounds may need stitches.",
+            "The dog licked the wound on its paw."
+          ]
+        },
+        {
+          "word": "stranded",
+          "def": "Left somewhere and unable to move or get away",
+          "ipa": "/ˈstrændɪd/",
+          "ex": [
+            "Rescuers found a stranded whale on the beach.",
+            "The storm left hundreds of travelers stranded at the airport.",
+            "A stranded seal was carried back to the water."
+          ]
+        },
+        {
+          "word": "fishing nets",
+          "def": "Large nets used to catch fish in the sea",
+          "ipa": "/ˈfɪʃɪŋ nɛts/",
+          "ex": [
+            "Old fishing nets can trap turtles and birds.",
+            "The crew repaired the fishing nets on the dock.",
+            "Divers removed fishing nets from the reef."
+          ]
+        },
+        {
+          "word": "propellers",
+          "def": "Spinning blades that push a boat or plane forward",
+          "ipa": "/prəˈpɛlərz/",
+          "ex": [
+            "Boat propellers can injure sea animals.",
+            "The plane has two propellers on each wing.",
+            "Weeds got caught in the propeller."
+          ]
+        },
+        {
+          "word": "nonprofit",
+          "def": "Working to help people or animals, not to make money",
+          "ipa": "/ˌnɑnˈprɑfɪt/",
+          "ex": [
+            "She runs a nonprofit that feeds homeless families.",
+            "The nonprofit depends on donations.",
+            "A nonprofit group planted trees in the park."
+          ]
+        },
+        {
+          "word": "rescue center",
+          "def": "A place where animals are saved and cared for",
+          "ipa": "/ˈrɛskju ˈsɛntər/",
+          "ex": [
+            "The rescue center took in three baby seals.",
+            "Volunteers at the rescue center feed the birds twice a day.",
+            "The turtle was released from the rescue center in May."
+          ]
+        },
+        {
+          "word": "peck",
+          "def": "To hit or bite something with the beak",
+          "ipa": "/pɛk/",
+          "ex": [
+            "Chickens peck at seeds on the ground.",
+            "The parrot pecked at my finger.",
+            "A woodpecker pecks holes in trees."
+          ]
+        },
+        {
+          "word": "stitches",
+          "def": "Threads used by a doctor to close a cut",
+          "ipa": "/ˈstɪtʃɪz/",
+          "ex": [
+            "He needed six stitches in his chin.",
+            "The doctor removed the stitches after ten days.",
+            "Don't get the stitches wet."
+          ]
+        },
+        {
+          "word": "bandages",
+          "def": "Strips of cloth wrapped around an injury",
+          "ipa": "/ˈbændɪdʒɪz/",
+          "ex": [
+            "The nurse changed the bandages every morning.",
+            "Keep the bandage clean and dry.",
+            "He wrapped a bandage around his knee."
+          ]
+        },
+        {
+          "word": "blood vessels",
+          "def": "Tubes that carry blood through the body",
+          "ipa": "/blʌd ˈvɛsəlz/",
+          "ex": [
+            "Exercise keeps your blood vessels healthy.",
+            "Tiny blood vessels bring oxygen to the skin.",
+            "The cut damaged several small blood vessels."
+          ]
+        },
+        {
+          "word": "tissue",
+          "def": "The material that the parts of a body are made of",
+          "ipa": "/ˈtɪʃu/",
+          "ex": [
+            "The burn damaged the tissue under the skin.",
+            "Muscle tissue repairs itself after exercise.",
+            "Doctors removed the damaged tissue."
+          ]
+        },
+        {
+          "word": "upright",
+          "def": "Standing straight up, not lying flat",
+          "ipa": "/ˈʌpˌraɪt/",
+          "ex": [
+            "Penguins walk upright on two legs.",
+            "Keep the bottle upright so it doesn't spill.",
+            "He sat upright when the teacher came in."
+          ]
+        },
+        {
+          "word": "flippers",
+          "def": "The flat limbs that penguins and seals use to swim",
+          "ipa": "/ˈflɪpərz/",
+          "ex": [
+            "The penguin flapped its flippers and dove in.",
+            "Seals use their flippers to move on land.",
+            "The turtle's flippers were tangled in a net."
+          ]
+        },
+        {
+          "word": "prototypes",
+          "def": "First versions of a product made for testing",
+          "ipa": "/ˈproʊtəˌtaɪps/",
+          "ex": [
+            "The company built three prototypes of the new car.",
+            "Engineers tested the prototype for a month.",
+            "The first prototypes were too heavy."
+          ]
+        },
+        {
+          "word": "vulnerable species",
+          "def": "A type of animal or plant at risk of dying out",
+          "ipa": "/ˈvʌlnərəbəl ˈspiʃiz/",
+          "ex": [
+            "The polar bear is listed as a vulnerable species.",
+            "Laws protect vulnerable species from hunting.",
+            "Scientists track vulnerable species with tags."
+          ]
+        },
+        {
+          "word": "breeding colonies",
+          "def": "Places where many animals gather to have their young",
+          "ipa": "/ˈbridɪŋ ˈkɑləniz/",
+          "ex": [
+            "Thousands of seabirds return to the breeding colonies each spring.",
+            "The island has one of the largest breeding colonies of seals.",
+            "Tourists cannot enter the breeding colony."
+          ]
+        },
+        {
+          "word": "active nests",
+          "def": "Nests that birds are using to raise their young",
+          "ipa": "/ˈæktɪv nɛsts/",
+          "ex": [
+            "Rangers counted 200 active nests on the cliff.",
+            "The number of active nests fell after the storm.",
+            "Each active nest held two eggs."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Chilean researchers are testing red vests woven with copper and zinc on injured Humboldt penguins. The vests stop the birds from removing their stitches and may help wounds close faster.",
+          "a": true,
+          "why": "The vests were adapted from pet suits, and the copper and zinc in the fabric hold back bacteria while the garment keeps penguins from pulling out their stitches."
+        },
+        {
+          "s": "Rescue centers in Chile have proved that copper vests heal penguin wounds twice as fast as bandages. The suits, first made for dogs and cats, are now sold to zoos in 40 countries.",
+          "a": false,
+          "why": "Close, but the team has not yet proved that the vests speed up healing, and it is the pet version of the suit that is sold in more than 40 countries."
+        },
+        {
+          "s": "Scientists in Chile counted the country's Humboldt penguins and found 63 percent fewer birds than in 2021. They blame fishing nets and plastic and want new protected areas along the coast.",
+          "a": false,
+          "why": "The 63 percent figure is a drop in active nests at breeding colonies, and the news is about vests being tested on injured penguins, not a plan for protected areas."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The vests are red and contain copper and zinc.",
+          "a": true,
+          "why": "Researchers in Chile are trying out snug red vests whose fabric is woven with copper and zinc."
+        },
+        {
+          "s": "Penguins were measured for the first vests at the rescue center.",
+          "a": false,
+          "why": "Researchers measured penguins at a zoo near Santiago, and the prototypes were sent off to the rescue center afterward."
+        },
+        {
+          "s": "Zinc in the fabric helps new blood vessels form.",
+          "a": true,
+          "why": "Copper and zinc hold back bacteria and fungi, and zinc helps new blood vessels form so damaged tissue recovers faster."
+        },
+        {
+          "s": "The team has proved that the vests speed up healing.",
+          "a": false,
+          "why": "The veterinarian said the birds put up with the vests well and wounds looked better within a day, but the team has not yet proved that the vests speed up healing."
+        },
+        {
+          "s": "Surveys found 63 percent fewer active nests than three years earlier.",
+          "a": true,
+          "why": "Surveys of the main breeding colonies in 2024 and 2025 found 63 percent fewer active nests, and El Niño drives away the fish the penguins eat."
+        },
+        {
+          "s": "Before the vests, bandages on the penguins were changed once a week.",
+          "a": false,
+          "why": "Penguins peck at wounds and pull out their stitches, and bandages had to be changed daily."
+        }
+      ]
+    },
+    {
+      "id": "nyc-clean-air-children-2026",
+      "number": 106,
+      "headline": "Cleaner New York air linked to higher toddler scores",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n106-nyc-clean-air-children-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Clean Air Policies Linked to Improved Cognition Among New York City Children (Columbia Mailman School of Public Health)",
+          "url": "https://www.publichealth.columbia.edu/news/clean-air-policies-linked-improved-cognition-among-new-york-city-children"
+        },
+        {
+          "title": "Less air pollution previously related to clean air and climate policies is linked to improved cognitive scores over time in NYC children (Environmental Health)",
+          "url": "https://link.springer.com/article/10.1186/s12940-026-01328-1"
+        },
+        {
+          "title": "Clean Air Policies Help Kids Breathe and Think Better (Inside Climate News)",
+          "url": "https://insideclimatenews.org/news/26082026/reducing-air-pollution-can-help-childrens-health/"
+        },
+        {
+          "title": "Cleaner city air linked to better cognitive development in children (Earth.com)",
+          "url": "https://www.earth.com/environment/cleaner-city-air-linked-to-better-cognitive-development-in-children/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "New York City children scored higher on tests of early [[mental development]] as the air their mothers breathed during [[pregnancy]] got cleaner, Columbia University reports. The study {{came out}} in the [[journal]] Environmental Health on August 15, 2026. The team followed more than 1,000 mother-child pairs who {{signed up}} between 1998 and 2020 in Northern Manhattan and the South Bronx, two [[low-income]] areas where the children {{grew up}}.",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To be published in a journal",
+              "wrong": "To be mentioned in a report",
+              "correctFirst": true,
+              "why": "A new album comes out every spring, and the exam results come out in July. This study came out in the journal Environmental Health on August 15, 2026."
+            },
+            {
+              "display": "signed up",
+              "base": "sign up",
+              "correct": "To join a study or program",
+              "wrong": "To give official approval",
+              "correctFirst": false,
+              "why": "You can sign up for a gym class online, and thousands of volunteers sign up for the marathon each year. More than 1,000 mother-child pairs signed up for the Columbia study between 1998 and 2020."
+            },
+            {
+              "display": "grew up",
+              "base": "grow up",
+              "correct": "To spend childhood in a place",
+              "wrong": "To become more liked over time",
+              "correctFirst": true,
+              "why": "She grew up on a farm in Iowa, and my neighbor grew up speaking two languages. The children in the study grew up in Northern Manhattan and the South Bronx."
+            }
+          ]
+        },
+        {
+          "text": "Columbia says [[fine particles]] {{went down}} 32 percent and nitrogen dioxide 30 percent from 1998 to 2016. A group of [[harmful chemicals]] from burning [[fossil fuels]] fell 60 percent from 1998 to 2020. Pregnant women wore backpack [[monitors]] to measure those chemicals, and the other [[pollutants]] were [[estimated]] at each home. The children were tested at ages 1, 2, and 3. Scores at age 3 {{went up}} 26 percent between the earliest and latest groups, after the team {{factored in}} the mother's education, the child's sex, and smoking in the home.",
+          "verbs": [
+            {
+              "display": "went down",
+              "base": "go down",
+              "correct": "To fall to a lower level",
+              "wrong": "To continue for a long time",
+              "correctFirst": false,
+              "why": "Gas prices went down last month, and the temperature goes down at night. Fine particles in the city's air went down 32 percent between 1998 and 2016."
+            },
+            {
+              "display": "went up",
+              "base": "go up",
+              "correct": "To rise to a higher level",
+              "wrong": "To check something carefully",
+              "correctFirst": true,
+              "why": "Rents went up again this year, and her grades went up after she changed schools. Test scores at age 3 went up 26 percent from the earliest group of children to the latest."
+            },
+            {
+              "display": "factored in",
+              "base": "factor in",
+              "correct": "To include something in a calculation",
+              "wrong": "To test something a second time",
+              "correctFirst": false,
+              "why": "When you plan a trip, factor in the cost of parking, and a good budget factors in a few surprises. The team factored in the mother's education, the child's sex, and smoking in the home before comparing the scores."
+            }
+          ]
+        },
+        {
+          "text": "The researchers link the cleaner air to policies the city {{brought in}} during those years. The Clean Fuel Bus Program and Clean Air Taxi [[legislation]] {{cut down on}} [[traffic emissions]]. The Clean Heat Program {{phased out}} dirty [[heating oil]] in buildings, and the Climate Mobilization Act required larger buildings to reduce [[greenhouse gases]]. \"Policies to reduce fossil fuel emissions benefit developing brains,\" said the Columbia professor who led the study, adding that the results support efforts to {{keep up}} the cuts.",
+          "verbs": [
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "correct": "To introduce a new law or rule",
+              "wrong": "To mention a subject for discussion",
+              "correctFirst": true,
+              "why": "The school brought in a ban on cell phones, and the state brought in a new speed limit last year. New York City brought in several clean-air policies during the years of the study."
+            },
+            {
+              "display": "cut down on",
+              "base": "cut down on",
+              "correct": "To reduce the amount of something",
+              "wrong": "To stop the supply of something",
+              "correctFirst": false,
+              "why": "My doctor told me to cut down on salt, and we cut down on driving to save money. The bus program and the taxi legislation cut down on traffic emissions in the city."
+            },
+            {
+              "display": "phased out",
+              "base": "phase out",
+              "correct": "To end the use of something gradually",
+              "wrong": "To introduce something in stages",
+              "correctFirst": true,
+              "why": "The airline phased out its oldest planes, and many stores have phased out plastic bags. The Clean Heat Program phased out dirty heating oil in New York buildings."
+            },
+            {
+              "display": "keep up",
+              "base": "keep up",
+              "correct": "To continue at the same level",
+              "wrong": "To prevent something from entering",
+              "correctFirst": false,
+              "why": "It is hard to keep up a diet on vacation, and the team kept up its winning streak all season. The Columbia professor who led the study said the results support efforts to keep up the cuts in emissions."
+            }
+          ]
+        },
+        {
+          "text": "The team {{set out}} to test whether cleaner air from these policies was linked to better [[cognitive scores]], the first study to do so over 20 years. It has limits. Only 1,109 of the 1,446 children had test results, so the rest were {{left out}}. The authors also {{point out}} that changes the study did not measure, such as [[shifts]] in the neighborhoods, could {{account for}} part of the [[gains]].",
+          "verbs": [
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To begin a task with a clear aim",
+              "wrong": "To save something for later use",
+              "correctFirst": true,
+              "why": "She set out to learn Spanish in a year, and the company set out to double its sales. The team set out to test whether cleaner air was linked to better cognitive scores."
+            },
+            {
+              "display": "left out",
+              "base": "leave out",
+              "correct": "To not include something",
+              "wrong": "To keep something for later",
+              "correctFirst": false,
+              "why": "The editor left out the last chapter, and he felt hurt when his friends left him out of the trip. Children without test results were left out of the analysis."
+            },
+            {
+              "display": "point out",
+              "base": "point out",
+              "correct": "To tell people about a fact",
+              "wrong": "To be a sign of something",
+              "correctFirst": true,
+              "why": "The guide pointed out the oldest house on the street, and my sister pointed out a mistake in my email. The authors point out that changes the study did not measure could also affect the results."
+            },
+            {
+              "display": "account for",
+              "base": "account for",
+              "correct": "To be the cause of something",
+              "wrong": "To measure something exactly",
+              "correctFirst": false,
+              "why": "Bad weather accounted for most of the flight delays, and a loose wire accounted for the power going out. The authors say shifts in the neighborhoods could account for part of the gains."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come out",
+          "def": "To be published in a journal",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "Her first novel came out in 2019.",
+            "The new report comes out on Friday.",
+            "The study came out last week."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "def": "To join a study or program",
+          "ipa": "/saɪn ʌp/",
+          "ex": [
+            "I signed up for a Spanish class.",
+            "Two hundred people signed up for the trial.",
+            "You can sign up online in a few minutes."
+          ]
+        },
+        {
+          "verb": "Grow up",
+          "def": "To spend childhood in a place",
+          "ipa": "/ɡroʊ ʌp/",
+          "ex": [
+            "He grew up in a small town in Texas.",
+            "My parents grew up near the ocean.",
+            "Children who grow up in cities see fewer stars."
+          ]
+        },
+        {
+          "verb": "Go down",
+          "def": "To fall to a lower level",
+          "ipa": "/ɡoʊ daʊn/",
+          "ex": [
+            "Prices went down after New Year's.",
+            "The number of accidents went down.",
+            "The fever went down by morning."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To rise to a higher level",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "The rent goes up every year.",
+            "Her test scores went up this semester.",
+            "Ticket prices went up again."
+          ]
+        },
+        {
+          "verb": "Factor in",
+          "def": "To include something in a calculation",
+          "ipa": "/ˈfæktər ɪn/",
+          "ex": [
+            "Factor in the tax before you decide.",
+            "The plan does not factor in bad weather.",
+            "We factored in travel time and left early."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To introduce a new law or rule",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "The city brought in a new parking rule.",
+            "The company brought in a dress code.",
+            "Lawmakers plan to bring in stricter limits."
+          ]
+        },
+        {
+          "verb": "Cut down on",
+          "def": "To reduce the amount of something",
+          "ipa": "/kʌt daʊn ɑn/",
+          "ex": [
+            "I need to cut down on coffee.",
+            "The factory cut down on waste.",
+            "We cut down on driving to save gas."
+          ]
+        },
+        {
+          "verb": "Phase out",
+          "def": "To end the use of something gradually",
+          "ipa": "/feɪz aʊt/",
+          "ex": [
+            "The airline is phasing out its older planes.",
+            "The store phased out plastic bags.",
+            "Coal plants will be phased out by 2035."
+          ]
+        },
+        {
+          "verb": "Keep up",
+          "def": "To continue at the same level",
+          "ipa": "/kip ʌp/",
+          "ex": [
+            "She kept up her daily walks all winter.",
+            "It is hard to keep up a good habit.",
+            "The team kept up the pressure in the second half."
+          ]
+        },
+        {
+          "verb": "Set out",
+          "def": "To begin a task with a clear aim",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "They set out to build a cheaper car.",
+            "He set out to run a marathon before 40.",
+            "The team set out to answer one question."
+          ]
+        },
+        {
+          "verb": "Leave out",
+          "def": "To not include something",
+          "ipa": "/liv aʊt/",
+          "ex": [
+            "Don't leave out your phone number on the form.",
+            "The report left out two important facts.",
+            "She left the sugar out of the recipe."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people about a fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "The teacher pointed out a mistake in my essay.",
+            "He pointed out that the store closes at six.",
+            "Let me point out one problem with the plan."
+          ]
+        },
+        {
+          "verb": "Account for",
+          "def": "To be the cause of something",
+          "ipa": "/əˈkaʊnt fɔr/",
+          "ex": [
+            "Traffic accounts for most of the noise here.",
+            "The storm accounted for the delay.",
+            "Stress may account for her headaches."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "mental development",
+          "def": "The growth of a child's ability to think, learn, and understand",
+          "ipa": "/ˈmɛntəl dɪˈvɛləpmənt/",
+          "ex": [
+            "Play is important for a child's mental development.",
+            "Doctors check mental development at each visit.",
+            "Good nutrition supports mental development."
+          ]
+        },
+        {
+          "word": "pregnancy",
+          "def": "The time when a woman has a baby growing inside her",
+          "ipa": "/ˈprɛɡnənsi/",
+          "ex": [
+            "She stopped drinking coffee during her pregnancy.",
+            "The doctor followed her through the whole pregnancy.",
+            "Smoking during pregnancy can harm the baby."
+          ]
+        },
+        {
+          "word": "journal",
+          "def": "A magazine where scientists publish their research",
+          "ipa": "/ˈdʒɜrnəl/",
+          "ex": [
+            "The paper appeared in a medical journal.",
+            "The journal prints new studies every month.",
+            "Experts review each article before the journal publishes it."
+          ]
+        },
+        {
+          "word": "low-income",
+          "def": "Having little money compared with most people",
+          "ipa": "/loʊ ˈɪnkʌm/",
+          "ex": [
+            "The program helps low-income families pay for heat.",
+            "Many low-income neighborhoods have fewer parks.",
+            "The clinic offers free care to low-income patients."
+          ]
+        },
+        {
+          "word": "pollutants",
+          "def": "Substances that make air, water, or soil dirty or harmful",
+          "ipa": "/pəˈlutənts/",
+          "ex": [
+            "Cars release pollutants into the air.",
+            "The river carries pollutants from the factory.",
+            "Masks can block some pollutants."
+          ]
+        },
+        {
+          "word": "fine particles",
+          "def": "Tiny pieces of dust or smoke in the air that can enter the lungs",
+          "ipa": "/faɪn ˈpɑrtɪkəlz/",
+          "ex": [
+            "Wildfire smoke is full of fine particles.",
+            "Fine particles from traffic can reach the lungs.",
+            "The monitor counts fine particles in the air."
+          ]
+        },
+        {
+          "word": "harmful chemicals",
+          "def": "Substances that can damage health",
+          "ipa": "/ˈhɑrmfəl ˈkɛmɪkəlz/",
+          "ex": [
+            "Some cleaning products contain harmful chemicals.",
+            "The factory released harmful chemicals into the river.",
+            "Cigarette smoke has dozens of harmful chemicals."
+          ]
+        },
+        {
+          "word": "fossil fuels",
+          "def": "Coal, oil, and natural gas, burned for energy",
+          "ipa": "/ˈfɑsəl ˈfjuəlz/",
+          "ex": [
+            "Most trucks still run on fossil fuels.",
+            "Burning fossil fuels warms the planet.",
+            "The city wants to use fewer fossil fuels by 2040."
+          ]
+        },
+        {
+          "word": "monitors",
+          "def": "Devices that measure and record something over time",
+          "ipa": "/ˈmɑnɪtərz/",
+          "ex": [
+            "Air monitors on the roof track pollution levels.",
+            "The nurse attached heart monitors to the patient.",
+            "Small monitors in the backpack measured the air."
+          ]
+        },
+        {
+          "word": "estimated",
+          "def": "Calculated roughly rather than measured exactly",
+          "ipa": "/ˈɛstəˌmeɪtɪd/",
+          "ex": [
+            "The estimated cost of the bridge is 2 billion dollars.",
+            "Police estimated the crowd at 5,000 people.",
+            "Her estimated arrival time is 6 p.m."
+          ]
+        },
+        {
+          "word": "legislation",
+          "def": "A law or set of laws made by a government",
+          "ipa": "/ˌlɛdʒɪsˈleɪʃən/",
+          "ex": [
+            "The new legislation bans smoking in parks.",
+            "Congress passed legislation on clean water.",
+            "The legislation takes effect in January."
+          ]
+        },
+        {
+          "word": "traffic emissions",
+          "def": "Gases and particles released by cars, trucks, and buses",
+          "ipa": "/ˈtræfɪk ɪˈmɪʃənz/",
+          "ex": [
+            "Traffic emissions are worst during rush hour.",
+            "The city measures traffic emissions on major roads.",
+            "Electric buses produce no traffic emissions."
+          ]
+        },
+        {
+          "word": "heating oil",
+          "def": "Oil burned in a building to keep it warm",
+          "ipa": "/ˈhitɪŋ ɔɪl/",
+          "ex": [
+            "Many old buildings still burn heating oil.",
+            "The price of heating oil rises in winter.",
+            "The truck delivers heating oil to the apartment building."
+          ]
+        },
+        {
+          "word": "greenhouse gases",
+          "def": "Gases such as carbon dioxide that trap heat in the atmosphere",
+          "ipa": "/ˈɡrinˌhaʊs ˈɡæsɪz/",
+          "ex": [
+            "Cars and power plants produce greenhouse gases.",
+            "The law aims to cut greenhouse gases by half.",
+            "Cows release greenhouse gases too."
+          ]
+        },
+        {
+          "word": "cognitive scores",
+          "def": "Results on tests of thinking, memory, and learning",
+          "ipa": "/ˈkɑɡnɪtɪv skɔrz/",
+          "ex": [
+            "Sleep improves children's cognitive scores.",
+            "The patients' cognitive scores were checked every year.",
+            "Lead exposure lowers cognitive scores."
+          ]
+        },
+        {
+          "word": "shifts",
+          "def": "Changes from one situation to another",
+          "ipa": "/ʃɪfts/",
+          "ex": [
+            "There have been big shifts in how people shop.",
+            "The survey shows shifts in public opinion.",
+            "Small shifts in temperature can hurt the crops."
+          ]
+        },
+        {
+          "word": "gains",
+          "def": "Improvements or increases",
+          "ipa": "/ɡeɪnz/",
+          "ex": [
+            "The students made big gains in reading.",
+            "The company reported gains in sales.",
+            "Small daily gains add to a large result."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Researchers followed New York City families for over 20 years as pollution from traffic and heating fell. Cleaner air during pregnancy was linked to higher early development scores in children.",
+          "a": true,
+          "why": "More than 1,000 mother-child pairs were followed from 1998 to 2020, and scores at age 3 went up 26 percent as fine particles, nitrogen dioxide, and the chemicals from fossil fuels fell."
+        },
+        {
+          "s": "A 20-year study found that New York City children scored higher on development tests as air pollution fell. The researchers say the cleaner air came mainly from the closing of old factories.",
+          "a": false,
+          "why": "Close, but the researchers link the cleaner air to city policies on buses, taxis, heating oil, and building emissions, not to factory closings."
+        },
+        {
+          "s": "New York City has passed a law requiring every school bus to run on electricity by 2035. Health officials say the change will protect children from harmful exhaust in their daily commute.",
+          "a": false,
+          "why": "There was no new school bus law. The study looked at policies passed between 1998 and 2020 and at how children's test scores changed as the air got cleaner."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The chemicals from burning fossil fuels fell 60 percent by 2020.",
+          "a": true,
+          "why": "Columbia reported that the harmful chemicals from burning fossil fuels fell 60 percent from 1998 to 2020, while fine particles and nitrogen dioxide went down about 30 percent."
+        },
+        {
+          "s": "The children were tested at ages 5, 6, and 7.",
+          "a": false,
+          "why": "The children took a standard test at ages 1, 2, and 3, and scores at age 3 went up 26 percent from the earliest group to the latest."
+        },
+        {
+          "s": "More than 1,000 mother-child pairs signed up for the study.",
+          "a": true,
+          "why": "They signed up between 1998 and 2020 in Northern Manhattan and the South Bronx, and the pregnant women wore backpack monitors to measure the chemicals."
+        },
+        {
+          "s": "The Clean Heat Program phased out dirty heating oil in buildings.",
+          "a": true,
+          "why": "The Clean Heat Program phased out dirty heating oil, and the Climate Mobilization Act required larger buildings to reduce greenhouse gases."
+        },
+        {
+          "s": "The study came out in the journal Science on August 15, 2026.",
+          "a": false,
+          "why": "The study came out in the journal Environmental Health on August 15, 2026, from researchers at Columbia University."
+        },
+        {
+          "s": "All 1,446 children in the study had test results.",
+          "a": false,
+          "why": "Only 1,109 of the 1,446 children had test results, so the rest were left out of the analysis."
+        }
+      ]
+    },
     {
       "id": "weekend-sleep-in-study-2026",
       "number": 105,

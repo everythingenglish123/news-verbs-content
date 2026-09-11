@@ -1,0 +1,441 @@
+{
+  "id": "penguin-healing-vests-2026",
+  "number": 107,
+  "lang": "hu",
+  "headline": "Sérült pingvinek Chilében rézmellényt viselnek",
+  "chunks": [
+    "Chilei kutatók testhezálló piros mellényeket próbálnak ki sérült Humboldt-pingvineken. Az anyagot rézzel és cinkkel szőtték, ami segíthet a sebeknek gyorsabban gyógyulni. Állatorvosok hasonló ruhákat használnak kutyákon és macskákon, egy chilei csapat pedig kifejlesztett egy pingvinváltozatot. „Elkezdtünk azon gondolkodni, miért ne lehetne ezt pingvineken is használni\", mondta egy Santiago melletti állatkert igazgatója az Associated Pressnek 2026. szeptember 2-án.",
+    "Chile északi részén egy nonprofit mentőközpont fogadja be a partról érkező, bajba jutott pingvineket. Néhányat halászhálók vagy hajócsavarok sebesítettek meg, mások pedig az éhségtől gyengék, mondta a programot vezető állatorvos. A pingvinek elcsavarják a nyakukat, hogy a sebeiket csipkedjék és kiszedjék a varrataikat, ezért a kötéseket naponta kellett cserélni. A személyzet kezelésre leveszi a mellényt, majd gyorsan visszateszi, ami csökkenti a madarakkal való érintkezést.",
+    "A réz és a cink megakadályozza a baktériumok és gombák elszaporodását, a cink pedig segíti új erek kialakulását, így a sérült szövet gyorsabban gyógyul. Chile a világ legnagyobb rézkitermelője. A chilei gyártó több mint 40 országban árulja a kisállatoknak szánt változatot. A négylábú kisállatoknak készült ruhák hajlamosak lecsúszni egy egyenesen álló madárról, ezért a tervezők megmérték az uszonyokat, a nyakat és a farkat, majd az állatkertben teszteltek prototípusokat, mielőtt elküldték őket a mentőközpontba.",
+    "Chile Humboldt-pingvinjei, egy veszélyeztetett faj, erősen fogynak. A fő szaporodó telepek 2024-es és 2025-ös felmérései 63 százalékkal kevesebb aktív fészket találtak, mint három évvel korábban. Az El Niño felmelegíti a tengert, és elűzi a halakat, amelyekkel a pingvinek táplálkoznak, ezért a szülők hátrahagyják a fiókáikat, hogy vadászni induljanak. Az állatorvos elmondta, hogy a madarak jól tűrték a mellényeket, és a sebek egy nap alatt jobban néztek ki, de a csapat még nem bizonyította, hogy a mellények felgyorsítják a gyógyulást."
+  ],
+  "verbs": [
+    {
+      "base": "try out",
+      "correct": "Kipróbálni valamit, hogy lássuk, hogyan működik",
+      "wrong": "Ruhát felvenni, hogy ellenőrizzük a méretét"
+    },
+    {
+      "base": "heal up",
+      "correct": "Újra egészségessé válni",
+      "wrong": "Nagyon szorosan bezárni valamit"
+    },
+    {
+      "base": "come up with",
+      "correct": "Kitalálni egy ötletet vagy tervet",
+      "wrong": "Szembekerülni egy nehéz problémával"
+    },
+    {
+      "base": "take in",
+      "correct": "Befogadni valakit és gondoskodni róla",
+      "wrong": "Átvenni az irányítást egy hely felett"
+    },
+    {
+      "base": "pull out",
+      "correct": "Kihúzni valamit húzással",
+      "wrong": "Felépülni egy súlyos betegségből"
+    },
+    {
+      "base": "take off",
+      "correct": "Levenni valamit, amit visel az ember",
+      "wrong": "Gondoskodni egy beteg vagy sérült állatról"
+    },
+    {
+      "base": "cut down on",
+      "correct": "Csökkenteni valamiből a mennyiséget",
+      "wrong": "Elkülöníteni valakit a többiektől"
+    },
+    {
+      "base": "hold back",
+      "correct": "Megakadályozni, hogy valami terjedjen",
+      "wrong": "Melegen és szárazon tartani valamit"
+    },
+    {
+      "base": "slip down",
+      "correct": "Lecsúszni egy alacsonyabb helyzetbe",
+      "wrong": "Elkövetni egy apró figyelmetlen hibát"
+    },
+    {
+      "base": "send off",
+      "correct": "Elküldeni valamit egy helyre",
+      "wrong": "Visszaküldeni valamit a gyártójának"
+    },
+    {
+      "base": "drive away",
+      "correct": "Kényszeríteni valamit, hogy elmenjen",
+      "wrong": "Gyorsan felemelkedésre késztetni valamit"
+    },
+    {
+      "base": "leave behind",
+      "correct": "Elmenni valahová anélkül, hogy valakit magával vinne",
+      "wrong": "Nem belefoglalni valamit egy adott csoportba"
+    },
+    {
+      "base": "put up with",
+      "correct": "Panasz nélkül elviselni valamit",
+      "wrong": "Ruhát adni egy állatra"
+    },
+    {
+      "base": "speed up",
+      "correct": "Gyorsabbá tenni valamit",
+      "wrong": "Teljesen felhasználni valamit"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Try out",
+      "def": "Kipróbálni valamit, hogy lássuk, hogyan működik",
+      "ex": [
+        "Az iskola ezen az őszön egy új órarendet próbál ki.",
+        "Ki akarom próbálni a biciklit, mielőtt megveszem.",
+        "Három receptet próbáltak ki a buliba."
+      ]
+    },
+    {
+      "verb": "Heal up",
+      "def": "Újra egészségessé válni",
+      "ex": [
+        "A vágás a kezemen néhány nap alatt begyógyult.",
+        "Adj időt az égési sebnek, hogy meggyógyuljon.",
+        "A bokája meggyógyult, mielőtt elkezdődött a szezon."
+      ]
+    },
+    {
+      "verb": "Come up with",
+      "def": "Kitalálni egy ötletet vagy tervet",
+      "ex": [
+        "Remek nevet talált ki a csapatnak.",
+        "Péntekig ki kell találnunk egy tervet.",
+        "A zuhany alatt jutott eszébe az ötlet."
+      ]
+    },
+    {
+      "verb": "Take in",
+      "def": "Befogadni valakit és gondoskodni róla",
+      "ex": [
+        "A menhely otthontalan kutyákat fogad be.",
+        "Befogadtak két külföldi diákot.",
+        "A kórház a vihar után több tucat beteget vett fel."
+      ]
+    },
+    {
+      "verb": "Pull out",
+      "def": "Kihúzni valamit húzással",
+      "ex": [
+        "A fogorvos kihúzta a bölcsességfogamat.",
+        "Csipesszel kihúzott egy szálkát.",
+        "Kigyomlálta a gazt a kerítés mentén."
+      ]
+    },
+    {
+      "verb": "Take off",
+      "def": "Levenni valamit, amit visel az ember",
+      "ex": [
+        "Vedd le a kabátodat, és ülj le.",
+        "Levette a szemüvegét, hogy elolvassa a táblát.",
+        "A nővér levette a régi kötést."
+      ]
+    },
+    {
+      "verb": "Cut down on",
+      "def": "Csökkenteni valamiből a mennyiséget",
+      "ex": [
+        "Megpróbálom csökkenteni a cukorfogyasztást.",
+        "A város csökkenteni akarja a belvárosi forgalmat.",
+        "Csökkentettük a nyomtatást, hogy papírt spóroljunk."
+      ]
+    },
+    {
+      "verb": "Hold back",
+      "def": "Megakadályozni, hogy valami terjedjen",
+      "ex": [
+        "Homokzsákok tartották vissza az árvíz vizét.",
+        "A gyógyszer megakadályozza a fertőzés terjedését.",
+        "A rendőrség visszatartotta a tömeget a kapunál."
+      ]
+    },
+    {
+      "verb": "Slip down",
+      "def": "Lecsúszni egy alacsonyabb helyzetbe",
+      "ex": [
+        "A zoknim állandóan lecsúszik a csizmámban.",
+        "A pánt lecsúszott a válláról.",
+        "A baba sapkája a szemére csúszott."
+      ]
+    },
+    {
+      "verb": "Send off",
+      "def": "Elküldeni valamit egy helyre",
+      "ex": [
+        "Hétfőn elküldte a csomagot.",
+        "Elküldtük a mintákat a laborba.",
+        "Múlt héten elküldte a jelentkezését."
+      ]
+    },
+    {
+      "verb": "Drive away",
+      "def": "Kényszeríteni valamit, hogy elmenjen",
+      "ex": [
+        "A zaj elűzte a madarakat az udvarból.",
+        "A magas árak sok vásárlót elűztek.",
+        "A meleg víz elűzi a halakat."
+      ]
+    },
+    {
+      "verb": "Leave behind",
+      "def": "Elmenni valahová anélkül, hogy valakit magával vinne",
+      "ex": [
+        "A család hátrahagyta a kutyát a költözéskor.",
+        "Otthagyta a kisöccsét, és elment a parkba.",
+        "A busz hátrahagyott három utast."
+      ]
+    },
+    {
+      "verb": "Put up with",
+      "def": "Panasz nélkül elviselni valamit",
+      "ex": [
+        "Már nem bírom tovább elviselni ezt a zajt.",
+        "Hetekig elviselte a fájdalmat.",
+        "A kutya panasz nélkül elviselte a fürdést."
+      ]
+    },
+    {
+      "verb": "Speed up",
+      "def": "Gyorsabbá tenni valamit",
+      "ex": [
+        "Az új út felgyorsítja a repülőtérre vezető utat.",
+        "A meleg időjárás felgyorsítja a növények növekedését.",
+        "Egy gyorsabb számítógép felgyorsította a munkánkat."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "snug",
+      "def": "Szorosan és kényelmesen simuló a testhez",
+      "ex": [
+        "A dzseki szorosan simult a vállra.",
+        "A baba melegen bebugyolálva feküdt a takarójában.",
+        "Ez a csizma szorosan simul, de nem szorít."
+      ]
+    },
+    {
+      "word": "woven",
+      "def": "Úgy készült, hogy a szálakat egymás fölé és alá keresztezték",
+      "ex": [
+        "A kosarat vékony fadarabokból szőtték.",
+        "Ezüstszálat szőttek a ruhába.",
+        "A szőnyeget kézzel szőtték Peruban."
+      ]
+    },
+    {
+      "word": "wounds",
+      "def": "Sérülések, ahol a bőr elvágott vagy megsérült",
+      "ex": [
+        "A nővér megtisztította a sebeket a karján.",
+        "A mély sebek varratot igényelhetnek.",
+        "A kutya megnyalta a sebet a mancsán."
+      ]
+    },
+    {
+      "word": "stranded",
+      "def": "Valahol hátrahagyva, képtelenül elmozdulni vagy elmenni",
+      "ex": [
+        "A mentők egy zátonyra futott bálnát találtak a parton.",
+        "A vihar több száz utazót rekesztett a repülőtéren.",
+        "Egy zátonyra futott fókát vittek vissza a vízbe."
+      ]
+    },
+    {
+      "word": "fishing nets",
+      "def": "Nagy hálók, amelyeket halászatra használnak a tengeren",
+      "ex": [
+        "A régi halászhálók teknősöket és madarakat foghatnak csapdába.",
+        "A legénység megjavította a halászhálókat a dokkban.",
+        "A búvárok halászhálókat távolítottak el a zátonyról."
+      ]
+    },
+    {
+      "word": "propellers",
+      "def": "Forgó lapátok, amelyek egy hajót vagy repülőgépet előre hajtanak",
+      "ex": [
+        "A hajócsavarok megsebesíthetik a tengeri állatokat.",
+        "A repülőgépnek két propellere van mindkét szárnyon.",
+        "Vízinövények akadtak fenn a hajócsavaron."
+      ]
+    },
+    {
+      "word": "nonprofit",
+      "def": "Emberek vagy állatok segítésére dolgozik, nem pénzkeresésre",
+      "ex": [
+        "Egy nonprofit szervezetet vezet, amely hajléktalan családokat táplál.",
+        "A nonprofit szervezet adományokra szorul.",
+        "Egy nonprofit csoport fákat ültetett a parkban."
+      ]
+    },
+    {
+      "word": "rescue center",
+      "def": "Egy hely, ahol állatokat mentenek meg és ápolnak",
+      "ex": [
+        "A mentőközpont három kis fókát fogadott be.",
+        "A mentőközpont önkéntesei naponta kétszer etetik a madarakat.",
+        "A teknőst májusban engedték szabadon a mentőközpontból."
+      ]
+    },
+    {
+      "word": "peck",
+      "def": "Csőrrel ütni vagy harapni valamit",
+      "ex": [
+        "A tyúkok magvakat csipegetnek a földről.",
+        "A papagáj megcsípte az ujjamat.",
+        "A harkály lyukakat csipeget a fákba."
+      ]
+    },
+    {
+      "word": "stitches",
+      "def": "Fonalak, amelyeket egy orvos használ egy vágás bezárására",
+      "ex": [
+        "Hat öltésre volt szüksége az állán.",
+        "Az orvos tíz nap után eltávolította az öltéseket.",
+        "Ne áztasd be az öltéseket."
+      ]
+    },
+    {
+      "word": "bandages",
+      "def": "Anyagcsíkok, amelyeket egy sérülés köré tekernek",
+      "ex": [
+        "A nővér minden reggel cserélte a kötéseket.",
+        "Tartsd tisztán és szárazon a kötést.",
+        "Kötést tekert a térde köré."
+      ]
+    },
+    {
+      "word": "blood vessels",
+      "def": "Csövek, amelyek a vért szállítják a testben",
+      "ex": [
+        "A mozgás egészségesen tartja az ereidet.",
+        "Apró erek juttatnak oxigént a bőrhöz.",
+        "A vágás több kis eret is károsított."
+      ]
+    },
+    {
+      "word": "tissue",
+      "def": "Az anyag, amelyből a test részei épülnek fel",
+      "ex": [
+        "Az égés károsította a szövetet a bőr alatt.",
+        "Az izomszövet edzés után magától megjavul.",
+        "Az orvosok eltávolították a sérült szövetet."
+      ]
+    },
+    {
+      "word": "upright",
+      "def": "Egyenesen állva, nem fekve",
+      "ex": [
+        "A pingvinek egyenesen állva járnak két lábon.",
+        "Tartsd egyenesen az üveget, nehogy kiömöljön.",
+        "Egyenesen ült, amikor a tanár belépett."
+      ]
+    },
+    {
+      "word": "flippers",
+      "def": "A lapos végtagok, amelyekkel a pingvinek és a fókák úsznak",
+      "ex": [
+        "A pingvin megcsapkodta az uszonyait, és belemerült.",
+        "A fókák az uszonyaikat használják a szárazföldön való mozgáshoz.",
+        "A teknős uszonyai belegabalyodtak egy hálóba."
+      ]
+    },
+    {
+      "word": "prototypes",
+      "def": "Egy termék tesztelésre készített első változatai",
+      "ex": [
+        "A cég három prototípust épített az új autóból.",
+        "A mérnökök egy hónapig tesztelték a prototípust.",
+        "Az első prototípusok túl nehezek voltak."
+      ]
+    },
+    {
+      "word": "vulnerable species",
+      "def": "Egy olyan állat- vagy növényfaj, amely a kihalás veszélyében van",
+      "ex": [
+        "A jegesmedve veszélyeztetett fajként szerepel.",
+        "Törvények védik a veszélyeztetett fajokat a vadászattól.",
+        "A tudósok jelölőkkel követik a veszélyeztetett fajokat."
+      ]
+    },
+    {
+      "word": "breeding colonies",
+      "def": "Helyek, ahol sok állat gyűlik össze, hogy fiatalokat neveljen",
+      "ex": [
+        "Ezer tengeri madár tér vissza minden tavasszal a szaporodó telepekre.",
+        "A szigeten van a fókák egyik legnagyobb szaporodó telepe.",
+        "A turisták nem léphetnek be a szaporodó telepre."
+      ]
+    },
+    {
+      "word": "active nests",
+      "def": "Fészkek, amelyeket madarak használnak fiókáik felneveléséhez",
+      "ex": [
+        "Az őrök 200 aktív fészket számoltak meg a sziklafalon.",
+        "Az aktív fészkek száma csökkent a vihar után.",
+        "Minden aktív fészekben két tojás volt."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "A mellények pirosak, és rezet és cinket tartalmaznak.",
+      "a": true,
+      "why": "Chilei kutatók testhezálló piros mellényeket próbálnak ki, amelyeknek anyagát rézzel és cinkkel szőtték."
+    },
+    {
+      "s": "A pingvineket a mentőközpontban mérték le az első mellényekhez.",
+      "a": false,
+      "why": "A kutatók egy Santiago melletti állatkertben mérték le a pingvineket, és a prototípusokat utána küldték el a mentőközpontba."
+    },
+    {
+      "s": "Az anyagban lévő cink segíti új erek kialakulását.",
+      "a": true,
+      "why": "A réz és a cink megakadályozza a baktériumok és gombák elszaporodását, a cink pedig segíti új erek kialakulását, így a sérült szövet gyorsabban gyógyul."
+    },
+    {
+      "s": "A csapat bebizonyította, hogy a mellények felgyorsítják a gyógyulást.",
+      "a": false,
+      "why": "Az állatorvos elmondta, hogy a madarak jól tűrték a mellényeket, és a sebek egy nap alatt jobban néztek ki, de a csapat még nem bizonyította, hogy a mellények felgyorsítják a gyógyulást."
+    },
+    {
+      "s": "A felmérések 63 százalékkal kevesebb aktív fészket találtak, mint három évvel korábban.",
+      "a": true,
+      "why": "A fő szaporodó telepek 2024-es és 2025-ös felmérései 63 százalékkal kevesebb aktív fészket találtak, és az El Niño elűzi a halakat, amelyekkel a pingvinek táplálkoznak."
+    },
+    {
+      "s": "A mellények előtt a pingvinek kötéseit hetente egyszer cserélték.",
+      "a": false,
+      "why": "A pingvinek csipkedik a sebeiket és kiszedik a varrataikat, ezért a kötéseket naponta kellett cserélni."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Chilei kutatók rézzel és cinkkel szőtt piros mellényeket próbálnak ki sérült Humboldt-pingvineken. A mellények megakadályozzák, hogy a madarak kiszedjék a varrataikat, és segíthetnek a sebeknek gyorsabban bezáródni.",
+      "a": true,
+      "why": "A mellényeket kisállatoknak készült ruhákból alakították át, és az anyagban lévő réz és cink megakadályozza a baktériumok elszaporodását, miközben a ruhadarab megakadályozza, hogy a pingvinek kiszedjék a varrataikat."
+    },
+    {
+      "s": "Chilei mentőközpontok bebizonyították, hogy a rézmellények kétszer olyan gyorsan gyógyítják a pingvinek sebeit, mint a kötések. A ruhákat, amelyeket eredetileg kutyáknak és macskáknak készítettek, most 40 országban állatkerteknek adják el.",
+      "a": false,
+      "why": "Majdnem, de a csapat még nem bizonyította, hogy a mellények felgyorsítják a gyógyulást, és a ruha kisállatoknak szánt változatát adják el több mint 40 országban."
+    },
+    {
+      "s": "Chilei tudósok megszámolták az ország Humboldt-pingvinjeit, és 63 százalékkal kevesebb madarat találtak, mint 2021-ben. A halászhálókat és a műanyagot okolják, és új védett területeket akarnak a part mentén.",
+      "a": false,
+      "why": "A 63 százalékos szám a szaporodó telepeken lévő aktív fészkek csökkenését jelenti, és a hír sérült pingvineken tesztelt mellényekről szól, nem védett területekre vonatkozó tervről."
+    }
+  ],
+  "dialogue": {
+    "I'd pay to see that": "Akkor használjuk, amikor valami olyan bájosnak vagy viccesnek hangzik, hogy tényleg látni szeretnénk",
+    "Poor things": "Akkor használjuk, amikor együttérzést fejezünk ki szenvedő állatok vagy emberek iránt",
+    "That figures": "Akkor használjuk, amikor valami logikussá válik, miután megismerjük a tényeket",
+    "Too soon to say": "Akkor használjuk, amikor még nincs elég bizonyíték ahhoz, hogy megítéljünk valamit",
+    "Every little bit helps": "Akkor használjuk, amikor azt mondjuk, hogy még egy kis hozzájárulás vagy javulás is hasznos"
+  }
+}
