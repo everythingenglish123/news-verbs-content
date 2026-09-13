@@ -1,0 +1,413 @@
+{
+  "id": "sept11-25-years-2026",
+  "number": 109,
+  "lang": "fr",
+  "headline": "Les familles lisent les noms alors que New York marque 25 ans",
+  "chunks": [
+    "Vingt-cinq ans ont passé depuis les attentats du 11 septembre 2001, qui ont fait 2 977 morts. Pour l'anniversaire, les familles se sont réunies sur l'esplanade commémorative de New York pour la cérémonie principale. L'esplanade se trouve à l'emplacement de l'ancien World Trade Center. La plupart des personnes décédées y ont perdu la vie. La cérémonie n'était pas ouverte au grand public. Seuls les familles, les secouristes et les invités ont pu entrer.",
+    "Des membres des familles ont lu à voix haute les noms des victimes par ordre alphabétique. Ils ont lu un par un, et chaque lecteur a pris le relais du précédent. La lecture s'est poursuivie pendant plusieurs heures. Quand venait le tour du nom de leur propre proche, certaines familles ont ajouté quelques mots. Chaque nom a été dit à voix haute. Pour les familles, cette matinée fut un moment pour se souvenir du jour où elles avaient perdu un être cher.",
+    "Sept minutes de silence ont marqué la matinée. La première a eu lieu à 8 h 46, la minute où le premier avion a percuté la tour nord. À 9 h 03, l'esplanade s'est tue une deuxième fois, pour l'instant où le second avion a percuté la tour sud. La troisième, à 9 h 37, était pour l'avion qui a percuté le Pentagone. La tour sud s'est effondrée à 9 h 59. Puis vint 10 h 03, quand un avion s'est écrasé dans un champ à Shanksville, en Pennsylvanie. La sixième était pour 10 h 28, quand la tour nord s'est effondrée.",
+    "La septième minute de silence est venue après la lecture du dernier nom. Elle était dédiée aux survivants et aux secouristes décédés depuis, de maladies liées à la poussière toxique qu'ils avaient respirée. Des cérémonies ont aussi eu lieu au Pentagone et sur le site de Shanksville. Là aussi, des gens sont venus se souvenir. Pour le pays, cet anniversaire fut un jour pour se souvenir d'une matinée vécue vingt-cinq ans plus tôt. Les noms ont été lus, et les silences ont été gardés."
+  ],
+  "verbs": [
+    {
+      "base": "go by",
+      "correct": "Passer, en parlant du temps",
+      "wrong": "Être oublié par la plupart des gens"
+    },
+    {
+      "base": "come together",
+      "correct": "Se réunir en groupe au même endroit",
+      "wrong": "Parler devant une foule de gens"
+    },
+    {
+      "base": "let in",
+      "correct": "Laisser quelqu'un entrer dans un lieu",
+      "wrong": "Demander à quelqu'un de parler d'abord"
+    },
+    {
+      "base": "read out",
+      "correct": "Dire à voix haute des mots écrits",
+      "wrong": "Apprendre quelque chose par cœur"
+    },
+    {
+      "base": "take over",
+      "correct": "Poursuivre une tâche laissée par quelqu'un",
+      "wrong": "Lire quelque chose en silence pour soi"
+    },
+    {
+      "base": "go on",
+      "correct": "Se poursuivre pendant un moment",
+      "wrong": "Se tenir dans une autre ville"
+    },
+    {
+      "base": "come up",
+      "correct": "Arriver dans une liste ou un ordre",
+      "wrong": "Être dit d'une voix très douce"
+    },
+    {
+      "base": "look back on",
+      "correct": "Repenser à un moment du passé",
+      "wrong": "S'occuper de quelqu'un qui est malade"
+    },
+    {
+      "base": "come down",
+      "correct": "Tomber du ciel jusqu'au sol",
+      "wrong": "Voler vers un autre aéroport"
+    },
+    {
+      "base": "pass away",
+      "correct": "Mourir",
+      "wrong": "S'évanouir"
+    },
+    {
+      "base": "breathe in",
+      "correct": "Faire entrer de l'air ou de la poussière dans les poumons",
+      "wrong": "Tousser sans jamais parvenir à s'arrêter du tout"
+    },
+    {
+      "base": "live through",
+      "correct": "Être vivant pendant un événement difficile",
+      "wrong": "Regarder un événement à la télévision"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go by",
+      "def": "Passer, en parlant du temps",
+      "ex": [
+        "Trois ans ont passé avant qu'elle ne retourne dans sa ville natale.",
+        "L'été a passé vite pour les enfants.",
+        "Au fil des semaines, le jardin se remplit de fleurs."
+      ]
+    },
+    {
+      "verb": "Come together",
+      "def": "Se réunir en groupe au même endroit",
+      "ex": [
+        "Tout le village s'est réuni pour la fête des moissons.",
+        "D'anciens camarades de classe se réunissent tous les dix ans.",
+        "Les voisins se sont réunis dans la salle de l'église après l'inondation."
+      ]
+    },
+    {
+      "verb": "Let in",
+      "def": "Laisser quelqu'un entrer dans un lieu",
+      "ex": [
+        "Le musée laisse entrer les visiteurs à partir de dix heures du matin.",
+        "Elle a laissé entrer le chat avant que la pluie ne commence.",
+        "Les gardes ne laissaient entrer que les personnes munies d'un billet."
+      ]
+    },
+    {
+      "verb": "Read out",
+      "def": "Dire à voix haute des mots écrits",
+      "ex": [
+        "L'animateur a lu à voix haute les noms des gagnants.",
+        "L'infirmière a lu à voix haute les instructions du médecin au patient.",
+        "Merci de lire l'adresse à voix haute et lentement pour que je puisse la noter."
+      ]
+    },
+    {
+      "verb": "Take over",
+      "def": "Poursuivre une tâche laissée par quelqu'un",
+      "ex": [
+        "Un second pilote a pris le relais du commandant pour la dernière heure du vol.",
+        "Quand la boulangère est rentrée chez elle, son fils a pris le relais au comptoir.",
+        "Le second orateur a pris le relais du premier sans aucune pause."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "def": "Se poursuivre pendant un moment",
+      "ex": [
+        "Le concert s'est poursuivi pendant près de trois heures.",
+        "La pluie s'est poursuivie tout le week-end.",
+        "La réunion s'est poursuivie bien plus longtemps que prévu."
+      ]
+    },
+    {
+      "verb": "Come up",
+      "def": "Arriver dans une liste ou un ordre",
+      "ex": [
+        "Quand votre nom sera appelé, veuillez vous avancer vers l'accueil.",
+        "Ma chanson est arrivée juste après sur la liste de lecture.",
+        "Notre tour est arrivé après une longue attente à la clinique."
+      ]
+    },
+    {
+      "verb": "Look back on",
+      "def": "Repenser à un moment du passé",
+      "ex": [
+        "Mon grand-père aime repenser à ses années en mer.",
+        "Elle a repensé à son premier emploi avec des sentiments mêlés.",
+        "Des années plus tard, l'équipe a repensé à cette saison avec fierté."
+      ]
+    },
+    {
+      "verb": "Come down",
+      "def": "Tomber du ciel jusqu'au sol",
+      "ex": [
+        "Le cerf-volant est tombé dans le jardin d'un voisin quand le vent est tombé.",
+        "Le petit avion est tombé dans un champ après l'arrêt du moteur.",
+        "Un ballon météo est tombé dans le désert après un long vol."
+      ]
+    },
+    {
+      "verb": "Pass away",
+      "def": "Mourir",
+      "ex": [
+        "Sa grand-mère est morte paisiblement l'hiver dernier.",
+        "Le vieil homme est mort chez lui, entouré de sa famille.",
+        "Le père de notre voisin est mort après une longue maladie."
+      ]
+    },
+    {
+      "verb": "Breathe in",
+      "def": "Faire entrer de l'air ou de la poussière dans les poumons",
+      "ex": [
+        "Le médecin lui a demandé d'inspirer lentement et de retenir son souffle.",
+        "Les pompiers portent des masques pour ne pas inhaler de fumée.",
+        "Elle a respiré l'air froid au sommet de la montagne."
+      ]
+    },
+    {
+      "verb": "Live through",
+      "def": "Être vivant pendant un événement difficile",
+      "ex": [
+        "Mes grands-parents ont vécu la guerre alors qu'ils étaient de jeunes enfants.",
+        "La ville a vécu trois inondations en dix ans.",
+        "Les gens qui ont vécu le séisme se souviennent encore de cette nuit-là."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "anniversary",
+      "def": "la date à laquelle quelque chose s'est produit, chaque année",
+      "ex": [
+        "Mes parents fêtent leur anniversaire de mariage en juin.",
+        "Le musée a ouvert le jour anniversaire de la naissance du fondateur.",
+        "L'année prochaine, c'est le cinquantième anniversaire de l'école."
+      ]
+    },
+    {
+      "word": "memorial plaza",
+      "def": "un espace public en plein air construit pour se souvenir des morts",
+      "ex": [
+        "Des fleurs ont été déposées sur l'esplanade commémorative après la cérémonie.",
+        "La ville a construit une esplanade commémorative près de l'ancienne gare.",
+        "Les visiteurs marchent en silence sur l'esplanade commémorative."
+      ]
+    },
+    {
+      "word": "ceremony",
+      "def": "un événement officiel organisé pour marquer une occasion",
+      "ex": [
+        "La cérémonie de remise des diplômes a duré deux heures.",
+        "Une courte cérémonie a été organisée pour inaugurer le nouveau pont.",
+        "Des médailles ont été remises pendant la cérémonie."
+      ]
+    },
+    {
+      "word": "site",
+      "def": "l'endroit où quelque chose se trouve ou se trouvait",
+      "ex": [
+        "L'emplacement de l'ancienne usine est aujourd'hui un parc.",
+        "Les ouvriers ont dégagé le terrain avant le début des travaux.",
+        "Le château se dresse à l'emplacement d'un ancien fort."
+      ]
+    },
+    {
+      "word": "former",
+      "def": "qui existait dans le passé, pas maintenant",
+      "ex": [
+        "L'hôtel était un ancien hôpital.",
+        "Un de mes anciens professeurs écrit des livres aujourd'hui.",
+        "L'ancienne gare est aujourd'hui un marché."
+      ]
+    },
+    {
+      "word": "general public",
+      "def": "les gens ordinaires, pas un groupe particulier",
+      "ex": [
+        "Le jardin est ouvert au grand public le week-end.",
+        "La réunion était fermée au grand public.",
+        "Les billets seront vendus au grand public lundi."
+      ]
+    },
+    {
+      "word": "rescue workers",
+      "def": "des personnes dont le métier est de sauver des gens en danger",
+      "ex": [
+        "Les secouristes ont fouillé les collines à la recherche des randonneurs perdus.",
+        "Après le séisme, les secouristes sont arrivés en quelques heures.",
+        "Les secouristes ont sorti le conducteur de la rivière."
+      ]
+    },
+    {
+      "word": "invited guests",
+      "def": "des personnes invitées à venir à un événement",
+      "ex": [
+        "Seuls les invités peuvent entrer au mariage.",
+        "Les invités étaient assis aux premiers rangs.",
+        "Une liste d'invités était vérifiée à la porte."
+      ]
+    },
+    {
+      "word": "victims",
+      "def": "des personnes blessées ou tuées par un événement",
+      "ex": [
+        "Les victimes de l'inondation ont été hébergées à l'école.",
+        "Un fonds a été créé pour les familles des victimes.",
+        "Les noms des victimes ont été placés sur un mur."
+      ]
+    },
+    {
+      "word": "alphabetical order",
+      "def": "classé de A à Z selon la première lettre",
+      "ex": [
+        "Les livres sont rangés par ordre alphabétique sur l'étagère.",
+        "Merci de lister les élèves par ordre alphabétique.",
+        "Son nom venait en premier par ordre alphabétique."
+      ]
+    },
+    {
+      "word": "one at a time",
+      "def": "l'un après l'autre, pas tous ensemble",
+      "ex": [
+        "Les enfants sont entrés dans la salle un par un.",
+        "Merci de poser vos questions une à la fois.",
+        "Les voitures ont traversé le pont étroit une par une."
+      ]
+    },
+    {
+      "word": "relative",
+      "def": "un membre de votre famille",
+      "ex": [
+        "Un parent venu du Canada nous rend visite cette semaine.",
+        "Elle n'a plus de famille vivante dans cette ville.",
+        "Il est un parent éloigné du côté de ma mère."
+      ]
+    },
+    {
+      "word": "aloud",
+      "def": "d'une voix que les autres peuvent entendre",
+      "ex": [
+        "La maîtresse a lu le poème à voix haute.",
+        "Il a compté l'argent à voix haute.",
+        "Elle a lu la lettre à voix haute à sa mère."
+      ]
+    },
+    {
+      "word": "moments of silence",
+      "def": "de courts moments où chacun se tait pour se souvenir",
+      "ex": [
+        "La foule a observé une minute de silence avant le match.",
+        "Il y a eu deux minutes de silence pendant la cérémonie.",
+        "La maîtresse a demandé une minute de silence pour l'ancien directeur."
+      ]
+    },
+    {
+      "word": "struck",
+      "def": "a heurté quelque chose avec force",
+      "ex": [
+        "Le ballon a heurté la fenêtre et l'a brisée.",
+        "La foudre a frappé le grand arbre du champ.",
+        "La voiture a heurté une clôture sur la route verglacée."
+      ]
+    },
+    {
+      "word": "survivors",
+      "def": "des personnes qui restent en vie après un événement dangereux",
+      "ex": [
+        "Les survivants de l'incendie ont été transportés à l'hôpital.",
+        "Deux survivants ont été retrouvés sur l'île.",
+        "Des survivants de l'accident ont parlé aux journalistes."
+      ]
+    },
+    {
+      "word": "illnesses",
+      "def": "des maladies ou des problèmes de santé",
+      "ex": [
+        "Certaines maladies sont courantes en hiver.",
+        "La clinique traite des maladies bénignes.",
+        "Il a manqué le travail à cause d'une longue maladie."
+      ]
+    },
+    {
+      "word": "toxic dust",
+      "def": "de très petites particules de matière toxique dans l'air",
+      "ex": [
+        "Les ouvriers portaient des masques pour éviter la poussière toxique.",
+        "La poussière toxique a rempli l'air autour de l'ancienne usine pendant des semaines.",
+        "La poussière toxique de la mine s'est déposée sur la ville."
+      ]
+    },
+    {
+      "word": "held",
+      "def": "organisé, pour un événement ou une réunion",
+      "ex": [
+        "Le festival a lieu chaque année en août.",
+        "La réunion s'est tenue à la mairie.",
+        "Un concert a été organisé pour récolter de l'argent pour l'école."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Des membres des familles ont lu à voix haute les noms des victimes par ordre alphabétique.",
+      "a": true,
+      "why": "Les familles se sont relayées pour lire les noms à voix haute, un par un, de la première à la dernière lettre de l'alphabet."
+    },
+    {
+      "s": "La cérémonie à New York était ouverte au grand public.",
+      "a": false,
+      "why": "La cérémonie n'était pas ouverte au grand public ; seuls les familles, les secouristes et les invités ont pu entrer."
+    },
+    {
+      "s": "La lecture des noms s'est poursuivie pendant plusieurs heures.",
+      "a": true,
+      "why": "Chaque lecteur a pris le relais du précédent, et la lecture a duré plusieurs heures."
+    },
+    {
+      "s": "La septième minute de silence est venue avant la lecture du premier nom.",
+      "a": false,
+      "why": "La septième minute de silence est venue après la lecture du dernier nom, pour les survivants et les secouristes décédés depuis."
+    },
+    {
+      "s": "Des cérémonies ont eu lieu uniquement à New York.",
+      "a": false,
+      "why": "Des cérémonies ont aussi eu lieu au Pentagone et sur le site de Shanksville, où un avion s'est écrasé dans un champ."
+    },
+    {
+      "s": "Certaines familles ont ajouté quelques mots quand le nom de leur proche est arrivé.",
+      "a": true,
+      "why": "Des membres des familles ont lu les noms, et quand venait le tour du nom de leur propre proche, certains ont ajouté quelques mots."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Pour le vingt-cinquième anniversaire des attentats du 11 septembre, des familles se sont réunies sur l'esplanade commémorative de New York. Elles ont lu à voix haute les noms des victimes et ont gardé sept minutes de silence.",
+      "a": true,
+      "why": "La cérémonie principale s'est tenue à l'emplacement de l'ancien World Trade Center, où des membres des familles ont lu chaque nom et où l'esplanade s'est tue sept fois."
+    },
+    {
+      "s": "Pour le vingt-cinquième anniversaire des attentats du 11 septembre, des familles se sont réunies sur l'esplanade commémorative de New York. La cérémonie était ouverte à quiconque souhaitait venir écouter la lecture.",
+      "a": false,
+      "why": "Presque, mais la cérémonie n'était pas ouverte au grand public ; seuls les familles, les secouristes et les invités ont pu entrer."
+    },
+    {
+      "s": "Pour le vingt-cinquième anniversaire des attentats du 11 septembre, la ville de New York a inauguré un nouveau musée sur cette journée. Les visiteurs ont été invités à le parcourir gratuitement tout le week-end.",
+      "a": false,
+      "why": "Aucun nouveau musée n'a été inauguré ; le récit porte sur la cérémonie de l'esplanade commémorative, où des familles ont lu les noms et gardé sept minutes de silence."
+    }
+  ],
+  "dialogue": {
+    "It takes as long as it takes": "S'emploie pour dire que quelque chose ne doit pas être précipité, aussi longtemps que cela prenne.",
+    "after all these years": "S'emploie pour dire que beaucoup de temps a passé, mais que quelque chose reste pareil.",
+    "you don't forget a morning like that": "S'emploie pour dire que certains jours sont si graves qu'ils restent gravés dans la mémoire pour toujours.",
+    "you didn't have to be there": "S'emploie pour dire qu'il n'était pas nécessaire d'être présent pour ressentir la gravité de quelque chose.",
+    "the least anyone can do": "S'emploie pour dire que c'est la moindre chose juste que l'on puisse faire pour quelqu'un."
+  }
+}

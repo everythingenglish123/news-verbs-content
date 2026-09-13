@@ -1,0 +1,413 @@
+{
+  "id": "sept11-25-years-2026",
+  "number": 109,
+  "lang": "tr",
+  "headline": "New York 25. yılı anarken aileler isimleri okuyor",
+  "chunks": [
+    "2.977 kişinin öldüğü 11 Eylül 2001 saldırılarının üzerinden yirmi beş yıl geçti. Yıl dönümünde aileler, New York'taki anma alanında düzenlenen ana törende bir araya geldi. Alan, eski World Trade Center'ın bulunduğu yerde duruyor. Ölenlerin çoğu orada hayatını kaybetti. Tören genel halka açık değildi. Sadece aileler, kurtarma görevlileri ve davetliler içeri alındı.",
+    "Aile üyeleri kurbanların isimlerini alfabetik sırayla yüksek sesle okudu. Birer birer okudular ve her okuyucu bir öncekinden görevi devraldı. Okuma birkaç saat sürdü. Kendi yakınlarının ismi sırasına geldiğinde bazı aileler birkaç söz de kendileri ekledi. Her isim yüksek sesle söylendi. Aileler için o sabah, sevdikleri birini kaybettikleri günü hatırlama zamanıydı.",
+    "Sabahı yedi saygı duruşu belirledi. İlki 8.46'da, ilk uçağın kuzey kuleye çarptığı dakikada geldi. 9.03'te alan ikinci kez sessizliğe büründü, ikinci uçağın güney kuleye çarptığı an için. Üçüncüsü, 9.37'de, Pentagon'a çarpan uçak içindi. Güney kule 9.59'da çöktü. Ardından, bir uçağın Pennsylvania eyaletindeki Shanksville'de bir tarlaya düştüğü 10.03 geldi. Altıncısı, kuzey kulenin çöktüğü 10.28 için düzenlendi.",
+    "Yedinci saygı duruşu son isim okunduktan sonra geldi. Bu, o zamandan bu yana soludukları zehirli tozla bağlantılı hastalıklardan hayatını kaybeden hayatta kalanlar ve kurtarma görevlileri içindi. Pentagon'da ve Shanksville'deki alanda da törenler düzenlendi. Oraya da insanlar hatırlamak için geldi. Ülke için bu yıl dönümü, yirmi beş yıl önce yaşadığı bir sabahı hatırlama günüydü. İsimler okundu, saygı duruşları yapıldı."
+  ],
+  "verbs": [
+    {
+      "base": "go by",
+      "correct": "Zamandan bahsederken, geçmek",
+      "wrong": "Çoğu insan tarafından unutulmak"
+    },
+    {
+      "base": "come together",
+      "correct": "Bir grup halinde aynı yerde toplanmak",
+      "wrong": "Bir kalabalığın önünde konuşmak"
+    },
+    {
+      "base": "let in",
+      "correct": "Birinin bir yere girmesine izin vermek",
+      "wrong": "Birinden ilk önce konuşmasını istemek"
+    },
+    {
+      "base": "read out",
+      "correct": "Yazılı sözleri yüksek sesle söylemek",
+      "wrong": "Bir şeyi tamamen ezbere öğrenmek"
+    },
+    {
+      "base": "take over",
+      "correct": "Bir görevi başka birinden devralıp sürdürmek",
+      "wrong": "Bir şeyi kendi kendine sessizce okumak"
+    },
+    {
+      "base": "go on",
+      "correct": "Bir süre boyunca devam etmek",
+      "wrong": "Farklı bir şehirde düzenlenmek"
+    },
+    {
+      "base": "come up",
+      "correct": "Bir listede veya sırada sırası gelmek",
+      "wrong": "Çok yumuşak bir sesle söylenmek"
+    },
+    {
+      "base": "look back on",
+      "correct": "Geçmişteki bir zamanı düşünmek",
+      "wrong": "Hasta olan birine bakmak"
+    },
+    {
+      "base": "come down",
+      "correct": "Havadan yere düşmek",
+      "wrong": "Başka bir havalimanına uçmak"
+    },
+    {
+      "base": "pass away",
+      "correct": "Vefat etmek",
+      "wrong": "Bayılmak"
+    },
+    {
+      "base": "breathe in",
+      "correct": "Ciğerlere hava veya toz çekmek",
+      "wrong": "Bir türlü durduramadan öksürmek"
+    },
+    {
+      "base": "live through",
+      "correct": "Zor bir olayı bizzat yaşamak",
+      "wrong": "Bir olayı televizyonda izlemek"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go by",
+      "def": "Zamandan bahsederken, geçmek",
+      "ex": [
+        "O, memleketini tekrar ziyaret etmeden önce üç yıl geçti.",
+        "Çocuklar için yaz çabucak geçti.",
+        "Haftalar geçtikçe bahçe çiçeklerle doluyor."
+      ]
+    },
+    {
+      "verb": "Come together",
+      "def": "Bir grup halinde aynı yerde toplanmak",
+      "ex": [
+        "Bütün köy hasat festivali için bir araya geldi.",
+        "Eski sınıf arkadaşları her on yılda bir buluşmak için bir araya gelir.",
+        "Komşular sel felaketinden sonra kilise salonunda bir araya geldi."
+      ]
+    },
+    {
+      "verb": "Let in",
+      "def": "Birinin bir yere girmesine izin vermek",
+      "ex": [
+        "Müze sabah saat ondan itibaren ziyaretçileri içeri alıyor.",
+        "Yağmur başlamadan önce kediyi içeri aldı.",
+        "Görevliler yalnızca biletli kişileri içeri aldı."
+      ]
+    },
+    {
+      "verb": "Read out",
+      "def": "Yazılı sözleri yüksek sesle söylemek",
+      "ex": [
+        "Sunucu kazananların isimlerini yüksek sesle okudu.",
+        "Hemşire, hastaya doktorun talimatlarını yüksek sesle okudu.",
+        "Lütfen adresi kopyalayabilmem için yavaşça yüksek sesle oku."
+      ]
+    },
+    {
+      "verb": "Take over",
+      "def": "Bir görevi başka birinden devralıp sürdürmek",
+      "ex": [
+        "İkinci bir pilot, uçuşun son saatinde kaptandan görevi devraldı.",
+        "Fırıncı eve gidince oğlu tezgahın başındaki görevi devraldı.",
+        "İkinci konuşmacı, ilkinden hiç ara vermeden görevi devraldı."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "def": "Bir süre boyunca devam etmek",
+      "ex": [
+        "Konser neredeyse üç saat boyunca devam etti.",
+        "Yağmur bütün hafta sonu boyunca devam etti.",
+        "Toplantı planlanandan çok daha uzun sürdü."
+      ]
+    },
+    {
+      "verb": "Come up",
+      "def": "Bir listede veya sırada sırası gelmek",
+      "ex": [
+        "Adınızın sırası geldiğinde lütfen ön masaya gelin.",
+        "Şarkım çalma listesinde sırada geldi.",
+        "Klinikte uzun bir bekleyişten sonra sıramız geldi."
+      ]
+    },
+    {
+      "verb": "Look back on",
+      "def": "Geçmişteki bir zamanı düşünmek",
+      "ex": [
+        "Büyükbabam denizde geçirdiği yılları düşünmeyi sever.",
+        "İlk işini karışık duygularla düşündü.",
+        "Yıllar sonra takım o sezonu gururla andı."
+      ]
+    },
+    {
+      "verb": "Come down",
+      "def": "Havadan yere düşmek",
+      "ex": [
+        "Uçurtma, rüzgar durunca bir komşunun bahçesine düştü.",
+        "Küçük uçak, motoru durduktan sonra bir tarlaya düştü.",
+        "Bir hava balonu uzun bir uçuştan sonra çöle indi."
+      ]
+    },
+    {
+      "verb": "Pass away",
+      "def": "Vefat etmek",
+      "ex": [
+        "Büyükannesi geçen kış huzur içinde vefat etti.",
+        "Yaşlı adam ailesi yanındayken evinde vefat etti.",
+        "Komşumuzun babası uzun bir hastalığın ardından vefat etti."
+      ]
+    },
+    {
+      "verb": "Breathe in",
+      "def": "Ciğerlere hava veya toz çekmek",
+      "ex": [
+        "Doktor ondan yavaşça nefes alıp tutmasını istedi.",
+        "İtfaiyeciler duman solumamak için maske takar.",
+        "Dağın zirvesinde soğuk havayı içine çekti."
+      ]
+    },
+    {
+      "verb": "Live through",
+      "def": "Zor bir olayı bizzat yaşamak",
+      "ex": [
+        "Büyükanne ve büyükbabam küçük çocukken savaşı yaşadı.",
+        "Kasaba on yılda üç sel felaketi yaşadı.",
+        "Depremi yaşayanlar o geceyi hâlâ hatırlıyor."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "anniversary",
+      "def": "bir şeyin her yıl gerçekleştiği tarih",
+      "ex": [
+        "Ailem evlilik yıl dönümlerini haziranda kutluyor.",
+        "Müze, kurucusunun doğum yıl dönümünde açıldı.",
+        "Gelecek yıl okulun ellinci yıl dönümü."
+      ]
+    },
+    {
+      "word": "memorial plaza",
+      "def": "ölüleri anmak için yapılan açık kamusal alan",
+      "ex": [
+        "Tören sonrasında anma alanına çiçekler bırakıldı.",
+        "Şehir, eski istasyonun yanına bir anma alanı yaptırdı.",
+        "Ziyaretçiler anma alanından sessizce geçiyor."
+      ]
+    },
+    {
+      "word": "ceremony",
+      "def": "bir olayı kutlamak için düzenlenen resmi etkinlik",
+      "ex": [
+        "Mezuniyet töreni iki saat sürdü.",
+        "Yeni köprüyü açmak için kısa bir tören düzenlendi.",
+        "Törende madalyalar dağıtıldı."
+      ]
+    },
+    {
+      "word": "site",
+      "def": "bir şeyin bulunduğu veya bulunmuş olduğu yer",
+      "ex": [
+        "Eski fabrikanın bulunduğu alan artık bir park.",
+        "İnşaat başlamadan önce işçiler alanı temizledi.",
+        "Kale, daha eski bir kalenin bulunduğu yerde duruyor."
+      ]
+    },
+    {
+      "word": "former",
+      "def": "geçmişte var olan, şimdi olmayan",
+      "ex": [
+        "Otel eskiden bir hastaneydi.",
+        "Eski bir öğretmenim artık kitaplar yazıyor.",
+        "Eski tren istasyonu artık bir pazar yeri."
+      ]
+    },
+    {
+      "word": "general public",
+      "def": "sıradan insanlar, özel bir grup değil",
+      "ex": [
+        "Bahçe hafta sonları genel halka açık.",
+        "Toplantı genel halka kapalıydı.",
+        "Biletler pazartesi günü genel halka satılacak."
+      ]
+    },
+    {
+      "word": "rescue workers",
+      "def": "işi tehlikedeki başkalarını kurtarmak olan kişiler",
+      "ex": [
+        "Kurtarma görevlileri kayıp yürüyüşçüler için tepeleri aradı.",
+        "Depremden sonra kurtarma görevlileri birkaç saat içinde geldi.",
+        "Kurtarma görevlileri sürücüyü nehirden çıkardı."
+      ]
+    },
+    {
+      "word": "invited guests",
+      "def": "bir etkinliğe gelmesi istenen kişiler",
+      "ex": [
+        "Düğüne yalnızca davetliler girebilir.",
+        "Davetliler ön sıralarda oturdu.",
+        "Kapıda bir davetli listesi kontrol edildi."
+      ]
+    },
+    {
+      "word": "victims",
+      "def": "bir olayda yaralanan veya ölen kişiler",
+      "ex": [
+        "Sel kurbanlarına okulda barınak sağlandı.",
+        "Kurbanların aileleri için bir fon kuruldu.",
+        "Kurbanların isimleri bir duvara yerleştirildi."
+      ]
+    },
+    {
+      "word": "alphabetical order",
+      "def": "ilk harfe göre A'dan Z'ye sıralanmış",
+      "ex": [
+        "Kitaplar rafta alfabetik sırayla duruyor.",
+        "Lütfen öğrencileri alfabetik sırayla listele.",
+        "Onun ismi alfabetik sırada ilk geliyordu."
+      ]
+    },
+    {
+      "word": "one at a time",
+      "def": "birer birer, hepsi birden değil",
+      "ex": [
+        "Çocuklar odaya birer birer girdi.",
+        "Lütfen sorularınızı birer birer sorun.",
+        "Arabalar dar köprüden birer birer geçti."
+      ]
+    },
+    {
+      "word": "relative",
+      "def": "senin ailenden bir kişi",
+      "ex": [
+        "Kanada'dan bir akraba bu hafta bizi ziyaret ediyor.",
+        "Şehirde yaşayan hiç akrabası yok.",
+        "O, annemin tarafından uzak bir akraba."
+      ]
+    },
+    {
+      "word": "aloud",
+      "def": "başkalarının duyabileceği bir sesle",
+      "ex": [
+        "Öğretmen şiiri yüksek sesle okudu.",
+        "Parayı yüksek sesle saydı.",
+        "Mektubu annesine yüksek sesle okudu."
+      ]
+    },
+    {
+      "word": "moments of silence",
+      "def": "herkesin hatırlamak için sessiz kaldığı kısa süreler",
+      "ex": [
+        "Kalabalık maçtan önce bir saygı duruşu yaptı.",
+        "Tören sırasında iki saygı duruşu vardı.",
+        "Öğretmen eski müdür için bir saygı duruşu istedi."
+      ]
+    },
+    {
+      "word": "struck",
+      "def": "bir şeye güçlü bir şekilde çarptı",
+      "ex": [
+        "Top pencereye çarptı ve onu kırdı.",
+        "Yıldırım tarladaki uzun ağaca çarptı.",
+        "Araba buzlu yolda bir çite çarptı."
+      ]
+    },
+    {
+      "word": "survivors",
+      "def": "tehlikeli bir olaydan sonra hayatta kalan kişiler",
+      "ex": [
+        "Yangından kurtulanlar hastaneye götürüldü.",
+        "Adada iki kişi sağ bulundu.",
+        "Kazadan kurtulanlar muhabirlerle konuştu."
+      ]
+    },
+    {
+      "word": "illnesses",
+      "def": "hastalıklar veya sağlık sorunları",
+      "ex": [
+        "Bazı hastalıklar kışın yaygındır.",
+        "Klinik hafif hastalıkları tedavi eder.",
+        "Uzun bir hastalık nedeniyle işe gidemedi."
+      ]
+    },
+    {
+      "word": "toxic dust",
+      "def": "havadaki çok küçük zehirli madde parçacıkları",
+      "ex": [
+        "İşçiler zehirli tozdan kaçınmak için maske taktı.",
+        "Zehirli toz haftalarca eski fabrikanın çevresindeki havayı doldurdu.",
+        "Madenden gelen zehirli toz kasabanın üzerine çöktü."
+      ]
+    },
+    {
+      "word": "held",
+      "def": "bir etkinlik veya toplantı için düzenlenmiş",
+      "ex": [
+        "Festival her ağustos ayında düzenlenir.",
+        "Toplantı belediye binasında yapıldı.",
+        "Okul için para toplamak amacıyla bir konser düzenlendi."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Aile üyeleri kurbanların isimlerini alfabetik sırayla yüksek sesle okudu.",
+      "a": true,
+      "why": "Aileler, alfabenin ilk harfinden son harfine kadar birer birer isimleri yüksek sesle okumak için sırayla katıldı."
+    },
+    {
+      "s": "New York'taki tören genel halka açıktı.",
+      "a": false,
+      "why": "Tören genel halka açık değildi; sadece aileler, kurtarma görevlileri ve davetliler içeri alındı."
+    },
+    {
+      "s": "İsimlerin okunması birkaç saat sürdü.",
+      "a": true,
+      "why": "Her okuyucu bir öncekinden görevi devraldı ve okuma birkaç saat sürdü."
+    },
+    {
+      "s": "Yedinci saygı duruşu ilk isim okunmadan önce geldi.",
+      "a": false,
+      "why": "Yedinci saygı duruşu son isim okunduktan sonra geldi; o zamandan bu yana hayatını kaybeden hayatta kalanlar ve kurtarma görevlileri içindi."
+    },
+    {
+      "s": "Törenler yalnızca New York'ta düzenlendi.",
+      "a": false,
+      "why": "Pentagon'da ve bir uçağın bir tarlaya düştüğü Shanksville'deki alanda da törenler düzenlendi."
+    },
+    {
+      "s": "Bazı aileler, akrabalarının ismi sırasına geldiğinde birkaç söz kendileri ekledi.",
+      "a": true,
+      "why": "Aile üyeleri isimleri okudu ve kendi yakınlarının ismi sırasına geldiğinde bazıları birkaç söz ekledi."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "11 Eylül saldırılarının yirmi beşinci yıl dönümünde aileler New York'taki anma alanında bir araya geldi. Kurbanların isimlerini yüksek sesle okudular ve yedi saygı duruşu yaptılar.",
+      "a": true,
+      "why": "Ana tören, eski World Trade Center'ın bulunduğu yerde düzenlendi; orada aile üyeleri her ismi yüksek sesle okudu ve alan yedi kez sessizliğe büründü."
+    },
+    {
+      "s": "11 Eylül saldırılarının yirmi beşinci yıl dönümünde aileler New York'taki anma alanında bir araya geldi. Tören, gelip okumayı dinlemek isteyen herkese açıktı.",
+      "a": false,
+      "why": "Yaklaşık doğru, ama tören genel halka açık değildi; sadece aileler, kurtarma görevlileri ve davetliler içeri alındı."
+    },
+    {
+      "s": "11 Eylül saldırılarının yirmi beşinci yıl dönümünde New York o gün hakkında yeni bir müze açtı. Ziyaretçiler hafta sonu boyunca ücretsiz gezmeye davet edildi.",
+      "a": false,
+      "why": "Yeni bir müze açılmadı; haber, ailelerin isimleri okuduğu ve yedi saygı duruşu yaptığı anma alanındaki tören hakkında."
+    }
+  ],
+  "dialogue": {
+    "It takes as long as it takes": "Bir şeyin ne kadar sürerse sürsün aceleye getirilmemesi gerektiğini söylemek için kullanılır.",
+    "after all these years": "Uzun bir zaman geçmiş olsa bile bir şeyin hâlâ aynı kaldığını söylemek için kullanılır.",
+    "you don't forget a morning like that": "Bazı günlerin o kadar ciddi olduğunu, hayat boyu hafızada kaldığını söylemek için kullanılır.",
+    "you didn't have to be there": "Bir şeyin ne kadar ciddi olduğunu hissetmek için orada bulunmanın gerekmediğini söylemek için kullanılır.",
+    "the least anyone can do": "Birisi için yapılması doğru olan en küçük şeyi söylemek için kullanılır."
+  }
+}

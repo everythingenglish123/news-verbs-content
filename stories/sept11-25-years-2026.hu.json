@@ -1,0 +1,413 @@
+{
+  "id": "sept11-25-years-2026",
+  "number": 109,
+  "lang": "hu",
+  "headline": "A családok felolvassák a neveket, miközben New York 25 évre emlékezik",
+  "chunks": [
+    "Huszonöt év telt el a 2001. szeptember 11-i támadások óta, amelyekben 2977 ember vesztette életét. Az évfordulón a családok New Yorkban, az emlékhelyen gyűltek össze a fő megemlékezésre. A tér azon a helyen áll, ahol egykor a World Trade Center állt. A legtöbb áldozat ott halt meg. A megemlékezés nem volt nyitva a nagyközönség előtt. Csak a családokat, a mentőalakulatok tagjait és a meghívott vendégeket engedték be.",
+    "A családtagok ábécésorrendben olvasták fel az áldozatok nevét. Egyesével olvastak, és minden felolvasó az előzőtől vette át a szót. A felolvasás több órán át tartott. Amikor sorra került a saját hozzátartozójuk neve, néhány család néhány saját szót is hozzáfűzött. Minden nevet hangosan kimondtak. A családoknak ez a reggel arra adott alkalmat, hogy visszagondoljanak arra a napra, amikor elveszítették szerettüket.",
+    "Hét néma percet tartottak a reggel során. Az első 8:46-kor volt, abban a percben, amikor az első repülőgép az északi toronyba csapódott. 9:03-kor a tér másodszor is elcsendesedett, arra a pillanatra emlékezve, amikor a második repülőgép a déli toronyba csapódott. A harmadik, 9:37-kor, annak a repülőgépnek szólt, amely a Pentagonba csapódott. A déli torony 9:59-kor omlott össze. Ezután következett 10:03, amikor egy repülőgép lezuhant egy mezőn Shanksville-ben, Pennsylvaniában. A hatodik 10:28-nak szólt, amikor az északi torony összeomlott.",
+    "A hetedik néma perc az utolsó név felolvasása után következett. Azoknak a túlélőknek és mentőalakulatoknak szólt, akik azóta a belélegzett mérgező por okozta betegségekben haltak meg. Megemlékezéseket tartottak a Pentagonnál és a shanksville-i helyszínen is. Ott is emberek jöttek el emlékezni. Az ország számára az évforduló arra a napra emlékeztetett, amikor huszonöt évvel korábban átélte azt a reggelt. Felolvasták a neveket, és megtartották a néma perceket."
+  ],
+  "verbs": [
+    {
+      "base": "go by",
+      "correct": "Eltelni, amikor időről van szó",
+      "wrong": "A legtöbb ember elfelejti"
+    },
+    {
+      "base": "come together",
+      "correct": "Csoportként egy helyen összegyűlni",
+      "wrong": "Beszélni egy nagy tömeg előtt"
+    },
+    {
+      "base": "let in",
+      "correct": "Beengedni valakit egy helyre",
+      "wrong": "Megkérni valakit, hogy beszéljen"
+    },
+    {
+      "base": "read out",
+      "correct": "Leírt szavakat hangosan felolvasni",
+      "wrong": "Megtanulni valamit kívülről"
+    },
+    {
+      "base": "take over",
+      "correct": "Folytatni egy feladatot valaki más után",
+      "wrong": "Csendben, magában elolvasni valamit"
+    },
+    {
+      "base": "go on",
+      "correct": "Egy ideig folytatódni",
+      "wrong": "Egy másik városban zajlani"
+    },
+    {
+      "base": "come up",
+      "correct": "Sorra kerülni egy listán vagy sorrendben",
+      "wrong": "Nagyon halk, suttogó hangon kimondani"
+    },
+    {
+      "base": "look back on",
+      "correct": "Visszagondolni egy múltbeli időszakra",
+      "wrong": "Gondoskodni valakiről, aki beteg"
+    },
+    {
+      "base": "come down",
+      "correct": "A levegőből a földre zuhanni",
+      "wrong": "Elrepülni egy másik repülőtérre"
+    },
+    {
+      "base": "pass away",
+      "correct": "Meghalni",
+      "wrong": "Elájulni"
+    },
+    {
+      "base": "breathe in",
+      "correct": "Levegőt vagy port belélegezni",
+      "wrong": "Köhögni, anélkül hogy meg tudna állni"
+    },
+    {
+      "base": "live through",
+      "correct": "Életben lenni egy nehéz esemény idején",
+      "wrong": "Nézni egy eseményt a televízióban"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go by",
+      "def": "Eltelni, amikor időről van szó",
+      "ex": [
+        "Három év telt el, mire újra ellátogatott a szülővárosába.",
+        "A nyár gyorsan eltelt a gyerekek számára.",
+        "Ahogy telnek a hetek, a kert megtelik virágokkal."
+      ]
+    },
+    {
+      "verb": "Come together",
+      "def": "Csoportként egy helyen összegyűlni",
+      "ex": [
+        "Az egész falu összegyűlt az aratóünnepen.",
+        "A régi osztálytársak minden tíz évben összegyűlnek egy találkozóra.",
+        "A szomszédok az árvíz után a templom termében gyűltek össze."
+      ]
+    },
+    {
+      "verb": "Let in",
+      "def": "Beengedni valakit egy helyre",
+      "ex": [
+        "A múzeum reggel tíz órától engedi be a látogatókat.",
+        "Beengedte a macskát, mielőtt elkezdett esni az eső.",
+        "Az őrök csak jeggyel rendelkező embereket engedtek be."
+      ]
+    },
+    {
+      "verb": "Read out",
+      "def": "Leírt szavakat hangosan felolvasni",
+      "ex": [
+        "A műsorvezető hangosan felolvasta a nyertesek nevét.",
+        "A nővér hangosan felolvasta a betegnek az orvos utasításait.",
+        "Kérlek, olvasd fel lassan a címet, hogy le tudjam másolni."
+      ]
+    },
+    {
+      "verb": "Take over",
+      "def": "Folytatni egy feladatot valaki más után",
+      "ex": [
+        "Egy második pilóta vette át a kapitánytól a repülés utolsó óráját.",
+        "Amikor a pék hazament, a fia vette át a pultot.",
+        "A második előadó szünet nélkül vette át a szót az elsőtől."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "def": "Egy ideig folytatódni",
+      "ex": [
+        "A koncert csaknem három órán át tartott.",
+        "Az eső egész hétvégén folytatódott.",
+        "A megbeszélés sokkal tovább tartott a tervezettnél."
+      ]
+    },
+    {
+      "verb": "Come up",
+      "def": "Sorra kerülni egy listán vagy sorrendben",
+      "ex": [
+        "Amikor sorra kerül a neved, kérlek, menj a pulthoz.",
+        "A dalom következett ezután a lejátszási listán.",
+        "A mi sorunk a rendelőben hosszú várakozás után jött el."
+      ]
+    },
+    {
+      "verb": "Look back on",
+      "def": "Visszagondolni egy múltbeli időszakra",
+      "ex": [
+        "A nagyapám szívesen gondol vissza a tengeren töltött éveire.",
+        "Vegyes érzésekkel gondolt vissza az első munkahelyére.",
+        "Évekkel később a csapat büszkén gondolt vissza arra a szezonra."
+      ]
+    },
+    {
+      "verb": "Come down",
+      "def": "A levegőből a földre zuhanni",
+      "ex": [
+        "A sárkány leszállt egy szomszéd kertjébe, amikor elállt a szél.",
+        "A kis repülőgép egy mezőn zuhant le, miután leállt a motorja.",
+        "Egy meteorológiai ballon a sivatagban ért földet egy hosszú repülés után."
+      ]
+    },
+    {
+      "verb": "Pass away",
+      "def": "Meghalni",
+      "ex": [
+        "A nagymamája tavaly télen békésen halt meg.",
+        "Az idős férfi otthon halt meg, családja mellett.",
+        "A szomszédunk apja hosszú betegség után halt meg."
+      ]
+    },
+    {
+      "verb": "Breathe in",
+      "def": "Levegőt vagy port belélegezni",
+      "ex": [
+        "Az orvos megkérte, hogy lassan lélegezzen be és tartsa vissza a levegőt.",
+        "A tűzoltók maszkot viselnek, hogy ne lélegezzenek be füstöt.",
+        "Belélegezte a hideg levegőt a hegy csúcsán."
+      ]
+    },
+    {
+      "verb": "Live through",
+      "def": "Életben lenni egy nehéz esemény idején",
+      "ex": [
+        "A nagyszüleim kisgyerekként élték át a háborút.",
+        "A város tíz év alatt három árvizet élt át.",
+        "Akik átélték a földrengést, még mindig emlékeznek arra az éjszakára."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "anniversary",
+      "def": "az a dátum, amikor valami minden évben megtörténik",
+      "ex": [
+        "A szüleim júniusban ünneplik a házassági évfordulójukat.",
+        "A múzeum az alapító születésének évfordulóján nyílt meg.",
+        "Jövőre lesz az iskola ötvenedik évfordulója."
+      ]
+    },
+    {
+      "word": "memorial plaza",
+      "def": "nyitott közterület, amelyet a halottak emlékére építettek",
+      "ex": [
+        "A szertartás után virágokat helyeztek el az emlékhelyen.",
+        "A város emlékhelyet épített a régi pályaudvar mellett.",
+        "A látogatók csendben sétálnak át az emlékhelyen."
+      ]
+    },
+    {
+      "word": "ceremony",
+      "def": "hivatalos esemény, amelyet egy alkalom megünneplésére tartanak",
+      "ex": [
+        "A diplomaosztó ünnepség két órán át tartott.",
+        "Rövid ünnepséget tartottak az új híd megnyitására.",
+        "Az ünnepségen érmeket adtak át."
+      ]
+    },
+    {
+      "word": "site",
+      "def": "az a hely, ahol valami van vagy volt",
+      "ex": [
+        "A régi gyár helyén ma park van.",
+        "A munkások megtisztították a területet, mielőtt megkezdődött az építkezés.",
+        "A vár egy régebbi erőd helyén áll."
+      ]
+    },
+    {
+      "word": "former",
+      "def": "ami a múltban létezett, most már nem",
+      "ex": [
+        "A szálloda egykor kórház volt.",
+        "Egy egykori tanárom ma könyveket ír.",
+        "A volt vasútállomás ma piac."
+      ]
+    },
+    {
+      "word": "general public",
+      "def": "hétköznapi emberek, nem egy különleges csoport",
+      "ex": [
+        "A kert hétvégenként nyitva áll a nagyközönség előtt.",
+        "A találkozó nem volt nyitva a nagyközönség előtt.",
+        "A jegyeket hétfőn kezdik árulni a nagyközönségnek."
+      ]
+    },
+    {
+      "word": "rescue workers",
+      "def": "emberek, akiknek az a feladata, hogy másokat mentsenek meg a veszélyből",
+      "ex": [
+        "A mentőalakulatok a dombokat kutatták az eltűnt túrázók után.",
+        "A földrengés után a mentőalakulatok néhány órán belül megérkeztek.",
+        "A mentőalakulatok kihúzták a sofőrt a folyóból."
+      ]
+    },
+    {
+      "word": "invited guests",
+      "def": "emberek, akiket meghívtak egy eseményre",
+      "ex": [
+        "Csak a meghívott vendégek léphetnek be az esküvőre.",
+        "A meghívott vendégek az első sorokban ültek.",
+        "A bejáratnál ellenőrizték a meghívottak listáját."
+      ]
+    },
+    {
+      "word": "victims",
+      "def": "emberek, akiket egy esemény megsebesített vagy megölt",
+      "ex": [
+        "Az árvíz áldozatait az iskolában szállásolták el.",
+        "Alapot hoztak létre az áldozatok családjai számára.",
+        "Az áldozatok nevét egy falra helyezték."
+      ]
+    },
+    {
+      "word": "alphabetical order",
+      "def": "az első betű szerint A-tól Z-ig rendezve",
+      "ex": [
+        "A könyvek ábécésorrendben állnak a polcon.",
+        "Kérlek, sorold fel a diákokat ábécésorrendben.",
+        "A neve ábécésorrendben az elsők között szerepelt."
+      ]
+    },
+    {
+      "word": "one at a time",
+      "def": "egyesével, nem mindenki egyszerre",
+      "ex": [
+        "A gyerekek egyesével léptek be a terembe.",
+        "Kérlek, egyesével tegyétek fel a kérdéseiteket.",
+        "Az autók egyesével haladtak át a keskeny hídon."
+      ]
+    },
+    {
+      "word": "relative",
+      "def": "a családod egyik tagja",
+      "ex": [
+        "Egy kanadai rokonunk látogat meg minket ezen a héten.",
+        "Nincs élő rokona a városban.",
+        "Ő egy távoli rokon anyám ágán."
+      ]
+    },
+    {
+      "word": "aloud",
+      "def": "olyan hangon, amelyet mások is hallanak",
+      "ex": [
+        "A tanárnő hangosan felolvasta a verset.",
+        "Hangosan megszámolta a pénzt.",
+        "Hangosan felolvasta a levelet az édesanyjának."
+      ]
+    },
+    {
+      "word": "moments of silence",
+      "def": "rövid időszakok, amikor mindenki elcsendesedik az emlékezésre",
+      "ex": [
+        "A tömeg egy perc néma csendet tartott a mérkőzés előtt.",
+        "Két néma perc volt a szertartás alatt.",
+        "A tanárnő egy perc néma csendet kért a régi igazgató emlékére."
+      ]
+    },
+    {
+      "word": "struck",
+      "def": "erővel nekicsapódott valaminek",
+      "ex": [
+        "A labda nekicsapódott az ablaknak, és betörte.",
+        "A villám belecsapott a magas fába a mezőn.",
+        "Az autó nekiütközött egy kerítésnek a jeges úton."
+      ]
+    },
+    {
+      "word": "survivors",
+      "def": "emberek, akik életben maradnak egy veszélyes esemény után",
+      "ex": [
+        "A tűz túlélőit kórházba szállították.",
+        "Két túlélőt találtak a szigeten.",
+        "A baleset túlélői beszéltek a riporterekkel."
+      ]
+    },
+    {
+      "word": "illnesses",
+      "def": "betegségek vagy egészségügyi problémák",
+      "ex": [
+        "Egyes betegségek télen gyakoribbak.",
+        "A rendelő enyhe betegségeket kezel.",
+        "Egy hosszú betegség miatt hiányzott a munkából."
+      ]
+    },
+    {
+      "word": "toxic dust",
+      "def": "nagyon apró mérgező anyagrészecskék a levegőben",
+      "ex": [
+        "A munkások maszkot viseltek, hogy elkerüljék a mérgező port.",
+        "A mérgező por hetekig betöltötte a levegőt a régi gyár körül.",
+        "A bányából származó mérgező por lerakódott a városra."
+      ]
+    },
+    {
+      "word": "held",
+      "def": "megszervezve, egy eseményhez vagy találkozóhoz",
+      "ex": [
+        "A fesztivált minden augusztusban megrendezik.",
+        "A találkozót a városházán tartották.",
+        "Koncertet rendeztek, hogy pénzt gyűjtsenek az iskolának."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "A családtagok ábécésorrendben olvasták fel az áldozatok nevét.",
+      "a": true,
+      "why": "A családok felváltva olvasták fel hangosan a neveket, egyesével, az ábécé első betűjétől az utolsóig."
+    },
+    {
+      "s": "A New York-i szertartás nyitva állt a nagyközönség előtt.",
+      "a": false,
+      "why": "A szertartás nem volt nyitva a nagyközönség előtt; csak a családokat, a mentőalakulatok tagjait és a meghívott vendégeket engedték be."
+    },
+    {
+      "s": "A nevek felolvasása több órán át tartott.",
+      "a": true,
+      "why": "Minden felolvasó az előzőtől vette át a szót, és a felolvasás több órán át tartott."
+    },
+    {
+      "s": "A hetedik néma perc az első név felolvasása előtt volt.",
+      "a": false,
+      "why": "A hetedik néma perc az utolsó név felolvasása után következett, azoknak a túlélőknek és mentőalakulatoknak, akik azóta meghaltak."
+    },
+    {
+      "s": "Szertartásokat kizárólag New Yorkban tartottak.",
+      "a": false,
+      "why": "Megemlékezéseket tartottak a Pentagonnál és a shanksville-i helyszínen is, ahol egy repülőgép lezuhant egy mezőn."
+    },
+    {
+      "s": "Néhány család néhány saját szót fűzött hozzá, amikor sorra került a hozzátartozójuk neve.",
+      "a": true,
+      "why": "A családtagok felolvasták a neveket, és amikor sorra került a saját hozzátartozójuk neve, néhányan saját szavakat is hozzáfűztek."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "A szeptember 11-i támadások huszonötödik évfordulóján a családok New Yorkban, az emlékhelyen gyűltek össze. Hangosan felolvasták az áldozatok nevét, és hét néma percet tartottak.",
+      "a": true,
+      "why": "A fő szertartást azon a helyen tartották, ahol egykor a World Trade Center állt; ott a családtagok hangosan felolvastak minden nevet, és a tér hétszer csendesedett el."
+    },
+    {
+      "s": "A szeptember 11-i támadások huszonötödik évfordulóján a családok New Yorkban, az emlékhelyen gyűltek össze. A szertartás nyitva állt bárki előtt, aki el akart jönni meghallgatni a felolvasást.",
+      "a": false,
+      "why": "Majdnem, de a szertartás nem volt nyitva a nagyközönség előtt; csak a családokat, a mentőalakulatok tagjait és a meghívott vendégeket engedték be."
+    },
+    {
+      "s": "A szeptember 11-i támadások huszonötödik évfordulóján New York új múzeumot nyitott azon a napon. A látogatókat meghívták, hogy egész hétvégén ingyen bejárhassák.",
+      "a": false,
+      "why": "Nem nyílt új múzeum; a történet az emlékhelyen tartott szertartásról szól, ahol a családok felolvasták a neveket és hét néma percet tartottak."
+    }
+  ],
+  "dialogue": {
+    "It takes as long as it takes": "Azt fejezi ki, hogy valamit nem szabad siettetni, bármennyi ideig is tart.",
+    "after all these years": "Azt fejezi ki, hogy nagyon sok idő telt el, de valami mégis változatlan maradt.",
+    "you don't forget a morning like that": "Azt fejezi ki, hogy egyes napok annyira súlyosak, hogy örökre megmaradnak az emlékezetben.",
+    "you didn't have to be there": "Azt fejezi ki, hogy nem kellett jelen lenni ahhoz, hogy valaki érezze valami súlyát.",
+    "the least anyone can do": "Azt fejezi ki, hogy ez a legkisebb dolog, amit helyes megtenni valakiért."
+  }
+}

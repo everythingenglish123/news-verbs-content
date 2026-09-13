@@ -1,0 +1,413 @@
+{
+  "id": "sept11-25-years-2026",
+  "number": 109,
+  "lang": "pl",
+  "headline": "Rodziny odczytują nazwiska, gdy Nowy Jork obchodzi 25 lat",
+  "chunks": [
+    "Minęło dwadzieścia pięć lat od ataków z 11 września 2001 roku, w których zginęło 2977 osób. W rocznicę rodziny zebrały się na placu pamięci w Nowym Jorku na głównej uroczystości. Plac znajduje się w miejscu, gdzie stało dawne World Trade Center. Większość zmarłych zginęła właśnie tam. Uroczystość nie była otwarta dla ogółu społeczeństwa. Wpuszczano tylko rodziny, ratowników i zaproszonych gości.",
+    "Członkowie rodzin odczytywali na głos nazwiska ofiar w porządku alfabetycznym. Czytali po kolei, a każdy czytający przejmował po poprzednim. Odczytywanie trwało kilka godzin. Gdy przychodziła kolej na nazwisko własnego krewnego, niektóre rodziny dodawały kilka własnych słów. Każde nazwisko wypowiedziano na głos. Dla rodzin ten poranek był czasem, by wrócić myślami do dnia, w którym straciły kogoś bliskiego.",
+    "Siedem minut ciszy wyznaczyło ten poranek. Pierwsza nastąpiła o 8:46, w minucie, gdy pierwszy samolot uderzył w północną wieżę. O 9:03 na placu znów zapadła cisza, dla chwili, gdy drugi samolot uderzył w południową wieżę. Trzecia, o 9:37, była poświęcona samolotowi, który uderzył w Pentagon. Południowa wieża zawaliła się o 9:59. Potem nastąpiła 10:03, gdy samolot runął na polu w Shanksville w Pensylwanii. Szósta była poświęcona godzinie 10:28, gdy zawaliła się północna wieża.",
+    "Siódma minuta ciszy nastąpiła po odczytaniu ostatniego nazwiska. Poświęcono ją ocalałym i ratownikom, którzy od tamtej pory zmarli na choroby związane z toksycznym pyłem, który wdychali. Uroczystości odbyły się także przy Pentagonie i w miejscu w Shanksville. Tam również ludzie przyszli, by pamiętać. Dla całego kraju rocznica była dniem, by wrócić myślami do poranka, który przeżył dwadzieścia pięć lat wcześniej. Odczytano nazwiska, a minuty ciszy zostały zachowane."
+  ],
+  "verbs": [
+    {
+      "base": "go by",
+      "correct": "Mijać, gdy mowa jest o czasie",
+      "wrong": "Być zapomnianym przez większość ludzi"
+    },
+    {
+      "base": "come together",
+      "correct": "Zebrać się razem jako grupa w jednym miejscu",
+      "wrong": "Przemawiać przed dużym tłumem ludzi"
+    },
+    {
+      "base": "let in",
+      "correct": "Pozwolić komuś wejść do jakiegoś miejsca",
+      "wrong": "Poprosić kogoś, by mówił pierwszy"
+    },
+    {
+      "base": "read out",
+      "correct": "Odczytać na głos napisane słowa",
+      "wrong": "Nauczyć się czegoś na pamięć"
+    },
+    {
+      "base": "take over",
+      "correct": "Przejąć zadanie po innej osobie",
+      "wrong": "Czytać coś po cichu tylko dla siebie"
+    },
+    {
+      "base": "go on",
+      "correct": "Trwać przez pewien okres czasu",
+      "wrong": "Odbywać się w innym mieście"
+    },
+    {
+      "base": "come up",
+      "correct": "Przypaść komuś w kolejności na liście",
+      "wrong": "Zostać wypowiedzianym bardzo cichym głosem"
+    },
+    {
+      "base": "look back on",
+      "correct": "Wracać myślami do chwili z przeszłości",
+      "wrong": "Opiekować się kimś, kto jest chory"
+    },
+    {
+      "base": "come down",
+      "correct": "Spaść z powietrza na ziemię",
+      "wrong": "Polecieć na inne lotnisko"
+    },
+    {
+      "base": "pass away",
+      "correct": "Umrzeć",
+      "wrong": "Zemdleć"
+    },
+    {
+      "base": "breathe in",
+      "correct": "Wciągnąć do płuc powietrze lub pył",
+      "wrong": "Kaszleć bez możliwości zatrzymania się"
+    },
+    {
+      "base": "live through",
+      "correct": "Żyć w czasie trudnego wydarzenia",
+      "wrong": "Oglądać wydarzenie w telewizji"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go by",
+      "def": "Mijać, gdy mowa jest o czasie",
+      "ex": [
+        "Minęły trzy lata, zanim znów odwiedziła rodzinne miasto.",
+        "Lato minęło dzieciom szybko.",
+        "W miarę jak mijają tygodnie, ogród wypełnia się kwiatami."
+      ]
+    },
+    {
+      "verb": "Come together",
+      "def": "Zebrać się razem jako grupa w jednym miejscu",
+      "ex": [
+        "Cała wieś zebrała się na dożynkach.",
+        "Dawni koledzy z klasy spotykają się co dziesięć lat na zjeździe.",
+        "Sąsiedzi zebrali się w sali kościelnej po powodzi."
+      ]
+    },
+    {
+      "verb": "Let in",
+      "def": "Pozwolić komuś wejść do jakiegoś miejsca",
+      "ex": [
+        "Muzeum wpuszcza zwiedzających od dziesiątej rano.",
+        "Wpuściła kota do domu, zanim zaczął padać deszcz.",
+        "Strażnicy wpuszczali tylko osoby z biletem."
+      ]
+    },
+    {
+      "verb": "Read out",
+      "def": "Odczytać na głos napisane słowa",
+      "ex": [
+        "Prowadzący odczytał na głos nazwiska zwycięzców.",
+        "Pielęgniarka odczytała pacjentowi na głos zalecenia lekarza.",
+        "Proszę odczytać adres na głos powoli, żebym mógł go zapisać."
+      ]
+    },
+    {
+      "verb": "Take over",
+      "def": "Przejąć zadanie po innej osobie",
+      "ex": [
+        "Drugi pilot przejął stery po kapitanie na ostatnią godzinę lotu.",
+        "Gdy piekarka poszła do domu, jej syn przejął ladę.",
+        "Drugi mówca przejął głos po pierwszym bez żadnej przerwy."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "def": "Trwać przez pewien okres czasu",
+      "ex": [
+        "Koncert trwał prawie trzy godziny.",
+        "Deszcz padał przez cały weekend.",
+        "Zebranie trwało znacznie dłużej, niż planowano."
+      ]
+    },
+    {
+      "verb": "Come up",
+      "def": "Przypaść komuś w kolejności na liście",
+      "ex": [
+        "Gdy wywołają twoje nazwisko, podejdź do recepcji.",
+        "Moja piosenka pojawiła się jako następna na liście odtwarzania.",
+        "Nasza kolej przyszła po długim oczekiwaniu w przychodni."
+      ]
+    },
+    {
+      "verb": "Look back on",
+      "def": "Wracać myślami do chwili z przeszłości",
+      "ex": [
+        "Mój dziadek lubi wracać myślami do lat spędzonych na morzu.",
+        "Wracała myślami do swojej pierwszej pracy z mieszanymi uczuciami.",
+        "Lata później drużyna z dumą wracała myślami do tamtego sezonu."
+      ]
+    },
+    {
+      "verb": "Come down",
+      "def": "Spaść z powietrza na ziemię",
+      "ex": [
+        "Latawiec spadł do ogrodu sąsiada, gdy wiatr ucichł.",
+        "Mały samolot spadł na pole po tym, jak silnik przestał działać.",
+        "Balon meteorologiczny spadł na pustyni po długim locie."
+      ]
+    },
+    {
+      "verb": "Pass away",
+      "def": "Umrzeć",
+      "ex": [
+        "Jej babcia umarła spokojnie zeszłej zimy.",
+        "Starszy pan umarł w domu, przy rodzinie.",
+        "Ojciec naszego sąsiada umarł po długiej chorobie."
+      ]
+    },
+    {
+      "verb": "Breathe in",
+      "def": "Wciągnąć do płuc powietrze lub pył",
+      "ex": [
+        "Lekarz poprosił go, by powoli wciągnął powietrze i wstrzymał oddech.",
+        "Strażacy noszą maski, żeby nie wdychać dymu.",
+        "Wciągnęła zimne powietrze na szczycie góry."
+      ]
+    },
+    {
+      "verb": "Live through",
+      "def": "Żyć w czasie trudnego wydarzenia",
+      "ex": [
+        "Moi dziadkowie przeżyli wojnę jako małe dzieci.",
+        "Miasteczko przeżyło trzy powodzie w ciągu dziesięciu lat.",
+        "Ludzie, którzy przeżyli trzęsienie ziemi, wciąż pamiętają tę noc."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "anniversary",
+      "def": "data, w której co roku coś się wydarzyło",
+      "ex": [
+        "Moi rodzice obchodzą rocznicę ślubu w czerwcu.",
+        "Muzeum otworzono w rocznicę urodzin założyciela.",
+        "W przyszłym roku przypada pięćdziesiąta rocznica powstania szkoły."
+      ]
+    },
+    {
+      "word": "memorial plaza",
+      "def": "otwarta przestrzeń publiczna zbudowana ku pamięci zmarłych",
+      "ex": [
+        "Po uroczystości na placu pamięci złożono kwiaty.",
+        "Miasto zbudowało plac pamięci obok starego dworca.",
+        "Odwiedzający przechodzą przez plac pamięci w ciszy."
+      ]
+    },
+    {
+      "word": "ceremony",
+      "def": "formalne wydarzenie zorganizowane, by uczcić jakąś okazję",
+      "ex": [
+        "Uroczystość rozdania dyplomów trwała dwie godziny.",
+        "Zorganizowano krótką uroczystość otwarcia nowego mostu.",
+        "Podczas uroczystości wręczono medale."
+      ]
+    },
+    {
+      "word": "site",
+      "def": "miejsce, w którym coś się znajduje lub znajdowało",
+      "ex": [
+        "Na miejscu dawnej fabryki jest dziś park.",
+        "Robotnicy oczyścili teren, zanim rozpoczęto budowę.",
+        "Zamek stoi na miejscu dawniejszej warowni."
+      ]
+    },
+    {
+      "word": "former",
+      "def": "istniejący w przeszłości, nie teraz",
+      "ex": [
+        "Hotel mieścił się w dawnym szpitalu.",
+        "Mój były nauczyciel pisze teraz książki.",
+        "Dawny dworzec kolejowy jest dziś targowiskiem."
+      ]
+    },
+    {
+      "word": "general public",
+      "def": "zwykli ludzie, nie jakaś specjalna grupa",
+      "ex": [
+        "Ogród jest otwarty dla ogółu społeczeństwa w weekendy.",
+        "Zebranie było zamknięte dla ogółu społeczeństwa.",
+        "Bilety trafią do sprzedaży dla ogółu społeczeństwa w poniedziałek."
+      ]
+    },
+    {
+      "word": "rescue workers",
+      "def": "ludzie, których zadaniem jest ratowanie innych w niebezpieczeństwie",
+      "ex": [
+        "Ratownicy przeszukiwali wzgórza w poszukiwaniu zaginionych turystów.",
+        "Po trzęsieniu ziemi ratownicy dotarli na miejsce w ciągu kilku godzin.",
+        "Ratownicy wyciągnęli kierowcę z rzeki."
+      ]
+    },
+    {
+      "word": "invited guests",
+      "def": "ludzie poproszeni o przybycie na wydarzenie",
+      "ex": [
+        "Na ślub mogą wejść tylko zaproszeni goście.",
+        "Zaproszeni goście usiedli w pierwszych rzędach.",
+        "Przy wejściu sprawdzano listę zaproszonych gości."
+      ]
+    },
+    {
+      "word": "victims",
+      "def": "ludzie ranni lub zabici w jakimś wydarzeniu",
+      "ex": [
+        "Ofiarom powodzi zapewniono schronienie w szkole.",
+        "Utworzono fundusz dla rodzin ofiar.",
+        "Nazwiska ofiar umieszczono na murze."
+      ]
+    },
+    {
+      "word": "alphabetical order",
+      "def": "ułożone od A do Z według pierwszej litery",
+      "ex": [
+        "Książki na półce stoją w porządku alfabetycznym.",
+        "Proszę ułożyć uczniów w porządku alfabetycznym.",
+        "Jej nazwisko było pierwsze w porządku alfabetycznym."
+      ]
+    },
+    {
+      "word": "one at a time",
+      "def": "jeden po drugim, nie wszyscy naraz",
+      "ex": [
+        "Dzieci wchodziły do sali po kolei.",
+        "Proszę zadawać pytania po jednym.",
+        "Samochody przejeżdżały przez wąski most po kolei."
+      ]
+    },
+    {
+      "word": "relative",
+      "def": "członek twojej rodziny",
+      "ex": [
+        "Krewny z Kanady odwiedza nas w tym tygodniu.",
+        "Nie ma już żyjących krewnych w tym mieście.",
+        "Jest dalekim krewnym ze strony mojej matki."
+      ]
+    },
+    {
+      "word": "aloud",
+      "def": "głosem, który inni mogą usłyszeć",
+      "ex": [
+        "Nauczycielka przeczytała wiersz na głos.",
+        "Policzył pieniądze na głos.",
+        "Przeczytała list matce na głos."
+      ]
+    },
+    {
+      "word": "moments of silence",
+      "def": "krótkie chwile, gdy wszyscy milkną, aby pamiętać",
+      "ex": [
+        "Tłum zachował minutę ciszy przed meczem.",
+        "Podczas uroczystości były dwie minuty ciszy.",
+        "Nauczycielka poprosiła o minutę ciszy za dawnego dyrektora."
+      ]
+    },
+    {
+      "word": "struck",
+      "def": "uderzyło coś z siłą",
+      "ex": [
+        "Piłka uderzyła w okno i je rozbiła.",
+        "Piorun uderzył w wysokie drzewo na polu.",
+        "Samochód uderzył w płot na oblodzonej drodze."
+      ]
+    },
+    {
+      "word": "survivors",
+      "def": "ludzie, którzy pozostają przy życiu po niebezpiecznym wydarzeniu",
+      "ex": [
+        "Ocalałych z pożaru przewieziono do szpitala.",
+        "Dwóch ocalałych znaleziono na wyspie.",
+        "Ocalali z wypadku rozmawiali z reporterami."
+      ]
+    },
+    {
+      "word": "illnesses",
+      "def": "choroby lub problemy zdrowotne",
+      "ex": [
+        "Niektóre choroby są częste zimą.",
+        "Przychodnia leczy lekkie schorzenia.",
+        "Opuścił pracę z powodu długiej choroby."
+      ]
+    },
+    {
+      "word": "toxic dust",
+      "def": "bardzo drobne cząstki trującej substancji w powietrzu",
+      "ex": [
+        "Robotnicy nosili maski, by uniknąć toksycznego pyłu.",
+        "Toksyczny pył wypełniał powietrze wokół starej fabryki przez tygodnie.",
+        "Toksyczny pył z kopalni osiadł na mieście."
+      ]
+    },
+    {
+      "word": "held",
+      "def": "zorganizowane, dla wydarzenia lub spotkania",
+      "ex": [
+        "Festiwal odbywa się co roku w sierpniu.",
+        "Zebranie odbyło się w ratuszu.",
+        "Zorganizowano koncert, by zebrać pieniądze dla szkoły."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Członkowie rodzin odczytywali na głos nazwiska ofiar w porządku alfabetycznym.",
+      "a": true,
+      "why": "Rodziny zmieniały się przy odczytywaniu nazwisk na głos, po kolei, od pierwszej litery alfabetu do ostatniej."
+    },
+    {
+      "s": "Uroczystość w Nowym Jorku była otwarta dla ogółu społeczeństwa.",
+      "a": false,
+      "why": "Uroczystość nie była otwarta dla ogółu społeczeństwa; wpuszczano tylko rodziny, ratowników i zaproszonych gości."
+    },
+    {
+      "s": "Odczytywanie nazwisk trwało kilka godzin.",
+      "a": true,
+      "why": "Każdy czytający przejmował po poprzednim, a odczytywanie trwało kilka godzin."
+    },
+    {
+      "s": "Siódma minuta ciszy nastąpiła przed odczytaniem pierwszego nazwiska.",
+      "a": false,
+      "why": "Siódma minuta ciszy nastąpiła po odczytaniu ostatniego nazwiska, dla ocalałych i ratowników, którzy od tamtej pory zmarli."
+    },
+    {
+      "s": "Uroczystości odbyły się wyłącznie w Nowym Jorku.",
+      "a": false,
+      "why": "Uroczystości odbyły się także przy Pentagonie i w miejscu w Shanksville, gdzie samolot runął na polu."
+    },
+    {
+      "s": "Niektóre rodziny dodawały kilka własnych słów, gdy przychodziła kolej na nazwisko ich krewnego.",
+      "a": true,
+      "why": "Członkowie rodzin odczytywali nazwiska, a gdy przychodziła kolej na nazwisko własnego krewnego, niektórzy dodawali kilka słów."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "W dwudziestą piątą rocznicę ataków z 11 września rodziny zebrały się na placu pamięci w Nowym Jorku. Odczytały na głos nazwiska ofiar i zachowały siedem minut ciszy.",
+      "a": true,
+      "why": "Główna uroczystość odbyła się w miejscu, gdzie stało dawne World Trade Center; członkowie rodzin odczytali tam na głos każde nazwisko, a plac siedmiokrotnie pogrążał się w ciszy."
+    },
+    {
+      "s": "W dwudziestą piątą rocznicę ataków z 11 września rodziny zebrały się na placu pamięci w Nowym Jorku. Uroczystość była otwarta dla każdego, kto chciał przyjść i posłuchać odczytywania.",
+      "a": false,
+      "why": "Prawie, ale uroczystość nie była otwarta dla ogółu społeczeństwa; wpuszczano tylko rodziny, ratowników i zaproszonych gości."
+    },
+    {
+      "s": "W dwudziestą piątą rocznicę ataków z 11 września Nowy Jork otworzył nowe muzeum poświęcone tamtemu dniu. Zwiedzających zaproszono do bezpłatnego zwiedzania przez cały weekend.",
+      "a": false,
+      "why": "Nie otwarto żadnego nowego muzeum; wiadomość dotyczy uroczystości na placu pamięci, gdzie rodziny odczytały nazwiska i zachowały siedem minut ciszy."
+    }
+  ],
+  "dialogue": {
+    "It takes as long as it takes": "Używa się tego, by powiedzieć, że czegoś nie powinno się przyspieszać, bez względu na to, ile czasu to zajmie.",
+    "after all these years": "Używa się tego, by powiedzieć, że minęło bardzo dużo czasu, a coś mimo to pozostało niezmienione.",
+    "you don't forget a morning like that": "Używa się tego, by powiedzieć, że niektóre dni są na tyle poważne, że zostają w pamięci na całe życie.",
+    "you didn't have to be there": "Używa się tego, by powiedzieć, że nie trzeba było być obecnym, aby poczuć powagę czegoś.",
+    "the least anyone can do": "Używa się tego, by powiedzieć, że jest to najmniejsza rzecz, jaką wypada zrobić dla kogoś."
+  }
+}

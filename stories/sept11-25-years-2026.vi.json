@@ -1,0 +1,413 @@
+{
+  "id": "sept11-25-years-2026",
+  "number": 109,
+  "lang": "vi",
+  "headline": "Các gia đình đọc tên khi New York đánh dấu 25 năm",
+  "chunks": [
+    "Hai mươi lăm năm đã trôi qua kể từ vụ tấn công ngày 11 tháng 9 năm 2001, khiến 2.977 người thiệt mạng. Vào ngày kỷ niệm, các gia đình tập trung tại quảng trường tưởng niệm ở thành phố New York cho buổi lễ chính. Quảng trường nằm trên nền đất của tòa Trung tâm Thương mại Thế giới cũ. Phần lớn những người thiệt mạng đã chết ngay tại đó. Buổi lễ không mở cửa cho công chúng nói chung. Chỉ có gia đình, nhân viên cứu hộ và khách mời được cho vào.",
+    "Các thành viên gia đình đọc to tên các nạn nhân theo thứ tự bảng chữ cái. Họ đọc lần lượt từng người một, và mỗi người đọc tiếp nối người trước. Việc đọc tên kéo dài trong nhiều giờ. Khi đến lượt tên người thân của mình, một số gia đình đã nói thêm vài lời riêng. Mọi cái tên đều được đọc to. Đối với các gia đình, buổi sáng đó là lúc để nhớ lại ngày họ mất đi một người mình yêu thương.",
+    "Bảy phút mặc niệm đánh dấu buổi sáng hôm đó. Lần đầu tiên diễn ra lúc 8 giờ 46, phút mà chiếc máy bay đầu tiên đâm vào tòa tháp bắc. Lúc 9 giờ 3, quảng trường lại im lặng lần thứ hai, cho khoảnh khắc chiếc máy bay thứ hai đâm vào tòa tháp nam. Lần thứ ba, lúc 9 giờ 37, dành cho chiếc máy bay đâm vào Lầu Năm Góc. Tòa tháp nam sụp đổ lúc 9 giờ 59. Sau đó là 10 giờ 3, khi một chiếc máy bay rơi xuống một cánh đồng ở Shanksville, bang Pennsylvania. Lần thứ sáu dành cho 10 giờ 28, khi tòa tháp bắc sụp đổ.",
+    "Phút mặc niệm thứ bảy diễn ra sau khi cái tên cuối cùng được đọc xong. Đó là dành cho những người sống sót và nhân viên cứu hộ đã qua đời từ đó đến nay vì các bệnh liên quan đến bụi độc mà họ đã hít phải. Các buổi lễ cũng được tổ chức tại Lầu Năm Góc và tại địa điểm Shanksville. Ở đó cũng có người đến để tưởng nhớ. Đối với cả nước, ngày kỷ niệm là dịp để nhớ lại một buổi sáng mà đất nước đã trải qua hai mươi lăm năm trước. Những cái tên đã được đọc lên, và những phút mặc niệm đã được giữ trọn."
+  ],
+  "verbs": [
+    {
+      "base": "go by",
+      "correct": "Trôi qua, khi nói về thời gian",
+      "wrong": "Bị phần lớn mọi người quên lãng"
+    },
+    {
+      "base": "come together",
+      "correct": "Tập hợp lại một chỗ thành một nhóm",
+      "wrong": "Phát biểu trước một đám đông người"
+    },
+    {
+      "base": "let in",
+      "correct": "Cho phép ai đó vào một nơi",
+      "wrong": "Yêu cầu ai đó nói trước tiên"
+    },
+    {
+      "base": "read out",
+      "correct": "Đọc to những lời đã viết ra",
+      "wrong": "Học thuộc lòng một điều gì đó"
+    },
+    {
+      "base": "take over",
+      "correct": "Tiếp tục một công việc từ người khác",
+      "wrong": "Đọc thầm điều gì đó cho riêng mình"
+    },
+    {
+      "base": "go on",
+      "correct": "Tiếp diễn trong một khoảng thời gian",
+      "wrong": "Được tổ chức ở một thành phố khác"
+    },
+    {
+      "base": "come up",
+      "correct": "Đến lượt trong một danh sách hoặc thứ tự",
+      "wrong": "Được nói ra bằng một giọng rất khẽ"
+    },
+    {
+      "base": "look back on",
+      "correct": "Nghĩ lại về một thời điểm trong quá khứ",
+      "wrong": "Chăm sóc cho một người đang bị ốm"
+    },
+    {
+      "base": "come down",
+      "correct": "Rơi từ trên không xuống mặt đất",
+      "wrong": "Bay đến một sân bay khác"
+    },
+    {
+      "base": "pass away",
+      "correct": "Qua đời",
+      "wrong": "Ngất xỉu"
+    },
+    {
+      "base": "breathe in",
+      "correct": "Hít không khí hoặc bụi vào phổi",
+      "wrong": "Ho mãi mà không thể nào dừng lại"
+    },
+    {
+      "base": "live through",
+      "correct": "Sống qua một sự kiện khó khăn",
+      "wrong": "Xem một sự kiện trên truyền hình"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go by",
+      "def": "Trôi qua, khi nói về thời gian",
+      "ex": [
+        "Ba năm đã trôi qua trước khi cô ấy về thăm quê hương lần nữa.",
+        "Mùa hè trôi qua rất nhanh đối với bọn trẻ.",
+        "Khi các tuần trôi qua, khu vườn ngập tràn hoa."
+      ]
+    },
+    {
+      "verb": "Come together",
+      "def": "Tập hợp lại một chỗ thành một nhóm",
+      "ex": [
+        "Cả ngôi làng tập hợp lại cho lễ hội mùa gặt.",
+        "Bạn học cũ tập hợp lại cứ mười năm một lần để họp lớp.",
+        "Hàng xóm tập hợp lại trong nhà thờ sau trận lũ."
+      ]
+    },
+    {
+      "verb": "Let in",
+      "def": "Cho phép ai đó vào một nơi",
+      "ex": [
+        "Bảo tàng cho khách tham quan vào từ mười giờ sáng.",
+        "Cô ấy cho con mèo vào nhà trước khi trời bắt đầu mưa.",
+        "Những người bảo vệ chỉ cho những ai có vé vào."
+      ]
+    },
+    {
+      "verb": "Read out",
+      "def": "Đọc to những lời đã viết ra",
+      "ex": [
+        "Người dẫn chương trình đọc to tên những người thắng cuộc.",
+        "Y tá đọc to hướng dẫn của bác sĩ cho bệnh nhân nghe.",
+        "Xin hãy đọc to địa chỉ thật chậm để tôi có thể chép lại."
+      ]
+    },
+    {
+      "verb": "Take over",
+      "def": "Tiếp tục một công việc từ người khác",
+      "ex": [
+        "Một phi công thứ hai tiếp nhận từ cơ trưởng trong giờ cuối của chuyến bay.",
+        "Khi người thợ làm bánh về nhà, con trai bà tiếp nhận quầy hàng.",
+        "Người diễn giả thứ hai tiếp nối người đầu tiên mà không hề dừng lại."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "def": "Tiếp diễn trong một khoảng thời gian",
+      "ex": [
+        "Buổi hòa nhạc tiếp diễn gần ba giờ đồng hồ.",
+        "Cơn mưa tiếp diễn suốt cả cuối tuần.",
+        "Cuộc họp tiếp diễn lâu hơn nhiều so với dự kiến."
+      ]
+    },
+    {
+      "verb": "Come up",
+      "def": "Đến lượt trong một danh sách hoặc thứ tự",
+      "ex": [
+        "Khi đến lượt tên bạn, xin hãy bước tới bàn tiếp tân.",
+        "Bài hát của tôi đến lượt tiếp theo trong danh sách phát.",
+        "Lượt của chúng tôi đến sau một thời gian dài chờ đợi ở phòng khám."
+      ]
+    },
+    {
+      "verb": "Look back on",
+      "def": "Nghĩ lại về một thời điểm trong quá khứ",
+      "ex": [
+        "Ông tôi thích nghĩ lại những năm tháng đi biển của mình.",
+        "Cô ấy nghĩ lại công việc đầu tiên của mình với cảm xúc lẫn lộn.",
+        "Nhiều năm sau, cả đội nghĩ lại mùa giải đó với niềm tự hào."
+      ]
+    },
+    {
+      "verb": "Come down",
+      "def": "Rơi từ trên không xuống mặt đất",
+      "ex": [
+        "Cánh diều rơi xuống vườn nhà hàng xóm khi gió lặng.",
+        "Chiếc máy bay nhỏ rơi xuống một cánh đồng sau khi động cơ ngừng hoạt động.",
+        "Một quả bóng thời tiết rơi xuống sa mạc sau một chuyến bay dài."
+      ]
+    },
+    {
+      "verb": "Pass away",
+      "def": "Qua đời",
+      "ex": [
+        "Bà của cô ấy qua đời thanh thản vào mùa đông năm ngoái.",
+        "Người đàn ông già qua đời tại nhà, có gia đình bên cạnh.",
+        "Cha của người hàng xóm chúng tôi qua đời sau một thời gian dài mắc bệnh."
+      ]
+    },
+    {
+      "verb": "Breathe in",
+      "def": "Hít không khí hoặc bụi vào phổi",
+      "ex": [
+        "Bác sĩ yêu cầu anh ấy hít vào chậm rãi và giữ hơi thở.",
+        "Lính cứu hỏa đeo mặt nạ để không hít phải khói.",
+        "Cô ấy hít làn không khí lạnh trên đỉnh núi."
+      ]
+    },
+    {
+      "verb": "Live through",
+      "def": "Sống qua một sự kiện khó khăn",
+      "ex": [
+        "Ông bà tôi đã sống qua chiến tranh khi còn là những đứa trẻ nhỏ.",
+        "Thị trấn đã sống qua ba trận lũ trong mười năm.",
+        "Những người đã sống qua trận động đất vẫn còn nhớ đêm đó."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "anniversary",
+      "def": "ngày mà một điều gì đó xảy ra, lặp lại mỗi năm",
+      "ex": [
+        "Bố mẹ tôi kỷ niệm ngày cưới của họ vào tháng Sáu.",
+        "Bảo tàng khai trương vào ngày kỷ niệm sinh nhật của người sáng lập.",
+        "Năm sau là kỷ niệm năm mươi năm của trường."
+      ]
+    },
+    {
+      "word": "memorial plaza",
+      "def": "một không gian công cộng ngoài trời được xây để tưởng nhớ người đã mất",
+      "ex": [
+        "Hoa được đặt tại quảng trường tưởng niệm sau buổi lễ.",
+        "Thành phố xây một quảng trường tưởng niệm bên cạnh nhà ga cũ.",
+        "Khách tham quan bước đi lặng lẽ qua quảng trường tưởng niệm."
+      ]
+    },
+    {
+      "word": "ceremony",
+      "def": "một sự kiện trang trọng được tổ chức để đánh dấu một dịp nào đó",
+      "ex": [
+        "Lễ tốt nghiệp kéo dài hai giờ.",
+        "Một buổi lễ ngắn được tổ chức để khánh thành cây cầu mới.",
+        "Huy chương được trao trong buổi lễ."
+      ]
+    },
+    {
+      "word": "site",
+      "def": "nơi mà một điều gì đó đang hoặc từng nằm ở đó",
+      "ex": [
+        "Nơi từng là nhà máy cũ giờ đây là một công viên.",
+        "Công nhân dọn dẹp khu đất trước khi việc xây dựng bắt đầu.",
+        "Tòa lâu đài đứng trên nền đất của một pháo đài cổ hơn."
+      ]
+    },
+    {
+      "word": "former",
+      "def": "từng tồn tại trong quá khứ, không phải bây giờ",
+      "ex": [
+        "Khách sạn đó từng là một bệnh viện.",
+        "Một thầy giáo cũ của tôi giờ đây viết sách.",
+        "Nhà ga xe lửa cũ giờ đây là một khu chợ."
+      ]
+    },
+    {
+      "word": "general public",
+      "def": "những người bình thường, không phải một nhóm đặc biệt",
+      "ex": [
+        "Khu vườn mở cửa cho công chúng nói chung vào cuối tuần.",
+        "Cuộc họp đó không mở cửa cho công chúng nói chung.",
+        "Vé sẽ được bán cho công chúng nói chung vào thứ Hai."
+      ]
+    },
+    {
+      "word": "rescue workers",
+      "def": "những người có công việc là cứu người khác khỏi nguy hiểm",
+      "ex": [
+        "Nhân viên cứu hộ tìm kiếm khắp các ngọn đồi để tìm những người leo núi bị lạc.",
+        "Sau trận động đất, nhân viên cứu hộ có mặt trong vòng vài giờ.",
+        "Nhân viên cứu hộ kéo người lái xe ra khỏi dòng sông."
+      ]
+    },
+    {
+      "word": "invited guests",
+      "def": "những người được mời đến tham dự một sự kiện",
+      "ex": [
+        "Chỉ khách mời mới được vào đám cưới.",
+        "Khách mời ngồi ở những hàng ghế đầu.",
+        "Danh sách khách mời được kiểm tra tại cửa."
+      ]
+    },
+    {
+      "word": "victims",
+      "def": "những người bị thương hoặc thiệt mạng do một sự kiện",
+      "ex": [
+        "Nạn nhân của trận lũ được cho trú ẩn tại trường học.",
+        "Một quỹ được lập ra cho gia đình các nạn nhân.",
+        "Tên của các nạn nhân được đặt trên một bức tường."
+      ]
+    },
+    {
+      "word": "alphabetical order",
+      "def": "được sắp xếp từ A đến Z theo chữ cái đầu tiên",
+      "ex": [
+        "Những cuốn sách được xếp theo thứ tự bảng chữ cái trên kệ.",
+        "Xin hãy liệt kê các học sinh theo thứ tự bảng chữ cái.",
+        "Tên cô ấy đứng đầu tiên theo thứ tự bảng chữ cái."
+      ]
+    },
+    {
+      "word": "one at a time",
+      "def": "lần lượt từng người một, không phải tất cả cùng lúc",
+      "ex": [
+        "Bọn trẻ bước vào phòng từng đứa một.",
+        "Xin hãy đặt câu hỏi của các bạn từng người một.",
+        "Những chiếc xe băng qua cây cầu hẹp từng chiếc một."
+      ]
+    },
+    {
+      "word": "relative",
+      "def": "một thành viên trong gia đình bạn",
+      "ex": [
+        "Một người họ hàng từ Canada đến thăm chúng tôi tuần này.",
+        "Cô ấy không còn người họ hàng nào còn sống trong thành phố.",
+        "Anh ấy là một người họ hàng xa bên phía mẹ tôi."
+      ]
+    },
+    {
+      "word": "aloud",
+      "def": "bằng một giọng mà người khác có thể nghe thấy",
+      "ex": [
+        "Cô giáo đọc to bài thơ.",
+        "Anh ấy đếm tiền thành tiếng.",
+        "Cô ấy đọc to lá thư cho mẹ mình nghe."
+      ]
+    },
+    {
+      "word": "moments of silence",
+      "def": "những khoảng thời gian ngắn mọi người giữ im lặng để tưởng nhớ",
+      "ex": [
+        "Đám đông dành một phút mặc niệm trước trận đấu.",
+        "Có hai phút mặc niệm trong buổi lễ.",
+        "Cô giáo yêu cầu một phút mặc niệm cho vị hiệu trưởng cũ."
+      ]
+    },
+    {
+      "word": "struck",
+      "def": "đã đâm hoặc va mạnh vào một vật gì đó",
+      "ex": [
+        "Quả bóng đâm vào cửa sổ và làm vỡ nó.",
+        "Sét đánh vào cây cao trên cánh đồng.",
+        "Chiếc xe đâm vào hàng rào trên con đường đóng băng."
+      ]
+    },
+    {
+      "word": "survivors",
+      "def": "những người sống sót sau một sự kiện nguy hiểm",
+      "ex": [
+        "Những người sống sót sau vụ cháy được đưa đến bệnh viện.",
+        "Hai người sống sót được tìm thấy trên đảo.",
+        "Những người sống sót sau vụ tai nạn nói chuyện với các phóng viên."
+      ]
+    },
+    {
+      "word": "illnesses",
+      "def": "các bệnh tật hoặc vấn đề sức khỏe",
+      "ex": [
+        "Một số bệnh thường gặp vào mùa đông.",
+        "Phòng khám điều trị những bệnh nhẹ.",
+        "Anh ấy nghỉ làm vì một căn bệnh kéo dài."
+      ]
+    },
+    {
+      "word": "toxic dust",
+      "def": "những hạt vật chất độc hại rất nhỏ trong không khí",
+      "ex": [
+        "Công nhân đeo mặt nạ để tránh bụi độc.",
+        "Bụi độc lan tràn trong không khí quanh nhà máy cũ suốt nhiều tuần.",
+        "Bụi độc từ mỏ lắng xuống thị trấn."
+      ]
+    },
+    {
+      "word": "held",
+      "def": "được tổ chức, cho một sự kiện hoặc cuộc họp",
+      "ex": [
+        "Lễ hội được tổ chức vào mỗi tháng Tám.",
+        "Cuộc họp được tổ chức tại tòa thị chính.",
+        "Một buổi hòa nhạc được tổ chức để gây quỹ cho trường."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Các thành viên gia đình đọc to tên các nạn nhân theo thứ tự bảng chữ cái.",
+      "a": true,
+      "why": "Các gia đình thay phiên nhau đọc to tên, từng người một, từ chữ cái đầu tiên đến chữ cái cuối cùng trong bảng chữ cái."
+    },
+    {
+      "s": "Buổi lễ tại thành phố New York mở cửa cho công chúng nói chung.",
+      "a": false,
+      "why": "Buổi lễ không mở cửa cho công chúng nói chung; chỉ có gia đình, nhân viên cứu hộ và khách mời được cho vào."
+    },
+    {
+      "s": "Việc đọc tên kéo dài trong nhiều giờ.",
+      "a": true,
+      "why": "Mỗi người đọc tiếp nối người trước, và việc đọc tên kéo dài nhiều giờ."
+    },
+    {
+      "s": "Phút mặc niệm thứ bảy diễn ra trước khi cái tên đầu tiên được đọc.",
+      "a": false,
+      "why": "Phút mặc niệm thứ bảy diễn ra sau khi cái tên cuối cùng được đọc xong, dành cho những người sống sót và nhân viên cứu hộ đã qua đời từ đó."
+    },
+    {
+      "s": "Các buổi lễ chỉ được tổ chức tại thành phố New York.",
+      "a": false,
+      "why": "Các buổi lễ cũng được tổ chức tại Lầu Năm Góc và tại địa điểm Shanksville, nơi một chiếc máy bay rơi xuống một cánh đồng."
+    },
+    {
+      "s": "Một số gia đình nói thêm vài lời riêng khi đến lượt tên người thân của họ.",
+      "a": true,
+      "why": "Các thành viên gia đình đọc tên, và khi đến lượt tên người thân của mình, một số người đã nói thêm vài lời."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Vào dịp kỷ niệm hai mươi lăm năm vụ tấn công ngày 11 tháng 9, các gia đình tập trung tại quảng trường tưởng niệm ở thành phố New York. Họ đọc to tên các nạn nhân và giữ bảy phút mặc niệm.",
+      "a": true,
+      "why": "Buổi lễ chính được tổ chức trên nền đất của tòa Trung tâm Thương mại Thế giới cũ, nơi các thành viên gia đình đọc to từng cái tên và quảng trường im lặng bảy lần."
+    },
+    {
+      "s": "Vào dịp kỷ niệm hai mươi lăm năm vụ tấn công ngày 11 tháng 9, các gia đình tập trung tại quảng trường tưởng niệm ở thành phố New York. Buổi lễ mở cửa cho bất kỳ ai muốn đến nghe phần đọc tên.",
+      "a": false,
+      "why": "Gần đúng, nhưng buổi lễ không mở cửa cho công chúng nói chung; chỉ có gia đình, nhân viên cứu hộ và khách mời được cho vào."
+    },
+    {
+      "s": "Vào dịp kỷ niệm hai mươi lăm năm vụ tấn công ngày 11 tháng 9, thành phố New York khai trương một bảo tàng mới về ngày hôm đó. Du khách được mời tham quan miễn phí suốt cả cuối tuần.",
+      "a": false,
+      "why": "Không có bảo tàng mới nào được khai trương; câu chuyện nói về buổi lễ tại quảng trường tưởng niệm, nơi các gia đình đọc tên và giữ bảy phút mặc niệm."
+    }
+  ],
+  "dialogue": {
+    "It takes as long as it takes": "Dùng để nói rằng một điều gì đó không nên bị vội vã, dù nó cần bao lâu đi nữa.",
+    "after all these years": "Dùng để nói rằng dù đã rất nhiều thời gian trôi qua, một điều gì đó vẫn không thay đổi.",
+    "you don't forget a morning like that": "Dùng để nói rằng một số ngày quá nghiêm trọng nên chúng ở lại trong ký ức suốt đời.",
+    "you didn't have to be there": "Dùng để nói rằng không cần phải có mặt tại một sự kiện mới cảm nhận được mức độ nghiêm trọng của nó.",
+    "the least anyone can do": "Dùng để nói rằng đó là điều nhỏ nhất mà người ta nên làm cho ai đó."
+  }
+}

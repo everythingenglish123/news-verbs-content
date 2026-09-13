@@ -1,0 +1,413 @@
+{
+  "id": "sept11-25-years-2026",
+  "number": 109,
+  "lang": "id",
+  "headline": "Keluarga membacakan nama saat New York memperingati 25 tahun",
+  "chunks": [
+    "Dua puluh lima tahun telah berlalu sejak serangan 11 September 2001, yang menewaskan 2.977 orang. Pada peringatan ini, keluarga-keluarga berkumpul di plaza peringatan di New York City untuk upacara utama. Plaza ini berdiri di lokasi bekas World Trade Center. Sebagian besar korban tewas justru di tempat itu. Upacara ini tidak dibuka untuk masyarakat umum. Hanya keluarga, petugas penyelamat, dan tamu undangan yang diizinkan masuk.",
+    "Anggota keluarga membacakan nama para korban secara berurutan menurut abjad. Mereka membaca satu per satu, dan setiap pembaca mengambil alih dari pembaca sebelumnya. Pembacaan berlangsung selama beberapa jam. Ketika giliran nama kerabat mereka sendiri tiba, beberapa keluarga menambahkan beberapa kata mereka sendiri. Setiap nama diucapkan dengan lantang. Bagi keluarga, pagi itu adalah waktu untuk mengenang kembali hari saat mereka kehilangan orang yang mereka cintai.",
+    "Tujuh momen hening menandai pagi itu. Yang pertama terjadi pukul 08.46, menit ketika pesawat pertama menabrak menara utara. Pada pukul 09.03 plaza kembali hening untuk kedua kalinya, untuk saat pesawat kedua menabrak menara selatan. Yang ketiga, pukul 09.37, untuk pesawat yang menabrak Pentagon. Menara selatan runtuh pukul 09.59. Kemudian pukul 10.03, saat sebuah pesawat jatuh di sebuah ladang di Shanksville, Pennsylvania. Yang keenam untuk pukul 10.28, saat menara utara runtuh.",
+    "Momen hening ketujuh datang setelah nama terakhir dibacakan. Momen ini didedikasikan untuk para penyintas dan petugas penyelamat yang sejak itu meninggal karena penyakit yang terkait dengan debu beracun yang mereka hirup. Upacara juga digelar di Pentagon dan di lokasi Shanksville. Di sana juga orang-orang datang untuk mengenang. Bagi negara ini, peringatan tersebut adalah hari untuk mengenang pagi yang dialaminya dua puluh lima tahun silam. Nama-nama telah dibacakan, dan momen hening telah dijaga."
+  ],
+  "verbs": [
+    {
+      "base": "go by",
+      "correct": "Berlalu, saat berbicara tentang waktu",
+      "wrong": "Dilupakan oleh kebanyakan orang"
+    },
+    {
+      "base": "come together",
+      "correct": "Berkumpul di satu tempat sebagai kelompok",
+      "wrong": "Berbicara di depan sekumpulan orang banyak"
+    },
+    {
+      "base": "let in",
+      "correct": "Mengizinkan seseorang masuk ke suatu tempat",
+      "wrong": "Meminta seseorang untuk berbicara duluan"
+    },
+    {
+      "base": "read out",
+      "correct": "Mengucapkan kata-kata tertulis dengan lantang",
+      "wrong": "Menghafalkan sesuatu di luar kepala"
+    },
+    {
+      "base": "take over",
+      "correct": "Melanjutkan tugas dari orang lain",
+      "wrong": "Membaca sesuatu dalam diam sendirian"
+    },
+    {
+      "base": "go on",
+      "correct": "Berlanjut selama suatu periode waktu",
+      "wrong": "Diadakan di kota yang berbeda"
+    },
+    {
+      "base": "come up",
+      "correct": "Tiba gilirannya dalam sebuah daftar atau urutan",
+      "wrong": "Diucapkan dengan suara yang sangat pelan"
+    },
+    {
+      "base": "look back on",
+      "correct": "Mengenang kembali suatu waktu di masa lalu",
+      "wrong": "Merawat seseorang yang sedang sakit"
+    },
+    {
+      "base": "come down",
+      "correct": "Jatuh dari udara ke tanah",
+      "wrong": "Terbang menuju bandara yang lain"
+    },
+    {
+      "base": "pass away",
+      "correct": "Meninggal dunia",
+      "wrong": "Pingsan"
+    },
+    {
+      "base": "breathe in",
+      "correct": "Menghirup udara atau debu ke dalam paru-paru",
+      "wrong": "Batuk tanpa bisa berhenti sama sekali"
+    },
+    {
+      "base": "live through",
+      "correct": "Hidup selama peristiwa yang berat",
+      "wrong": "Menonton suatu peristiwa di televisi"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go by",
+      "def": "Berlalu, saat berbicara tentang waktu",
+      "ex": [
+        "Tiga tahun berlalu sebelum ia mengunjungi kampung halamannya lagi.",
+        "Musim panas berlalu dengan cepat bagi anak-anak.",
+        "Seiring berlalunya minggu, taman itu dipenuhi bunga."
+      ]
+    },
+    {
+      "verb": "Come together",
+      "def": "Berkumpul di satu tempat sebagai kelompok",
+      "ex": [
+        "Seluruh desa berkumpul untuk festival panen.",
+        "Teman sekelas lama berkumpul setiap sepuluh tahun untuk reuni.",
+        "Para tetangga berkumpul di aula gereja setelah banjir."
+      ]
+    },
+    {
+      "verb": "Let in",
+      "def": "Mengizinkan seseorang masuk ke suatu tempat",
+      "ex": [
+        "Museum mengizinkan pengunjung masuk mulai pukul sepuluh pagi.",
+        "Ia mengizinkan kucing itu masuk sebelum hujan mulai turun.",
+        "Para penjaga hanya mengizinkan orang yang membawa tiket masuk."
+      ]
+    },
+    {
+      "verb": "Read out",
+      "def": "Mengucapkan kata-kata tertulis dengan lantang",
+      "ex": [
+        "Pembawa acara membacakan nama-nama pemenang dengan lantang.",
+        "Perawat membacakan instruksi dokter kepada pasien dengan lantang.",
+        "Tolong bacakan alamat itu perlahan agar saya bisa menyalinnya."
+      ]
+    },
+    {
+      "verb": "Take over",
+      "def": "Melanjutkan tugas dari orang lain",
+      "ex": [
+        "Pilot kedua mengambil alih dari kapten untuk jam terakhir penerbangan.",
+        "Ketika si pembuat roti pulang, anaknya mengambil alih di meja kasir.",
+        "Pembicara kedua langsung mengambil alih dari pembicara pertama tanpa jeda."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "def": "Berlanjut selama suatu periode waktu",
+      "ex": [
+        "Konser itu berlanjut selama hampir tiga jam.",
+        "Hujan terus berlanjut sepanjang akhir pekan.",
+        "Rapat itu berlanjut jauh lebih lama dari yang direncanakan."
+      ]
+    },
+    {
+      "verb": "Come up",
+      "def": "Tiba gilirannya dalam sebuah daftar atau urutan",
+      "ex": [
+        "Ketika nama Anda tiba gilirannya, silakan maju ke meja depan.",
+        "Lagu saya tiba gilirannya berikutnya di daftar putar.",
+        "Giliran kami tiba setelah menunggu lama di klinik."
+      ]
+    },
+    {
+      "verb": "Look back on",
+      "def": "Mengenang kembali suatu waktu di masa lalu",
+      "ex": [
+        "Kakek saya suka mengenang kembali tahun-tahunnya di laut.",
+        "Ia mengenang kembali pekerjaan pertamanya dengan perasaan campur aduk.",
+        "Bertahun-tahun kemudian, tim itu mengenang kembali musim tersebut dengan bangga."
+      ]
+    },
+    {
+      "verb": "Come down",
+      "def": "Jatuh dari udara ke tanah",
+      "ex": [
+        "Layang-layang itu jatuh ke kebun tetangga saat angin mereda.",
+        "Pesawat kecil itu jatuh di sebuah ladang setelah mesinnya berhenti.",
+        "Sebuah balon cuaca jatuh di gurun setelah penerbangan yang panjang."
+      ]
+    },
+    {
+      "verb": "Pass away",
+      "def": "Meninggal dunia",
+      "ex": [
+        "Neneknya meninggal dunia dengan tenang musim dingin lalu.",
+        "Pria tua itu meninggal dunia di rumah, di samping keluarganya.",
+        "Ayah tetangga kami meninggal dunia setelah sakit yang panjang."
+      ]
+    },
+    {
+      "verb": "Breathe in",
+      "def": "Menghirup udara atau debu ke dalam paru-paru",
+      "ex": [
+        "Dokter memintanya menghirup napas perlahan dan menahannya.",
+        "Petugas pemadam kebakaran memakai masker agar tidak menghirup asap.",
+        "Ia menghirup udara dingin di puncak gunung."
+      ]
+    },
+    {
+      "verb": "Live through",
+      "def": "Hidup selama peristiwa yang berat",
+      "ex": [
+        "Kakek nenek saya mengalami langsung perang saat mereka masih anak kecil.",
+        "Kota kecil itu mengalami langsung tiga banjir dalam sepuluh tahun.",
+        "Orang-orang yang mengalami langsung gempa itu masih mengingat malam itu."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "anniversary",
+      "def": "tanggal setiap tahun ketika sesuatu terjadi",
+      "ex": [
+        "Orang tua saya merayakan ulang tahun pernikahan mereka pada bulan Juni.",
+        "Museum itu dibuka pada peringatan hari lahir sang pendiri.",
+        "Tahun depan adalah peringatan kelima puluh sekolah itu."
+      ]
+    },
+    {
+      "word": "memorial plaza",
+      "def": "ruang publik terbuka yang dibangun untuk mengenang orang yang telah meninggal",
+      "ex": [
+        "Bunga-bunga ditinggalkan di plaza peringatan setelah upacara.",
+        "Kota itu membangun plaza peringatan di sebelah stasiun lama.",
+        "Para pengunjung berjalan dengan tenang melewati plaza peringatan."
+      ]
+    },
+    {
+      "word": "ceremony",
+      "def": "acara resmi yang diadakan untuk menandai suatu momen",
+      "ex": [
+        "Upacara wisuda berlangsung selama dua jam.",
+        "Upacara singkat diadakan untuk meresmikan jembatan baru itu.",
+        "Medali diserahkan pada upacara tersebut."
+      ]
+    },
+    {
+      "word": "site",
+      "def": "tempat di mana sesuatu berada atau pernah berada",
+      "ex": [
+        "Lokasi pabrik lama itu kini menjadi sebuah taman.",
+        "Para pekerja membersihkan lokasi sebelum pembangunan dimulai.",
+        "Kastil itu berdiri di lokasi benteng yang lebih tua."
+      ]
+    },
+    {
+      "word": "former",
+      "def": "pernah ada di masa lalu, bukan sekarang",
+      "ex": [
+        "Hotel itu dulunya adalah sebuah rumah sakit.",
+        "Mantan guru saya kini menulis buku.",
+        "Stasiun kereta lama itu kini menjadi sebuah pasar."
+      ]
+    },
+    {
+      "word": "general public",
+      "def": "orang-orang biasa, bukan kelompok khusus",
+      "ex": [
+        "Taman itu terbuka untuk masyarakat umum pada akhir pekan.",
+        "Pertemuan itu tertutup untuk masyarakat umum.",
+        "Tiket akan dijual untuk masyarakat umum pada hari Senin."
+      ]
+    },
+    {
+      "word": "rescue workers",
+      "def": "orang-orang yang tugasnya menyelamatkan orang lain yang dalam bahaya",
+      "ex": [
+        "Petugas penyelamat menyisir perbukitan mencari pendaki yang hilang.",
+        "Setelah gempa, petugas penyelamat tiba dalam hitungan jam.",
+        "Petugas penyelamat menarik pengemudi itu keluar dari sungai."
+      ]
+    },
+    {
+      "word": "invited guests",
+      "def": "orang-orang yang diminta untuk hadir dalam suatu acara",
+      "ex": [
+        "Hanya tamu undangan yang boleh masuk ke pernikahan itu.",
+        "Para tamu undangan duduk di barisan depan.",
+        "Daftar tamu undangan diperiksa di pintu masuk."
+      ]
+    },
+    {
+      "word": "victims",
+      "def": "orang-orang yang terluka atau tewas akibat suatu peristiwa",
+      "ex": [
+        "Para korban banjir diberi tempat berlindung di sekolah.",
+        "Sebuah dana dibentuk untuk keluarga para korban.",
+        "Nama-nama korban diletakkan pada sebuah dinding."
+      ]
+    },
+    {
+      "word": "alphabetical order",
+      "def": "disusun dari A sampai Z menurut huruf pertama",
+      "ex": [
+        "Buku-buku disimpan secara alfabetis di rak.",
+        "Tolong susun daftar siswa secara alfabetis.",
+        "Namanya muncul pertama secara alfabetis."
+      ]
+    },
+    {
+      "word": "one at a time",
+      "def": "satu demi satu, bukan bersamaan",
+      "ex": [
+        "Anak-anak masuk ke ruangan satu demi satu.",
+        "Tolong ajukan pertanyaan Anda satu demi satu.",
+        "Mobil-mobil melintasi jembatan sempit itu satu demi satu."
+      ]
+    },
+    {
+      "word": "relative",
+      "def": "anggota keluarga Anda",
+      "ex": [
+        "Seorang kerabat dari Kanada mengunjungi kami minggu ini.",
+        "Ia tidak memiliki kerabat yang masih hidup di kota itu.",
+        "Ia adalah kerabat jauh dari pihak ibu saya."
+      ]
+    },
+    {
+      "word": "aloud",
+      "def": "dengan suara yang dapat didengar orang lain",
+      "ex": [
+        "Guru itu membacakan puisi dengan lantang.",
+        "Ia menghitung uang itu dengan lantang.",
+        "Ia membacakan surat itu dengan lantang kepada ibunya."
+      ]
+    },
+    {
+      "word": "moments of silence",
+      "def": "periode singkat ketika semua orang diam untuk mengenang",
+      "ex": [
+        "Kerumunan itu mengadakan hening cipta sebelum pertandingan.",
+        "Ada dua kali hening cipta selama upacara.",
+        "Guru itu meminta hening cipta untuk mantan kepala sekolah."
+      ]
+    },
+    {
+      "word": "struck",
+      "def": "menghantam sesuatu dengan keras",
+      "ex": [
+        "Bola itu menghantam jendela dan memecahkannya.",
+        "Petir menyambar pohon tinggi di ladang itu.",
+        "Mobil itu menabrak pagar di jalan yang licin karena es."
+      ]
+    },
+    {
+      "word": "survivors",
+      "def": "orang-orang yang tetap hidup setelah suatu peristiwa berbahaya",
+      "ex": [
+        "Para penyintas kebakaran itu dibawa ke rumah sakit.",
+        "Dua penyintas ditemukan di pulau itu.",
+        "Para penyintas kecelakaan itu berbicara kepada wartawan."
+      ]
+    },
+    {
+      "word": "illnesses",
+      "def": "penyakit atau masalah kesehatan",
+      "ex": [
+        "Beberapa penyakit umum terjadi pada musim dingin.",
+        "Klinik itu menangani penyakit ringan.",
+        "Ia tidak masuk kerja karena sakit yang berkepanjangan."
+      ]
+    },
+    {
+      "word": "toxic dust",
+      "def": "partikel-partikel sangat kecil dari bahan beracun di udara",
+      "ex": [
+        "Para pekerja memakai masker untuk menghindari debu beracun.",
+        "Debu beracun memenuhi udara di sekitar pabrik lama itu selama berminggu-minggu.",
+        "Debu beracun dari tambang itu mengendap di kota tersebut."
+      ]
+    },
+    {
+      "word": "held",
+      "def": "diselenggarakan, untuk suatu acara atau pertemuan",
+      "ex": [
+        "Festival itu diadakan setiap bulan Agustus.",
+        "Pertemuan itu diadakan di balai kota.",
+        "Sebuah konser diadakan untuk mengumpulkan dana bagi sekolah."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Anggota keluarga membacakan nama para korban secara berurutan menurut abjad.",
+      "a": true,
+      "why": "Keluarga-keluarga bergiliran membacakan nama dengan lantang, satu per satu, dari huruf pertama abjad hingga huruf terakhir."
+    },
+    {
+      "s": "Upacara di New York City terbuka untuk masyarakat umum.",
+      "a": false,
+      "why": "Upacara ini tidak dibuka untuk masyarakat umum; hanya keluarga, petugas penyelamat, dan tamu undangan yang diizinkan masuk."
+    },
+    {
+      "s": "Pembacaan nama-nama berlangsung selama beberapa jam.",
+      "a": true,
+      "why": "Setiap pembaca mengambil alih dari pembaca sebelumnya, dan pembacaan berlangsung selama beberapa jam."
+    },
+    {
+      "s": "Momen hening ketujuh datang sebelum nama pertama dibacakan.",
+      "a": false,
+      "why": "Momen hening ketujuh datang setelah nama terakhir dibacakan, untuk para penyintas dan petugas penyelamat yang sejak itu meninggal."
+    },
+    {
+      "s": "Upacara hanya diadakan di New York City.",
+      "a": false,
+      "why": "Upacara juga digelar di Pentagon dan di lokasi Shanksville, tempat sebuah pesawat jatuh di sebuah ladang."
+    },
+    {
+      "s": "Beberapa keluarga menambahkan beberapa kata mereka sendiri saat giliran nama kerabat mereka tiba.",
+      "a": true,
+      "why": "Anggota keluarga membacakan nama-nama, dan ketika giliran nama kerabat mereka sendiri tiba, beberapa menambahkan beberapa kata."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Pada peringatan dua puluh lima tahun serangan 11 September, keluarga-keluarga berkumpul di plaza peringatan di New York City. Mereka membacakan nama para korban dengan lantang dan menjaga tujuh momen hening.",
+      "a": true,
+      "why": "Upacara utama diadakan di lokasi bekas World Trade Center, tempat anggota keluarga membacakan setiap nama dengan lantang dan plaza itu menjadi hening sebanyak tujuh kali."
+    },
+    {
+      "s": "Pada peringatan dua puluh lima tahun serangan 11 September, keluarga-keluarga berkumpul di plaza peringatan di New York City. Upacara itu terbuka untuk siapa saja yang ingin datang dan mendengarkan pembacaan tersebut.",
+      "a": false,
+      "why": "Hampir benar, tetapi upacara ini tidak dibuka untuk masyarakat umum; hanya keluarga, petugas penyelamat, dan tamu undangan yang diizinkan masuk."
+    },
+    {
+      "s": "Pada peringatan dua puluh lima tahun serangan 11 September, New York City membuka sebuah museum baru tentang hari itu. Para pengunjung diundang untuk berkeliling secara gratis sepanjang akhir pekan.",
+      "a": false,
+      "why": "Tidak ada museum baru yang dibuka; berita ini tentang upacara di plaza peringatan, tempat keluarga membacakan nama-nama dan menjaga tujuh momen hening."
+    }
+  ],
+  "dialogue": {
+    "It takes as long as it takes": "Digunakan untuk mengatakan bahwa sesuatu tidak boleh terburu-buru, berapa pun lama waktu yang dibutuhkannya.",
+    "after all these years": "Digunakan untuk mengatakan bahwa waktu yang sangat lama telah berlalu, tetapi sesuatu tetap sama.",
+    "you don't forget a morning like that": "Digunakan untuk mengatakan bahwa beberapa hari begitu serius sehingga tetap ada dalam ingatan seumur hidup.",
+    "you didn't have to be there": "Digunakan untuk mengatakan bahwa hadir di suatu acara tidak diperlukan untuk merasakan betapa seriusnya hal itu.",
+    "the least anyone can do": "Digunakan untuk mengatakan bahwa itu adalah hal terkecil yang pantas dilakukan untuk seseorang."
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "id": "sept11-25-years-2026",
+  "number": 109,
+  "lang": "de",
+  "headline": "Familien lesen die Namen, während New York 25 Jahre gedenkt",
+  "chunks": [
+    "Fünfundzwanzig Jahre sind seit den Anschlägen vom 11. September 2001 vergangen, bei denen 2.977 Menschen getötet wurden. Am Jahrestag kamen Familien auf dem Gedenkplatz in New York City zur Hauptzeremonie zusammen. Der Platz liegt dort, wo früher das World Trade Center stand. Die meisten der Toten starben genau dort. Die Zeremonie war nicht für die Allgemeinheit geöffnet. Nur Angehörige, Rettungskräfte und geladene Gäste wurden eingelassen.",
+    "Familienangehörige lasen die Namen der Opfer in alphabetischer Reihenfolge vor. Sie lasen einen nach dem anderen, und jeder Vorleser übernahm von der vorigen Person. Das Vorlesen ging mehrere Stunden lang weiter. Wenn der Name des eigenen Angehörigen an der Reihe war, fügten manche Familien ein paar eigene Worte hinzu. Jeder Name wurde laut ausgesprochen. Für die Familien war der Morgen eine Zeit, um an den Tag zurückzudenken, an dem sie einen geliebten Menschen verloren.",
+    "Sieben Schweigeminuten prägten den Morgen. Die erste begann um 8:46 Uhr, in der Minute, als das erste Flugzeug den Nordturm traf. Um 9:03 Uhr wurde es auf dem Platz ein zweites Mal still, für den Moment, in dem das zweite Flugzeug den Südturm traf. Die dritte, um 9:37 Uhr, galt dem Flugzeug, das das Pentagon traf. Der Südturm stürzte um 9:59 Uhr ein. Dann kam 10:03 Uhr, als ein Flugzeug auf einem Feld in Shanksville, Pennsylvania, abstürzte. Die sechste galt 10:28 Uhr, als der Nordturm einstürzte.",
+    "Die siebte Schweigeminute kam, nachdem der letzte Name vorgelesen worden war. Sie galt den Überlebenden und Rettungskräften, die seither an Krankheiten gestorben sind, die mit dem giftigen Staub zusammenhängen, den sie eingeatmet hatten. Auch am Pentagon und am Ort in Shanksville fanden Zeremonien statt. Auch dort kamen Menschen zum Gedenken zusammen. Für das Land war der Jahrestag ein Tag, um an einen Morgen zurückzudenken, den es vor fünfundzwanzig Jahren erlebt hatte. Die Namen wurden vorgelesen, und die Schweigeminuten wurden eingehalten."
+  ],
+  "verbs": [
+    {
+      "base": "go by",
+      "correct": "Vergehen, wenn von Zeit die Rede ist",
+      "wrong": "Von den meisten Menschen vergessen werden"
+    },
+    {
+      "base": "come together",
+      "correct": "Sich als Gruppe an einem Ort versammeln",
+      "wrong": "Vor einer Menschenmenge sprechen"
+    },
+    {
+      "base": "let in",
+      "correct": "Jemanden an einen Ort hineinlassen",
+      "wrong": "Jemanden bitten, zuerst zu sprechen"
+    },
+    {
+      "base": "read out",
+      "correct": "Geschriebene Worte laut vorlesen",
+      "wrong": "Etwas auswendig lernen"
+    },
+    {
+      "base": "take over",
+      "correct": "Eine Aufgabe von einer anderen Person fortführen",
+      "wrong": "Etwas ganz still für sich selbst durchlesen"
+    },
+    {
+      "base": "go on",
+      "correct": "Eine Zeit lang weitergehen",
+      "wrong": "In einer anderen Stadt stattfinden"
+    },
+    {
+      "base": "come up",
+      "correct": "In einer Liste oder Reihenfolge an der Reihe sein",
+      "wrong": "In einer sehr leisen Stimme gesagt werden"
+    },
+    {
+      "base": "look back on",
+      "correct": "An eine Zeit in der Vergangenheit zurückdenken",
+      "wrong": "Sich um jemanden kümmern, der krank ist"
+    },
+    {
+      "base": "come down",
+      "correct": "Aus der Luft zu Boden fallen",
+      "wrong": "Zu einem anderen Flughafen fliegen"
+    },
+    {
+      "base": "pass away",
+      "correct": "Sterben",
+      "wrong": "Ohnmächtig werden"
+    },
+    {
+      "base": "breathe in",
+      "correct": "Luft oder Staub in die Lunge einatmen",
+      "wrong": "Husten, ohne aufhören zu können"
+    },
+    {
+      "base": "live through",
+      "correct": "Ein schweres Ereignis am eigenen Leib erleben",
+      "wrong": "Ein Ereignis nur im Fernsehen mitverfolgen"
+    }
+  ],
+  "vocab": [
+    {
+      "verb": "Go by",
+      "def": "Vergehen, wenn von Zeit die Rede ist",
+      "ex": [
+        "Drei Jahre vergingen, bevor sie ihre Heimatstadt wieder besuchte.",
+        "Der Sommer verging für die Kinder schnell.",
+        "Während die Wochen vergehen, füllt sich der Garten mit Blumen."
+      ]
+    },
+    {
+      "verb": "Come together",
+      "def": "Sich als Gruppe an einem Ort versammeln",
+      "ex": [
+        "Das ganze Dorf versammelte sich zum Erntefest.",
+        "Alte Klassenkameraden treffen sich alle zehn Jahre wieder.",
+        "Die Nachbarn versammelten sich nach der Flut im Gemeindesaal der Kirche."
+      ]
+    },
+    {
+      "verb": "Let in",
+      "def": "Jemanden an einen Ort hineinlassen",
+      "ex": [
+        "Das Museum lässt Besucher ab zehn Uhr morgens herein.",
+        "Sie ließ die Katze herein, bevor der Regen begann.",
+        "Die Wachen ließen nur Personen mit einer Eintrittskarte herein."
+      ]
+    },
+    {
+      "verb": "Read out",
+      "def": "Geschriebene Worte laut vorlesen",
+      "ex": [
+        "Der Moderator las die Namen der Gewinner laut vor.",
+        "Die Krankenschwester las dem Patienten die Anweisungen des Arztes laut vor.",
+        "Bitte lies die Adresse langsam vor, damit ich sie abschreiben kann."
+      ]
+    },
+    {
+      "verb": "Take over",
+      "def": "Eine Aufgabe von einer anderen Person fortführen",
+      "ex": [
+        "Ein zweiter Pilot übernahm für die letzte Stunde des Fluges vom Kapitän.",
+        "Als die Bäckerin nach Hause ging, übernahm ihr Sohn den Tresen.",
+        "Der zweite Redner übernahm ohne Pause vom ersten."
+      ]
+    },
+    {
+      "verb": "Go on",
+      "def": "Eine Zeit lang weitergehen",
+      "ex": [
+        "Das Konzert ging fast drei Stunden lang weiter.",
+        "Der Regen ging das ganze Wochenende weiter.",
+        "Die Sitzung ging viel länger weiter als geplant."
+      ]
+    },
+    {
+      "verb": "Come up",
+      "def": "In einer Liste oder Reihenfolge an der Reihe sein",
+      "ex": [
+        "Wenn Ihr Name aufgerufen wird, kommen Sie bitte zum Empfang.",
+        "Mein Lied kam als Nächstes in der Playlist dran.",
+        "Nach einer langen Wartezeit in der Klinik waren wir an der Reihe."
+      ]
+    },
+    {
+      "verb": "Look back on",
+      "def": "An eine Zeit in der Vergangenheit zurückdenken",
+      "ex": [
+        "Mein Großvater denkt gerne an seine Jahre auf See zurück.",
+        "Sie dachte mit gemischten Gefühlen an ihre erste Stelle zurück.",
+        "Jahre später dachte das Team mit Stolz an jene Saison zurück."
+      ]
+    },
+    {
+      "verb": "Come down",
+      "def": "Aus der Luft zu Boden fallen",
+      "ex": [
+        "Der Drachen fiel in den Garten eines Nachbarn, als der Wind nachließ.",
+        "Das kleine Flugzeug fiel auf ein Feld, nachdem der Motor ausgefallen war.",
+        "Ein Wetterballon fiel nach einem langen Flug in der Wüste zu Boden."
+      ]
+    },
+    {
+      "verb": "Pass away",
+      "def": "Sterben",
+      "ex": [
+        "Ihre Großmutter starb im letzten Winter friedlich.",
+        "Der alte Mann starb zu Hause, mit seiner Familie an seiner Seite.",
+        "Der Vater unseres Nachbarn starb nach langer Krankheit."
+      ]
+    },
+    {
+      "verb": "Breathe in",
+      "def": "Luft oder Staub in die Lunge einatmen",
+      "ex": [
+        "Der Arzt bat ihn, langsam einzuatmen und die Luft anzuhalten.",
+        "Feuerwehrleute tragen Masken, damit sie keinen Rauch einatmen.",
+        "Sie atmete die kalte Luft auf dem Gipfel des Berges ein."
+      ]
+    },
+    {
+      "verb": "Live through",
+      "def": "Ein schweres Ereignis am eigenen Leib erleben",
+      "ex": [
+        "Meine Großeltern erlebten den Krieg als kleine Kinder.",
+        "Die Stadt erlebte in zehn Jahren drei Überschwemmungen.",
+        "Menschen, die das Erdbeben erlebten, erinnern sich noch an jene Nacht."
+      ]
+    }
+  ],
+  "wordDefs": [
+    {
+      "word": "anniversary",
+      "def": "das Datum, an dem sich jedes Jahr etwas jährt",
+      "ex": [
+        "Meine Eltern feiern ihren Hochzeitstag im Juni.",
+        "Das Museum eröffnete am Jahrestag der Geburt des Gründers.",
+        "Nächstes Jahr ist der fünfzigste Jahrestag der Schule."
+      ]
+    },
+    {
+      "word": "memorial plaza",
+      "def": "ein offener öffentlicher Ort, gebaut zum Gedenken an die Toten",
+      "ex": [
+        "Nach der Feier wurden auf dem Gedenkplatz Blumen niedergelegt.",
+        "Die Stadt baute neben dem alten Bahnhof einen Gedenkplatz.",
+        "Besucher gehen still über den Gedenkplatz."
+      ]
+    },
+    {
+      "word": "ceremony",
+      "def": "eine feierliche Veranstaltung zu einem bestimmten Anlass",
+      "ex": [
+        "Die Abschlussfeier dauerte zwei Stunden.",
+        "Zur Eröffnung der neuen Brücke wurde eine kurze Zeremonie abgehalten.",
+        "Bei der Zeremonie wurden Medaillen verliehen."
+      ]
+    },
+    {
+      "word": "site",
+      "def": "der Ort, an dem sich etwas befindet oder befand",
+      "ex": [
+        "Auf dem Gelände der alten Fabrik ist heute ein Park.",
+        "Die Arbeiter räumten das Gelände, bevor der Bau begann.",
+        "Die Burg steht auf dem Gelände einer älteren Festung."
+      ]
+    },
+    {
+      "word": "former",
+      "def": "früher vorhanden, jetzt nicht mehr",
+      "ex": [
+        "Das Hotel war früher ein Krankenhaus.",
+        "Ein früherer Lehrer von mir schreibt heute Bücher.",
+        "Der ehemalige Bahnhof ist heute ein Markt."
+      ]
+    },
+    {
+      "word": "general public",
+      "def": "gewöhnliche Menschen, keine besondere Gruppe",
+      "ex": [
+        "Der Garten ist am Wochenende für die Öffentlichkeit geöffnet.",
+        "Das Treffen war für die Öffentlichkeit nicht zugänglich.",
+        "Tickets werden am Montag für die Öffentlichkeit verkauft."
+      ]
+    },
+    {
+      "word": "rescue workers",
+      "def": "Menschen, deren Aufgabe es ist, andere in Gefahr zu retten",
+      "ex": [
+        "Rettungskräfte suchten die Hügel nach den vermissten Wanderern ab.",
+        "Nach dem Erdbeben trafen Rettungskräfte innerhalb weniger Stunden ein.",
+        "Die Rettungskräfte zogen den Fahrer aus dem Fluss."
+      ]
+    },
+    {
+      "word": "invited guests",
+      "def": "Menschen, die gebeten wurden, zu einer Veranstaltung zu kommen",
+      "ex": [
+        "Nur geladene Gäste dürfen zur Hochzeit kommen.",
+        "Die geladenen Gäste saßen in den vorderen Reihen.",
+        "An der Tür wurde eine Gästeliste geprüft."
+      ]
+    },
+    {
+      "word": "victims",
+      "def": "Menschen, die durch ein Ereignis verletzt oder getötet wurden",
+      "ex": [
+        "Die Opfer der Flut wurden in der Schule untergebracht.",
+        "Für die Familien der Opfer wurde ein Fonds eingerichtet.",
+        "Die Namen der Opfer wurden an einer Wand angebracht."
+      ]
+    },
+    {
+      "word": "alphabetical order",
+      "def": "nach dem Anfangsbuchstaben von A bis Z geordnet",
+      "ex": [
+        "Die Bücher stehen alphabetisch geordnet im Regal.",
+        "Bitte liste die Schüler alphabetisch auf.",
+        "Ihr Name stand alphabetisch an erster Stelle."
+      ]
+    },
+    {
+      "word": "one at a time",
+      "def": "einer nach dem anderen, nicht alle zusammen",
+      "ex": [
+        "Die Kinder betraten den Raum einzeln.",
+        "Bitte stellt eure Fragen der Reihe nach.",
+        "Die Autos überquerten die schmale Brücke einzeln."
+      ]
+    },
+    {
+      "word": "relative",
+      "def": "ein Mitglied deiner Familie",
+      "ex": [
+        "Ein Verwandter aus Kanada besucht uns diese Woche.",
+        "Sie hat keine lebenden Verwandten in der Stadt.",
+        "Er ist ein entfernter Verwandter mütterlicherseits."
+      ]
+    },
+    {
+      "word": "aloud",
+      "def": "mit einer Stimme, die andere hören können",
+      "ex": [
+        "Die Lehrerin las das Gedicht laut vor.",
+        "Er zählte das Geld laut.",
+        "Sie las ihrer Mutter den Brief laut vor."
+      ]
+    },
+    {
+      "word": "moments of silence",
+      "def": "kurze Zeiten, in denen alle zum Gedenken schweigen",
+      "ex": [
+        "Die Menge hielt vor dem Spiel eine Schweigeminute ab.",
+        "Während der Feier gab es zwei Schweigeminuten.",
+        "Die Lehrerin bat um eine Schweigeminute für den früheren Direktor."
+      ]
+    },
+    {
+      "word": "struck",
+      "def": "traf etwas mit Wucht",
+      "ex": [
+        "Der Ball traf das Fenster und zerbrach es.",
+        "Ein Blitz traf den hohen Baum auf dem Feld.",
+        "Das Auto prallte auf der vereisten Straße gegen einen Zaun."
+      ]
+    },
+    {
+      "word": "survivors",
+      "def": "Menschen, die nach einem gefährlichen Ereignis am Leben bleiben",
+      "ex": [
+        "Die Überlebenden des Brandes wurden ins Krankenhaus gebracht.",
+        "Zwei Überlebende wurden auf der Insel gefunden.",
+        "Überlebende des Unfalls sprachen mit Reportern."
+      ]
+    },
+    {
+      "word": "illnesses",
+      "def": "Krankheiten oder gesundheitliche Probleme",
+      "ex": [
+        "Manche Krankheiten kommen im Winter häufiger vor.",
+        "Die Klinik behandelt leichte Erkrankungen.",
+        "Er fehlte wegen einer langen Krankheit bei der Arbeit."
+      ]
+    },
+    {
+      "word": "toxic dust",
+      "def": "sehr kleine Teilchen giftigen Materials in der Luft",
+      "ex": [
+        "Arbeiter trugen Masken, um den giftigen Staub zu vermeiden.",
+        "Giftiger Staub erfüllte wochenlang die Luft um die alte Fabrik.",
+        "Giftiger Staub aus der Mine legte sich über die Stadt."
+      ]
+    },
+    {
+      "word": "held",
+      "def": "veranstaltet, für ein Ereignis oder ein Treffen",
+      "ex": [
+        "Das Festival findet jeden August statt.",
+        "Das Treffen fand im Rathaus statt.",
+        "Zur Spendensammlung für die Schule wurde ein Konzert veranstaltet."
+      ]
+    }
+  ],
+  "tf": [
+    {
+      "s": "Familienangehörige lasen die Namen der Opfer in alphabetischer Reihenfolge vor.",
+      "a": true,
+      "why": "Die Familien wechselten sich beim lauten Vorlesen der Namen ab, einen nach dem anderen, vom ersten bis zum letzten Buchstaben des Alphabets."
+    },
+    {
+      "s": "Die Zeremonie in New York City war für die Allgemeinheit geöffnet.",
+      "a": false,
+      "why": "Die Zeremonie war nicht für die Allgemeinheit geöffnet; nur Angehörige, Rettungskräfte und geladene Gäste wurden eingelassen."
+    },
+    {
+      "s": "Das Vorlesen der Namen ging mehrere Stunden lang weiter.",
+      "a": true,
+      "why": "Jeder Vorleser übernahm von der vorigen Person, und das Vorlesen dauerte mehrere Stunden."
+    },
+    {
+      "s": "Die siebte Schweigeminute kam, bevor der erste Name vorgelesen wurde.",
+      "a": false,
+      "why": "Die siebte Schweigeminute kam, nachdem der letzte Name vorgelesen worden war, für Überlebende und Rettungskräfte, die seither gestorben sind."
+    },
+    {
+      "s": "Zeremonien fanden nur in New York City statt.",
+      "a": false,
+      "why": "Auch am Pentagon und am Ort in Shanksville fanden Zeremonien statt, wo ein Flugzeug auf einem Feld abstürzte."
+    },
+    {
+      "s": "Manche Familien fügten ein paar eigene Worte hinzu, als der Name ihres Angehörigen an der Reihe war.",
+      "a": true,
+      "why": "Familienangehörige lasen die Namen vor, und wenn der Name des eigenen Angehörigen an der Reihe war, fügten manche ein paar Worte hinzu."
+    }
+  ],
+  "mainIdea": [
+    {
+      "s": "Am fünfundzwanzigsten Jahrestag der Anschläge vom 11. September kamen Familien auf dem Gedenkplatz in New York City zusammen. Sie lasen die Namen der Opfer laut vor und hielten sieben Schweigeminuten ein.",
+      "a": true,
+      "why": "Die Hauptzeremonie fand dort statt, wo früher das World Trade Center stand; dort lasen Familienangehörige jeden Namen laut vor, und der Platz wurde siebenmal still."
+    },
+    {
+      "s": "Am fünfundzwanzigsten Jahrestag der Anschläge vom 11. September kamen Familien auf dem Gedenkplatz in New York City zusammen. Die Zeremonie war für jeden offen, der kommen und dem Vorlesen zuhören wollte.",
+      "a": false,
+      "why": "Fast, aber die Zeremonie war nicht für die Allgemeinheit geöffnet; nur Angehörige, Rettungskräfte und geladene Gäste wurden eingelassen."
+    },
+    {
+      "s": "Am fünfundzwanzigsten Jahrestag der Anschläge vom 11. September eröffnete New York City ein neues Museum über jenen Tag. Besucher waren eingeladen, es das ganze Wochenende über kostenlos zu besichtigen.",
+      "a": false,
+      "why": "Es wurde kein neues Museum eröffnet; es geht um die Zeremonie auf dem Gedenkplatz, bei der Familien die Namen vorlasen und sieben Schweigeminuten einhielten."
+    }
+  ],
+  "dialogue": {
+    "It takes as long as it takes": "Wird verwendet, um zu sagen, dass man etwas nicht überstürzen sollte, egal wie lange es dauert.",
+    "after all these years": "Wird verwendet, um zu sagen, dass viel Zeit vergangen ist, sich aber etwas nicht verändert hat.",
+    "you don't forget a morning like that": "Wird verwendet, um zu sagen, dass manche Tage so schwerwiegend sind, dass sie einen für immer im Gedächtnis bleiben.",
+    "you didn't have to be there": "Wird verwendet, um zu sagen, dass man nicht anwesend sein musste, um zu spüren, wie ernst etwas war.",
+    "the least anyone can do": "Wird verwendet, um zu sagen, dass es das Mindeste ist, was man für jemanden tun sollte."
+  }
+}
