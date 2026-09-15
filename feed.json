@@ -2,6 +2,1060 @@
   "updated": "2026-09-15",
   "stories": [
     {
+      "id": "france-train-derailment-2026",
+      "number": 113,
+      "headline": "Train derails in Normandy, leaving 44 people hurt",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n113-france-train-derailment-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Train derails in France, injuring 44 people",
+          "url": "https://apnews.com/article/e76d34a3dee9c22e5a84ee5383f4bc34"
+        },
+        {
+          "title": "Deraillement du TER Rouen Caen",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/11/deraillement-du-ter-rouen-caen-un-bilan-provisoire-d-environ-20-blesses-selon-le-ministre-des-transports_6770640_3234.html"
+        },
+        {
+          "title": "Un train deraille en Seine-Maritime, 44 blesses dont une femme dans un etat grave",
+          "url": "https://fr.euronews.com/my-europe/2026/09/12/un-train-deraille-en-seine-maritime-44-blesses-dont-une-femme-dans-un-etat-grave"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A [[regional]] train {{came off}} the rails in Normandy, in northern France, on Friday evening, September 11. The train had {{set out}} from Rouen and was traveling to Caen. It [[derailed]] near Cléon, in the Seine-Maritime area, at about 7:30 pm. There were 186 passengers [[on board]]. Forty-four people were hurt, roughly one passenger in four. One of them, an 18-year-old woman, was taken to the hospital in [[critical condition]]. The accident happened at the start of the weekend.",
+          "verbs": [
+            {
+              "display": "came off",
+              "base": "come off",
+              "correct": "To become separated from a surface",
+              "wrong": "To visit a place for a short time",
+              "correctFirst": true,
+              "why": "A lid can come off a jar if you twist it hard, and a button may come off a coat that is too tight. The train came off the rails near Cléon on Friday evening with 186 passengers on board."
+            },
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To begin a trip or journey",
+              "wrong": "To keep something for later use",
+              "correctFirst": false,
+              "why": "A family may set out for the beach before sunrise, and a delivery driver sets out on his route at seven. The train had set out from Rouen and was traveling to Caen when it derailed."
+            }
+          ]
+        },
+        {
+          "text": "After the accident, [[investigators]] found a piece of [[rail]] lying on the [[track]]. The [[public prosecutor]] in Rouen {{pointed out}} that the reason it was there is unknown and still has to be [[established]]. Investigators are {{looking into}} the [[possibility]] that someone put it there [[deliberately]]. They have not {{ruled out}} that idea, but nobody has [[confirmed]] it either. For now, the case remains open, and no cause has been announced.",
+          "verbs": [
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To tell people about a certain fact",
+              "wrong": "To delay something until a later time",
+              "correctFirst": true,
+              "why": "A guide may point out that the museum closes at five, and a friend can point out that you left your keys on the table. The public prosecutor in Rouen pointed out that the reason the rail was there is still unknown."
+            },
+            {
+              "display": "looking into",
+              "base": "look into",
+              "correct": "To examine a matter carefully",
+              "wrong": "To take care of someone or a place",
+              "correctFirst": false,
+              "why": "A bank will look into a strange charge on your card, and a school may look into a complaint about a bus driver. Investigators are looking into the possibility that someone put the piece of rail on the track deliberately."
+            },
+            {
+              "display": "ruled out",
+              "base": "rule out",
+              "correct": "To decide that something is not possible",
+              "wrong": "To question a person about an event",
+              "correctFirst": true,
+              "why": "A doctor can rule out a broken bone after an X-ray, and a coach may rule out playing an injured star this week. Investigators have not ruled out the idea that the rail was placed on purpose, but nobody has confirmed it."
+            }
+          ]
+        },
+        {
+          "text": "The driver was tested for alcohol and drugs, and both tests {{came out}} [[negative]]. The national rail company, which runs the line, has also {{set up}} its own [[internal]] investigation. In the hours after the accident, [[rail services]] were {{shut down}} between Rouen and Caen, and between Caen and Le Havre. Trains [[in both directions]] were {{held up}} for the rest of the evening. [[Travelers]] on those lines had to wait or change their plans.",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To end with a certain result",
+              "wrong": "To become sick with an illness",
+              "correctFirst": false,
+              "why": "A blood test can come out normal, and a vote may come out in favor of a new park. The driver's tests for alcohol and drugs came out negative."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To start or organize something",
+              "wrong": "To cause a loud alarm to sound",
+              "correctFirst": true,
+              "why": "A city can set up a hotline after a storm, and two friends may set up a small business selling bread. The national rail company set up its own internal investigation after the derailment."
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To stop a service from running",
+              "wrong": "To keep someone from taking part",
+              "correctFirst": false,
+              "why": "A factory may shut down for two weeks in August, and a city can shut down the subway during a storm. Rail services between Rouen and Caen, and between Caen and Le Havre, were shut down after the accident."
+            },
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To delay someone or something",
+              "wrong": "To choose not to do something yet",
+              "correctFirst": true,
+              "why": "Heavy traffic can hold up a bus for an hour, and a missing form may hold up a visa for weeks. Trains in both directions were held up for the rest of Friday evening."
+            }
+          ]
+        },
+        {
+          "text": "By Saturday morning, [[traffic]] had {{started up}} again on both routes. The bigger question, however, has not been answered. Investigators still need to {{clear up}} why a piece of rail was lying on the track, and whether anyone put it there. Nobody has confirmed that it was done [[on purpose]]. The rail company's own internal investigation is also [[under way]]. The public prosecutor has said only that the reason must be established, and the investigation is still {{going on}}.",
+          "verbs": [
+            {
+              "display": "started up",
+              "base": "start up",
+              "correct": "To begin working or moving",
+              "wrong": "To move or happen faster",
+              "correctFirst": false,
+              "why": "An engine may start up on the second try, and the buses start up again at five in the morning. Rail traffic started up again on both routes by Saturday morning."
+            },
+            {
+              "display": "clear up",
+              "base": "clear up",
+              "correct": "To find the answer to a question",
+              "wrong": "To leave a place quickly",
+              "correctFirst": true,
+              "why": "A quick call can clear up a mix-up about a date, and one email may clear up confusion over a price. Investigators still need to clear up why a piece of rail was lying on the track."
+            },
+            {
+              "display": "going on",
+              "base": "go on",
+              "correct": "To continue happening",
+              "wrong": "To make a sudden loud noise",
+              "correctFirst": false,
+              "why": "A meeting can go on for three hours, and a party may go on until midnight. The investigation into the derailment is still going on, and no cause has been announced."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come off",
+          "def": "To become separated from a surface",
+          "ipa": "/kʌm ɔf/",
+          "ex": [
+            "The lid came off the jar when I shook it.",
+            "A button came off my coat this morning.",
+            "The wheel came off the cart on the rough road."
+          ]
+        },
+        {
+          "verb": "Set out",
+          "def": "To begin a trip or journey",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "We set out for the lake before sunrise.",
+            "The hikers set out early to beat the heat.",
+            "She set out from Boston on a Monday morning."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people about a certain fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "The guide pointed out that the museum closes at five.",
+            "My friend pointed out that we had missed the exit.",
+            "The teacher pointed out a mistake in my essay."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To examine a matter carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The bank looked into the strange charge on my card.",
+            "The school looked into the complaint about the bus driver.",
+            "A reporter looked into how the money was spent."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To decide that something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctor ruled out a broken bone after the X-ray.",
+            "The coach ruled out playing the injured star this week.",
+            "We ruled out the beach because of the cold weather."
+          ]
+        },
+        {
+          "verb": "Come out",
+          "def": "To end with a certain result",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "Her blood test came out normal.",
+            "The vote came out in favor of the new park.",
+            "The final score came out in our favor."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To start or organize something",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "The city set up a hotline for storm damage.",
+            "They set up a small business selling bread.",
+            "The school set up a club for young coders."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To stop a service from running",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The factory shut down for two weeks in August.",
+            "The city shut down the subway during the storm.",
+            "The company shut down its old website last year."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To delay someone or something",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "Traffic held us up for an hour on the highway.",
+            "The storm held up our flight for most of the day.",
+            "A missing form held up my visa for weeks."
+          ]
+        },
+        {
+          "verb": "Start up",
+          "def": "To begin working or moving",
+          "ipa": "/stɑrt ʌp/",
+          "ex": [
+            "The engine started up on the second try.",
+            "The heater starts up when the room gets cold.",
+            "The buses start up again at five in the morning."
+          ]
+        },
+        {
+          "verb": "Clear up",
+          "def": "To find the answer to a question",
+          "ipa": "/klɪr ʌp/",
+          "ex": [
+            "A quick call cleared up the mix-up about the date.",
+            "The manager cleared up who was working on Sunday.",
+            "One email cleared up the confusion over the price."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To continue happening",
+          "ipa": "/ɡoʊ ɑn/",
+          "ex": [
+            "The meeting went on for three hours.",
+            "The party went on until midnight.",
+            "Work on the bridge goes on despite the rain."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "regional",
+          "def": "Belonging to one area of a country",
+          "ipa": "/ˈridʒənəl/",
+          "ex": [
+            "A regional airport serves the small towns nearby.",
+            "The regional news covers our part of the state.",
+            "She works for a regional bank with ten branches."
+          ]
+        },
+        {
+          "word": "derailed",
+          "def": "Left the rails by accident",
+          "ipa": "/diˈreɪld/",
+          "ex": [
+            "A freight train derailed in the mountains last winter.",
+            "The subway car derailed at low speed and nobody was hurt.",
+            "Heavy rain damaged the ground and the train derailed."
+          ]
+        },
+        {
+          "word": "on board",
+          "def": "On a train, plane, ship or bus",
+          "ipa": "/ɑn bɔrd/",
+          "ex": [
+            "There were 200 people on board the ferry.",
+            "Everyone on board the plane stayed calm.",
+            "The bus had only six passengers on board."
+          ]
+        },
+        {
+          "word": "critical condition",
+          "def": "Hurt or sick badly enough to be in danger",
+          "ipa": "/ˈkrɪtɪkəl kənˈdɪʃən/",
+          "ex": [
+            "The cyclist was in critical condition after the crash.",
+            "Two of the patients remain in critical condition.",
+            "He was in critical condition for a week before he improved."
+          ]
+        },
+        {
+          "word": "investigators",
+          "def": "People whose job is to learn the facts of an event",
+          "ipa": "/ɪnˈvɛstəˌɡeɪtərz/",
+          "ex": [
+            "Investigators examined the wreckage of the plane.",
+            "The fire investigators found the source of the blaze.",
+            "Investigators spoke with every witness at the bank."
+          ]
+        },
+        {
+          "word": "rail",
+          "def": "One of the long metal bars that carry a train",
+          "ipa": "/reɪl/",
+          "ex": [
+            "The old rail was rusty and needed replacing.",
+            "Workers laid a new rail along the river.",
+            "A crack in the rail can be very dangerous."
+          ]
+        },
+        {
+          "word": "track",
+          "def": "The pair of rails that a train follows",
+          "ipa": "/træk/",
+          "ex": [
+            "Do not walk on the track near the station.",
+            "Snow covered the track after the storm.",
+            "The track curves sharply after the bridge."
+          ]
+        },
+        {
+          "word": "public prosecutor",
+          "def": "A lawyer who brings criminal cases for the state",
+          "ipa": "/ˈpʌblɪk ˈprɑsəˌkjutər/",
+          "ex": [
+            "The public prosecutor asked for a two-year sentence.",
+            "A public prosecutor decides whether a case goes to court.",
+            "The public prosecutor spoke to reporters after the trial."
+          ]
+        },
+        {
+          "word": "established",
+          "def": "Found to be true after careful study",
+          "ipa": "/ɪˈstæblɪʃt/",
+          "ex": [
+            "Doctors established that the illness came from bad water.",
+            "The cause of the fire has not been established.",
+            "The report established when the money was taken."
+          ]
+        },
+        {
+          "word": "possibility",
+          "def": "Something that may be true or may happen",
+          "ipa": "/ˌpɑsəˈbɪləti/",
+          "ex": [
+            "There is a possibility of snow on Tuesday.",
+            "Losing the game is a real possibility.",
+            "Doctors could not ignore the possibility of infection."
+          ]
+        },
+        {
+          "word": "deliberately",
+          "def": "On purpose, not by accident",
+          "ipa": "/dɪˈlɪbərətli/",
+          "ex": [
+            "Someone deliberately broke the window.",
+            "She deliberately left her phone at home.",
+            "The player deliberately wasted time at the end of the game."
+          ]
+        },
+        {
+          "word": "confirmed",
+          "def": "Said or showed that something is true",
+          "ipa": "/kənˈfɜrmd/",
+          "ex": [
+            "The airline confirmed that the flight was canceled.",
+            "Tests confirmed the water was safe to drink.",
+            "Police confirmed the name of the missing man."
+          ]
+        },
+        {
+          "word": "negative",
+          "def": "Showing that a test did not find anything",
+          "ipa": "/ˈnɛɡətɪv/",
+          "ex": [
+            "Her test for the virus was negative.",
+            "The results were negative, so he could go home.",
+            "A negative result means the drug was not in his blood."
+          ]
+        },
+        {
+          "word": "internal",
+          "def": "Done inside an organization by its own people",
+          "ipa": "/ɪnˈtɜrnəl/",
+          "ex": [
+            "The bank started an internal review of the mistake.",
+            "An internal report blamed poor training.",
+            "The team held an internal meeting about the error."
+          ]
+        },
+        {
+          "word": "rail services",
+          "def": "The trains that run on a route",
+          "ipa": "/reɪl ˈsɜrvəsəz/",
+          "ex": [
+            "Rail services were slower because of the snow.",
+            "The city wants better rail services to the airport.",
+            "Rail services stop at midnight on weekdays."
+          ]
+        },
+        {
+          "word": "in both directions",
+          "def": "Going one way and also the other way",
+          "ipa": "/ɪn boʊθ dəˈrɛkʃənz/",
+          "ex": [
+            "The road was closed in both directions.",
+            "Buses run in both directions every ten minutes.",
+            "Traffic was heavy in both directions after the game."
+          ]
+        },
+        {
+          "word": "travelers",
+          "def": "People who are going from one place to another",
+          "ipa": "/ˈtrævələrz/",
+          "ex": [
+            "Travelers waited at the station for news.",
+            "The storm left thousands of travelers stuck at the airport.",
+            "Travelers should check the timetable before leaving."
+          ]
+        },
+        {
+          "word": "traffic",
+          "def": "The movement of trains, cars or planes on a route",
+          "ipa": "/ˈtræfɪk/",
+          "ex": [
+            "Rail traffic stopped for six hours after the accident.",
+            "Air traffic was heavy over the long weekend.",
+            "There was no traffic on the line because of repairs."
+          ]
+        },
+        {
+          "word": "on purpose",
+          "def": "Because someone wanted to do it, not by accident",
+          "ipa": "/ɑn ˈpɜrpəs/",
+          "ex": [
+            "He broke the glass on purpose.",
+            "I did not skip the meeting on purpose.",
+            "Nobody knows if the door was left open on purpose."
+          ]
+        },
+        {
+          "word": "under way",
+          "def": "Already started and still happening",
+          "ipa": "/ˈʌndər weɪ/",
+          "ex": [
+            "Repairs to the bridge are under way.",
+            "The search for the missing boat is under way.",
+            "By nine, the meeting was already under way."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A regional train derailed near Cléon in Normandy, and 44 people were hurt. Investigators found a piece of rail on the track and are looking into why it was there.",
+          "a": true,
+          "why": "The train came off the rails on Friday evening with 186 passengers on board. The reason the piece of rail was on the track is unknown, and the case is still open."
+        },
+        {
+          "s": "A regional train derailed near Cléon in Normandy, and 44 people were hurt. Investigators have confirmed that someone placed a piece of rail on the track on purpose.",
+          "a": false,
+          "why": "Close, but nobody has confirmed that. Investigators are looking into the possibility, and they have not ruled it out either."
+        },
+        {
+          "s": "A regional train hit a car at a crossing near Cléon in Normandy, and 44 people were hurt. The driver was arrested after he failed his tests for alcohol and drugs.",
+          "a": false,
+          "why": "No car was involved, and the train came off the rails after a piece of rail was found on the track. The driver's tests came out negative."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The train came off the rails near Cléon on Friday evening.",
+          "a": true,
+          "why": "It derailed near Cléon, in the Seine-Maritime area, at about 7:30 pm on Friday, September 11. The train had set out from Rouen and was traveling to Caen."
+        },
+        {
+          "s": "The train had set out from Caen and was on its way to Rouen.",
+          "a": false,
+          "why": "It set out from Rouen and was traveling to Caen. The derailment happened near Cléon, in the Seine-Maritime area."
+        },
+        {
+          "s": "The driver's tests for alcohol and drugs came out negative.",
+          "a": true,
+          "why": "The driver was tested after the accident, and both results came out negative. The reason for the derailment is still unknown."
+        },
+        {
+          "s": "Investigators have ruled out the idea that someone put the rail on the track on purpose.",
+          "a": false,
+          "why": "Investigators are looking into that possibility and have not ruled it out. Nobody has confirmed it either, and the case remains open."
+        },
+        {
+          "s": "Rail traffic between Rouen and Caen had started up again by Saturday morning.",
+          "a": true,
+          "why": "Services on that route and between Caen and Le Havre were shut down after the accident. Traffic started up again on both routes by Saturday morning."
+        },
+        {
+          "s": "The national rail company has not set up an investigation of its own.",
+          "a": false,
+          "why": "The company set up its own internal investigation after the derailment. It is under way alongside the public prosecutor's work."
+        }
+      ]
+    },
+    {
+      "id": "parkinsons-drawing-test-2026",
+      "number": 112,
+      "headline": "A drawing test may help spot Parkinson's",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n112-parkinsons-drawing-test-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "The Way You Draw Can Reveal Parkinson's Disease With Up to 99% Accuracy, Study Reveals (ScienceAlert)",
+          "url": "https://www.sciencealert.com/the-way-you-draw-can-reveal-parkinsons-disease-with-up-to-99-accuracy-study-reveals"
+        },
+        {
+          "title": "Investigadores desarrollan un sistema que identifica señales de Parkinson a partir de ejercicios de escritura (Infobae)",
+          "url": "https://www.infobae.com/salud/ciencia/2026/08/29/investigadores-desarrollan-un-sistema-que-identifica-senales-de-parkinson-a-partir-de-ejercicios-de-escritura/"
+        },
+        {
+          "title": "Caneta inteligente e IA detectam Parkinson com 98% de precisão (Jornal Impresso Brasil / Gazeta Brasil)",
+          "url": "https://jornalimpressobrasil.com.br/caneta-inteligente-e-ia-detectam-parkinson-com-98-de-precisao-entenda-gazeta-brasil/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Researchers in India say they have {{come up with}} a drawing test that can {{pick up}} signs of Parkinson's disease. It was published in the journal Discover Computing and reported on August 29, 2026. Parkinson's is a [[nerve disease]] that affects movement, and doctors often make a [[diagnosis]] only after clear [[symptoms]] {{show up}}. Handwriting changes can appear earlier, but they are often too [[subtle]] to see with the [[naked eye]].",
+          "verbs": [
+            {
+              "display": "come up with",
+              "base": "come up with",
+              "correct": "To think of a new idea or method",
+              "wrong": "To face a problem while doing research",
+              "correctFirst": true,
+              "why": "Students come up with excuses for late homework, and cooks come up with new recipes from leftovers. Researchers in India came up with a drawing test that looks for signs of Parkinson's disease."
+            },
+            {
+              "display": "pick up",
+              "base": "pick up",
+              "correct": "To notice something hard to see",
+              "wrong": "To confirm a doctor's diagnosis",
+              "correctFirst": false,
+              "why": "A careful reader picks up a tiny spelling mistake on a menu, and a good teacher picks up the small signs that a student is lost. The drawing test can pick up signs of Parkinson's that are too subtle to see with the naked eye."
+            },
+            {
+              "display": "show up",
+              "base": "show up",
+              "correct": "To appear or become visible",
+              "wrong": "To display something with pride",
+              "correctFirst": true,
+              "why": "A stain shows up after a shirt dries, and roof problems show up in winter. Doctors often make a Parkinson's diagnosis only after clear symptoms show up, but handwriting changes can appear earlier."
+            }
+          ]
+        },
+        {
+          "text": "Participants [[trace]] two patterns with a smart pen: a spiral and a meander, a [[zigzag]] line with sharp corners. The pen records the drawing plus [[pressure]], [[tilt]], and acceleration. The team {{broke the analysis down}} into two parts: computer models studied the images, and a separate model studied the pen's [[motion]] data. An algorithm then {{put the two results together}} to {{tell the two groups apart}}, people with Parkinson's and healthy people, using only their drawings.",
+          "verbs": [
+            {
+              "display": "broke the analysis down",
+              "base": "break down",
+              "correct": "To divide something into smaller parts",
+              "wrong": "To make an important discovery",
+              "correctFirst": false,
+              "why": "A teacher can break a long word down into syllables, and a manager can break a big project down into weekly tasks. The team broke the analysis down into two parts: one model for the images and another for the pen motion data."
+            },
+            {
+              "display": "put the two results together",
+              "base": "put together",
+              "correct": "To combine parts into one thing",
+              "wrong": "To suggest an idea for discussion",
+              "correctFirst": true,
+              "why": "A child can put a puzzle together, and a coach can put together a team from new players. An algorithm put the two results together into one final answer for each drawing."
+            },
+            {
+              "display": "tell the two groups apart",
+              "base": "tell apart",
+              "correct": "To see the difference between two groups",
+              "wrong": "To sort the results by patient age",
+              "correctFirst": false,
+              "why": "It is hard to tell twins apart, and some people cannot tell a real photo apart from a fake one. The goal was to tell people with Parkinson's apart from healthy people using only their drawings."
+            }
+          ]
+        },
+        {
+          "text": "The study was {{carried out}} with 66 participants: 31 with Parkinson's and 35 healthy people, a [[control group]] from an earlier study in Brazil. The system reached 98.95 percent [[accuracy]] on meander drawings and 97.74 percent on spirals. But a small study does not {{rule out}} mistakes in real life. The researchers called it a [[proof of concept]], not a [[clinically validated]] tool, and said it cannot {{stand in for}} a [[neurological evaluation]]. The results still need to {{hold up}} in larger, more [[diverse]] groups.",
+          "verbs": [
+            {
+              "display": "carried out",
+              "base": "carry out",
+              "correct": "To do a piece of work or research",
+              "wrong": "To continue for a longer time",
+              "correctFirst": true,
+              "why": "A hospital carries out a survey of its patients, and a mechanic carries out a full check of a car. The study was carried out with 66 participants: 31 with Parkinson's and 35 healthy people."
+            },
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To say that something is not possible",
+              "wrong": "To measure something very carefully",
+              "correctFirst": false,
+              "why": "A doctor can rule out a broken bone after an X-ray, and a weather report cannot rule out rain. A strong result in a small study does not rule out mistakes in real life, the researchers warned."
+            },
+            {
+              "display": "stand in for",
+              "base": "stand in for",
+              "correct": "To take the place of a person or thing",
+              "wrong": "To defend a person or an idea in public",
+              "correctFirst": true,
+              "why": "A nurse can stand in for a doctor at a meeting, and a substitute teacher stands in for a sick one. The researchers said the drawing test cannot stand in for a neurological evaluation by a doctor."
+            },
+            {
+              "display": "hold up",
+              "base": "hold up",
+              "correct": "To stay true after more testing",
+              "wrong": "To keep information secret",
+              "correctFirst": false,
+              "why": "A guess about the weather may not hold up once the forecast comes in, and an excuse that sounds fine at first often does not hold up when parents check with the school. The results still need to hold up in larger and more diverse groups of people."
+            }
+          ]
+        },
+        {
+          "text": "Still, the researchers are hopeful. If the results are {{backed up}} by further studies, a simple drawing task could support [[non-invasive]], low-cost [[screening]] that people could do [[remotely]], far from a hospital. The team plans to {{follow up}} with larger trials before anything can be {{rolled out}} in clinics. For now, the smart pen is a research tool, not a way to {{find out}} whether you have Parkinson's.",
+          "verbs": [
+            {
+              "display": "backed up",
+              "base": "back up",
+              "correct": "To support with more evidence",
+              "wrong": "To drop a claim after a challenge",
+              "correctFirst": true,
+              "why": "A lawyer backs up a claim with documents, and a scientist backs up a theory with data. If the results are backed up by further studies, a simple drawing task could support cheap, non-invasive screening."
+            },
+            {
+              "display": "follow up",
+              "base": "follow up",
+              "correct": "To do more work after a first result",
+              "wrong": "To publish results in a journal",
+              "correctFirst": false,
+              "why": "A clinic follows up a checkup with a phone call, and a reporter follows up a tip with more questions. The team plans to follow up with larger trials before the test goes anywhere near a clinic."
+            },
+            {
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To start using something widely",
+              "wrong": "To reduce or cancel a plan",
+              "correctFirst": true,
+              "why": "A city rolls out a new bus app, and a phone company rolls out an update to every customer. Nothing can be rolled out in clinics until larger trials are finished."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn or discover a fact",
+              "wrong": "To ask a doctor for a test",
+              "correctFirst": false,
+              "why": "You can find out a store's hours online, and a student finds out her grade after the exam. For now the smart pen is a research tool, not a way to find out whether you have Parkinson's."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come up with",
+          "def": "To think of a new idea or method",
+          "ipa": "/kʌm ʌp wɪð/",
+          "ex": [
+            "The students came up with a plan to save water.",
+            "She came up with a clever name for the app.",
+            "My brother came up with a great idea for dinner."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To notice something hard to see",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "The new camera can pick up tiny cracks in the wall.",
+            "A good teacher picks up small signs that a student is confused.",
+            "She picked up a tiny spot on the white shirt."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear or become visible",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The stain showed up after the shirt dried.",
+            "Problems with the roof usually show up in winter.",
+            "A small crack showed up on the screen after a week."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To divide something into smaller parts",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "Let's break the project down into weekly tasks.",
+            "The teacher broke the long word down into syllables.",
+            "The coach broke the game down into simple steps."
+          ]
+        },
+        {
+          "verb": "Put together",
+          "def": "To combine parts into one thing",
+          "ipa": "/pʊt təˈɡɛðər/",
+          "ex": [
+            "He put the pieces of the report together in one file.",
+            "They put together a team of five doctors.",
+            "We put together a photo album for Grandma's birthday."
+          ]
+        },
+        {
+          "verb": "Tell apart",
+          "def": "To see the difference between two groups",
+          "ipa": "/tɛl əˈpɑrt/",
+          "ex": [
+            "I can't tell the twins apart.",
+            "The software can tell real photos apart from fake ones.",
+            "It's hard to tell the two brands apart by taste."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do a piece of work or research",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "The hospital carried out a survey of its patients.",
+            "Scientists carried out the experiment three times.",
+            "The mechanic carried out a full check of the car."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To say that something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctor ruled out a broken bone after the X-ray.",
+            "We can't rule out rain this weekend.",
+            "The police ruled out theft as a reason for the fire."
+          ]
+        },
+        {
+          "verb": "Stand in for",
+          "def": "To take the place of a person or thing",
+          "ipa": "/stænd ɪn fɔr/",
+          "ex": [
+            "A nurse stood in for the doctor at the meeting.",
+            "This chart can't stand in for a real conversation with a patient.",
+            "Who will stand in for the manager while she's away?"
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To stay true after more testing",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "The theory held up when other teams repeated the test.",
+            "Will these results hold up in a bigger study?",
+            "His story didn't hold up when we asked more questions."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To support with more evidence",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "The new data backs up her earlier findings.",
+            "Can you back up that claim with numbers?",
+            "The video backs up what the witness said."
+          ]
+        },
+        {
+          "verb": "Follow up",
+          "def": "To do more work after a first result",
+          "ipa": "/ˈfɑloʊ ʌp/",
+          "ex": [
+            "The clinic will follow up with a second blood test.",
+            "Researchers followed up on the finding with a larger study.",
+            "The shop followed up with an email after my visit."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To start using something widely",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The city rolled out the new bus app last month.",
+            "The vaccine was rolled out to every region in the country.",
+            "The bank is rolling out new cards to all its customers."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn or discover a fact",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I want to find out how much the test costs.",
+            "She found out that the store closes at eight.",
+            "Let's find out when the next train leaves."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "nerve disease",
+          "def": "An illness that damages the nerves in the body",
+          "ipa": "/nɜrv dɪˈziz/",
+          "ex": [
+            "His grandfather lived with a nerve disease for many years.",
+            "Some nerve diseases make it hard to walk or hold a cup.",
+            "The charity raises money for research into nerve disease."
+          ]
+        },
+        {
+          "word": "diagnosis",
+          "def": "A doctor's decision about what illness a person has",
+          "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+          "ex": [
+            "The diagnosis came after two weeks of tests.",
+            "An early diagnosis gives patients more treatment options.",
+            "She asked for a second diagnosis from another doctor."
+          ]
+        },
+        {
+          "word": "symptoms",
+          "def": "Signs in the body that show a person is sick",
+          "ipa": "/ˈsɪmptəmz/",
+          "ex": [
+            "Fever and a cough are common symptoms of the flu.",
+            "His symptoms got worse at night.",
+            "Tell the doctor about all of your symptoms."
+          ]
+        },
+        {
+          "word": "subtle",
+          "def": "Small and hard to notice",
+          "ipa": "/ˈsʌtəl/",
+          "ex": [
+            "There was a subtle change in her voice.",
+            "The two colors are different, but the difference is subtle.",
+            "He gave a subtle nod to show he agreed."
+          ]
+        },
+        {
+          "word": "naked eye",
+          "def": "Normal sight without tools like a microscope",
+          "ipa": "/ˈneɪkɪd aɪ/",
+          "ex": [
+            "You can see the planet Venus with the naked eye.",
+            "The crack is too small to see with the naked eye.",
+            "Bacteria are invisible to the naked eye."
+          ]
+        },
+        {
+          "word": "trace",
+          "def": "To draw over a line or shape that is already there",
+          "ipa": "/treɪs/",
+          "ex": [
+            "The children traced the letters with their fingers.",
+            "Trace the map onto thin paper.",
+            "She traced the circle carefully with a pencil."
+          ]
+        },
+        {
+          "word": "zigzag",
+          "def": "A line with sharp turns from side to side",
+          "ipa": "/ˈzɪɡzæɡ/",
+          "ex": [
+            "The path went in a zigzag up the hill.",
+            "She drew a zigzag across the page.",
+            "The road zigzags through the mountains."
+          ]
+        },
+        {
+          "word": "pressure",
+          "def": "The force of pushing on something",
+          "ipa": "/ˈprɛʃər/",
+          "ex": [
+            "Apply gentle pressure to stop the bleeding.",
+            "The pressure in the tire is too low.",
+            "Press the button with light pressure."
+          ]
+        },
+        {
+          "word": "tilt",
+          "def": "The angle at which something leans to one side",
+          "ipa": "/tɪlt/",
+          "ex": [
+            "The tilt of the screen makes it hard to read.",
+            "She noticed a slight tilt in the picture frame.",
+            "Adjust the tilt of your chair for comfort."
+          ]
+        },
+        {
+          "word": "motion",
+          "def": "Movement",
+          "ipa": "/ˈmoʊʃən/",
+          "ex": [
+            "The camera records every motion of the hand.",
+            "The boat's motion made him feel sick.",
+            "Keep the machine in motion for ten minutes."
+          ]
+        },
+        {
+          "word": "control group",
+          "def": "People without the illness who are compared with patients",
+          "ipa": "/kənˈtroʊl ɡrup/",
+          "ex": [
+            "The control group did not take the new medicine.",
+            "Every good medical study needs a control group.",
+            "The patients improved faster than the control group."
+          ]
+        },
+        {
+          "word": "accuracy",
+          "def": "How often a result is correct",
+          "ipa": "/ˈækjərəsi/",
+          "ex": [
+            "The weather app has improved its accuracy.",
+            "Doctors checked the accuracy of the blood test.",
+            "The translator worked with great accuracy."
+          ]
+        },
+        {
+          "word": "proof of concept",
+          "def": "A first test that shows an idea can work",
+          "ipa": "/pruf əv ˈkɑnsɛpt/",
+          "ex": [
+            "The company built a proof of concept before asking for money.",
+            "A proof of concept is not the same as a finished product.",
+            "The engineers showed a proof of concept to the mayor."
+          ]
+        },
+        {
+          "word": "clinically validated",
+          "def": "Proven correct and safe through medical testing",
+          "ipa": "/ˈklɪnɪkli ˈvælɪdeɪtɪd/",
+          "ex": [
+            "Only clinically validated tests are used in this hospital.",
+            "The app is not clinically validated, so ask your doctor.",
+            "It took five years for the device to become clinically validated."
+          ]
+        },
+        {
+          "word": "neurological evaluation",
+          "def": "A doctor's examination of the brain and nerves",
+          "ipa": "/ˌnʊrəˈlɑdʒɪkəl ɪˌvæljuˈeɪʃən/",
+          "ex": [
+            "After the accident, he had a full neurological evaluation.",
+            "The neurological evaluation took about an hour.",
+            "Her doctor ordered a neurological evaluation because of the headaches."
+          ]
+        },
+        {
+          "word": "diverse",
+          "def": "Including many different kinds of people",
+          "ipa": "/daɪˈvɜrs/",
+          "ex": [
+            "The city has a diverse population.",
+            "The study needs a more diverse group of volunteers.",
+            "Our team is diverse in age and background."
+          ]
+        },
+        {
+          "word": "non-invasive",
+          "def": "Not cutting or entering the body",
+          "ipa": "/ˌnɑn ɪnˈveɪsɪv/",
+          "ex": [
+            "An ultrasound is a non-invasive test.",
+            "Patients prefer non-invasive treatments when possible.",
+            "The clinic offers a non-invasive way to check the heart."
+          ]
+        },
+        {
+          "word": "screening",
+          "def": "Testing many people to find early signs of a disease",
+          "ipa": "/ˈskrinɪŋ/",
+          "ex": [
+            "Free cancer screening is available at the clinic.",
+            "Screening helps doctors find problems before symptoms appear.",
+            "The school offers eye screening for all students."
+          ]
+        },
+        {
+          "word": "remotely",
+          "def": "From far away, without being in the same place",
+          "ipa": "/rɪˈmoʊtli/",
+          "ex": [
+            "Many employees now work remotely.",
+            "The doctor checked on the patient remotely by video.",
+            "You can control the heating remotely from your phone."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Researchers in India built a smart pen test that uses computer models to spot Parkinson's signs in drawings. They call it a proof of concept that still needs larger studies.",
+          "a": true,
+          "why": "A smart pen records the drawings and the motion data, two computer models study them, and the researchers themselves say the results need to hold up in larger, more diverse groups."
+        },
+        {
+          "s": "A smart pen drawing test has been approved as a reliable way to diagnose Parkinson's disease. Clinics can now use it instead of a full neurological evaluation by a doctor.",
+          "a": false,
+          "why": "Close, but the researchers called the test a proof of concept, not a clinically validated tool, and it cannot stand in for a doctor's evaluation."
+        },
+        {
+          "s": "A university in India has developed a wearable wrist sensor that tracks tremors in Parkinson's patients at home. Doctors use the data to adjust medication between hospital visits.",
+          "a": false,
+          "why": "The test uses a smart pen and drawings, not a wrist sensor, and there is nothing about adjusting medication."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The spiral drawings gave the most accurate results.",
+          "a": false,
+          "why": "The meander drawings did slightly better, at 98.95 percent accuracy against 97.74 for the spirals."
+        },
+        {
+          "s": "The study was carried out with just 66 participants.",
+          "a": true,
+          "why": "There were 31 people with Parkinson's and 35 healthy people, whose data came from an earlier study in Brazil."
+        },
+        {
+          "s": "The researchers say the test can replace a doctor's evaluation.",
+          "a": false,
+          "why": "They said the opposite. It is a proof of concept and cannot stand in for a neurological evaluation."
+        },
+        {
+          "s": "Separate computer models studied the images and the pen motion data.",
+          "a": true,
+          "why": "The team broke the analysis down into two parts, and an algorithm then put the two results together into one answer."
+        },
+        {
+          "s": "The team plans to roll out the test in clinics before larger trials.",
+          "a": false,
+          "why": "Larger trials come first. Only after that could anything be rolled out in clinics."
+        },
+        {
+          "s": "Doctors often make a diagnosis only after clear symptoms show up.",
+          "a": true,
+          "why": "Handwriting changes can appear earlier, but they are often too subtle to see with the naked eye."
+        }
+      ]
+    },
+    {
       "id": "ai-data-centers-backlash-2026",
       "number": 111,
       "headline": "Most Americans say no to AI data centers in their towns",
@@ -3665,7 +4719,7 @@
       "headline": "UN votes for a map that shows Africa at its true size",
       "badge": "World",
       "meta": "",
-      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n104-un-equal-earth-map-2026-flat.webp",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n104-un-equal-earth-map-2026-flat.webp?v=2",
       "position": "center 40%",
       "sources": [
         {
