@@ -1,6 +1,1066 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-19",
   "stories": [
+    {
+      "id": "nap-or-workout-sleep-loss-2026",
+      "number": 116,
+      "headline": "A 20-minute workout or a nap helps a sleepless brain",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n116-nap-or-workout-sleep-loss-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Workout or nap: either can help your sleepless brain, study finds",
+          "url": "https://healthenews.mcgill.ca/workout-or-nap-either-can-help-your-sleepless-brain-study-finds/"
+        },
+        {
+          "title": "Proceedings of the National Academy of Sciences",
+          "url": "https://www.pnas.org/"
+        },
+        {
+          "title": "McGill University Health e-News",
+          "url": "https://healthenews.mcgill.ca/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A night without sleep leaves memory weak and attention [[drifting]]. A new study from McGill University offers two ways to {{make up for}} the lost hours. A 20-minute [[workout]] or a 90-minute nap both helped tired brains remember images. Fifty-four healthy young adults {{took part}} in the experiment. They {{stayed up}} for 30 hours [[straight]], [[supervised]] by researchers in a [[laboratory]]. The results were published in the Proceedings of the National Academy of Sciences on September 8, 2026.",
+          "verbs": [
+            {
+              "display": "make up for",
+              "base": "make up for",
+              "correct": "To replace something that was lost",
+              "wrong": "To see something with difficulty",
+              "correctFirst": true,
+              "why": "A worker can make up for a missed day by staying late, and a gift can make up for a forgotten birthday. The study found that a workout or a nap can make up for some of the memory lost after a sleepless night."
+            },
+            {
+              "display": "took part",
+              "base": "take part",
+              "correct": "To join an activity with others",
+              "wrong": "To gain control of something",
+              "correctFirst": false,
+              "why": "Thousands of runners take part in the city marathon, and every student took part in the school play. Fifty-four healthy young adults took part in the McGill experiment."
+            },
+            {
+              "display": "stayed up",
+              "base": "stay up",
+              "correct": "To remain awake instead of sleeping",
+              "wrong": "To remain at home in the evening",
+              "correctFirst": true,
+              "why": "Teenagers often stay up late playing video games, and parents stay up when a baby is sick. The volunteers stayed up for 30 hours straight in a laboratory."
+            }
+          ]
+        },
+        {
+          "text": "After the long night, the [[volunteers]] were {{split up}} into three groups. One group cycled at [[moderate to vigorous]] effort for 20 minutes. A second group took a 90-minute nap. The third group did neither. Right after, everyone tried to {{take in}} a set of images. Three days later, the researchers tested how well those memories had {{held up}}. The exercise and nap groups both scored about 22 percent better than the group that did nothing.",
+          "verbs": [
+            {
+              "display": "split up",
+              "base": "split up",
+              "correct": "To divide people into smaller groups",
+              "wrong": "To put your name on a list to join",
+              "correctFirst": false,
+              "why": "The teacher split up the class for a group project, and the coach split up the team for a practice game. The researchers split up the volunteers into three groups."
+            },
+            {
+              "display": "take in",
+              "base": "take in",
+              "correct": "To notice and remember what you see",
+              "wrong": "To start a new hobby or activity",
+              "correctFirst": true,
+              "why": "Tourists stop to take in the view from the tower, and a new driver tries to take in every road sign. The volunteers looked at a set of images and tried to take in the details."
+            },
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To stay strong or good over time",
+              "wrong": "To stop yourself from doing something",
+              "correctFirst": false,
+              "why": "Cheap shoes rarely hold up through a whole winter, and a good friendship holds up even at a distance. Three days later, the researchers tested how well the memories had held up."
+            }
+          ]
+        },
+        {
+          "text": "The two methods {{turned out}} to work in different ways. The study's lead author, a [[doctoral candidate]] in [[neurology]], {{pointed out}} that the nap let the brain [[recharge]]. The [[brain recordings]] showed that exercise made the brain use its [[resources]] more [[efficiently]], without adding [[fatigue]]. A hard ride might seem sure to {{wear down}} a tired body. Instead, the exercise group {{kept up with}} the nap group on the memory test. The senior author is a professor of [[physical therapy]] at McGill University.",
+          "verbs": [
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be found to be true in the end",
+              "wrong": "To refuse an offer or request",
+              "correctFirst": true,
+              "why": "The cheap hotel turned out to be very clean, and the noisy neighbor turned out to be a kind person. The two methods turned out to work in different ways."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To tell people an important fact",
+              "wrong": "To decide something cannot happen",
+              "correctFirst": false,
+              "why": "A guide points out the oldest building on the street, and a mechanic points out a worn tire before a long trip. The lead author pointed out that the nap let the brain recharge."
+            },
+            {
+              "display": "wear down",
+              "base": "wear down",
+              "correct": "To make someone weak and tired",
+              "wrong": "To slowly stop having an effect",
+              "correctFirst": true,
+              "why": "A long illness can wear down even a strong person, and months of night shifts wear down a nurse. A hard ride might seem sure to wear down a tired body."
+            },
+            {
+              "display": "kept up with",
+              "base": "keep up with",
+              "correct": "To do as well as someone else",
+              "wrong": "To stop someone from entering",
+              "correctFirst": false,
+              "why": "A young runner can keep up with the adults in a short race, and a new student worked hard to keep up with the class. The exercise group kept up with the nap group on the memory test."
+            }
+          ]
+        },
+        {
+          "text": "The findings matter for anyone who cannot {{catch up on}} sleep [[right away]]. Nurses, new parents, students and [[shift workers]] often {{go without}} a full night in bed. A short ride on a bike may help them {{bounce back}} until a real rest is possible. The study looked only at healthy young adults after a single [[sleepless]] night. Even so, moving your body for 20 minutes beats doing nothing at all.",
+          "verbs": [
+            {
+              "display": "catch up on",
+              "base": "catch up on",
+              "correct": "To do something you missed earlier",
+              "wrong": "To become popular with many people",
+              "correctFirst": true,
+              "why": "Students catch up on homework after a sick day, and travelers catch up on emails at the airport. Many people cannot catch up on sleep right away after a bad night."
+            },
+            {
+              "display": "go without",
+              "base": "go without",
+              "correct": "To live without something you need",
+              "wrong": "To check something carefully",
+              "correctFirst": false,
+              "why": "Campers sometimes go without a hot shower for a week, and a busy family may go without dinner together. Nurses and shift workers often go without a full night in bed."
+            },
+            {
+              "display": "bounce back",
+              "base": "bounce back",
+              "correct": "To feel well again after a hard time",
+              "wrong": "To make someone remember the past",
+              "correctFirst": true,
+              "why": "A child bounces back quickly from a cold, and an athlete can bounce back after a painful loss. A short bike ride may help tired workers bounce back until real rest is possible."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Make up for",
+          "def": "To replace something that was lost",
+          "ipa": "/meɪk ʌp fɔːr/",
+          "ex": [
+            "She worked on Saturday to make up for the hours she missed.",
+            "A big dinner cannot make up for a week of skipped lunches.",
+            "He sent flowers to make up for the missed birthday."
+          ]
+        },
+        {
+          "verb": "Take part",
+          "def": "To join an activity with others",
+          "ipa": "/teɪk pɑːrt/",
+          "ex": [
+            "More than 200 people took part in the beach cleanup.",
+            "My brother took part in a study about sleep last year.",
+            "Every class takes part in the school science fair."
+          ]
+        },
+        {
+          "verb": "Stay up",
+          "def": "To remain awake instead of sleeping",
+          "ipa": "/steɪ ʌp/",
+          "ex": [
+            "I stayed up until two watching a movie.",
+            "The nurses stayed up all night with the patient.",
+            "Do not stay up too late before your exam."
+          ]
+        },
+        {
+          "verb": "Split up",
+          "def": "To divide people into smaller groups",
+          "ipa": "/splɪt ʌp/",
+          "ex": [
+            "The guide split up the tourists into two smaller groups.",
+            "We split up the class so everyone could speak.",
+            "The coach split up the players for a short game."
+          ]
+        },
+        {
+          "verb": "Take in",
+          "def": "To notice and remember what you see",
+          "ipa": "/teɪk ɪn/",
+          "ex": [
+            "She stood at the window and took in the whole view.",
+            "It was hard to take in so much information in one lecture.",
+            "He looked at the map for a minute to take in the route."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To stay strong or good over time",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "The old tent held up well in the storm.",
+            "Her energy held up through the whole long day.",
+            "Those cheap headphones did not hold up for a month."
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To be found to be true in the end",
+          "ipa": "/tɜːrn aʊt/",
+          "ex": [
+            "The small cafe turned out to be the best place in town.",
+            "It turned out that the train was on time after all.",
+            "The test turned out to be easier than we feared."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people an important fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "The teacher pointed out a mistake in my essay.",
+            "She pointed out that the store closes early on Sundays.",
+            "The doctor pointed out that the patient needed more rest."
+          ]
+        },
+        {
+          "verb": "Wear down",
+          "def": "To make someone weak and tired",
+          "ipa": "/wer daʊn/",
+          "ex": [
+            "Long hours at the hospital wore down the young doctor.",
+            "The heat wore down the runners before the finish.",
+            "Weeks of stress can wear down anyone."
+          ]
+        },
+        {
+          "verb": "Keep up with",
+          "def": "To do as well as someone else",
+          "ipa": "/kiːp ʌp wɪð/",
+          "ex": [
+            "The younger players kept up with the adults in the race.",
+            "She studies every night to keep up with her classmates.",
+            "Our small shop cannot keep up with the big chains on price."
+          ]
+        },
+        {
+          "verb": "Catch up on",
+          "def": "To do something you missed earlier",
+          "ipa": "/kætʃ ʌp ɑːn/",
+          "ex": [
+            "I spent Sunday catching up on sleep.",
+            "She stayed late to catch up on her reading.",
+            "He caught up on the news after a week in the mountains."
+          ]
+        },
+        {
+          "verb": "Go without",
+          "def": "To live without something you need",
+          "ipa": "/ɡoʊ wɪˈðaʊt/",
+          "ex": [
+            "The hikers went without water for most of the afternoon.",
+            "Some families go without heat in the winter.",
+            "He went without lunch to finish the report."
+          ]
+        },
+        {
+          "verb": "Bounce back",
+          "def": "To feel well again after a hard time",
+          "ipa": "/baʊns bæk/",
+          "ex": [
+            "My grandmother bounced back quickly after her surgery.",
+            "The team bounced back from a bad start to the season.",
+            "After a rough week, a quiet weekend helped me bounce back."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "drifting",
+          "def": "Moving slowly away without control",
+          "ipa": "/ˈdrɪftɪŋ/",
+          "ex": [
+            "My attention kept drifting during the long meeting.",
+            "The boat was drifting toward the rocks.",
+            "Her thoughts were drifting back to the weekend."
+          ]
+        },
+        {
+          "word": "workout",
+          "def": "A period of physical exercise",
+          "ipa": "/ˈwɜːrkaʊt/",
+          "ex": [
+            "I do a short workout before breakfast.",
+            "The gym offers a 30-minute workout for beginners.",
+            "After the workout, she drank a big glass of water."
+          ]
+        },
+        {
+          "word": "straight",
+          "def": "Without a break or stop",
+          "ipa": "/streɪt/",
+          "ex": [
+            "She worked for ten hours straight.",
+            "It rained for three days straight.",
+            "He talked for an hour straight without notes."
+          ]
+        },
+        {
+          "word": "supervised",
+          "def": "Watched and guided by someone in charge",
+          "ipa": "/ˈsuːpərvaɪzd/",
+          "ex": [
+            "The children were supervised by two teachers at the pool.",
+            "New drivers must be supervised by an adult.",
+            "The test was supervised by a nurse."
+          ]
+        },
+        {
+          "word": "laboratory",
+          "def": "A room where scientists do tests",
+          "ipa": "/ˈlæbrətɔːri/",
+          "ex": [
+            "The samples were sent to a laboratory for testing.",
+            "She spends most of her day in the laboratory.",
+            "The university built a new laboratory for brain research."
+          ]
+        },
+        {
+          "word": "volunteers",
+          "def": "People who agree to join a study or task",
+          "ipa": "/ˌvɑːlənˈtɪrz/",
+          "ex": [
+            "The study needed 50 volunteers between 18 and 30.",
+            "Volunteers handed out water at the marathon.",
+            "Each of the volunteers wore a small sensor."
+          ]
+        },
+        {
+          "word": "moderate to vigorous",
+          "def": "Medium to very hard, when describing exercise",
+          "ipa": "/ˈmɑːdərət tə ˈvɪɡərəs/",
+          "ex": [
+            "Doctors suggest 150 minutes of moderate to vigorous activity a week.",
+            "A fast walk counts as moderate to vigorous exercise for many people.",
+            "The class moves from moderate to vigorous effort in the last ten minutes."
+          ]
+        },
+        {
+          "word": "doctoral candidate",
+          "def": "A student working toward a PhD",
+          "ipa": "/ˈdɑːktərəl ˈkændɪdət/",
+          "ex": [
+            "She is a doctoral candidate in chemistry at a university in Boston.",
+            "The doctoral candidate presented her research at the conference.",
+            "As a doctoral candidate, he teaches two classes a week."
+          ]
+        },
+        {
+          "word": "neurology",
+          "def": "The study of the brain and nerves",
+          "ipa": "/nʊˈrɑːlədʒi/",
+          "ex": [
+            "He is training in neurology at a large hospital.",
+            "The neurology department studies memory and sleep.",
+            "Her professor of neurology wrote the textbook."
+          ]
+        },
+        {
+          "word": "recharge",
+          "def": "To get energy back after rest",
+          "ipa": "/ˌriːˈtʃɑːrdʒ/",
+          "ex": [
+            "A quiet weekend helps me recharge.",
+            "The players had two days to recharge before the final.",
+            "Even a short walk can help your mind recharge."
+          ]
+        },
+        {
+          "word": "brain recordings",
+          "def": "Measurements of electrical activity in the brain",
+          "ipa": "/breɪn rɪˈkɔːrdɪŋz/",
+          "ex": [
+            "The brain recordings showed deep sleep after midnight.",
+            "Scientists compared brain recordings from both groups.",
+            "Small sensors on the head collect the brain recordings."
+          ]
+        },
+        {
+          "word": "resources",
+          "def": "The energy or supplies something can use",
+          "ipa": "/ˈriːsɔːrsɪz/",
+          "ex": [
+            "A tired body has fewer resources for hard thinking.",
+            "The hospital does not have the resources for a second clinic.",
+            "Plants use their resources to grow new leaves in spring."
+          ]
+        },
+        {
+          "word": "efficiently",
+          "def": "In a way that wastes little energy or time",
+          "ipa": "/ɪˈfɪʃəntli/",
+          "ex": [
+            "The new engine uses fuel more efficiently.",
+            "She works efficiently and leaves the office on time.",
+            "A rested brain solves problems more efficiently."
+          ]
+        },
+        {
+          "word": "fatigue",
+          "def": "Great tiredness",
+          "ipa": "/fəˈtiːɡ/",
+          "ex": [
+            "Fatigue is common after a long flight.",
+            "The nurse showed signs of fatigue at the end of her shift.",
+            "Drivers should stop when they feel fatigue."
+          ]
+        },
+        {
+          "word": "physical therapy",
+          "def": "Treatment of the body with exercise and movement",
+          "ipa": "/ˈfɪzɪkəl ˈθerəpi/",
+          "ex": [
+            "After the knee surgery, he needed six weeks of physical therapy.",
+            "She studies physical therapy at a university in Montreal.",
+            "Physical therapy helped my father walk again."
+          ]
+        },
+        {
+          "word": "right away",
+          "def": "Immediately",
+          "ipa": "/raɪt əˈweɪ/",
+          "ex": [
+            "Call the doctor right away if the fever returns.",
+            "We left right away after the meeting.",
+            "She answered the email right away."
+          ]
+        },
+        {
+          "word": "shift workers",
+          "def": "People who work at changing hours, including nights",
+          "ipa": "/ʃɪft ˈwɜːrkərz/",
+          "ex": [
+            "Many shift workers sleep during the day.",
+            "The factory employs 300 shift workers.",
+            "Shift workers often struggle with their sleep schedule."
+          ]
+        },
+        {
+          "word": "sleepless",
+          "def": "Without any sleep",
+          "ipa": "/ˈsliːpləs/",
+          "ex": [
+            "The new parents had many sleepless nights.",
+            "After a sleepless night, he could not focus at work.",
+            "Worry about the exam left her sleepless."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Researchers kept 54 young adults awake for 30 hours. A short workout or a 90-minute nap then improved their memory by about 22 percent.",
+          "a": true,
+          "why": "Both the exercise group and the nap group scored about 22 percent better than the group that did neither."
+        },
+        {
+          "s": "Researchers kept 54 young adults awake for 30 hours. A 90-minute nap improved their memory, but a short workout only made them more tired.",
+          "a": false,
+          "why": "Close, but the workout helped memory just as much as the nap, and the brain recordings showed it did not add fatigue."
+        },
+        {
+          "s": "Researchers asked 54 young adults to sleep for 30 hours. Those who slept the longest remembered far more of the images three days later.",
+          "a": false,
+          "why": "The volunteers were kept awake for 30 hours, not asleep, and the study compared a nap, a workout and doing nothing."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Fifty-four healthy young adults took part in the experiment.",
+          "a": true,
+          "why": "They stayed up for 30 hours straight while researchers supervised them in a laboratory."
+        },
+        {
+          "s": "The volunteers were split up into two groups after the long night.",
+          "a": false,
+          "why": "There were three groups: one cycled for 20 minutes, one took a 90-minute nap, and one did neither."
+        },
+        {
+          "s": "The memory test came three days after the volunteers looked at the images.",
+          "a": true,
+          "why": "Everyone tried to take in the images right after the workout or the nap, and the researchers tested those memories three days later."
+        },
+        {
+          "s": "The nap group scored far better than the exercise group on the memory test.",
+          "a": false,
+          "why": "The exercise group kept up with the nap group, and both scored about 22 percent better than the group that did neither."
+        },
+        {
+          "s": "Exercise helped the tired brain without adding fatigue.",
+          "a": true,
+          "why": "Brain recordings showed the brain using its resources more efficiently, so the ride did not wear down the volunteers further."
+        },
+        {
+          "s": "The nap made the brain use its resources more efficiently.",
+          "a": false,
+          "why": "It turned out that the nap let the brain recharge, while exercise was the method that made the brain work more efficiently."
+        }
+      ]
+    },
+    {
+      "id": "australia-teen-ban-2026",
+      "number": 115,
+      "headline": "Australia banned teen social media. Did it work?",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n115-australia-teen-ban-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Most Australian teens still online three months after under-16 ban (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban"
+        },
+        {
+          "title": "Australia's under-16 social media ban failing, study shows (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means"
+        },
+        {
+          "title": "Why young people say the social media ban is not working (ABC News Australia)",
+          "url": "https://www.abc.net.au/news/2026-06-14/why-teens-say-social-media-ban-isnt-working-for-under-16s/106780590"
+        },
+        {
+          "title": "Australia's social media ban is failing, new study suggests (video, CBS Boston)",
+          "url": "https://www.youtube.com/watch?v=S4jrQ-OX2Ew"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "In December 2025, Australia became the first country in the world to [[ban]] [[social media]] for everyone under 16. The law was [[designed]] to {{keep out}} young teenagers, closing the doors of TikTok, Instagram, and Snapchat to young users. [[Platforms]] {{shut down}} about 4.7 million [[accounts]], and parents hoped their children would spend less time on [[screens]]. New [[data]] tells a different story: most under-16s are still online, and many use the apps just as often as before.",
+          "verbs": [
+            {
+              "display": "keep out",
+              "base": "keep out",
+              "correct": "To stop someone from entering",
+              "wrong": "To watch someone carefully",
+              "correctFirst": true,
+              "why": "Fences keep out wild animals, and passwords keep out strangers. The law was written to keep young teenagers out of the biggest apps."
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To close something completely",
+              "wrong": "To sell to a bigger company",
+              "correctFirst": false,
+              "why": "Factories shut down in a crisis, and websites shut down for repairs. The platforms shut down about 4.7 million underage accounts."
+            }
+          ]
+        },
+        {
+          "text": "How do teenagers stay online? The country's [[internet regulator]] found that about half of the children who kept their accounts were never even asked to [[prove]] their age. Others simply {{signed up}} again with a false [[date of birth]], or used [[tricks]] to {{get around}} the [[age checks]]. Some fooled [[face scans]] with photos of older people. One teenager said a friend passed the scan using a printed photo of a famous singer. Still others {{switched over}} to smaller apps that the law does not cover.",
+          "verbs": [
+            {
+              "display": "signed up",
+              "base": "sign up",
+              "correct": "To join a service with your details",
+              "wrong": "To pay a monthly service fee",
+              "correctFirst": true,
+              "why": "People sign up for gym memberships, newsletters, and free trials. Many teens just signed up again with a false date of birth."
+            },
+            {
+              "display": "get around",
+              "base": "get around",
+              "correct": "To avoid a rule in a clever way",
+              "wrong": "To read a rule very carefully",
+              "correctFirst": false,
+              "why": "Drivers get around tolls by taking back roads, and kids get around bedtime rules by pretending to be asleep. Teens found many ways to get around the age checks."
+            },
+            {
+              "display": "switched over",
+              "base": "switch over",
+              "correct": "To change to a different service",
+              "wrong": "To pay for a premium version",
+              "correctFirst": true,
+              "why": "Families switch over to cheaper phone plans, and viewers switch over to another channel. Some teens switched over to apps the law does not cover."
+            }
+          ]
+        },
+        {
+          "text": "The numbers are [[hard to argue with]]. Before the ban, 86 percent of Australian children under 16 used social media. Three months after it began, the [[figure]] was 81 percent, and daily use had [[barely]] moved, from about 60 percent to 58 percent. Many teenagers who left at first have {{come back}}, and news reports in August 2026 said most under-16s use the apps just as often as before the ban. Only a small number have truly {{given up}} their accounts. Kids who {{slip through}} the checks [[rarely]] get caught, because the platforms hardly ever {{follow up}}.",
+          "verbs": [
+            {
+              "display": "come back",
+              "base": "come back",
+              "correct": "To return after leaving",
+              "wrong": "To warn a younger friend",
+              "correctFirst": false,
+              "why": "Customers come back to a store they like, and birds come back every spring. Many teens who left the apps in December have quietly come back."
+            },
+            {
+              "display": "given up",
+              "base": "give up",
+              "correct": "To stop having something",
+              "wrong": "To hide something from parents",
+              "correctFirst": true,
+              "why": "People give up sugar, old habits, and gym memberships. Only a small number of teens have truly given up their accounts."
+            },
+            {
+              "display": "slip through",
+              "base": "slip through",
+              "correct": "To pass a check without being caught",
+              "wrong": "To report a problem to a website",
+              "correctFirst": true,
+              "why": "Small mistakes can slip through an inspection, and a broken part can slip through the final test at a factory. Kids who slip through the age checks rarely get caught, because platforms check very little."
+            },
+            {
+              "display": "follow up",
+              "base": "follow up",
+              "correct": "To check again after a first action",
+              "wrong": "To block an account permanently",
+              "correctFirst": false,
+              "why": "Doctors follow up with patients after surgery, and sellers follow up on unpaid bills. Kids who slip through the age checks rarely get caught, because the platforms hardly ever follow up."
+            }
+          ]
+        },
+        {
+          "text": "The government is not ready to {{back down}}. [[Ministers]] point to the millions of closed accounts and say the law has changed how families talk about phones. [[Officials]] compare it to [[age limits]] on alcohol: nobody expects perfect [[compliance]], but the rule still matters. The regulator wants platforms to {{crack down}} with stronger age checks, and companies that fail to act may face heavy [[fines]]. Meanwhile, in living rooms across Australia, teenagers quietly {{log on}}, and the world watches an [[experiment]] that many other countries want to copy.",
+          "verbs": [
+            {
+              "display": "back down",
+              "base": "back down",
+              "correct": "To change your mind under pressure",
+              "wrong": "To announce a bigger new plan",
+              "correctFirst": false,
+              "why": "A boss can back down after workers protest, and a country can back down in a trade fight. Australia's government refuses to back down on the ban."
+            },
+            {
+              "display": "crack down",
+              "base": "crack down",
+              "correct": "To get tough on rule breaking",
+              "wrong": "To ask users for their opinions",
+              "correctFirst": true,
+              "why": "Police crack down on speeding, and schools crack down on cheating. The regulator wants platforms to crack down with stronger age checks."
+            },
+            {
+              "display": "log on",
+              "base": "log on",
+              "correct": "To enter an online account",
+              "wrong": "To charge a phone overnight",
+              "correctFirst": true,
+              "why": "Workers log on every morning, and students log on for online classes. Across Australia, teenagers quietly log on despite the ban."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Keep out",
+          "ipa": "/kip aʊt/",
+          "def": "To stop someone from entering",
+          "ex": [
+            "The fence keeps out the deer.",
+            "A locked gate keeps out visitors at night.",
+            "Thick curtains keep out the morning light."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "ipa": "/ʃʌt daʊn/",
+          "def": "To close something completely",
+          "ex": [
+            "The city shut down the old power plant.",
+            "The app was shut down after the scandal.",
+            "They shut down the kitchen at ten."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "ipa": "/saɪn ʌp/",
+          "def": "To join a service with your details",
+          "ex": [
+            "I signed up for the cooking class.",
+            "Sign up with your email to get the discount.",
+            "Thousands signed up on the first day."
+          ]
+        },
+        {
+          "verb": "Get around",
+          "ipa": "/ɡɛt əˈraʊnd/",
+          "def": "To avoid a rule in a clever way",
+          "ex": [
+            "Some drivers get around the toll by exiting early.",
+            "You cannot get around the visa rules.",
+            "The company got around the tax with a loophole."
+          ]
+        },
+        {
+          "verb": "Switch over",
+          "ipa": "/swɪtʃ ˈoʊvər/",
+          "def": "To change to a different service",
+          "ex": [
+            "We switched over to a cheaper phone plan.",
+            "Many viewers switched over to streaming.",
+            "He switched over to an electric car."
+          ]
+        },
+        {
+          "verb": "Come back",
+          "ipa": "/kʌm bæk/",
+          "def": "To return after leaving",
+          "ex": [
+            "She came back to the team after a year.",
+            "The swallows come back every April.",
+            "Customers keep coming back for the pie."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "ipa": "/ɡɪv ʌp/",
+          "def": "To stop having something",
+          "ex": [
+            "He gave up coffee for a month.",
+            "She gave up her parking spot downtown.",
+            "I will never give up my old records."
+          ]
+        },
+        {
+          "verb": "Slip through",
+          "ipa": "/slɪp θru/",
+          "def": "To pass a check without being caught",
+          "ex": [
+            "Fake bills sometimes slip through the scanner.",
+            "Spelling errors often slip through the review.",
+            "A few fans slip through security every game."
+          ]
+        },
+        {
+          "verb": "Follow up",
+          "ipa": "/ˈfɑloʊ ʌp/",
+          "def": "To check again after a first action",
+          "ex": [
+            "The nurse will follow up with you next week.",
+            "I emailed them twice, but nobody followed up.",
+            "Good managers follow up after every meeting."
+          ]
+        },
+        {
+          "verb": "Back down",
+          "ipa": "/bæk daʊn/",
+          "def": "To change your mind under pressure",
+          "ex": [
+            "The mayor refused to back down on the plan.",
+            "He backed down after seeing the evidence.",
+            "Neither side would back down in the debate."
+          ]
+        },
+        {
+          "verb": "Crack down",
+          "ipa": "/kræk daʊn/",
+          "def": "To get tough on rule breaking",
+          "ex": [
+            "Police cracked down on illegal parking.",
+            "The league cracked down on dangerous tackles.",
+            "Schools are cracking down on phone use."
+          ]
+        },
+        {
+          "verb": "Log on",
+          "ipa": "/lɔɡ ɑn/",
+          "def": "To enter an online account",
+          "ex": [
+            "Log on to check your grades.",
+            "She logs on before breakfast.",
+            "I cannot log on with this password."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "ban",
+          "ipa": "/bæn/",
+          "def": "To officially forbid something",
+          "ex": [
+            "The city banned smoking in parks.",
+            "The school banned energy drinks.",
+            "Several countries ban plastic bags."
+          ]
+        },
+        {
+          "word": "social media",
+          "ipa": "/ˈsoʊʃəl ˈmidiə/",
+          "def": "Apps and websites for sharing posts with others",
+          "ex": [
+            "She shares her recipes on social media.",
+            "The store advertises on social media.",
+            "Social media spread the news in minutes."
+          ]
+        },
+        {
+          "word": "designed",
+          "ipa": "/dɪˈzaɪnd/",
+          "def": "Planned for a particular purpose",
+          "ex": [
+            "The course is designed for beginners.",
+            "The park was designed for young families.",
+            "The rule is designed to protect workers."
+          ]
+        },
+        {
+          "word": "platforms",
+          "ipa": "/ˈplætfɔrmz/",
+          "def": "Large online services where users interact",
+          "ex": [
+            "Video platforms compete for young viewers.",
+            "The platforms removed the false posts.",
+            "Sellers use several platforms at once."
+          ]
+        },
+        {
+          "word": "accounts",
+          "ipa": "/əˈkaʊnts/",
+          "def": "Personal profiles used to access a service",
+          "ex": [
+            "He has accounts on five different apps.",
+            "The company deleted thousands of fake accounts.",
+            "She locked her accounts after the hack."
+          ]
+        },
+        {
+          "word": "screens",
+          "ipa": "/skrinz/",
+          "def": "The displays of phones, tablets, and computers",
+          "ex": [
+            "The kids spend hours on screens after school.",
+            "Doctors suggest less time on screens at night.",
+            "The house rule is no screens at dinner."
+          ]
+        },
+        {
+          "word": "data",
+          "ipa": "/ˈdeɪtə/",
+          "def": "Facts and numbers collected for study",
+          "ex": [
+            "The data shows sales rising in spring.",
+            "Researchers collected data for two years.",
+            "The data surprised the government."
+          ]
+        },
+        {
+          "word": "internet regulator",
+          "ipa": "/ˈɪntərnɛt ˈrɛɡjəleɪtər/",
+          "def": "A government body that watches online services",
+          "ex": [
+            "The internet regulator fined the website.",
+            "The internet regulator published its report.",
+            "Parents complained to the internet regulator."
+          ]
+        },
+        {
+          "word": "prove",
+          "ipa": "/pruv/",
+          "def": "To show that something is true",
+          "ex": [
+            "Can you prove that you live here?",
+            "The receipt proves he paid.",
+            "She proved her age with a passport."
+          ]
+        },
+        {
+          "word": "date of birth",
+          "ipa": "/deɪt əv bɜrθ/",
+          "def": "The day, month, and year you were born",
+          "ex": [
+            "Write your date of birth on the form.",
+            "He typed a false date of birth.",
+            "The card shows her date of birth."
+          ]
+        },
+        {
+          "word": "tricks",
+          "ipa": "/trɪks/",
+          "def": "Clever ways to fool someone",
+          "ex": [
+            "The email used old tricks to steal passwords.",
+            "Magicians never explain their tricks.",
+            "He knows every trick for skipping lines."
+          ]
+        },
+        {
+          "word": "age checks",
+          "ipa": "/eɪdʒ tʃɛks/",
+          "def": "Tests that confirm how old a user is",
+          "ex": [
+            "The site added age checks last month.",
+            "Age checks stop kids from buying the game.",
+            "The new age checks scan your face."
+          ]
+        },
+        {
+          "word": "face scans",
+          "ipa": "/feɪs skænz/",
+          "def": "Camera checks that read a person's face",
+          "ex": [
+            "The airport uses face scans at the gate.",
+            "Face scans unlock the newest phones.",
+            "The app asks for face scans to verify age."
+          ]
+        },
+        {
+          "word": "figure",
+          "ipa": "/ˈfɪɡjər/",
+          "def": "A number that gives information",
+          "ex": [
+            "The unemployment figure fell in March.",
+            "Officials doubted the attendance figures.",
+            "The final figure shocked everyone."
+          ]
+        },
+        {
+          "word": "barely",
+          "ipa": "/ˈbɛrli/",
+          "def": "Almost not at all",
+          "ex": [
+            "The temperature barely changed all week.",
+            "He barely passed the driving test.",
+            "She barely touched her dinner."
+          ]
+        },
+        {
+          "word": "rarely",
+          "ipa": "/ˈrɛrli/",
+          "def": "Almost never",
+          "ex": [
+            "It rarely snows in this city.",
+            "He rarely misses a practice.",
+            "Cheaters are rarely caught here."
+          ]
+        },
+        {
+          "word": "ministers",
+          "ipa": "/ˈmɪnəstərz/",
+          "def": "Senior members of a government",
+          "ex": [
+            "Ministers met to discuss the drought.",
+            "Two ministers resigned this year.",
+            "The ministers defended the new law."
+          ]
+        },
+        {
+          "word": "officials",
+          "ipa": "/əˈfɪʃəlz/",
+          "def": "People with power in a government or group",
+          "ex": [
+            "Officials promised an investigation.",
+            "Health officials tracked the outbreak.",
+            "Local officials opened the new bridge."
+          ]
+        },
+        {
+          "word": "age limits",
+          "ipa": "/eɪdʒ ˈlɪmɪts/",
+          "def": "Rules about how old you must be",
+          "ex": [
+            "Age limits keep kids out of casinos.",
+            "The movie has an age limit of thirteen.",
+            "Age limits on alcohol vary by country."
+          ]
+        },
+        {
+          "word": "compliance",
+          "ipa": "/kəmˈplaɪəns/",
+          "def": "The act of following a rule or law",
+          "ex": [
+            "Full compliance with the tax law is rare.",
+            "The factory improved its safety compliance.",
+            "Inspectors check compliance every year."
+          ]
+        },
+        {
+          "word": "fines",
+          "ipa": "/faɪnz/",
+          "def": "Money paid as punishment for breaking rules",
+          "ex": [
+            "The driver paid two parking fines.",
+            "The company faces fines in the millions.",
+            "Late returns bring small fines at the library."
+          ]
+        },
+        {
+          "word": "experiment",
+          "ipa": "/ɪkˈspɛrəmənt/",
+          "def": "A test to see if an idea works",
+          "ex": [
+            "The four-day week is a bold experiment.",
+            "The class did an experiment with plants.",
+            "The city's traffic experiment failed."
+          ]
+        },
+        {
+          "word": "hard to argue with",
+          "ipa": "/hɑrd tə ˈɑrɡju wɪð/",
+          "def": "So clear that nobody can deny it",
+          "ex": [
+            "Her results are hard to argue with.",
+            "Free food is hard to argue with.",
+            "The safety record is hard to argue with."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Months after the world's first under-16 social media ban, most young Australians are still online and use the apps as often as before. The government wants stronger age checks.",
+          "a": true,
+          "why": "About 81 percent of under-16s still use social media, and ministers compare the law to age limits on alcohol."
+        },
+        {
+          "s": "Most young Australians deleted their accounts for good once the pioneering law against teen apps took effect. The government plans to end the ban because it is no longer needed.",
+          "a": false,
+          "why": "Close, but most under-16s never really left, and the government refuses to back down rather than ending the law."
+        },
+        {
+          "s": "Australia's highest court has canceled the country's social media rules for children under sixteen. Judges ruled the law unfair because adults never had to prove their age.",
+          "a": false,
+          "why": "No court canceled anything. The ban still stands, and the debate is about weak age checks, not a ruling."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Australia was the first country to ban social media for under-16s.",
+          "a": true,
+          "why": "The law took effect in December 2025 and was designed to keep young teens out of the big apps."
+        },
+        {
+          "s": "Platforms shut down about 4.7 million accounts.",
+          "a": true,
+          "why": "Even so, most under-16s stayed online or came back later."
+        },
+        {
+          "s": "Every child who kept an account had to pass a strict age check.",
+          "a": false,
+          "why": "About half were never asked to prove their age at all, the regulator found, so many accounts slipped through without a check."
+        },
+        {
+          "s": "Some teens fooled face scans with photos of older people.",
+          "a": true,
+          "why": "Some got around the face scans with photos of older people, and one even passed using a printed photo of a famous singer."
+        },
+        {
+          "s": "The government has decided to back down and end the ban.",
+          "a": false,
+          "why": "Ministers defend the law and want platforms to crack down with stronger age checks."
+        },
+        {
+          "s": "Daily social media use among under-16s fell sharply after the ban.",
+          "a": false,
+          "why": "Daily use barely moved, from about 60 percent before the ban to 58 percent three months after it began."
+        }
+      ]
+    },
     {
       "id": "gen-z-stare-2026",
       "number": 114,
