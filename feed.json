@@ -1,6 +1,2030 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-28",
   "stories": [
+    {
+      "id": "bolivian-wildcat-tilcayo-2026",
+      "number": 125,
+      "headline": "Tiny Bolivian wild cat turns out to be a new species",
+      "badge": "Nature",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n125-bolivian-wildcat-tilcayo-2026-flat.webp",
+      "position": "center 35%",
+      "sources": [
+        {
+          "title": "Tiny wild cat newly identified as a species draws curious visitors in Bolivia (AP)",
+          "url": "https://apnews.com/article/ae6f7928ae5b37be3cfd478fe6f1027c"
+        },
+        {
+          "title": "Meet the Adorable and Tiny Tilcayo, the First Brand-New Cat Species Identified in More Than a Century (Smithsonian Magazine)",
+          "url": "https://www.smithsonianmag.com/smart-news/meet-the-adorable-and-tiny-tilcayo-the-first-brand-new-cat-species-identified-in-more-than-a-century-180989528/"
+        },
+        {
+          "title": "Meet the First New Cat Species Discovered in 100 Years (National Geographic)",
+          "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A tiny wild cat from Bolivia's [[cloud forests]] has {{turned out to be}} a new species. It lives on the eastern slopes of the Andes Mountains. Scientists say it is the first new wild cat species [[described]] in more than a century. A study about the cat {{came out}} in the [[journal]] Current Biology on September 17, 2026.",
+          "verbs": [
+            {
+              "display": "turned out to be",
+              "base": "turn out to be",
+              "correct": "To be discovered to be something",
+              "wrong": "To slowly change into a different thing",
+              "correctFirst": true,
+              "why": "The quiet new neighbor turned out to be a famous singer. The old painting in the attic turned out to be very valuable. The small spotted cat that a family once kept as a pet has turned out to be a species new to science."
+            },
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To be published for the public",
+              "wrong": "To be checked by other experts",
+              "correctFirst": false,
+              "why": "Her first novel came out last spring. A new report on city traffic comes out every January. The study describing the new cat species came out in the journal Current Biology on September 17, 2026."
+            }
+          ]
+        },
+        {
+          "text": "One of these cats, a male, lives at a [[wildlife sanctuary]] near La Paz. A local family {{took in}} the cat as a [[kitten]] and tried to raise him as a [[house cat]]. In 2017, they brought him to the sanctuary. Researchers later {{carried out}} a [[genetic study]] comparing the full [[genomes]] of 38 related wild cats. It showed that the new species {{branched off}} from its closest [[relatives]] about 1.4 million years ago.",
+          "verbs": [
+            {
+              "display": "took in",
+              "base": "take in",
+              "correct": "To give a person or animal a home",
+              "wrong": "To hire someone to work for you",
+              "correctFirst": true,
+              "why": "My aunt took in a stray dog she found in the rain. The couple took in two foster children last year. A local family took in the cat as a kitten and tried to raise him as a house cat."
+            },
+            {
+              "display": "carried out",
+              "base": "carry out",
+              "correct": "To do a planned piece of research",
+              "wrong": "To keep doing the same task",
+              "correctFirst": false,
+              "why": "The school carried out a survey of its students. Engineers will carry out safety tests on the bridge next week. Researchers carried out a genetic study that compared the full genomes of 38 related wild cats."
+            },
+            {
+              "display": "branched off",
+              "base": "branch off",
+              "correct": "To separate from a main line or group",
+              "wrong": "To start doing new kinds of things",
+              "correctFirst": true,
+              "why": "A narrow path branches off from the main trail near the lake. Spanish and Italian branched off from Latin many centuries ago. The genetic study showed that the new species branched off from its closest relatives about 1.4 million years ago."
+            }
+          ]
+        },
+        {
+          "text": "The male cat weighs about 3 pounds and is smaller than the average house cat. His unusually large spots {{stand out}} on his light brown fur. The study {{set off}} a [[wave of excitement]] on social media. Since then, visitors from across Bolivia and beyond have {{shown up}} at the sanctuary. But the cat is [[easily stressed]] by people. [[Caretakers]] keep him out of [[public view]] and {{turn away}} crowds hoping for a closer look.",
+          "verbs": [
+            {
+              "display": "stand out",
+              "base": "stand out",
+              "correct": "To be very easy to notice",
+              "wrong": "To stay loyal to someone",
+              "correctFirst": false,
+              "why": "A yellow car stands out in a busy parking lot. Her bright red coat stood out in the crowd. The little cat's unusually large spots stand out on his light brown fur."
+            },
+            {
+              "display": "set off",
+              "base": "set off",
+              "correct": "To cause something to start",
+              "wrong": "To start a new company",
+              "correctFirst": true,
+              "why": "One angry post can set off a long online fight. The late goal set off a huge celebration in the stadium. The study set off a wave of excitement about the tiny cat on social media."
+            },
+            {
+              "display": "shown up",
+              "base": "show up",
+              "correct": "To arrive at a place",
+              "wrong": "To try to impress people",
+              "correctFirst": false,
+              "why": "Only ten people showed up for the meeting. Fans showed up at the airport hours before the band landed. Visitors from across Bolivia and beyond have shown up at the sanctuary hoping to see the cat."
+            },
+            {
+              "display": "turn away",
+              "base": "turn away",
+              "correct": "To refuse to let people enter",
+              "wrong": "To hand something to an official",
+              "correctFirst": true,
+              "why": "The concert was full, so the staff turned away hundreds of fans. The hotel had no free rooms and turned away late guests. The cat is easily stressed by people, so caretakers turn away crowds hoping for a closer look."
+            }
+          ]
+        },
+        {
+          "text": "The sanctuary's co-founder said the cat became \"an [[ambassador]] for conservation\" in just a few days. He said the news has helped [[raise awareness]] about protecting wild cats and their forest [[habitat]]. Threats to the cats include [[deforestation]] and [[wildlife trafficking]]. The study also {{sorted out}} the [[family tree]] of the cat's group, the tiger cats. The group now has five species. A wild cat expert {{pointed out}} that this means fewer animals in each species.",
+          "verbs": [
+            {
+              "display": "sorted out",
+              "base": "sort out",
+              "correct": "To bring order to something confusing",
+              "wrong": "To look through things one at a time",
+              "correctFirst": false,
+              "why": "A new manager sorted out the messy work schedule in a week. Our teacher sorted out the confusion about the test dates. The study sorted out the family tree of the tiger cats, a group that now has five species."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To mention a fact people should notice",
+              "wrong": "To be a sign that something is true",
+              "correctFirst": true,
+              "why": "My friend pointed out a mistake in my email. The guide pointed out that the museum closes early on Sundays. A wild cat expert pointed out that with five species, each one has fewer animals."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Turn out to be",
+          "def": "To be discovered to be something",
+          "ipa": "/tɜrn aʊt tə bi/",
+          "ex": [
+            "The noise turned out to be a cat on the roof.",
+            "The rumor turned out to be false.",
+            "The quiet student turned out to be a great leader."
+          ]
+        },
+        {
+          "verb": "Come out",
+          "def": "To be published for the public",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "Her new book comes out next month.",
+            "The report came out on Monday.",
+            "The results will come out in a science journal."
+          ]
+        },
+        {
+          "verb": "Take in",
+          "def": "To give a person or animal a home",
+          "ipa": "/teɪk ɪn/",
+          "ex": [
+            "They took in a stray cat last winter.",
+            "The shelter takes in dogs that nobody wants.",
+            "My grandparents took in three children after the flood."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do a planned piece of research",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "The hospital carried out a survey of patients.",
+            "Scientists carried out tests on the river water.",
+            "The team will carry out a study of local birds."
+          ]
+        },
+        {
+          "verb": "Branch off",
+          "def": "To separate from a main line or group",
+          "ipa": "/bræntʃ ɔf/",
+          "ex": [
+            "A narrow trail branches off from the main path.",
+            "This family of birds branched off millions of years ago.",
+            "Several languages branched off from Latin."
+          ]
+        },
+        {
+          "verb": "Stand out",
+          "def": "To be very easy to notice",
+          "ipa": "/stænd aʊt/",
+          "ex": [
+            "Her red hat stood out in the crowd.",
+            "One name stands out on the list.",
+            "The white house stands out against the dark hills."
+          ]
+        },
+        {
+          "verb": "Set off",
+          "def": "To cause something to start",
+          "ipa": "/sɛt ɔf/",
+          "ex": [
+            "The news set off protests in the capital.",
+            "Heavy rain set off a landslide.",
+            "A small spark set off the fire."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To arrive at a place",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "He showed up late to work again.",
+            "Nobody showed up for the early class.",
+            "Hundreds of fans showed up at the airport."
+          ]
+        },
+        {
+          "verb": "Turn away",
+          "def": "To refuse to let people enter",
+          "ipa": "/tɜrn əˈweɪ/",
+          "ex": [
+            "The club turned away people without tickets.",
+            "The shelter was full and had to turn away families.",
+            "Guards turned away reporters at the gate."
+          ]
+        },
+        {
+          "verb": "Sort out",
+          "def": "To bring order to something confusing",
+          "ipa": "/sɔrt aʊt/",
+          "ex": [
+            "She sorted out the problem with the bank.",
+            "We need to sort out who pays for what.",
+            "The new rules sorted out years of confusion."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To mention a fact people should notice",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "He pointed out a mistake in the report.",
+            "She pointed out that the store was closed.",
+            "The teacher pointed out the most important rule."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "cloud forests",
+          "def": "Wet mountain forests that are often covered in low clouds",
+          "ipa": "/klaʊd ˈfɔrəsts/",
+          "ex": [
+            "Many rare birds live in the cloud forests of Central America.",
+            "Cloud forests stay green and damp all year.",
+            "Hikers walked through cloud forests on their way up the mountain."
+          ]
+        },
+        {
+          "word": "journal",
+          "def": "A magazine where scientists publish their research",
+          "ipa": "/ˈdʒɜrnəl/",
+          "ex": [
+            "Her paper appeared in a medical journal.",
+            "The journal publishes new research every month.",
+            "Experts review each article before the journal prints it."
+          ]
+        },
+        {
+          "word": "described",
+          "def": "Officially named and explained by scientists for the first time",
+          "ipa": "/dɪˈskraɪbd/",
+          "ex": [
+            "The frog was first described by scientists in 1990.",
+            "Thousands of insects have never been described.",
+            "The team described two new plants from the island."
+          ]
+        },
+        {
+          "word": "wildlife sanctuary",
+          "def": "A protected place where wild animals are cared for",
+          "ipa": "/ˈwaɪldˌlaɪf ˈsæŋktʃuˌɛri/",
+          "ex": [
+            "The injured owl was taken to a wildlife sanctuary.",
+            "The wildlife sanctuary cares for over 200 monkeys.",
+            "School groups visit the wildlife sanctuary every spring."
+          ]
+        },
+        {
+          "word": "kitten",
+          "def": "A very young cat",
+          "ipa": "/ˈkɪtən/",
+          "ex": [
+            "The kitten slept in a box by the window.",
+            "Our cat had four kittens last week.",
+            "The kitten was too small to climb the stairs."
+          ]
+        },
+        {
+          "word": "house cat",
+          "def": "A cat that lives with people as a pet",
+          "ipa": "/haʊs kæt/",
+          "ex": [
+            "A house cat usually sleeps most of the day.",
+            "Their house cat never goes outside.",
+            "A lion is much bigger than a house cat."
+          ]
+        },
+        {
+          "word": "genetic study",
+          "def": "Research that compares the DNA of living things",
+          "ipa": "/dʒəˈnɛtɪk ˈstʌdi/",
+          "ex": [
+            "A genetic study showed the two birds were closely related.",
+            "The genetic study used blood samples from 500 people.",
+            "Doctors hope a genetic study will explain the disease."
+          ]
+        },
+        {
+          "word": "genomes",
+          "def": "The complete sets of genes of living things",
+          "ipa": "/ˈdʒinoʊmz/",
+          "ex": [
+            "Scientists compared the genomes of wolves and dogs.",
+            "Reading full genomes is faster and cheaper than before.",
+            "The genomes of the two plants were almost the same."
+          ]
+        },
+        {
+          "word": "relatives",
+          "def": "Animals or plants that come from the same family line",
+          "ipa": "/ˈrɛlətɪvz/",
+          "ex": [
+            "Tigers and lions are close relatives.",
+            "Wolves are wild relatives of pet dogs.",
+            "The plant's relatives grow only in the desert."
+          ]
+        },
+        {
+          "word": "wave of excitement",
+          "def": "A sudden rise of happy interest among many people",
+          "ipa": "/weɪv əv ɪkˈsaɪtmənt/",
+          "ex": [
+            "The goal sent a wave of excitement through the stadium.",
+            "News of the concert caused a wave of excitement in town.",
+            "A wave of excitement spread through the class before the trip."
+          ]
+        },
+        {
+          "word": "easily stressed",
+          "def": "Quick to feel nervous or upset",
+          "ipa": "/ˈizəli strɛst/",
+          "ex": [
+            "Some dogs are easily stressed by loud noises.",
+            "He gets easily stressed before exams.",
+            "Young horses are easily stressed in new places."
+          ]
+        },
+        {
+          "word": "Caretakers",
+          "def": "People whose job is to care for animals or a place",
+          "ipa": "/ˈkɛrˌteɪkərz/",
+          "ex": [
+            "The zoo's caretakers feed the bears twice a day.",
+            "Caretakers at the park clean the paths every morning.",
+            "The old house has had three caretakers since 2010."
+          ]
+        },
+        {
+          "word": "public view",
+          "def": "Where anyone can see something",
+          "ipa": "/ˈpʌblɪk vju/",
+          "ex": [
+            "The painting was hidden from public view for years.",
+            "The museum keeps old letters out of public view.",
+            "The statue is now back in public view."
+          ]
+        },
+        {
+          "word": "ambassador",
+          "def": "A person or animal that represents and promotes a cause",
+          "ipa": "/æmˈbæsədər/",
+          "ex": [
+            "The singer is an ambassador for clean water.",
+            "The panda became an ambassador for its species.",
+            "Students can act as ambassadors for their school."
+          ]
+        },
+        {
+          "word": "raise awareness",
+          "def": "To help more people know about a problem",
+          "ipa": "/reɪz əˈwɛrnəs/",
+          "ex": [
+            "The walk will raise awareness about heart disease.",
+            "Posters raise awareness of the new recycling rules.",
+            "She wrote a book to raise awareness about ocean trash."
+          ]
+        },
+        {
+          "word": "habitat",
+          "def": "The natural home of an animal or plant",
+          "ipa": "/ˈhæbɪˌtæt/",
+          "ex": [
+            "The frog's habitat is shrinking every year.",
+            "Wetlands are an important habitat for birds.",
+            "The zoo tries to copy each animal's natural habitat."
+          ]
+        },
+        {
+          "word": "deforestation",
+          "def": "The clearing of large areas of forest",
+          "ipa": "/diˌfɔrəˈsteɪʃən/",
+          "ex": [
+            "Deforestation has destroyed the homes of many animals.",
+            "The government promised to slow deforestation.",
+            "Farming is a major cause of deforestation."
+          ]
+        },
+        {
+          "word": "wildlife trafficking",
+          "def": "Illegally catching and selling wild animals",
+          "ipa": "/ˈwaɪldˌlaɪf ˈtræfɪkɪŋ/",
+          "ex": [
+            "Wildlife trafficking puts many parrots in danger.",
+            "Police arrested three men for wildlife trafficking.",
+            "Wildlife trafficking is a big business around the world."
+          ]
+        },
+        {
+          "word": "family tree",
+          "def": "A chart that shows how related people or species are connected",
+          "ipa": "/ˈfæməli tri/",
+          "ex": [
+            "My grandmother drew our family tree on a big sheet of paper.",
+            "The new fossil changed the family tree of early birds.",
+            "Horses and zebras sit close together on the family tree."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A small cat kept at a Bolivian sanctuary has been confirmed as a species new to science. The news has brought crowds to the sanctuary and more attention to wild cats and their forests.",
+          "a": true,
+          "why": "Genetic tests showed the cat is a separate species. The sanctuary's co-founder says it became an ambassador for conservation in just a few days."
+        },
+        {
+          "s": "Scientists have confirmed that a little spotted cat from Bolivia is a separate species. Its caretakers now show it to large crowds each day to raise money for forest protection.",
+          "a": false,
+          "why": "Close, but the cat is easily stressed by people. Caretakers keep him out of public view and turn the crowds away."
+        },
+        {
+          "s": "Rangers in the mountains of Bolivia filmed a rare spotted wild cat for the first time in decades. They believe a small group still survives there despite years of forest loss.",
+          "a": false,
+          "why": "No rare cat was filmed in the mountains. A cat living at a sanctuary near La Paz was identified as a new species through genetic tests."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The little Bolivian cat turned out to be a new species of wild cat.",
+          "a": true,
+          "why": "A genetic study showed that it branched off from its closest relatives about 1.4 million years ago."
+        },
+        {
+          "s": "The study about the new cat species came out in the journal Science.",
+          "a": false,
+          "why": "It came out in the journal Current Biology on September 17, 2026."
+        },
+        {
+          "s": "Caretakers let the crowds see the cat up close every day.",
+          "a": false,
+          "why": "The cat is easily stressed by people, so caretakers keep him out of public view and turn away the crowds."
+        },
+        {
+          "s": "Visitors from across Bolivia and beyond have shown up at the sanctuary.",
+          "a": true,
+          "why": "The study set off a wave of excitement on social media, and people came hoping to see the tiny cat."
+        },
+        {
+          "s": "A local family took in the cat when he was a kitten.",
+          "a": true,
+          "why": "The family tried to raise him as a house cat, then brought him to the sanctuary in 2017."
+        },
+        {
+          "s": "The new species branched off from its relatives about 14,000 years ago.",
+          "a": false,
+          "why": "Researchers carried out a genetic study, and it showed the split happened about 1.4 million years ago."
+        }
+      ]
+    },
+    {
+      "id": "trump-xi-stability-2026",
+      "number": 124,
+      "headline": "Trump and Xi seek stability despite disputes",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n124-trump-xi-stability-2026-flat.webp",
+      "position": "center 60%",
+      "sources": [
+        {
+          "title": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability (Associated Press)",
+          "url": "https://apnews.com/article/e560910c897fedb0448eda4cdbfdbaea"
+        },
+        {
+          "title": "Trump-Xi summit: Here's what's on the agenda, and why it matters (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters"
+        },
+        {
+          "title": "Foreign Ministry Spokesperson Guo Jiakun's Regular Press Conference on September 21, 2026 (Ministry of Foreign Affairs of the People's Republic of China)",
+          "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/202609/t20260921_12027763.html"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Chinese President Xi Jinping began a three-day [[state visit]] to Washington on September 23, 2026. It is his first visit in 10 years and his third meeting with President Donald Trump in less than a year. Neither side expects major deals. Both leaders hope to {{smooth over}} tensions and steady [[fragile ties]]. Their countries have {{pulled back from}} last year's [[trade war]] and its very high [[tariffs]].",
+          "verbs": [
+            {
+              "display": "smooth over",
+              "base": "smooth over",
+              "correct": "To make a disagreement less serious",
+              "wrong": "To announce a decision to the public",
+              "correctFirst": true,
+              "why": "A good manager can smooth over a fight between two workers. A quick apology often smooths over an argument between friends. Trump and Xi hope to smooth over tensions during Xi's state visit to Washington."
+            },
+            {
+              "display": "pulled back from",
+              "base": "pull back from",
+              "correct": "To stop being involved in something",
+              "wrong": "To move ahead of a rival in a contest",
+              "correctFirst": false,
+              "why": "Many investors pulled back from the housing market last year. The company pulled back from the deal when its costs rose. Washington and Beijing have pulled back from last year's trade war and its very high tariffs."
+            }
+          ]
+        },
+        {
+          "text": "AI has become a major area of rivalry. The U.S. restricts exports of the most powerful [[AI chips]] to China. It accuses Chinese developers of {{tapping into}} American AI models to copy their abilities. Beijing {{pushes back}}, saying this practice, called [[distillation]], is widely used, including by American companies. It says Washington wants to [[monopolize]] the industry. Still, the U.S. has proposed {{setting up}} a warning system for AI incidents that could affect [[national security]].",
+          "verbs": [
+            {
+              "display": "tapping into",
+              "base": "tap into",
+              "correct": "To get access to a resource and use it",
+              "wrong": "To warn someone in secret about a plan",
+              "correctFirst": true,
+              "why": "Small towns can tap into state money to fix their roads. Students can tap into the library's online collection from home. Washington accuses Chinese developers of tapping into American AI models to copy their abilities."
+            },
+            {
+              "display": "pushes back",
+              "base": "push back",
+              "correct": "To argue against a claim or plan",
+              "wrong": "To ask strongly for something",
+              "correctFirst": false,
+              "why": "Parents often push back when a school changes its hours. Workers may push back against a new rule they think is unfair. Beijing pushes back against American claims, saying distillation is widely used, including by American companies."
+            },
+            {
+              "display": "setting up",
+              "base": "set up",
+              "correct": "To create a new system or group",
+              "wrong": "To save money for a later purpose",
+              "correctFirst": true,
+              "why": "A city can set up a hotline for storm warnings. Neighbors often set up a group chat to share local news. Washington has proposed setting up a warning system for AI incidents that could affect national security."
+            }
+          ]
+        },
+        {
+          "text": "Both governments have {{held back}} from big moves that would break their [[trade truce]]. This year, the U.S. Supreme Court {{struck down}} Trump's tariffs on [[trading partners]]. In July, the White House {{rolled out}} a 12.5 percent tariff on 60 countries, including China, over [[forced labor]] concerns. Last year, China {{choked off}} supplies of [[critical minerals]]. China's foreign ministry now says it wants those [[supply chains]] to stay \"safe and stable.\"",
+          "verbs": [
+            {
+              "display": "held back",
+              "base": "hold back",
+              "correct": "To stop yourself from doing something",
+              "wrong": "To present something as an example",
+              "correctFirst": false,
+              "why": "A shy student may hold back from asking questions in class. The fans held back from cheering until the result was official. Both governments have held back from big moves that would break their trade truce."
+            },
+            {
+              "display": "struck down",
+              "base": "strike down",
+              "correct": "To cancel a law or rule officially",
+              "wrong": "To begin a friendship or talk",
+              "correctFirst": true,
+              "why": "A judge can strike down a law that goes against the constitution. The state's top court struck down the new voting map. This year, the Supreme Court struck down Trump's tariffs on trading partners."
+            },
+            {
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To introduce a new policy or plan",
+              "wrong": "To lower tariffs to an earlier level",
+              "correctFirst": false,
+              "why": "The bank will roll out a new savings plan next month. The state rolled out a plan to repair old bridges. In July, the White House rolled out a 12.5 percent tariff on 60 countries, including China."
+            },
+            {
+              "display": "choked off",
+              "base": "choke off",
+              "correct": "To stop a supply of something",
+              "wrong": "To hide a strong feeling",
+              "correctFirst": true,
+              "why": "A long strike can choke off the supply of goods to stores. Heavy snow choked off food deliveries to the mountain town. Last year, China choked off supplies of critical minerals during the trade war."
+            }
+          ]
+        },
+        {
+          "text": "The Trump administration wants to {{cut off}} Iran from its trading partners. Beijing insists on its right to trade with Tehran. China, Iran's biggest oil buyer, has been {{building up}} payment channels outside the U.S.-led [[financial system]], an economist said. Taiwan, a [[self-governing]] island that Beijing claims, is another [[thorny issue]]. After visiting Beijing in May, Trump paused a large [[weapons package]] for Taiwan. U.S. law requires Washington to help the island defend itself. Analysts expect Xi to press Trump to keep {{putting off}} [[arms sales]].",
+          "verbs": [
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To stop someone's links with others",
+              "wrong": "To affect many different groups",
+              "correctFirst": false,
+              "why": "Sanctions can cut off a country from world banks. A flood cut off the town from nearby cities for a week. The Trump administration wants to cut off Iran from its trading partners."
+            },
+            {
+              "display": "building up",
+              "base": "build up",
+              "correct": "To develop something little by little",
+              "wrong": "To include something from the start",
+              "correctFirst": true,
+              "why": "A new shop needs years to build up a loyal group of customers. Athletes build up strength with daily training. An economist said China has been building up payment channels outside the U.S.-led financial system."
+            },
+            {
+              "display": "putting off",
+              "base": "put off",
+              "correct": "To delay something until later",
+              "wrong": "To suggest an idea for discussion",
+              "correctFirst": false,
+              "why": "Many people put off going to the dentist. The school put off the field trip because of bad weather. Analysts expect Xi to press Trump to keep putting off arms sales to Taiwan."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Smooth over",
+          "def": "To make a disagreement less serious",
+          "ipa": "/smuð ˈoʊvər/",
+          "ex": [
+            "She tried to smooth over the argument with a joke.",
+            "The coach smoothed over the problem between two players.",
+            "A kind phone call smoothed over their disagreement."
+          ]
+        },
+        {
+          "verb": "Pull back from",
+          "def": "To stop being involved in something",
+          "ipa": "/pʊl bæk frʌm/",
+          "ex": [
+            "The bank pulled back from lending to small businesses.",
+            "Several countries pulled back from the peace talks.",
+            "She pulled back from politics after she lost the election."
+          ]
+        },
+        {
+          "verb": "Tap into",
+          "def": "To get access to a resource and use it",
+          "ipa": "/tæp ˈɪntu/",
+          "ex": [
+            "The school tapped into a fund for new computers.",
+            "Farmers tap into underground water during dry years.",
+            "Many small businesses tap into free online tools."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To argue against a claim or plan",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "Residents pushed back against the plan for a new highway.",
+            "The players pushed back when the league changed the rules.",
+            "Doctors pushed back on the report's claims."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create a new system or group",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "The school set up a new reading program.",
+            "They set up a group to help flood victims.",
+            "The company set up a team to answer complaints."
+          ]
+        },
+        {
+          "verb": "Hold back",
+          "def": "To stop yourself from doing something",
+          "ipa": "/hoʊld bæk/",
+          "ex": [
+            "She held back from saying what she really thought.",
+            "Many buyers are holding back from big purchases this year.",
+            "He held back from answering until he had all the facts."
+          ]
+        },
+        {
+          "verb": "Strike down",
+          "def": "To cancel a law or rule officially",
+          "ipa": "/straɪk daʊn/",
+          "ex": [
+            "The court struck down the city's ban on food trucks.",
+            "Judges struck down the law last spring.",
+            "The ruling struck down a tax on phone calls."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To introduce a new policy or plan",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The city rolled out a new recycling plan.",
+            "The school will roll out a later start time next fall.",
+            "The government rolled out new rules for drones."
+          ]
+        },
+        {
+          "verb": "Choke off",
+          "def": "To stop a supply of something",
+          "ipa": "/tʃoʊk ɔf/",
+          "ex": [
+            "The blockade choked off fuel to the island.",
+            "The drought choked off the town's water supply.",
+            "Closing the border choked off supplies of medicine."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To stop someone's links with others",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The war cut off the city from its main ports.",
+            "Heavy snow cut off the village for a week.",
+            "The storm cut off the island from the mainland."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To develop something little by little",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "She built up her business over ten years.",
+            "The team is slowly building up its fan base.",
+            "It takes time to build up trust."
+          ]
+        },
+        {
+          "verb": "Put off",
+          "def": "To delay something until later",
+          "ipa": "/pʊt ɔf/",
+          "ex": [
+            "They put off the wedding until spring.",
+            "Don't put off your homework until Sunday night.",
+            "The city put off the vote for two weeks."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "state visit",
+          "def": "A formal trip by a head of state to another country",
+          "ipa": "/steɪt ˈvɪzɪt/",
+          "ex": [
+            "The queen made a state visit to Canada.",
+            "A state visit includes a formal dinner.",
+            "The president's state visit lasted three days."
+          ]
+        },
+        {
+          "word": "fragile ties",
+          "def": "A relationship that could easily be damaged",
+          "ipa": "/ˈfrædʒəl taɪz/",
+          "ex": [
+            "The two countries have fragile ties after the dispute.",
+            "One insult could damage their fragile ties.",
+            "The talks aim to repair fragile ties between the groups."
+          ]
+        },
+        {
+          "word": "trade war",
+          "def": "A fight in which countries put taxes on each other's goods",
+          "ipa": "/treɪd wɔr/",
+          "ex": [
+            "The trade war raised prices for farmers.",
+            "Both sides lost money in the trade war.",
+            "Shoppers felt the effects of the trade war at the store."
+          ]
+        },
+        {
+          "word": "tariffs",
+          "def": "Taxes that a country puts on goods from other countries",
+          "ipa": "/ˈtærɪfs/",
+          "ex": [
+            "New tariffs made imported cars more expensive.",
+            "The country lowered tariffs on fruit.",
+            "Tariffs can protect local factories."
+          ]
+        },
+        {
+          "word": "AI chips",
+          "def": "Computer chips built to run artificial intelligence",
+          "ipa": "/ˌeɪˈaɪ tʃɪps/",
+          "ex": [
+            "AI chips are in high demand around the world.",
+            "The company designs AI chips for data centers.",
+            "AI chips use a lot of electricity."
+          ]
+        },
+        {
+          "word": "distillation",
+          "def": "Training one AI model by using the answers of another",
+          "ipa": "/ˌdɪstəˈleɪʃən/",
+          "ex": [
+            "Distillation can make a small AI model much smarter.",
+            "The firm denied using distillation on a rival's model.",
+            "Some experts say distillation is common in the industry."
+          ]
+        },
+        {
+          "word": "monopolize",
+          "def": "To take full control of a business or market",
+          "ipa": "/məˈnɑpəˌlaɪz/",
+          "ex": [
+            "One company tried to monopolize the phone market.",
+            "Laws stop firms from trying to monopolize an industry.",
+            "They want to monopolize the local bus service."
+          ]
+        },
+        {
+          "word": "national security",
+          "def": "The safety of a country and its people",
+          "ipa": "/ˈnæʃənəl sɪˈkjʊrəti/",
+          "ex": [
+            "The report was kept secret for national security reasons.",
+            "Cyberattacks are a threat to national security.",
+            "The law protects national security."
+          ]
+        },
+        {
+          "word": "trade truce",
+          "def": "An agreement to pause a fight over trade",
+          "ipa": "/treɪd trus/",
+          "ex": [
+            "The trade truce lowered some taxes on imports.",
+            "Both countries agreed to extend the trade truce.",
+            "Farmers hope the trade truce will last."
+          ]
+        },
+        {
+          "word": "trading partners",
+          "def": "Countries that buy from and sell to each other",
+          "ipa": "/ˈtreɪdɪŋ ˈpɑrtnərz/",
+          "ex": [
+            "Canada and Mexico are major trading partners.",
+            "The country wants new trading partners in Africa.",
+            "Trading partners often sign deals to lower taxes on goods."
+          ]
+        },
+        {
+          "word": "forced labor",
+          "def": "Work that people are made to do against their will",
+          "ipa": "/fɔrst ˈleɪbər/",
+          "ex": [
+            "The company checks its suppliers for forced labor.",
+            "Goods made with forced labor are banned in some countries.",
+            "The report found signs of forced labor on the farms."
+          ]
+        },
+        {
+          "word": "critical minerals",
+          "def": "Rare materials needed to make modern products",
+          "ipa": "/ˈkrɪtɪkəl ˈmɪnərəlz/",
+          "ex": [
+            "Phones and electric cars need critical minerals.",
+            "The country has large reserves of critical minerals.",
+            "Prices of critical minerals rose this year."
+          ]
+        },
+        {
+          "word": "supply chains",
+          "def": "The steps and companies that bring a product to buyers",
+          "ipa": "/səˈplaɪ tʃeɪnz/",
+          "ex": [
+            "The storm damaged supply chains across the region.",
+            "Companies want safer supply chains.",
+            "Long supply chains can cause delays."
+          ]
+        },
+        {
+          "word": "financial system",
+          "def": "The banks and rules that move money around the world",
+          "ipa": "/faɪˈnænʃəl ˈsɪstəm/",
+          "ex": [
+            "The financial system nearly failed in 2008.",
+            "A strong financial system helps businesses grow.",
+            "New rules aim to protect the financial system."
+          ]
+        },
+        {
+          "word": "self-governing",
+          "def": "Ruled by its own government",
+          "ipa": "/ˌsɛlfˈɡʌvərnɪŋ/",
+          "ex": [
+            "The island is a self-governing territory.",
+            "Each self-governing region has its own laws.",
+            "The town became self-governing in 1950."
+          ]
+        },
+        {
+          "word": "thorny issue",
+          "def": "A problem that is hard to solve and causes arguments",
+          "ipa": "/ˈθɔrni ˈɪʃu/",
+          "ex": [
+            "Parking is a thorny issue in our neighborhood.",
+            "Taxes are always a thorny issue at election time.",
+            "The meeting avoided the thorny issue of pay."
+          ]
+        },
+        {
+          "word": "weapons package",
+          "def": "A group of arms sold or given in one deal",
+          "ipa": "/ˈwɛpənz ˈpækɪdʒ/",
+          "ex": [
+            "Congress approved a new weapons package.",
+            "The weapons package includes air defense systems.",
+            "The weapons package is worth billions of dollars."
+          ]
+        },
+        {
+          "word": "arms sales",
+          "def": "The selling of weapons to another country",
+          "ipa": "/ɑrmz seɪlz/",
+          "ex": [
+            "Arms sales to the region have grown.",
+            "The law limits arms sales to some countries.",
+            "Arms sales are a big part of the trade deal."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Xi is making his first visit to Washington in ten years, and both leaders want calmer ties. Still, their governments keep competing over AI, tariffs, Iran and Taiwan.",
+          "a": true,
+          "why": "Xi's state visit is his first in 10 years, and both leaders hope to smooth over tensions. Their governments still compete hard on several fronts."
+        },
+        {
+          "s": "Xi's first trip to the U.S. capital in a decade comes as both sides seek steadier relations. China restricts exports of AI chips, and the U.S. says distillation is common.",
+          "a": false,
+          "why": "Close, but it is the U.S. that restricts exports of powerful AI chips to China. Beijing is the side that says distillation is widely used."
+        },
+        {
+          "s": "Leaders of the two countries met at the United Nations to sign a new climate deal. They promised to burn less coal and share clean energy technology with poorer nations.",
+          "a": false,
+          "why": "There was no climate deal at the United Nations. Xi began a state visit to Washington amid disputes over AI, trade, Iran and Taiwan."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Xi's state visit is his first trip to Washington in 10 years.",
+          "a": true,
+          "why": "He began a three-day visit on September 23, and both leaders hope to smooth over tensions."
+        },
+        {
+          "s": "Beijing says only Chinese companies use distillation.",
+          "a": false,
+          "why": "Beijing pushes back on U.S. claims, saying the practice is widely used, including by American companies."
+        },
+        {
+          "s": "Both governments have held back from moves that would break their truce.",
+          "a": true,
+          "why": "They have avoided big actions that could end the trade truce that followed last year's trade war."
+        },
+        {
+          "s": "China has agreed to stop trading with Iran.",
+          "a": false,
+          "why": "Beijing insists on its right to trade with Tehran, even though Washington wants to cut off Iran from its trading partners."
+        },
+        {
+          "s": "The U.S. Supreme Court struck down Trump's tariffs on trading partners.",
+          "a": true,
+          "why": "After that ruling, the White House rolled out a 12.5 percent tariff on 60 countries in July, including China."
+        },
+        {
+          "s": "Analysts expect Xi to ask Trump to increase arms sales to Taiwan.",
+          "a": false,
+          "why": "Analysts expect Xi to press Trump to keep putting off arms sales, after Trump paused a large weapons package in May."
+        }
+      ]
+    },
+    {
+      "id": "chimp-rock-throwing-2026",
+      "number": 123,
+      "headline": "Chimpanzees throw stones at the same trees for years",
+      "badge": "Nature",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n123-chimp-rock-throwing-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Chimpanzees have been hurling rocks at the same trees for more than a decade (ScienceDaily)",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260826055506.htm"
+        },
+        {
+          "title": "Why Do Male Chimpanzees Throw Rocks At the Same Trees for More Than a Decade? (AllAfrica, republishing The Conversation)",
+          "url": "https://allafrica.com/stories/202606030011.html"
+        },
+        {
+          "title": "Chimpanzees Keep Throwing Stones at the Same Trees, Scientists Want To Know Why (SciTechDaily)",
+          "url": "https://scitechdaily.com/chimpanzees-keep-throwing-stones-at-the-same-trees-scientists-want-to-know-why/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Male chimpanzees in West Africa have been throwing stones at the same trees for years, scientists say. The [[habit]] was reported in late August 2026 from a national park in the region, a savanna-woodland [[landscape]]. The males {{pick up}} stones and throw them at [[particular]] trees. They {{come back to}} the same spots, so [[piles]] of rocks have {{built up}} at the base. The throwing sites have been [[in active use]] for more than ten years.",
+          "verbs": [
+            {
+              "display": "pick up",
+              "base": "pick up",
+              "correct": "To lift something from the ground",
+              "wrong": "To throw something far away",
+              "correctFirst": true,
+              "why": "Kids pick up shells on the beach, and a gardener picks up fallen branches after a storm. Here the male chimps pick up stones from the ground and throw them at particular trees."
+            },
+            {
+              "display": "come back to",
+              "base": "come back to",
+              "correct": "To return to the same place",
+              "wrong": "To find something by chance",
+              "correctFirst": false,
+              "why": "Birds come back to the same nest every spring, and families come back to a favorite campsite each summer. These chimps come back to the same spots again and again, year after year."
+            },
+            {
+              "display": "built up",
+              "base": "build up",
+              "correct": "To grow bigger over time",
+              "wrong": "To separate into small pieces",
+              "correctFirst": true,
+              "why": "Dust builds up on a shelf nobody cleans, and snow builds up against a door overnight. Because the chimps keep throwing, piles of rocks have built up at the base of those trees."
+            }
+          ]
+        },
+        {
+          "text": "The behavior {{stands out}} because it is so rare: only four chimpanzee groups in West Africa have been [[observed]] doing it. Researchers from the University of Victoria and local [[field assistants]] {{set out}} to learn why. The chimps are unhabituated, not used to humans, so the team could not watch them directly. Instead, they {{set up}} [[camera traps]] and audio recorders at the sites, scanned the rocks in 3D, and measured the trees. They also noted [[nests]] and [[feeding signs]] and slowly {{put together}} a picture of the behavior.",
+          "verbs": [
+            {
+              "display": "stands out",
+              "base": "stand out",
+              "correct": "To be clearly different from others",
+              "wrong": "To represent an idea or a group",
+              "correctFirst": false,
+              "why": "A red coat stands out in a gray crowd, and one tall building stands out on a flat skyline. This behavior stands out because it has only been observed in four chimpanzee groups in all of West Africa."
+            },
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To begin a task with a clear goal",
+              "wrong": "To keep something for later use",
+              "correctFirst": true,
+              "why": "A hiker sets out to reach the top before noon, and a detective sets out to find the missing money. The research team set out to learn why the chimps throw stones at these trees."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To put equipment in place for use",
+              "wrong": "To make an alarm or camera start",
+              "correctFirst": false,
+              "why": "Campers set up a tent before dark, and a band sets up its speakers before a show. Since the chimps are not used to humans, the team set up camera traps and audio recorders at the sites instead of watching in person."
+            },
+            {
+              "display": "put together",
+              "base": "put together",
+              "correct": "To create something from many parts",
+              "wrong": "To delay something until later",
+              "correctFirst": true,
+              "why": "A child puts together a puzzle piece by piece, and a reporter puts together a story from many small facts. The researchers put together a picture of the chimps' behavior from cameras, recordings, scans, and measurements."
+            }
+          ]
+        },
+        {
+          "text": "The researchers have not {{figured out}} why. The throwing is part of a bigger [[display]]: the males also call loudly and drum on the tree's buttress roots. It may be a [[tradition]] {{passed down}} in these groups, or serve a symbolic [[purpose]], such as marking [[territory]]. Or the males may be {{showing off}} their [[status]]. The team cannot {{rule out}} any of these ideas, so the reason remains [[an open question]]. It is a rare case of stone use that is purely social, not to [[crack]] nuts or get food.",
+          "verbs": [
+            {
+              "display": "figured out",
+              "base": "figure out",
+              "correct": "To find the answer to a question",
+              "wrong": "To watch for signs of danger",
+              "correctFirst": false,
+              "why": "A mechanic figures out why a car will not start, and a student figures out a hard math problem. The researchers still have not figured out why the chimps throw stones at all."
+            },
+            {
+              "display": "passed down",
+              "base": "pass down",
+              "correct": "To teach a habit to the next generation",
+              "wrong": "To choose not to include someone",
+              "correctFirst": true,
+              "why": "A recipe is passed down from grandmother to grandchild, and old songs are passed down in a village for centuries. One theory is that the stone throwing is a tradition passed down within these particular chimp communities."
+            },
+            {
+              "display": "showing off",
+              "base": "show off",
+              "correct": "To display skill to impress others",
+              "wrong": "To arrive at a place at a set time",
+              "correctFirst": false,
+              "why": "A skater shows off a new trick in front of his friends, and a cook shows off her knife skills behind the counter. Another idea is that the males are showing off their skill or status to other chimps."
+            },
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To decide that something is not possible",
+              "wrong": "To test an idea with an experiment",
+              "correctFirst": true,
+              "why": "A doctor rules out a broken bone after an X-ray, and a weather report cannot rule out rain. The researchers cannot rule out any of their three ideas about why the chimps do this."
+            }
+          ]
+        },
+        {
+          "text": "For now, the chimps {{carry on}} with their stone throwing, and the researchers plan to keep studying the sites. But their [[habitat]] is not secure. The area is [[under threat]] from bauxite [[mining]] exploration. If mining begins, it could {{push the chimps out}} of the landscape they have used for so long. The team hopes this rare behavior will help people see why these forests are worth protecting.",
+          "verbs": [
+            {
+              "display": "carry on",
+              "base": "carry on",
+              "correct": "To continue doing something",
+              "wrong": "To do a planned piece of work",
+              "correctFirst": false,
+              "why": "Workers carry on after a short break, and a teacher carries on with the lesson after the bell. For now, the chimps carry on with their stone throwing while the researchers keep studying the sites."
+            },
+            {
+              "display": "push the chimps out",
+              "base": "push out",
+              "correct": "To force someone to leave a place",
+              "wrong": "To ask strongly for a change",
+              "correctFirst": true,
+              "why": "High rents push families out of a city, and a new road can push deer out of a valley. If bauxite mining begins, it could push the chimps out of the landscape they have used for so long."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pick up",
+          "def": "To lift something from the ground",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "She picked up the keys from the floor.",
+            "He picked up a stick and threw it for the dog.",
+            "Can you pick up that pen for me?"
+          ]
+        },
+        {
+          "verb": "Come back to",
+          "def": "To return to the same place",
+          "ipa": "/kʌm bæk tu/",
+          "ex": [
+            "The birds come back to the same nest every spring.",
+            "We came back to the beach the next morning.",
+            "He always comes back to the same cafe on Sundays."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To grow bigger over time",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "Dust builds up on the shelves if you don't clean them.",
+            "Traffic built up on the highway after the accident.",
+            "Snow built up on the roof during the night."
+          ]
+        },
+        {
+          "verb": "Stand out",
+          "def": "To be clearly different from others",
+          "ipa": "/stænd aʊt/",
+          "ex": [
+            "Her red coat stood out in the crowd.",
+            "One student stood out because of his questions.",
+            "The tall building stands out on the skyline."
+          ]
+        },
+        {
+          "verb": "Set out",
+          "def": "To begin a task with a clear goal",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "They set out to count every bird on the island.",
+            "The doctor set out to find the cause of the illness.",
+            "We set out to paint the whole house in one weekend."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To put equipment in place for use",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "We set up the tent before it got dark.",
+            "The technician set up three cameras in the hall.",
+            "Dad set up the new TV in the living room."
+          ]
+        },
+        {
+          "verb": "Put together",
+          "def": "To create something from many parts",
+          "ipa": "/pʊt təˈɡɛðər/",
+          "ex": [
+            "She put together a report from the survey results.",
+            "The police put together a timeline of the night.",
+            "He put together the bookshelf in an hour."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To find the answer to a question",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out why the printer stopped.",
+            "It took them a week to figure out the problem.",
+            "She finally figured out how to open the box."
+          ]
+        },
+        {
+          "verb": "Pass down",
+          "def": "To teach a habit to the next generation",
+          "ipa": "/pæs daʊn/",
+          "ex": [
+            "The recipe was passed down from her grandmother.",
+            "Old songs are passed down in many villages.",
+            "Her mother passed down the habit of writing letters."
+          ]
+        },
+        {
+          "verb": "Show off",
+          "def": "To display skill to impress others",
+          "ipa": "/ʃoʊ ɔf/",
+          "ex": [
+            "He shows off his juggling at family parties.",
+            "The kids showed off their dance moves at the party.",
+            "She showed off her drawing skills to the whole class."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To decide that something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctors ruled out a broken bone.",
+            "We can't rule out rain this weekend.",
+            "We ruled out the restaurant because it was too far."
+          ]
+        },
+        {
+          "verb": "Carry on",
+          "def": "To continue doing something",
+          "ipa": "/ˈkæri ɑn/",
+          "ex": [
+            "They carried on working after the short break.",
+            "Please carry on with your story.",
+            "The band carried on playing after the lights went out."
+          ]
+        },
+        {
+          "verb": "Push out",
+          "def": "To force someone to leave a place",
+          "ipa": "/pʊʃ aʊt/",
+          "ex": [
+            "High rents pushed many families out of the city.",
+            "The new road pushed the deer out of the valley.",
+            "The flood pushed many people out of their homes."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "habit",
+          "def": "Something you do often, usually without thinking",
+          "ipa": "/ˈhæbɪt/",
+          "ex": [
+            "He has a habit of checking his phone at dinner.",
+            "It's hard to break a bad habit.",
+            "Reading before bed is a good habit."
+          ]
+        },
+        {
+          "word": "landscape",
+          "def": "A large area of land and the way it looks",
+          "ipa": "/ˈlændskeɪp/",
+          "ex": [
+            "The landscape changed from hills to flat fields.",
+            "Snow covered the whole landscape.",
+            "Artists came to paint the desert landscape."
+          ]
+        },
+        {
+          "word": "particular",
+          "def": "One specific thing, not just any",
+          "ipa": "/pərˈtɪkjələr/",
+          "ex": [
+            "Is there a particular restaurant you like?",
+            "She always sits in one particular chair.",
+            "I'm looking for a particular kind of shoe."
+          ]
+        },
+        {
+          "word": "piles",
+          "def": "Groups of things placed on top of each other",
+          "ipa": "/paɪlz/",
+          "ex": [
+            "There were piles of books on his desk.",
+            "Workers left piles of sand by the road.",
+            "She sorted the laundry into three piles."
+          ]
+        },
+        {
+          "word": "in active use",
+          "def": "Still being used regularly",
+          "ipa": "/ɪn ˈæktɪv jus/",
+          "ex": [
+            "The old bridge is still in active use today.",
+            "Only two of the wells are in active use.",
+            "The runway has been in active use since 1960."
+          ]
+        },
+        {
+          "word": "observed",
+          "def": "Seen and noted carefully, often by scientists",
+          "ipa": "/əbˈzɜrvd/",
+          "ex": [
+            "The nurse observed a change in the patient's color.",
+            "This bird has rarely been observed so far north.",
+            "Students observed the plants for two weeks."
+          ]
+        },
+        {
+          "word": "field assistants",
+          "def": "Local helpers who support research outside a lab",
+          "ipa": "/fild əˈsɪstənts/",
+          "ex": [
+            "The field assistants knew every path in the forest.",
+            "Two field assistants carried the equipment.",
+            "She worked as one of the field assistants on the dig."
+          ]
+        },
+        {
+          "word": "camera traps",
+          "def": "Cameras that take pictures when an animal moves nearby",
+          "ipa": "/ˈkæmərə træps/",
+          "ex": [
+            "The camera traps caught a tiger at night.",
+            "Rangers placed camera traps along the river.",
+            "Three camera traps stopped working in the rain."
+          ]
+        },
+        {
+          "word": "nests",
+          "def": "Places animals build to sleep or keep their young",
+          "ipa": "/nɛsts/",
+          "ex": [
+            "Birds build their nests in spring.",
+            "The tree held several old nests.",
+            "Scientists counted the nests in the area."
+          ]
+        },
+        {
+          "word": "feeding signs",
+          "def": "Marks or leftovers that show an animal ate there",
+          "ipa": "/ˈfidɪŋ saɪnz/",
+          "ex": [
+            "Rangers found fresh feeding signs near the stream.",
+            "Chewed bark is one of the feeding signs of deer.",
+            "The team mapped feeding signs across the park."
+          ]
+        },
+        {
+          "word": "display",
+          "def": "Behavior meant to be seen by other animals",
+          "ipa": "/dɪˈspleɪ/",
+          "ex": [
+            "The male bird's display includes a loud song.",
+            "Gorillas beat their chests as a display.",
+            "The peacock's tail is part of its display."
+          ]
+        },
+        {
+          "word": "an open question",
+          "def": "Something that has not been answered yet",
+          "ipa": "/ən ˈoʊpən ˈkwɛstʃən/",
+          "ex": [
+            "Whether the plan will work is still an open question.",
+            "How the fire started remains an open question.",
+            "It's an open question who will lead the team."
+          ]
+        },
+        {
+          "word": "tradition",
+          "def": "A way of doing things that a group has kept for a long time",
+          "ipa": "/trəˈdɪʃən/",
+          "ex": [
+            "Eating fish on Fridays is a family tradition.",
+            "The festival is an old tradition in the town.",
+            "They kept the tradition alive for centuries."
+          ]
+        },
+        {
+          "word": "purpose",
+          "def": "The reason something is done",
+          "ipa": "/ˈpɜrpəs/",
+          "ex": [
+            "What is the purpose of this meeting?",
+            "The wall's purpose was to keep animals out.",
+            "She wrote the letter with a clear purpose."
+          ]
+        },
+        {
+          "word": "territory",
+          "def": "An area that an animal or group controls",
+          "ipa": "/ˈtɛrɪtɔri/",
+          "ex": [
+            "The wolves defend their territory from other packs.",
+            "A cat marks its territory with scent.",
+            "The birds sing to claim their territory."
+          ]
+        },
+        {
+          "word": "status",
+          "def": "How important someone is within a group",
+          "ipa": "/ˈsteɪtəs/",
+          "ex": [
+            "A big car can be a sign of status.",
+            "The older male has the highest status in the group.",
+            "Her status at the company rose after the deal."
+          ]
+        },
+        {
+          "word": "crack",
+          "def": "To break something hard so it opens",
+          "ipa": "/kræk/",
+          "ex": [
+            "He cracked the egg into the bowl.",
+            "You need a hammer to crack these shells.",
+            "The ice cracked under our feet."
+          ]
+        },
+        {
+          "word": "habitat",
+          "def": "The natural home of an animal or plant",
+          "ipa": "/ˈhæbɪtæt/",
+          "ex": [
+            "Wetlands are the habitat of many birds.",
+            "Cutting trees destroys the habitat of these frogs.",
+            "The zoo built a habitat that looks like a rainforest."
+          ]
+        },
+        {
+          "word": "under threat",
+          "def": "In danger of being harmed or destroyed",
+          "ipa": "/ˈʌndər θrɛt/",
+          "ex": [
+            "Many coral reefs are under threat from warming seas.",
+            "The old theater is under threat from developers.",
+            "Jobs at the factory are under threat."
+          ]
+        },
+        {
+          "word": "mining",
+          "def": "Digging in the ground to take out metals or minerals",
+          "ipa": "/ˈmaɪnɪŋ/",
+          "ex": [
+            "Mining brought jobs to the region.",
+            "Gold mining polluted the river.",
+            "The company got a permit for mining in the hills."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Male chimps in West Africa have thrown stones at the same trees for over ten years. Scientists studied the sites indirectly and still do not know why the chimps do it.",
+          "a": true,
+          "why": "The same throwing sites have been in active use for more than ten years, the team studied them with camera traps and recorders, and the reason is still an open question."
+        },
+        {
+          "s": "Researchers in West Africa proved that male chimps throw rocks at trees to mark their territory. Camera traps at the sites recorded the behavior for more than a decade.",
+          "a": false,
+          "why": "Close, but marking territory is only one of several theories. The researchers say they cannot rule out any of the ideas yet."
+        },
+        {
+          "s": "A new study found that chimps in a national park in West Africa crack nuts with stone hammers. The scientists say young animals learn the skill by watching their mothers.",
+          "a": false,
+          "why": "These chimps use stones in a purely social way, not to crack nuts or get food. Nothing in the study is about young animals learning from their mothers."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Scientists now know why the chimps throw the stones.",
+          "a": false,
+          "why": "Marking territory is only one theory. The researchers have not figured out why the chimps do it, and they cannot rule out any of the ideas yet."
+        },
+        {
+          "s": "The team set up camera traps at the throwing sites.",
+          "a": true,
+          "why": "They also placed audio recorders, made 3D scans of the rocks, and measured the target trees."
+        },
+        {
+          "s": "Stone throwing is common among chimps across Africa.",
+          "a": false,
+          "why": "The behavior stands out because it is so rare. It has been seen in only four chimp groups in West Africa."
+        },
+        {
+          "s": "Mining could push the chimps out of the area.",
+          "a": true,
+          "why": "The area is under threat from bauxite mining exploration, and if mining begins it could push the chimps out of the landscape they have used for so long."
+        },
+        {
+          "s": "The chimps are used to having people nearby.",
+          "a": false,
+          "why": "They are unhabituated, so the team set up cameras and recorders at the sites instead of watching the chimps directly."
+        },
+        {
+          "s": "Piles of rocks have built up under the target trees.",
+          "a": true,
+          "why": "The chimps come back to the same spots again and again, and the sites have been in use for more than ten years."
+        }
+      ]
+    },
+    {
+      "id": "un-general-assembly-divided-2026",
+      "number": 122,
+      "headline": "World leaders gather at a deeply divided UN",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n122-un-general-assembly-divided-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "War, runaway AI and climate shocks to take center stage as world leaders meet at UN (Associated Press, via ABC7 New York)",
+          "url": "https://abc7ny.com/story/world-leaders-meet-planet-grapples-war-division-runaway-ai-climate-shocks/19854498/"
+        },
+        {
+          "title": "What to know as world leaders converge at the United Nations this week (NPR, via OPB)",
+          "url": "https://www.opb.org/article/2026/09/21/un-general-assembly/"
+        },
+        {
+          "title": "Guterres: 'Cracks have become canyons' as world faces four tests of power (UN News)",
+          "url": "https://news.un.org/en/story/2026/09/1168392"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "World leaders {{came together}} in New York this week for the United Nations General Assembly. The main debate {{kicked off}} on Tuesday, September 22, 2026. About 130 [[heads of state]] and government are expected to speak. The meeting takes place amid wars and [[bitter divisions]]. Russia's president is not attending. India's prime minister {{backed out}}. China's president sent a vice president instead.",
+          "verbs": [
+            {
+              "display": "came together",
+              "base": "come together",
+              "correct": "To meet in one place as a group",
+              "wrong": "To find something by chance",
+              "correctFirst": true,
+              "why": "Our whole family comes together for dinner on Thanksgiving, and neighbors often come together for a town meeting. World leaders came together in New York this week for the UN General Assembly."
+            },
+            {
+              "display": "kicked off",
+              "base": "kick off",
+              "correct": "To start, as an event does",
+              "wrong": "To relax after a busy time",
+              "correctFirst": false,
+              "why": "The festival kicks off with a parade on Friday, and the season kicks off in early September. The main debate at the UN kicked off on Tuesday, September 22, 2026."
+            },
+            {
+              "display": "backed out",
+              "base": "back out",
+              "correct": "To decide not to do what was planned",
+              "wrong": "To support what someone says",
+              "correctFirst": true,
+              "why": "Two players backed out of the game at the last minute, and the buyer backed out of the deal. India's prime minister backed out of the trip to New York."
+            }
+          ]
+        },
+        {
+          "text": "The UN secretary-general opened the debate with his final speech. \"Cracks have become [[canyons]],\" he said. He {{set out}} four tests: war or peace, [[inequality]], climate change, and artificial intelligence. Wars are still {{going on}} in Ukraine, Sudan, Myanmar, and other places. The war in Ukraine is in its fifth year. Ukraine and its European [[allies]] are seeking more support. Russia has used its Security Council [[veto]] to block UN [[involvement]]. He also {{spoke out}} against machines making [[life-and-death decisions]].",
+          "verbs": [
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To explain ideas in a clear order",
+              "wrong": "To start a new group or company",
+              "correctFirst": false,
+              "why": "The coach set out the plan for the new season, and the report sets out three main goals. The UN chief set out four tests for the world, including war or peace and climate change."
+            },
+            {
+              "display": "going on",
+              "base": "go on",
+              "correct": "To continue happening",
+              "wrong": "To explode suddenly",
+              "correctFirst": true,
+              "why": "The noise went on all night, and the meeting went on for hours. Wars are still going on in Ukraine, Sudan, Myanmar, and other places."
+            },
+            {
+              "display": "spoke out",
+              "base": "speak out",
+              "correct": "To state strongly in public what you oppose",
+              "wrong": "To talk officially on behalf of others",
+              "correctFirst": false,
+              "why": "Many doctors have spoken out against smoking in parks, and a few students spoke out against the new rule. The UN chief spoke out against machines making life-and-death decisions."
+            }
+          ]
+        },
+        {
+          "text": "The UN is also [[short of money]]. The United States paid $725 million of its [[dues]] this year, so it kept its vote in the Assembly. An expert at the International Crisis Group said money troubles forced the UN to {{cut back on}} [[peacekeeping]] and [[humanitarian aid]]. [[Supply chain]] problems are {{pushing up}} [[living costs]]. They are also {{slowing down}} growth. The secretary-general said [[cooperation]] is more necessary than ever to {{deal with}} the world's biggest threats.",
+          "verbs": [
+            {
+              "display": "cut back on",
+              "base": "cut back on",
+              "correct": "To reduce the amount of something",
+              "wrong": "To interrupt someone who is talking",
+              "correctFirst": true,
+              "why": "The school had to cut back on sports when its budget fell, and many families cut back on eating out. Money troubles forced the UN to cut back on peacekeeping and humanitarian aid."
+            },
+            {
+              "display": "pushing up",
+              "base": "push up",
+              "correct": "To make a price or cost rise",
+              "wrong": "To delay something to a later time",
+              "correctFirst": false,
+              "why": "A poor harvest can push up the price of bread, and high demand pushes up rents in big cities. Supply chain problems are pushing up living costs around the world."
+            },
+            {
+              "display": "slowing down",
+              "base": "slow down",
+              "correct": "To make something happen less quickly",
+              "wrong": "To close a business or system completely",
+              "correctFirst": true,
+              "why": "Heavy snow slowed down the delivery of mail, and a weak market can slow down hiring. Supply chain problems are also slowing down economic growth."
+            },
+            {
+              "display": "deal with",
+              "base": "deal with",
+              "correct": "To take action to solve a problem",
+              "wrong": "To buy and sell a type of goods",
+              "correctFirst": false,
+              "why": "The city hired more workers to deal with the trash problem, and the school met with parents to deal with bullying. The UN chief said cooperation is more necessary than ever to deal with the world's biggest threats."
+            }
+          ]
+        },
+        {
+          "text": "The secretary-general's second five-year [[term]] ends on December 31. The Security Council has held three [[straw polls]] but has not {{settled on}} anyone to {{take over}} from him. By tradition, the next leader is expected to come from Latin America. A former president of Chile {{dropped out}} over the weekend, leaving seven [[candidates]]. No woman has ever held the job, and many countries want that to change. The United States says the next leader must get the UN \"back to basics.\"",
+          "verbs": [
+            {
+              "display": "settled on",
+              "base": "settle on",
+              "correct": "To finally choose one after discussion",
+              "wrong": "To get used to a new home or job",
+              "correctFirst": true,
+              "why": "After a long talk, we settled on a name for the dog, and the team settled on blue for its new jerseys. The Security Council has held three straw polls but has not settled on anyone to replace the UN chief."
+            },
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To take someone's job after they leave",
+              "wrong": "To hire new workers for a business",
+              "correctFirst": false,
+              "why": "A new manager will take over when the owner retires, and her deputy took over when she left. No one has yet been chosen to take over from the UN chief when his term ends on December 31."
+            },
+            {
+              "display": "dropped out",
+              "base": "drop out",
+              "correct": "To leave a contest before it ends",
+              "wrong": "To visit someone without a plan",
+              "correctFirst": true,
+              "why": "Two runners dropped out of the race after ten miles, and one candidate dropped out of the election in March. A former president of Chile dropped out of the race for secretary-general over the weekend, leaving seven candidates."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come together",
+          "def": "To meet in one place as a group",
+          "ipa": "/kʌm təˈɡɛðər/",
+          "ex": [
+            "Students came together in the hall for the meeting.",
+            "The two families come together every summer.",
+            "Leaders from ten countries came together in Paris."
+          ]
+        },
+        {
+          "verb": "Kick off",
+          "def": "To start, as an event does",
+          "ipa": "/kɪk ɔf/",
+          "ex": [
+            "The concert kicks off at eight o'clock.",
+            "The fair kicked off with fireworks.",
+            "The new school year kicks off next week."
+          ]
+        },
+        {
+          "verb": "Back out",
+          "def": "To decide not to do what was planned",
+          "ipa": "/bæk aʊt/",
+          "ex": [
+            "He backed out of the trip at the last minute.",
+            "The company backed out of the deal.",
+            "She agreed to speak but then backed out."
+          ]
+        },
+        {
+          "verb": "Set out",
+          "def": "To explain ideas in a clear order",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "The mayor set out her plans for the city.",
+            "The letter sets out the rules clearly.",
+            "The teacher set out the steps for the project."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To continue happening",
+          "ipa": "/ɡoʊ ɔn/",
+          "ex": [
+            "The party went on until midnight.",
+            "The strike went on for two weeks.",
+            "The rain went on all day."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To state strongly in public what you oppose",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "Many parents spoke out against the school's new rule.",
+            "She spoke out against unfair pay.",
+            "Few people dared to speak out against the plan."
+          ]
+        },
+        {
+          "verb": "Cut back on",
+          "def": "To reduce the amount of something",
+          "ipa": "/kʌt bæk ɑn/",
+          "ex": [
+            "We need to cut back on spending this month.",
+            "The city cut back on bus service.",
+            "He is trying to cut back on sugar."
+          ]
+        },
+        {
+          "verb": "Push up",
+          "def": "To make a price or cost rise",
+          "ipa": "/pʊʃ ʌp/",
+          "ex": [
+            "The storm pushed up the price of gas.",
+            "Higher costs will push up rents.",
+            "Strong demand pushed up the cost of eggs."
+          ]
+        },
+        {
+          "verb": "Slow down",
+          "def": "To make something happen less quickly",
+          "ipa": "/sloʊ daʊn/",
+          "ex": [
+            "The strike slowed down train service.",
+            "Bad weather slowed down the work on the bridge.",
+            "High prices can slow down spending."
+          ]
+        },
+        {
+          "verb": "Deal with",
+          "def": "To take action to solve a problem",
+          "ipa": "/dil wɪð/",
+          "ex": [
+            "The mayor promised to deal with the traffic problem.",
+            "The school is dealing with a shortage of teachers.",
+            "We need a plan to deal with rising prices."
+          ]
+        },
+        {
+          "verb": "Settle on",
+          "def": "To finally choose one after discussion",
+          "ipa": "/ˈsɛtəl ɑn/",
+          "ex": [
+            "They finally settled on a date for the wedding.",
+            "The board settled on a new name for the company.",
+            "We settled on pizza for dinner."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To take someone's job after they leave",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "A new coach will take over next season.",
+            "Her son took over the family business.",
+            "Who will take over when the manager retires?"
+          ]
+        },
+        {
+          "verb": "Drop out",
+          "def": "To leave a contest before it ends",
+          "ipa": "/drɑp aʊt/",
+          "ex": [
+            "Three candidates dropped out of the election.",
+            "She hurt her knee and dropped out of the race.",
+            "One team dropped out of the contest before the final."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "heads of state",
+          "def": "The official leaders of countries, such as presidents or kings",
+          "ipa": "/hɛdz əv steɪt/",
+          "ex": [
+            "Twenty heads of state attended the summit.",
+            "The queen and the president are both heads of state.",
+            "Heads of state met to sign the treaty."
+          ]
+        },
+        {
+          "word": "bitter divisions",
+          "def": "Deep and angry disagreements between groups",
+          "ipa": "/ˈbɪtər dɪˈvɪʒənz/",
+          "ex": [
+            "The vote left bitter divisions in the town.",
+            "Bitter divisions split the party after the election.",
+            "The family tried to heal its bitter divisions."
+          ]
+        },
+        {
+          "word": "canyons",
+          "def": "Very deep, narrow valleys with steep sides",
+          "ipa": "/ˈkænjənz/",
+          "ex": [
+            "The river cut deep canyons through the rock.",
+            "Hikers explored the canyons of Utah.",
+            "Canyons can flood quickly after heavy rain."
+          ]
+        },
+        {
+          "word": "inequality",
+          "def": "A situation where some people have much more than others",
+          "ipa": "/ˌɪnɪˈkwɑləti/",
+          "ex": [
+            "Income inequality has grown in many countries.",
+            "The report looks at inequality in schools.",
+            "Better jobs could reduce inequality."
+          ]
+        },
+        {
+          "word": "allies",
+          "def": "Countries that agree to support and help each other",
+          "ipa": "/ˈælaɪz/",
+          "ex": [
+            "The president met with his country's allies in Brussels.",
+            "The two nations have been allies for decades.",
+            "Allies sent money and supplies after the flood."
+          ]
+        },
+        {
+          "word": "veto",
+          "def": "The power to stop a decision on your own",
+          "ipa": "/ˈvitoʊ/",
+          "ex": [
+            "The president used his veto to block the bill.",
+            "Five countries hold a veto on the council.",
+            "One veto was enough to stop the plan."
+          ]
+        },
+        {
+          "word": "involvement",
+          "def": "Taking part in something",
+          "ipa": "/ɪnˈvɑlvmənt/",
+          "ex": [
+            "Parents' involvement helps children do well in school.",
+            "The company denied any involvement in the deal.",
+            "Her involvement in the project began last year."
+          ]
+        },
+        {
+          "word": "life-and-death decisions",
+          "def": "Choices that decide whether people live or die",
+          "ipa": "/ˌlaɪf ən ˈdɛθ dɪˈsɪʒənz/",
+          "ex": [
+            "Doctors make life-and-death decisions every day.",
+            "Firefighters face life-and-death decisions at work.",
+            "Pilots are trained for life-and-death decisions."
+          ]
+        },
+        {
+          "word": "short of money",
+          "def": "Not having enough money for what is needed",
+          "ipa": "/ʃɔrt əv ˈmʌni/",
+          "ex": [
+            "The club is short of money this year.",
+            "Many students are short of money at the end of the month.",
+            "The hospital was short of money for new beds."
+          ]
+        },
+        {
+          "word": "dues",
+          "def": "Money members must pay regularly to a group",
+          "ipa": "/duz/",
+          "ex": [
+            "Members pay their dues every January.",
+            "The union raised its dues this year.",
+            "He forgot to pay his club dues."
+          ]
+        },
+        {
+          "word": "peacekeeping",
+          "def": "Work by soldiers from other countries to keep peace in an area",
+          "ipa": "/ˈpisˌkipɪŋ/",
+          "ex": [
+            "The country sent troops for peacekeeping in Africa.",
+            "Peacekeeping costs billions of dollars a year.",
+            "Peacekeeping forces watched the border."
+          ]
+        },
+        {
+          "word": "humanitarian aid",
+          "def": "Food, medicine, and other help for people in a crisis",
+          "ipa": "/hjuˌmænɪˈtɛriən eɪd/",
+          "ex": [
+            "Trucks brought humanitarian aid after the earthquake.",
+            "The group delivers humanitarian aid to refugees.",
+            "Humanitarian aid reached the town by boat."
+          ]
+        },
+        {
+          "word": "Supply chain",
+          "def": "The steps and companies that move goods from maker to buyer",
+          "ipa": "/səˈplaɪ tʃeɪn/",
+          "ex": [
+            "A supply chain problem left the shelves empty.",
+            "The company changed its supply chain to lower costs.",
+            "Storms can break a supply chain for weeks."
+          ]
+        },
+        {
+          "word": "living costs",
+          "def": "The money needed for food, housing, and other basic needs",
+          "ipa": "/ˈlɪvɪŋ kɔsts/",
+          "ex": [
+            "Living costs are high in big cities.",
+            "Workers asked for more pay because of rising living costs.",
+            "Rent is the largest part of her living costs."
+          ]
+        },
+        {
+          "word": "cooperation",
+          "def": "Working together toward the same goal",
+          "ipa": "/koʊˌɑpəˈreɪʃən/",
+          "ex": [
+            "The project needs cooperation between two cities.",
+            "Police thanked the public for its cooperation.",
+            "Cooperation between the countries has improved."
+          ]
+        },
+        {
+          "word": "term",
+          "def": "A fixed period of time in an official job",
+          "ipa": "/tɜrm/",
+          "ex": [
+            "The mayor's term lasts four years.",
+            "She won a second term in office.",
+            "His term as president ends in January."
+          ]
+        },
+        {
+          "word": "straw polls",
+          "def": "Unofficial votes to see how people feel before a final choice",
+          "ipa": "/strɔ poʊlz/",
+          "ex": [
+            "The club held straw polls before choosing a leader.",
+            "Early straw polls showed a close race.",
+            "The straw polls helped the group narrow its choices."
+          ]
+        },
+        {
+          "word": "candidates",
+          "def": "People who are trying to be chosen for a job",
+          "ipa": "/ˈkændɪˌdeɪts/",
+          "ex": [
+            "Five candidates applied for the job.",
+            "The candidates spoke at the town meeting.",
+            "Voters met the candidates before the election."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "World leaders met at the UN amid wars, money troubles and deep disagreements. In his last speech there, the UN chief named four big tests, and no successor has been chosen yet.",
+          "a": true,
+          "why": "Leaders came together amid wars and bitter divisions, and the secretary-general set out four tests. The Security Council has not settled on anyone to replace him."
+        },
+        {
+          "s": "The yearly Assembly opened with conflicts and budget problems high on the agenda. Its outgoing leader used his final address to announce that a woman from Latin America will succeed him.",
+          "a": false,
+          "why": "Close, but no successor has been chosen. The Security Council has held three straw polls without agreement, and seven candidates are still in the race."
+        },
+        {
+          "s": "The Security Council held an emergency session after a new border war broke out. Members voted to send thousands of extra peacekeepers and to double the budget for their mission.",
+          "a": false,
+          "why": "There was no emergency session or vote on peacekeepers. Money troubles have actually forced the UN to cut back on peacekeeping."
+        }
+      ],
+      "tf": [
+        {
+          "s": "India's prime minister backed out of the trip to New York.",
+          "a": true,
+          "why": "He backed out of the trip, while Russia's president is not attending and China's president sent a vice president."
+        },
+        {
+          "s": "The main debate kicked off on Monday, September 21, 2026.",
+          "a": false,
+          "why": "The main debate kicked off on Tuesday, September 22, 2026, with the secretary-general's speech."
+        },
+        {
+          "s": "The UN chief set out four tests, including climate change.",
+          "a": true,
+          "why": "He set out four tests for the world: war or peace, inequality, climate change, and artificial intelligence."
+        },
+        {
+          "s": "The United States paid no dues to the UN this year.",
+          "a": false,
+          "why": "It paid $725 million of its dues, but the UN still had to cut back on peacekeeping and aid because of money troubles."
+        },
+        {
+          "s": "The Security Council has settled on a woman to lead the UN.",
+          "a": false,
+          "why": "After three straw polls, it has not settled on anyone to take over, and seven candidates remain."
+        },
+        {
+          "s": "Supply chain problems are pushing up living costs.",
+          "a": true,
+          "why": "These problems are pushing up living costs and also slowing down economic growth."
+        }
+      ]
+    },
     {
       "id": "gamescom-2026-record-2026",
       "number": 121,
