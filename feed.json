@@ -1,6 +1,1012 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "stories": [
+    {
+      "id": "brain-cold-circuit-2026",
+      "number": 134,
+      "headline": "Small brain area helps the body cope with cold",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n134-brain-cold-circuit-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "USF Health researchers uncover a hidden brain region that helps regulate metabolism (EurekAlert!)",
+          "url": "https://www.eurekalert.org/news-releases/1145576"
+        },
+        {
+          "title": "USF Health researchers uncover a hidden brain region that helps regulate metabolism (USF Health News)",
+          "url": "https://www.usf.edu/health/news/2026/usf-health-researchers-uncover-a-hidden-brain-region-that-helps-regulate-metabolism.aspx"
+        },
+        {
+          "title": "A hypothalamic neuronal population coordinates metabolic adaptations to cold (Neuron, via PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42790426/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "When [[body temperature]] drops, two [[natural responses]] {{kick in}}. The body {{ramps up}} its energy use to produce heat. It also increases [[appetite]] to replace the [[fuel]] it used to stay warm. Scientists have known about these responses for decades. However, it was unclear exactly how the brain {{brings about}} both changes at the same time. A new study now offers some [[clues]].",
+          "verbs": [
+            {
+              "display": "kick in",
+              "base": "kick in",
+              "correct": "To start working or having an effect",
+              "wrong": "To force someone to leave a place",
+              "correctFirst": true,
+              "why": "Medicine often kicks in after about half an hour, and the air conditioning kicks in when a room gets too hot. When body temperature drops, two natural responses kick in to protect the body."
+            },
+            {
+              "display": "ramps up",
+              "base": "ramp up",
+              "correct": "To increase the amount of something",
+              "wrong": "To bring something to an end",
+              "correctFirst": false,
+              "why": "Factories ramp up production when demand grows, and stores ramp up hiring in December. When body temperature drops, the body ramps up its energy use to produce heat."
+            },
+            {
+              "display": "brings about",
+              "base": "bring about",
+              "correct": "To cause something to happen",
+              "wrong": "To mention a subject for discussion",
+              "correctFirst": true,
+              "why": "A new manager can bring about big changes, and regular exercise can bring about better sleep. Until now, it was unclear how the brain brings about both cold responses at the same time."
+            }
+          ]
+        },
+        {
+          "text": "The study {{came out}} in the [[journal]] Neuron on September 25, 2026. It was led by scientists at the University of South Florida. Working with [[lab animals]], the team {{zeroed in on}} a small, [[little-studied]] area at the back of the [[hypothalamus]], deep in the brain. This area becomes [[highly active]] when body temperature falls. This is the first known job for this part of the brain.",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To be published",
+              "wrong": "To find by chance",
+              "correctFirst": false,
+              "why": "A new phone comes out every fall, and a popular novel can come out in many languages at once. This study came out in the journal Neuron on September 25, 2026."
+            },
+            {
+              "display": "zeroed in on",
+              "base": "zero in on",
+              "correct": "To give all your attention to one thing",
+              "wrong": "To reduce an amount to nothing",
+              "correctFirst": true,
+              "why": "A good doctor zeroes in on the cause of the pain, and police can zero in on one suspect. The team zeroed in on a small, little-studied area at the back of the hypothalamus."
+            }
+          ]
+        },
+        {
+          "text": "To test its role, the researchers {{switched on}} the [[nerve cells]] in this area that respond to cold. The animals ate more food and burned more energy. Their body temperature rose, and [[brown fat]] made more heat. Because the animals used more energy, they were less likely to {{put on}} weight. Their [[blood sugar control]] also improved. When the team {{shut down}} these cells, the animals' normal reactions to cold became weaker.",
+          "verbs": [
+            {
+              "display": "switched on",
+              "base": "switch on",
+              "correct": "To make something start working",
+              "wrong": "To attack someone without warning",
+              "correctFirst": false,
+              "why": "You switch on a lamp when it gets dark, and a sensor can switch on the lights in a hallway. The researchers switched on nerve cells in the area that respond to cold, and the animals ate more."
+            },
+            {
+              "display": "put on",
+              "base": "put on",
+              "correct": "To gain body weight",
+              "wrong": "To delay until later",
+              "correctFirst": true,
+              "why": "Some people put on weight after they stop exercising, and many people put on a few pounds during a long vacation. The animals used more energy, so they were less likely to put on weight."
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To stop something from working",
+              "wrong": "To keep someone from entering",
+              "correctFirst": false,
+              "why": "Workers shut down the machines every night, and a storm can shut down a power plant. When the team shut down the cold-responding cells, the animals' normal reactions to cold became weaker."
+            }
+          ]
+        },
+        {
+          "text": "The team also {{pinned down}} a protein that works as a [[cold sensor]] inside these cells. When the researchers blocked this protein, the animals ate more and {{warmed up}}. The team now hopes to {{come up with}} medicines that block it. Such drugs could one day help treat [[obesity]] and [[type 2 diabetes]]. Many [[current approaches]] focus on reducing appetite. The team's leader said new drugs might keep people healthy without dieting or [[cold exposure]].",
+          "verbs": [
+            {
+              "display": "pinned down",
+              "base": "pin down",
+              "correct": "To identify something exactly",
+              "wrong": "To blame someone for something",
+              "correctFirst": true,
+              "why": "A mechanic can pin down the cause of a strange noise, and doctors try to pin down the source of a fever. The team pinned down a protein that works as a cold sensor inside the brain cells."
+            },
+            {
+              "display": "warmed up",
+              "base": "warm up",
+              "correct": "To become warmer",
+              "wrong": "To stay at the same level",
+              "correctFirst": false,
+              "why": "Your hands warm up quickly near a fire, and a cold room warms up in the afternoon sun. When the researchers blocked the cold sensor protein, the animals ate more and warmed up."
+            },
+            {
+              "display": "come up with",
+              "base": "come up with",
+              "correct": "To develop a new idea or product",
+              "wrong": "To become sick with an illness",
+              "correctFirst": true,
+              "why": "Engineers try to come up with better batteries, and a drug company can come up with a new vaccine. The team hopes to come up with medicines that block the cold sensor protein."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Kick in",
+          "def": "To start working or having an effect",
+          "ipa": "/kɪk ɪn/",
+          "ex": [
+            "The painkillers kicked in after twenty minutes.",
+            "The heat kicks in when the house gets cold.",
+            "Her new diet started to kick in after a month."
+          ]
+        },
+        {
+          "verb": "Ramp up",
+          "def": "To increase the amount of something",
+          "ipa": "/ræmp ʌp/",
+          "ex": [
+            "The factory ramped up production in the fall.",
+            "Stores ramp up hiring in December.",
+            "The city is ramping up bus service this winter."
+          ]
+        },
+        {
+          "verb": "Bring about",
+          "def": "To cause something to happen",
+          "ipa": "/brɪŋ əˈbaʊt/",
+          "ex": [
+            "The new law brought about big changes.",
+            "Exercise can bring about better sleep.",
+            "What brought about the change in plans?"
+          ]
+        },
+        {
+          "verb": "Come out",
+          "def": "To be published",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "Her new book comes out next month.",
+            "The report came out on Monday.",
+            "The results will come out in a science journal."
+          ]
+        },
+        {
+          "verb": "Zero in on",
+          "def": "To give all your attention to one thing",
+          "ipa": "/ˈzɪroʊ ɪn ɑn/",
+          "ex": [
+            "The doctor zeroed in on the cause of the pain.",
+            "Police zeroed in on one suspect.",
+            "The report zeroes in on one main problem."
+          ]
+        },
+        {
+          "verb": "Switch on",
+          "def": "To make something start working",
+          "ipa": "/swɪtʃ ɑn/",
+          "ex": [
+            "She switched on the lights.",
+            "He switched on the radio in the kitchen.",
+            "A timer switches on the heater at six every morning."
+          ]
+        },
+        {
+          "verb": "Put on",
+          "def": "To gain body weight",
+          "ipa": "/pʊt ɑn/",
+          "ex": [
+            "He put on ten pounds last year.",
+            "Many people put on weight in winter.",
+            "She put on weight after she stopped running."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To stop something from working",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "Engineers shut down the system to fix it.",
+            "The storm shut down the power plant.",
+            "He shut down his computer before leaving."
+          ]
+        },
+        {
+          "verb": "Pin down",
+          "def": "To identify something exactly",
+          "ipa": "/pɪn daʊn/",
+          "ex": [
+            "Doctors could not pin down the cause of her fever.",
+            "Engineers finally pinned down the source of the noise.",
+            "It is hard to pin down when the problem started."
+          ]
+        },
+        {
+          "verb": "Warm up",
+          "def": "To become warmer",
+          "ipa": "/wɔrm ʌp/",
+          "ex": [
+            "The house warms up quickly when the heat is on.",
+            "Drink some hot tea and you'll warm up.",
+            "The weather will warm up next week."
+          ]
+        },
+        {
+          "verb": "Come up with",
+          "def": "To develop a new idea or product",
+          "ipa": "/kʌm ʌp wɪð/",
+          "ex": [
+            "The company came up with a new vaccine.",
+            "Scientists want to come up with better batteries.",
+            "She came up with a plan to save money."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "body temperature",
+          "def": "How warm or cold the inside of the body is",
+          "ipa": "/ˈbɑdi ˈtɛmprətʃər/",
+          "ex": [
+            "A normal body temperature is about 98.6 degrees Fahrenheit.",
+            "The nurse checked his body temperature.",
+            "A fever raises your body temperature."
+          ]
+        },
+        {
+          "word": "natural responses",
+          "def": "Things the body does by itself to deal with a change",
+          "ipa": "/ˈnætʃərəl rɪˈspɑnsɪz/",
+          "ex": [
+            "Shivering and sweating are natural responses to temperature.",
+            "A fast heartbeat is one of the natural responses to fear.",
+            "Sneezing is a natural response to dust."
+          ]
+        },
+        {
+          "word": "appetite",
+          "def": "The feeling of wanting to eat",
+          "ipa": "/ˈæpəˌtaɪt/",
+          "ex": [
+            "Exercise gave him a big appetite.",
+            "Some medicines can reduce your appetite.",
+            "She lost her appetite when she was sick."
+          ]
+        },
+        {
+          "word": "fuel",
+          "def": "Something the body or a machine uses to make energy",
+          "ipa": "/ˈfjuəl/",
+          "ex": [
+            "Food is fuel for the body.",
+            "Runners need extra fuel before a long race.",
+            "The body stores fuel as fat."
+          ]
+        },
+        {
+          "word": "clues",
+          "def": "Pieces of information that help explain something",
+          "ipa": "/kluz/",
+          "ex": [
+            "The fossils gave clues about early life.",
+            "Doctors look for clues in a patient's blood.",
+            "The data offered new clues about the disease."
+          ]
+        },
+        {
+          "word": "journal",
+          "def": "A magazine where scientists publish their research",
+          "ipa": "/ˈdʒɜrnəl/",
+          "ex": [
+            "Her paper appeared in a medical journal.",
+            "The journal publishes new research every week.",
+            "Experts check each study before the journal prints it."
+          ]
+        },
+        {
+          "word": "lab animals",
+          "def": "Animals used in scientific tests",
+          "ipa": "/læb ˈænəməlz/",
+          "ex": [
+            "New drugs are often tested on lab animals first.",
+            "The lab animals were kept in warm cages.",
+            "Rules protect lab animals from unnecessary pain."
+          ]
+        },
+        {
+          "word": "little-studied",
+          "def": "Not yet researched very much",
+          "ipa": "/ˈlɪtəl ˈstʌdid/",
+          "ex": [
+            "The bird lives in a little-studied part of the forest.",
+            "It is a little-studied disease.",
+            "She wrote about a little-studied period of history."
+          ]
+        },
+        {
+          "word": "hypothalamus",
+          "def": "A small part of the brain that controls basic body functions",
+          "ipa": "/ˌhaɪpəˈθæləməs/",
+          "ex": [
+            "The hypothalamus helps control hunger and thirst.",
+            "Damage to the hypothalamus can affect sleep.",
+            "The hypothalamus sits deep inside the brain."
+          ]
+        },
+        {
+          "word": "highly active",
+          "def": "Working hard or doing a lot at a certain time",
+          "ipa": "/ˈhaɪli ˈæktɪv/",
+          "ex": [
+            "Some brain areas are highly active during sleep.",
+            "The volcano has been highly active this year.",
+            "These cells become highly active after a meal."
+          ]
+        },
+        {
+          "word": "nerve cells",
+          "def": "Cells that carry signals in the brain and body",
+          "ipa": "/nɜrv sɛlz/",
+          "ex": [
+            "Nerve cells send messages to the muscles.",
+            "The brain has billions of nerve cells.",
+            "Some diseases damage nerve cells over time."
+          ]
+        },
+        {
+          "word": "brown fat",
+          "def": "A type of body fat that burns energy to make heat",
+          "ipa": "/braʊn fæt/",
+          "ex": [
+            "Babies have a lot of brown fat.",
+            "Brown fat helps the body stay warm.",
+            "Cold weather can make brown fat more active."
+          ]
+        },
+        {
+          "word": "blood sugar control",
+          "def": "How well the body keeps the sugar in the blood at a healthy level",
+          "ipa": "/blʌd ˈʃʊɡər kənˈtroʊl/",
+          "ex": [
+            "Exercise can improve blood sugar control.",
+            "People with diabetes work hard on blood sugar control.",
+            "Poor blood sugar control can harm the eyes."
+          ]
+        },
+        {
+          "word": "cold sensor",
+          "def": "Something that notices when the temperature is low",
+          "ipa": "/koʊld ˈsɛnsər/",
+          "ex": [
+            "The skin has a cold sensor that reacts to ice.",
+            "The car's cold sensor warned of icy roads.",
+            "Menthol tricks the body's cold sensor."
+          ]
+        },
+        {
+          "word": "obesity",
+          "def": "The condition of being very overweight in a way that harms health",
+          "ipa": "/oʊˈbisəti/",
+          "ex": [
+            "Obesity raises the risk of heart disease.",
+            "The city started a program to fight obesity.",
+            "Rates of obesity have grown in many countries."
+          ]
+        },
+        {
+          "word": "type 2 diabetes",
+          "def": "A common disease in which the body cannot use sugar well",
+          "ipa": "/taɪp tu ˌdaɪəˈbitiz/",
+          "ex": [
+            "Type 2 diabetes is often linked to weight.",
+            "Her father has type 2 diabetes.",
+            "A healthy diet can lower the risk of type 2 diabetes."
+          ]
+        },
+        {
+          "word": "current approaches",
+          "def": "The ways people usually deal with a problem today",
+          "ipa": "/ˈkɜrənt əˈproʊtʃɪz/",
+          "ex": [
+            "Current approaches to the disease use a lot of drugs.",
+            "The report compares current approaches to teaching math.",
+            "Doctors say current approaches are not enough."
+          ]
+        },
+        {
+          "word": "cold exposure",
+          "def": "Time spent in cold temperatures",
+          "ipa": "/koʊld ɪkˈspoʊʒər/",
+          "ex": [
+            "Too much cold exposure can be dangerous.",
+            "Some athletes use short periods of cold exposure to recover.",
+            "Cold exposure makes the body burn more energy."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Researchers found a small, little-studied brain area that helps the body handle cold by raising hunger and energy use. A protein inside it may lead to new obesity drugs.",
+          "a": true,
+          "why": "The area becomes highly active in the cold, and a cold sensor protein in its cells could become a target for future medicines."
+        },
+        {
+          "s": "Scientists found that a tiny region deep in the brain makes animals hungrier when they get cold. Since the extra eating caused weight gain, they hope to find drugs that quiet it.",
+          "a": false,
+          "why": "Close, but the animals burned more energy too, so they were less likely to gain weight. The team wants drugs that block the cold sensor protein."
+        },
+        {
+          "s": "A large survey found that people living in cold places eat more during winter than summer. Doctors believe this seasonal habit explains why many adults gain weight every year.",
+          "a": false,
+          "why": "There was no survey of people. The study was done in lab animals and looked at a small brain area that responds to cold."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The study came out in the journal Neuron in September 2026.",
+          "a": true,
+          "why": "It was published on September 25, 2026, and was led by scientists at the University of South Florida."
+        },
+        {
+          "s": "The team zeroed in on a large, well-known part of the brain.",
+          "a": false,
+          "why": "The team zeroed in on a small, little-studied area at the back of the hypothalamus."
+        },
+        {
+          "s": "When the cells were switched on, the animals ate less food.",
+          "a": false,
+          "why": "Switching on the cold-responding cells made the animals eat more food and burn more energy."
+        },
+        {
+          "s": "Blood sugar control improved in the animals when the cells were switched on.",
+          "a": true,
+          "why": "Switching on the cells improved blood sugar control. The animals were also less likely to put on weight."
+        },
+        {
+          "s": "Blocking the cold sensor protein made the animals warm up.",
+          "a": true,
+          "why": "When the researchers blocked the protein, the animals ate more and their body temperature rose."
+        },
+        {
+          "s": "Scientists only learned recently that cold makes the body ramp up its energy use.",
+          "a": false,
+          "why": "Scientists have known for decades that the body ramps up its energy use in the cold. The new part is how the brain controls it."
+        }
+      ]
+    },
+    {
+      "id": "aura-points-trend-2026",
+      "number": 133,
+      "headline": "Aura points: the internet's new game of looking cool",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n133-aura-points-trend-2026-flat.webp",
+      "position": "center 30%",
+      "sources": [
+        {
+          "title": "What is an 'Aura Battle'? Why is everyone suddenly 'Farming Aura' (Hola)",
+          "url": "https://www.hola.com/us/lifestyle/20260820919193/aura-battle-what-is-farming-aura/"
+        },
+        {
+          "title": "The boy behind the viral 'aura farming' boat racing dance (BBC)",
+          "url": "https://www.bbc.com/news/articles/czxe7ey59r0o"
+        },
+        {
+          "title": "What is 'aura farming'? Gen Z's viral obsession with looking cool (South China Morning Post)",
+          "url": "https://www.scmp.com/postmag/culture/article/3321096/what-aura-farming-gen-zs-viral-obsession-looking-cool"
+        },
+        {
+          "title": "What is an 'Aura Battle'? Young Mexicans turn confidence into a competition (video, Euronews Culture)",
+          "url": "https://www.youtube.com/watch?v=eJRz0PH9RBM"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Some people just seem cool. They walk into a room and {{come across as}} [[effortlessly]] calm and [[relaxed]]. They {{give off}} an easy, quiet [[confidence]] without trying. On the internet, that [[quality]] has a name: [[aura]]. Teenagers everywhere talk about gaining and losing [[aura points]], [[imaginary]] [[scores]] for every cool or [[embarrassing]] moment in daily life. The idea borrows from [[gaming]] culture, and in 2026 it is everywhere.",
+          "verbs": [
+            {
+              "display": "come across as",
+              "base": "come across as",
+              "correct": "To seem a certain way to others",
+              "wrong": "To change your opinion over time",
+              "correctFirst": true,
+              "why": "A shy person can come across as unfriendly at first, and a nervous speaker can come across as more confident than he feels. On the internet, some people just come across as effortlessly cool without even trying."
+            },
+            {
+              "display": "give off",
+              "base": "give off",
+              "correct": "To produce a feeling or energy",
+              "wrong": "To hide a strong emotion",
+              "correctFirst": false,
+              "why": "A quiet library gives off a calm feeling on a rainy afternoon, and a coach who smiles before a big game gives off confidence that the whole team can feel. Teenagers describe this quality as aura, the feeling someone simply gives off in a room."
+            }
+          ]
+        },
+        {
+          "text": "The trend exploded thanks to one boy. In 2025, a video went [[viral]]: an eleven-year-old from Indonesia was dancing calmly on the front [[tip]] of a long, narrow racing boat. His relaxed moves {{won over}} millions of viewers, and kids around the world {{look up to}} him as the king of cool. People joked that he had {{racked up}} more aura points than anyone alive. The joke created a new phrase, [[aura farming]], which even reached a famous dictionary's [[shortlist]] for word of the year.",
+          "verbs": [
+            {
+              "display": "won over",
+              "base": "win over",
+              "correct": "To gain someone's support or love",
+              "wrong": "To recover a title you lost",
+              "correctFirst": true,
+              "why": "A new teacher can win over a whole class within a week, and honest answers can win over even the toughest judges. The boy's calm dance moves won over millions of viewers around the world."
+            },
+            {
+              "display": "look up to",
+              "base": "look up to",
+              "correct": "To respect and admire someone",
+              "wrong": "To protect a younger child",
+              "correctFirst": false,
+              "why": "Young players look up to their team captain, and kids often look up to an older sibling or a coach. Kids around the world look up to this calm eleven-year-old as the king of cool."
+            },
+            {
+              "display": "racked up",
+              "base": "rack up",
+              "correct": "To collect a large number of points",
+              "wrong": "To divide something into parts",
+              "correctFirst": true,
+              "why": "A champion racks up win after win over a long season, and a frequent flyer racks up miles without even noticing. Fans joked that the boy had racked up more aura points than anyone alive."
+            }
+          ]
+        },
+        {
+          "text": "The rules are simple but strict. When a skater {{pulls off}} a hard [[trick]] perfectly, his aura grows. If he {{messes up}} in front of everyone, the points vanish instantly. And there is a [[twist]]: visible effort is [[fatal]]. People who {{show off}} their new clothes and money usually lose aura, not gain it. True aura belongs to those who {{stand out}} without trying, or at least without letting anyone see the trying. Coolness, the internet has decided, must look [[accidental]].",
+          "verbs": [
+            {
+              "display": "pulls off",
+              "base": "pull off",
+              "correct": "To succeed at something difficult",
+              "wrong": "To practice something for hours",
+              "correctFirst": false,
+              "why": "A skater can pull off a hard trick on the first try, and a team can pull off a surprise win against the odds. In this game, a skater who pulls off a hard trick perfectly watches his aura grow instantly."
+            },
+            {
+              "display": "messes up",
+              "base": "mess up",
+              "correct": "To make a big mistake",
+              "wrong": "To win by a small amount",
+              "correctFirst": true,
+              "why": "Everyone messes up a name at some point, and a nervous actor can mess up his lines on opening night. If a player messes up in front of everyone here, the aura points disappear right away."
+            },
+            {
+              "display": "show off",
+              "base": "show off",
+              "correct": "To display something proudly",
+              "wrong": "To offer something for free",
+              "correctFirst": false,
+              "why": "A proud driver shows off a new car around the block, and a student shows off a shiny new trophy at school. Here, people who show off their new clothes or money usually lose points instead of gaining them."
+            },
+            {
+              "display": "stand out",
+              "base": "stand out",
+              "correct": "To be easy to notice among others",
+              "wrong": "To follow the group quietly",
+              "correctFirst": true,
+              "why": "A bright red coat can stand out in a gray winter crowd, and a calm voice can stand out in a loud, noisy meeting. True aura belongs to people who stand out without even seeming to try."
+            }
+          ]
+        },
+        {
+          "text": "In 2026, the game turned physical. Reports from Latin America described aura battles, in-person [[contests]] in parks and plazas where two players face each other and try to look cooler with every move. At some Mexican events, winners {{take home}} [[prizes]] of 3,000 pesos. Most fans just {{play along}} at home, rating their friends' aura after every party. Meanwhile, [[psychologists]] are not worried. Learning to [[play it cool]], they say, is an old teenage sport. Only the [[scoreboard]] is new.",
+          "verbs": [
+            {
+              "display": "take home",
+              "base": "take home",
+              "correct": "To win and keep a prize or money",
+              "wrong": "To agree to fight an opponent",
+              "correctFirst": true,
+              "why": "A lucky player can take home a new car from a game show, and the best baker takes home a blue ribbon at the fair. At some Mexican aura battles, winners take home prizes of 3,000 pesos."
+            },
+            {
+              "display": "play along",
+              "base": "play along",
+              "correct": "To join a game and act your part",
+              "wrong": "To stop a game before the end",
+              "correctFirst": false,
+              "why": "A parent might play along with a child's pretend game, and a good sport plays along with a joke even when he sees it coming. Most fans simply play along at home, rating each other's aura after every party."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come across as",
+          "ipa": "/kʌm əˈkrɔs æz/",
+          "def": "To seem a certain way to others",
+          "ex": [
+            "She comes across as older than sixteen.",
+            "He came across as rude, but he was only shy.",
+            "Try not to come across as bored in interviews."
+          ]
+        },
+        {
+          "verb": "Give off",
+          "ipa": "/ɡɪv ɔf/",
+          "def": "To produce a feeling or energy",
+          "ex": [
+            "The old house gives off a spooky feeling.",
+            "She gives off big-sister energy.",
+            "Her smile gives off a friendly feeling."
+          ]
+        },
+        {
+          "verb": "Win over",
+          "ipa": "/wɪn ˈoʊvər/",
+          "def": "To gain someone's support or love",
+          "ex": [
+            "The new teacher won over the class in a week.",
+            "Her honest answers won over the judges.",
+            "It took months to win over my grandfather."
+          ]
+        },
+        {
+          "verb": "Look up to",
+          "ipa": "/lʊk ʌp tu/",
+          "def": "To respect and admire someone",
+          "ex": [
+            "Young players look up to the team captain.",
+            "She looks up to her aunt, a firefighter.",
+            "Kids look up to people who keep their promises."
+          ]
+        },
+        {
+          "verb": "Rack up",
+          "ipa": "/ræk ʌp/",
+          "def": "To collect a large number of points",
+          "ex": [
+            "He racked up ninety points in one game.",
+            "The champion racked up win after win.",
+            "She racked up miles on her airline card."
+          ]
+        },
+        {
+          "verb": "Pull off",
+          "ipa": "/pʊl ɔf/",
+          "def": "To succeed at something difficult",
+          "ex": [
+            "The team pulled off a surprise victory.",
+            "She pulled off a perfect landing on the ice.",
+            "Somehow he pulled off two jobs and night school."
+          ]
+        },
+        {
+          "verb": "Mess up",
+          "ipa": "/mɛs ʌp/",
+          "def": "To make a big mistake",
+          "ex": [
+            "I messed up and called her the wrong name.",
+            "He messed up the first song but finished strong.",
+            "Do not worry if you mess up in practice."
+          ]
+        },
+        {
+          "verb": "Show off",
+          "ipa": "/ʃoʊ ɔf/",
+          "def": "To display something proudly",
+          "ex": [
+            "He drove slowly to show off his new car.",
+            "She showed off her medal at dinner.",
+            "The chef showed off with a flaming dessert."
+          ]
+        },
+        {
+          "verb": "Stand out",
+          "ipa": "/stænd aʊt/",
+          "def": "To be easy to notice among others",
+          "ex": [
+            "Her calm voice stands out in noisy meetings.",
+            "The yellow house stands out on the gray street.",
+            "One dancer stood out from the group."
+          ]
+        },
+        {
+          "verb": "Take home",
+          "ipa": "/teɪk hoʊm/",
+          "def": "To win and keep a prize or money",
+          "ex": [
+            "She took home first prize at the science fair.",
+            "The winner takes home five hundred dollars.",
+            "He took home a medal from his first race."
+          ]
+        },
+        {
+          "verb": "Play along",
+          "ipa": "/pleɪ əˈlɔŋ/",
+          "def": "To join a game and act your part",
+          "ex": [
+            "Dad played along and pretended to be surprised.",
+            "She did not believe the story but played along.",
+            "The audience played along with the magician."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "effortlessly",
+          "ipa": "/ˈɛfərtləsli/",
+          "def": "Without any visible work or trying",
+          "ex": [
+            "She effortlessly answered every question.",
+            "The cat jumped effortlessly onto the wall.",
+            "He plays difficult music effortlessly."
+          ]
+        },
+        {
+          "word": "confidence",
+          "ipa": "/ˈkɑnfədəns/",
+          "def": "A calm belief in your own ability",
+          "ex": [
+            "Practice gave her confidence on stage.",
+            "He answered with quiet confidence.",
+            "Losing the final hurt the team's confidence."
+          ]
+        },
+        {
+          "word": "aura",
+          "ipa": "/ˈɔrə/",
+          "def": "The invisible feeling of coolness around a person",
+          "ex": [
+            "The captain has an aura that calms everyone.",
+            "Losing your temper destroys your aura.",
+            "Her aura filled the room before she spoke."
+          ]
+        },
+        {
+          "word": "aura points",
+          "ipa": "/ˈɔrə pɔɪnts/",
+          "def": "Imaginary points for cool or embarrassing moments",
+          "ex": [
+            "Tripping on stage costs serious aura points.",
+            "He earned aura points by staying calm in the storm.",
+            "My friends track aura points at every party."
+          ]
+        },
+        {
+          "word": "viral",
+          "ipa": "/ˈvaɪrəl/",
+          "def": "Spreading very fast on the internet",
+          "ex": [
+            "The dancing cat video went viral overnight.",
+            "One viral post changed the small shop's life.",
+            "Viral fame rarely lasts long."
+          ]
+        },
+        {
+          "word": "aura farming",
+          "ipa": "/ˈɔrə ˈfɑrmɪŋ/",
+          "def": "Doing things on purpose to seem effortlessly cool",
+          "ex": [
+            "Posing by the window is classic aura farming.",
+            "His slow walk into class was pure aura farming.",
+            "Aura farming fails the moment people notice it."
+          ]
+        },
+        {
+          "word": "trick",
+          "ipa": "/trɪk/",
+          "def": "A skillful move that is hard to do",
+          "ex": [
+            "The skater landed a new trick.",
+            "Her best card trick fools everyone.",
+            "He practiced the bike trick for weeks."
+          ]
+        },
+        {
+          "word": "contests",
+          "ipa": "/ˈkɑntɛsts/",
+          "def": "Events where people compete to win",
+          "ex": [
+            "The school holds writing contests every spring.",
+            "Cooking contests are popular on TV.",
+            "She entered three photo contests this year."
+          ]
+        },
+        {
+          "word": "prizes",
+          "ipa": "/ˈpraɪzɪz/",
+          "def": "Rewards given to winners",
+          "ex": [
+            "The fair gives prizes for the biggest pumpkin.",
+            "First prize was one of the best prizes ever: a bike.",
+            "Cash prizes attracted hundreds of players."
+          ]
+        },
+        {
+          "word": "play it cool",
+          "ipa": "/pleɪ ɪt kul/",
+          "def": "To hide strong feelings and act relaxed",
+          "ex": [
+            "He wanted to shout, but he played it cool.",
+            "Play it cool and pretend you expected to win.",
+            "She played it cool when her favorite singer walked in."
+          ]
+        },
+        {
+          "word": "relaxed",
+          "ipa": "/rɪˈlækst/",
+          "def": "Calm and free from worry",
+          "ex": [
+            "He stayed relaxed before the exam.",
+            "The cafe has a relaxed feeling.",
+            "Her relaxed voice calmed the room."
+          ]
+        },
+        {
+          "word": "quality",
+          "ipa": "/ˈkwɑləti/",
+          "def": "One part of a person's character",
+          "ex": [
+            "Honesty is her best quality.",
+            "Patience is a rare quality in traffic.",
+            "Leaders need one quality above all: calm."
+          ]
+        },
+        {
+          "word": "imaginary",
+          "ipa": "/ɪˈmædʒənɛri/",
+          "def": "Existing only in the mind, not real",
+          "ex": [
+            "The child has an imaginary friend.",
+            "The map shows an imaginary island.",
+            "Their fight was over imaginary money."
+          ]
+        },
+        {
+          "word": "scores",
+          "ipa": "/skɔrz/",
+          "def": "Numbers that show how well someone did",
+          "ex": [
+            "The test scores arrived by email.",
+            "Both teams had low scores at halftime.",
+            "Judges hold up scores after each dive."
+          ]
+        },
+        {
+          "word": "embarrassing",
+          "ipa": "/ɪmˈbɛrəsɪŋ/",
+          "def": "Making you feel silly in front of others",
+          "ex": [
+            "Falling on stage was embarrassing.",
+            "Dad tells embarrassing stories at dinner.",
+            "An embarrassing photo spread through class."
+          ]
+        },
+        {
+          "word": "gaming",
+          "ipa": "/ˈɡeɪmɪŋ/",
+          "def": "The world of video games",
+          "ex": [
+            "Gaming is his weekend hobby.",
+            "She works in the gaming industry.",
+            "The gaming chair cost more than the desk."
+          ]
+        },
+        {
+          "word": "tip",
+          "ipa": "/tɪp/",
+          "def": "The pointed end of something",
+          "ex": [
+            "The tip of the pencil broke.",
+            "Snow covered the mountain's tip.",
+            "She touched the plant's soft tip."
+          ]
+        },
+        {
+          "word": "shortlist",
+          "ipa": "/ˈʃɔrtlɪst/",
+          "def": "A final small list of top choices",
+          "ex": [
+            "Three names made the shortlist for captain.",
+            "The prize shortlist came out today.",
+            "Her essay reached the shortlist."
+          ]
+        },
+        {
+          "word": "twist",
+          "ipa": "/twɪst/",
+          "def": "A surprising change in a story",
+          "ex": [
+            "The movie's twist shocked everyone.",
+            "There is a twist: the winner gets nothing.",
+            "Nobody saw the final twist coming."
+          ]
+        },
+        {
+          "word": "fatal",
+          "ipa": "/ˈfeɪtəl/",
+          "def": "Causing death or total failure",
+          "ex": [
+            "One fatal mistake ended the match.",
+            "The error proved fatal to the plan.",
+            "Overwatering is fatal to this plant."
+          ]
+        },
+        {
+          "word": "accidental",
+          "ipa": "/ˌæksəˈdɛntəl/",
+          "def": "Happening by chance, not by plan",
+          "ex": [
+            "The discovery was completely accidental.",
+            "An accidental text started their friendship.",
+            "The damage looked accidental, not planned."
+          ]
+        },
+        {
+          "word": "psychologists",
+          "ipa": "/saɪˈkɑlədʒɪsts/",
+          "def": "Scientists who study the human mind",
+          "ex": [
+            "Psychologists studied why we forget names.",
+            "Two psychologists spoke at the school.",
+            "Psychologists say sleep improves memory."
+          ]
+        },
+        {
+          "word": "scoreboard",
+          "ipa": "/ˈskɔrbɔrd/",
+          "def": "A board showing points in a game",
+          "ex": [
+            "The scoreboard showed a tie at the end.",
+            "Fans watched the scoreboard nervously.",
+            "The new scoreboard lights up the stadium."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Young people online measure coolness with imaginary aura points, a trend borrowed from gaming that grew out of one viral boat video. In 2026 it created real contests.",
+          "a": true,
+          "why": "The article explains aura points, the boy who made aura farming famous, and the aura battles held in Latin America in 2026."
+        },
+        {
+          "s": "Young people are earning real money by collecting coolness points inside a popular phone game. The app pays its calmest players about three thousand pesos every month.",
+          "a": false,
+          "why": "Close, but aura points are imaginary. The pesos are prizes at in-person events in Mexico, not monthly app payments."
+        },
+        {
+          "s": "Doctors have warned that teenagers who fail online coolness tests develop serious health problems. Schools in several countries have already banned the game completely.",
+          "a": false,
+          "why": "The article says psychologists are not worried. Nothing is banned, and no health problems appear."
+        }
+      ],
+      "tf": [
+        {
+          "s": "People who show off their new clothes and money usually gain aura.",
+          "a": false,
+          "why": "It is the opposite. Visible effort is fatal, and true coolness must look accidental."
+        },
+        {
+          "s": "A video of a boy dancing on a racing boat won over millions of viewers.",
+          "a": true,
+          "why": "The eleven-year-old from Indonesia became the king of cool and inspired the phrase aura farming."
+        },
+        {
+          "s": "The phrase aura farming reached a famous dictionary's shortlist.",
+          "a": true,
+          "why": "It racked up so much attention that editors made it a candidate for word of the year."
+        },
+        {
+          "s": "Messing up in front of everyone makes your aura points vanish.",
+          "a": true,
+          "why": "The rules are strict. A trick pulled off perfectly builds aura, and a public mistake erases it instantly."
+        },
+        {
+          "s": "In aura battles, two players face each other and try to look cooler with every move.",
+          "a": true,
+          "why": "In these in-person contests, players try to look cooler with every move, and winners at some Mexican events take home 3,000 pesos."
+        },
+        {
+          "s": "Psychologists say the trend is a serious danger to teenagers.",
+          "a": false,
+          "why": "They are not worried. Playing along with a game of looking cool is an old teenage sport, and only the scoreboard is new."
+        }
+      ]
+    },
     {
       "id": "brazil-election-2026",
       "number": 132,
