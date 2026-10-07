@@ -1078,7 +1078,7 @@
               "correct": "To join a game and act your part",
               "wrong": "To stop a game before the end",
               "correctFirst": false,
-              "why": "A parent might play along with a child's pretend game, and a good sport plays along with a joke even when he sees it coming. Most fans simply play along at home, rating each other's aura after every party."
+              "why": "A parent might play along with a child's pretend game, and friends often play along when someone tells a silly story. Most fans simply play along at home, rating each other's aura after every party."
             }
           ]
         }
@@ -1473,7 +1473,7 @@
         {
           "s": "Psychologists say the trend is a serious danger to teenagers.",
           "a": false,
-          "why": "They are not worried. Playing along with a game of looking cool is an old teenage sport, and only the scoreboard is new."
+          "why": "They are not worried. Playing along with a game of looking cool is something teenagers have always done, and only the scoreboard is new."
         }
       ]
     },
@@ -8317,7 +8317,7 @@
           "ex": [
             "Cables run along the seabed between the two countries.",
             "Divers found an old ship on the seabed.",
-            "Mining the seabed is a hot topic now."
+            "Mining the seabed is a big topic in the news now."
           ]
         },
         {
@@ -9184,7 +9184,7 @@
               "correct": "To use a remark quickly to your advantage",
               "wrong": "To suddenly stop working completely",
               "correctFirst": true,
-              "why": "Reporters seized on the minister's slip of the tongue. The lawyer seized on a small mistake in the report. Scotland's first minister seized on the prime minister's words about clear consensus."
+              "why": "Reporters seized on one careless word in the minister's speech. The lawyer seized on a small mistake in the report. Scotland's first minister seized on the prime minister's words about clear consensus."
             },
             {
               "display": "go down",
@@ -9319,7 +9319,7 @@
           "def": "To use a remark quickly to your advantage",
           "ipa": "/siz ɑn/",
           "ex": [
-            "Critics seized on the mayor's slip.",
+            "Critics seized on the mayor's careless remark.",
             "The lawyer seized on one weak answer.",
             "Reporters seized on the coach's comment."
           ]
@@ -10722,7 +10722,7 @@
               "correct": "To notice something not said directly",
               "wrong": "To treat one person unfairly",
               "correctFirst": false,
-              "why": "Kids pick up on tension between parents, and good waiters pick up on what a table needs before being asked. Gen Z workers say people pick up on a fake smile within seconds, so they choose not to fake one."
+              "why": "Kids pick up on tension between parents, and good waiters pick up on what customers need before being asked. Gen Z workers say people pick up on a fake smile within seconds, so they choose not to fake one."
             }
           ]
         },
@@ -10827,7 +10827,7 @@
           "ex": [
             "Kids pick up on tension between parents.",
             "She picked up on his nervousness at once.",
-            "Good waiters pick up on what tables need."
+            "Good waiters pick up on what customers need."
           ]
         },
         {
@@ -11802,7 +11802,7 @@
               "correct": "To do more work after a first result",
               "wrong": "To publish results in a journal",
               "correctFirst": false,
-              "why": "A clinic follows up a checkup with a phone call, and a reporter follows up a tip with more questions. The team plans to follow up with larger trials before the test goes anywhere near a clinic."
+              "why": "A clinic follows up a checkup with a phone call, and a reporter follows up an interview with more questions. The team plans to follow up with larger trials before the test goes anywhere near a clinic."
             },
             {
               "display": "rolled out",
@@ -17134,7 +17134,7 @@
           "def": "To begin a career or journey",
           "ex": [
             "The famous chef started out washing dishes.",
-            "We started out early to beat the traffic.",
+            "We started out early, before the roads got busy.",
             "The company started out in a garage."
           ]
         },
@@ -17386,7 +17386,7 @@
           "def": "Short paid messages that sell things",
           "ex": [
             "The game shows ads between levels.",
-            "Car ads fill the sports break.",
+            "Car ads fill the breaks during sports games.",
             "She skips ads whenever possible."
           ]
         },
@@ -23968,7 +23968,7 @@
           "ex": [
             "Movie stars filled the front row.",
             "The song made them stars overnight.",
-            "Young stars often burn bright and fast."
+            "Young stars are often famous for only a short time."
           ]
         },
         {
@@ -24302,7 +24302,7 @@
               "correct": "To show the hidden truth about something",
               "wrong": "To make something look expensive",
               "correctFirst": false,
-              "why": "Shaking hands can give away a person's nerves, and a small smile can give away a hidden secret. Here strange shadows and extra fingers give away a photo that was never real."
+              "why": "Shaking hands can give away a person's fear, and a small smile can give away a hidden secret. Here strange shadows and extra fingers give away a photo that was never real."
             },
             {
               "display": "add up",
@@ -24339,7 +24339,7 @@
               "correct": "To become weaker or quieter",
               "wrong": "To spread to new places",
               "correctFirst": true,
-              "why": "Strong wind usually dies down by morning, and loud laughter dies down once the joke gets old. As long as fake views earn real money, this flood of AI content will not die down soon."
+              "why": "Strong wind usually dies down by morning, and loud laughter dies down after a few minutes. As long as fake views earn real money, this flood of AI content will not die down soon."
             },
             {
               "display": "scroll past",
@@ -25951,7 +25951,7 @@
           "def": "Pieces of cloth that represent a country",
           "ex": [
             "Flags flew at every house on the holiday.",
-            "The stadium was a sea of flags.",
+            "The stadium was full of flags.",
             "Sailors raised the flags at sunrise."
           ]
         },
@@ -29115,7 +29115,7 @@
           "def": "To react exactly as a trick intended",
           "ex": [
             "He teased her, and she took the bait.",
-            "Do not take the bait when trolls insult your team.",
+            "Do not take the bait when people online insult your team.",
             "The reporter took the bait and printed the rumor."
           ]
         },
@@ -29271,7 +29271,7 @@
         {
           "s": "Rage bait relies on the fact that angry people click and share more.",
           "a": true,
-          "why": "That is the engine. Every furious reply pushes the post higher in the feed."
+          "why": "That is how it works. Every furious reply pushes the post higher in the feed."
         },
         {
           "s": "Use of the term rage bait tripled in twelve months.",
@@ -29286,7 +29286,7 @@
         {
           "s": "Readers who pile on in the comments make the post weaker.",
           "a": false,
-          "why": "Every reply is fuel. The crowd winds up paying the creator with attention."
+          "why": "Every reply helps the post spread. The crowd winds up giving the creator more attention."
         },
         {
           "s": "Some rage baiters admit they do not believe their own posts.",
@@ -29535,7 +29535,7 @@
               "correct": "To pay for something yourself",
               "wrong": "To split a cost with others",
               "correctFirst": true,
-              "why": "You pick up the bill, the tab, or the check. Someone always pays in the end, and here it may be today's students."
+              "why": "You pick up the bill at a restaurant or the cost of a friend's ticket. Someone always pays in the end, and here it may be today's students."
             }
           ]
         }
@@ -29597,7 +29597,7 @@
           "def": "To force something higher",
           "ex": [
             "A dry summer drove up vegetable prices.",
-            "Bidding wars drive up home prices.",
+            "Too many buyers can drive up home prices.",
             "Fuel costs drove up ticket prices this year."
           ]
         },
@@ -29890,7 +29890,7 @@
           "ex": [
             "The rule applies to every man, woman, and child.",
             "Clean water reached every man, woman, and child.",
-            "The tax touches every man, woman, and child in the state."
+            "The tax affects every man, woman, and child in the state."
           ]
         }
       ],
@@ -31625,7 +31625,7 @@
           "ex": [
             "He made a fortune selling simple software.",
             "That old painting could be worth a fortune.",
-            "She spent a small fortune on the wedding."
+            "She spent a fortune on the wedding."
           ]
         },
         {
@@ -33095,7 +33095,7 @@
         {
           "s": "Makos come up to the surface about twice a day.",
           "a": true,
-          "why": "The article says makos visit the surface about twice a day, which gives the tags a chance to call home."
+          "why": "The article says makos visit the surface about twice a day, which gives the tags a chance to send their data."
         },
         {
           "s": "The project is starting out with thousands of tagged sharks.",
@@ -33433,7 +33433,7 @@
           "def": "To continue with more work",
           "ex": [
             "The doctor will follow up with a phone call next week.",
-            "Police followed up on every tip from the public.",
+            "Police followed up on every report from the public.",
             "The reporter followed up with more questions."
           ]
         },
@@ -33711,7 +33711,7 @@
         {
           "s": "The scans suggest dogs can pick up on the difference between fear and sadness.",
           "a": true,
-          "why": "The scans showed dogs could make out the difference between fear and sadness, two feelings even people sometimes confuse."
+          "why": "The scans showed dogs could pick up on the difference between fear and sadness, two feelings even people sometimes confuse."
         },
         {
           "s": "Dogs understand people through faces alone, and nothing else matters.",
@@ -34971,7 +34971,7 @@
           "ipa": "/ˈlɪtəl baɪ ˈlɪtəl/",
           "def": "Slowly, in small steps",
           "ex": [
-            "Little by little, the garden took shape.",
+            "Little by little, the garden grew green and full of flowers.",
             "Her English improved little by little.",
             "He paid the debt back little by little."
           ]
@@ -35864,7 +35864,7 @@
               "correct": "To do something in place of someone",
               "wrong": "To send flowers to a partner",
               "correctFirst": true,
-              "why": "A backup actor stands in for the lead when she gets sick, and a backup singer sometimes stands in for the star at the last minute. In the ad, the assistant stands in for the man by handling all of his partner's messages."
+              "why": "A backup actor stands in for the main actor when she gets sick, and a backup singer sometimes stands in for the star at the last minute. In the ad, the assistant stands in for the man by handling all of his partner's messages."
             }
           ]
         },
@@ -35893,7 +35893,7 @@
               "correct": "To suddenly attack someone",
               "wrong": "To share a video with a friend",
               "correctFirst": false,
-              "why": "Fans quickly turn on a coach after a bad losing streak, and a crowd can turn on a referee after one unfair call. Many people who once liked Orchid turned on the company after this advertisement appeared online."
+              "why": "Fans quickly turn on a coach after the team loses many games in a row, and a crowd can turn on a referee after one unfair decision. Many people who once liked Orchid turned on the company after this advertisement appeared online."
             }
           ]
         },
@@ -35922,7 +35922,7 @@
               "correct": "To make someone lose interest",
               "wrong": "To remind someone of a date",
               "correctFirst": true,
-              "why": "Bad reviews put off many potential buyers before they even visit a store, and rude service can put off even loyal customers for good. Some readers said the whole argument put off people who had once planned to try the Orchid app."
+              "why": "Bad reviews put off many potential buyers before they even visit a store, and rude service can put off even loyal customers forever. Some readers said the whole argument put off people who had once planned to try the Orchid app."
             }
           ]
         },
@@ -35935,7 +35935,7 @@
               "correct": "To stop defending your position",
               "wrong": "To repeat a claim more loudly",
               "correctFirst": false,
-              "why": "A union refuses to back down during a long, difficult strike, and some companies back down fast once bad press starts to spread. Orchid has not backed down, and it left the anniversary ad online rather than removing it."
+              "why": "A union refuses to back down during a long, difficult strike, and some companies back down fast once bad news stories about them start to spread. Orchid has not backed down, and it left the anniversary ad online rather than removing it."
             },
             {
               "display": "brushed off",
@@ -35962,7 +35962,7 @@
           "ipa": "/kɪk ɔf/",
           "def": "To start suddenly and noisily",
           "ex": [
-            "A loud argument kicked off after the referee's controversial call.",
+            "A loud argument kicked off after the referee's surprising decision.",
             "The concert kicks off at eight o'clock.",
             "A small joke kicked off a long argument between them."
           ]
@@ -36013,7 +36013,7 @@
           "def": "To suddenly attack someone",
           "ex": [
             "Fans quickly turned on the coach after the losing streak.",
-            "The crowd suddenly turned on the referee after the bad call.",
+            "The crowd suddenly turned on the referee after the bad decision.",
             "His own team turned on him when the plan failed."
           ]
         },
@@ -38697,7 +38697,7 @@
               "correct": "To give a disease to someone",
               "wrong": "To travel between two towns",
               "correctFirst": false,
-              "why": "A sick coworker might pass on a cold in a crowded office, and children often pass on stomach bugs at school. This form of Ebola only passes on through close contact with blood and other body fluids, not through the air."
+              "why": "A sick coworker might pass on a cold in a crowded office, and children often pass on stomach illnesses at school. This form of Ebola only passes on through close contact with blood and other body fluids, not through the air."
             },
             {
               "display": "set up",
@@ -38705,7 +38705,7 @@
               "correct": "To build and start something",
               "wrong": "To begin a long journey",
               "correctFirst": true,
-              "why": "A new business might set up shop in a busy downtown area, and campers set up a tent before dark. Aid teams in this outbreak have set up isolation units and are training local health workers to help."
+              "why": "A new business might set up a store in a busy downtown area, and campers set up a tent before dark. Aid teams in this outbreak have set up isolation units and are training local health workers to help."
             },
             {
               "display": "die out",
@@ -39544,7 +39544,7 @@
           "ex": [
             "The store's profits grew after the new manager arrived.",
             "Profits were higher than last year.",
-            "Small shops often have thin profits in winter."
+            "Small shops often have low profits in winter."
           ],
           "ipa": "/ˈprɑfɪts/"
         },
@@ -41602,7 +41602,7 @@
           "def": "An official order giving extra powers and money",
           "ex": [
             "The hospital has a plan for any medical emergency.",
-            "An emergency frees up state funds.",
+            "An emergency lets the state spend extra money.",
             "Call this number only in a real emergency."
           ],
           "ipa": "/ɪˈmərdʒənsi/"
@@ -42086,7 +42086,7 @@
           "verb": "Turn away",
           "def": "To refuse to let someone enter",
           "ex": [
-            "The bouncer turned away three men at the door.",
+            "The guard at the club turned away three men at the door.",
             "They turn away anyone without a ticket.",
             "She had been turned away twice that week."
           ],
@@ -42126,7 +42126,7 @@
           "verb": "Come forward",
           "def": "To make yourself known in public",
           "ex": [
-            "A witness finally came forward after the appeal.",
+            "A witness finally came forward after the police asked the public for help.",
             "Witnesses rarely come forward at once.",
             "Two people have come forward since Friday."
           ],
@@ -42693,7 +42693,7 @@
               "correct": "To officially reject something",
               "wrong": "To return property to its owner",
               "correctFirst": false,
-              "why": "A referee can throw out a bad call, and a judge can throw out evidence collected the wrong way. Tunick's lawyers want the judge to throw out everything the officers found on his phone."
+              "why": "A referee can throw out a goal after watching the video, and a judge can throw out evidence collected the wrong way. Tunick's lawyers want the judge to throw out everything the officers found on his phone."
             },
             {
               "display": "stand up in court",
@@ -43872,7 +43872,7 @@
         {
           "s": "A rumor on social media said people could not be sent back once they reached Ceuta by water.",
           "a": true,
-          "why": "Word got around that anyone who reached Ceuta by water could no longer be sent back the same day."
+          "why": "The news got around that anyone who reached Ceuta by water could no longer be sent back the same day."
         },
         {
           "s": "The Spanish government ruled out sending extra police to Ceuta.",
@@ -44118,7 +44118,7 @@
               "correct": "To begin an event",
               "wrong": "To decide the final result",
               "correctFirst": true,
-              "why": "A meeting kicks off at nine sharp, and a festival often kicks off with a parade. FIFA's next tournament, the Women's Under 20 World Cup in Poland, kicks off on September 5."
+              "why": "A meeting kicks off at exactly nine, and a festival often kicks off with a parade. FIFA's next tournament, the Women's Under 20 World Cup in Poland, kicks off on September 5."
             }
           ]
         }
@@ -44219,7 +44219,7 @@
           "ipa": "/kɪk ɔːf/",
           "def": "To begin an event",
           "ex": [
-            "The meeting kicks off at nine o'clock sharp.",
+            "The meeting kicks off at exactly nine o'clock.",
             "The festival kicked off with a parade.",
             "Their tour kicks off in Lisbon."
           ]
@@ -44333,7 +44333,7 @@
           "ex": [
             "The startup raised venture capital to expand quickly.",
             "Venture capital built most of these startups.",
-            "Venture capital dried up during the recession."
+            "Very little venture capital was available during the recession."
           ]
         },
         {
@@ -44373,7 +44373,7 @@
           "ex": [
             "The club sold several assets to pay debts.",
             "The company listed its assets before the merger.",
-            "Her most valuable assets are patience and skill."
+            "Her most valuable assets are her house and her car."
           ]
         },
         {
@@ -45187,8 +45187,8 @@
           "def": "On the incorrect side of something",
           "ex": [
             "The car ended up on the wrong side of the road.",
-            "He argued the case but ended up on the wrong side of the law.",
-            "Their house sits on the wrong side of the tracks."
+            "He parked on the wrong side of the street and got a ticket.",
+            "We parked on the wrong side of the river and had to walk across the bridge."
           ]
         },
         {
@@ -45205,7 +45205,7 @@
           "def": "Sends a signal about something, even unintentionally",
           "ex": [
             "A firm handshake carries a message of confidence.",
-            "Her silence carries a message louder than words.",
+            "Her silence carries a message that everyone understands.",
             "The company's slow response carries a message to customers."
           ]
         }
@@ -45404,7 +45404,7 @@
               "correct": "To become the person in charge",
               "wrong": "To win a close election",
               "correctFirst": true,
-              "why": "A new coach takes over a losing team hoping to turn things around, and a daughter sometimes takes over her family's small shop. Keiko Fujimori now takes over a country that has had eight presidents in just ten years."
+              "why": "A new coach takes over a losing team and hopes to start winning, and a daughter sometimes takes over her family's small shop. Keiko Fujimori now takes over a country that has had eight presidents in just ten years."
             },
             {
               "display": "gone through",
@@ -47004,7 +47004,7 @@
           "ex": [
             "His stepdaughter graduated from college last spring.",
             "Her stepdaughter lives in Lyon with her family.",
-            "He walked his stepdaughter down the aisle."
+            "He gave a speech at his stepdaughter's wedding."
           ]
         },
         {
@@ -48295,7 +48295,7 @@
           "def": "A list of people waiting for a turn",
           "ex": [
             "He added his name to the waiting list.",
-            "The waiting list ran to two thousand.",
+            "The waiting list grew to two thousand names.",
             "She finally got off the waiting list this week."
           ]
         },
@@ -48610,7 +48610,7 @@
               "correct": "To succeed in the end",
               "wrong": "To get support from people",
               "correctFirst": true,
-              "why": "The simplest plan often wins out over a fancier one, and patience usually wins out over speed in the long run. In this study, sitting among trees while hearing birdsong won out on every single measure researchers tracked."
+              "why": "The simplest plan often wins out over a fancier one, and a patient runner often wins out over a fast starter in a long race. In this study, sitting among trees while hearing birdsong won out on every single measure researchers tracked."
             },
             {
               "display": "went up",
@@ -49295,7 +49295,7 @@
           "ex": [
             "Organizers called off the parade because of the storm.",
             "The union may call off the strike tomorrow.",
-            "We had to call off the trip at short notice."
+            "We had to call off the trip the day before we left."
           ]
         },
         {
@@ -49426,7 +49426,7 @@
           "def": "Paid for each hour worked",
           "ex": [
             "The cafe pays its staff an hourly wage.",
-            "Hourly staff clock in at the gate.",
+            "Hourly staff record their start time at the gate.",
             "She works an hourly shift on weekends."
           ]
         },
@@ -49525,7 +49525,7 @@
           "ipa": "/ˈsɛtəld/",
           "def": "Agreed and brought to an end",
           "ex": [
-            "The lawsuit was settled out of court.",
+            "The lawsuit was settled without a trial.",
             "Nothing has been settled so far.",
             "Their disagreement was finally settled last week."
           ]
@@ -52572,7 +52572,7 @@
               "correct": "To learn about something for the first time",
               "wrong": "To draw attention to an important fact",
               "correctFirst": true,
-              "why": "You find out test results, find out gossip, or find out the truth the hard way. Modi said his government acted as soon as it found out about the exam leak."
+              "why": "You find out test results from a doctor, and you find out news from your friends. Modi said his government acted as soon as it found out about the exam leak."
             },
             {
               "display": "went ahead",
@@ -52672,7 +52672,7 @@
           "ex": [
             "The meeting went ahead even though the manager was sick.",
             "Our trip went ahead without any changes.",
-            "The market goes ahead every Saturday, rain or shine."
+            "The market goes ahead every Saturday, even when it rains."
           ]
         },
         {
@@ -52901,7 +52901,7 @@
           "word": "residence",
           "def": "The place where someone lives, especially an official",
           "ex": [
-            "The ambassador's residence is guarded around the clock.",
+            "The ambassador's residence is guarded day and night.",
             "Her new residence overlooks a quiet park.",
             "Visitors are not allowed inside the governor's residence."
           ]
@@ -54065,7 +54065,7 @@
           "word": "most notably",
           "def": "Especially, as the clearest example",
           "ex": [
-            "Several actors, most notably the lead, praised the script.",
+            "Several actors, most notably the main actor, praised the script.",
             "The city has many parks, most notably the botanical garden.",
             "He won several awards, most notably a national prize."
           ]
@@ -55154,7 +55154,7 @@
           "ex": [
             "Shoppers lined up outside the store before it opened.",
             "Students lined up in the hallway before the bell rang.",
-            "Customers lined up around the block for the sale."
+            "Customers lined up along the whole street for the sale."
           ]
         },
         {
@@ -55473,7 +55473,7 @@
           "why": "His daughter came up with a simple idea and posted a video about the shop's Y2K sandals on TikTok."
         },
         {
-          "s": "The video flopped and never took off.",
+          "s": "The video failed and never took off.",
           "a": false,
           "why": "The video quickly took off and racked up 300,000 views overnight."
         },
@@ -55628,7 +55628,7 @@
               "correct": "To succeed at something difficult",
               "wrong": "To score in the final minute",
               "correctFirst": true,
-              "why": "Underdogs pull off surprising wins, and thieves in movies pull off daring robberies. Spain pulled off a hard fought 1-0 win over Argentina to take the World Cup."
+              "why": "Weaker teams sometimes pull off surprising wins, and thieves in movies pull off clever robberies. Spain pulled off a hard fought 1-0 win over Argentina to take the World Cup."
             },
             {
               "display": "took on",
@@ -55636,7 +55636,7 @@
               "correct": "To face or compete against",
               "wrong": "To beat a strong rival team",
               "correctFirst": false,
-              "why": "Boxers take on tough opponents, and underdog teams sometimes take on the biggest teams in a big game. In the final, Spain took on Argentina for the biggest prize in soccer."
+              "why": "Boxers take on tough opponents, and small teams sometimes take on the best teams in the country. In the final, Spain took on Argentina for the biggest prize in soccer."
             },
             {
               "display": "went on",
@@ -55673,7 +55673,7 @@
               "correct": "To force a way past a defense",
               "wrong": "To kick the ball very hard",
               "correctFirst": false,
-              "why": "Sunlight breaks through storm clouds, and small startups sometimes break through in a crowded market. Deep into extra time, Spain's striker Ferran Torres finally broke through Argentina's defense."
+              "why": "A fast player can break through the other team's defense, and an army can break through the enemy's line. Deep into extra time, Spain's striker Ferran Torres finally broke through Argentina's defense."
             },
             {
               "display": "put away",
@@ -55681,7 +55681,7 @@
               "correct": "To score a goal in a game",
               "wrong": "To save a shot on goal",
               "correctFirst": true,
-              "why": "Strikers put away easy chances in the box, and top scorers put away shot after shot all season. In the 106th minute, Torres put away a close range shot to give Spain the lead."
+              "why": "Strikers put away easy chances close to the goal, and top scorers put away shot after shot all season. In the 106th minute, Torres put away a close range shot to give Spain the lead."
             },
             {
               "display": "keep out",
@@ -55808,7 +55808,7 @@
           "ipa": "/breɪk θruː/",
           "def": "To force a way past a defense",
           "ex": [
-            "The small startup finally broke through in a crowded market.",
+            "Our best player broke through the defense and scored.",
             "The soldiers broke through the enemy's defense at dawn.",
             "Our team broke through in the second half."
           ]
@@ -56436,7 +56436,7 @@
               "correct": "To succeed at something difficult",
               "wrong": "To barely finish before the deadline",
               "correctFirst": true,
-              "why": "A small team can pull off a big win against the odds, and a chef can pull off a fancy dinner with little time. If scientists pull off this difficult search, LHS 1140 b could become one of the best places to look for life."
+              "why": "A small team can pull off a big win against a much stronger team, and a chef can pull off a fancy dinner with little time. If scientists pull off this difficult search, LHS 1140 b could become one of the best places to look for life."
             }
           ]
         }
@@ -56489,7 +56489,7 @@
           "ex": [
             "While cleaning the office, he came across an old company file.",
             "I came across an old photo.",
-            "She came across a great deal online."
+            "She came across a very cheap flight online."
           ]
         },
         {
@@ -56621,7 +56621,7 @@
           "ex": [
             "Traveling to new countries is a privilege, not a right.",
             "He felt it was a privilege to coach the young team.",
-            "Good health is a privilege many people take for granted."
+            "Good health is a privilege that many people do not value enough."
           ]
         },
         {
@@ -57923,7 +57923,7 @@
           "ex": [
             "The gift truly surprised her.",
             "He was truly grateful for their help.",
-            "This movie was truly one of a kind."
+            "This movie was truly different from all the others."
           ]
         },
         {
@@ -59112,7 +59112,7 @@
           "ipa": "/pʊt ɑn/",
           "def": "To place someone into a certain status or condition",
           "ex": [
-            "The student was put on the honor roll this semester.",
+            "The student was put on the school's list of top students this semester.",
             "She was put on a new team last week.",
             "The nurse was put on a different shift this month."
           ]
@@ -59286,7 +59286,7 @@
           "ex": [
             "His prediction about the storm turned out correct.",
             "The scientist made a bold prediction about the climate.",
-            "Her prediction for the game was way off."
+            "Her prediction for the game was completely wrong."
           ]
         },
         {
@@ -60186,7 +60186,7 @@
               "correct": "To remove something so it can no longer be used",
               "wrong": "To hide something from view for a short time",
               "correctFirst": true,
-              "why": "A coach takes away a player's starting spot after a bad season, and a school can take away recess for bad behavior. ByteDance took away the romantic companion feature from its app Doubao on July 15."
+              "why": "A coach takes away a player's phone before a game, and a school can take away free time for bad behavior. ByteDance took away the romantic companion feature from its app Doubao on July 15."
             },
             {
               "display": "keep out",
@@ -60490,7 +60490,7 @@
           "def": "A real feeling of closeness between people",
           "ex": [
             "Long working hours left him missing human connection.",
-            "The retreat focused on building human connection.",
+            "The weekend class focused on building human connection.",
             "Texting is easy, but it lacks real human connection."
           ]
         },
@@ -61525,7 +61525,7 @@
               "correct": "To agree with or accept an idea or plan",
               "wrong": "To pretend to agree while secretly disagreeing",
               "correctFirst": false,
-              "why": "A worker might go along with a manager's plan without full agreement, and a friend might go along with a group's decision to keep the peace. Not every lawmaker in Washington goes along with this idea."
+              "why": "A worker might go along with a manager's plan without full agreement, and a friend might go along with a group's decision to avoid an argument. Not every lawmaker in Washington goes along with this idea."
             },
             {
               "display": "take on",
@@ -61564,7 +61564,7 @@
           "ipa": "/lɑk ɪn/",
           "def": "To make something permanent so it cannot change",
           "ex": [
-            "The coach helped the rookie lock in a starting spot on the team.",
+            "The coach helped the new player lock in a place on the team.",
             "They locked in the deal before costs went up.",
             "Signing early lets you lock in your seat."
           ]
@@ -61887,7 +61887,7 @@
           "ex": [
             "The company doubled its sales within a year of launching.",
             "We paid off the loan within a year of signing it.",
-            "The new store closed within a year due to low traffic."
+            "The new store closed within a year because few customers came."
           ]
         }
       ],
@@ -62103,7 +62103,7 @@
               "correct": "To cause something to rise or increase",
               "wrong": "To keep something exactly the same amount",
               "correctFirst": false,
-              "why": "A cold snap can drive up demand for winter coats overnight, and a new tax often drives up the cost of gas at the pump. Residents worry that these giant data centers will drive up their monthly electricity bills."
+              "why": "A week of cold weather can drive up demand for winter coats, and a new tax often drives up the cost of gas. Residents worry that these giant data centers will drive up their monthly electricity bills."
             }
           ]
         },
@@ -62161,7 +62161,7 @@
               "correct": "To give your opinion or join a discussion",
               "wrong": "To measure how heavy a person or an object is",
               "correctFirst": false,
-              "why": "Nutrition experts often weigh in on a new diet trend, and fans love to weigh in online after a controversial call. Dozens of cities had already blocked such projects, but New York was the first state to weigh in with an official pause."
+              "why": "Nutrition experts often weigh in on a new diet trend, and fans love to weigh in online after a referee makes a surprising decision. Dozens of cities had already blocked such projects, but New York was the first state to weigh in with an official pause."
             },
             {
               "display": "go ahead",
@@ -62220,7 +62220,7 @@
           "ipa": "/draɪv ʌp/",
           "def": "To cause something to rise or increase",
           "ex": [
-            "A cold snap drove up demand for winter coats.",
+            "A week of cold weather drove up demand for winter coats.",
             "The new tax will drive up the cost of gas.",
             "More demand drove up the price of homes."
           ]
@@ -62728,7 +62728,7 @@
               "correct": "To defend or support someone or something",
               "wrong": "To bravely oppose and confront a powerful enemy",
               "correctFirst": false,
-              "why": "Good friends stand up for each other in an argument, and a lawyer can stand up for someone who has no voice. This year's parade was planned to stand up for Ukraine during its long war with Russia."
+              "why": "Good friends stand up for each other in an argument, and a lawyer stands up for a client in court. This year's parade was planned to stand up for Ukraine during its long war with Russia."
             },
             {
               "display": "show off",
@@ -64054,7 +64054,7 @@
           "ex": [
             "He came down with a bad cold after the camping trip.",
             "She came down with the flu right before the trip.",
-            "Half the class came down with a bug last week."
+            "Half the class came down with a virus last week."
           ]
         },
         {
@@ -64336,7 +64336,7 @@
           "ex": [
             "He changed careers after ten years in banking.",
             "She began her career as a lawyer.",
-            "Her career took off after she moved to the city."
+            "Her career grew quickly after she moved to the city."
           ]
         },
         {
@@ -64721,7 +64721,7 @@
           "ex": [
             "Getting the certificate opened up new job options for him.",
             "The new road opened up the whole region.",
-            "Learning English opened up many doors for her."
+            "Learning English opened up many new job chances for her."
           ]
         },
         {
@@ -65212,7 +65212,7 @@
               "correct": "To finally be in a certain situation or result",
               "wrong": "To stop an activity before it is finished",
               "correctFirst": true,
-              "why": "You might end up in the wrong line at the airport, and a rushed plan can end up costing more in the long run. Many people in the lighter group ended up with smaller gains in memory and thinking."
+              "why": "You might end up in the wrong line at the airport, and a rushed plan can end up costing more later. Many people in the lighter group ended up with smaller gains in memory and thinking."
             }
           ]
         },
@@ -65771,7 +65771,7 @@
               "wrong": "To make a loud humming noise all day",
               "correct": "To take control of something from someone else",
               "correctFirst": false,
-              "why": "A relief driver can take over during a long road trip, and an assistant coach might take over practice when the coach is sick. Here powerful motors took over once workers had pushed the structure a little by hand."
+              "why": "A second driver can take over during a long road trip, and an assistant coach might take over practice when the coach is sick. Here powerful motors took over once workers had pushed the structure a little by hand."
             }
           ]
         },
@@ -66236,7 +66236,7 @@
         {
           "s": "Motors moved the whole telescope first, and then workers took over by hand.",
           "a": false,
-          "why": "It was the other way around. Workers pushed it by hand first, and then the motors took over to finish the turn."
+          "why": "It happened in the opposite order. Workers pushed it by hand first, and then the motors took over to finish the turn."
         },
         {
           "s": "The telescope's main mirror will be made up of 798 segments of special glass.",
@@ -68400,7 +68400,7 @@
               "wrong": "To admit that you did something wrong",
               "correct": "To stop demanding something or stop arguing",
               "correctFirst": false,
-              "why": "A union refuses to back down during a pay dispute, and a politician sometimes backs down first when the facts turn against him. So far, neither Apple nor OpenAI will back down in this fight."
+              "why": "A union refuses to back down during a pay dispute, and a politician sometimes backs down when the facts show he is wrong. So far, neither Apple nor OpenAI will back down in this fight."
             }
           ]
         },
@@ -68662,7 +68662,7 @@
           "ipa": "/ˈlɔːsuːt/",
           "def": "A legal case brought against someone in court",
           "ex": [
-            "The company settled the lawsuit out of court.",
+            "The company agreed to pay money to end the lawsuit.",
             "She filed a lawsuit after the accident.",
             "The lawsuit could take months to resolve."
           ]
@@ -69267,7 +69267,7 @@
           "ipa": "/taɪˈfuːn/",
           "def": "A very powerful tropical storm in the Pacific",
           "ex": [
-            "The typhoon knocked out power across the island.",
+            "The typhoon left the whole island without power.",
             "Residents boarded up windows before the typhoon arrived.",
             "A typhoon can bring heavy rain for days."
           ]
@@ -70657,7 +70657,7 @@
           "why": "Turn off means to stop a feature from working, which is what Europe wants Meta to do unless a user chooses it."
         },
         {
-          "s": "The regulators pointed out only one feature that keeps people hooked.",
+          "s": "The regulators pointed out only one feature that keeps people using the apps for hours.",
           "a": false,
           "why": "The regulators pointed out three features, not one: infinite scroll, autoplay, and personalized posts."
         },
@@ -71492,7 +71492,7 @@
               "wrong": "To pass an illness to another person",
               "correct": "To become sick with an illness",
               "correctFirst": false,
-              "why": "A traveler might come down with a stomach bug, and a whole office might come down with the same cold. In this outbreak, people come down with cyclospora after eating produce grown with dirty water."
+              "why": "A traveler might come down with a stomach virus, and a whole office might come down with the same cold. In this outbreak, people come down with cyclospora after eating produce grown with dirty water."
             },
             {
               "display": "end up",
@@ -71570,7 +71570,7 @@
           "ipa": "/breɪk aʊt/",
           "def": "To start suddenly and spread",
           "ex": [
-            "A stomach bug can break out fast in a crowded daycare.",
+            "A stomach virus can break out fast in a crowded daycare.",
             "The disease broke out in several cities at the same time.",
             "Fighting broke out between the two teams after the game."
           ]
@@ -71592,7 +71592,7 @@
           "ex": [
             "My neighbor came down with a bad cold this weekend.",
             "He came down with the flu after his trip.",
-            "Many students came down with a stomach bug last week."
+            "Many students came down with a stomach virus last week."
           ]
         },
         {
@@ -71834,7 +71834,7 @@
           "def": "An illness caused by something entering the body",
           "ex": [
             "The infection lasted several weeks.",
-            "Most infections clear up on their own.",
+            "Most infections end without any treatment.",
             "A minor cut can lead to a skin infection."
           ]
         },
@@ -72728,7 +72728,7 @@
               "wrong": "To stay the same without any change",
               "correct": "To finally be in a situation or place",
               "correctFirst": false,
-              "why": "Travelers end up lost without a map, and careless spenders end up broke by the end of the month. Mice that were treated early did not end up completely blind."
+              "why": "Travelers end up lost without a map, and careless spenders end up with no money by the end of the month. Mice that were treated early did not end up completely blind."
             }
           ]
         },
@@ -74011,7 +74011,7 @@
               "wrong": "To be planned down to the last detail",
               "correct": "To finally become a certain way",
               "correctFirst": true,
-              "why": "A rainy forecast can turn out sunny, and a blind date can turn out wonderfully. Guests said the evening turned out to be one of the most magical nights they had seen."
+              "why": "A rainy forecast can turn out sunny, and a nervous first day at a new job can turn out wonderfully. Guests said the evening turned out to be one of the most magical nights they had seen."
             },
             {
               "display": "stood out",
@@ -74351,7 +74351,7 @@
           "word": "the big day",
           "def": "An important day people have waited for",
           "ex": [
-            "She counted down the days until the big day.",
+            "She was excited for weeks before the big day.",
             "Everyone in the family helped prepare for the big day.",
             "Nerves grew stronger as the big day got closer."
           ]
@@ -75011,7 +75011,7 @@
           "def": "Two things of the same kind happening together",
           "ex": [
             "The twin storms hit the coast within a day of each other.",
-            "Twin explosions rocked the factory that morning.",
+            "Twin explosions shook the factory that morning.",
             "The city faced twin problems of heat and drought."
           ]
         }
@@ -75229,7 +75229,7 @@
               "wrong": "To hide something from view",
               "correct": "To prepare or arrange something",
               "correctFirst": false,
-              "why": "You set up chairs before a party, and a photographer might set up lights before a shoot. The scientists set up clear containers holding different numbers of carrot and vegetable pieces."
+              "why": "You set up chairs before a party, and a photographer might set up lights before taking pictures. The scientists set up clear containers holding different numbers of carrot and vegetable pieces."
             },
             {
               "display": "took away",
