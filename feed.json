@@ -1,6 +1,3066 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "stories": [
+    {
+      "id": "genetic-tests-families-2026",
+      "number": 141,
+      "headline": "Genetic tests are changing families in two ways",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n141-genetic-tests-families-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "The power of genetic testing: new screening methods are catching rare diseases before symptoms start (CNBC)",
+          "url": "https://www.cnbc.com/2026/08/10/new-genetic-tests-are-catching-rare-diseases-before-symptoms-start.html"
+        },
+        {
+          "title": "The DNA discovery boom: How at-home tests are rewriting American family trees (Stacker, via KRDO)",
+          "url": "https://krdo.com/stacker-relationships/2026/08/25/the-dna-discovery-boom-how-at-home-tests-are-rewriting-american-family-trees/"
+        },
+        {
+          "title": "When DNA tests find skeletons in your family's closet, these researchers want to know about it (Religion News Service)",
+          "url": "https://religionnews.com/2026/09/18/when-dna-tests-find-skeletons-in-your-familys-closet-these-researchers-want-to-know-about-it/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "At-home DNA tests are a common gift in the United States. By March 2026, the three biggest companies held more than 54 million [[test kits]], a news report said on August 25. Millions of customers {{sign up}} to learn about their [[ancestry]]. But many {{find out}} something else. In a 2025 [[survey]], one in four tested Americans said unknown [[close relatives]] {{turned up}} in their results.",
+          "verbs": [
+            {
+              "display": "sign up",
+              "base": "sign up",
+              "correct": "To agree to join or use a service",
+              "wrong": "To give official approval to a plan",
+              "correctFirst": true,
+              "why": "You can sign up for a gym class online in two minutes. She signed up for a cooking course last spring. Millions of customers sign up for DNA tests just to learn about their ancestry."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact you did not know",
+              "wrong": "To complete a form with your details",
+              "correctFirst": false,
+              "why": "I found out that my flight was canceled only at the airport. He wants to find out who sent the letter. Many customers find out about unknown relatives when their DNA results arrive."
+            },
+            {
+              "display": "turned up",
+              "base": "turn up",
+              "correct": "To appear when nobody expected it",
+              "wrong": "To refuse an offer politely",
+              "correctFirst": true,
+              "why": "My lost keys turned up in the freezer. An old photo turned up during the move. In one survey, one in four tested Americans said unknown close relatives turned up in their results."
+            }
+          ]
+        },
+        {
+          "text": "A 2022 study of 23,000 test customers found that 82 percent had discovered at least one unknown [[genetic relative]]. About 3 percent learned a parent {{turned out}} not to be their [[biological parent]]. When people {{reached out}} to new [[siblings]], 92 percent of those siblings {{got back to}} them. Three in four called the [[outcome]] positive or neutral, although some needed time to {{take in}} the news.",
+          "verbs": [
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be found to be true at the end",
+              "wrong": "To become worse over time",
+              "correctFirst": false,
+              "why": "The cheap hotel turned out to be the best part of the trip. The rumor turned out to be false. For about 3 percent of people in the study, a parent turned out not to be their biological parent."
+            },
+            {
+              "display": "reached out",
+              "base": "reach out",
+              "correct": "To make contact with someone new",
+              "wrong": "To take back something you said",
+              "correctFirst": true,
+              "why": "A recruiter reached out to me on a job site last week. She reached out to a neighbor she had never met. In the study, people reached out to new siblings, and most of the siblings answered."
+            },
+            {
+              "display": "got back to",
+              "base": "get back to",
+              "correct": "To reply to someone who contacted you",
+              "wrong": "To return an item to a store",
+              "correctFirst": false,
+              "why": "I will get back to you by Friday with an answer. The landlord never got back to us about the leak. In the study, 92 percent of newly found siblings got back to the person who contacted them."
+            },
+            {
+              "display": "take in",
+              "base": "take in",
+              "correct": "To fully understand surprising news",
+              "wrong": "To tell other people some news",
+              "correctFirst": true,
+              "why": "It took me a minute to take in the news about the layoffs. She sat down to take in what the doctor had said. Some people needed time to take in the news about a new relative."
+            }
+          ]
+        },
+        {
+          "text": "Medical tests are changing families too. A Columbia University study in New York offers free [[genome]] sequencing to newborns, a business news channel reported on August 10. Standard [[newborn screening]] checks for 30 to 50 diseases; the study checks for 450. In the first 4,000 babies, the test {{picked up}} [[serious conditions]] in just under 4 percent. One baby girl received a [[diagnosis]] of a [[fatal]] nerve disease at six months, years before [[symptoms]] would {{show up}}. Doctors started a [[treatment]] that may {{hold off}} the [[damage]].",
+          "verbs": [
+            {
+              "display": "picked up",
+              "base": "pick up",
+              "correct": "To detect a problem or disease",
+              "wrong": "To send a sample to a laboratory",
+              "correctFirst": false,
+              "why": "A routine blood test picked up her low iron. The scanner picked up a small crack in the pipe. In the New York study, the genome test picked up serious conditions in just under 4 percent of babies."
+            },
+            {
+              "display": "show up",
+              "base": "show up",
+              "correct": "To become visible or noticeable",
+              "wrong": "To draw attention to a mistake",
+              "correctFirst": true,
+              "why": "The rash showed up two days after the hike. Stress often shows up as trouble sleeping. The baby girl was diagnosed years before any symptoms would show up."
+            },
+            {
+              "display": "hold off",
+              "base": "hold off",
+              "correct": "To delay something from happening",
+              "wrong": "To repeat a test to be certain",
+              "correctFirst": false,
+              "why": "The city hopes the new wall will hold off the floods. A vaccine can hold off the worst of the illness. Her doctors started a treatment that may hold off the nerve damage."
+            }
+          ]
+        },
+        {
+          "text": "Researchers now ask what these discoveries do to families. In September 2026, a Brigham Young University historian and a DNA education company founder {{put out}} a call for [[personal stories]] on a new website, a news service reported on the 18th. They hope people will {{open up}} about how a DNA result changed their sense of family, or even their [[faith]]. Many will need to {{work through}} [[hard feelings]] first. Shared [[patterns]], they say, could help newcomers feel less alone.",
+          "verbs": [
+            {
+              "display": "put out",
+              "base": "put out",
+              "correct": "To make a request known to everyone",
+              "wrong": "To cancel a project at the last minute",
+              "correctFirst": true,
+              "why": "The police put out a call for witnesses after the crash. The theater put out a request for volunteers. In September, two researchers put out a call for personal stories about DNA discoveries."
+            },
+            {
+              "display": "open up",
+              "base": "open up",
+              "correct": "To talk freely about private feelings",
+              "wrong": "To invent a story that is not true",
+              "correctFirst": false,
+              "why": "He finally opened up about his father's illness. It took months before she would open up to the counselor. The researchers hope people will open up about how a DNA result changed their family."
+            },
+            {
+              "display": "work through",
+              "base": "work through",
+              "correct": "To deal with a problem step by step",
+              "wrong": "To leave a job without notice",
+              "correctFirst": true,
+              "why": "The couple worked through their money problems with a counselor. It took him a year to work through his grief. Many participants will need to work through hard feelings about their DNA results."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Sign up",
+          "def": "To agree to join or use a service",
+          "ipa": "/saɪn ʌp/",
+          "ex": [
+            "She signed up for a Spanish class.",
+            "You can sign up for the newsletter online.",
+            "He signed up for a free trial."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I found out the store closes at six.",
+            "She wants to find out where he was born.",
+            "We found out the truth years later."
+          ]
+        },
+        {
+          "verb": "Turn up",
+          "def": "To appear when nobody expected it",
+          "ipa": "/tɜrn ʌp/",
+          "ex": [
+            "My wallet turned up under the couch.",
+            "An old letter turned up in the attic.",
+            "Her name turned up on the guest list."
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To be found to be true at the end",
+          "ipa": "/tɜrn aʊt/",
+          "ex": [
+            "The stranger turned out to be my cousin.",
+            "The story turned out to be false.",
+            "It turned out that she was right."
+          ]
+        },
+        {
+          "verb": "Reach out",
+          "def": "To make contact with someone new",
+          "ipa": "/ritʃ aʊt/",
+          "ex": [
+            "A recruiter reached out to me by email.",
+            "She reached out to the new neighbors.",
+            "He reached out to a cousin he had never met."
+          ]
+        },
+        {
+          "verb": "Get back to",
+          "def": "To reply to someone who contacted you",
+          "ipa": "/ɡɛt bæk tu/",
+          "ex": [
+            "I will get back to you tomorrow.",
+            "The clinic got back to her within an hour.",
+            "He never got back to me about the job."
+          ]
+        },
+        {
+          "verb": "Take in",
+          "def": "To fully understand surprising news",
+          "ipa": "/teɪk ɪn/",
+          "ex": [
+            "She needed a minute to take in the news.",
+            "It was hard to take in what he was saying.",
+            "He sat quietly, taking in the diagnosis."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To detect a problem or disease",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "The blood test picked up an infection.",
+            "A scan picked up the problem early.",
+            "The screening picks up rare conditions."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To become visible or noticeable",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The bruise showed up the next morning.",
+            "Symptoms often show up after a week.",
+            "The error showed up in the final report."
+          ]
+        },
+        {
+          "verb": "Hold off",
+          "def": "To delay something from happening",
+          "ipa": "/hoʊld ɔf/",
+          "ex": [
+            "Medicine can hold off the worst symptoms.",
+            "The sandbags held off the water for hours.",
+            "The new drug may hold off memory loss."
+          ]
+        },
+        {
+          "verb": "Put out",
+          "def": "To make a request known to everyone",
+          "ipa": "/pʊt aʊt/",
+          "ex": [
+            "The school put out a call for volunteers.",
+            "Police put out a request for witnesses.",
+            "The museum put out a call for old photos."
+          ]
+        },
+        {
+          "verb": "Open up",
+          "def": "To talk freely about private feelings",
+          "ipa": "/ˈoʊpən ʌp/",
+          "ex": [
+            "He opened up about his childhood.",
+            "It took her years to open up to anyone.",
+            "Teenagers rarely open up to their parents."
+          ]
+        },
+        {
+          "verb": "Work through",
+          "def": "To deal with a problem step by step",
+          "ipa": "/wɜrk θru/",
+          "ex": [
+            "They worked through their disagreement.",
+            "It took time to work through the shock.",
+            "She worked through her fear of flying."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "test kits",
+          "def": "Boxes with everything needed to do a test at home",
+          "ipa": "/tɛst kɪts/",
+          "ex": [
+            "The pharmacy sells home test kits.",
+            "The company shipped a million test kits.",
+            "Test kits arrive with a return envelope."
+          ]
+        },
+        {
+          "word": "ancestry",
+          "def": "The family and countries a person's relatives came from",
+          "ipa": "/ˈænsɛstri/",
+          "ex": [
+            "Her ancestry is mostly Italian.",
+            "He is proud of his Native American ancestry.",
+            "The test shows your ancestry by region."
+          ]
+        },
+        {
+          "word": "survey",
+          "def": "A set of questions asked to many people to learn their views",
+          "ipa": "/ˈsɜrveɪ/",
+          "ex": [
+            "The survey asked 2,000 adults about sleep.",
+            "Half of the survey respondents said yes.",
+            "The city ran a survey about bike lanes."
+          ]
+        },
+        {
+          "word": "close relatives",
+          "def": "Family members such as parents, siblings, or children",
+          "ipa": "/kloʊs ˈrɛlətɪvz/",
+          "ex": [
+            "Only close relatives came to the small wedding.",
+            "She has no close relatives in this country.",
+            "The hospital called his close relatives."
+          ]
+        },
+        {
+          "word": "genetic relative",
+          "def": "A person who shares part of your DNA",
+          "ipa": "/dʒəˈnɛtɪk ˈrɛlətɪv/",
+          "ex": [
+            "The test found a genetic relative in Texas.",
+            "A genetic relative may be a distant cousin.",
+            "She messaged a new genetic relative online."
+          ]
+        },
+        {
+          "word": "biological parent",
+          "def": "The mother or father whose DNA a child was born with",
+          "ipa": "/ˌbaɪəˈlɑdʒɪkəl ˈpɛrənt/",
+          "ex": [
+            "He met his biological parent at age 40.",
+            "Adopted children may search for a biological parent.",
+            "The test named her biological parent."
+          ]
+        },
+        {
+          "word": "siblings",
+          "def": "Brothers and sisters",
+          "ipa": "/ˈsɪblɪŋz/",
+          "ex": [
+            "She has three younger siblings.",
+            "The siblings share a bedroom.",
+            "His siblings live in different states."
+          ]
+        },
+        {
+          "word": "outcome",
+          "def": "The final result of something",
+          "ipa": "/ˈaʊtkʌm/",
+          "ex": [
+            "The outcome of the vote surprised everyone.",
+            "Doctors hope for a good outcome.",
+            "The outcome of the trial is still unknown."
+          ]
+        },
+        {
+          "word": "genome",
+          "def": "The complete set of DNA in a person's body",
+          "ipa": "/ˈdʒinoʊm/",
+          "ex": [
+            "Scientists first read the human genome in 2003.",
+            "Each person's genome is unique.",
+            "The lab can sequence a genome in a day."
+          ]
+        },
+        {
+          "word": "newborn screening",
+          "def": "Tests done on every baby soon after birth to find diseases",
+          "ipa": "/ˈnuˌbɔrn ˈskrinɪŋ/",
+          "ex": [
+            "Newborn screening uses a drop of blood from the heel.",
+            "Newborn screening found the problem in time.",
+            "Every state runs newborn screening."
+          ]
+        },
+        {
+          "word": "serious conditions",
+          "def": "Illnesses that can badly harm a person",
+          "ipa": "/ˈsɪriəs kənˈdɪʃənz/",
+          "ex": [
+            "The clinic treats serious conditions of the heart.",
+            "Some serious conditions have no symptoms at first.",
+            "Doctors found serious conditions in two babies."
+          ]
+        },
+        {
+          "word": "diagnosis",
+          "def": "A doctor's decision about what illness a person has",
+          "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+          "ex": [
+            "The diagnosis took three months.",
+            "She got a diagnosis of diabetes last year.",
+            "An early diagnosis makes treatment easier."
+          ]
+        },
+        {
+          "word": "fatal",
+          "def": "Causing death",
+          "ipa": "/ˈfeɪtəl/",
+          "ex": [
+            "The crash was fatal for two passengers.",
+            "The disease was once always fatal.",
+            "A fatal mistake ended the mission."
+          ]
+        },
+        {
+          "word": "symptoms",
+          "def": "Signs in the body that show a person is sick",
+          "ipa": "/ˈsɪmptəmz/",
+          "ex": [
+            "Fever and cough are common flu symptoms.",
+            "Her symptoms started on Monday.",
+            "The drug reduces the symptoms of allergies."
+          ]
+        },
+        {
+          "word": "treatment",
+          "def": "Medical care given to cure or control an illness",
+          "ipa": "/ˈtritmənt/",
+          "ex": [
+            "The treatment lasts six weeks.",
+            "Early treatment saved his sight.",
+            "Insurance paid for the cancer treatment."
+          ]
+        },
+        {
+          "word": "damage",
+          "def": "Physical harm that makes something worse",
+          "ipa": "/ˈdæmɪdʒ/",
+          "ex": [
+            "The storm caused damage to the roof.",
+            "Smoking causes damage to the lungs.",
+            "Doctors checked for damage to the brain."
+          ]
+        },
+        {
+          "word": "personal stories",
+          "def": "Accounts of things that happened in someone's own life",
+          "ipa": "/ˈpɜrsənəl ˈstɔriz/",
+          "ex": [
+            "The book collects personal stories from nurses.",
+            "She shared personal stories at the meeting.",
+            "Personal stories make the report easier to read."
+          ]
+        },
+        {
+          "word": "faith",
+          "def": "Belief in a religion",
+          "ipa": "/feɪθ/",
+          "ex": [
+            "Her faith helped her through the illness.",
+            "People of every faith joined the march.",
+            "He lost his faith as a young man."
+          ]
+        },
+        {
+          "word": "hard feelings",
+          "def": "Anger or sadness that stays after something bad happens",
+          "ipa": "/hɑrd ˈfilɪŋz/",
+          "ex": [
+            "There were no hard feelings after the game.",
+            "The argument left hard feelings between the brothers.",
+            "She hoped to avoid hard feelings at work."
+          ]
+        },
+        {
+          "word": "patterns",
+          "def": "Things that repeat in a regular way",
+          "ipa": "/ˈpætərnz/",
+          "ex": [
+            "The data shows clear patterns in sleep.",
+            "Police looked for patterns in the crimes.",
+            "Weather patterns are changing."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Home DNA kits are revealing unknown relatives to many Americans, while a hospital study finds rare diseases in babies before symptoms. Researchers now want to learn how such results change families.",
+          "a": true,
+          "why": "One in four tested Americans found unknown close relatives, a newborn genome test picked up serious conditions early, and two researchers put out a call for family stories."
+        },
+        {
+          "s": "Home DNA kits can now warn parents about rare diseases in their babies before any symptoms appear. Doctors say these cheap kits catch far more conditions than the screening done in hospitals.",
+          "a": false,
+          "why": "Close, but the newborn results come from a free hospital study at Columbia University, not from at-home kits, which people buy to learn about ancestry and relatives."
+        },
+        {
+          "s": "A large DNA testing company has sold its customer database to a drug maker after going bankrupt. Millions of families now want to know what will happen to their private genetic information.",
+          "a": false,
+          "why": "Nothing here describes a sale of customer data or a bankruptcy. The two developments are unexpected relatives from home kits and early diagnoses for newborns."
+        }
+      ],
+      "tf": [
+        {
+          "s": "One in four tested Americans said unknown close relatives turned up in their results.",
+          "a": true,
+          "why": "A 2025 survey found that one in four Americans who took a DNA test discovered close relatives they had never known about."
+        },
+        {
+          "s": "Standard newborn screening picked up serious conditions in almost 4 percent of babies.",
+          "a": false,
+          "why": "The Columbia University genome test picked up serious conditions in just under 4 percent. Standard screening checks for far fewer diseases."
+        },
+        {
+          "s": "When people reached out to new siblings, 92 percent of the siblings got back to them.",
+          "a": true,
+          "why": "In the 2022 study, newly found siblings answered 92 percent of the time when someone contacted them."
+        },
+        {
+          "s": "Three in four people said the outcome of their DNA discovery was negative.",
+          "a": false,
+          "why": "Three in four called the outcome positive or neutral, even if some needed time to take in the news."
+        },
+        {
+          "s": "The baby girl's diagnosis came only after her symptoms showed up.",
+          "a": false,
+          "why": "She was diagnosed at six months, years before any symptoms would show up, so her doctors could start a treatment that may hold off the damage."
+        },
+        {
+          "s": "In September, researchers put out a call for personal stories on a new website.",
+          "a": true,
+          "why": "A university historian and a DNA company founder want people to open up about how a DNA result changed their sense of family."
+        }
+      ]
+    },
+    {
+      "id": "time-with-grandkids-activity-2026",
+      "number": 140,
+      "headline": "Older adults took more steps on days with younger family",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n140-time-with-grandkids-activity-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Intergenerational Engagement in Daily Life",
+          "url": "https://academic.oup.com/psychsocgerontology/advance-article-abstract/doi/10.1093/geronb/gbag191/8790041"
+        },
+        {
+          "title": "The Journals of Gerontology: Series B",
+          "url": "https://academic.oup.com/psychsocgerontology"
+        },
+        {
+          "title": "Oxford University Press academic journals",
+          "url": "https://academic.oup.com/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Many people {{slow down}} as they get older. A new study adds a detail. Researchers at Stanford University and Washington University in St. Louis {{carried out}} the study with 265 [[participants]], aged 23 to 92. On days when older adults spent more time with younger [[relatives]], they took more steps. They also reported more [[high-energy]] positive feelings, such as happiness, [[enthusiasm]] and excitement. The study was published in The Journals of Gerontology, Series B, on September 10, 2026.",
+          "verbs": [
+            {
+              "display": "slow down",
+              "base": "slow down",
+              "correct": "To become less active than before",
+              "wrong": "To learn a new skill quickly",
+              "correctFirst": true,
+              "why": "A busy lawyer slows down after retirement, and a puppy slows down once it is a few years old. Many people slow down as they get older, which is why the study looked at what older adults did each day."
+            },
+            {
+              "display": "carried out",
+              "base": "carry out",
+              "correct": "To do a planned piece of work",
+              "wrong": "To continue after a difficult time",
+              "correctFirst": false,
+              "why": "A mechanic carries out repairs on a car, and a school carries out a fire drill twice a year. Researchers at two universities carried out the study with 265 participants aged 23 to 92."
+            }
+          ]
+        },
+        {
+          "text": "Each person kept a [[daily diary]] for nine days. Each day, they {{filled in}} a short record of who they spent time with and how they felt. The researchers did not leave [[physical activity]] to memory. Instead, they {{kept track of}} it [[objectively]], through [[step count]] and the number of minutes each person spent sitting. The diaries and the movement data were then placed [[side by side]] to see whether the two moved together.",
+          "verbs": [
+            {
+              "display": "filled in",
+              "base": "fill in",
+              "correct": "To complete a form with information",
+              "wrong": "To sign a paper to join a study",
+              "correctFirst": true,
+              "why": "A traveler fills in a customs form at the airport, and a patient fills in a health history at the clinic. Each day, the participants filled in a short record of who they spent time with and how they felt."
+            },
+            {
+              "display": "kept track of",
+              "base": "keep track of",
+              "correct": "To record and follow something over time",
+              "wrong": "To stay at the same level as others",
+              "correctFirst": false,
+              "why": "A parent keeps track of a child's height on the kitchen wall, and a driver keeps track of fuel costs in a notebook. The researchers kept track of physical activity through step counts and minutes spent sitting."
+            }
+          ]
+        },
+        {
+          "text": "Older adults were not the only ones who felt better. Across every age in the study, one part of the [[pattern]] {{held up}}. On days with more time with younger family members, people reported more calm positive feelings, such as [[contentment]] and [[relaxation]], as they {{wound down}} before bed. The same link did not {{show up}} for other company. Time spent with people who were not younger family members had no [[connection]] to step count or [[sitting time]].",
+          "verbs": [
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To stay true when tested",
+              "wrong": "To keep something in a safe place",
+              "correctFirst": false,
+              "why": "A weather forecast holds up if the rain arrives as promised, and an alibi holds up if the times match the facts. The calm feelings before bed held up across every age in the study, not only among older adults."
+            },
+            {
+              "display": "wound down",
+              "base": "wind down",
+              "correct": "To relax before going to sleep",
+              "wrong": "To visit family for a short stay",
+              "correctFirst": true,
+              "why": "Some people wind down with a warm bath, and others wind down by listening to a podcast in the dark. Participants reported more contentment and relaxation as they wound down on days with more time with younger family members."
+            },
+            {
+              "display": "show up",
+              "base": "show up",
+              "correct": "To appear or be seen",
+              "wrong": "To display something proudly",
+              "correctFirst": true,
+              "why": "A stain shows up on a white shirt, and a typing error shows up when you print the page. The link with step counts did not show up for time spent with people who were not younger family members."
+            }
+          ]
+        },
+        {
+          "text": "It is important to {{point out}} that the study found a link, not a [[cause]]. Nine days of diaries do not {{add up to}} [[proof]]. The study cannot {{rule out}} other [[explanations]]. The results do not show that a visit {{cheers up}} an older person. They show only that family days and active days were often the same days. Even so, the pattern raises a question for [[future studies]]. What happens when the [[generations]] {{get together}}, or simply {{hang out}} at home?",
+          "verbs": [
+            {
+              "display": "point out",
+              "base": "point out",
+              "correct": "To tell people about a fact",
+              "wrong": "To give something to each person",
+              "correctFirst": false,
+              "why": "A guide points out that the museum is free on Sundays, and a friend points out that your shirt is on backwards. It is important to point out that the study found a link, not a cause."
+            },
+            {
+              "display": "add up to",
+              "base": "add up to",
+              "correct": "To combine to produce a result",
+              "wrong": "To happen before an event",
+              "correctFirst": true,
+              "why": "Three short walks add up to an hour of exercise, and a few missed classes add up to a low grade. Nine days of diaries do not add up to proof that family time causes anything."
+            },
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To decide something is not possible",
+              "wrong": "To plan something in detail",
+              "correctFirst": false,
+              "why": "A vet rules out a broken bone after an X-ray, and a coach rules out an injured player for the final. The study cannot rule out other explanations for why family days and active days often matched."
+            },
+            {
+              "display": "cheers up",
+              "base": "cheer up",
+              "correct": "To make someone feel happier",
+              "wrong": "To live near a family member",
+              "correctFirst": true,
+              "why": "A sunny morning cheers up the whole office, and a funny movie cheers up a friend after a bad week. The results do not show that a visit from a younger relative cheers up an older person."
+            },
+            {
+              "display": "get together",
+              "base": "get together",
+              "correct": "To meet with people socially",
+              "wrong": "To reach the end of a hard time",
+              "correctFirst": false,
+              "why": "Neighbors get together for a barbecue in July, and former coworkers get together once a year for lunch. The study raises the question of what happens when the generations get together."
+            },
+            {
+              "display": "hang out",
+              "base": "hang out",
+              "correct": "To spend relaxed time with someone",
+              "wrong": "To wait for a short time",
+              "correctFirst": false,
+              "why": "College friends hang out in the dorm on Friday nights, and cousins hang out by the pool all summer. Older adults took more steps on days when they spent time with, or simply hung out with, younger family members."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Slow down",
+          "def": "To become less active than before",
+          "ipa": "/sloʊ daʊn/",
+          "ex": [
+            "My grandfather slowed down a lot after he turned eighty.",
+            "The old dog has slowed down and sleeps most of the afternoon.",
+            "She refuses to slow down and still swims every morning at seventy."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do a planned piece of work",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "The hospital carried out a survey of its patients last spring.",
+            "Engineers will carry out safety checks on the bridge next week.",
+            "The team carried out the experiment twice to be sure of the result."
+          ]
+        },
+        {
+          "verb": "Fill in",
+          "def": "To complete a form with information",
+          "ipa": "/fɪl ɪn/",
+          "ex": [
+            "Please fill in your name and address at the top of the page.",
+            "He filled in the customer survey while he waited for his coffee.",
+            "Students fill in a short questionnaire at the end of each class."
+          ]
+        },
+        {
+          "verb": "Keep track of",
+          "def": "To record and follow something over time",
+          "ipa": "/kip træk ʌv/",
+          "ex": [
+            "She keeps track of her spending in a small notebook.",
+            "The app keeps track of how many hours you sleep each night.",
+            "The coach kept track of every player's running distance all season."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To stay true when tested",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "The theory held up when other scientists repeated the test.",
+            "His story did not hold up once the police checked the dates.",
+            "The results held up in a second group of volunteers."
+          ]
+        },
+        {
+          "verb": "Wind down",
+          "def": "To relax before going to sleep",
+          "ipa": "/waɪnd daʊn/",
+          "ex": [
+            "I read a few pages of a novel to wind down at night.",
+            "The kids need an hour to wind down before bed after a birthday party.",
+            "She winds down with herbal tea and quiet music before bed."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear or be seen",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The problem showed up in the blood test but not in the X-ray.",
+            "A small crack showed up on the wall after the storm.",
+            "The same mistake shows up in every report from that office."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people about a fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "The teacher pointed out that the deadline was on Friday, not Monday.",
+            "My sister pointed out that the store closes early on Sundays.",
+            "The report points out that most of the accidents happened at night."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "def": "To combine to produce a result",
+          "ipa": "/æd ʌp tu/",
+          "ex": [
+            "Small daily savings add up to a nice vacation fund by summer.",
+            "Ten minutes of practice each day adds up to real progress in a year.",
+            "A few late payments added up to a serious problem with the bank."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To decide something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctor ruled out an infection after seeing the test results.",
+            "Police have ruled out robbery as the reason for the break-in.",
+            "We cannot rule out rain, so bring a jacket to the picnic."
+          ]
+        },
+        {
+          "verb": "Cheer up",
+          "def": "To make someone feel happier",
+          "ipa": "/tʃɪr ʌp/",
+          "ex": [
+            "A phone call from her son cheered her up after a long week.",
+            "The nurses put up balloons to cheer up the children on the ward.",
+            "Nothing cheers up my father like a visit from the neighbors' dog."
+          ]
+        },
+        {
+          "verb": "Get together",
+          "def": "To meet with people socially",
+          "ipa": "/ɡɛt təˈɡɛðər/",
+          "ex": [
+            "The whole family gets together every Thanksgiving.",
+            "Old classmates got together for dinner after twenty years apart.",
+            "Let's get together for coffee when you are back in town."
+          ]
+        },
+        {
+          "verb": "Hang out",
+          "def": "To spend relaxed time with someone",
+          "ipa": "/hæŋ aʊt/",
+          "ex": [
+            "The teenagers hang out at the park after school.",
+            "I hung out with my cousins all weekend and did nothing special.",
+            "My grandmother loves it when the kids just hang out in her kitchen."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "participants",
+          "def": "People who join a study or an activity",
+          "ipa": "/pɑrˈtɪsəpənts/",
+          "ex": [
+            "All participants received a small gift card after the survey.",
+            "The race had over two thousand participants this year.",
+            "Participants in the trial were between 40 and 65 years old."
+          ]
+        },
+        {
+          "word": "relatives",
+          "def": "Members of a person's family",
+          "ipa": "/ˈrɛlətɪvz/",
+          "ex": [
+            "We visit my relatives in Ohio every summer.",
+            "She has no close relatives living nearby.",
+            "Dozens of relatives came to the wedding from three countries."
+          ]
+        },
+        {
+          "word": "high-energy",
+          "def": "Full of activity and excitement",
+          "ipa": "/haɪ ˈɛnərdʒi/",
+          "ex": [
+            "The class started with a high-energy warm-up song.",
+            "He is a high-energy speaker who never stands still.",
+            "Puppies are high-energy animals that need a lot of play."
+          ]
+        },
+        {
+          "word": "enthusiasm",
+          "def": "Strong interest and excitement",
+          "ipa": "/ɪnˈθuziˌæzəm/",
+          "ex": [
+            "The new coach brought a lot of enthusiasm to the team.",
+            "Her enthusiasm for gardening grew every spring.",
+            "The crowd greeted the band with real enthusiasm."
+          ]
+        },
+        {
+          "word": "daily diary",
+          "def": "A written record of each day, made at the time",
+          "ipa": "/ˈdeɪli ˈdaɪəri/",
+          "ex": [
+            "The nurse asked him to keep a daily diary of his headaches.",
+            "Her daily diary from the trip is full of small details.",
+            "A daily diary of meals can help people see their eating habits."
+          ]
+        },
+        {
+          "word": "physical activity",
+          "def": "Movement of the body, such as walking",
+          "ipa": "/ˈfɪzɪkəl ækˈtɪvəti/",
+          "ex": [
+            "Doctors recommend thirty minutes of physical activity a day.",
+            "Gardening counts as physical activity, too.",
+            "Children need physical activity to sleep well at night."
+          ]
+        },
+        {
+          "word": "objectively",
+          "def": "Based on facts, not on opinions or feelings",
+          "ipa": "/əbˈdʒɛktɪvli/",
+          "ex": [
+            "The judges scored each dive objectively with a points system.",
+            "It is hard to look at your own work objectively.",
+            "Blood pressure can be measured objectively with a simple device."
+          ]
+        },
+        {
+          "word": "step count",
+          "def": "The number of steps a person walks",
+          "ipa": "/stɛp kaʊnt/",
+          "ex": [
+            "My step count was over twelve thousand after the hike.",
+            "The watch shows your step count on the home screen.",
+            "A low step count on rainy days is normal for most people."
+          ]
+        },
+        {
+          "word": "side by side",
+          "def": "Next to each other, so they can be compared",
+          "ipa": "/saɪd baɪ saɪd/",
+          "ex": [
+            "The two photos were placed side by side to spot the changes.",
+            "The report shows this year's sales side by side with last year's.",
+            "We compared the two phones side by side before choosing one."
+          ]
+        },
+        {
+          "word": "pattern",
+          "def": "Something that happens again in the same way",
+          "ipa": "/ˈpætərn/",
+          "ex": [
+            "The doctor noticed a pattern in her sleep problems.",
+            "Sales follow the same pattern every December.",
+            "There is a clear pattern of late arrivals on Mondays."
+          ]
+        },
+        {
+          "word": "contentment",
+          "def": "A quiet feeling of being satisfied",
+          "ipa": "/kənˈtɛntmənt/",
+          "ex": [
+            "He felt a deep contentment sitting by the lake at sunset.",
+            "For her, contentment is a good book and a cup of tea.",
+            "The survey measured contentment rather than excitement."
+          ]
+        },
+        {
+          "word": "relaxation",
+          "def": "A calm state, free from stress",
+          "ipa": "/ˌriˌlækˈseɪʃən/",
+          "ex": [
+            "Yoga is her favorite form of relaxation.",
+            "The spa promises total relaxation in one afternoon.",
+            "Quiet music helps with relaxation before sleep."
+          ]
+        },
+        {
+          "word": "connection",
+          "def": "A relationship between two things",
+          "ipa": "/kəˈnɛkʃən/",
+          "ex": [
+            "Scientists found a connection between sleep and memory.",
+            "There is no connection between the two events.",
+            "The study explored the connection between diet and mood."
+          ]
+        },
+        {
+          "word": "sitting time",
+          "def": "The number of minutes spent sitting",
+          "ipa": "/ˈsɪtɪŋ taɪm/",
+          "ex": [
+            "Office workers often have eight hours of sitting time a day.",
+            "The device measured sitting time as well as steps.",
+            "Long sitting time is linked to back pain in many adults."
+          ]
+        },
+        {
+          "word": "cause",
+          "def": "The thing that makes something happen",
+          "ipa": "/kɔz/",
+          "ex": [
+            "Investigators are still looking for the cause of the fire.",
+            "Stress is a common cause of headaches.",
+            "The study could not identify the cause of the change."
+          ]
+        },
+        {
+          "word": "proof",
+          "def": "Facts that show something is certainly true",
+          "ipa": "/pruf/",
+          "ex": [
+            "The lawyer needs proof that the letter was sent.",
+            "One good day is not proof that the medicine works.",
+            "They asked for proof of address before opening the account."
+          ]
+        },
+        {
+          "word": "explanations",
+          "def": "Reasons given for why something happens",
+          "ipa": "/ˌɛkspləˈneɪʃənz/",
+          "ex": [
+            "There are several possible explanations for the missing money.",
+            "The teacher listened to his explanations and forgave the delay.",
+            "Scientists offered two explanations for the strange lights."
+          ]
+        },
+        {
+          "word": "future studies",
+          "def": "Research that will be done later",
+          "ipa": "/ˈfjutʃər ˈstʌdiz/",
+          "ex": [
+            "Future studies will test the drug in larger groups.",
+            "The authors suggest questions for future studies.",
+            "Future studies may follow the same people for several years."
+          ]
+        },
+        {
+          "word": "generations",
+          "def": "Groups of people of about the same age in a family",
+          "ipa": "/ˌdʒɛnəˈreɪʃənz/",
+          "ex": [
+            "Three generations live together in that house.",
+            "The recipe has been passed from one generation to the next for a century.",
+            "Different generations often enjoy different kinds of music."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A nine-day diary study found that older adults took more steps and felt happier on days spent with younger family members. The study shows a link, not a cause.",
+          "a": true,
+          "why": "Researchers tracked 265 people with diaries and objective activity measures, and older adults moved more and felt better on days with more time with younger relatives, though the study cannot rule out other explanations."
+        },
+        {
+          "s": "A nine-day diary study found that older adults took more steps and felt happier on days spent with anyone at all. Friends and neighbors had the same effect as family.",
+          "a": false,
+          "why": "Close, but time spent with people who were not younger family members showed no connection to step count or sitting time."
+        },
+        {
+          "s": "A nine-day walking program helped older adults sleep better and feel calmer at night, according to a new study. The program is now being tested in several cities.",
+          "a": false,
+          "why": "The study did not test a walking program at all; it tracked what people did and felt day by day and found a link between family time and activity."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The researchers kept track of activity with step counts and sitting time.",
+          "a": true,
+          "why": "Physical activity was measured objectively, by step count and by the minutes each person spent sitting, rather than from memory."
+        },
+        {
+          "s": "The participants filled in a daily diary for nine weeks.",
+          "a": false,
+          "why": "Each person filled in a daily diary for nine days, not nine weeks."
+        },
+        {
+          "s": "Calm feelings before bed held up across every age in the study.",
+          "a": true,
+          "why": "People of all ages reported more contentment and relaxation as they wound down on days with more time with younger family members."
+        },
+        {
+          "s": "Time with people who were not younger relatives also showed up in the step data.",
+          "a": false,
+          "why": "The link did not show up for other company, because time with people who were not younger family members had no connection to step count or sitting time."
+        },
+        {
+          "s": "The study found a link between family time and steps, not a cause.",
+          "a": true,
+          "why": "Nine days of diaries do not add up to proof, and the study cannot rule out other explanations."
+        },
+        {
+          "s": "The study proved that visits from younger relatives cheer up older adults.",
+          "a": false,
+          "why": "The results do not show that a visit cheers up an older person; they show only that family days and active days were often the same days."
+        }
+      ]
+    },
+    {
+      "id": "personalized-pricing-algorithms-2026",
+      "number": 139,
+      "headline": "FTC wants stores to reveal when data sets your price",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n139-personalized-pricing-algorithms-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Personalized pricing: Why some pay more than others",
+          "url": "https://amp.dw.com/en/personalized-pricing-why-some-pay-more-than-others/video-79148967"
+        },
+        {
+          "title": "FTC moves to make retailers disclose use of 'personalized pricing'",
+          "url": "https://fortune.com/2026/08/24/ftc-retailers-personalized-pricing-consumer-surveillance/"
+        },
+        {
+          "title": "FTC Proposes Enforcement Policy Statement on Personalized Pricing (Skadden)",
+          "url": "https://www.skadden.com/insights/publications/2026/08/ftc-proposes-enforcement-policy-statement-on-personalized-pricing"
+        },
+        {
+          "title": "FTC targets online pricing based on shoppers' personal data (video, KHOU 11)",
+          "url": "https://www.youtube.com/watch?v=YXEt1CToZGA"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Two people can look at the same product online and see two different prices. This is called [[personalized pricing]]. [[Retailers]] use [[personal data]] to {{size up}} each shopper and estimate how much that person is [[willing]] to pay. If the system thinks you will {{pay up}}, it can {{mark up}} the price just for you. Another shopper may see a lower price for the same item. Most people never know, so they cannot {{opt out}}.",
+          "verbs": [
+            {
+              "display": "size up",
+              "base": "size up",
+              "correct": "To judge someone carefully before acting",
+              "wrong": "To pack a customer's order for shipping",
+              "correctFirst": true,
+              "why": "A boxer sizes up his opponent before the first punch, and a landlord sizes up a new tenant during the visit. Retailers size up each shopper with personal data to estimate how much that person will pay."
+            },
+            {
+              "display": "pay up",
+              "base": "pay up",
+              "correct": "To give money, even when you do not want to",
+              "wrong": "To return money that someone lent you",
+              "correctFirst": false,
+              "why": "A driver pays up when the parking fine arrives, and a tenant pays up when the landlord knocks for the rent. If the system thinks a shopper will pay up, it can raise the price for that person."
+            },
+            {
+              "display": "mark up",
+              "base": "mark up",
+              "correct": "To raise the price of something",
+              "wrong": "To write a review of a product",
+              "correctFirst": true,
+              "why": "A cafe marks up bottled water in summer, and a hotel marks up rooms during a big festival. Stores can mark up the price for a shopper who seems willing to pay more."
+            },
+            {
+              "display": "opt out",
+              "base": "opt out",
+              "correct": "To choose not to be part of something",
+              "wrong": "To have no more of a product to sell",
+              "correctFirst": false,
+              "why": "You can opt out of a company's marketing emails, and a student can opt out of the school trip. Most shoppers cannot opt out of personalized pricing because they never know it is happening."
+            }
+          ]
+        },
+        {
+          "text": "The Federal Trade Commission wants that to change. On August 19, 2026, the [[agency]] {{put forward}} an [[enforcement]] [[policy statement]] on personalized pricing and asked the public to {{weigh in}}. The [[comment period]] ran until September 18. Under the [[proposal]], a company would have to tell shoppers when personal data is setting their individual price. A company that hides the [[practice]] could be breaking the law against unfair or [[deceptive]] practices. That would let the FTC {{crack down on}} stores that stay quiet.",
+          "verbs": [
+            {
+              "display": "put forward",
+              "base": "put forward",
+              "correct": "To suggest a plan for others to consider",
+              "wrong": "To delay something until a later time",
+              "correctFirst": true,
+              "why": "A coach puts forward a new training plan, and a neighbor puts forward an idea for the block party. In August 2026 the FTC put forward an enforcement policy statement on personalized pricing."
+            },
+            {
+              "display": "weigh in",
+              "base": "weigh in",
+              "correct": "To give your opinion on a topic",
+              "wrong": "To make money from a situation",
+              "correctFirst": false,
+              "why": "Parents weigh in on the new school schedule, and fans weigh in on a team's new logo. The FTC asked the public to weigh in, and the comment period ran until September 18."
+            },
+            {
+              "display": "crack down on",
+              "base": "crack down on",
+              "correct": "To start dealing strictly with a problem",
+              "wrong": "To admit you were wrong and stop arguing",
+              "correctFirst": true,
+              "why": "A city cracks down on illegal parking, and a school cracks down on cheating during exams. Under the proposal, the FTC could crack down on stores that hide the use of personal data in pricing."
+            }
+          ]
+        },
+        {
+          "text": "The agency has been studying these tools [[for some time]]. In July 2024 the FTC ordered eight pricing-technology companies to {{hand over}} information about how their systems work. The study that followed was published in January 2025. It {{tracked down}} at least 250 [[clients]] of those eight companies, including [[grocery]] retailers. The software, [[in other words]], is not a rare [[experiment]]. It has reached the stores where many people buy their food.",
+          "verbs": [
+            {
+              "display": "hand over",
+              "base": "hand over",
+              "correct": "To give something to someone in charge",
+              "wrong": "To share printed papers with a group",
+              "correctFirst": false,
+              "why": "A driver hands over his license to the police officer, and a passenger hands over her passport at the border. In July 2024 the FTC ordered eight pricing-technology companies to hand over information about their systems."
+            },
+            {
+              "display": "tracked down",
+              "base": "track down",
+              "correct": "To find something after a careful search",
+              "wrong": "To say no to an offer or a request",
+              "correctFirst": true,
+              "why": "A librarian tracks down a rare book for a reader, and a mechanic tracks down the cause of a strange noise. The study published in January 2025 tracked down at least 250 clients of those eight companies."
+            }
+          ]
+        },
+        {
+          "text": "What kind of data feeds these systems? The list is long: precise location, [[browser history]], shopping [[behavior]], [[demographics]] and [[credit history]]. Even your mouse movements can {{give away}} clues about you. Once the software has {{figured out}} your limit, the price follows. The proposal would not end the practice. If it takes effect, people will at least {{find out}} when their data is setting the price. Then they can decide whether to buy or {{walk away}}.",
+          "verbs": [
+            {
+              "display": "give away",
+              "base": "give away",
+              "correct": "To show something without meaning to",
+              "wrong": "To agree to something after resisting",
+              "correctFirst": false,
+              "why": "A nervous smile gives away a surprise party, and a child's face gives away who ate the cookies. Even a shopper's mouse movements can give away clues about how they shop."
+            },
+            {
+              "display": "figured out",
+              "base": "figure out",
+              "correct": "To understand something after thinking",
+              "wrong": "To write information on a form",
+              "correctFirst": true,
+              "why": "A student figures out a hard math problem, and a couple figures out the fastest route to the airport. Once the software has figured out a shopper's limit, the price follows."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact you did not know",
+              "wrong": "To be tricked by something false",
+              "correctFirst": false,
+              "why": "A patient finds out the results of a blood test, and a fan finds out the concert date from a poster. If the proposal takes effect, shoppers will find out when their data is setting the price."
+            },
+            {
+              "display": "walk away",
+              "base": "walk away",
+              "correct": "To leave instead of accepting a deal",
+              "wrong": "To try a product before you buy it",
+              "correctFirst": true,
+              "why": "A buyer walks away when the car dealer refuses to lower the price, and a worker walks away from a job offer with bad hours. Shoppers who know the price is personalized can decide whether to buy or walk away."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Size up",
+          "def": "To judge someone carefully before acting",
+          "ipa": "/saɪz ʌp/",
+          "ex": [
+            "The coach sized up the new player during practice.",
+            "She sized up the salesman before asking for a discount.",
+            "Dogs size up strangers at the door in seconds."
+          ]
+        },
+        {
+          "verb": "Pay up",
+          "def": "To give money, even when you do not want to",
+          "ipa": "/peɪ ʌp/",
+          "ex": [
+            "The landlord finally made him pay up for the broken window.",
+            "Nobody wanted to pay up when the bill came.",
+            "If you lose the bet, you have to pay up."
+          ]
+        },
+        {
+          "verb": "Mark up",
+          "def": "To raise the price of something",
+          "ipa": "/mɑrk ʌp/",
+          "ex": [
+            "The shop marks up sunglasses by fifty percent.",
+            "Airlines mark up tickets before the holidays.",
+            "The dealer marked up the car after adding new tires."
+          ]
+        },
+        {
+          "verb": "Opt out",
+          "def": "To choose not to be part of something",
+          "ipa": "/ɑpt aʊt/",
+          "ex": [
+            "You can opt out of the newsletter at any time.",
+            "Two students opted out of the class photo.",
+            "Her parents opted out of the school's new app."
+          ]
+        },
+        {
+          "verb": "Put forward",
+          "def": "To suggest a plan for others to consider",
+          "ipa": "/pʊt ˈfɔrwərd/",
+          "ex": [
+            "The mayor put forward a plan for a new bike lane.",
+            "He put forward three ideas at the meeting.",
+            "The union put forward a new offer on pay."
+          ]
+        },
+        {
+          "verb": "Weigh in",
+          "def": "To give your opinion on a topic",
+          "ipa": "/weɪ ɪn/",
+          "ex": [
+            "Thousands of drivers weighed in on the new speed limit.",
+            "The doctor weighed in on the diet debate.",
+            "Please weigh in before we choose the paint color."
+          ]
+        },
+        {
+          "verb": "Crack down on",
+          "def": "To start dealing strictly with a problem",
+          "ipa": "/kræk daʊn ɑn/",
+          "ex": [
+            "Police are cracking down on drunk driving this month.",
+            "The school cracked down on phones in class.",
+            "The city cracked down on illegal street parking."
+          ]
+        },
+        {
+          "verb": "Hand over",
+          "def": "To give something to someone in charge",
+          "ipa": "/hænd ˈoʊvər/",
+          "ex": [
+            "The thief was told to hand over the bag.",
+            "She handed over her ticket at the gate.",
+            "The bank had to hand over the records to the court."
+          ]
+        },
+        {
+          "verb": "Track down",
+          "def": "To find something after a careful search",
+          "ipa": "/træk daʊn/",
+          "ex": [
+            "It took a week to track down the missing package.",
+            "Reporters tracked down the owner of the old photo.",
+            "She tracked down her school friend on social media."
+          ]
+        },
+        {
+          "verb": "Give away",
+          "def": "To show something without meaning to",
+          "ipa": "/ɡɪv əˈweɪ/",
+          "ex": [
+            "His shaking hands gave away how nervous he was.",
+            "Her smile gave away that she already knew the answer.",
+            "The smell of paint gave away that the room was new."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand something after thinking",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I finally figured out how the new oven works.",
+            "The kids figured out the puzzle in ten minutes.",
+            "We need to figure out why the car won't start."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I found out the store closes early on Sundays.",
+            "She found out from a text that her flight was canceled.",
+            "He wants to find out who sent the flowers."
+          ]
+        },
+        {
+          "verb": "Walk away",
+          "def": "To leave instead of accepting a deal",
+          "ipa": "/wɔk əˈweɪ/",
+          "ex": [
+            "The buyers walked away when the seller raised the price.",
+            "She walked away from the contract because the pay was low.",
+            "If the deal feels wrong, just walk away."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "personalized pricing",
+          "def": "Charging each shopper a price based on their own data",
+          "ipa": "/ˈpɜrsənəˌlaɪzd ˈpraɪsɪŋ/",
+          "ex": [
+            "Personalized pricing means your neighbor may pay less than you.",
+            "Some airlines have tested personalized pricing on their apps.",
+            "Critics say personalized pricing is unfair to loyal customers."
+          ]
+        },
+        {
+          "word": "retailers",
+          "def": "Businesses that sell goods to the public",
+          "ipa": "/ˈriteɪlərz/",
+          "ex": [
+            "Big retailers open early on the day after Thanksgiving.",
+            "Online retailers ship most orders within two days.",
+            "Small retailers struggle to compete on price."
+          ]
+        },
+        {
+          "word": "personal data",
+          "def": "Private information about one person",
+          "ipa": "/ˈpɜrsənəl ˈdeɪtə/",
+          "ex": [
+            "The app collects personal data like your age and location.",
+            "Never share personal data with strangers online.",
+            "The company lost personal data in a cyber attack."
+          ]
+        },
+        {
+          "word": "willing",
+          "def": "Ready to do something without refusing",
+          "ipa": "/ˈwɪlɪŋ/",
+          "ex": [
+            "She is willing to work on weekends.",
+            "Few people are willing to pay extra for delivery.",
+            "He was willing to drive us to the airport."
+          ]
+        },
+        {
+          "word": "agency",
+          "def": "A government office with a special job",
+          "ipa": "/ˈeɪdʒənsi/",
+          "ex": [
+            "The health agency issued a warning about the virus.",
+            "A federal agency inspects the food we eat.",
+            "The agency has a small staff and a big task."
+          ]
+        },
+        {
+          "word": "enforcement",
+          "def": "Making sure that people obey a law",
+          "ipa": "/ɪnˈfɔrsmənt/",
+          "ex": [
+            "Without enforcement, a speed limit is just a sign.",
+            "The city hired more officers for parking enforcement.",
+            "Enforcement of the new rule begins in January."
+          ]
+        },
+        {
+          "word": "policy statement",
+          "def": "A document that explains an official plan",
+          "ipa": "/ˈpɑləsi ˈsteɪtmənt/",
+          "ex": [
+            "The agency released a policy statement on online ads.",
+            "The policy statement explains how the rule will be applied.",
+            "Reporters read the policy statement before the press conference."
+          ]
+        },
+        {
+          "word": "comment period",
+          "def": "A set time when the public can give opinions",
+          "ipa": "/ˈkɑmɛnt ˈpɪriəd/",
+          "ex": [
+            "The comment period on the new park plan lasts thirty days.",
+            "Thousands of letters arrived during the comment period.",
+            "The comment period closes at the end of the month."
+          ]
+        },
+        {
+          "word": "proposal",
+          "def": "A formal plan offered for others to accept",
+          "ipa": "/prəˈpoʊzəl/",
+          "ex": [
+            "The council rejected the proposal for a new parking lot.",
+            "Her proposal would cut the school day by one hour.",
+            "The proposal needs a vote before it becomes law."
+          ]
+        },
+        {
+          "word": "practice",
+          "def": "A way of doing something that is common",
+          "ipa": "/ˈpræktɪs/",
+          "ex": [
+            "Tipping is a normal practice in American restaurants.",
+            "The practice of charging for bags started years ago.",
+            "Doctors say the practice is safe when done correctly."
+          ]
+        },
+        {
+          "word": "deceptive",
+          "def": "Making people believe something untrue",
+          "ipa": "/dɪˈsɛptɪv/",
+          "ex": [
+            "The ad was deceptive because the price left out the fees.",
+            "Deceptive labels can make sugar look like health food.",
+            "The court found the sales calls deceptive."
+          ]
+        },
+        {
+          "word": "for some time",
+          "def": "For a fairly long period",
+          "ipa": "/fɔr sʌm taɪm/",
+          "ex": [
+            "They have lived in that house for some time.",
+            "The bridge has needed repairs for some time.",
+            "I have wanted to visit Japan for some time."
+          ]
+        },
+        {
+          "word": "clients",
+          "def": "People or companies that pay for a service",
+          "ipa": "/ˈklaɪənts/",
+          "ex": [
+            "The law firm has clients in three countries.",
+            "A good accountant keeps her clients informed.",
+            "The software company added fifty new clients this year."
+          ]
+        },
+        {
+          "word": "grocery",
+          "def": "Related to stores that sell food",
+          "ipa": "/ˈɡroʊsəri/",
+          "ex": [
+            "The grocery store on the corner closes at nine.",
+            "Grocery prices rose again last month.",
+            "He works the night shift at a grocery warehouse."
+          ]
+        },
+        {
+          "word": "in other words",
+          "def": "Said in a different, simpler way",
+          "ipa": "/ɪn ˈʌðər wɜrdz/",
+          "ex": [
+            "The train is delayed. In other words, we will miss dinner.",
+            "He said no. In other words, the deal is dead.",
+            "In other words, the plan costs more than it saves."
+          ]
+        },
+        {
+          "word": "experiment",
+          "def": "A test to see if an idea works",
+          "ipa": "/ɪkˈspɛrəmənt/",
+          "ex": [
+            "The school ran an experiment with a four-day week.",
+            "The free bus was an experiment that lasted one summer.",
+            "Her experiment with a new recipe was a success."
+          ]
+        },
+        {
+          "word": "browser history",
+          "def": "A record of the websites you have visited",
+          "ipa": "/ˈbraʊzər ˈhɪstəri/",
+          "ex": [
+            "He cleared his browser history before lending the laptop.",
+            "Your browser history shows every site you opened this week.",
+            "Some ads are based on your browser history."
+          ]
+        },
+        {
+          "word": "behavior",
+          "def": "The way a person acts",
+          "ipa": "/bɪˈheɪvjər/",
+          "ex": [
+            "The teacher praised the class for good behavior.",
+            "Apps study your behavior to guess what you like.",
+            "His behavior at the party surprised everyone."
+          ]
+        },
+        {
+          "word": "demographics",
+          "def": "Facts like age, sex and income of a group",
+          "ipa": "/ˌdɛməˈɡræfɪks/",
+          "ex": [
+            "The demographics of the town are changing fast.",
+            "Advertisers study the demographics of each TV show.",
+            "The survey collected basic demographics from every visitor."
+          ]
+        },
+        {
+          "word": "credit history",
+          "def": "A record of how a person has borrowed and paid",
+          "ipa": "/ˈkrɛdɪt ˈhɪstəri/",
+          "ex": [
+            "A good credit history helps you get a cheaper loan.",
+            "Late payments stay on your credit history for years.",
+            "The bank checked her credit history before approving the card."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "The FTC wants stores to tell shoppers when personal data is used to set their price. Companies that hide the practice could be breaking the law.",
+          "a": true,
+          "why": "In August 2026 the agency put forward an enforcement policy statement, and a company that stays quiet could face the law against unfair or deceptive practices."
+        },
+        {
+          "s": "The FTC has proposed a ban on stores using personal data to set individual prices. Companies that keep doing it anyway could be breaking the law.",
+          "a": false,
+          "why": "Close, but the proposal would not end the practice. It only asks stores to tell shoppers when personal data is setting their price."
+        },
+        {
+          "s": "Eight grocery chains agreed to show every shopper the same price after a customer lawsuit. The stores will also delete all the data they collected.",
+          "a": false,
+          "why": "No lawsuit or agreement is reported. The FTC put forward a proposal about telling shoppers, and it asked the public to weigh in."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The FTC asked the public to weigh in on its proposal about personalized pricing.",
+          "a": true,
+          "why": "In August 2026 the agency put forward an enforcement policy statement and opened a comment period that ran until September 18."
+        },
+        {
+          "s": "In July 2024 the FTC ordered twenty companies to hand over information about their tools.",
+          "a": false,
+          "why": "The order went to eight pricing-technology companies, and the study that followed tracked down at least 250 of their clients."
+        },
+        {
+          "s": "The study published in January 2025 tracked down at least 250 clients of the eight companies.",
+          "a": true,
+          "why": "Those clients included grocery retailers, which shows the software has reached the stores where many people buy food."
+        },
+        {
+          "s": "The proposal would ban stores from marking up prices for individual shoppers.",
+          "a": false,
+          "why": "The proposal would not end the practice. It would only make a company tell shoppers when personal data is setting their price."
+        },
+        {
+          "s": "Mouse movements are one kind of data that can give away clues about a shopper.",
+          "a": true,
+          "why": "The list of data also includes precise location, browser history, shopping behavior, demographics and credit history."
+        },
+        {
+          "s": "The comment period on the FTC proposal ran until the end of October.",
+          "a": false,
+          "why": "It ran until September 18, 2026, after the agency put forward the proposal in August."
+        }
+      ]
+    },
+    {
+      "id": "flash-panning-dating-2026",
+      "number": 138,
+      "headline": "Flash-panning: romance that starts hot, ends in silence",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n138-flash-panning-dating-2026-flat.webp",
+      "position": "center 35%",
+      "sources": [
+        {
+          "title": "What is flash-panning? (News in Levels)",
+          "url": "https://www.newsinlevels.com/products/what-is-flash-panning-level-3/"
+        },
+        {
+          "title": "Flashpanning Is Yet Another Troubling Dating Trend Fueled By Commitment-Phobes (Glam)",
+          "url": "https://www.glam.com/1218958/flashpanning-is-yet-another-troubling-dating-trend-fueled-by-commitment-phobes/"
+        },
+        {
+          "title": "New Dating Trend: Flashpanning (G105, iHeart)",
+          "url": "https://g105.iheart.com/content/2019-03-27-new-dating-trend-flashpanning/"
+        },
+        {
+          "title": "Dating Games: 5 Signs of a 'Flashpanner' (video, Susan Winter)",
+          "url": "https://www.youtube.com/watch?v=NWOMHbNcLw0"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Dating experts have a name for a [[romance]] that starts fast and ends in silence: [[flash-panning]]. The [[pattern]] begins like a movie. Two people meet and {{hit it off}} so well that they talk every night and see each other every day. There are gifts, dates, and big [[promises]]. One person is [[swept off their feet]] and {{falls for}} the other completely. The new [[couple]] even {{show off}} the romance online, where every photo looks like a [[perfect match]]. Then, within weeks, one partner vanishes, and the ending is [[cruel]].",
+          "verbs": [
+            {
+              "display": "hit it off",
+              "base": "hit it off",
+              "correct": "To like each other right away",
+              "wrong": "To meet someone for the first time",
+              "correctFirst": true,
+              "why": "Two strangers can hit it off at a party, and new coworkers sometimes hit it off on the very first day. This couple hit it off so well that they were talking every night and seeing each other daily."
+            },
+            {
+              "display": "falls for",
+              "base": "fall for",
+              "correct": "To begin to love someone",
+              "wrong": "To wait for someone patiently",
+              "correctFirst": false,
+              "why": "A neighbor can fall for the person who walks her dog every morning, and sometimes people fall for someone before they really know that person. One person falls for the other quickly, charmed by gifts, dates, and big promises before ordinary life begins."
+            },
+            {
+              "display": "show off",
+              "base": "show off",
+              "correct": "To display something proudly",
+              "wrong": "To arrive at a planned meeting",
+              "correctFirst": true,
+              "why": "Kids show off a new bike to friends, and travelers show off vacation photos online. This couple showed off their romance online, where every picture looked like a perfect match."
+            }
+          ]
+        },
+        {
+          "text": "Then [[ordinary]] life {{comes along}}: work schedules, tired evenings, and small [[disagreements]]. For most couples, this is where the real work of love begins. For a flashpanner, it is the [[exit]]. The excitement {{wears off}}, and the flashpanner begins {{pulling away}}, answering less and less each day. Soon that partner disappears completely, without a fight and without an [[explanation]]. The person {{left behind}} keeps asking the same question: what did I do wrong?",
+          "verbs": [
+            {
+              "display": "comes along",
+              "base": "come along",
+              "correct": "To arrive or appear",
+              "wrong": "To find something by chance",
+              "correctFirst": false,
+              "why": "A good opportunity can come along when you least expect it, and sometimes trouble comes along just as things feel settled. Here ordinary life comes along, with work schedules, tired evenings, and small disagreements."
+            },
+            {
+              "display": "wears off",
+              "base": "wear off",
+              "correct": "To slowly disappear over time",
+              "wrong": "To make someone tired over time",
+              "correctFirst": true,
+              "why": "The excitement of a new job can wear off after a few months, and the thrill of new shoes can wear off after one wear. For a flashpanner, the early excitement wears off the moment real life starts."
+            },
+            {
+              "display": "pulling away",
+              "base": "pull away",
+              "correct": "To slowly become more distant",
+              "wrong": "To succeed at something hard",
+              "correctFirst": false,
+              "why": "A friend can pull away after moving to a new city, and a quiet student may pull away from the rest of the class over a long semester. The flashpanner starts pulling away by answering messages later and later each day."
+            },
+            {
+              "display": "left behind",
+              "base": "leave behind",
+              "correct": "To go and not take someone with you",
+              "wrong": "To carry someone a long way",
+              "correctFirst": true,
+              "why": "A fast hiker can leave behind slower friends on a trail, and a school bus can leave behind a student who arrives one minute late. A flashpanner disappears completely and leaves the other person behind, confused and hurt."
+            }
+          ]
+        },
+        {
+          "text": "Why do people do this? Relationship expert Susan Winter says flashpanners love the [[electric]] first weeks but cannot {{deal with}} boring Tuesdays and real [[compromise]]. Many never learned that small fights are a normal part of love, and the root cause is a fear of commitment. They will not {{open up}} about a problem; they simply vanish. The pattern is not new: a radio station website described it in 2019, and Winter explained it in 2023. It starts like [[love bombing]], with [[extreme]] attention and gifts, but the flashpanner leaves within weeks, and the romance usually ends in [[ghosting]].",
+          "verbs": [
+            {
+              "display": "deal with",
+              "base": "deal with",
+              "correct": "To handle a difficult situation",
+              "wrong": "To forget an old memory",
+              "correctFirst": true,
+              "why": "Nurses deal with stress every shift, and parents deal with tantrums calmly. Flashpanners love the exciting first weeks but cannot deal with boring Tuesdays and the compromise real love needs."
+            },
+            {
+              "display": "open up",
+              "base": "open up",
+              "correct": "To talk about private feelings",
+              "wrong": "To make a joke of something",
+              "correctFirst": false,
+              "why": "Close friends open up about their fears late at night, and therapy helps some people open up for the first time. Flashpanners will not open up about a problem; instead of talking, they simply vanish."
+            }
+          ]
+        },
+        {
+          "text": "The harm is real. After weeks of [[closeness]], the sudden silence is deeply painful. It is hard to {{get over}} someone who simply disappeared, and many people are left with less trust in dating. Experts say the best [[defense]] is to be honest about what you want and to take things slowly, with a little [[patience]]. So {{watch out for}} the [[warning signs]]: a [[flawless]] first week, gifts and big promises, and [[excitement]] that feels too strong too soon. Real love grows more slowly, and it survives boring Tuesdays.",
+          "verbs": [
+            {
+              "display": "get over",
+              "base": "get over",
+              "correct": "To feel better after something bad",
+              "wrong": "To stop talking to someone on purpose",
+              "correctFirst": true,
+              "why": "It takes time to get over a bad cold, and some people never fully get over their first heartbreak. It is hard to get over someone who disappeared without any explanation."
+            },
+            {
+              "display": "watch out for",
+              "base": "watch out for",
+              "correct": "To be careful about a danger",
+              "wrong": "To choose quickly without thinking",
+              "correctFirst": false,
+              "why": "Drivers watch out for ice on the road, and shoppers watch out for hidden fees on cheap deals. Experts say to watch out for a flawless first week, early gifts, and promises that feel too big too soon."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Hit it off",
+          "def": "To like each other right away",
+          "ipa": "/hɪt ɪt ɔf/",
+          "ex": [
+            "The two dogs hit it off at the park.",
+            "We hit it off at the conference and stayed friends.",
+            "My mom and my coach hit it off immediately."
+          ]
+        },
+        {
+          "verb": "Fall for",
+          "def": "To begin to love someone",
+          "ipa": "/fɔl fɔr/",
+          "ex": [
+            "He fell for her the first time she laughed.",
+            "People often fall for someone who makes them feel safe.",
+            "She fell for the quiet boy in her art class."
+          ]
+        },
+        {
+          "verb": "Show off",
+          "def": "To display something proudly",
+          "ipa": "/ʃoʊ ɔf/",
+          "ex": [
+            "He loves to show off his new bike.",
+            "The chef showed off her fastest knife skills.",
+            "She showed off her new painting to the whole class."
+          ]
+        },
+        {
+          "verb": "Come along",
+          "def": "To arrive or appear",
+          "ipa": "/kʌm əˈlɔŋ/",
+          "ex": [
+            "A great job offer came along last spring.",
+            "Wait patiently, and the right chance will come along.",
+            "Trouble always comes along when you least expect it."
+          ]
+        },
+        {
+          "verb": "Wear off",
+          "def": "To slowly disappear over time",
+          "ipa": "/wɛr ɔf/",
+          "ex": [
+            "The medicine wears off after four hours.",
+            "The paint smell wore off in a few days.",
+            "The fun of the new toy wore off quickly."
+          ]
+        },
+        {
+          "verb": "Pull away",
+          "def": "To slowly become more distant",
+          "ipa": "/pʊl əˈweɪ/",
+          "ex": [
+            "After the argument, she pulled away from her friends.",
+            "He pulled away whenever the talk got serious.",
+            "Teenagers often pull away from their parents for a while."
+          ]
+        },
+        {
+          "verb": "Leave behind",
+          "def": "To go and not take someone with you",
+          "ipa": "/liv bɪˈhaɪnd/",
+          "ex": [
+            "He moved fast and left the others behind.",
+            "They left her behind when they went to the movies.",
+            "Do not leave your little brother behind."
+          ]
+        },
+        {
+          "verb": "Deal with",
+          "def": "To handle a difficult situation",
+          "ipa": "/dil wɪθ/",
+          "ex": [
+            "Nurses deal with stress every single day.",
+            "She dealt with the angry customer calmly.",
+            "I cannot deal with loud music in the morning."
+          ]
+        },
+        {
+          "verb": "Open up",
+          "def": "To talk about private feelings",
+          "ipa": "/ˈoʊpən ʌp/",
+          "ex": [
+            "It took him years to open up about his childhood.",
+            "She finally opened up to her doctor.",
+            "Some students open up more in small groups."
+          ]
+        },
+        {
+          "verb": "Get over",
+          "def": "To feel better after something bad",
+          "ipa": "/ɡɛt ˈoʊvər/",
+          "ex": [
+            "It took me a month to get over that cold.",
+            "He never got over losing the final game.",
+            "It took him weeks to get over the bad news."
+          ]
+        },
+        {
+          "verb": "Watch out for",
+          "def": "To be careful about a danger",
+          "ipa": "/wɑtʃ aʊt fɔr/",
+          "ex": [
+            "Watch out for ice on the steps.",
+            "Drivers should watch out for children near schools.",
+            "Watch out for hidden fees on cheap tickets."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "swept off their feet",
+          "def": "Filled with sudden, strong romantic feelings",
+          "ipa": "/swɛpt ɔf ðɛr fit/",
+          "ex": [
+            "The fans were swept off their feet by the singer.",
+            "My grandparents were swept off their feet at a dance in 1970.",
+            "Many people want to be swept off their feet, not rushed."
+          ]
+        },
+        {
+          "word": "romance",
+          "def": "A relationship full of love and excitement",
+          "ipa": "/roʊˈmæns/",
+          "ex": [
+            "Their romance began on a train in Italy.",
+            "The movie is a comedy with a little romance.",
+            "A summer romance can end when school starts."
+          ]
+        },
+        {
+          "word": "perfect match",
+          "def": "Two people who seem exactly right together",
+          "ipa": "/ˈpɜrfɪkt mætʃ/",
+          "ex": [
+            "Everyone said they were a perfect match.",
+            "The app promised to find her a perfect match.",
+            "A perfect match on paper can still fail."
+          ]
+        },
+        {
+          "word": "flash-panning",
+          "def": "Starting a romance fast, then leaving when it gets real",
+          "ipa": "/flæʃ ˈpænɪŋ/",
+          "ex": [
+            "Flash-panning leaves people confused and hurt.",
+            "She read an article about flash-panning.",
+            "His third short romance looked like flash-panning."
+          ]
+        },
+        {
+          "word": "disagreements",
+          "def": "Small fights about ideas or plans",
+          "ipa": "/ˌdɪsəˈɡrimənts/",
+          "ex": [
+            "They had disagreements about money.",
+            "Small disagreements are normal between friends.",
+            "The sisters solved their disagreements by talking."
+          ]
+        },
+        {
+          "word": "compromise",
+          "def": "Accepting less so both sides are happy",
+          "ipa": "/ˈkɑmprəmaɪz/",
+          "ex": [
+            "Marriage is full of compromise.",
+            "They reached a compromise about the vacation.",
+            "Compromise means nobody wins everything."
+          ]
+        },
+        {
+          "word": "ghosting",
+          "def": "Suddenly ending all contact with no explanation",
+          "ipa": "/ˈɡoʊstɪŋ/",
+          "ex": [
+            "Ghosting is common on dating apps.",
+            "After two nice chats, he chose ghosting instead of honesty.",
+            "She hates ghosting and always sends a goodbye message."
+          ]
+        },
+        {
+          "word": "love bombing",
+          "def": "Extreme attention used to control a partner",
+          "ipa": "/lʌv ˈbɑmɪŋ/",
+          "ex": [
+            "Daily gifts in week one can be love bombing.",
+            "Love bombing often looks generous at first.",
+            "A counselor explained the danger of love bombing."
+          ]
+        },
+        {
+          "word": "warning signs",
+          "def": "Early clues that something is wrong",
+          "ipa": "/ˈwɔrnɪŋ saɪnz/",
+          "ex": [
+            "The coach noticed warning signs of burnout early.",
+            "Falling grades can be warning signs of stress.",
+            "Dark clouds are warning signs of a storm."
+          ]
+        },
+        {
+          "word": "excitement",
+          "def": "A feeling of high energy and interest",
+          "ipa": "/ɪkˈsaɪtmənt/",
+          "ex": [
+            "The kids screamed with excitement.",
+            "Her excitement about the trip kept her awake.",
+            "The game's excitement lasted until the final second."
+          ]
+        },
+        {
+          "word": "promises",
+          "def": "Statements that you will surely do something",
+          "ipa": "/ˈprɑmɪsɪz/",
+          "ex": [
+            "Politicians make promises before elections.",
+            "He keeps his promises, even small ones.",
+            "Empty promises destroy friendships."
+          ]
+        },
+        {
+          "word": "couple",
+          "def": "Two people in a romantic relationship",
+          "ipa": "/ˈkʌpəl/",
+          "ex": [
+            "The couple danced until midnight.",
+            "An older couple bought the house.",
+            "The couple argued about the map."
+          ]
+        },
+        {
+          "word": "pattern",
+          "def": "A way things repeat again and again",
+          "ipa": "/ˈpætərn/",
+          "ex": [
+            "The detective noticed a pattern in the robberies.",
+            "Her sleep pattern changed in winter.",
+            "The losses followed a clear pattern."
+          ]
+        },
+        {
+          "word": "cruel",
+          "def": "Causing pain without caring",
+          "ipa": "/ˈkruəl/",
+          "ex": [
+            "The joke felt cruel, not funny.",
+            "It was cruel to laugh at the new student.",
+            "It was cruel to promise and not come."
+          ]
+        },
+        {
+          "word": "ordinary",
+          "def": "Normal and not special",
+          "ipa": "/ˈɔrdənɛri/",
+          "ex": [
+            "It was an ordinary Tuesday until the call.",
+            "She turns ordinary food into art.",
+            "Ordinary days make up most of life."
+          ]
+        },
+        {
+          "word": "exit",
+          "def": "The way out of a place or situation",
+          "ipa": "/ˈɛɡzɪt/",
+          "ex": [
+            "The exit is behind the stage.",
+            "He looked for an early exit from the deal.",
+            "Use the north exit during the game."
+          ]
+        },
+        {
+          "word": "explanation",
+          "def": "Words that make something clear",
+          "ipa": "/ˌɛkspləˈneɪʃən/",
+          "ex": [
+            "The teacher's explanation helped everyone.",
+            "There was no explanation for the delay.",
+            "Her explanation took only a minute."
+          ]
+        },
+        {
+          "word": "electric",
+          "def": "Very exciting and full of energy",
+          "ipa": "/ɪˈlɛktrɪk/",
+          "ex": [
+            "The mood in the stadium was electric.",
+            "Their first conversation felt electric.",
+            "The city is electric on New Year's Eve."
+          ]
+        },
+        {
+          "word": "extreme",
+          "def": "Far beyond what is normal",
+          "ipa": "/ɪkˈstrim/",
+          "ex": [
+            "The desert has extreme heat.",
+            "He trains at an extreme level.",
+            "Extreme fans slept outside the store."
+          ]
+        },
+        {
+          "word": "closeness",
+          "def": "A warm feeling of being connected",
+          "ipa": "/ˈkloʊsnəs/",
+          "ex": [
+            "The twins share a special closeness.",
+            "Cooking together builds closeness.",
+            "She missed the closeness of her old team."
+          ]
+        },
+        {
+          "word": "defense",
+          "def": "Something that protects you",
+          "ipa": "/dɪˈfɛns/",
+          "ex": [
+            "Sunscreen is your defense against burns.",
+            "Laughter was his defense in hard times.",
+            "The castle's best defense was the sea."
+          ]
+        },
+        {
+          "word": "patience",
+          "def": "The ability to wait calmly",
+          "ipa": "/ˈpeɪʃəns/",
+          "ex": [
+            "Fishing takes patience.",
+            "Her patience with the puppy was worth it.",
+            "His patience ran out in the traffic."
+          ]
+        },
+        {
+          "word": "flawless",
+          "def": "Perfect, with no mistakes",
+          "ipa": "/ˈflɔləs/",
+          "ex": [
+            "Her final jump was flawless.",
+            "The diamond looked flawless.",
+            "He gave a flawless answer in the interview."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Flash-panning is a dating pattern where someone starts a romance with great energy and then disappears when ordinary life begins. Experts say daters should learn the signs.",
+          "a": true,
+          "why": "Flash-panning starts with an intense few weeks and ends in a sudden exit when work schedules and small disagreements arrive."
+        },
+        {
+          "s": "In flash-panning, a romance begins with intense attention and ends in sudden silence. Experts blame the other partner, who pushes for a serious commitment far too soon.",
+          "a": false,
+          "why": "Close, but the cause is the flashpanner's own fear of commitment, not pressure from the partner. Flashpanners cannot deal with boring days and real compromise."
+        },
+        {
+          "s": "A dating app added a tool that warns users when a new match sends too many messages too quickly. Millions of daters have already turned the new warning on their phones.",
+          "a": false,
+          "why": "No dating app or new tool is involved. Flash-panning is a dating pattern, and the advice is to watch out for its warning signs."
+        }
+      ],
+      "tf": [
+        {
+          "s": "In a flash-panning romance, the first days are quiet and slow.",
+          "a": false,
+          "why": "The start is intense. The two people hit it off fast, with constant dates, texts, and big promises."
+        },
+        {
+          "s": "Flashpanners often pull away when everyday problems come along.",
+          "a": true,
+          "why": "When schedules and small disagreements appear, the excitement wears off and they start to disappear."
+        },
+        {
+          "s": "The expert says many flashpanners never learned that small fights are normal in love.",
+          "a": true,
+          "why": "She says they cannot deal with the boring days and compromise that real relationships need."
+        },
+        {
+          "s": "The flashpanner usually leaves after several months.",
+          "a": false,
+          "why": "The flashpanner pulls away within weeks, and the romance usually ends in ghosting."
+        },
+        {
+          "s": "The advice is to watch out for a romance that feels perfect from day one.",
+          "a": true,
+          "why": "A flawless first week, early gifts, and big promises can be warning signs."
+        },
+        {
+          "s": "The flash-panning pattern was first described in 2023.",
+          "a": false,
+          "why": "A radio station website described the pattern in 2019. In 2023 the expert explained why flashpanners cannot deal with real compromise."
+        }
+      ]
+    },
+    {
+      "id": "gen-x-influencers-2026",
+      "number": 137,
+      "headline": "Gen X creators are winning fans on TikTok",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n137-gen-x-influencers-2026-flat.webp",
+      "position": "center 35%",
+      "sources": [
+        {
+          "title": "Are my gen X peers the influencers the world has been waiting for? (The Guardian)",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/04/my-gen-x-peers-influencers"
+        },
+        {
+          "title": "This Gen Xer spent 28 years in a cubicle and never made more than $70,000. At 59, she made $500,000 in the creator economy (Fortune)",
+          "url": "https://fortune.com/2026/08/31/gen-x-creator-economy-ugc-tiktok-shop/"
+        },
+        {
+          "title": "Overlooked and Under-Marketed: \"Gen X\" Emerges as Most Influential Global Consumer Cohort, According to NIQ and World Data Lab (NIQ)",
+          "url": "https://nielseniq.com/global/en/news-center/2025/overlooked-and-under-marketed-gen-x-emerges-as-most-influential-global-consumer-cohort/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 4, 2026, a British writer published an [[opinion column]] in the Guardian about her generation. She is 51 and part of Generation X, people born between 1965 and 1980. She said a [[marketing expert]] on TikTok had told viewers to stop {{sleeping on}} Gen X. In his view, Gen X has become a strong but [[underrated]] force online. She asked whether her [[peers]] could {{take over}} as the next big influencers.",
+          "verbs": [
+            {
+              "display": "sleeping on",
+              "base": "sleep on",
+              "correct": "To fail to see how good someone is",
+              "wrong": "To pay someone to post an ad",
+              "correctFirst": true,
+              "why": "Critics slept on the movie when it first came out. Don't sleep on our goalie, because she is very good. A marketing expert on TikTok told viewers to stop sleeping on Gen X."
+            },
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To become the new leader",
+              "wrong": "To leave a job for a new one",
+              "correctFirst": false,
+              "why": "Who will take over as captain next year? She took over as manager when her boss retired. The writer asked whether her Gen X peers could take over as the next big influencers."
+            }
+          ]
+        },
+        {
+          "text": "Gen X has a lot of [[buying power]]. A [[market research]] company reported in July 2025 that Gen X became the world's top-spending generation in 2021. Gen X women [[influence]] 70 to 80 percent of [[household]] buying decisions. According to the column, many young people now think Gen X is cool. But the writer says her generation is not known for {{showing off}}. Many of them are busy {{looking after}} [[aging parents]] and worried children.",
+          "verbs": [
+            {
+              "display": "showing off",
+              "base": "show off",
+              "correct": "To try to make people admire you",
+              "wrong": "To post the same video twice",
+              "correctFirst": true,
+              "why": "He likes to show off his new car. Stop showing off and just play the game. The writer says her generation is not known for showing off."
+            },
+            {
+              "display": "looking after",
+              "base": "look after",
+              "correct": "To keep someone safe and well",
+              "wrong": "To give someone a new name",
+              "correctFirst": false,
+              "why": "I look after my sister's dog on the weekend. Nurses look after patients day and night. Many Gen Xers are busy looking after aging parents and worried children."
+            }
+          ]
+        },
+        {
+          "text": "The column's main example is a food director at a large British [[store chain]]. She {{set up}} her TikTok account in May 2026. Her videos have {{racked up}} as many as 2 million [[views]], and nearly 250,000 people follow her. She {{talks viewers through}} new food products. In the writer's view, she {{comes across as}} calm and [[competent]]. Many fans {{look up to}} her. One wrote that they would follow her into war.",
+          "verbs": [
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To start a new account",
+              "wrong": "To rate a post with stars",
+              "correctFirst": true,
+              "why": "I set up a new email account last night. She set up a bank account for her son. The food director set up her TikTok account in May 2026."
+            },
+            {
+              "display": "racked up",
+              "base": "rack up",
+              "correct": "To reach a large total",
+              "wrong": "To guess a total wrongly",
+              "correctFirst": false,
+              "why": "Our team racked up ten wins in a row. She racked up a lot of miles on her old car. Her videos have racked up as many as 2 million views."
+            },
+            {
+              "display": "talks viewers through",
+              "base": "talk through",
+              "correct": "To explain something step by step",
+              "wrong": "To film a video in a store",
+              "correctFirst": true,
+              "why": "The teacher talked us through the math problem. Can you talk me through the new phone app? In her videos, the food director talks viewers through new food products."
+            },
+            {
+              "display": "comes across as",
+              "base": "come across as",
+              "correct": "To seem a certain way to others",
+              "wrong": "To have a strong accent",
+              "correctFirst": false,
+              "why": "He comes across as shy, but he is very funny. She came across as nervous in the interview. In the writer's view, the food director comes across as calm and competent."
+            },
+            {
+              "display": "look up to",
+              "base": "look up to",
+              "correct": "To admire and respect someone",
+              "wrong": "To guess someone's age",
+              "correctFirst": true,
+              "why": "Many kids look up to their older brothers and sisters. I always looked up to my grandfather. Many fans look up to the food director, and one wrote that they would follow her into war."
+            }
+          ]
+        },
+        {
+          "text": "In August, the business magazine Fortune described a 59-year-old former [[insurance]] worker who {{brought in}} about 500,000 dollars in 2025 from online videos and sales. She says fears about being too old should not {{hold people back}}. A marketing professor in Germany told the magazine that brands have a [[blind spot]] for age. The Guardian writer loves seeing [[capable]] people like the food director {{popping up}} online. She hopes more of her peers will be less [[modest]] and [[shine]].",
+          "verbs": [
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "correct": "To earn an amount of money",
+              "wrong": "To owe a friend money",
+              "correctFirst": false,
+              "why": "My summer job brings in about 300 dollars a week. The bake sale brought in 800 dollars for the school. The former insurance worker brought in about 500,000 dollars in 2025."
+            },
+            {
+              "display": "hold people back",
+              "base": "hold back",
+              "correct": "To stop someone's progress",
+              "wrong": "To make someone feel younger",
+              "correctFirst": true,
+              "why": "Don't let one bad grade hold you back. His fear of flying held him back at work. She says fears about being too old should not hold people back."
+            },
+            {
+              "display": "popping up",
+              "base": "pop up",
+              "correct": "To appear suddenly",
+              "wrong": "To lose followers quickly",
+              "correctFirst": false,
+              "why": "Ads keep popping up on my phone. New coffee shops are popping up all over town. The writer loves seeing capable people like the food director popping up online."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Sleep on",
+          "def": "To fail to see how good someone is",
+          "ipa": "/slip ɑn/",
+          "ex": [
+            "Everyone slept on that singer until her second album.",
+            "Don't sleep on this restaurant just because it looks plain.",
+            "Fans slept on the team all season, and then it won."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To become the new leader",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "Her son will take over as head of the family farm.",
+            "A new coach took over as leader of the team in June.",
+            "Who will take over as mayor after the election?"
+          ]
+        },
+        {
+          "verb": "Show off",
+          "def": "To try to make people admire you",
+          "ipa": "/ʃoʊ ɔf/",
+          "ex": [
+            "My cousin always shows off at family parties.",
+            "She didn't want to show off, so she kept her grades quiet.",
+            "Kids often show off when new friends are around."
+          ]
+        },
+        {
+          "verb": "Look after",
+          "def": "To keep someone safe and well",
+          "ipa": "/lʊk ˈæftər/",
+          "ex": [
+            "My grandmother looked after me when my parents worked.",
+            "Who will look after the cat while we are on vacation?",
+            "He looks after his father, who can't walk well."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To start a new account",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "It only takes a minute to set up a free account.",
+            "My dad finally set up an Instagram account.",
+            "We set up a shared account for the family photos."
+          ]
+        },
+        {
+          "verb": "Rack up",
+          "def": "To reach a large total",
+          "ipa": "/ræk ʌp/",
+          "ex": [
+            "The video racked up a million likes in a week.",
+            "She racked up 30 years of experience at the bank.",
+            "Our class racked up the most points in the reading contest."
+          ]
+        },
+        {
+          "verb": "Talk through",
+          "def": "To explain something step by step",
+          "ipa": "/tɔk θru/",
+          "ex": [
+            "The nurse talked me through what would happen during the test.",
+            "My friend talked me through how to fix the sink.",
+            "The guide talked the group through the history of the building."
+          ]
+        },
+        {
+          "verb": "Come across as",
+          "def": "To seem a certain way to others",
+          "ipa": "/kʌm əˈkrɔs æz/",
+          "ex": [
+            "I didn't want to come across as rude.",
+            "The new boss comes across as friendly and fair.",
+            "His email came across as a little angry."
+          ]
+        },
+        {
+          "verb": "Look up to",
+          "def": "To admire and respect someone",
+          "ipa": "/lʊk ʌp tu/",
+          "ex": [
+            "Young players look up to the team captain.",
+            "She looked up to her first boss for years.",
+            "Who did you look up to when you were a child?"
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To earn an amount of money",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "Her small shop brings in enough money to pay the rent.",
+            "How much does a nurse bring in each year?",
+            "The concert brought in more money than we expected."
+          ]
+        },
+        {
+          "verb": "Hold back",
+          "def": "To stop someone's progress",
+          "ipa": "/hoʊld bæk/",
+          "ex": [
+            "Shyness held her back at school.",
+            "A lack of money held the company back for years.",
+            "Don't let your age hold you back."
+          ]
+        },
+        {
+          "verb": "Pop up",
+          "def": "To appear suddenly",
+          "ipa": "/pɑp ʌp/",
+          "ex": [
+            "A message popped up on my screen.",
+            "Food trucks pop up downtown every summer.",
+            "His name keeps popping up in the news."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "opinion column",
+          "def": "A regular newspaper article where a writer gives their own views",
+          "ipa": "/əˈpɪnjən ˈkɑləm/",
+          "ex": [
+            "She writes a weekly opinion column about city life.",
+            "I don't always agree with his opinion column.",
+            "The opinion column made many readers angry."
+          ]
+        },
+        {
+          "word": "marketing expert",
+          "def": "A person with special skill in selling products",
+          "ipa": "/ˈmɑrkətɪŋ ˈɛkspərt/",
+          "ex": [
+            "The company hired a marketing expert to plan its ads.",
+            "A marketing expert said the logo was too busy.",
+            "My uncle worked as a marketing expert for a shoe brand."
+          ]
+        },
+        {
+          "word": "underrated",
+          "def": "Better or more important than most people think",
+          "ipa": "/ˌʌndərˈreɪtɪd/",
+          "ex": [
+            "I think this little museum is really underrated.",
+            "He is an underrated player on a strong team.",
+            "Sleep is an underrated part of good health."
+          ]
+        },
+        {
+          "word": "peers",
+          "def": "People who are the same age or have the same position as you",
+          "ipa": "/pɪrz/",
+          "ex": [
+            "Teenagers often care a lot about what their peers think.",
+            "She earns more than most of her peers.",
+            "He asked his peers at work for advice."
+          ]
+        },
+        {
+          "word": "buying power",
+          "def": "The amount of money a person or group has to spend",
+          "ipa": "/ˈbaɪɪŋ ˈpaʊər/",
+          "ex": [
+            "Rising prices have cut the buying power of many families.",
+            "Teenagers have more buying power than they used to.",
+            "Stores want to attract shoppers with strong buying power."
+          ]
+        },
+        {
+          "word": "market research",
+          "def": "The study of what people buy and why they buy it",
+          "ipa": "/ˈmɑrkət ˈrisərtʃ/",
+          "ex": [
+            "The company did market research before opening a new store.",
+            "Market research showed that customers wanted smaller cars.",
+            "She got a job in market research after college."
+          ]
+        },
+        {
+          "word": "influence",
+          "def": "To have an effect on what someone decides or does",
+          "ipa": "/ˈɪnfluəns/",
+          "ex": [
+            "Friends can influence the music you like.",
+            "Weather can influence how people feel.",
+            "Her teacher helped influence her choice of career."
+          ]
+        },
+        {
+          "word": "household",
+          "def": "Relating to a home and the people in it",
+          "ipa": "/ˈhaʊsˌhoʊld/",
+          "ex": [
+            "Our household bills went up this winter.",
+            "Washing the dishes is one of my household chores.",
+            "Most household trash goes to a landfill."
+          ]
+        },
+        {
+          "word": "aging parents",
+          "def": "Mothers and fathers who are getting old and may need help",
+          "ipa": "/ˈeɪdʒɪŋ ˈpɛrənts/",
+          "ex": [
+            "Many adults spend weekends helping their aging parents.",
+            "She moved closer to her aging parents last year.",
+            "Caring for aging parents can be hard on a family."
+          ]
+        },
+        {
+          "word": "store chain",
+          "def": "A group of stores with the same name and owner",
+          "ipa": "/stɔr tʃeɪn/",
+          "ex": [
+            "The store chain opened ten new shops this year.",
+            "A big store chain bought the small grocery in our town.",
+            "That store chain sells clothes in every state."
+          ]
+        },
+        {
+          "word": "views",
+          "def": "The number of times people have watched a video",
+          "ipa": "/vjuz/",
+          "ex": [
+            "His cooking video got 10,000 views in one day.",
+            "The song's video has more than a billion views.",
+            "Short videos often get more views than long ones."
+          ]
+        },
+        {
+          "word": "competent",
+          "def": "Able to do something well",
+          "ipa": "/ˈkɑmpətənt/",
+          "ex": [
+            "She is a very competent driver.",
+            "We need a competent person to run the office.",
+            "He felt competent after a month in the new job."
+          ]
+        },
+        {
+          "word": "insurance",
+          "def": "A plan where you pay a company to cover the cost if something bad happens",
+          "ipa": "/ɪnˈʃʊrəns/",
+          "ex": [
+            "Car insurance is required in most states.",
+            "Our health insurance paid for the surgery.",
+            "She works for an insurance company downtown."
+          ]
+        },
+        {
+          "word": "blind spot",
+          "def": "Something a person or group does not notice or understand",
+          "ipa": "/blaɪnd spɑt/",
+          "ex": [
+            "Money is a blind spot for many young couples.",
+            "The report showed a blind spot in the school's safety plan.",
+            "Everyone has a blind spot about their own mistakes."
+          ]
+        },
+        {
+          "word": "capable",
+          "def": "Having the skill to do something well",
+          "ipa": "/ˈkeɪpəbəl/",
+          "ex": [
+            "She is a capable leader who stays calm.",
+            "Our new nurse is very capable.",
+            "He is capable of fixing almost any bike."
+          ]
+        },
+        {
+          "word": "modest",
+          "def": "Not liking to praise your own skills or success",
+          "ipa": "/ˈmɑdɪst/",
+          "ex": [
+            "He is too modest to talk about his prize.",
+            "She was modest about her high test score.",
+            "My modest grandfather never mentioned his medals."
+          ]
+        },
+        {
+          "word": "shine",
+          "def": "To do very well and be noticed for it",
+          "ipa": "/ʃaɪn/",
+          "ex": [
+            "The quiet student really shines in math class.",
+            "This is your chance to shine at work.",
+            "She shined in the school play."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A columnist asks whether middle-aged Gen X adults could become the next big online influencers. Her main example is a capable food director whose TikTok videos now draw huge numbers of viewers.",
+          "a": true,
+          "why": "The writer asks if her peers could take over as influencers. She points to a food director whose videos have racked up as many as 2 million views."
+        },
+        {
+          "s": "A Guardian writer says people her age are now the most popular creators on TikTok. She believes young viewers prefer them because Gen X adults love to share their success and spend freely.",
+          "a": false,
+          "why": "Close, but the writer only asks whether Gen X could become big influencers. She also says her generation is not known for showing off."
+        },
+        {
+          "s": "A new study finds that adults born between 1965 and 1980 spend more hours on social media than teenagers do. Researchers say many of them check TikTok several times a day, mostly late at night.",
+          "a": false,
+          "why": "This is a column asking if Gen X could become influencers. It uses a food director who set up a TikTok account in May as its example."
+        }
+      ],
+      "tf": [
+        {
+          "s": "A marketing expert told viewers to stop sleeping on Gen X.",
+          "a": true,
+          "why": "He said this on TikTok. In his view, Gen X has become a strong but underrated force online."
+        },
+        {
+          "s": "The food director set up her TikTok account in 2020.",
+          "a": false,
+          "why": "She set up her TikTok account in May 2026, not in 2020."
+        },
+        {
+          "s": "Her videos have racked up as many as 2 million views.",
+          "a": true,
+          "why": "Her videos have reached up to 2 million views, and nearly 250,000 people follow her."
+        },
+        {
+          "s": "The writer says her generation is known for showing off.",
+          "a": false,
+          "why": "She says Gen X is not known for showing off. Many of them are busy looking after aging parents and worried children."
+        },
+        {
+          "s": "The former insurance worker brought in about 50,000 dollars in 2025.",
+          "a": false,
+          "why": "She brought in about 500,000 dollars that year from making videos for brands and selling products online."
+        },
+        {
+          "s": "Many fans look up to the food director at the store chain.",
+          "a": true,
+          "why": "Fans look up to her, and one wrote that they would follow her into war."
+        }
+      ]
+    },
+    {
+      "id": "diy-halloween-costumes-2026",
+      "number": 136,
+      "headline": "Many Americans plan homemade Halloween costumes",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n136-diy-halloween-costumes-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "The Vogue Business TikTok Trend Tracker (Vogue Business)",
+          "url": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker"
+        },
+        {
+          "title": "Survey Says: Halloween Shoppers Choose Creativity Over Costumes Off the Rack (Lynnwood Times)",
+          "url": "https://lynnwoodtimes.com/2026/09/28/goodwill-halloween-survey-2026/"
+        },
+        {
+          "title": "NRF Halloween Survey Shows Consumer Spending Expected to Reach $13.5 Billion (National Retail Federation)",
+          "url": "https://nrf.com/media-center/press-releases/nrf-halloween-survey-shows-consumer-spending-expected-to-reach-13-5-billion"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Halloween falls on Saturday, October 31, and many Americans are already deciding what to {{dress up as}}. This year, many shoppers are skipping the [[costume aisle]]. Instead, they {{put together}} their own looks from [[thrift-store clothing]] and [[household objects]]. Some {{make do with}} whatever they already have at home. For many of them, the goal is a [[one-of-a-kind]] look that does not cost much.",
+          "verbs": [
+            {
+              "display": "dress up as",
+              "base": "dress up as",
+              "correct": "To wear a costume of a character",
+              "wrong": "To sell old clothes to a store",
+              "correctFirst": true,
+              "why": "My son wants to dress up as a pirate this year. She dressed up as a cat for the office party. Many Americans are already deciding what to dress up as for Halloween on October 31."
+            },
+            {
+              "display": "put together",
+              "base": "put together",
+              "correct": "To make something by joining parts",
+              "wrong": "To store something in its place",
+              "correctFirst": false,
+              "why": "We put together a simple dinner from leftovers. He put together a great outfit for the wedding. This year, many shoppers put together their own costumes from thrift-store clothing."
+            },
+            {
+              "display": "make do with",
+              "base": "make do with",
+              "correct": "To manage with what you have",
+              "wrong": "To fix something that is broken",
+              "correctFirst": true,
+              "why": "We had no butter, so we made do with oil. The team made do with an old bus for the trip. Some TikTok users make do with whatever they already have at home."
+            }
+          ]
+        },
+        {
+          "text": "Homemade costumes are not new on TikTok. Last October, a [[trend tracker]] from Vogue Business counted more than 22,000 posts under a tag for homemade costumes. According to the tracker, creators take [[thrifted finds]] and household materials and {{turn them into}} [[polished]] looks. They {{show off}} the whole process in [[sped-up]] videos. The trend is strongest around Halloween. It also continues all year, through fan conventions and festival fashion.",
+          "verbs": [
+            {
+              "display": "turn them into",
+              "base": "turn into",
+              "correct": "To make something become something new",
+              "wrong": "To return something to a store",
+              "correctFirst": false,
+              "why": "She turned an old shirt into a bag. They turned the garage into a small office. Creators take thrifted finds and household materials and turn them into polished costumes."
+            },
+            {
+              "display": "show off",
+              "base": "show off",
+              "correct": "To show something proudly to others",
+              "wrong": "To sell something at a low price",
+              "correctFirst": true,
+              "why": "He loves to show off his new car. The kids showed off their drawings to their grandparents. Costume creators show off the whole process in sped-up videos."
+            }
+          ]
+        },
+        {
+          "text": "A survey released in late September shows the same [[shift]] among shoppers. It was [[commissioned]] by Goodwill, the thrift-store [[charity]], and asked 2,000 American adults who buy or make costumes. It found that 85 percent plan to use thrift shopping or homemade pieces this year. More than half {{turn to}} thrift stores to [[save money]]. And 44 percent go there to {{pick up}} [[materials]] for a homemade look. Seventy-one percent want pieces they can {{hold on to}} and use again after Halloween.",
+          "verbs": [
+            {
+              "display": "turn to",
+              "base": "turn to",
+              "correct": "To go to someone or somewhere for help",
+              "wrong": "To work at a place without pay",
+              "correctFirst": false,
+              "why": "When I need advice, I turn to my older sister. Many families turn to food banks at the end of the month. In the survey, more than half of the shoppers turn to thrift stores to save money."
+            },
+            {
+              "display": "pick up",
+              "base": "pick up",
+              "correct": "To buy something cheaply",
+              "wrong": "To fix a hole in clothing",
+              "correctFirst": true,
+              "why": "I picked up a nice lamp at a yard sale. She picked up two shirts for five dollars. In the survey, 44 percent go to thrift stores to pick up materials for a homemade look."
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something for later use",
+              "wrong": "To wash something before wearing it",
+              "correctFirst": false,
+              "why": "I always hold on to my receipts for a month. You should hold on to that coat for next winter. Seventy-one percent of the shoppers want costume pieces they can hold on to and use again."
+            }
+          ]
+        },
+        {
+          "text": "[[Store-bought]] costumes are still [[big business]]. The National Retail Federation expects Americans to {{shell out}} $13.5 billion on Halloween this year, up from $13.1 billion in 2025. That includes $4.4 billion on costumes. Fewer people now {{look up}} costume ideas online, 32 percent compared with 37 percent last year. Most still {{go for}} [[classic]] characters. About 4.8 million plan to be a witch and 4.2 million a vampire. A federation official said shoppers are paying close attention to prices this season.",
+          "verbs": [
+            {
+              "display": "shell out",
+              "base": "shell out",
+              "correct": "To spend a lot of money",
+              "wrong": "To borrow money from a bank",
+              "correctFirst": true,
+              "why": "We shelled out a lot for concert tickets. Parents shell out hundreds of dollars for school supplies. Americans are expected to shell out $13.5 billion on Halloween this year."
+            },
+            {
+              "display": "look up",
+              "base": "look up",
+              "correct": "To find facts or ideas online",
+              "wrong": "To print pictures at home",
+              "correctFirst": false,
+              "why": "I looked up the bus times on my phone. She looks up new recipes every weekend. In the federation's survey, 32 percent look up costume ideas online, down from 37 percent."
+            },
+            {
+              "display": "go for",
+              "base": "go for",
+              "correct": "To choose something",
+              "wrong": "To wait in line for something",
+              "correctFirst": true,
+              "why": "I think I'll go for the chicken salad. Most buyers go for the cheaper model. Most adults still go for classic characters, such as a witch or a vampire."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Dress up as",
+          "def": "To wear a costume of a character",
+          "ipa": "/drɛs ʌp æz/",
+          "ex": [
+            "For the school party, my daughter dressed up as a bee.",
+            "He always dresses up as a famous singer.",
+            "What are you going to dress up as this year?"
+          ]
+        },
+        {
+          "verb": "Put together",
+          "def": "To make something by joining parts",
+          "ipa": "/pʊt təˈɡɛðər/",
+          "ex": [
+            "She put together a nice outfit for her job interview.",
+            "Can you put together a quick lunch for the kids?",
+            "He put together a photo album for his mom's birthday."
+          ]
+        },
+        {
+          "verb": "Make do with",
+          "def": "To manage with what you have",
+          "ipa": "/meɪk du wɪð/",
+          "ex": [
+            "The hotel had no gym, so I made do with a walk.",
+            "We made do with a small apartment for our first year.",
+            "Until payday, we'll have to make do with rice and beans."
+          ]
+        },
+        {
+          "verb": "Turn into",
+          "def": "To make something become something new",
+          "ipa": "/tɝn ˈɪntu/",
+          "ex": [
+            "My parents turned the spare room into a study.",
+            "He turned an old door into a dining table.",
+            "She turns leftover bread into a sweet pudding."
+          ]
+        },
+        {
+          "verb": "Show off",
+          "def": "To show something proudly to others",
+          "ipa": "/ʃoʊ ɔf/",
+          "ex": [
+            "She showed off her new ring to everyone at work.",
+            "The players showed off their trophy in the parade.",
+            "He likes to show off his cooking skills at parties."
+          ]
+        },
+        {
+          "verb": "Turn to",
+          "def": "To go to someone or somewhere for help",
+          "ipa": "/tɝn tu/",
+          "ex": [
+            "Students often turn to the library for quiet study space.",
+            "When the car broke down, we turned to a neighbor.",
+            "Many people turn to friends in hard times."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To buy something cheaply",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "I picked up a cheap bike at a garage sale.",
+            "She picked up a winter coat for ten dollars.",
+            "We picked up a used couch for fifty dollars."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something for later use",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "Hold on to your ticket until the end of the trip.",
+            "She held on to her wedding dress for thirty years.",
+            "I hold on to empty jars for storing food."
+          ]
+        },
+        {
+          "verb": "Shell out",
+          "def": "To spend a lot of money",
+          "ipa": "/ʃɛl aʊt/",
+          "ex": [
+            "He shelled out two thousand dollars for a new laptop.",
+            "I don't want to shell out that much for a parking spot.",
+            "Fans shelled out a lot of money for the final game."
+          ]
+        },
+        {
+          "verb": "Look up",
+          "def": "To find facts or ideas online",
+          "ipa": "/lʊk ʌp/",
+          "ex": [
+            "If you don't know a word, look it up on your phone.",
+            "I looked up the restaurant's hours online.",
+            "She looked up reviews before buying the blender."
+          ]
+        },
+        {
+          "verb": "Go for",
+          "def": "To choose something",
+          "ipa": "/ɡoʊ fɔr/",
+          "ex": [
+            "For dessert, I'll go for the apple pie.",
+            "Most new drivers go for small, cheap cars.",
+            "She went for the blue dress in the end."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "costume aisle",
+          "def": "The part of a store where costumes are sold",
+          "ipa": "/ˈkɑstum aɪl/",
+          "ex": [
+            "The costume aisle was almost empty by October 30.",
+            "We found a pirate hat in the costume aisle.",
+            "The kids ran straight to the costume aisle."
+          ]
+        },
+        {
+          "word": "thrift-store clothing",
+          "def": "Used clothes sold cheaply, often by a charity",
+          "ipa": "/ˈθrɪft stɔr ˈkloʊðɪŋ/",
+          "ex": [
+            "Most of his wardrobe is thrift-store clothing.",
+            "She sells thrift-store clothing online after fixing it.",
+            "Thrift-store clothing is a good choice for students on a budget."
+          ]
+        },
+        {
+          "word": "household objects",
+          "def": "Ordinary things that you find in a home",
+          "ipa": "/ˈhaʊsˌhoʊld ˈɑbdʒɛkts/",
+          "ex": [
+            "The art class made robots from household objects.",
+            "Many household objects can be recycled.",
+            "Keep sharp household objects away from small children."
+          ]
+        },
+        {
+          "word": "one-of-a-kind",
+          "def": "Different from everything else; the only one",
+          "ipa": "/ˌwʌn əv ə ˈkaɪnd/",
+          "ex": [
+            "Her grandmother made her a one-of-a-kind quilt.",
+            "The shop sells one-of-a-kind pieces of jewelry.",
+            "He is a one-of-a-kind teacher."
+          ]
+        },
+        {
+          "word": "trend tracker",
+          "def": "A report that follows what is popular right now",
+          "ipa": "/trɛnd ˈtrækər/",
+          "ex": [
+            "The magazine's trend tracker comes out every week.",
+            "According to a trend tracker, wide jeans are back.",
+            "Marketing teams read the trend tracker closely."
+          ]
+        },
+        {
+          "word": "thrifted finds",
+          "def": "Good things someone bought cheaply at a secondhand store",
+          "ipa": "/ˈθrɪftɪd faɪndz/",
+          "ex": [
+            "She posts her thrifted finds on social media.",
+            "Our living room is full of thrifted finds.",
+            "His best thrifted finds are a leather jacket and a record player."
+          ]
+        },
+        {
+          "word": "polished",
+          "def": "Done carefully so it looks finished and professional",
+          "ipa": "/ˈpɑlɪʃt/",
+          "ex": [
+            "Her speech was short and polished.",
+            "The new website looks clean and polished.",
+            "After a few weeks of practice, the band sounded polished."
+          ]
+        },
+        {
+          "word": "sped-up",
+          "def": "Played faster than the normal speed",
+          "ipa": "/ˈspɛd ˌʌp/",
+          "ex": [
+            "The cooking show used a sped-up clip of the cake baking.",
+            "She shared a sped-up video of her room makeover.",
+            "The sped-up song sounded silly."
+          ]
+        },
+        {
+          "word": "shift",
+          "def": "A change in the way people think or act",
+          "ipa": "/ʃɪft/",
+          "ex": [
+            "There has been a shift toward working from home.",
+            "Doctors noticed a shift in what patients ask about.",
+            "The company saw a shift in what young customers buy."
+          ]
+        },
+        {
+          "word": "commissioned",
+          "def": "Paid for by a person or group who asked for it",
+          "ipa": "/kəˈmɪʃənd/",
+          "ex": [
+            "The city commissioned a statue for the new park.",
+            "The study was commissioned by a health group.",
+            "She commissioned a painting of her dog."
+          ]
+        },
+        {
+          "word": "charity",
+          "def": "A group that raises money to help people in need",
+          "ipa": "/ˈtʃærəti/",
+          "ex": [
+            "He gives part of his salary to a children's charity.",
+            "The charity runs a food bank in our town.",
+            "They held a bake sale for a local charity."
+          ]
+        },
+        {
+          "word": "save money",
+          "def": "To spend less so you keep more of your money",
+          "ipa": "/seɪv ˈmʌni/",
+          "ex": [
+            "We cook at home to save money.",
+            "Taking the bus helps me save money on gas.",
+            "She wants to save money for a new car."
+          ]
+        },
+        {
+          "word": "materials",
+          "def": "Things you use to make something",
+          "ipa": "/məˈtɪriəlz/",
+          "ex": [
+            "The teacher bought materials for the art project.",
+            "Building materials are more expensive this year.",
+            "Bring your own materials to the sewing class."
+          ]
+        },
+        {
+          "word": "Store-bought",
+          "def": "Bought ready-made in a store, not made at home",
+          "ipa": "/ˈstɔr ˌbɔt/",
+          "ex": [
+            "Store-bought bread doesn't taste as good as homemade.",
+            "She brought store-bought cookies to the bake sale.",
+            "Store-bought cards can be expensive."
+          ]
+        },
+        {
+          "word": "big business",
+          "def": "An activity that makes a lot of money",
+          "ipa": "/bɪɡ ˈbɪznəs/",
+          "ex": [
+            "Pet food has become big business.",
+            "Youth sports are big business in some towns.",
+            "Online video games are now big business."
+          ]
+        },
+        {
+          "word": "classic",
+          "def": "Traditional and popular for a long time",
+          "ipa": "/ˈklæsɪk/",
+          "ex": [
+            "Jeans and a white T-shirt are a classic look.",
+            "We watched a classic movie on Sunday night.",
+            "Apple pie is a classic American dessert."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "This year, many Americans plan to make Halloween costumes from used clothes and things they have at home. Surveys show people want to save money, but total spending is still rising.",
+          "a": true,
+          "why": "In one survey, 85 percent of shoppers plan to use thrift shopping or homemade pieces. Spending is still expected to reach $13.5 billion."
+        },
+        {
+          "s": "Homemade costumes are popular this fall, and many shoppers are turning to thrift stores. Because of this change, Americans will spend less on Halloween this year than they did in 2025.",
+          "a": false,
+          "why": "Close, but spending is going up, not down. Americans are expected to shell out $13.5 billion, compared with $13.1 billion in 2025."
+        },
+        {
+          "s": "Several large stores have stopped selling Halloween costumes for children after safety complaints. Parents now have fewer choices, and some shops say prices may climb before Halloween.",
+          "a": false,
+          "why": "No stores stopped selling costumes. Many people put together their own costumes from thrift-store clothing and household objects."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Many shoppers put together costumes from thrift-store clothing.",
+          "a": true,
+          "why": "Instead of using the costume aisle, they put together their own looks from used clothes and household objects."
+        },
+        {
+          "s": "Costume creators show off their work in slow, long videos.",
+          "a": false,
+          "why": "They show off the whole process in sped-up videos, which play faster than normal."
+        },
+        {
+          "s": "In the survey, 44 percent go to thrift stores to pick up materials.",
+          "a": true,
+          "why": "These shoppers pick up materials there for a homemade look."
+        },
+        {
+          "s": "Only 17 percent want costume pieces they can use again after Halloween.",
+          "a": false,
+          "why": "The number is 71 percent. Most want pieces they can hold on to and use again."
+        },
+        {
+          "s": "Americans plan to shell out less on Halloween than they did in 2025.",
+          "a": false,
+          "why": "They are expected to shell out $13.5 billion this year, up from $13.1 billion in 2025."
+        },
+        {
+          "s": "Fewer people look up costume ideas online than last year.",
+          "a": true,
+          "why": "In the federation's survey, 32 percent look up ideas online, down from 37 percent last year."
+        }
+      ]
+    },
     {
       "id": "russia-plague-scare-2026",
       "number": 135,
