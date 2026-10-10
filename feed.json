@@ -1,6 +1,952 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "stories": [
+    {
+      "id": "ukraine-kramatorsk-buses-2026",
+      "number": 143,
+      "headline": "Bus attack and blackouts hit Ukraine before winter",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n143-ukraine-kramatorsk-buses-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "At least 30 people killed as Russia bombs two buses in Ukraine (NBC News)",
+          "url": "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247"
+        },
+        {
+          "title": "Russian bomb attack kills dozens at Ukraine bus stop (The Irish Times)",
+          "url": "https://www.irishtimes.com/world/europe/2026/10/08/russian-bomb-attack-kills-33-in-street-in-east-ukraine-stronghold/"
+        },
+        {
+          "title": "Russian missile strike on Ukraine kills 30 on packed city buses, as Moscow says \"no clear path\" to peace (CBS News)",
+          "url": "https://www.cbsnews.com/news/russia-ukraine-kramatorsk-missile-strike-buses/"
+        },
+        {
+          "title": "Blackouts return to Kyiv as Russia prepares to freeze civilians over the winter (Euromaidan Press)",
+          "url": "https://euromaidanpress.com/2026/10/08/blackouts-return-to-kyiv/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 8, 2026, a Russian glide bomb hit a bus stop in Kramatorsk, a city in eastern Ukraine near the [[front line]]. It struck two [[passenger buses]] at about 10 a.m. Ukraine's state emergency service said at least 30 people were killed and 18 were injured. President Zelenskyy warned that the [[death toll]] could {{go up}}. The regional governor {{shut down}} [[public transportation]] in Kramatorsk and a nearby city. Russia has always denied targeting [[civilians]].",
+          "verbs": [
+            {
+              "display": "go up",
+              "base": "go up",
+              "correct": "To become higher in number",
+              "wrong": "To be counted a second time",
+              "correctFirst": true,
+              "why": "The price of bread went up again in March. Gas prices usually go up in the summer. President Zelenskyy warned that the death toll could go up."
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To stop a service for a time",
+              "wrong": "To make tickets cost more",
+              "correctFirst": false,
+              "why": "The city shut down the subway during the storm. Officials shut down the airport because of heavy snow. The regional governor shut down public transportation in Kramatorsk and a nearby city."
+            }
+          ]
+        },
+        {
+          "text": "The attack came during a new [[wave]] of Russian strikes. On October 7, a [[missile]] hit an apartment building in northern Ukraine and killed 22 people. On October 8, air raid [[sirens]] {{went off}} across Kyiv as the capital {{came under}} drone attack. In late September, Ukraine's prime minister said Russia had {{kept up}} attacks on [[energy sites]] almost every day since the summer. Reports say Ukraine is also {{running low on}} [[air defense]] [[ammunition]].",
+          "verbs": [
+            {
+              "display": "went off",
+              "base": "go off",
+              "correct": "To start making a loud noise",
+              "wrong": "To be tested by city workers",
+              "correctFirst": true,
+              "why": "My alarm went off at six this morning. A car alarm went off outside our building. On October 8, air raid sirens went off across Kyiv."
+            },
+            {
+              "display": "came under",
+              "base": "come under",
+              "correct": "To be the target of something",
+              "wrong": "To find a safe place to hide",
+              "correctFirst": false,
+              "why": "The coach came under criticism after the loss. The website came under attack from hackers. On October 8, Kyiv came under drone attack."
+            },
+            {
+              "display": "kept up",
+              "base": "keep up",
+              "correct": "To continue doing something",
+              "wrong": "To make something public",
+              "correctFirst": true,
+              "why": "The workers kept up their protest for three weeks. The storm kept up its heavy rain all night. Ukraine's prime minister said Russia had kept up attacks on energy sites almost every day since the summer."
+            },
+            {
+              "display": "running low on",
+              "base": "run low on",
+              "correct": "To have only a small amount left",
+              "wrong": "To ask other countries to help",
+              "correctFirst": false,
+              "why": "We are running low on milk. The hospital ran low on blood after the accident. Reports say Ukraine is running low on air defense ammunition."
+            }
+          ]
+        },
+        {
+          "text": "Russian strikes also hit Ukraine's [[power grid]]. On October 8, the national [[grid operator]] ordered emergency [[power outages]] in parts of Kyiv. Strikes {{knocked out}} power in parts of four regions near the front line. City officials warned that some buildings in Kyiv could be {{cut off}} from water. The grid operator asked people to {{cut back on}} electricity on October 9, especially from 5 to 10 p.m.",
+          "verbs": [
+            {
+              "display": "knocked out",
+              "base": "knock out",
+              "correct": "To stop something from working",
+              "wrong": "To check how bad the damage is",
+              "correctFirst": true,
+              "why": "The storm knocked out power to our street. Lightning knocked out the town's phone lines. Russian strikes knocked out power in parts of four regions near the front line."
+            },
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To stop the supply of something",
+              "wrong": "To raise the price of something",
+              "correctFirst": false,
+              "why": "The company cut off our gas because we did not pay the bill. Workers cut off the water while they fixed the pipe. City officials warned that some buildings in Kyiv could be cut off from water."
+            },
+            {
+              "display": "cut back on",
+              "base": "cut back on",
+              "correct": "To use less of something",
+              "wrong": "To pay a bill on time",
+              "correctFirst": true,
+              "why": "I am trying to cut back on sugar. My doctor told me to cut back on coffee. The grid operator asked people to cut back on electricity, especially in the evening."
+            }
+          ]
+        },
+        {
+          "text": "Ukrainian officials warn that this winter could be especially hard. Ukraine expects Russia to {{step up}} its [[campaign]] against the energy system as winter begins. Without power, homes can also lose heat and water. Zelenskyy said it was important for allies to deliver the [[defense packages]] they promised. He also {{called on}} President Donald Trump to increase pressure on Russia. Ukrainian [[negotiators]] were set to hold talks in the United States on October 9 and 10.",
+          "verbs": [
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To make something bigger or stronger",
+              "wrong": "To keep something a secret",
+              "correctFirst": false,
+              "why": "The police stepped up patrols after the robbery. The team stepped up its training before the final game. Ukraine expects Russia to step up its campaign against the energy system as winter begins."
+            },
+            {
+              "display": "called on",
+              "base": "call on",
+              "correct": "To ask someone to do something",
+              "wrong": "To praise someone in public",
+              "correctFirst": true,
+              "why": "The mayor called on residents to save water. The union called on the company to raise pay. Zelenskyy called on President Donald Trump to increase pressure on Russia."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Go up",
+          "def": "To become higher in number",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "The price of bread went up again in March.",
+            "Gas prices usually go up in the summer.",
+            "The number of students in my class went up to 30."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To stop a service for a time",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The city shut down the subway during the storm.",
+            "Officials shut down the airport because of heavy snow.",
+            "The school shut down its bus service for a week."
+          ]
+        },
+        {
+          "verb": "Go off",
+          "def": "To start making a loud noise",
+          "ipa": "/ɡoʊ ɔf/",
+          "ex": [
+            "My alarm went off at six this morning.",
+            "A car alarm went off outside our building.",
+            "The fire alarm went off in the middle of the test."
+          ]
+        },
+        {
+          "verb": "Come under",
+          "def": "To be the target of something",
+          "ipa": "/kʌm ˈʌndər/",
+          "ex": [
+            "The coach came under criticism after the loss.",
+            "The website came under attack from hackers.",
+            "The new law came under attack from both parties."
+          ]
+        },
+        {
+          "verb": "Keep up",
+          "def": "To continue doing something",
+          "ipa": "/kip ʌp/",
+          "ex": [
+            "The workers kept up their protest for three weeks.",
+            "The storm kept up its heavy rain all night.",
+            "Try to keep up your exercise when you travel."
+          ]
+        },
+        {
+          "verb": "Run low on",
+          "def": "To have only a small amount left",
+          "ipa": "/rʌn loʊ ɑn/",
+          "ex": [
+            "We are running low on milk.",
+            "The hospital ran low on blood after the accident.",
+            "My phone is running low on battery."
+          ]
+        },
+        {
+          "verb": "Knock out",
+          "def": "To stop something from working",
+          "ipa": "/nɑk aʊt/",
+          "ex": [
+            "The storm knocked out power to our street.",
+            "Lightning knocked out the town's phone lines.",
+            "A flood knocked out the main water pump."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To stop the supply of something",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The company cut off our gas because we did not pay the bill.",
+            "Workers cut off the water while they fixed the pipe.",
+            "The city cut off electricity to the empty building."
+          ]
+        },
+        {
+          "verb": "Cut back on",
+          "def": "To use less of something",
+          "ipa": "/kʌt bæk ɑn/",
+          "ex": [
+            "I am trying to cut back on sugar.",
+            "We cut back on heating to save money.",
+            "My doctor told me to cut back on coffee."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To make something bigger or stronger",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The police stepped up patrols after the robbery.",
+            "The team stepped up its training before the final game.",
+            "The city is stepping up its efforts to clean the river."
+          ]
+        },
+        {
+          "verb": "Call on",
+          "def": "To ask someone to do something",
+          "ipa": "/kɔl ɑn/",
+          "ex": [
+            "The mayor called on residents to save water.",
+            "The union called on the company to raise pay.",
+            "Doctors called on parents to vaccinate their children."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "front line",
+          "def": "The place where two armies face each other in a war",
+          "ipa": "/frʌnt laɪn/",
+          "ex": [
+            "The soldiers spent six months on the front line.",
+            "Many families left towns near the front line.",
+            "Reporters traveled close to the front line."
+          ]
+        },
+        {
+          "word": "passenger buses",
+          "def": "Buses that carry members of the public",
+          "ipa": "/ˈpæsəndʒər ˈbʌsɪz/",
+          "ex": [
+            "Two passenger buses waited outside the station.",
+            "The city bought ten new passenger buses.",
+            "Passenger buses leave the airport every 20 minutes."
+          ]
+        },
+        {
+          "word": "death toll",
+          "def": "The number of people killed in an event",
+          "ipa": "/dɛθ toʊl/",
+          "ex": [
+            "The death toll from the earthquake rose to 50.",
+            "Officials said the death toll was still not clear.",
+            "The flood's death toll was lower than people feared."
+          ]
+        },
+        {
+          "word": "public transportation",
+          "def": "Buses and trains that anyone can pay to use",
+          "ipa": "/ˈpʌblɪk ˌtrænspərˈteɪʃən/",
+          "ex": [
+            "I take public transportation to work every day.",
+            "Public transportation is cheap in our city.",
+            "The snowstorm stopped all public transportation."
+          ]
+        },
+        {
+          "word": "civilians",
+          "def": "People who are not in the army or police",
+          "ipa": "/səˈvɪljənz/",
+          "ex": [
+            "Many civilians left the city during the war.",
+            "The soldiers helped civilians reach a safe place.",
+            "Civilians were not allowed on the base."
+          ]
+        },
+        {
+          "word": "wave",
+          "def": "A sudden rise in one kind of activity",
+          "ipa": "/weɪv/",
+          "ex": [
+            "A wave of storms hit the coast.",
+            "The city saw a wave of new restaurants.",
+            "A wave of flu cases filled the hospital."
+          ]
+        },
+        {
+          "word": "missile",
+          "def": "A weapon that flies through the air and explodes",
+          "ipa": "/ˈmɪsəl/",
+          "ex": [
+            "The army tested a new missile.",
+            "The missile landed in an empty field.",
+            "The ship can carry many missiles."
+          ]
+        },
+        {
+          "word": "sirens",
+          "def": "Machines that make a loud warning sound",
+          "ipa": "/ˈsaɪrənz/",
+          "ex": [
+            "We heard sirens as the fire trucks passed.",
+            "The town tests its sirens once a month.",
+            "Police sirens were loud all night."
+          ]
+        },
+        {
+          "word": "energy sites",
+          "def": "Places that make or carry power for homes and businesses",
+          "ipa": "/ˈɛnərdʒi saɪts/",
+          "ex": [
+            "Guards protect energy sites near the border.",
+            "The company runs energy sites in three states.",
+            "Engineers visit energy sites to make sure they are safe."
+          ]
+        },
+        {
+          "word": "air defense",
+          "def": "Weapons and systems that protect a country from attacks by air",
+          "ipa": "/ɛr dɪˈfɛns/",
+          "ex": [
+            "The country bought new air defense systems.",
+            "Air defense protects cities from planes and drones.",
+            "The army trained new air defense teams."
+          ]
+        },
+        {
+          "word": "ammunition",
+          "def": "Bullets, shells, and other things fired from weapons",
+          "ipa": "/ˌæmjəˈnɪʃən/",
+          "ex": [
+            "The soldiers carried extra ammunition.",
+            "The store does not sell ammunition.",
+            "The army ordered more ammunition from its allies."
+          ]
+        },
+        {
+          "word": "power grid",
+          "def": "The network of lines that carries electricity to homes and businesses",
+          "ipa": "/ˈpaʊər ɡrɪd/",
+          "ex": [
+            "The heat wave put stress on the power grid.",
+            "Engineers are working to protect the power grid.",
+            "The state needs a stronger power grid."
+          ]
+        },
+        {
+          "word": "grid operator",
+          "def": "The company that runs a country's main power lines",
+          "ipa": "/ɡrɪd ˈɑpəˌreɪtər/",
+          "ex": [
+            "The grid operator asked people to save power.",
+            "The grid operator said the system was stable again.",
+            "Our grid operator plans to build new power lines."
+          ]
+        },
+        {
+          "word": "power outages",
+          "def": "Times when there is no electricity",
+          "ipa": "/ˈpaʊər ˈaʊtɪdʒɪz/",
+          "ex": [
+            "Strong winds caused power outages across the state.",
+            "Our town had three power outages last winter.",
+            "Hospitals use generators during power outages."
+          ]
+        },
+        {
+          "word": "campaign",
+          "def": "A planned series of actions to reach a goal",
+          "ipa": "/kæmˈpeɪn/",
+          "ex": [
+            "The city started a campaign to plant trees.",
+            "The army began a new campaign in the south.",
+            "Her campaign to save the park worked."
+          ]
+        },
+        {
+          "word": "defense packages",
+          "def": "Groups of weapons and military aid that one country gives another",
+          "ipa": "/dɪˈfɛns ˈpækɪdʒɪz/",
+          "ex": [
+            "Congress approved two new defense packages.",
+            "The defense packages included tanks and radar.",
+            "Allies sent several defense packages last year."
+          ]
+        },
+        {
+          "word": "negotiators",
+          "def": "People who try to reach an agreement through talks",
+          "ipa": "/nɪˈɡoʊʃiˌeɪtərz/",
+          "ex": [
+            "Negotiators met for ten hours.",
+            "The union's negotiators asked the company for higher pay.",
+            "Negotiators from both sides signed the deal."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A Russian bomb killed at least 30 people at a bus stop in eastern Ukraine. The attack came as strikes on the power grid caused blackouts and officials warned of a hard winter.",
+          "a": true,
+          "why": "A glide bomb hit two passenger buses in Kramatorsk. Russian strikes also knocked out power in several regions as winter gets closer."
+        },
+        {
+          "s": "In eastern Ukraine, a strike on two buses left 30 people dead and closed local transit. Officials say the outages in the capital came from old equipment failing in cold weather.",
+          "a": false,
+          "why": "Close, but the outages did not come from old equipment. Russian strikes on energy sites knocked out power and hurt the grid."
+        },
+        {
+          "s": "Ukraine opened a new railway line between two eastern cities this month. Officials say the trains will help families travel safely and bring heating fuel to homes before winter.",
+          "a": false,
+          "why": "This story is about a bomb that hit two buses in Kramatorsk. It is also about Russian strikes that cut off power before winter."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Ukraine's state emergency service said at least 30 people were killed.",
+          "a": true,
+          "why": "It also said 18 people were injured. Zelenskyy warned that the death toll could go up."
+        },
+        {
+          "s": "The bomb struck a train station in Kramatorsk.",
+          "a": false,
+          "why": "It struck a bus stop and two passenger buses. Afterward, the regional governor shut down public transportation."
+        },
+        {
+          "s": "Air raid sirens went off across Kyiv on October 8.",
+          "a": true,
+          "why": "Sirens went off across the capital as it came under drone attack."
+        },
+        {
+          "s": "Ukraine's prime minister said Russia had kept up attacks on energy sites.",
+          "a": true,
+          "why": "In late September, he said Russia had kept up these attacks almost every day since the summer."
+        },
+        {
+          "s": "Strikes knocked out power in parts of ten regions near the front line.",
+          "a": false,
+          "why": "Strikes knocked out power in parts of four regions near the front line."
+        },
+        {
+          "s": "Zelenskyy called on President Trump to reduce pressure on Russia.",
+          "a": false,
+          "why": "He called on President Donald Trump to increase pressure on Russia, not reduce it."
+        }
+      ]
+    },
+    {
+      "id": "nato-nuclear-exercise-2026",
+      "number": 142,
+      "headline": "NATO will hold its nuclear drill as planned",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n142-nato-nuclear-exercise-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "NATO presses ahead with 'Steadfast Noon' nuclear drill after Russia's nuclear warning (Associated Press)",
+          "url": "https://www.news4jax.com/news/world/2026/10/08/nato-presses-ahead-with-steadfast-noon-nuclear-drill-after-russias-nuclear-warning/"
+        },
+        {
+          "title": "NATO Launching Nuclear Drills After Putin's Baltic Sea Nuke Warning (Newsweek)",
+          "url": "https://newsweek.com/nato-launching-nuclear-drills-after-putins-baltic-sea-nuke-warning-12545699"
+        },
+        {
+          "title": "NATO to hold nuclear drills as tensions with Russia escalate (Ukrainska Pravda)",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/09/8057163/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "NATO says its yearly [[nuclear exercise]] will {{go ahead}} [[as planned]]. On October 8, 2026, NATO officials said the drill, called Steadfast Noon, will start in Italy on October 13. Aircraft from 17 [[member countries]] could take part. The news came weeks after Russia [[issued a warning]] about nuclear weapons. NATO says it has not {{put the exercise off}} and will {{stick to}} its usual schedule. A senior official said there is no need to worry.",
+          "verbs": [
+            {
+              "display": "go ahead",
+              "base": "go ahead",
+              "correct": "To happen as planned",
+              "wrong": "To be held in a new place",
+              "correctFirst": true,
+              "why": "The game will go ahead even if it rains. The wedding went ahead on the same day. NATO says its yearly nuclear exercise will go ahead as planned."
+            },
+            {
+              "display": "put the exercise off",
+              "base": "put off",
+              "correct": "To move something to a later time",
+              "wrong": "To share plans with other countries",
+              "correctFirst": false,
+              "why": "We put the meeting off until Friday. She had to put her trip off because she was sick. NATO says it has not put the exercise off."
+            },
+            {
+              "display": "stick to",
+              "base": "stick to",
+              "correct": "To keep following a plan",
+              "wrong": "To ask allies to vote",
+              "correctFirst": true,
+              "why": "Try to stick to your budget this month. The teacher always sticks to the class schedule. NATO says it will stick to its usual schedule for the drill."
+            }
+          ]
+        },
+        {
+          "text": "In late September, Russia warned NATO against trying to {{cut off}} Kaliningrad. This Russian [[territory]] on the Baltic Sea sits between Poland and Lithuania, two NATO members. Russia's [[embassy]] in Ireland said Russia would be ready to use all its weapons, including nuclear ones, to defend the region. [[Tensions]] have {{built up}} since a NATO exercise near Kaliningrad in August. Some European countries accuse Russia of {{carrying out}} [[sabotage]], which Russia denies.",
+          "verbs": [
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To separate a place from others",
+              "wrong": "To give a place a new name",
+              "correctFirst": false,
+              "why": "The flood cut off the village for three days. Heavy snow cut off the mountain town. Russia warned NATO countries against trying to cut off Kaliningrad."
+            },
+            {
+              "display": "built up",
+              "base": "build up",
+              "correct": "To grow little by little",
+              "wrong": "To be written in a letter",
+              "correctFirst": true,
+              "why": "Traffic builds up on the highway after five o'clock. Anger had built up among the workers for months. Tensions have built up since NATO held an exercise near Kaliningrad in August."
+            },
+            {
+              "display": "carrying out",
+              "base": "carry out",
+              "correct": "To do a planned action",
+              "wrong": "To write about something online",
+              "correctFirst": false,
+              "why": "The police carried out a search of the house. The army carried out a rescue after the storm. Several European countries accuse Russia of carrying out sabotage, and Russia denies it."
+            }
+          ]
+        },
+        {
+          "text": "NATO officials have {{played down}} any link between the drill and [[current world events]]. They say it does not {{single out}} any country. The exercise {{goes back}} more than a decade and is held at about the same time every year. In past years, planes that can carry nuclear weapons have taken part. No real nuclear [[warheads]] or [[live ammunition]] are used. Most of the drill will happen near Italy, far from Russia.",
+          "verbs": [
+            {
+              "display": "played down",
+              "base": "play down",
+              "correct": "To say something is less important",
+              "wrong": "To make a promise in public",
+              "correctFirst": true,
+              "why": "The coach played down the injury after the game. The company played down the problem with its new phone. NATO officials have played down any link between the drill and current world events."
+            },
+            {
+              "display": "single out",
+              "base": "single out",
+              "correct": "To choose one and treat it differently",
+              "wrong": "To invite one country to join",
+              "correctFirst": false,
+              "why": "The teacher did not want to single out one student. The new rule does not single out any group. NATO officials say the drill does not single out any country."
+            },
+            {
+              "display": "goes back",
+              "base": "go back",
+              "correct": "To have existed since a time in the past",
+              "wrong": "To be held only every two years",
+              "correctFirst": true,
+              "why": "Our town's summer fair goes back 100 years. The family business goes back three generations. The Steadfast Noon exercise goes back more than a decade."
+            }
+          ]
+        },
+        {
+          "text": "Officials would not {{spell out}} which [[scenarios]] they will test. NATO says the goal is to train its forces and keep its nuclear weapons [[safe and secure]]. [[Ground crews]] will practice loading and [[refueling]] aircraft. The head of NATO says such drills help protect peace and [[deter]] attacks. The senior official said a [[predictable]] exercise helps prevent mistakes. She added that NATO has not {{picked up on}} any big changes in Russia's forces that would [[cause alarm]].",
+          "verbs": [
+            {
+              "display": "spell out",
+              "base": "spell out",
+              "correct": "To explain something clearly",
+              "wrong": "To keep something in a safe place",
+              "correctFirst": false,
+              "why": "The manager spelled out the new rules for everyone. Can you spell out what you need from me? Officials would not spell out which scenarios they will test."
+            },
+            {
+              "display": "picked up on",
+              "base": "pick up on",
+              "correct": "To notice something that is happening",
+              "wrong": "To publish a report about something",
+              "correctFirst": true,
+              "why": "The nurse picked up on the change in his breathing. My mom always picks up on my bad moods. A NATO official said the alliance has not picked up on any big changes in Russia's forces."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Go ahead",
+          "def": "To happen as planned",
+          "ipa": "/ɡoʊ əˈhɛd/",
+          "ex": [
+            "The school play will go ahead next Friday.",
+            "The outdoor concert went ahead despite the cold.",
+            "Our team meeting will go ahead at ten o'clock."
+          ]
+        },
+        {
+          "verb": "Put off",
+          "def": "To move something to a later time",
+          "ipa": "/pʊt ɔf/",
+          "ex": [
+            "Don't put off your homework until Sunday night.",
+            "They put off the party because of the storm.",
+            "He keeps putting off his visit to the dentist."
+          ]
+        },
+        {
+          "verb": "Stick to",
+          "def": "To keep following a plan",
+          "ipa": "/stɪk tu/",
+          "ex": [
+            "We need to stick to the plan we made.",
+            "She sticks to the same running route every morning.",
+            "If you stick to the recipe, the cake will taste great."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To separate a place from others",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The storm cut off the island from the mainland.",
+            "A fallen bridge cut off the farm for a week.",
+            "Deep snow can cut off small towns in the winter."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To grow little by little",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "Dust builds up quickly under the bed.",
+            "Stress can build up if you never take a break.",
+            "Clouds built up over the hills all afternoon."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do a planned action",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "Doctors carried out the surgery in two hours.",
+            "The city will carry out repairs on the bridge.",
+            "Scientists carried out a test on the new drug."
+          ]
+        },
+        {
+          "verb": "Play down",
+          "def": "To say something is less important",
+          "ipa": "/pleɪ daʊn/",
+          "ex": [
+            "She played down her role in the team's success.",
+            "The mayor played down the cost of the new stadium.",
+            "He tried to play down how sick he felt."
+          ]
+        },
+        {
+          "verb": "Single out",
+          "def": "To choose one and treat it differently",
+          "ipa": "/ˈsɪŋɡəl aʊt/",
+          "ex": [
+            "The report singled out two hospitals for poor service.",
+            "Why did the boss single me out for extra work?",
+            "The judge singled out one runner for praise."
+          ]
+        },
+        {
+          "verb": "Go back",
+          "def": "To have existed since a time in the past",
+          "ipa": "/ɡoʊ bæk/",
+          "ex": [
+            "This old church goes back to the 1700s.",
+            "Their friendship goes back to high school.",
+            "The tradition goes back more than 200 years."
+          ]
+        },
+        {
+          "verb": "Spell out",
+          "def": "To explain something clearly",
+          "ipa": "/spɛl aʊt/",
+          "ex": [
+            "The contract spells out how much you will be paid.",
+            "Let me spell out what happens if you are late.",
+            "The doctor spelled out the risks of the surgery."
+          ]
+        },
+        {
+          "verb": "Pick up on",
+          "def": "To notice something that is happening",
+          "ipa": "/pɪk ʌp ɑn/",
+          "ex": [
+            "Dogs quickly pick up on how their owners feel.",
+            "Did you pick up on how quiet he was at dinner?",
+            "Teachers often pick up on problems at home."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "nuclear exercise",
+          "def": "A military training event for using or protecting nuclear weapons",
+          "ipa": "/ˈnukliər ˈɛksərˌsaɪz/",
+          "ex": [
+            "The two navies held a nuclear exercise at sea.",
+            "A nuclear exercise does not use real bombs.",
+            "Reporters were not allowed to watch the nuclear exercise."
+          ]
+        },
+        {
+          "word": "as planned",
+          "def": "In the way or at the time that was decided before",
+          "ipa": "/æz plænd/",
+          "ex": [
+            "The bus left at noon as planned.",
+            "If everything goes as planned, we will move in June.",
+            "The new library opened as planned last spring."
+          ]
+        },
+        {
+          "word": "member countries",
+          "def": "Countries that belong to an international group",
+          "ipa": "/ˈmɛmbər ˈkʌntriz/",
+          "ex": [
+            "The group has 27 member countries.",
+            "All member countries must pay a yearly fee.",
+            "Leaders from the member countries met in Paris."
+          ]
+        },
+        {
+          "word": "issued a warning",
+          "def": "Gave an official message about a possible danger",
+          "ipa": "/ˈɪʃud ə ˈwɔrnɪŋ/",
+          "ex": [
+            "The weather service issued a warning about high winds.",
+            "The bank issued a warning about fake emails.",
+            "Health officials issued a warning about the heat."
+          ]
+        },
+        {
+          "word": "territory",
+          "def": "Land that belongs to or is controlled by a country",
+          "ipa": "/ˈtɛrəˌtɔri/",
+          "ex": [
+            "Guam is a United States territory in the Pacific.",
+            "The island is French territory.",
+            "The two countries argued over a small piece of territory."
+          ]
+        },
+        {
+          "word": "embassy",
+          "def": "The office of one country's government in another country",
+          "ipa": "/ˈɛmbəsi/",
+          "ex": [
+            "She went to the embassy to get a visa.",
+            "The embassy is near the city center.",
+            "Lost travelers can ask their embassy for help."
+          ]
+        },
+        {
+          "word": "Tensions",
+          "def": "Feelings of worry and distrust between groups or countries",
+          "ipa": "/ˈtɛnʃənz/",
+          "ex": [
+            "Tensions between the two teams were high before the game.",
+            "Tensions in the office eased after the meeting.",
+            "Tensions rose when the company cut jobs."
+          ]
+        },
+        {
+          "word": "sabotage",
+          "def": "Damage done in secret to stop something from working",
+          "ipa": "/ˈsæbəˌtɑʒ/",
+          "ex": [
+            "The factory fire may have been sabotage.",
+            "Police said the broken rail line was sabotage.",
+            "The workers denied any sabotage."
+          ]
+        },
+        {
+          "word": "current world events",
+          "def": "Important things that are happening around the world now",
+          "ipa": "/ˈkɜrənt wɜrld ɪˈvɛnts/",
+          "ex": [
+            "Our class talks about current world events every Monday.",
+            "She reads the news every morning to learn about current world events.",
+            "The quiz had questions about current world events."
+          ]
+        },
+        {
+          "word": "warheads",
+          "def": "The parts of missiles or bombs that explode",
+          "ipa": "/ˈwɔrˌhɛdz/",
+          "ex": [
+            "The missiles were tested without warheads.",
+            "Both countries agreed to cut the number of their warheads.",
+            "The warheads are stored in a secure building."
+          ]
+        },
+        {
+          "word": "live ammunition",
+          "def": "Real bullets or shells that can hurt or kill",
+          "ipa": "/laɪv ˌæmjəˈnɪʃən/",
+          "ex": [
+            "Soldiers trained with live ammunition at the range.",
+            "The police did not use live ammunition.",
+            "Live ammunition is never used in this kind of practice."
+          ]
+        },
+        {
+          "word": "scenarios",
+          "def": "Possible situations that people imagine and plan for",
+          "ipa": "/sɪˈnɛrioʊz/",
+          "ex": [
+            "The hospital practices different emergency scenarios.",
+            "We planned for a few scenarios before the trip.",
+            "Pilots train for scenarios such as engine failure."
+          ]
+        },
+        {
+          "word": "Ground crews",
+          "def": "Workers who prepare and repair planes on the ground",
+          "ipa": "/ɡraʊnd kruz/",
+          "ex": [
+            "Ground crews cleaned the snow off the plane.",
+            "Ground crews worked all night at the airport.",
+            "The pilot thanked the ground crews for their help."
+          ]
+        },
+        {
+          "word": "refueling",
+          "def": "Putting more fuel into a vehicle or aircraft",
+          "ipa": "/riˈfjuəlɪŋ/",
+          "ex": [
+            "The plane stopped in Ireland for refueling.",
+            "Refueling the truck took ten minutes.",
+            "Racing teams practice fast refueling."
+          ]
+        },
+        {
+          "word": "deter",
+          "def": "To stop someone from doing something by making them afraid of the result",
+          "ipa": "/dɪˈtɜr/",
+          "ex": [
+            "Bright lights can deter thieves.",
+            "High fines deter people from speeding.",
+            "Cameras in the store deter shoplifting."
+          ]
+        },
+        {
+          "word": "predictable",
+          "def": "Happening in a way that people expect",
+          "ipa": "/prɪˈdɪktəbəl/",
+          "ex": [
+            "The movie's ending was very predictable.",
+            "Babies sleep better with a predictable routine.",
+            "The weather here is predictable in the summer."
+          ]
+        },
+        {
+          "word": "cause alarm",
+          "def": "Make people worried or afraid",
+          "ipa": "/kɔz əˈlɑrm/",
+          "ex": [
+            "The loud noise did not cause alarm among the neighbors.",
+            "A small leak should not cause alarm.",
+            "The doctor said the test results do not cause alarm."
+          ]
+        },
+        {
+          "word": "safe and secure",
+          "def": "Protected from harm, damage or theft",
+          "ipa": "/seɪf ænd sɪˈkjʊr/",
+          "ex": [
+            "Keep your passport safe and secure when you travel.",
+            "The bank keeps our money safe and secure.",
+            "Parents want their children to feel safe and secure."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "NATO will hold its yearly nuclear drill in Italy this October, even after a recent Russian warning. The alliance calls it routine training that keeps its forces ready and targets no country.",
+          "a": true,
+          "why": "NATO says the drill will go ahead as planned. Officials say it trains forces and does not single out any country."
+        },
+        {
+          "s": "NATO is moving its nuclear drill close to Kaliningrad this year as an answer to Russia. Officials say the move shows that threats from Moscow will not change any of the alliance's plans.",
+          "a": false,
+          "why": "Close, but most of the drill will happen near Italy, far from Russia. NATO has played down any link to current world events."
+        },
+        {
+          "s": "Russia has started its own yearly nuclear training near the Baltic Sea, using ships from its main navy base. Leaders in Moscow say about two thousand troops will join over the next two weeks.",
+          "a": false,
+          "why": "This story is about NATO's own yearly drill. It goes back more than a decade and will start in Italy on October 13."
+        }
+      ],
+      "tf": [
+        {
+          "s": "NATO says its yearly nuclear exercise will go ahead as planned.",
+          "a": true,
+          "why": "Officials announced on October 8 that the drill will start in Italy on October 13."
+        },
+        {
+          "s": "NATO has put the exercise off because of Russia's warning.",
+          "a": false,
+          "why": "NATO has not put the exercise off. It will stick to its usual schedule."
+        },
+        {
+          "s": "Russia warned NATO countries against trying to cut off Kaliningrad.",
+          "a": true,
+          "why": "Russia's embassy in Ireland said Russia was ready to defend the region with all its weapons."
+        },
+        {
+          "s": "The exercise goes back only two or three years.",
+          "a": false,
+          "why": "It goes back more than a decade and is held at about the same time every year."
+        },
+        {
+          "s": "Officials explained exactly which scenarios they will test.",
+          "a": false,
+          "why": "Officials would not spell out which scenarios they will test."
+        },
+        {
+          "s": "No real nuclear warheads are used in the drill.",
+          "a": true,
+          "why": "Planes that can carry nuclear weapons take part, but crews carry out the drill without real warheads or live ammunition."
+        }
+      ]
+    },
     {
       "id": "genetic-tests-families-2026",
       "number": 141,
