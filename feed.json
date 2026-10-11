@@ -2,6 +2,470 @@
   "updated": "2026-10-11",
   "stories": [
     {
+      "id": "republicans-distance-trump-2026",
+      "number": 147,
+      "headline": "Republican candidates keep some distance from Trump",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n147-republicans-distance-trump-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds (Reuters, via Investing.com)",
+          "url": "https://www.investing.com/news/politics-news/most-republicans-in-tight-midterm-distance-themselves-from-trump-reuters-review-finds-4936057"
+        },
+        {
+          "title": "Voters favor Democrats on key issues but lack faith in either party to solve problems: AP-NORC poll (AP)",
+          "url": "https://apnews.com/article/democrats-republicans-trump-midterms-prices-healthcare-congress-109768f7544c9e0fcc7e716de0dc2157"
+        },
+        {
+          "title": "Republicans seek distance from Trump as US midterms loom (AFP, via The Standard)",
+          "url": "https://www.thestandard.com.hk/world/article/343589/Republicans-seek-distance-from-Trump-as-US-midterms-loom"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 7, 2026, the news agency Reuters published a review of Republican candidates running for Congress. It found that candidates in 41 of 62 [[competitive races]] were {{backing away from}} President Donald Trump. Some have {{broken with}} him on at least one policy. Others have {{played down}} their [[ties]] to him. The vote on November 3 will decide which party controls Congress. The result could affect Trump's ability to {{carry out}} his [[agenda]].",
+          "verbs": [
+            {
+              "display": "backing away from",
+              "base": "back away from",
+              "correct": "To keep some distance from someone",
+              "wrong": "To ask a leader to visit your state",
+              "correctFirst": true,
+              "why": "The mayor backed away from her old business partner after the scandal. Many fans backed away from the singer after his rude comments. Candidates in 41 of 62 competitive races were backing away from President Trump in some way."
+            },
+            {
+              "display": "broken with",
+              "base": "break with",
+              "correct": "To publicly disagree with a leader",
+              "wrong": "To choose a party's new leader",
+              "correctFirst": false,
+              "why": "The senator broke with his party on the tax bill. Two members broke with the club's president on the vote. Some Republican candidates have broken with Trump on at least one policy."
+            },
+            {
+              "display": "played down",
+              "base": "play down",
+              "correct": "To make something seem less important",
+              "wrong": "To make something easy to understand",
+              "correctFirst": true,
+              "why": "The coach played down the injury to his star player. She played down her own role in the project. Some candidates have played down their ties to Trump."
+            },
+            {
+              "display": "carry out",
+              "base": "carry out",
+              "correct": "To do what you have planned",
+              "wrong": "To explain a plan to voters",
+              "correctFirst": false,
+              "why": "The city will carry out its new bus plan next year. The workers carried out the repairs in one day. The election result could affect Trump's ability to carry out his agenda."
+            }
+          ]
+        },
+        {
+          "text": "Policy [[disagreements]] were the most common kind of split. They appeared in 23 of the 62 races, on issues such as [[beef imports]] and [[data centers]]. About a dozen candidates {{took down}} Trump's name, picture or [[endorsement]] from their websites. Most did this after winning their party's [[primary]]. Others {{stayed away from}} his events. Very few have {{spoken out against}} him directly. Most splits are over single issues, not his wider agenda.",
+          "verbs": [
+            {
+              "display": "took down",
+              "base": "take down",
+              "correct": "To remove something from a website",
+              "wrong": "To check facts on a website",
+              "correctFirst": true,
+              "why": "She took down the post after an hour. The store took down the old prices from its website. About a dozen candidates took down Trump's name, picture or endorsement from their campaign websites."
+            },
+            {
+              "display": "stayed away from",
+              "base": "stay away from",
+              "correct": "To choose not to attend something",
+              "wrong": "To give a speech at an event",
+              "correctFirst": false,
+              "why": "Many workers stayed away from the meeting. She stayed away from the party because she was tired. Some candidates stayed away from Trump's events."
+            },
+            {
+              "display": "spoken out against",
+              "base": "speak out against",
+              "correct": "To criticize someone openly",
+              "wrong": "To repeat someone's words in a speech",
+              "correctFirst": true,
+              "why": "Several nurses spoke out against the hospital's director. Two players spoke out against their coach after the game. Very few Republican candidates have spoken out against Trump directly."
+            }
+          ]
+        },
+        {
+          "text": "Reuters says keeping distance from the president is not new. Democratic candidates did the same in 2014 and 2022. A Reuters poll put Trump's [[approval rating]] at 32 percent, the lowest of his career. In that poll, Republicans {{fell behind}} Democrats among [[registered voters]], 37 percent to 44 percent. Campaign advisers privately told Reuters that candidates need this distance to {{win over}} [[independent voters]].",
+          "verbs": [
+            {
+              "display": "fell behind",
+              "base": "fall behind",
+              "correct": "To have less support than a rival",
+              "wrong": "To demand a new count of votes",
+              "correctFirst": false,
+              "why": "The mayor fell behind her rival in the latest poll. Our candidate fell behind after the second debate. In a Reuters poll, Republicans fell behind Democrats among registered voters."
+            },
+            {
+              "display": "win over",
+              "base": "win over",
+              "correct": "To persuade someone to support you",
+              "wrong": "To ask someone to answer a poll",
+              "correctFirst": true,
+              "why": "The new teacher won over the class with her kindness. The small shop won over customers with friendly service. Advisers say candidates need distance from Trump to win over independent voters."
+            }
+          ]
+        },
+        {
+          "text": "A Republican [[consultant]] {{summed up}} the challenge. She said candidates want [[credit]] for the government's successes without being tied too closely to the Trump [[brand]]. A White House spokesman {{stood by}} the president and called him the party's best messenger. An Associated Press poll in late September found that voters favor Democrats on the [[cost of living]], 38 percent to 27 percent. Few voters in that poll said either party can solve big problems. Republicans hope to {{hold on to}} control of Congress.",
+          "verbs": [
+            {
+              "display": "summed up",
+              "base": "sum up",
+              "correct": "To describe something briefly",
+              "wrong": "To repeat something many times",
+              "correctFirst": false,
+              "why": "Can you sum up the movie in one sentence? The teacher summed up the lesson at the end of class. A Republican consultant summed up the challenge that candidates face."
+            },
+            {
+              "display": "stood by",
+              "base": "stand by",
+              "correct": "To keep supporting someone",
+              "wrong": "To give someone a prize",
+              "correctFirst": true,
+              "why": "Her friends stood by her during the trial. The fans stood by the team after many losses. A White House spokesman stood by Trump and called him the party's best messenger."
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something you already have",
+              "wrong": "To change the rules of something",
+              "correctFirst": false,
+              "why": "The team held on to its lead until the final minute. She held on to her job when others lost theirs. Republicans hope to hold on to control of Congress."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Back away from",
+          "def": "To keep some distance from someone",
+          "ipa": "/bæk əˈweɪ frʌm/",
+          "ex": [
+            "The company backed away from its partner when sales dropped.",
+            "Some voters backed away from the mayor after the news came out.",
+            "He backed away from his old friends after high school."
+          ]
+        },
+        {
+          "verb": "Break with",
+          "def": "To publicly disagree with a leader",
+          "ipa": "/breɪk wɪθ/",
+          "ex": [
+            "The governor broke with her party on school funding.",
+            "He broke with his boss on the new rules.",
+            "A few members broke with the leader on the budget."
+          ]
+        },
+        {
+          "verb": "Play down",
+          "def": "To make something seem less important",
+          "ipa": "/pleɪ daʊn/",
+          "ex": [
+            "The company played down the problem with its new phone.",
+            "He played down his success and thanked his team.",
+            "Officials played down the risk of more storms."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do what you have planned",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "The new mayor wants to carry out her plans quickly.",
+            "It took two years to carry out the changes.",
+            "The team carried out the plan without any problems."
+          ]
+        },
+        {
+          "verb": "Take down",
+          "def": "To remove something from a website",
+          "ipa": "/teɪk daʊn/",
+          "ex": [
+            "The school took down the photo after parents complained.",
+            "He took down his old videos last year.",
+            "The website took down the false story."
+          ]
+        },
+        {
+          "verb": "Stay away from",
+          "def": "To choose not to attend something",
+          "ipa": "/steɪ əˈweɪ frʌm/",
+          "ex": [
+            "Many workers stayed away from the office party.",
+            "She stayed away from the meeting because she was sick.",
+            "Fans stayed away from the game after ticket prices rose."
+          ]
+        },
+        {
+          "verb": "Speak out against",
+          "def": "To criticize someone openly",
+          "ipa": "/spik aʊt əˈɡɛnst/",
+          "ex": [
+            "Several workers spoke out against their manager at the meeting.",
+            "Some senators spoke out against the governor on TV.",
+            "A few parents spoke out against the principal."
+          ]
+        },
+        {
+          "verb": "Fall behind",
+          "def": "To have less support than a rival",
+          "ipa": "/fɔl bɪˈhaɪnd/",
+          "ex": [
+            "The young candidate fell behind in the polls in October.",
+            "Her party fell behind its rivals in the big cities.",
+            "The senator fell behind his rival after the debate."
+          ]
+        },
+        {
+          "verb": "Win over",
+          "def": "To persuade someone to support you",
+          "ipa": "/wɪn ˈoʊvər/",
+          "ex": [
+            "She won over her neighbors by helping with their gardens.",
+            "The company won over young buyers with lower prices.",
+            "He gave a short speech and won over the crowd."
+          ]
+        },
+        {
+          "verb": "Sum up",
+          "def": "To describe something briefly",
+          "ipa": "/sʌm ʌp/",
+          "ex": [
+            "Let me sum up the main points of the report.",
+            "She summed up her vacation in three words.",
+            "The coach summed up the season in a short speech."
+          ]
+        },
+        {
+          "verb": "Stand by",
+          "def": "To keep supporting someone",
+          "ipa": "/stænd baɪ/",
+          "ex": [
+            "His wife stood by him when he lost his job.",
+            "The team stood by its coach after a bad season.",
+            "Most of his friends stood by him after the mistake."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something you already have",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "The champion held on to her title for three years.",
+            "The party held on to the governor's office in the last election.",
+            "He worked hard to hold on to his best customers."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "competitive races",
+          "def": "Elections where both sides have a real chance to win",
+          "ipa": "/kəmˈpɛtətɪv ˈreɪsɪz/",
+          "ex": [
+            "Both parties spend a lot of money in competitive races.",
+            "There are only a few competitive races in our state this year.",
+            "Competitive races often bring more people out to vote."
+          ]
+        },
+        {
+          "word": "ties",
+          "def": "Links or connections between people or groups",
+          "ipa": "/taɪz/",
+          "ex": [
+            "The two countries have close ties.",
+            "She cut her ties with the company after she left.",
+            "The mayor has strong ties to local business owners."
+          ]
+        },
+        {
+          "word": "agenda",
+          "def": "A list of things a leader or group plans to do",
+          "ipa": "/əˈdʒɛndə/",
+          "ex": [
+            "The new mayor has a busy agenda for her first year.",
+            "Lower taxes are at the top of his agenda.",
+            "The union shared its agenda with the company."
+          ]
+        },
+        {
+          "word": "disagreements",
+          "def": "Times when people do not have the same opinion",
+          "ipa": "/ˌdɪsəˈɡrimənts/",
+          "ex": [
+            "My brother and I have small disagreements about money.",
+            "The team settled its disagreements before the game.",
+            "There were many disagreements at the town meeting."
+          ]
+        },
+        {
+          "word": "beef imports",
+          "def": "Beef that one country buys from other countries",
+          "ipa": "/bif ˈɪmpɔrts/",
+          "ex": [
+            "Beef imports rose when local prices went up.",
+            "Some farmers worry that beef imports will lower their prices.",
+            "The country limited beef imports after a disease outbreak."
+          ]
+        },
+        {
+          "word": "data centers",
+          "def": "Large buildings full of computers that store and process information",
+          "ipa": "/ˈdeɪtə ˈsɛntərz/",
+          "ex": [
+            "Data centers use a lot of electricity.",
+            "Two new data centers are being built near the river.",
+            "Many tech companies are building data centers in Texas."
+          ]
+        },
+        {
+          "word": "endorsement",
+          "def": "Public support for a person, especially in an election",
+          "ipa": "/ɪnˈdɔrsmənt/",
+          "ex": [
+            "The candidate got an endorsement from the local newspaper.",
+            "Her endorsement helped him win the race.",
+            "The union gave its endorsement to the mayor."
+          ]
+        },
+        {
+          "word": "primary",
+          "def": "An election that chooses a party's candidate",
+          "ipa": "/ˈpraɪˌmɛri/",
+          "ex": [
+            "She won the primary by a few hundred votes.",
+            "Only party members can vote in that primary.",
+            "The primary will take place in June."
+          ]
+        },
+        {
+          "word": "approval rating",
+          "def": "The share of people who say a leader is doing a good job",
+          "ipa": "/əˈpruvəl ˈreɪtɪŋ/",
+          "ex": [
+            "The governor's approval rating rose after the storm.",
+            "A low approval rating can hurt a leader's party.",
+            "Her approval rating is higher in rural areas."
+          ]
+        },
+        {
+          "word": "registered voters",
+          "def": "People who have signed up officially so they can vote",
+          "ipa": "/ˈrɛdʒɪstərd ˈvoʊtərz/",
+          "ex": [
+            "The city has about two million registered voters.",
+            "Only registered voters can take part in the election.",
+            "More young people became registered voters this year."
+          ]
+        },
+        {
+          "word": "independent voters",
+          "def": "Voters who do not belong to any political party",
+          "ipa": "/ˌɪndɪˈpɛndənt ˈvoʊtərz/",
+          "ex": [
+            "Independent voters often decide close elections.",
+            "Both candidates are trying to reach independent voters.",
+            "Many independent voters care most about prices."
+          ]
+        },
+        {
+          "word": "consultant",
+          "def": "An expert who is paid to give advice",
+          "ipa": "/kənˈsʌltənt/",
+          "ex": [
+            "The school hired a consultant to plan its budget.",
+            "My aunt works as a consultant for small businesses.",
+            "The consultant said the company should cut costs."
+          ]
+        },
+        {
+          "word": "credit",
+          "def": "Praise or thanks for something good that someone did",
+          "ipa": "/ˈkrɛdɪt/",
+          "ex": [
+            "She deserves credit for the team's success.",
+            "He took credit for an idea that was not his.",
+            "The workers got no credit for their extra hours."
+          ]
+        },
+        {
+          "word": "brand",
+          "def": "The image and reputation people connect with a name",
+          "ipa": "/brænd/",
+          "ex": [
+            "The singer built her brand on social media.",
+            "A bad review can hurt a company's brand.",
+            "His personal brand is about hard work and honesty."
+          ]
+        },
+        {
+          "word": "cost of living",
+          "def": "The amount of money people need for basic things like food and rent",
+          "ipa": "/kɔst əv ˈlɪvɪŋ/",
+          "ex": [
+            "The cost of living is very high in New York.",
+            "Many families moved because of the rising cost of living.",
+            "Our pay did not keep pace with the cost of living."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A Reuters review found that most Republicans in close congressional races are keeping some distance from the president. Many hope this will help them gain independent voters in November.",
+          "a": true,
+          "why": "Candidates in 41 of 62 competitive races were backing away from the president. Advisers say this distance helps them win over independent voters."
+        },
+        {
+          "s": "Most Republicans in close races have openly rejected the president on his main plans. They now criticize him at every rally, hoping this will earn them the support of many angry voters.",
+          "a": false,
+          "why": "Close, but most splits are over single issues, not his wider agenda. Very few candidates have spoken out against the president directly."
+        },
+        {
+          "s": "A new study shows that fewer young Americans expect to cast ballots in the midterm elections. Researchers say many feel that neither political party cares about their worries over rent and jobs.",
+          "a": false,
+          "why": "This story is about Republican candidates keeping some distance from the president. Some have broken with him on policy, and others have played down their ties."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Candidates in 41 of 62 competitive races were backing away from Trump.",
+          "a": true,
+          "why": "The Reuters review found this in 41 of the 62 races before the November 3 elections."
+        },
+        {
+          "s": "Most of the candidates who took down Trump's name did it before their primary.",
+          "a": false,
+          "why": "Most of the candidates who took down Trump's name, picture or endorsement did it after they won their primary."
+        },
+        {
+          "s": "Policy disagreements appeared in all 62 of the competitive races.",
+          "a": false,
+          "why": "Candidates broke with Trump on policy in 23 of the 62 races, not in all of them."
+        },
+        {
+          "s": "In a Reuters poll, Republicans fell behind Democrats.",
+          "a": true,
+          "why": "Among registered voters, Democrats had 44 percent and Republicans had 37 percent."
+        },
+        {
+          "s": "A White House spokesman stood by the president.",
+          "a": true,
+          "why": "The spokesman stood by Trump and called him the party's best messenger."
+        },
+        {
+          "s": "Most of the candidates have spoken out against Trump directly.",
+          "a": false,
+          "why": "Very few candidates have spoken out against him directly. Most splits are over single issues."
+        }
+      ]
+    },
+    {
       "id": "brazil-runoff-2026",
       "number": 146,
       "headline": "Bolsonaro finishes first as Brazil heads to a runoff",
