@@ -2,6 +2,494 @@
   "updated": "2026-10-11",
   "stories": [
     {
+      "id": "brazil-runoff-2026",
+      "number": 146,
+      "headline": "Bolsonaro finishes first as Brazil heads to a runoff",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n146-brazil-runoff-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Brazil's presidential race heads to Lula-Bolsonaro runoff as right gains ground (NPR, via WUNC)",
+          "url": "https://www.wunc.org/2026-10-04/brazils-presidential-race-heads-to-lula-bolsonaro-run-off-as-right-gains-ground"
+        },
+        {
+          "title": "Brazil's presidential race: Three key takeaways from the first round (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round"
+        },
+        {
+          "title": "Brazil heads to run-off as Flávio Bolsonaro takes first place finish over Lula (Buenos Aires Times / AFP)",
+          "url": "https://batimes.com.ar/news/latin-america/brazil-heads-to-run-off-as-flavio-bolsonaro-takes-first-place-finish-over-lula.phtml"
+        },
+        {
+          "title": "Brazil vote set for runoff as Flavio Bolsonaro sees surprise lead (video, Reuters)",
+          "url": "https://www.youtube.com/watch?v=7uX0YBc8RK4"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Brazil held the [[first round]] of its presidential election on October 4, 2026. Senator Bolsonaro {{came in}} first with about 47 percent of the vote. President Lula got about 45 percent. A candidate needs more than half the valid votes to win [[outright]]. Both men {{fell short of}} that [[mark]]. Lula will now {{take on}} Bolsonaro in a runoff on October 25. The result shows a country [[evenly split]] between two leaders.",
+          "verbs": [
+            {
+              "display": "came in",
+              "base": "come in",
+              "correct": "To finish a race at a given place",
+              "wrong": "To make a speech to voters",
+              "correctFirst": true,
+              "why": "Our team came in second at the state finals. She came in third in the race last year. Senator Bolsonaro came in first with about 47 percent of the vote."
+            },
+            {
+              "display": "fell short of",
+              "base": "fall short of",
+              "correct": "To fail to reach a goal or level",
+              "wrong": "To leave a race before the end",
+              "correctFirst": false,
+              "why": "The school fell short of its goal of 500 books. His test score fell short of what he needed. Both men fell short of the more than half of the votes needed to win."
+            },
+            {
+              "display": "take on",
+              "base": "take on",
+              "correct": "To compete against someone",
+              "wrong": "To give someone advice",
+              "correctFirst": true,
+              "why": "Our team will take on the champions on Friday. She plans to take on the mayor in next year's race. Lula will take on Bolsonaro in a runoff on October 25."
+            }
+          ]
+        },
+        {
+          "text": "The result {{turned out}} differently from what most [[opinion polls]] had shown. Most of them had put Lula in first place. Bolsonaro {{racked up}} about 56 million votes. That is more than his father, a former president, received in 2018 or 2022. The candidates who finished third, fourth and fifth are all [[right-wing]]. Two right-wing candidates won about 5.3 million votes together. Both have said they will not [[endorse]] either man in the runoff.",
+          "verbs": [
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To happen a certain way",
+              "wrong": "To be counted a second time",
+              "correctFirst": false,
+              "why": "The party turned out better than we planned. Her first day at work turned out fine. The result turned out differently from what most opinion polls had shown."
+            },
+            {
+              "display": "racked up",
+              "base": "rack up",
+              "correct": "To collect a large total",
+              "wrong": "To promise votes to a party",
+              "correctFirst": true,
+              "why": "The singer racked up ten awards in one night. He racked up a lot of points in the game. Bolsonaro racked up about 56 million votes in the first round."
+            }
+          ]
+        },
+        {
+          "text": "Brazilians also elected members of Congress. Right-wing parties did well in both [[chambers]] and {{picked up}} [[seats]] in the Senate. Bolsonaro's party was [[on track]] to become the largest group in the [[lower house]]. A stronger right could make it harder for Lula to {{get his plans through}} Congress. Bolsonaro has promised to {{carry on}} his father's [[legacy]]. His father is serving a 27-year [[prison sentence]] for [[plotting]] to [[overturn]] his 2022 election loss to Lula.",
+          "verbs": [
+            {
+              "display": "picked up",
+              "base": "pick up",
+              "correct": "To win or gain something",
+              "wrong": "To share seats with others",
+              "correctFirst": true,
+              "why": "The team picked up three more points on Sunday. Her party picked up two seats on the city council. Right-wing parties picked up seats in the Senate."
+            },
+            {
+              "display": "get his plans through",
+              "base": "get through",
+              "correct": "To have a plan approved by lawmakers",
+              "wrong": "To write a plan for new laws",
+              "correctFirst": false,
+              "why": "The mayor could not get the new tax through the city council. She finally got her school plan through the state Senate. A stronger right could make it harder for Lula to get his plans through Congress."
+            },
+            {
+              "display": "carry on",
+              "base": "carry on",
+              "correct": "To continue what someone else started",
+              "wrong": "To win more votes than a rival",
+              "correctFirst": true,
+              "why": "She wants to carry on her mother's work at the bakery. The new coach will carry on the old coach's training plan. Bolsonaro has promised to carry on his father's legacy."
+            }
+          ]
+        },
+        {
+          "text": "Bolsonaro, who is 45, says Brazil wants change. He has also promised to {{bring down}} the [[budget deficit]]. Lula, who is 80, is seeking a fourth term. Analysts say that to {{hold on to}} power he must {{win back}} younger voters who supported him in 2022. He has promised to {{stand up to}} US pressure on Latin America. A Bolsonaro win would add to a [[wave]] of right-wing victories across the region.",
+          "verbs": [
+            {
+              "display": "bring down",
+              "base": "bring down",
+              "correct": "To make an amount smaller",
+              "wrong": "To share an amount fairly",
+              "correctFirst": false,
+              "why": "The city wants to bring down the cost of bus tickets. Exercise can help bring down your blood pressure. Bolsonaro has promised to bring down the budget deficit."
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something you already have",
+              "wrong": "To let a court make a decision",
+              "correctFirst": true,
+              "why": "The team held on to first place all season. The mayor hopes to hold on to her job in the next election. Analysts say Lula must win back younger voters to hold on to power."
+            },
+            {
+              "display": "win back",
+              "base": "win back",
+              "correct": "To regain the support of people",
+              "wrong": "To count people in a survey",
+              "correctFirst": false,
+              "why": "The store lowered its prices to win back customers. He apologized to win back his friends. Analysts say Lula needs to win back younger voters who supported him in 2022."
+            },
+            {
+              "display": "stand up to",
+              "base": "stand up to",
+              "correct": "To resist pressure from someone stronger",
+              "wrong": "To seek help from a stronger country",
+              "correctFirst": true,
+              "why": "She stood up to the boss who treated her badly. Small towns sometimes stand up to big companies. Lula has promised to stand up to US pressure on Latin America."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come in",
+          "def": "To finish a race at a given place",
+          "ipa": "/kʌm ɪn/",
+          "ex": [
+            "My brother came in last in the swimming race.",
+            "Which horse came in first?",
+            "Our school came in fourth in the science contest."
+          ]
+        },
+        {
+          "verb": "Fall short of",
+          "def": "To fail to reach a goal or level",
+          "ipa": "/fɔl ʃɔrt ʌv/",
+          "ex": [
+            "The movie fell short of what fans expected.",
+            "Sales fell short of the company's goal in June.",
+            "We fell short of the money we needed for the trip."
+          ]
+        },
+        {
+          "verb": "Take on",
+          "def": "To compete against someone",
+          "ipa": "/teɪk ɑn/",
+          "ex": [
+            "The young boxer will take on a much older fighter.",
+            "Our small town team took on a big city team.",
+            "Who will take on the governor in the next election?"
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To happen a certain way",
+          "ipa": "/tɜrn aʊt/",
+          "ex": [
+            "The weather turned out nice after all.",
+            "I was worried about the test, but it turned out OK.",
+            "Things don't always turn out the way you plan."
+          ]
+        },
+        {
+          "verb": "Rack up",
+          "def": "To collect a large total",
+          "ipa": "/ræk ʌp/",
+          "ex": [
+            "Our team racked up five wins in a row.",
+            "My dad racked up a big phone bill on his trip.",
+            "The new museum racked up 200,000 visitors in its first year."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To win or gain something",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "The new candidate picked up support in the cities.",
+            "Our team picked up a big win last night.",
+            "The store picked up many new customers after the sale."
+          ]
+        },
+        {
+          "verb": "Get through",
+          "def": "To have a plan approved by lawmakers",
+          "ipa": "/ɡɛt θru/",
+          "ex": [
+            "The mayor got the road plan through the city council.",
+            "It took two years to get the law through Congress.",
+            "The governor could not get her budget through the state house."
+          ]
+        },
+        {
+          "verb": "Carry on",
+          "def": "To continue what someone else started",
+          "ipa": "/ˈkæri ɑn/",
+          "ex": [
+            "He will carry on the family farm after his father.",
+            "The students carried on the project their teacher began.",
+            "We want to carry on our grandmother's family traditions."
+          ]
+        },
+        {
+          "verb": "Bring down",
+          "def": "To make an amount smaller",
+          "ipa": "/brɪŋ daʊn/",
+          "ex": [
+            "The store brought down its prices for the summer.",
+            "New buses helped bring down traffic in the city.",
+            "We need to bring down our monthly bills."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something you already have",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "The champion held on to her title for three years.",
+            "The company is trying to hold on to its best workers.",
+            "It is hard to hold on to a lead in a long game."
+          ]
+        },
+        {
+          "verb": "Win back",
+          "def": "To regain the support of people",
+          "ipa": "/wɪn bæk/",
+          "ex": [
+            "The restaurant is trying to win back its old customers.",
+            "The coach wants to win back the fans after a bad season.",
+            "It can take years to win back people's trust."
+          ]
+        },
+        {
+          "verb": "Stand up to",
+          "def": "To resist pressure from someone stronger",
+          "ipa": "/stænd ʌp tu/",
+          "ex": [
+            "The boy stood up to the kids who teased him.",
+            "Workers stood up to the company and asked for better pay.",
+            "It takes courage to stand up to a powerful person."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "first round",
+          "def": "The first stage of a vote or contest with more than one stage",
+          "ipa": "/fɜrst raʊnd/",
+          "ex": [
+            "Our team lost in the first round of the tournament.",
+            "Only ten singers made it past the first round of the show.",
+            "The first round of interviews will be on Monday."
+          ]
+        },
+        {
+          "word": "outright",
+          "def": "Completely and without needing another vote or step",
+          "ipa": "/ˈaʊtˌraɪt/",
+          "ex": [
+            "Nobody won the contest outright, so there will be a second vote.",
+            "The team needs one more win to take the title outright.",
+            "She did not win outright, but she was close."
+          ]
+        },
+        {
+          "word": "mark",
+          "def": "A level or number that someone tries to reach",
+          "ipa": "/mɑrk/",
+          "ex": [
+            "Sales passed the one million mark in May.",
+            "The temperature hit the 100-degree mark today.",
+            "He ran close to the four-minute mark."
+          ]
+        },
+        {
+          "word": "evenly split",
+          "def": "Divided into two parts that are almost the same size",
+          "ipa": "/ˈivənli splɪt/",
+          "ex": [
+            "The class was evenly split on where to go for the trip.",
+            "Our family is evenly split between cat people and dog people.",
+            "The jury was evenly split, so there was no decision."
+          ]
+        },
+        {
+          "word": "opinion polls",
+          "def": "Surveys that ask many people what they think",
+          "ipa": "/əˈpɪnjən poʊlz/",
+          "ex": [
+            "Opinion polls show that most people want lower taxes.",
+            "The newspaper paid for two opinion polls before the vote.",
+            "Opinion polls can be wrong when a race is close."
+          ]
+        },
+        {
+          "word": "right-wing",
+          "def": "Supporting conservative ideas in politics",
+          "ipa": "/ˈraɪt ˌwɪŋ/",
+          "ex": [
+            "The newspaper has a right-wing owner.",
+            "Many right-wing voters care a lot about crime.",
+            "She left the right-wing group after a few years."
+          ]
+        },
+        {
+          "word": "endorse",
+          "def": "To say in public that you support someone",
+          "ipa": "/ɪnˈdɔrs/",
+          "ex": [
+            "The local paper did not endorse anyone for mayor.",
+            "Several famous actors endorsed the candidate.",
+            "The union will endorse the governor next week."
+          ]
+        },
+        {
+          "word": "chambers",
+          "def": "The two parts of a law-making body",
+          "ipa": "/ˈtʃeɪmbərz/",
+          "ex": [
+            "The bill must pass both chambers before it becomes law.",
+            "One party controls both chambers of the state legislature.",
+            "The two chambers could not agree on the budget."
+          ]
+        },
+        {
+          "word": "seats",
+          "def": "Places in a lawmaking group won in an election",
+          "ipa": "/sits/",
+          "ex": [
+            "The party won ten seats on the city council.",
+            "There are 100 seats in the US Senate.",
+            "The party lost three seats in the last election."
+          ]
+        },
+        {
+          "word": "on track",
+          "def": "Likely to reach a goal or result",
+          "ipa": "/ɑn træk/",
+          "ex": [
+            "The new bridge is on track to open in May.",
+            "I'm on track to finish my degree next year.",
+            "The company is on track for its best year."
+          ]
+        },
+        {
+          "word": "lower house",
+          "def": "The larger of the two parts of a lawmaking body",
+          "ipa": "/ˈloʊər haʊs/",
+          "ex": [
+            "In the US, the lower house is the House of Representatives.",
+            "The bill passed the lower house but failed in the Senate.",
+            "Members of the lower house serve two-year terms."
+          ]
+        },
+        {
+          "word": "legacy",
+          "def": "The ideas and work that someone leaves for others",
+          "ipa": "/ˈlɛɡəsi/",
+          "ex": [
+            "The teacher's legacy lives on in her students.",
+            "The old mayor wanted a new library as his legacy.",
+            "Music is a big part of my grandfather's legacy."
+          ]
+        },
+        {
+          "word": "prison sentence",
+          "def": "The time a court orders someone to spend in prison",
+          "ipa": "/ˈprɪzən ˈsɛntəns/",
+          "ex": [
+            "The thief got a two-year prison sentence.",
+            "His prison sentence was cut for good behavior.",
+            "She finished her prison sentence and found a job."
+          ]
+        },
+        {
+          "word": "plotting",
+          "def": "Making a secret plan to do something wrong",
+          "ipa": "/ˈplɑtɪŋ/",
+          "ex": [
+            "The two men were caught plotting to rob a bank.",
+            "Police said the group was plotting an attack.",
+            "In the movie, the king's brother is plotting against him."
+          ]
+        },
+        {
+          "word": "overturn",
+          "def": "To change a result or decision so that it no longer counts",
+          "ipa": "/ˌoʊvərˈtɜrn/",
+          "ex": [
+            "The higher court may overturn the judge's decision.",
+            "The coach asked the league to overturn the result of the game.",
+            "The city tried to overturn the new state law."
+          ]
+        },
+        {
+          "word": "budget deficit",
+          "def": "The amount by which a government spends more than it earns",
+          "ipa": "/ˈbʌdʒɪt ˈdɛfəsɪt/",
+          "ex": [
+            "The state has a large budget deficit this year.",
+            "Higher taxes could help close the budget deficit.",
+            "The city cut programs because of its budget deficit."
+          ]
+        },
+        {
+          "word": "wave",
+          "def": "A large number of similar events that happen in a short time",
+          "ipa": "/weɪv/",
+          "ex": [
+            "The city saw a wave of new restaurants open last year.",
+            "A wave of strikes hit the country in the spring.",
+            "There has been a wave of complaints about the new app."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Brazil's presidential race goes to a second round after neither top candidate won more than half the votes. The right also did well in Congress, which could shape Brazil and the region.",
+          "a": true,
+          "why": "Both men fell short of the votes needed to win outright, so there will be a runoff on October 25. Right-wing parties also picked up seats in the Senate."
+        },
+        {
+          "s": "Bolsonaro won the first round after two other right-wing candidates asked their supporters to vote for him. Both of these rivals now plan to campaign at his side until October 25.",
+          "a": false,
+          "why": "Close, but the two right-wing candidates who were knocked out have said they will not endorse either man in the runoff."
+        },
+        {
+          "s": "Brazil's Congress has passed a new law that makes voting optional for all adults. Supporters say this change will save money, but critics fear that fewer young people will take part.",
+          "a": false,
+          "why": "This story is about the first round of Brazil's presidential election. Lula will take on Bolsonaro in a runoff on October 25."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Bolsonaro came in first with about 47 percent of the vote.",
+          "a": true,
+          "why": "Bolsonaro finished first with about 47 percent, and Lula was second with about 45 percent."
+        },
+        {
+          "s": "The result turned out just as most opinion polls had shown.",
+          "a": false,
+          "why": "The result turned out differently from most opinion polls, which had put Lula in first place."
+        },
+        {
+          "s": "Right-wing parties picked up seats in the Senate.",
+          "a": true,
+          "why": "Right-wing parties did well in both chambers and picked up seats in the Senate."
+        },
+        {
+          "s": "Two right-wing candidates who lost said they will endorse Lula.",
+          "a": false,
+          "why": "Both said they will not endorse either man when Lula takes on Bolsonaro in the runoff."
+        },
+        {
+          "s": "Bolsonaro has promised to carry on his father's legacy.",
+          "a": true,
+          "why": "Bolsonaro wants to carry on his father's legacy and also bring down the budget deficit."
+        },
+        {
+          "s": "Lula needs to win back older voters who supported him in 2022.",
+          "a": false,
+          "why": "Analysts say Lula needs to win back younger voters who supported him in 2022."
+        }
+      ]
+    },
+    {
       "id": "trump-russia-diesel-deal-2026",
       "number": 145,
       "headline": "The US eases sanctions to get Russian diesel",
