@@ -1,6 +1,472 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "stories": [
+    {
+      "id": "india-voter-rolls-2026",
+      "number": 150,
+      "headline": "India removes over 130 million names from voter lists",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n150-india-voter-rolls-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Indian opposition leader Rahul Gandhi detained over election chief protest (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest"
+        },
+        {
+          "title": "India opposition leader detained during protest against election chief (AP, via La Nación)",
+          "url": "https://www.lanacion.com.ar/usa/india-opposition-leader-detained-during-protest-against-election-chief-nid07102026/"
+        },
+        {
+          "title": "India opposition leaders briefly detained in election protest (AFP, via The Star)",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/06/india-opposition-leaders-briefly-detained-in-election-protest"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Police in New Delhi [[detained]] Indian opposition leader Rahul Gandhi on October 7, 2026. It was the third time in two days. He and other opposition lawmakers were marching toward a [[protest site]] in the capital. On October 6, police {{broke up}} a march from parliament and {{let the lawmakers go}} soon after. Gandhi said the protesters {{showed up}} again [[without warning]]. They are {{calling for}} India's chief election commissioner to {{step down}}.",
+          "verbs": [
+            {
+              "display": "broke up",
+              "base": "break up",
+              "correct": "To make a crowd leave a place",
+              "wrong": "To count the people in a crowd",
+              "correctFirst": true,
+              "why": "Police broke up the crowd outside the stadium. Teachers broke up the crowd in the hallway. On October 6, police broke up a march from parliament."
+            },
+            {
+              "display": "let the lawmakers go",
+              "base": "let go",
+              "correct": "To allow someone to leave",
+              "wrong": "To make someone a leader",
+              "correctFirst": false,
+              "why": "The police asked him a few questions and then let him go. The store let the boy go after his mother arrived. Police let the lawmakers go soon after the march on October 6."
+            },
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To arrive at a place",
+              "wrong": "To ask for a permit",
+              "correctFirst": true,
+              "why": "Only five people showed up for the meeting. She showed up at my door with a cake. Gandhi said the protesters showed up again without warning."
+            },
+            {
+              "display": "calling for",
+              "base": "call for",
+              "correct": "To say that something must happen",
+              "wrong": "To vote against a new law",
+              "correctFirst": false,
+              "why": "Parents are calling for safer roads near the school. The workers called for higher pay. The protesters are calling for the chief election commissioner to resign."
+            },
+            {
+              "display": "step down",
+              "base": "step down",
+              "correct": "To leave an important job",
+              "wrong": "To give a long speech",
+              "correctFirst": true,
+              "why": "The coach will step down at the end of the season. She stepped down as mayor after ten years. The protesters want India's chief election commissioner to step down."
+            }
+          ]
+        },
+        {
+          "text": "The protests are about a huge [[revision]] of India's [[voter lists]]. The Election Commission began {{carrying it out}} in one eastern state in 2025. It has since spread to most of the country's other states. According to the Associated Press, more than 130 million names have been {{taken off}} the lists. Millions of people have [[appealed]] the [[removals]]. About 969 million people were [[eligible]] to vote in India's 2024 election.",
+          "verbs": [
+            {
+              "display": "carrying it out",
+              "base": "carry out",
+              "correct": "To do a planned piece of work",
+              "wrong": "To pay for a large project",
+              "correctFirst": false,
+              "why": "The city will carry out repairs on the bridge next month. Nurses carried out tests on every patient. The Election Commission began carrying out the revision in one state in 2025."
+            },
+            {
+              "display": "taken off",
+              "base": "take off",
+              "correct": "To remove something from a list",
+              "wrong": "To print a list on paper",
+              "correctFirst": true,
+              "why": "My name was taken off the guest list by mistake. The store took the old phones off its website. More than 130 million names have been taken off India's voter lists."
+            }
+          ]
+        },
+        {
+          "text": "Opposition parties say many [[legitimate]] voters have been {{left out}}. They claim the changes [[unfairly]] removed more people who support the opposition. Some critics say [[minority groups]] have been hurt the most, especially Muslims. The opposition wants the revision stopped and the names {{put back}} on the lists. In September, an Indian newspaper reported that two of the commission's three members had [[objected]] at least 14 times to [[key decisions]].",
+          "verbs": [
+            {
+              "display": "left out",
+              "base": "leave out",
+              "correct": "To not include someone",
+              "wrong": "To move someone to a new city",
+              "correctFirst": false,
+              "why": "Two players were left out of the team photo. She felt left out when her friends made plans without her. Opposition parties say many legitimate voters have been left out."
+            },
+            {
+              "display": "put back",
+              "base": "put back",
+              "correct": "To return something to its place",
+              "wrong": "To print something in a newspaper",
+              "correctFirst": true,
+              "why": "Please put the books back on the shelf. He put the milk back in the fridge. The opposition wants the removed names put back on the voter lists."
+            }
+          ]
+        },
+        {
+          "text": "The commission and Prime Minister Narendra Modi's party deny any [[wrongdoing]]. The commission says the revision aims to {{weed out}} [[duplicate]] and ineligible names. It says it is {{cracking down on}} [[fake registrations]] while keeping eligible voters on the lists. India's Supreme Court has ordered the government and the commission to explain decisions linked to the revision. Another [[hearing]] was expected in mid-October.",
+          "verbs": [
+            {
+              "display": "weed out",
+              "base": "weed out",
+              "correct": "To find and remove what is not wanted",
+              "wrong": "To print names in large letters",
+              "correctFirst": false,
+              "why": "The company tries to weed out weak job applicants early. Our teacher helped us weed out mistakes in our essays. The commission says the revision aims to weed out duplicate names."
+            },
+            {
+              "display": "cracking down on",
+              "base": "crack down on",
+              "correct": "To act strongly to stop something",
+              "wrong": "To keep a secret about something",
+              "correctFirst": true,
+              "why": "The city is cracking down on drivers who park illegally. The school cracked down on cheating during exams. The commission says it is cracking down on fake registrations."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Break up",
+          "def": "To make a crowd leave a place",
+          "ipa": "/breɪk ʌp/",
+          "ex": [
+            "Security guards broke up the crowd after the concert.",
+            "Guards broke up the group of fans at the gate.",
+            "Police broke up the party at midnight."
+          ]
+        },
+        {
+          "verb": "Let go",
+          "def": "To allow someone to leave",
+          "ipa": "/lɛt ɡoʊ/",
+          "ex": [
+            "The officer checked his license and let him go.",
+            "They held the man for an hour and then let him go.",
+            "The guards let the visitors go after a short search."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To arrive at a place",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "He showed up late for work again.",
+            "Hundreds of fans showed up at the airport.",
+            "What time should we show up for dinner?"
+          ]
+        },
+        {
+          "verb": "Call for",
+          "def": "To say that something must happen",
+          "ipa": "/kɔl fɔr/",
+          "ex": [
+            "Many doctors are calling for less sugar in school meals.",
+            "The union called for a new contract.",
+            "Neighbors called for more lights in the park."
+          ]
+        },
+        {
+          "verb": "Step down",
+          "def": "To leave an important job",
+          "ipa": "/stɛp daʊn/",
+          "ex": [
+            "The company's boss stepped down after the scandal.",
+            "He plans to step down as team captain next year.",
+            "Many people want the minister to step down."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do a planned piece of work",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "Workers carried out safety checks on the plane.",
+            "The hospital will carry out the surgery on Monday.",
+            "Students carried out a survey of their classmates."
+          ]
+        },
+        {
+          "verb": "Take off",
+          "def": "To remove something from a list",
+          "ipa": "/teɪk ɔf/",
+          "ex": [
+            "Please take my email address off your list.",
+            "The restaurant took the soup off the menu.",
+            "His name was taken off the team list after he quit."
+          ]
+        },
+        {
+          "verb": "Leave out",
+          "def": "To not include someone",
+          "ipa": "/liv aʊt/",
+          "ex": [
+            "You left out my name when you wrote the list.",
+            "The report left out some important facts.",
+            "Nobody likes to be left out of a party."
+          ]
+        },
+        {
+          "verb": "Put back",
+          "def": "To return something to its place",
+          "ipa": "/pʊt bæk/",
+          "ex": [
+            "Put the chairs back where you found them.",
+            "She put the photo back on the wall.",
+            "After I use the car keys, I put them back in the drawer."
+          ]
+        },
+        {
+          "verb": "Weed out",
+          "def": "To find and remove what is not wanted",
+          "ipa": "/wid aʊt/",
+          "ex": [
+            "The test helps weed out students who are not ready.",
+            "Banks try to weed out fake accounts.",
+            "We need to weed out old files that nobody uses."
+          ]
+        },
+        {
+          "verb": "Crack down on",
+          "def": "To act strongly to stop something",
+          "ipa": "/kræk daʊn ɑn/",
+          "ex": [
+            "Police are cracking down on speeding near schools.",
+            "The government cracked down on fake medicine.",
+            "The airline is cracking down on rude passengers."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "detained",
+          "def": "Held by the police for a time",
+          "ipa": "/dɪˈteɪnd/",
+          "ex": [
+            "Two men were detained at the border for questioning.",
+            "She was detained at the airport for three hours.",
+            "Police detained the driver after the crash."
+          ]
+        },
+        {
+          "word": "protest site",
+          "def": "A place where people gather to show they disagree with something",
+          "ipa": "/ˈproʊtɛst saɪt/",
+          "ex": [
+            "Hundreds of students walked to the protest site.",
+            "The city set aside a park as a protest site.",
+            "Police closed the roads near the protest site."
+          ]
+        },
+        {
+          "word": "without warning",
+          "def": "Suddenly, without telling anyone first",
+          "ipa": "/wɪˈðaʊt ˈwɔrnɪŋ/",
+          "ex": [
+            "The power went off without warning.",
+            "The company closed the store without warning.",
+            "It started to rain without warning."
+          ]
+        },
+        {
+          "word": "revision",
+          "def": "A change made to correct or improve something",
+          "ipa": "/rɪˈvɪʒən/",
+          "ex": [
+            "The teacher asked for a revision of my essay.",
+            "The new revision of the rules is easier to read.",
+            "The map needed a revision after the new roads opened."
+          ]
+        },
+        {
+          "word": "voter lists",
+          "def": "Official lists of the people who are allowed to vote",
+          "ipa": "/ˈvoʊtər lɪsts/",
+          "ex": [
+            "Check that your name is on the voter lists before election day.",
+            "Officials update the voter lists every few years.",
+            "Some people moved and were missing from the voter lists."
+          ]
+        },
+        {
+          "word": "appealed",
+          "def": "Formally asked for a decision to be changed",
+          "ipa": "/əˈpild/",
+          "ex": [
+            "He appealed the judge's decision.",
+            "The school appealed the new rule.",
+            "She appealed the parking ticket and won."
+          ]
+        },
+        {
+          "word": "removals",
+          "def": "Acts of taking something or someone away",
+          "ipa": "/rɪˈmuvəlz/",
+          "ex": [
+            "Tree removals in the park will start next week.",
+            "The coach explained the removals of two players from the team.",
+            "The app reported thousands of removals of fake accounts."
+          ]
+        },
+        {
+          "word": "eligible",
+          "def": "Allowed to do or get something because you meet the rules",
+          "ipa": "/ˈɛlɪdʒəbəl/",
+          "ex": [
+            "You are eligible to vote when you turn 18.",
+            "Only full-time workers are eligible for the bonus.",
+            "Is my son eligible for the free lunch program?"
+          ]
+        },
+        {
+          "word": "legitimate",
+          "def": "Real and allowed by the rules or the law",
+          "ipa": "/ləˈdʒɪtəmət/",
+          "ex": [
+            "The bank checks that every account is legitimate.",
+            "She had a legitimate reason for missing class.",
+            "Is this a legitimate website or a fake one?"
+          ]
+        },
+        {
+          "word": "unfairly",
+          "def": "In a way that is not right or equal",
+          "ipa": "/ʌnˈfɛrli/",
+          "ex": [
+            "He felt he was treated unfairly at work.",
+            "The team was unfairly punished for one player's mistake.",
+            "Some students said the test was graded unfairly."
+          ]
+        },
+        {
+          "word": "minority groups",
+          "def": "Smaller groups of people who differ from most of a population",
+          "ipa": "/maɪˈnɔrəti ɡrups/",
+          "ex": [
+            "The city hired more workers from minority groups.",
+            "The law protects minority groups from unfair treatment.",
+            "Leaders met with minority groups to hear their concerns."
+          ]
+        },
+        {
+          "word": "objected",
+          "def": "Said that you did not agree with something",
+          "ipa": "/əbˈdʒɛktɪd/",
+          "ex": [
+            "Several parents objected to the new school hours.",
+            "She objected when they raised the rent.",
+            "No one objected to the plan."
+          ]
+        },
+        {
+          "word": "key decisions",
+          "def": "The most important choices a person or group makes",
+          "ipa": "/ki dɪˈsɪʒənz/",
+          "ex": [
+            "The board will make the key decisions next week.",
+            "Parents should be part of key decisions about their children.",
+            "She was not included in key decisions at work."
+          ]
+        },
+        {
+          "word": "wrongdoing",
+          "def": "Behavior that is illegal or dishonest",
+          "ipa": "/ˈrɔŋˌduɪŋ/",
+          "ex": [
+            "The mayor denied any wrongdoing.",
+            "An investigation found no wrongdoing by the coach.",
+            "The company paid a fine but did not admit wrongdoing."
+          ]
+        },
+        {
+          "word": "duplicate",
+          "def": "Exactly the same as another one",
+          "ipa": "/ˈdupləkət/",
+          "ex": [
+            "I deleted the duplicate photos on my phone.",
+            "The bank found a duplicate payment on my card.",
+            "Please remove any duplicate names from the guest list."
+          ]
+        },
+        {
+          "word": "fake registrations",
+          "def": "Names added to a list using false or invented details",
+          "ipa": "/feɪk ˌrɛdʒɪˈstreɪʃənz/",
+          "ex": [
+            "The website blocked thousands of fake registrations.",
+            "The contest was canceled because of fake registrations.",
+            "Officials found fake registrations using the names of dead people."
+          ]
+        },
+        {
+          "word": "hearing",
+          "def": "A meeting in a court where a judge listens to both sides",
+          "ipa": "/ˈhɪrɪŋ/",
+          "ex": [
+            "The judge set a hearing for next Tuesday.",
+            "Her lawyer spoke at the hearing.",
+            "The hearing lasted almost three hours."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "India's main opposition leader was held by police during protests over a huge change to voter lists. Over 130 million names were removed, and critics fear many real voters were dropped.",
+          "a": true,
+          "why": "Opposition parties say many legitimate voters have been left out. More than 130 million names have been taken off the lists."
+        },
+        {
+          "s": "Indian police detained a top opposition figure after a court found that millions of voters had been deleted by mistake. Judges have now told election officials to restore every missing name.",
+          "a": false,
+          "why": "Close, but the Supreme Court has only ordered officials to explain their decisions. The opposition, not the court, wants the names put back."
+        },
+        {
+          "s": "India's election body plans to open thousands of new polling stations in small villages. Officials hope shorter lines will help more young people cast a ballot in the next national vote.",
+          "a": false,
+          "why": "Protests are growing over a voter list revision. More than 130 million names have been taken off the lists, and the opposition is calling for change."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Police let the lawmakers go soon after the march on October 6.",
+          "a": true,
+          "why": "Police broke up the march from parliament and released the lawmakers soon after."
+        },
+        {
+          "s": "The Election Commission began carrying out the revision in 2020.",
+          "a": false,
+          "why": "The commission began carrying out the revision in one eastern state in 2025."
+        },
+        {
+          "s": "More than 130 million names have been taken off India's voter lists.",
+          "a": true,
+          "why": "That figure comes from the Associated Press, and millions of people have appealed the removals."
+        },
+        {
+          "s": "Opposition parties say no legitimate voters have been left out.",
+          "a": false,
+          "why": "Opposition parties say many legitimate voters have been left out of the lists."
+        },
+        {
+          "s": "The protesters are calling for the prime minister to step down.",
+          "a": false,
+          "why": "They want India's chief election commissioner to step down, not the prime minister."
+        },
+        {
+          "s": "The commission says the revision aims to weed out duplicate names.",
+          "a": true,
+          "why": "It says it wants to remove duplicate and ineligible names and keep eligible voters on the lists."
+        }
+      ]
+    },
     {
       "id": "talking-less-study-2026",
       "number": 149,
