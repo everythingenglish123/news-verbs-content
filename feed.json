@@ -1,6 +1,2934 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-17",
   "stories": [
+    {
+      "id": "whale-calf-deaths-argentina-2026",
+      "number": 161,
+      "headline": "Scientists look into baby whale deaths in Argentina",
+      "badge": "Nature",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n161-whale-calf-deaths-argentina-2026-flat.webp",
+      "position": "center 60%",
+      "sources": [
+        {
+          "title": "Scientists search for answers as baby whales wash up dead in Argentina (AP)",
+          "url": "https://apnews.com/article/9c65d09182012305fcb5890b05563160"
+        },
+        {
+          "title": "Bacteria suspected in deaths of hundreds of baby whales off Argentina (AFP, via Phys.org)",
+          "url": "https://phys.org/news/2026-09-bacteria-deaths-hundreds-baby-whales.html"
+        },
+        {
+          "title": "Investigan la causa de la inusual mortandad de ballenatos en Península Valdés: una bacteria es una de las hipótesis (Infobae)",
+          "url": "https://www.infobae.com/america/medio-ambiente/2026/09/29/investigan-la-causa-de-la-inusual-mortandad-de-ballenatos-en-peninsula-valdes-una-bacteria-es-una-de-las-hipotesis/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Scientists are {{looking into}} why baby whales are {{dying off}} in large numbers in 2026. Since June 2026, dead southern right whale [[calves]] have been {{washing up}} on beaches around a peninsula in southern Argentina. The area is a major [[breeding ground]] for the [[species]]. [[Residents]] have reported hundreds of dead calves. Researchers have not given an official [[death toll]]. They say it will be clearer after the season ends in late November.",
+          "verbs": [
+            {
+              "display": "looking into",
+              "base": "look into",
+              "correct": "To study something to learn the facts",
+              "wrong": "To keep young animals safe and fed",
+              "correctFirst": true,
+              "why": "The police are looking into the break-in at the school. My bank is looking into the strange charge on my card. Scientists in Argentina are looking into why so many baby whales have died in 2026."
+            },
+            {
+              "display": "dying off",
+              "base": "die off",
+              "correct": "To die one by one until many are gone",
+              "wrong": "To slowly lose strength with age",
+              "correctFirst": false,
+              "why": "The bees in our area are dying off because of a disease. Many old trees in the park died off during the long dry summer. In 2026, southern right whale calves near a peninsula in southern Argentina are dying off in large numbers."
+            },
+            {
+              "display": "washing up",
+              "base": "wash up",
+              "correct": "To be carried to the shore by the sea",
+              "wrong": "To swim very close to the shore",
+              "correctFirst": true,
+              "why": "Plastic bottles wash up on this beach after every storm. A small boat washed up near our house last winter. Since June 2026, dead whale calves have been washing up on beaches in southern Argentina."
+            }
+          ]
+        },
+        {
+          "text": "In the 19th and 20th centuries, [[whalers]] nearly {{wiped out}} southern right whales. The species has been protected since 1935 and has slowly {{bounced back}}. Every year, the whales return to the peninsula's [[sheltered waters]] to [[give birth]] and [[nurse]] their young. The 2026 count found nearly 400 calves, down from about 800 in 2025. In 2012, a [[record]] 113 dead calves were found. A whale group says the 2026 number could be higher.",
+          "verbs": [
+            {
+              "display": "wiped out",
+              "base": "wipe out",
+              "correct": "To destroy or kill all of something",
+              "wrong": "To count all the animals in an area",
+              "correctFirst": false,
+              "why": "A disease wiped out most of the frogs in the lake. The flood wiped out the farmer's whole crop. In the 19th and 20th centuries, whalers nearly wiped out southern right whales."
+            },
+            {
+              "display": "bounced back",
+              "base": "bounce back",
+              "correct": "To become strong again after trouble",
+              "wrong": "To hide in a place hunters cannot reach",
+              "correctFirst": true,
+              "why": "The town bounced back quickly after the fire. Sales bounced back in the spring. Southern right whales have slowly bounced back since they were protected in 1935."
+            }
+          ]
+        },
+        {
+          "text": "On October 2, the scientists described their [[leading theory]]. It involves a bird called the kelp gull. The gulls {{go after}} whales that {{come up}} to breathe, and they eat bits of their skin. Adult whales have learned to keep their backs under the water. Calves have not, so they get [[wounds]]. Scientists think bacteria from the sea enter the calves through these wounds. Bacteria have already {{turned up}} in some [[tissue samples]].",
+          "verbs": [
+            {
+              "display": "go after",
+              "base": "go after",
+              "correct": "To attack or chase an animal",
+              "wrong": "To build nests on a beach",
+              "correctFirst": false,
+              "why": "Our cat likes to go after birds in the yard. The dog went after a rabbit in the field. Kelp gulls go after southern right whales when they rise to breathe."
+            },
+            {
+              "display": "come up",
+              "base": "come up",
+              "correct": "To rise to the top of the water",
+              "wrong": "To swim next to its mother",
+              "correctFirst": true,
+              "why": "The diver came up for air after a minute. We watched a seal come up near the boat. The gulls attack whales that come up to breathe."
+            },
+            {
+              "display": "turned up",
+              "base": "turn up",
+              "correct": "To be found or discovered",
+              "wrong": "To slowly lose their color",
+              "correctFirst": false,
+              "why": "My lost keys turned up in my coat pocket. New problems turned up during the safety check. Bacteria have already turned up in some tissue samples from the dead calves."
+            }
+          ]
+        },
+        {
+          "text": "The team's leader, a veterinarian from a US university, said changes in the ocean may [[play a part]]. Warmer water, possibly linked to [[climate change]], could make the bacteria too strong for the calves to {{fight off}}. Another researcher in Argentina said the cause seems natural. Still, he cannot fully {{rule out}} a human role. Scientists warn that repeated deaths on this scale could {{set back}} the species' [[recovery]]. The team wants to {{figure out}} what [[triggered]] the 2026 deaths.",
+          "verbs": [
+            {
+              "display": "fight off",
+              "base": "fight off",
+              "correct": "To beat an illness and stay well",
+              "wrong": "To give an illness to others",
+              "correctFirst": true,
+              "why": "She managed to fight off the flu in a few days. A healthy diet can help your body fight off colds. Warmer water could make the bacteria too strong for the calves to fight off."
+            },
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To say that something is not possible",
+              "wrong": "To blame someone without any proof",
+              "correctFirst": false,
+              "why": "The doctor ruled out a broken bone. Police have not ruled out an accident. A researcher in Argentina cannot fully rule out a human role in the deaths."
+            },
+            {
+              "display": "set back",
+              "base": "set back",
+              "correct": "To delay progress or make it slower",
+              "wrong": "To keep something in a safe place",
+              "correctFirst": true,
+              "why": "The rain set back work on the new bridge. His injury set back his plans to run a marathon. Scientists warn that repeated deaths on this scale could set back the whales' recovery."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To find the answer or reason",
+              "wrong": "To write a report of the results",
+              "correctFirst": false,
+              "why": "I finally figured out why my laptop was so slow. Can you figure out how to open this box? The team wants to figure out what caused the 2026 deaths."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Look into",
+          "def": "To study something to learn the facts",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The city is looking into complaints about the noise.",
+            "I'll look into the cost of a new car.",
+            "The school promised to look into the problem."
+          ]
+        },
+        {
+          "verb": "Die off",
+          "def": "To die one by one until many are gone",
+          "ipa": "/daɪ ɔf/",
+          "ex": [
+            "Many fish died off when the river got too warm.",
+            "The plants in my garden died off during the heat wave.",
+            "Some birds die off when there is not enough food."
+          ]
+        },
+        {
+          "verb": "Wash up",
+          "def": "To be carried to the shore by the sea",
+          "ipa": "/wɑʃ ʌp/",
+          "ex": [
+            "Seaweed washes up on the sand every morning.",
+            "We found an old bottle that had washed up on the beach.",
+            "Pieces of the ship washed up miles away."
+          ]
+        },
+        {
+          "verb": "Wipe out",
+          "def": "To destroy or kill all of something",
+          "ipa": "/waɪp aʊt/",
+          "ex": [
+            "The storm wiped out the whole village.",
+            "A virus wiped out most of the chickens on the farm.",
+            "Too much hunting can wipe out a species."
+          ]
+        },
+        {
+          "verb": "Bounce back",
+          "def": "To become strong again after trouble",
+          "ipa": "/baʊns bæk/",
+          "ex": [
+            "The team bounced back after a bad start to the season.",
+            "Tourism bounced back after the pandemic.",
+            "Kids usually bounce back fast after a cold."
+          ]
+        },
+        {
+          "verb": "Go after",
+          "def": "To attack or chase an animal",
+          "ipa": "/ɡoʊ ˈæftər/",
+          "ex": [
+            "Wolves often go after the weakest deer.",
+            "The hawk went after a mouse in the grass.",
+            "Keep your dog on a leash so it doesn't go after the ducks."
+          ]
+        },
+        {
+          "verb": "Come up",
+          "def": "To rise to the top of the water",
+          "ipa": "/kʌm ʌp/",
+          "ex": [
+            "The swimmer came up and took a deep breath.",
+            "Dolphins come up often to get air.",
+            "We waited for the turtle to come up again."
+          ]
+        },
+        {
+          "verb": "Turn up",
+          "def": "To be found or discovered",
+          "ipa": "/tɜrn ʌp/",
+          "ex": [
+            "Her missing dog turned up two days later.",
+            "Some old letters turned up in the attic.",
+            "A few errors turned up in the report."
+          ]
+        },
+        {
+          "verb": "Fight off",
+          "def": "To beat an illness and stay well",
+          "ipa": "/faɪt ɔf/",
+          "ex": [
+            "Sleep helps your body fight off a cold.",
+            "He fought off a fever without any medicine.",
+            "Older people can find it harder to fight off infections."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To say that something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "Doctors ruled out a heart problem.",
+            "The company has not ruled out more job cuts.",
+            "We can't rule out rain on Saturday."
+          ]
+        },
+        {
+          "verb": "Set back",
+          "def": "To delay progress or make it slower",
+          "ipa": "/sɛt bæk/",
+          "ex": [
+            "The strike set back the opening of the new mall.",
+            "A bad grade set back her plans for college.",
+            "Money problems set the project back by a year."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To find the answer or reason",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "We need to figure out why the sink is leaking.",
+            "She figured out the answer to the puzzle.",
+            "I can't figure out how this app works."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "calves",
+          "def": "Baby whales, cows or some other large animals",
+          "ipa": "/kævz/",
+          "ex": [
+            "The cows and their calves stayed in the barn all winter.",
+            "Elephant calves stay close to their mothers.",
+            "The farmer sold three calves at the market."
+          ]
+        },
+        {
+          "word": "breeding ground",
+          "def": "A place where animals go to have their young",
+          "ipa": "/ˈbridɪŋ ɡraʊnd/",
+          "ex": [
+            "This island is a breeding ground for sea turtles.",
+            "The lake is an important breeding ground for ducks.",
+            "Builders must protect the birds' breeding ground."
+          ]
+        },
+        {
+          "word": "species",
+          "def": "A group of animals or plants of the same kind",
+          "ipa": "/ˈspiʃiz/",
+          "ex": [
+            "Scientists found a new species of frog in the forest.",
+            "Many bird species fly south in the fall.",
+            "The tiger is a species in danger."
+          ]
+        },
+        {
+          "word": "Residents",
+          "def": "People who live in a place",
+          "ipa": "/ˈrɛzɪdənts/",
+          "ex": [
+            "Residents complained about the new parking rules.",
+            "The building has 40 residents.",
+            "Local residents planted trees along the street."
+          ]
+        },
+        {
+          "word": "death toll",
+          "def": "The number of people or animals killed by something",
+          "ipa": "/dɛθ toʊl/",
+          "ex": [
+            "The death toll from the earthquake rose to 50.",
+            "Officials expect the death toll to climb.",
+            "The flu season had a lower death toll this year."
+          ]
+        },
+        {
+          "word": "whalers",
+          "def": "People who hunt whales for money",
+          "ipa": "/ˈweɪlərz/",
+          "ex": [
+            "The museum tells the story of the town's old whalers.",
+            "Whalers once sailed for years at a time.",
+            "Many whalers sold whale oil for lamps."
+          ]
+        },
+        {
+          "word": "sheltered waters",
+          "def": "Calm water protected from wind and big waves",
+          "ipa": "/ˈʃɛltərd ˈwɔtərz/",
+          "ex": [
+            "Small boats stay in sheltered waters during storms.",
+            "The bay's sheltered waters are good for kayaking.",
+            "Young fish are safer in sheltered waters near the coast."
+          ]
+        },
+        {
+          "word": "give birth",
+          "def": "To have a baby",
+          "ipa": "/ɡɪv bɜrθ/",
+          "ex": [
+            "My sister gave birth to twins last spring.",
+            "Cats usually give birth in a quiet place.",
+            "She gave birth at the hospital downtown."
+          ]
+        },
+        {
+          "word": "nurse",
+          "def": "To feed a baby with milk from its mother's body",
+          "ipa": "/nɜrs/",
+          "ex": [
+            "The mother dog nursed her puppies.",
+            "Some women nurse their babies for a year.",
+            "The cow nursed her calf in the field."
+          ]
+        },
+        {
+          "word": "record",
+          "def": "Higher or bigger than ever before",
+          "ipa": "/ˈrɛkərd/",
+          "ex": [
+            "The city had a record number of visitors in July.",
+            "Gas prices hit a record high.",
+            "A record crowd came to the final game."
+          ]
+        },
+        {
+          "word": "leading theory",
+          "def": "The idea that most experts think best explains something",
+          "ipa": "/ˈlidɪŋ ˈθiəri/",
+          "ex": [
+            "The leading theory is that a gas leak caused the fire.",
+            "Doctors have a leading theory about her headaches.",
+            "The leading theory changed after new tests."
+          ]
+        },
+        {
+          "word": "wounds",
+          "def": "Places where the skin or body is hurt or cut",
+          "ipa": "/wundz/",
+          "ex": [
+            "The nurse cleaned the wounds on his leg.",
+            "Small wounds can get infected if you leave them dirty.",
+            "The soldier's wounds healed slowly."
+          ]
+        },
+        {
+          "word": "tissue samples",
+          "def": "Small pieces of a body taken for tests",
+          "ipa": "/ˈtɪʃu ˈsæmpəlz/",
+          "ex": [
+            "The doctor took tissue samples during the surgery.",
+            "The lab tested the tissue samples for cancer.",
+            "The tissue samples took a week to test."
+          ]
+        },
+        {
+          "word": "play a part",
+          "def": "To be one of the reasons for something",
+          "ipa": "/pleɪ ə pɑrt/",
+          "ex": [
+            "Stress can play a part in poor sleep.",
+            "Luck played a part in our win.",
+            "Diet plays a part in heart health."
+          ]
+        },
+        {
+          "word": "climate change",
+          "def": "The slow change in the Earth's weather, including warmer temperatures",
+          "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+          "ex": [
+            "Climate change is making summers hotter.",
+            "Farmers are worried about climate change.",
+            "The class did a project on climate change."
+          ]
+        },
+        {
+          "word": "recovery",
+          "def": "The process of becoming healthy or strong again",
+          "ipa": "/rɪˈkʌvəri/",
+          "ex": [
+            "Her recovery after the operation took six weeks.",
+            "The economy is showing signs of recovery.",
+            "The forest's recovery after the fire was slow."
+          ]
+        },
+        {
+          "word": "triggered",
+          "def": "Caused something to start",
+          "ipa": "/ˈtrɪɡərd/",
+          "ex": [
+            "The smoke triggered the fire alarm.",
+            "Heavy rain triggered a landslide.",
+            "His joke triggered a long argument."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "In 2026, far more whale calves than usual have died near a peninsula in Argentina. Researchers suspect sea bacteria that enter through wounds made by gulls.",
+          "a": true,
+          "why": "Dead calves have been washing up since June. The leading theory is that bacteria enter wounds made by kelp gulls, and warmer water may help."
+        },
+        {
+          "s": "Scientists have confirmed that warm ocean water is now killing young whales in southern Argentina. They say bacteria and gulls have nothing to do with the deaths.",
+          "a": false,
+          "why": "Close, but nothing is confirmed yet. Bacteria in gull wounds are the main suspect, and warmer water may only make those bacteria stronger."
+        },
+        {
+          "s": "A large group of adult whales got stuck on a beach in Argentina in March. Local people and rescue teams worked for hours to return most of them to the sea.",
+          "a": false,
+          "why": "No whales were rescued. Scientists are trying to learn why so many baby whales have died in 2026."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Researchers have given an official death toll for the 2026 season.",
+          "a": false,
+          "why": "They have not. They are still looking into the deaths, and they say the number will be clearer in late November."
+        },
+        {
+          "s": "Kelp gulls go after whales that come up to breathe.",
+          "a": true,
+          "why": "The gulls attack the whales when they rise to the top of the water, and they eat bits of their skin."
+        },
+        {
+          "s": "Many dead whale calves have washed up on beaches in Argentina.",
+          "a": true,
+          "why": "Residents have reported hundreds of dead calves around a peninsula in southern Argentina, and scientists want to figure out why."
+        },
+        {
+          "s": "Bacteria have not turned up in any of the tissue samples.",
+          "a": false,
+          "why": "Bacteria have already turned up in some tissue samples, and scientists think they enter through wounds."
+        },
+        {
+          "s": "Southern right whales were never hunted by people.",
+          "a": false,
+          "why": "Whalers nearly wiped out the species, but it has slowly bounced back since it was protected."
+        },
+        {
+          "s": "A researcher in Argentina cannot fully rule out a human role.",
+          "a": true,
+          "why": "He said the cause of the deaths seems natural, but people may still play a part."
+        }
+      ]
+    },
+    {
+      "id": "children-ai-chatbots-safety-2026",
+      "number": 160,
+      "headline": "Lawmakers try to protect children from AI chatbots",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n160-children-ai-chatbots-safety-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "A reckoning on social media addiction came late for many kids. Will AI safety be different? (AP, via ABC News)",
+          "url": "https://abcnews.com/Technology/wireStory/reckoning-social-media-addiction-late-kids-ai-safety-136995689"
+        },
+        {
+          "title": "Governor Newsom signs the strongest child safety chatbot and social media laws in the nation (Office of the Governor of California)",
+          "url": "https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/"
+        },
+        {
+          "title": "Miller-Meeks Introduces Bipartisan Legislation to Protect Children from Human-Like Chatbots (U.S. House of Representatives)",
+          "url": "https://millermeeks.house.gov/media/press-releases/miller-meeks-introduces-bipartisan-legislation-protect-children-human-chatbots"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Children today are {{growing up with}} AI chatbots. A [[survey]] by the Pew Research Center found that 64 percent of U.S. teens have used them. The most common uses are to {{look up}} information and to get help with [[schoolwork]]. About 12 percent {{turn to}} chatbots for [[emotional support]] or advice. In early October 2026, a news report asked if governments can act faster on AI than they did on social media.",
+          "verbs": [
+            {
+              "display": "growing up with",
+              "base": "grow up with",
+              "correct": "To have something in your life as a child",
+              "wrong": "To sell something to other kids at school",
+              "correctFirst": true,
+              "why": "My kids are growing up with two languages at home. I grew up with dogs, so I'm not afraid of them. Children today are growing up with AI chatbots."
+            },
+            {
+              "display": "look up",
+              "base": "look up",
+              "correct": "To find facts using a book or website",
+              "wrong": "To mark mistakes in a student's work",
+              "correctFirst": false,
+              "why": "I looked up the word in a dictionary. She looked up the bus times on her phone. The most common uses of chatbots are to look up information and to get help with schoolwork."
+            },
+            {
+              "display": "turn to",
+              "base": "turn to",
+              "correct": "To seek help or comfort",
+              "wrong": "To complain loudly",
+              "correctFirst": true,
+              "why": "When I have money problems, I turn to my brother. Many people turn to their friends after a breakup. About 12 percent of teens in the United States turn to chatbots for emotional support or advice."
+            }
+          ]
+        },
+        {
+          "text": "Many [[advocates]] say governments {{stepped in}} too late on social media. This summer, Meta reached an $18 billion [[settlement]] with U.S. states and agreed to add stronger [[safeguards]]. Meta did not launch teen accounts on Instagram until 2024. AI companies are now {{rolling out}} similar tools, such as [[age checks]] for [[minors]]. OpenAI introduced teen accounts in August. They [[ban]] romantic chats.",
+          "verbs": [
+            {
+              "display": "stepped in",
+              "base": "step in",
+              "correct": "To act to help or stop a problem",
+              "wrong": "To spend money on new schools",
+              "correctFirst": false,
+              "why": "The teacher stepped in when the two boys started fighting. My parents stepped in and paid my rent last month. Many advocates say governments stepped in too late on social media."
+            },
+            {
+              "display": "rolling out",
+              "base": "roll out",
+              "correct": "To make a new product available",
+              "wrong": "To give a product a new name",
+              "correctFirst": true,
+              "why": "The bank is rolling out a new app next week. The phone company rolled out faster internet in our town. AI companies are now rolling out tools such as age checks for minors."
+            }
+          ]
+        },
+        {
+          "text": "Some experts are {{speaking out}} about the risks. A professor at the University of Chicago says society should not learn about harm only after it happens. A well-known psychologist worries about children's [[emotional attachments]] to chatbots. He also worries when people {{hand over}} their thinking to a bot. Others {{point out}} the [[benefits]]. A tech policy expert at Cornell says AI helps teens with [[tutoring]] and homework. So limits made for social media may not {{carry over}} to AI easily.",
+          "verbs": [
+            {
+              "display": "speaking out",
+              "base": "speak out",
+              "correct": "To say publicly what you think",
+              "wrong": "To give a talk in another language",
+              "correctFirst": false,
+              "why": "Several nurses spoke out about the long hours. She is not afraid to speak out at town meetings. Some experts are speaking out about the risks of AI for children."
+            },
+            {
+              "display": "hand over",
+              "base": "hand over",
+              "correct": "To give a task to someone else",
+              "wrong": "To copy a list of answers",
+              "correctFirst": true,
+              "why": "Many people hand over their taxes to an accountant. My boss handed over the project to me. A well-known psychologist worries about people who hand over their thinking to a bot."
+            },
+            {
+              "display": "point out",
+              "base": "point out",
+              "correct": "To make people notice a fact",
+              "wrong": "To list the costs of a plan",
+              "correctFirst": false,
+              "why": "My friend pointed out that the store closes early on Sundays. The teacher pointed out a mistake in my essay. Others point out the benefits of AI for teens, such as tutoring."
+            },
+            {
+              "display": "carry over",
+              "base": "carry over",
+              "correct": "To work the same way somewhere new",
+              "wrong": "To cost parents a lot of money",
+              "correctFirst": true,
+              "why": "Her skills as a waitress carried over to her new sales job. Good habits from sports often carry over to school. Limits made for social media may not carry over to AI easily."
+            }
+          ]
+        },
+        {
+          "text": "Congress has been slow to {{catch up}} with the technology. Some child safety bills on AI have passed Senate subcommittees with support from [[both parties]]. They still face a [[long road]]. On October 1, House members from both parties introduced a bill to stop chatbots from acting human with children. Only parents could {{turn off}} those protections. States are moving faster to {{look out for}} young users. On September 10, California's governor signed laws on [[companion chatbots]], including [[parental controls]] and [[safety audits]].",
+          "verbs": [
+            {
+              "display": "catch up",
+              "base": "catch up",
+              "correct": "To reach the same level as others",
+              "wrong": "To take a long summer break",
+              "correctFirst": false,
+              "why": "I missed a week of class, and now I have to catch up. The small store is trying to catch up with the big online shops. Congress has been slow to catch up with AI technology."
+            },
+            {
+              "display": "turn off",
+              "base": "turn off",
+              "correct": "To stop something from working",
+              "wrong": "To pay a fee to a company",
+              "correctFirst": true,
+              "why": "Please turn off your phone during the movie. I turned off the location setting on my laptop. Under the new House bill, only parents could turn off the chatbot protections."
+            },
+            {
+              "display": "look out for",
+              "base": "look out for",
+              "correct": "To protect someone and keep them safe",
+              "wrong": "To send ads to someone every day",
+              "correctFirst": false,
+              "why": "Older kids should look out for the younger ones at the park. My neighbors always look out for each other. States are moving faster than Congress to look out for young users."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Grow up with",
+          "def": "To have something in your life as a child",
+          "ipa": "/ɡroʊ ʌp wɪð/",
+          "ex": [
+            "I grew up with three older sisters.",
+            "Our kids are growing up with smartphones everywhere.",
+            "He grew up with music in the house, so he loves it."
+          ]
+        },
+        {
+          "verb": "Look up",
+          "def": "To find facts using a book or website",
+          "ipa": "/lʊk ʌp/",
+          "ex": [
+            "Can you look up the address of the restaurant?",
+            "I always look up new words when I read.",
+            "She looked up the weather before her trip."
+          ]
+        },
+        {
+          "verb": "Turn to",
+          "def": "To seek help or comfort",
+          "ipa": "/tɜrn tu/",
+          "ex": [
+            "She turned to her mother for advice.",
+            "When he lost his job, he turned to his friends.",
+            "Many students turn to their teachers when they feel stressed."
+          ]
+        },
+        {
+          "verb": "Step in",
+          "def": "To act to help or stop a problem",
+          "ipa": "/stɛp ɪn/",
+          "ex": [
+            "The manager stepped in to calm the angry customer.",
+            "When the singer got sick, her sister stepped in.",
+            "The city stepped in to save the old park."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To make a new product available",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The store will roll out self-checkout machines this fall.",
+            "The school rolled out a new lunch menu.",
+            "The app rolled out a dark mode last year."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say publicly what you think",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "Many parents spoke out at the school board meeting.",
+            "He finally spoke out about problems at his company.",
+            "Players are speaking out about unfair pay."
+          ]
+        },
+        {
+          "verb": "Hand over",
+          "def": "To give a task to someone else",
+          "ipa": "/hænd ˈoʊvər/",
+          "ex": [
+            "She handed over the cooking to her son for the night.",
+            "The founder handed over daily decisions to his daughter.",
+            "Don't hand over all your homework to someone else."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To make people notice a fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out that the bill was wrong.",
+            "He pointed out a small hole in my jacket.",
+            "The guide pointed out the oldest house on the street."
+          ]
+        },
+        {
+          "verb": "Carry over",
+          "def": "To work the same way somewhere new",
+          "ipa": "/ˈkæri ˈoʊvər/",
+          "ex": [
+            "His patience as a coach carried over to his parenting.",
+            "Lessons from one job often carry over to the next.",
+            "Her love of drawing carried over to her work as a designer."
+          ]
+        },
+        {
+          "verb": "Catch up",
+          "def": "To reach the same level as others",
+          "ipa": "/kætʃ ʌp/",
+          "ex": [
+            "Our school is trying to catch up with schools that already teach coding.",
+            "Our town is finally catching up with bigger cities.",
+            "New workers usually need a month to catch up."
+          ]
+        },
+        {
+          "verb": "Turn off",
+          "def": "To stop something from working",
+          "ipa": "/tɜrn ɔf/",
+          "ex": [
+            "Don't forget to turn off the lights.",
+            "I turned off the alarm and stayed in bed.",
+            "You can turn off notifications in the settings."
+          ]
+        },
+        {
+          "verb": "Look out for",
+          "def": "To protect someone and keep them safe",
+          "ipa": "/lʊk aʊt fɔr/",
+          "ex": [
+            "Big brothers should look out for their little sisters.",
+            "My coworkers always look out for me.",
+            "We need to look out for older neighbors during the heat wave."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "survey",
+          "def": "A set of questions asked to many people to learn what they think or do",
+          "ipa": "/ˈsɜrveɪ/",
+          "ex": [
+            "The hotel asked guests to answer a short survey.",
+            "A new survey shows most workers want a four-day week.",
+            "Our class did a survey on favorite foods."
+          ]
+        },
+        {
+          "word": "schoolwork",
+          "def": "Work that students do for their classes",
+          "ipa": "/ˈskulˌwɜrk/",
+          "ex": [
+            "She does her schoolwork right after dinner.",
+            "His schoolwork got better after he joined a study group.",
+            "Too many sports can hurt your schoolwork."
+          ]
+        },
+        {
+          "word": "emotional support",
+          "def": "Help and comfort for someone who feels sad or worried",
+          "ipa": "/ɪˈmoʊʃənəl səˈpɔrt/",
+          "ex": [
+            "Her best friend gave her emotional support after the accident.",
+            "Some people keep a dog for emotional support.",
+            "New parents often need emotional support."
+          ]
+        },
+        {
+          "word": "advocates",
+          "def": "People who speak publicly in support of a cause",
+          "ipa": "/ˈædvəkəts/",
+          "ex": [
+            "Health advocates want less sugar in school lunches.",
+            "Advocates for the homeless met with the mayor.",
+            "Patient advocates helped her understand the hospital bill."
+          ]
+        },
+        {
+          "word": "settlement",
+          "def": "An agreement that ends a legal fight, often with a payment",
+          "ipa": "/ˈsɛtəlmənt/",
+          "ex": [
+            "The two companies reached a settlement before the trial.",
+            "He got a small settlement after the car crash.",
+            "The settlement will pay workers for lost wages."
+          ]
+        },
+        {
+          "word": "safeguards",
+          "def": "Rules or tools that protect people from harm",
+          "ipa": "/ˈseɪfˌɡɑrdz/",
+          "ex": [
+            "The bank added new safeguards against fraud.",
+            "There are safeguards to keep patient records private.",
+            "The new law has safeguards for small businesses."
+          ]
+        },
+        {
+          "word": "age checks",
+          "def": "Steps that confirm how old a user is",
+          "ipa": "/eɪdʒ tʃɛks/",
+          "ex": [
+            "Some websites use age checks before you can buy wine.",
+            "The store does age checks on anyone buying cigarettes.",
+            "Gaming apps are adding age checks for young players."
+          ]
+        },
+        {
+          "word": "minors",
+          "def": "People who are under the legal adult age",
+          "ipa": "/ˈmaɪnərz/",
+          "ex": [
+            "Stores cannot sell alcohol to minors.",
+            "Minors need a parent's signature for the trip.",
+            "The movie is not suitable for minors."
+          ]
+        },
+        {
+          "word": "ban",
+          "def": "To officially say that something is not allowed",
+          "ipa": "/bæn/",
+          "ex": [
+            "Many schools ban phones during class.",
+            "The city wants to ban plastic bags.",
+            "Some airlines ban large pets in the cabin."
+          ]
+        },
+        {
+          "word": "emotional attachments",
+          "def": "Strong feelings of closeness to a person or thing",
+          "ipa": "/ɪˈmoʊʃənəl əˈtætʃmənts/",
+          "ex": [
+            "Kids often form emotional attachments to their toys.",
+            "She has strong emotional attachments to her hometown.",
+            "Pets can create deep emotional attachments in a family."
+          ]
+        },
+        {
+          "word": "benefits",
+          "def": "Good effects or advantages",
+          "ipa": "/ˈbɛnəfɪts/",
+          "ex": [
+            "Walking every day has many health benefits.",
+            "One of the benefits of the job is free lunch.",
+            "The benefits of the new bus line are clear."
+          ]
+        },
+        {
+          "word": "tutoring",
+          "def": "Extra teaching for one student or a small group",
+          "ipa": "/ˈtutərɪŋ/",
+          "ex": [
+            "He needed tutoring in math last year.",
+            "The library offers free tutoring after school.",
+            "Tutoring helped her pass the exam."
+          ]
+        },
+        {
+          "word": "both parties",
+          "def": "The two main political groups in a country, such as Democrats and Republicans",
+          "ipa": "/boʊθ ˈpɑrtiz/",
+          "ex": [
+            "The new road plan has support from both parties.",
+            "Leaders from both parties met at the White House.",
+            "Voters want both parties to work together on prices."
+          ]
+        },
+        {
+          "word": "long road",
+          "def": "A long and difficult process before reaching a goal",
+          "ipa": "/lɔŋ roʊd/",
+          "ex": [
+            "She has a long road to recovery after the surgery.",
+            "Getting a medical degree is a long road.",
+            "The team faces a long road to the championship."
+          ]
+        },
+        {
+          "word": "companion chatbots",
+          "def": "AI programs made to talk like a friend or partner",
+          "ipa": "/kəmˈpænjən ˈtʃætˌbɑts/",
+          "ex": [
+            "Some lonely adults talk to companion chatbots every night.",
+            "Companion chatbots can remember what users told them.",
+            "Doctors are studying how companion chatbots affect mood."
+          ]
+        },
+        {
+          "word": "parental controls",
+          "def": "Settings that let parents limit what children can do on a device",
+          "ipa": "/pəˈrɛntəl kənˈtroʊlz/",
+          "ex": [
+            "We set parental controls on the family tablet.",
+            "The TV has parental controls for adult shows.",
+            "Parental controls can block in-app purchases."
+          ]
+        },
+        {
+          "word": "safety audits",
+          "def": "Official checks to find risks and problems",
+          "ipa": "/ˈseɪfti ˈɔdɪts/",
+          "ex": [
+            "The factory passed its safety audits this year.",
+            "Airlines must do regular safety audits.",
+            "The school asked for safety audits of its buildings."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Many children now use AI chatbots, and experts disagree about the risks and benefits. Lawmakers and states are making new rules early, after acting late on social media.",
+          "a": true,
+          "why": "Most U.S. teens have used chatbots, and experts are divided. Congress is working on bills, and California has signed new laws on companion chatbots."
+        },
+        {
+          "s": "A national law now stops chatbots from acting human with teens across America. Experts all agree that AI is a bigger danger to children than social media ever was.",
+          "a": false,
+          "why": "Close, but the House bill was only introduced on October 1. Experts also disagree, and some point out real benefits like tutoring."
+        },
+        {
+          "s": "A new study found that teens who use AI for homework get better grades in math. Because of this, schools plan to give every student a free tutoring app next year.",
+          "a": false,
+          "why": "Lawmakers, states and companies are working to protect children who use AI chatbots. No study on math grades is involved."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Many children today are growing up with AI chatbots.",
+          "a": true,
+          "why": "A Pew Research Center survey found that most U.S. teens have used AI chatbots."
+        },
+        {
+          "s": "Advocates say governments stepped in early enough on social media.",
+          "a": false,
+          "why": "Many advocates say governments stepped in too late on social media, and they want faster action on AI."
+        },
+        {
+          "s": "A tech policy expert at Cornell says AI has no benefits for teens.",
+          "a": false,
+          "why": "She points out that teens use AI for tutoring and homework help."
+        },
+        {
+          "s": "AI companies are rolling out safety tools such as age checks for minors.",
+          "a": true,
+          "why": "AI companies are now rolling out tools like age checks and teen accounts for young users."
+        },
+        {
+          "s": "Some child safety bills on AI have passed Senate subcommittees.",
+          "a": true,
+          "why": "They had support from both parties, but Congress is still trying to catch up and the bills face a long road."
+        },
+        {
+          "s": "The new House bill lets children turn off the protections themselves.",
+          "a": false,
+          "why": "Only parents could turn off the protections that stop chatbots from acting human with children."
+        }
+      ]
+    },
+    {
+      "id": "eu-china-trade-deficit-2026",
+      "number": 159,
+      "headline": "Europe grows tougher on trade with China",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n159-eu-china-trade-deficit-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "EU sends envoy to Beijing as rising exports from China raise economic anxiety (Associated Press)",
+          "url": "https://apnews.com/article/77559db8f9909cd4bbf3c812e1041c6f"
+        },
+        {
+          "title": "In Beijing, EU trade envoy says deficit with China 'unsustainable' (AFP, via 24 News HD)",
+          "url": "https://www.24newshd.tv/08-Oct-2026/beijing-eu-trade-envoy-says-deficit-china-unsustainable"
+        },
+        {
+          "title": "EU-China trade talks begin in Beijing amid escalating pressure (Al Jazeera)",
+          "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure"
+        },
+        {
+          "title": "EU trade envoy eyes yawning goods deficit on first day of China visit (video, France 24)",
+          "url": "https://www.youtube.com/watch?v=sKW2pnwN5fk"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 8, 2026, the European Union's trade chief {{sat down with}} China's [[commerce minister]] in Beijing for two days of talks. Europe's [[trade deficit]] with China is about 360 billion euros, or 410 billion dollars. The deficit keeps {{piling up}} by more than 1 billion dollars a day. The trade chief wants to {{bring down}} that number. Earlier in 2026, he gave Beijing an October [[deadline]] to show real results.",
+          "verbs": [
+            {
+              "display": "sat down with",
+              "base": "sit down with",
+              "correct": "To meet someone for serious talks",
+              "wrong": "To send someone a list of demands",
+              "correctFirst": true,
+              "why": "The boss sat down with the workers to discuss their pay. We need to sit down with the landlord about the repairs. The EU's trade chief sat down with China's commerce minister in Beijing on October 8, 2026."
+            },
+            {
+              "display": "piling up",
+              "base": "pile up",
+              "correct": "To grow bigger little by little",
+              "wrong": "To be repaid in small amounts",
+              "correctFirst": false,
+              "why": "Unpaid bills piled up while he was sick. Her debts began piling up after she lost her job. The EU's trade deficit with China keeps piling up by more than 1 billion dollars a day."
+            },
+            {
+              "display": "bring down",
+              "base": "bring down",
+              "correct": "To make a number smaller",
+              "wrong": "To check a number again",
+              "correctFirst": true,
+              "why": "The store brought down its prices for the sale. Exercise can help bring down your blood pressure. The trade chief wants to bring down the EU's trade deficit with China."
+            }
+          ]
+        },
+        {
+          "text": "Chinese exports to the European Union rose 15.3 percent in the first eight months of 2026. European leaders say [[state subsidies]] help Chinese companies sell steel, batteries and [[solar panels]] cheaply. Chinese [[carmakers]] are {{taking on}} Europe's [[best-known]] brands. Many fear that European workers will {{lose out}}. The head of the European Commission calls this another \"China shock.\" In the United States in the early 2000s, Chinese competition helped {{wipe out}} hundreds of thousands of [[factory jobs]].",
+          "verbs": [
+            {
+              "display": "taking on",
+              "base": "take on",
+              "correct": "To try to beat a rival",
+              "wrong": "To buy a share of a company",
+              "correctFirst": false,
+              "why": "Our small team will take on the champions on Saturday. The new coffee shop is taking on the big chains. Chinese carmakers are taking on Europe's best-known brands."
+            },
+            {
+              "display": "lose out",
+              "base": "lose out",
+              "correct": "To be hurt by a change",
+              "wrong": "To retire from work early",
+              "correctFirst": true,
+              "why": "Local shops lost out when the big mall opened. Taxi drivers lost out when ride apps became popular. Leaders worry that European workers will lose out to cheap Chinese competition."
+            },
+            {
+              "display": "wipe out",
+              "base": "wipe out",
+              "correct": "To make something disappear completely",
+              "wrong": "To count something a second time",
+              "correctFirst": false,
+              "why": "The storm wiped out the town's corn crop. One bad year wiped out all of their savings. Competition from China helped wipe out hundreds of thousands of factory jobs in the United States."
+            }
+          ]
+        },
+        {
+          "text": "On October 7, the European Parliament voted 454 to 86 for a [[resolution]] calling for a tougher China [[policy]]. In a letter, the leaders of France and Germany {{stepped up}} the pressure. They want a tool to {{push back}} quickly against countries that [[harm]] Europe's economy. But not every EU country will {{go along with}} [[tough measures]]. Spain has been friendlier toward China. Its prime minister has visited Beijing four times in three years.",
+          "verbs": [
+            {
+              "display": "stepped up",
+              "base": "step up",
+              "correct": "To make something stronger",
+              "wrong": "To share something in secret",
+              "correctFirst": true,
+              "why": "Police stepped up patrols after the robberies. The school stepped up its safety checks this year. The leaders of France and Germany stepped up the pressure with a letter."
+            },
+            {
+              "display": "push back",
+              "base": "push back",
+              "correct": "To resist something firmly",
+              "wrong": "To pay a fine to another country",
+              "correctFirst": false,
+              "why": "Parents pushed back against the plan to close the school. Workers are pushing back against longer hours. France and Germany want a tool that lets the EU push back quickly against countries that harm its economy."
+            },
+            {
+              "display": "go along with",
+              "base": "go along with",
+              "correct": "To accept and support a plan",
+              "wrong": "To hire a trade lawyer",
+              "correctFirst": true,
+              "why": "I didn't like the idea, but I went along with it. Most of the class went along with the teacher's plan. Not every EU country will go along with tough measures against China."
+            }
+          ]
+        },
+        {
+          "text": "China's commerce ministry warned France and Germany against [[protectionist]] steps. It said such steps would hurt others and help no one. Days before the talks, China opened a [[trade investigation]] into a European chemical. Europe asked China to {{cut back on}} its exports of [[hybrid cars]], but Beijing opposes such limits. The talks are meant to {{head off}} a [[trade war]]. Experts doubt the two sides will {{work out}} a [[broad deal]] in these talks.",
+          "verbs": [
+            {
+              "display": "cut back on",
+              "base": "cut back on",
+              "correct": "To reduce the amount of something",
+              "wrong": "To elect the leader of something",
+              "correctFirst": false,
+              "why": "I'm trying to cut back on sugar. The factory cut back on night shifts this year. Europe asked China to cut back on its exports of hybrid cars."
+            },
+            {
+              "display": "head off",
+              "base": "head off",
+              "correct": "To stop something before it starts",
+              "wrong": "To report something to leaders",
+              "correctFirst": true,
+              "why": "The city fixed the dam to head off a flood. A quick apology can head off a fight. The talks in Beijing are meant to head off a trade war."
+            },
+            {
+              "display": "work out",
+              "base": "work out",
+              "correct": "To reach an agreement after talks",
+              "wrong": "To write a report about talks",
+              "correctFirst": false,
+              "why": "The two companies worked out a deal on prices. My brother and I worked out a plan to share the car. Experts doubt that the EU and China will work out a broad deal in Beijing."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Sit down with",
+          "def": "To meet someone for serious talks",
+          "ipa": "/sɪt daʊn wɪð/",
+          "ex": [
+            "The mayor sat down with business owners to hear their concerns.",
+            "Both unions will sit down with the company next week.",
+            "My parents sat down with my teacher to talk about my grades."
+          ]
+        },
+        {
+          "verb": "Pile up",
+          "def": "To grow bigger little by little",
+          "ipa": "/paɪl ʌp/",
+          "ex": [
+            "Work piles up quickly when you are on vacation.",
+            "Our heating bills piled up over the winter.",
+            "Emails kept piling up while I was away."
+          ]
+        },
+        {
+          "verb": "Bring down",
+          "def": "To make a number smaller",
+          "ipa": "/brɪŋ daʊn/",
+          "ex": [
+            "The city wants to bring down the number of car crashes.",
+            "New medicines helped bring down the death rate.",
+            "We need to bring down our monthly costs."
+          ]
+        },
+        {
+          "verb": "Take on",
+          "def": "To try to beat a rival",
+          "ipa": "/teɪk ɑn/",
+          "ex": [
+            "She will take on the mayor in the next election.",
+            "A small local app is taking on the big tech companies.",
+            "Our school team takes on the best team in the state tomorrow."
+          ]
+        },
+        {
+          "verb": "Lose out",
+          "def": "To be hurt by a change",
+          "ipa": "/luz aʊt/",
+          "ex": [
+            "Older workers often lose out when factories start using robots.",
+            "Small farms lose out when food prices fall.",
+            "Some towns lost out when the new highway did not pass near them."
+          ]
+        },
+        {
+          "verb": "Wipe out",
+          "def": "To make something disappear completely",
+          "ipa": "/waɪp aʊt/",
+          "ex": [
+            "The flood wiped out several small businesses.",
+            "A disease wiped out most of the trees in the park.",
+            "The bad investment wiped out years of profits."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To make something stronger",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The city stepped up its efforts to clean the streets.",
+            "Doctors stepped up their warnings about the flu.",
+            "The company stepped up security at its offices."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To resist something firmly",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "Many drivers pushed back against the new road tax.",
+            "Students pushed back when the school banned phones.",
+            "The town pushed back against plans for a new airport."
+          ]
+        },
+        {
+          "verb": "Go along with",
+          "def": "To accept and support a plan",
+          "ipa": "/ɡoʊ əˈlɔŋ wɪð/",
+          "ex": [
+            "My parents went along with my plan to study abroad.",
+            "The board refused to go along with the new budget.",
+            "Will the other players go along with the new rules?"
+          ]
+        },
+        {
+          "verb": "Cut back on",
+          "def": "To reduce the amount of something",
+          "ipa": "/kʌt bæk ɑn/",
+          "ex": [
+            "My doctor told me to cut back on salt.",
+            "The school cut back on paper to save money.",
+            "Many families are cutting back on meat."
+          ]
+        },
+        {
+          "verb": "Head off",
+          "def": "To stop something before it starts",
+          "ipa": "/hɛd ɔf/",
+          "ex": [
+            "The manager raised pay to head off a strike.",
+            "Vaccines can help head off an outbreak.",
+            "Early talks headed off a fight between the neighbors."
+          ]
+        },
+        {
+          "verb": "Work out",
+          "def": "To reach an agreement after talks",
+          "ipa": "/wɝk aʊt/",
+          "ex": [
+            "The landlord and the tenants worked out an agreement.",
+            "The union worked out a new contract with the city.",
+            "We worked out a schedule that everyone agreed on."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "commerce minister",
+          "def": "The government official in charge of a country's trade and business",
+          "ipa": "/ˈkɑmərs ˈmɪnɪstər/",
+          "ex": [
+            "The commerce minister met with factory owners in the capital.",
+            "Canada's commerce minister will visit Mexico next month.",
+            "The new commerce minister wants to help small businesses sell abroad."
+          ]
+        },
+        {
+          "word": "trade deficit",
+          "def": "The amount by which a country buys more from another country than it sells to it",
+          "ipa": "/treɪd ˈdɛfəsɪt/",
+          "ex": [
+            "The country's trade deficit grew because it bought more oil.",
+            "A weak currency can help shrink a trade deficit.",
+            "Economists argue about whether a trade deficit is always bad."
+          ]
+        },
+        {
+          "word": "deadline",
+          "def": "A date or time by which something must be done",
+          "ipa": "/ˈdɛdˌlaɪn/",
+          "ex": [
+            "The deadline for the school project is Friday.",
+            "She worked late to meet the deadline.",
+            "The tax deadline in the United States is usually in April."
+          ]
+        },
+        {
+          "word": "state subsidies",
+          "def": "Money that a government gives to companies to help them",
+          "ipa": "/steɪt ˈsʌbsədiz/",
+          "ex": [
+            "Some farmers depend on state subsidies to stay in business.",
+            "The railroad could not survive without state subsidies.",
+            "Critics say state subsidies give some companies an unfair advantage."
+          ]
+        },
+        {
+          "word": "solar panels",
+          "def": "Flat pieces of equipment that make electricity from sunlight",
+          "ipa": "/ˈsoʊlər ˈpænəlz/",
+          "ex": [
+            "We put solar panels on our roof last summer.",
+            "Solar panels lower our electric bill.",
+            "The school uses solar panels to power its lights."
+          ]
+        },
+        {
+          "word": "carmakers",
+          "def": "Companies that build cars",
+          "ipa": "/ˈkɑrˌmeɪkərz/",
+          "ex": [
+            "Many carmakers now sell electric models.",
+            "Japanese carmakers are famous for reliable cars.",
+            "Carmakers showed their new models at the auto show."
+          ]
+        },
+        {
+          "word": "best-known",
+          "def": "Known by the largest number of people",
+          "ipa": "/ˈbɛstˈnoʊn/",
+          "ex": [
+            "Coca-Cola is one of the best-known brands in the world.",
+            "Her best-known song came out in 1985.",
+            "The Golden Gate Bridge is one of the best-known sights in San Francisco."
+          ]
+        },
+        {
+          "word": "factory jobs",
+          "def": "Jobs making goods in a factory",
+          "ipa": "/ˈfæktəri dʒɑbz/",
+          "ex": [
+            "My grandfather had one of the best factory jobs in town.",
+            "Many factory jobs now need computer skills.",
+            "The new plant will create 500 factory jobs."
+          ]
+        },
+        {
+          "word": "resolution",
+          "def": "A formal statement of opinion that a group approves by voting",
+          "ipa": "/ˌrɛzəˈluʃən/",
+          "ex": [
+            "The city council passed a resolution to support local farms.",
+            "The students voted on a resolution about school lunches.",
+            "The resolution asks the government to act quickly."
+          ]
+        },
+        {
+          "word": "policy",
+          "def": "A plan or set of rules that a government or group follows",
+          "ipa": "/ˈpɑləsi/",
+          "ex": [
+            "The company has a strict policy on vacation days.",
+            "The new policy lets students use phones at lunch.",
+            "Voters disagree about the city's housing policy."
+          ]
+        },
+        {
+          "word": "harm",
+          "def": "To hurt or damage something or someone",
+          "ipa": "/hɑrm/",
+          "ex": [
+            "Too much sun can harm your skin.",
+            "The storm did not harm the old bridge.",
+            "Loud music can harm your hearing."
+          ]
+        },
+        {
+          "word": "tough measures",
+          "def": "Strong official actions to solve a problem",
+          "ipa": "/tʌf ˈmɛʒərz/",
+          "ex": [
+            "The city took tough measures against illegal parking.",
+            "The school promised tough measures against cheating.",
+            "Some voters want tough measures to lower crime."
+          ]
+        },
+        {
+          "word": "protectionist",
+          "def": "Protecting a country's own businesses with taxes and limits on foreign goods",
+          "ipa": "/prəˈtɛkʃənɪst/",
+          "ex": [
+            "The new tariffs were called a protectionist policy.",
+            "Some economists warn that protectionist rules raise prices.",
+            "The president denied that his plan was protectionist."
+          ]
+        },
+        {
+          "word": "trade investigation",
+          "def": "An official check into whether another country is trading unfairly",
+          "ipa": "/treɪd ɪnˌvɛstəˈɡeɪʃən/",
+          "ex": [
+            "The government opened a trade investigation into cheap imported tires.",
+            "A trade investigation can take more than a year.",
+            "The trade investigation found that the steel was sold below cost."
+          ]
+        },
+        {
+          "word": "hybrid cars",
+          "def": "Cars that use both gas and electricity",
+          "ipa": "/ˈhaɪbrɪd kɑrz/",
+          "ex": [
+            "Hybrid cars use less gas in city traffic.",
+            "My neighbor traded her truck for one of the new hybrid cars.",
+            "Many taxi companies now use hybrid cars."
+          ]
+        },
+        {
+          "word": "trade war",
+          "def": "A fight between countries in which each adds taxes or limits on the other's goods",
+          "ipa": "/treɪd wɔr/",
+          "ex": [
+            "Farmers were hurt during the trade war.",
+            "A trade war can make everyday products more expensive.",
+            "Both countries said they did not want a trade war."
+          ]
+        },
+        {
+          "word": "broad deal",
+          "def": "An agreement that covers many topics",
+          "ipa": "/brɔd dil/",
+          "ex": [
+            "The two parties reached a broad deal on taxes and spending.",
+            "A broad deal is harder to reach than a small one.",
+            "Workers hoped for a broad deal on pay and hours."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Europe is getting tougher on trade because cheap Chinese goods threaten its factories and workers. Its trade chief held talks in Beijing as lawmakers and leaders asked for stronger tools.",
+          "a": true,
+          "why": "The EU's trade chief sat down with China's commerce minister in Beijing. Lawmakers and leaders want a tougher policy because they fear European workers will lose out."
+        },
+        {
+          "s": "All countries in the European Union have agreed to place new taxes on Chinese products. The EU sent its trade chief to Beijing to announce these new limits to China's commerce minister in person.",
+          "a": false,
+          "why": "Close, but no new taxes were announced in Beijing. Not every EU country will go along with tough measures, and Spain has been friendlier toward China."
+        },
+        {
+          "s": "Several big European carmakers have opened new electric car plants in China this year. They hope to win more buyers there, since car sales across Europe have been weak for a long time now.",
+          "a": false,
+          "why": "This story is about the EU's huge trade deficit with China. Europe wants to bring down that deficit and is pressing China in talks in Beijing."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The EU's trade chief sat down with China's commerce minister in Beijing.",
+          "a": true,
+          "why": "The two officials began two days of talks in Beijing on October 8, 2026."
+        },
+        {
+          "s": "The EU's trade chief wants the trade deficit with China to grow.",
+          "a": false,
+          "why": "The deficit keeps piling up, and the trade chief wants to bring down that number."
+        },
+        {
+          "s": "Chinese carmakers are taking on well-known European car brands.",
+          "a": true,
+          "why": "Chinese carmakers compete with Europe's best-known brands, and many fear that European workers will lose out."
+        },
+        {
+          "s": "The leaders of France and Germany want a softer policy toward China.",
+          "a": false,
+          "why": "In a letter, they stepped up the pressure and asked for a tool to push back quickly against countries that harm Europe."
+        },
+        {
+          "s": "Every country in the bloc will go along with tough measures against China.",
+          "a": false,
+          "why": "Not every country will go along with them. Spain has been friendlier toward China."
+        },
+        {
+          "s": "Europe asked China to cut back on its exports of hybrid cars.",
+          "a": true,
+          "why": "Europe wants China to cut back on these exports, but Beijing opposes such limits."
+        }
+      ]
+    },
+    {
+      "id": "crew13-fast-trip-iss-2026",
+      "number": 158,
+      "headline": "Astronauts make fastest American trip to space station",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n158-crew13-fast-trip-iss-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Historic SpaceX Crew-13 Launches to Space Station from Florida (AP, via WDTV)",
+          "url": "https://www.wdtv.com/2026/10/01/spacex-launches-4-astronauts-fast-track-international-space-station/"
+        },
+        {
+          "title": "SpaceX's Crew-13 reaches space station in record-fast trip as mission begins (FOX 35 Orlando)",
+          "url": "https://www.fox5ny.com/news/spacexs-crew-13-reaches-space-station-record-fast-trip-mission-begins"
+        },
+        {
+          "title": "SpaceX smashes US record as astronauts reach ISS in just 7 hours and 55 minutes (Interesting Engineering)",
+          "url": "https://interestingengineering.com/space/spacex-reach-iss-under-8-hours"
+        },
+        {
+          "title": "SpaceX Crew-13 docks with International Space Station after record-fast flight (video, WKMG News 6)",
+          "url": "https://www.youtube.com/watch?v=uns4iF6c_g4"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Four astronauts {{blasted off}} from Florida on Thursday morning, October 1, 2026. Their SpaceX capsule {{closed in on}} the International Space Station that evening. It {{linked up with}} the station 7 hours and 55 minutes after launch, a new US record. The launch had been {{pushed back}} three weeks to repair a [[leaking]] [[fuel system]]. There were [[thick clouds]] that morning, but the weather {{cleared up}} in time.",
+          "verbs": [
+            {
+              "display": "blasted off",
+              "base": "blast off",
+              "correct": "To start a flight to space",
+              "wrong": "To test a rocket engine",
+              "correctFirst": true,
+              "why": "The rocket blasted off right on time. We watched the shuttle blast off on TV when I was a kid. Four astronauts blasted off from Florida on Thursday morning."
+            },
+            {
+              "display": "closed in on",
+              "base": "close in on",
+              "correct": "To get closer and closer to something",
+              "wrong": "To send radio messages to someone",
+              "correctFirst": false,
+              "why": "As our plane closed in on the airport, we could see the city lights. The boat closed in on the harbor just before dark. Their SpaceX capsule closed in on the International Space Station that evening."
+            },
+            {
+              "display": "linked up with",
+              "base": "link up with",
+              "correct": "To join together with another spacecraft",
+              "wrong": "To fly in a circle around a planet",
+              "correctFirst": true,
+              "why": "The supply ship will link up with the station tomorrow. The two spacecraft linked up with each other high above Africa. The capsule linked up with the station 7 hours and 55 minutes after launch."
+            },
+            {
+              "display": "pushed back",
+              "base": "push back",
+              "correct": "To move an event to a later date",
+              "wrong": "To cancel a plan completely",
+              "correctFirst": false,
+              "why": "The airline pushed back our flight by two hours. We pushed back the meeting to Friday. The launch was pushed back three weeks to repair a leaking fuel system."
+            },
+            {
+              "display": "cleared up",
+              "base": "clear up",
+              "correct": "To become bright and dry",
+              "wrong": "To change again and again",
+              "correctFirst": true,
+              "why": "It rained all morning, but it cleared up after lunch. I hope the weather clears up before the game. There were thick clouds that morning, but the weather cleared up in time for the launch."
+            }
+          ]
+        },
+        {
+          "text": "The old US record was 12 hours and 33 minutes, set by a Dragon [[cargo]] capsule in November 2024. The best time for a US crew was 14 hours and 43 minutes. The station was in a good position at launch. The capsule started to {{catch up with}} it almost right away. A SpaceX official said the team got lucky and the timing {{worked out}}. A Russian crew still holds the [[overall record]], at just over three hours.",
+          "verbs": [
+            {
+              "display": "catch up with",
+              "base": "catch up with",
+              "correct": "To reach a moving thing from behind",
+              "wrong": "To turn slowly in a circle",
+              "correctFirst": false,
+              "why": "You go first, and I'll catch up with you at the park. The runner caught up with the leader on the last lap. The station was in a good position, so the capsule started to catch up with it almost right away."
+            },
+            {
+              "display": "worked out",
+              "base": "work out",
+              "correct": "To have a good result",
+              "wrong": "To stay the same for years",
+              "correctFirst": true,
+              "why": "I was nervous about the move, but it all worked out. Things worked out well for her new business. A SpaceX official said the team got lucky and the timing worked out."
+            }
+          ]
+        },
+        {
+          "text": "The crew's [[commander]] is a NASA [[geologist]] who once worked on a [[Mars rover]]. She is the first Black woman to command a crew in [[orbit]]. The other three are new to space. They are a NASA pilot who is a retired Marine, a Canadian [[air force colonel]] and a Russian former [[submarine officer]]. They will {{take over from}} four astronauts who arrived in February. For six months, they will do research and {{look after}} the station.",
+          "verbs": [
+            {
+              "display": "take over from",
+              "base": "take over from",
+              "correct": "To replace someone at a job",
+              "wrong": "To visit someone for a day",
+              "correctFirst": false,
+              "why": "A new coach will take over from him next season. She took over from her father at the family store. The new crew will take over from four astronauts who arrived in February."
+            },
+            {
+              "display": "look after",
+              "base": "look after",
+              "correct": "To take care of something",
+              "wrong": "To find a missing part",
+              "correctFirst": true,
+              "why": "Can you look after my plants while I'm away? My sister looks after our grandmother on the weekend. For six months, the new crew will do research and look after the station."
+            }
+          ]
+        },
+        {
+          "text": "The crew {{played up}} the number 13. Their [[mission patch]] [[honors]] Apollo 13, the 1970 [[Moon mission]] that ended safely. They {{headed out}} to the [[launch pad]] in black cars with \"Lucky 13\" [[license plates]]. The Canadian astronaut's wife is due to have their third child in late November. NASA says it will help him {{keep up with}} family events. Hours after the launch, SpaceX {{sent up}} over 100 small satellites from California.",
+          "verbs": [
+            {
+              "display": "played up",
+              "base": "play up",
+              "correct": "To give extra attention to something",
+              "wrong": "To give a new name to something",
+              "correctFirst": false,
+              "why": "The ad plays up the car's low price. The coach played up the team's strong defense. The crew played up the number 13, with a patch that honors Apollo 13."
+            },
+            {
+              "display": "headed out",
+              "base": "head out",
+              "correct": "To leave and go somewhere",
+              "wrong": "To guard a place at night",
+              "correctFirst": true,
+              "why": "We headed out to the beach early on Saturday. It's getting late, so I'm going to head out. The crew headed out to the launch pad in black cars with \"Lucky 13\" license plates."
+            },
+            {
+              "display": "keep up with",
+              "base": "keep up with",
+              "correct": "To stay informed about something",
+              "wrong": "To send someone a gift",
+              "correctFirst": false,
+              "why": "I read the news every day to keep up with what's happening. It's hard to keep up with my cousins since they moved. NASA says it will help the Canadian astronaut keep up with family events."
+            },
+            {
+              "display": "sent up",
+              "base": "send up",
+              "correct": "To launch a rocket or satellite",
+              "wrong": "To build something in a factory",
+              "correctFirst": true,
+              "why": "The country plans to send up a new weather satellite next year. They sent up a telescope to study distant stars. Hours after the crew launched, SpaceX sent up over 100 small satellites from California."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Blast off",
+          "def": "To start a flight to space",
+          "ipa": "/blæst ɔf/",
+          "ex": [
+            "The kids counted to ten, and the toy rocket blasted off.",
+            "The spacecraft will blast off from Texas next spring.",
+            "Crowds cheered as the rocket blasted off into a clear sky."
+          ]
+        },
+        {
+          "verb": "Close in on",
+          "def": "To get closer and closer to something",
+          "ipa": "/kloʊz ɪn ɑn/",
+          "ex": [
+            "Our plane was closing in on the airport when the storm started.",
+            "As we closed in on the city, we could see the tall buildings.",
+            "The ferry closed in on the island after a two-hour trip."
+          ]
+        },
+        {
+          "verb": "Link up with",
+          "def": "To join together with another spacecraft",
+          "ipa": "/lɪŋk ʌp wɪð/",
+          "ex": [
+            "The cargo ship will link up with the station on Monday.",
+            "Engineers practiced how the two capsules would link up with each other.",
+            "The new module linked up with the space station without any problems."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To move an event to a later date",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "The concert was pushed back because of the storm.",
+            "Can we push back dinner to eight o'clock?",
+            "The school pushed back the start date by one week."
+          ]
+        },
+        {
+          "verb": "Clear up",
+          "def": "To become bright and dry",
+          "ipa": "/klɪr ʌp/",
+          "ex": [
+            "The forecast says it will clear up by the afternoon.",
+            "After the storm, the sky cleared up quickly.",
+            "We waited in the car until the weather cleared up."
+          ]
+        },
+        {
+          "verb": "Catch up with",
+          "def": "To reach a moving thing from behind",
+          "ipa": "/kætʃ ʌp wɪð/",
+          "ex": [
+            "Walk slowly so I can catch up with you.",
+            "The police car caught up with the speeding driver.",
+            "She ran fast and caught up with her friends at the corner."
+          ]
+        },
+        {
+          "verb": "Work out",
+          "def": "To have a good result",
+          "ipa": "/wɜrk aʊt/",
+          "ex": [
+            "Don't worry, I'm sure everything will work out.",
+            "Our trip didn't work out the way we planned.",
+            "Moving to a new city worked out well for them."
+          ]
+        },
+        {
+          "verb": "Take over from",
+          "def": "To replace someone at a job",
+          "ipa": "/teɪk ˈoʊvər frʌm/",
+          "ex": [
+            "Who will take over from the manager when she retires?",
+            "The night nurse took over from him at seven.",
+            "A younger player will take over from the team captain."
+          ]
+        },
+        {
+          "verb": "Look after",
+          "def": "To take care of something",
+          "ipa": "/lʊk ˈæftər/",
+          "ex": [
+            "My neighbor looks after our dog when we travel.",
+            "Nurses look after patients day and night.",
+            "He looks after the garden at his church."
+          ]
+        },
+        {
+          "verb": "Play up",
+          "def": "To give extra attention to something",
+          "ipa": "/pleɪ ʌp/",
+          "ex": [
+            "The store played up its free shipping in every ad.",
+            "The movie poster plays up the famous actor.",
+            "Her resume plays up her language skills."
+          ]
+        },
+        {
+          "verb": "Head out",
+          "def": "To leave and go somewhere",
+          "ipa": "/hɛd aʊt/",
+          "ex": [
+            "We should head out before the traffic gets bad.",
+            "They headed out to the lake after breakfast.",
+            "I'm heading out to the store. Do you need anything?"
+          ]
+        },
+        {
+          "verb": "Keep up with",
+          "def": "To stay informed about something",
+          "ipa": "/kip ʌp wɪð/",
+          "ex": [
+            "He follows a few websites to keep up with sports news.",
+            "It's hard to keep up with all the changes at work.",
+            "My mom uses social media to keep up with her old classmates."
+          ]
+        },
+        {
+          "verb": "Send up",
+          "def": "To launch a rocket or satellite",
+          "ipa": "/sɛnd ʌp/",
+          "ex": [
+            "Scientists sent up a balloon to measure the air.",
+            "The company will send up its first rocket next month.",
+            "NASA sent up a new satellite to watch the weather."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "leaking",
+          "def": "Letting liquid or gas escape through a hole or crack",
+          "ipa": "/ˈlikɪŋ/",
+          "ex": [
+            "We called a plumber about the leaking pipe.",
+            "His car has a leaking tire.",
+            "Water from a leaking roof ruined the carpet."
+          ]
+        },
+        {
+          "word": "fuel system",
+          "def": "The parts of a machine that store and carry its fuel",
+          "ipa": "/ˈfjuəl ˈsɪstəm/",
+          "ex": [
+            "The mechanic checked the truck's fuel system.",
+            "Dirt in the fuel system can make an engine stop.",
+            "The airline grounded the plane to inspect its fuel system."
+          ]
+        },
+        {
+          "word": "thick clouds",
+          "def": "Heavy, dark clouds that block the sun",
+          "ipa": "/θɪk klaʊdz/",
+          "ex": [
+            "Thick clouds covered the mountains all day.",
+            "The flight was bumpy because of thick clouds.",
+            "We could not see the stars through the thick clouds."
+          ]
+        },
+        {
+          "word": "cargo",
+          "def": "Goods carried by a ship, plane or truck",
+          "ipa": "/ˈkɑrɡoʊ/",
+          "ex": [
+            "The ship was carrying cargo from China.",
+            "Workers loaded the cargo onto the plane.",
+            "The truck lost part of its cargo on the highway."
+          ]
+        },
+        {
+          "word": "overall record",
+          "def": "The best result ever, counting everyone and everything",
+          "ipa": "/ˌoʊvərˈɔl ˈrɛkərd/",
+          "ex": [
+            "She broke the overall record for the marathon.",
+            "The city set an overall record for heat this summer.",
+            "Our school still holds the overall record for the relay race."
+          ]
+        },
+        {
+          "word": "commander",
+          "def": "The person in charge of a group, ship or mission",
+          "ipa": "/kəˈmændər/",
+          "ex": [
+            "The ship's commander gave the order to return home.",
+            "She was named commander of the rescue team.",
+            "The commander spoke to the soldiers before the trip."
+          ]
+        },
+        {
+          "word": "geologist",
+          "def": "A scientist who studies rocks and the ground",
+          "ipa": "/dʒiˈɑlədʒɪst/",
+          "ex": [
+            "A geologist checked the rocks after the earthquake.",
+            "My uncle works as a geologist for an oil company.",
+            "The geologist found tiny shells in the stone."
+          ]
+        },
+        {
+          "word": "Mars rover",
+          "def": "A robot car that drives on Mars and studies it",
+          "ipa": "/mɑrz ˈroʊvər/",
+          "ex": [
+            "The Mars rover sent back photos of red rocks.",
+            "Engineers tested the Mars rover in the desert.",
+            "The Mars rover drives slowly over rocks and sand."
+          ]
+        },
+        {
+          "word": "orbit",
+          "def": "The curved path around a planet or star",
+          "ipa": "/ˈɔrbɪt/",
+          "ex": [
+            "The Moon is in orbit around the Earth.",
+            "The satellite has been in orbit for ten years.",
+            "It takes Earth one year to complete its orbit around the sun."
+          ]
+        },
+        {
+          "word": "air force colonel",
+          "def": "A high-ranking officer in a country's military air service",
+          "ipa": "/ɛr fɔrs ˈkɜrnəl/",
+          "ex": [
+            "Her father was an air force colonel.",
+            "An air force colonel spoke at the graduation.",
+            "The air force colonel has flown many kinds of jets."
+          ]
+        },
+        {
+          "word": "submarine officer",
+          "def": "A military leader who serves on a ship that travels underwater",
+          "ipa": "/ˈsʌbməˌrin ˈɔfəsər/",
+          "ex": [
+            "As a submarine officer, he spent months under the sea.",
+            "The book was written by a former submarine officer.",
+            "A submarine officer must stay calm in small spaces."
+          ]
+        },
+        {
+          "word": "mission patch",
+          "def": "A cloth badge with a design made for one space mission",
+          "ipa": "/ˈmɪʃən pætʃ/",
+          "ex": [
+            "The museum shows every mission patch from the program.",
+            "Students designed a mission patch for their science club.",
+            "He wore the mission patch on his jacket."
+          ]
+        },
+        {
+          "word": "honors",
+          "def": "Shows respect for someone or something",
+          "ipa": "/ˈɑnərz/",
+          "ex": [
+            "The new statue honors the town's firefighters.",
+            "Veterans Day honors people who served in the military.",
+            "The award honors teachers who do more than their job asks."
+          ]
+        },
+        {
+          "word": "Moon mission",
+          "def": "A space trip to the Moon",
+          "ipa": "/mun ˈmɪʃən/",
+          "ex": [
+            "The first Moon mission with people landed in 1969.",
+            "Millions watched the Moon mission on TV.",
+            "The Moon mission took about eight days."
+          ]
+        },
+        {
+          "word": "launch pad",
+          "def": "The place where a rocket stands before launch",
+          "ipa": "/lɔntʃ pæd/",
+          "ex": [
+            "Workers moved the rocket to the launch pad.",
+            "Visitors can see the launch pad from a bus tour.",
+            "Nobody may stand near the launch pad during a launch."
+          ]
+        },
+        {
+          "word": "license plates",
+          "def": "Metal signs on a car with its registration number",
+          "ipa": "/ˈlaɪsəns pleɪts/",
+          "ex": [
+            "The police wrote down the car's license plates.",
+            "Some drivers pay extra for special license plates.",
+            "Each state has its own design for license plates."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A SpaceX capsule took four astronauts from Florida to the space station in under eight hours. Due to the station's good position, it was the fastest trip ever by an American spacecraft.",
+          "a": true,
+          "why": "The crew arrived 7 hours and 55 minutes after launch. The station was in a good spot, so the capsule could catch up with it right away."
+        },
+        {
+          "s": "Four astronauts reached the orbiting lab less than eight hours after launch, a new US record. SpaceX says a new and more powerful rocket engine made the short trip possible this time.",
+          "a": false,
+          "why": "Close, but the trip was fast because the station was in a good position at launch. A SpaceX official said the timing worked out."
+        },
+        {
+          "s": "A NASA crew has come home to Earth after six months on the space station. Their capsule landed safely in the ocean, and doctors are now checking how the long stay affected them.",
+          "a": false,
+          "why": "This story is about a crew that has just arrived at the station. They blasted off on October 1 and set a new US speed record."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The crew's capsule linked up with the station in record US time.",
+          "a": true,
+          "why": "It linked up with the station less than eight hours after launch, a new US record."
+        },
+        {
+          "s": "The launch went ahead on its first planned date, with no delays.",
+          "a": false,
+          "why": "The launch had been pushed back three weeks to repair a leaking fuel system."
+        },
+        {
+          "s": "The capsule started to catch up with the station almost right away.",
+          "a": true,
+          "why": "The station was in a good position at launch, so the timing worked out."
+        },
+        {
+          "s": "The crew now holds the overall record for the fastest trip to the station.",
+          "a": false,
+          "why": "The crew linked up faster than any US crew, but a Russian crew still holds the overall record."
+        },
+        {
+          "s": "The new crew will take over from astronauts who arrived in May.",
+          "a": false,
+          "why": "The four astronauts they will take over from arrived on the station in February."
+        },
+        {
+          "s": "The new crew will do research and look after the station.",
+          "a": true,
+          "why": "For six months, the four astronauts will live on the station and do research there."
+        }
+      ]
+    },
+    {
+      "id": "russia-foreign-recruits-2026",
+      "number": 157,
+      "headline": "Fake job ads recruit foreigners for Russia's army",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n157-russia-foreign-recruits-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Russia's military recruitment networks exploit Western tech platforms (ISS Today, Institute for Security Studies)",
+          "url": "https://issafrica.org/iss-today/russia-s-military-recruitment-networks-exploit-western-tech-platforms"
+        },
+        {
+          "title": "Russia: Trafficking of Foreign Nationals to Fight in Ukraine (Amnesty International)",
+          "url": "https://www.amnesty.org/en/documents/eur46/1361/2026/en/"
+        },
+        {
+          "title": "Politico: Western platforms are helping Russia recruit foreigners to fight in the war against Ukraine (LIGA.net)",
+          "url": "https://news.liga.net/en/war/news/politico-western-platforms-are-helping-russia-recruit-foreigners-to-fight-in-the-war-against-ukraine"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 6, 2026, a South African research institute wrote about a new [[investigation]] into Russian army recruiting. It was done by Code for Africa, an African group of [[investigators]]. They found 289 websites, [[social media profiles]] and other online tools. Many were {{set up}} in Russia and Belarus but [[hosted]] on Western computers. The recruiters mostly {{go after}} young men without [[steady work]] in Africa and other [[lower-income]] regions.",
+          "verbs": [
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create something, such as a website",
+              "wrong": "To keep something to use later",
+              "correctFirst": true,
+              "why": "My brother set up a small online store last year. It took me ten minutes to set up the new phone. Many of the recruiting websites were set up in Russia and Belarus."
+            },
+            {
+              "display": "go after",
+              "base": "go after",
+              "correct": "To choose someone as a target",
+              "wrong": "To agree with someone's plan",
+              "correctFirst": false,
+              "why": "Some phone scams go after older people. That company goes after college students with its ads. The recruiters mostly go after young men without steady work in Africa and other lower-income regions."
+            }
+          ]
+        },
+        {
+          "text": "According to the investigators, the ads look like [[ordinary]] job offers. They promise construction work, jobs as [[security guards]], visa help or film roles. Some websites carry [[forged endorsements]], such as the logos of Western news outlets. Politico reported that one ad promised 15,000 dollars for {{signing up}} and 3,000 dollars a month. When people {{fill out}} the online forms, their [[personal details]] are sent to Russia.",
+          "verbs": [
+            {
+              "display": "signing up",
+              "base": "sign up",
+              "correct": "To agree to join the army",
+              "wrong": "To end a message or a letter",
+              "correctFirst": true,
+              "why": "My cousin signed up when he turned 18. Fewer young people are signing up these days. One ad promised 15,000 dollars for signing up and 3,000 dollars a month."
+            },
+            {
+              "display": "fill out",
+              "base": "fill out",
+              "correct": "To write answers on a form",
+              "wrong": "To do someone's job for a while",
+              "correctFirst": false,
+              "why": "Please fill out this form at the front desk. I filled out three job applications this morning. When people fill out the online forms, their personal details are sent to Russia."
+            }
+          ]
+        },
+        {
+          "text": "In a report on September 10, 2026, Amnesty International said Russia has recruited thousands of people from low-income countries. Many were promised [[civilian]] jobs or Russian [[citizenship]] but {{ended up}} on the [[front line]] in Ukraine. Amnesty spoke with 15 foreign [[prisoners of war]]. Only three said they knowingly signed a military contract. A South African truck driver applied for a driving job in Poland, his wife said. He {{found out}} in Moscow that he would become a soldier. Amnesty says these practices [[amount to]] [[human trafficking]] in many cases.",
+          "verbs": [
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To finally be in a place you did not plan",
+              "wrong": "To visit a place for a short time",
+              "correctFirst": false,
+              "why": "We took the wrong bus and ended up downtown. She wanted to study art but ended up in a bank. Many recruits were promised civilian jobs but ended up on the front line in Ukraine."
+            },
+            {
+              "display": "found out",
+              "base": "find out",
+              "correct": "To learn a fact you did not know",
+              "wrong": "To solve a problem by thinking",
+              "correctFirst": true,
+              "why": "I found out about the party from my sister. When did you find out that you got the job? The truck driver found out in Moscow that he would become a soldier."
+            }
+          ]
+        },
+        {
+          "text": "Tech companies have {{taken down}} some of the content. Code for Africa's director said Meta has removed more than 300 [[ad campaigns]]. But new sites quickly {{pop up}}, the investigators say. Google [[disputed]] some of the findings and said it is {{looking into}} the report. The researchers say [[billing records]] could help {{track down}} the people behind the ads. Media reports suggest more than 3,000 Africans have {{gotten caught up in}} the war.",
+          "verbs": [
+            {
+              "display": "taken down",
+              "base": "take down",
+              "correct": "To remove something from a website",
+              "wrong": "To check whether a site is safe",
+              "correctFirst": true,
+              "why": "The school took down the photo on its website after parents complained. The singer took down her post an hour later. Tech companies have taken down some of the recruiting content."
+            },
+            {
+              "display": "pop up",
+              "base": "pop up",
+              "correct": "To appear suddenly",
+              "wrong": "To stop working for a while",
+              "correctFirst": false,
+              "why": "A new coffee shop popped up on our street. Strange messages keep popping up on my screen. The investigators say new recruiting sites quickly pop up again."
+            },
+            {
+              "display": "looking into",
+              "base": "look into",
+              "correct": "To study a problem carefully",
+              "wrong": "To ask a company to pay a fine",
+              "correctFirst": true,
+              "why": "The manager is looking into your complaint. Police are looking into the cause of the fire. A Google representative said the company is looking into the report."
+            },
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find someone after a long search",
+              "wrong": "To follow how something changes",
+              "correctFirst": false,
+              "why": "It took weeks to track down my old roommate. The police tracked down the driver two days later. The researchers say billing records could help track down the people behind the ads."
+            },
+            {
+              "display": "gotten caught up in",
+              "base": "get caught up in",
+              "correct": "To become part of something without planning to",
+              "wrong": "To be paid well for a job in another country",
+              "correctFirst": true,
+              "why": "Try not to get caught up in their argument. He got caught up in a fight after the game. Media reports suggest more than 3,000 Africans have gotten caught up in the war."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Set up",
+          "def": "To create something, such as a website",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "We set up a group chat for the whole family.",
+            "She set up her own cleaning business at 25.",
+            "The town set up a website for local news."
+          ]
+        },
+        {
+          "verb": "Go after",
+          "def": "To choose someone as a target",
+          "ipa": "/ɡoʊ ˈæftər/",
+          "ex": [
+            "The new ads go after young drivers.",
+            "Thieves often go after tourists with big bags.",
+            "That candy brand goes after children with bright colors."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "def": "To agree to join the army",
+          "ipa": "/saɪn ʌp/",
+          "ex": [
+            "Her grandfather signed up during the Korean War.",
+            "He signed up for four years in the Army.",
+            "Many young men signed up after the attack."
+          ]
+        },
+        {
+          "verb": "Fill out",
+          "def": "To write answers on a form",
+          "ipa": "/fɪl aʊt/",
+          "ex": [
+            "You have to fill out a form to get a library card.",
+            "He filled out the survey on his phone.",
+            "Did you fill out the tax forms yet?"
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally be in a place you did not plan",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up at a farm.",
+            "He moved to Texas for a job and ended up in Dallas.",
+            "If you don't plan, you'll end up somewhere you don't like."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I just found out that my flight is late.",
+            "She found out the truth from a neighbor.",
+            "Let me call the store and find out when it opens."
+          ]
+        },
+        {
+          "verb": "Take down",
+          "def": "To remove something from a website",
+          "ipa": "/teɪk daʊn/",
+          "ex": [
+            "The website took down the fake review.",
+            "Please take down that picture of me from your page.",
+            "The company took down the video after one day."
+          ]
+        },
+        {
+          "verb": "Pop up",
+          "def": "To appear suddenly",
+          "ipa": "/pɑp ʌp/",
+          "ex": [
+            "Food trucks pop up all over town in summer.",
+            "A warning popped up when I opened the file.",
+            "New fake stores pop up online every week."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study a problem carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The bank is looking into the strange payment.",
+            "Can you look into why the heater is not working?",
+            "The school promised to look into the problem."
+          ]
+        },
+        {
+          "verb": "Track down",
+          "def": "To find someone after a long search",
+          "ipa": "/træk daʊn/",
+          "ex": [
+            "I finally tracked down my old teacher on the internet.",
+            "Reporters tracked down the owner of the building.",
+            "It took the police a year to track down the thief."
+          ]
+        },
+        {
+          "verb": "Get caught up in",
+          "def": "To become part of something without planning to",
+          "ipa": "/ɡɛt kɔt ʌp ɪn/",
+          "ex": [
+            "Our bus got caught up in the protest downtown.",
+            "She got caught up in a dispute between two neighbors.",
+            "Try not to get caught up in other people's arguments."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "investigation",
+          "def": "A careful search for the facts about something",
+          "ipa": "/ɪnˌvɛstəˈɡeɪʃən/",
+          "ex": [
+            "The police started an investigation into the crash.",
+            "The newspaper's investigation took two years.",
+            "An investigation found problems with the water system."
+          ]
+        },
+        {
+          "word": "investigators",
+          "def": "People whose job is to find out the facts about something",
+          "ipa": "/ɪnˈvɛstəˌɡeɪtərz/",
+          "ex": [
+            "Investigators spent hours at the scene of the fire.",
+            "The insurance company sent two investigators.",
+            "Investigators asked the neighbors what they saw."
+          ]
+        },
+        {
+          "word": "social media profiles",
+          "def": "Pages about a person or group on sites like Facebook or Instagram",
+          "ipa": "/ˈsoʊʃəl ˈmidiə ˈproʊfaɪlz/",
+          "ex": [
+            "Many employers look at the social media profiles of job seekers.",
+            "She made her social media profiles private.",
+            "The band's social media profiles have millions of followers."
+          ]
+        },
+        {
+          "word": "hosted",
+          "def": "Kept on a computer so that people can visit it on the internet",
+          "ipa": "/ˈhoʊstɪd/",
+          "ex": [
+            "Our school website is hosted by a company in Ohio.",
+            "The videos are hosted on a free site.",
+            "Where is your online shop hosted?"
+          ]
+        },
+        {
+          "word": "steady work",
+          "def": "A job that gives regular pay for a long time",
+          "ipa": "/ˈstɛdi wɜrk/",
+          "ex": [
+            "After years of part-time jobs, he found steady work.",
+            "Steady work is hard to find in small towns.",
+            "She wants steady work so she can rent an apartment."
+          ]
+        },
+        {
+          "word": "lower-income",
+          "def": "Having less money than most people or places",
+          "ipa": "/ˈloʊər ˈɪnkʌm/",
+          "ex": [
+            "Many lower-income families get help with school lunches.",
+            "The bank opened a branch in a lower-income area.",
+            "Rent is a big problem in lower-income neighborhoods."
+          ]
+        },
+        {
+          "word": "ordinary",
+          "def": "Normal and not special in any way",
+          "ipa": "/ˈɔrdəˌnɛri/",
+          "ex": [
+            "It was an ordinary Tuesday until the phone rang.",
+            "He looks like an ordinary student.",
+            "The hotel room was clean but ordinary."
+          ]
+        },
+        {
+          "word": "security guards",
+          "def": "People paid to protect a building or the people in it",
+          "ipa": "/sɪˈkjʊrəti ɡɑrdz/",
+          "ex": [
+            "Two security guards stood at the bank door.",
+            "The mall hired more security guards in December.",
+            "Security guards checked our bags at the concert."
+          ]
+        },
+        {
+          "word": "forged endorsements",
+          "def": "False claims that a famous person or group supports something",
+          "ipa": "/fɔrdʒd ɛnˈdɔrsmənts/",
+          "ex": [
+            "The diet pill ad used forged endorsements from doctors.",
+            "Forged endorsements can make a scam look real.",
+            "The company was fined for forged endorsements on its boxes."
+          ]
+        },
+        {
+          "word": "personal details",
+          "def": "Facts about you, such as your name, address and phone number",
+          "ipa": "/ˈpɜrsənəl ˈditeɪlz/",
+          "ex": [
+            "Never give your personal details to a stranger on the phone.",
+            "The hotel asked for our personal details at the desk.",
+            "Hackers stole the personal details of many customers."
+          ]
+        },
+        {
+          "word": "civilian",
+          "def": "Not part of the army, navy or police",
+          "ipa": "/sɪˈvɪljən/",
+          "ex": [
+            "After ten years in the Army, he found a civilian job.",
+            "The airport is used by civilian and military planes.",
+            "She wore civilian clothes on her day off."
+          ]
+        },
+        {
+          "word": "citizenship",
+          "def": "The legal right to belong to a country",
+          "ipa": "/ˈsɪtəzənˌʃɪp/",
+          "ex": [
+            "My mother got her US citizenship last spring.",
+            "He has citizenship in two countries.",
+            "You must pass a test to get citizenship."
+          ]
+        },
+        {
+          "word": "front line",
+          "def": "The place where armies fight each other in a war",
+          "ipa": "/frʌnt laɪn/",
+          "ex": [
+            "Her grandfather spent a year on the front line.",
+            "Doctors worked close to the front line.",
+            "The soldiers moved toward the front line at night."
+          ]
+        },
+        {
+          "word": "prisoners of war",
+          "def": "Soldiers who are caught and held by the enemy during a war",
+          "ipa": "/ˈprɪzənərz əv wɔr/",
+          "ex": [
+            "The two sides agreed to swap prisoners of war.",
+            "The Red Cross visits prisoners of war.",
+            "Many prisoners of war wrote letters home."
+          ]
+        },
+        {
+          "word": "amount to",
+          "def": "To be the same as something",
+          "ipa": "/əˈmaʊnt tu/",
+          "ex": [
+            "Taking the money without asking could amount to theft.",
+            "His words amount to a promise.",
+            "Not paying workers can amount to stealing from them."
+          ]
+        },
+        {
+          "word": "human trafficking",
+          "def": "The crime of moving or holding people to use them for work or money",
+          "ipa": "/ˈhjumən ˈtræfɪkɪŋ/",
+          "ex": [
+            "The police arrested three men for human trafficking.",
+            "Human trafficking is a crime in every country.",
+            "The charity helps victims of human trafficking."
+          ]
+        },
+        {
+          "word": "ad campaigns",
+          "def": "Planned groups of advertisements that try to sell something",
+          "ipa": "/æd kæmˈpeɪnz/",
+          "ex": [
+            "The shoe company spent millions on its ad campaigns.",
+            "Many ad campaigns now run only on phones.",
+            "Her ad campaigns helped the small bakery grow."
+          ]
+        },
+        {
+          "word": "disputed",
+          "def": "Said that something is not true or correct",
+          "ipa": "/dɪˈspjutɪd/",
+          "ex": [
+            "The driver disputed the police report.",
+            "She disputed the charge on her phone bill.",
+            "The team disputed the referee's decision."
+          ]
+        },
+        {
+          "word": "billing records",
+          "def": "Papers or files that show what a customer paid for and when",
+          "ipa": "/ˈbɪlɪŋ ˈrɛkərdz/",
+          "ex": [
+            "The doctor's office checked its billing records.",
+            "Our billing records show that you paid in June.",
+            "The phone company keeps billing records for seven years."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Researchers say a network is using fake job ads to bring poor men from Africa and elsewhere into Russia's army. A rights group says many were tricked and may be victims of trafficking.",
+          "a": true,
+          "why": "Investigators found hundreds of websites and profiles used to recruit men. Amnesty International says many recruits ended up on the front line after promises of civilian jobs."
+        },
+        {
+          "s": "A new study says Western tech firms have agreed to help Russia find soldiers across Africa. Meta and Google are now sharing their files with the police so the recruiters can be found.",
+          "a": false,
+          "why": "Close, but the networks break the platforms' own rules. Google disputed some findings, and researchers only say billing records could help track down the recruiters."
+        },
+        {
+          "s": "African leaders met in Kenya to discuss how many of their students are moving to Russia for college. They hope new exchange programs will help young people find better jobs at home.",
+          "a": false,
+          "why": "This is about fake job ads that recruit foreign men for Russia's army. Amnesty International says many recruits ended up on the front line."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Many recruiting websites were set up in Russia and Belarus.",
+          "a": true,
+          "why": "The researchers found that many of the sites came from Russia and Belarus, but they were hosted on Western computers."
+        },
+        {
+          "s": "The recruiting ads only offer jobs in construction.",
+          "a": false,
+          "why": "They also promise jobs as security guards, visa help or film roles. Recruiters use them to go after young men without steady work."
+        },
+        {
+          "s": "Many foreign recruits ended up on the front line after promises of civilian jobs.",
+          "a": true,
+          "why": "Amnesty said many were promised civilian jobs or Russian citizenship. Most of the prisoners it spoke with did not knowingly sign a military contract."
+        },
+        {
+          "s": "Amnesty said the recruiting has nothing to do with human trafficking.",
+          "a": false,
+          "why": "Amnesty says these practices amount to human trafficking in many cases. Many people found out too late that they would become soldiers."
+        },
+        {
+          "s": "Meta has taken down more than 300 recruiting ad campaigns.",
+          "a": true,
+          "why": "Code for Africa's director said Meta removed them. But new recruiting sites quickly pop up again."
+        },
+        {
+          "s": "Google agreed with every finding in the report.",
+          "a": false,
+          "why": "A Google representative disputed some of the findings. He said the company is looking into the report."
+        }
+      ]
+    },
+    {
+      "id": "argentina-golden-passports-2026",
+      "number": 156,
+      "headline": "Argentina offers passports to wealthy foreigners",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n156-argentina-golden-passports-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Debt-saddled Argentina pitches 'golden passport' scheme to woo wealthy foreigners (AP)",
+          "url": "https://apnews.com/article/23cad1def7422a3a26dce8ed9ad0ac22"
+        },
+        {
+          "title": "Pay for passports: Milei government unveils citizen by investment scheme (Buenos Aires Times)",
+          "url": "https://batimes.com.ar/news/argentina/pay-for-passport-scheme-argentina-unveils-citizen-by-investment-scheme.phtml"
+        },
+        {
+          "title": "Argentina to sell citizenship to foreigners for US$350,000 to raise dollars (MercoPress)",
+          "url": "https://en.mercopress.com/2026/10/03/argentina-to-sell-citizenship-to-foreigners-for-us-350-000-to-raise-dollars"
+        },
+        {
+          "title": "Argentine Citizenship Will Be New 'Status Symbol' For Wealthy Americans, Say Experts (video, Forbes Breaking News)",
+          "url": "https://www.youtube.com/watch?v=7uwEvZBt-1M"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 2, 2026, Argentina announced a plan to offer [[citizenship]] to wealthy foreigners. The country's economy minister {{laid out}} the plan at an investor event in Paris. Applicants could make a [[nonrefundable]] payment of 350,000 dollars to the national [[treasury]]. Or they could buy a new government [[bond]] worth 800,000 dollars and {{hold on to}} it for seven years. [[Applications]] are expected to open before the end of 2026.",
+          "verbs": [
+            {
+              "display": "laid out",
+              "base": "lay out",
+              "correct": "To explain a plan in detail",
+              "wrong": "To vote against a new law",
+              "correctFirst": true,
+              "why": "The coach laid out the game plan before the match. The mayor laid out her plan for three new parks. The economy minister laid out the citizenship plan at an event in Paris."
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something instead of selling it",
+              "wrong": "To pay a small fee every month",
+              "correctFirst": false,
+              "why": "He held on to his house when prices fell. My grandmother held on to her gold coins for years. Bond buyers would have to hold on to the new bond for seven years."
+            }
+          ]
+        },
+        {
+          "text": "The plan is meant to {{bring in}} [[foreign currency]]. Argentina's treasury must make nearly 25 billion dollars in foreign-currency [[debt payments]] in 2027. The government has {{held off}} on a return to international bond markets. So it is {{turning to}} other sources of money. Its advisers say the program could raise up to 2.5 billion dollars. Dollars matter to President Javier Milei, who plans to seek [[reelection]] in 2027.",
+          "verbs": [
+            {
+              "display": "bring in",
+              "base": "bring in",
+              "correct": "To earn or collect money",
+              "wrong": "To print new paper money",
+              "correctFirst": true,
+              "why": "The bake sale brought in 500 dollars for the school. Tourism brings in a lot of money for the city. The citizenship plan is meant to bring in foreign currency."
+            },
+            {
+              "display": "held off",
+              "base": "hold off",
+              "correct": "To wait before doing something",
+              "wrong": "To change the value of money",
+              "correctFirst": false,
+              "why": "We held off on buying a house until prices fell. She held off on telling her parents the news. The government has held off on a return to international bond markets."
+            },
+            {
+              "display": "turning to",
+              "base": "turn to",
+              "correct": "To seek help from another source",
+              "wrong": "To count money very carefully",
+              "correctFirst": true,
+              "why": "When I lost my job, I turned to my family. Many students turn to online videos for help with math. With fewer ways to borrow, the government is turning to other sources of money."
+            }
+          ]
+        },
+        {
+          "text": "About 60 countries give [[residency]] to foreigners who invest. Only about a dozen sell full citizenship, including several small Caribbean islands. Argentina would be the first in South America. The minister said the idea {{came up}} during a 2024 visit by Milei to the United States, when tech [[executives]] showed interest. Experts say more Americans and Europeans want a second country to {{fall back on}}. The government hopes to {{cash in on}} that [[demand]].",
+          "verbs": [
+            {
+              "display": "came up",
+              "base": "come up",
+              "correct": "To be mentioned or suggested",
+              "wrong": "To be sold at a low price",
+              "correctFirst": false,
+              "why": "Your name came up at the meeting. The idea of a trip came up over dinner. The idea for the program came up during a 2024 visit by Milei to the United States."
+            },
+            {
+              "display": "fall back on",
+              "base": "fall back on",
+              "correct": "To use something if other plans fail",
+              "wrong": "To leave your own home country",
+              "correctFirst": true,
+              "why": "She has savings to fall back on if she loses her job. If the bus is late, I can fall back on my bike. More Americans and Europeans want a second country to fall back on."
+            },
+            {
+              "display": "cash in on",
+              "base": "cash in on",
+              "correct": "To use a chance to earn money",
+              "wrong": "To save money for later",
+              "correctFirst": false,
+              "why": "Hotels cash in on the big game every year. Toy stores cash in on the weeks before Christmas. The government hopes to cash in on the demand for a second passport."
+            }
+          ]
+        },
+        {
+          "text": "Such programs have long faced [[criticism]]. A global [[watchdog]] has warned that criminals use them to hide [[illegal money]]. In April 2025, the European Union's top court ruled that Malta's program was [[unlawful]]. Other countries have {{shut down}} programs that sold residency. The minister said [[intelligence]] and financial agencies will check each applicant's [[criminal record]] and [[source of funds]]. The goal is to {{weed out}} criminals. All money must go through the official [[financial system]]. Immigration officials will approve or {{turn down}} each application.",
+          "verbs": [
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To close and stop a program",
+              "wrong": "To move a program online",
+              "correctFirst": true,
+              "why": "The city shut down the program after two years. The school shut down its night classes. Some countries have shut down programs that sold residency."
+            },
+            {
+              "display": "weed out",
+              "base": "weed out",
+              "correct": "To find and remove unwanted people",
+              "wrong": "To hire more police officers",
+              "correctFirst": false,
+              "why": "The first interview weeds out people who are not serious. Online tests help weed out weak job applicants. Checks on each applicant are meant to weed out criminals."
+            },
+            {
+              "display": "turn down",
+              "base": "turn down",
+              "correct": "To say no to a request",
+              "wrong": "To delay a final decision",
+              "correctFirst": false,
+              "why": "She turned down the job offer. The bank turned down his loan request. Immigration officials will approve or turn down each citizenship application."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Lay out",
+          "def": "To explain a plan in detail",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "Our teacher laid out the rules on the first day.",
+            "The company laid out its plan to hire 200 workers.",
+            "Can you lay out your idea for the group?"
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something instead of selling it",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "Some people hold on to their stocks for decades.",
+            "I decided to hold on to my old guitar.",
+            "They held on to the land instead of selling it to a builder."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To earn or collect money",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "Her second job brings in about 300 dollars a week.",
+            "The summer festival brings in money for local shops.",
+            "How much did the concert bring in?"
+          ]
+        },
+        {
+          "verb": "Hold off",
+          "def": "To wait before doing something",
+          "ipa": "/hoʊld ɔf/",
+          "ex": [
+            "Let's hold off on dinner until Dad gets home.",
+            "The company held off on hiring new staff.",
+            "I'm holding off on a new phone until next year."
+          ]
+        },
+        {
+          "verb": "Turn to",
+          "def": "To seek help from another source",
+          "ipa": "/tɜrn tu/",
+          "ex": [
+            "Who do you turn to when you have a problem?",
+            "Many families turned to food banks last winter.",
+            "She turned to her doctor for advice."
+          ]
+        },
+        {
+          "verb": "Come up",
+          "def": "To be mentioned or suggested",
+          "ipa": "/kʌm ʌp/",
+          "ex": [
+            "The topic of money came up at lunch.",
+            "Your question came up in class today.",
+            "Did my name come up in the meeting?"
+          ]
+        },
+        {
+          "verb": "Fall back on",
+          "def": "To use something if other plans fail",
+          "ipa": "/fɔl bæk ɑn/",
+          "ex": [
+            "It's good to have a skill to fall back on.",
+            "When the power failed, we fell back on candles.",
+            "He fell back on his old job when his business closed."
+          ]
+        },
+        {
+          "verb": "Cash in on",
+          "def": "To use a chance to earn money",
+          "ipa": "/kæʃ ɪn ɑn/",
+          "ex": [
+            "Ice cream shops cash in on hot weather.",
+            "Many companies tried to cash in on the new trend.",
+            "The town wants to cash in on its famous beach."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To close and stop a program",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The factory shut down last spring.",
+            "The state shut down the free bus service.",
+            "They shut down the store because it lost money."
+          ]
+        },
+        {
+          "verb": "Weed out",
+          "def": "To find and remove unwanted people",
+          "ipa": "/wid aʊt/",
+          "ex": [
+            "The hiring team weeds out people without the right skills.",
+            "The first round of the contest weeds out weaker singers.",
+            "Good checks weed out fake accounts."
+          ]
+        },
+        {
+          "verb": "Turn down",
+          "def": "To say no to a request",
+          "ipa": "/tɜrn daʊn/",
+          "ex": [
+            "He turned down the invitation to the party.",
+            "The school turned down my request for more time.",
+            "Why did you turn down that offer?"
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "citizenship",
+          "def": "Being a legal member of a country",
+          "ipa": "/ˈsɪtəzənˌʃɪp/",
+          "ex": [
+            "She got American citizenship after ten years in the country.",
+            "Children born here usually get citizenship.",
+            "He is proud of his citizenship."
+          ]
+        },
+        {
+          "word": "nonrefundable",
+          "def": "That will not be returned to you",
+          "ipa": "/ˌnɑnrɪˈfʌndəbəl/",
+          "ex": [
+            "The concert tickets are nonrefundable.",
+            "We paid a nonrefundable fee to hold the apartment.",
+            "Read the rules before you book a nonrefundable hotel room."
+          ]
+        },
+        {
+          "word": "treasury",
+          "def": "The part of a government that manages its money",
+          "ipa": "/ˈtrɛʒəri/",
+          "ex": [
+            "The treasury prints reports on government spending.",
+            "Tax money goes into the treasury.",
+            "The state treasury is short of cash this year."
+          ]
+        },
+        {
+          "word": "bond",
+          "def": "A loan to a government that is repaid later with interest",
+          "ipa": "/bɑnd/",
+          "ex": [
+            "My grandfather gave me a savings bond for my birthday.",
+            "City bonds helped pay for the new bridge.",
+            "Bonds are usually safer than stocks."
+          ]
+        },
+        {
+          "word": "Applications",
+          "def": "Formal written requests for something",
+          "ipa": "/ˌæpləˈkeɪʃənz/",
+          "ex": [
+            "Applications for the job close on Friday.",
+            "Applications for summer camp are online.",
+            "Applications must include a photo."
+          ]
+        },
+        {
+          "word": "foreign currency",
+          "def": "Money used in another country",
+          "ipa": "/ˈfɔrən ˈkɜrənsi/",
+          "ex": [
+            "You can change foreign currency at the airport.",
+            "Some stores near the border accept foreign currency.",
+            "She keeps a little foreign currency from every trip."
+          ]
+        },
+        {
+          "word": "debt payments",
+          "def": "Money paid regularly to reduce what you owe",
+          "ipa": "/dɛt ˈpeɪmənts/",
+          "ex": [
+            "His debt payments take half of his salary.",
+            "Lower interest rates made our debt payments smaller.",
+            "The company missed two debt payments."
+          ]
+        },
+        {
+          "word": "reelection",
+          "def": "Being elected again to the same job",
+          "ipa": "/ˌriɪˈlɛkʃən/",
+          "ex": [
+            "The governor will run again and hopes to win reelection.",
+            "The mayor lost her bid for reelection.",
+            "He is seeking reelection to the city council."
+          ]
+        },
+        {
+          "word": "residency",
+          "def": "The right to live in a country for a long time",
+          "ipa": "/ˈrɛzɪdənsi/",
+          "ex": [
+            "She got residency in Canada through her job.",
+            "Students need residency to pay lower tuition.",
+            "His residency papers arrived in the mail."
+          ]
+        },
+        {
+          "word": "executives",
+          "def": "People with top jobs in a company",
+          "ipa": "/ɪɡˈzɛkjətɪvz/",
+          "ex": [
+            "The executives met to discuss the budget.",
+            "Car company executives flew to the trade show.",
+            "Two executives left the bank this year."
+          ]
+        },
+        {
+          "word": "demand",
+          "def": "The wish of many people to buy or get something",
+          "ipa": "/dɪˈmænd/",
+          "ex": [
+            "There is high demand for cheap apartments in the city.",
+            "Demand for electric cars keeps growing.",
+            "Prices go higher when demand is strong."
+          ]
+        },
+        {
+          "word": "criticism",
+          "def": "Words that say what is wrong with something",
+          "ipa": "/ˈkrɪtɪˌsɪzəm/",
+          "ex": [
+            "The new rule got a lot of criticism from parents.",
+            "He listened to the criticism and changed his plan.",
+            "The movie faced criticism for being too long."
+          ]
+        },
+        {
+          "word": "watchdog",
+          "def": "A group that checks that rules are followed",
+          "ipa": "/ˈwɑtʃˌdɔɡ/",
+          "ex": [
+            "A consumer watchdog warned about the fake toys.",
+            "The election watchdog checked the vote count.",
+            "A government watchdog studied the hospital's spending."
+          ]
+        },
+        {
+          "word": "illegal money",
+          "def": "Money earned by crime",
+          "ipa": "/ɪˈliɡəl ˈmʌni/",
+          "ex": [
+            "Police found illegal money hidden in the car.",
+            "Banks must report signs of illegal money.",
+            "The gang used shops to hide illegal money."
+          ]
+        },
+        {
+          "word": "unlawful",
+          "def": "Against the law",
+          "ipa": "/ʌnˈlɔfəl/",
+          "ex": [
+            "The judge said the arrest was unlawful.",
+            "It is unlawful to park in front of a fire hydrant.",
+            "Workers said the firing was unlawful."
+          ]
+        },
+        {
+          "word": "intelligence",
+          "def": "Government work to collect secret information about threats",
+          "ipa": "/ɪnˈtɛlədʒəns/",
+          "ex": [
+            "He worked in military intelligence for 20 years.",
+            "Intelligence officers warned about the attack.",
+            "The country shares intelligence with its allies."
+          ]
+        },
+        {
+          "word": "criminal record",
+          "def": "An official list of crimes a person has done",
+          "ipa": "/ˈkrɪmənəl ˈrɛkərd/",
+          "ex": [
+            "Some jobs check your criminal record.",
+            "He has no criminal record.",
+            "A criminal record can make it hard to rent an apartment."
+          ]
+        },
+        {
+          "word": "source of funds",
+          "def": "How a person got their money",
+          "ipa": "/sɔrs əv fʌndz/",
+          "ex": [
+            "The bank asked about the source of funds for the large deposit.",
+            "Buyers of expensive homes must show their source of funds.",
+            "Her source of funds was money from her late father."
+          ]
+        },
+        {
+          "word": "financial system",
+          "def": "The banks and rules that a country uses to move money",
+          "ipa": "/faɪˈnænʃəl ˈsɪstəm/",
+          "ex": [
+            "A strong financial system helps businesses grow.",
+            "The crisis shook the whole financial system.",
+            "Cash sent outside the financial system is hard to track."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Argentina wants to offer passports to rich foreigners who pay the state or buy a special bond. The government badly needs dollars, since huge debt payments are due in 2027.",
+          "a": true,
+          "why": "The plan is meant to bring in foreign currency. The treasury must make nearly 25 billion dollars in debt payments in 2027."
+        },
+        {
+          "s": "Thousands of wealthy foreigners have already paid for Argentine citizenship this fall. Their money has now covered most of what the country owes to lenders next year.",
+          "a": false,
+          "why": "Close, but applications are only expected to open before the end of 2026. Advisers think the program could bring in up to 2.5 billion dollars."
+        },
+        {
+          "s": "Argentina has passed a new law that makes it harder for its own citizens to travel abroad. They now need a special travel permit and must pay a new fee at the airport.",
+          "a": false,
+          "why": "The economy minister laid out a plan to sell citizenship to wealthy foreigners. It is meant to raise dollars for the country."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The economy minister laid out a plan to sell citizenship to rich foreigners.",
+          "a": true,
+          "why": "Argentina's economy minister laid out a plan to offer citizenship to wealthy foreigners who pay or invest."
+        },
+        {
+          "s": "The plan is mainly meant to bring in tourists, not foreign currency.",
+          "a": false,
+          "why": "The plan is meant to bring in foreign currency, because Argentina has large debt payments to make."
+        },
+        {
+          "s": "Argentina would be the first country in South America to sell citizenship.",
+          "a": true,
+          "why": "Only about a dozen countries sell citizenship, and Argentina hopes the plan will bring in foreign currency."
+        },
+        {
+          "s": "Applicants will not face any checks on their criminal records.",
+          "a": false,
+          "why": "Intelligence and financial agencies will check each applicant, and the goal is to weed out criminals."
+        },
+        {
+          "s": "Argentina has recently returned to international bond markets.",
+          "a": false,
+          "why": "The government has held off on a return to those markets, so it is turning to other sources of money."
+        },
+        {
+          "s": "Immigration officials will approve or turn down each application.",
+          "a": true,
+          "why": "After the checks, immigration officials decide on every application, and they can turn down any applicant."
+        }
+      ]
+    },
     {
       "id": "tom-cruise-doomscrolling-2026",
       "number": 155,
