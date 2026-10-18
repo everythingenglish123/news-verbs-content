@@ -1,6 +1,482 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "stories": [
+    {
+      "id": "russia-sanctions-on-hold-2026",
+      "number": 162,
+      "headline": "Zelenskyy urges support for paused Russia sanctions",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n162-russia-sanctions-on-hold-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Zelenskyy urges backing for Russia sanctions put on hold by Trump (AP News)",
+          "url": "https://apnews.com/article/russia-ukraine-war-trump-sanctions-energy-07e1dfc41bdad7b3292c6c263005fabc"
+        },
+        {
+          "title": "Trump Waives Graham Act Sanctions On Russia Before They Take Effect (RFE/RL)",
+          "url": "https://www.rferl.org/a/trump-waives-graham-act-sanctions-on-russia/33878335.html"
+        },
+        {
+          "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy (ABC News)",
+          "url": "https://abcnews.com/Politics/trump-signs-order-waiving-graham-act-sanctions-russia/story?id=137341529"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 16, 2026, President Donald Trump signed an [[executive order]] about a new [[sanctions]] law against Russia. In it, he decided to {{hold off}} on almost all of the law's [[measures]]. They were due to start two days later. On October 17, Ukrainian President Zelenskyy called the decision [[unfortunate]]. He asked the law's supporters to {{speak up for}} it. He said the law could still help a lot.",
+          "verbs": [
+            {
+              "display": "hold off",
+              "base": "hold off",
+              "correct": "To wait before doing something",
+              "wrong": "To reject a law in a vote",
+              "correctFirst": true,
+              "why": "Let's hold off on dinner until your brother gets home. The company held off on hiring new workers this year. Trump decided to hold off on almost all of the sanctions law's measures."
+            },
+            {
+              "display": "speak up for",
+              "base": "speak up for",
+              "correct": "To say openly that you support something",
+              "wrong": "To ask a leader hard questions on TV",
+              "correctFirst": false,
+              "why": "Several parents spoke up for the new school lunch plan. It takes courage to speak up for an unpopular idea. Zelenskyy asked the law's supporters to speak up for it."
+            }
+          ]
+        },
+        {
+          "text": "Ukraine wants Washington to {{follow through}} on the law. Congress passed it by [[wide margins]], and Trump signed it in September. The law would {{go after}} Russian officials, banks and a [[shadow fleet]] of oil tankers. It also allows [[tariffs]] of up to 100 percent on the biggest buyers of Russian oil and gas. The law was written to help the United States {{stand up to}} Russia over the war.",
+          "verbs": [
+            {
+              "display": "follow through",
+              "base": "follow through",
+              "correct": "To do what you promised or planned to do",
+              "wrong": "To read every page of a new law",
+              "correctFirst": true,
+              "why": "He said he would help, and he followed through. The city never followed through on its plan for a new park. Ukraine wants Washington to follow through on the sanctions law."
+            },
+            {
+              "display": "go after",
+              "base": "go after",
+              "correct": "To try to punish or stop someone",
+              "wrong": "To check a list of names closely",
+              "correctFirst": false,
+              "why": "The police are going after drivers who use their phones. The new rules go after companies that cheat on taxes. The law would go after Russian officials, banks and a shadow fleet of oil tankers."
+            },
+            {
+              "display": "stand up to",
+              "base": "stand up to",
+              "correct": "To firmly resist someone more powerful",
+              "wrong": "To send soldiers to another country",
+              "correctFirst": true,
+              "why": "She stood up to the bully in her class. Small nations sometimes stand up to their larger neighbors. The law was written to help the United States stand up to Russia over the war."
+            }
+          ]
+        },
+        {
+          "text": "Trump told Congress that the pause was in the [[national interest]]. A White House [[spokesperson]] said that using the sanctions now would {{hold up}} [[peace talks]]. [[Lawmakers]] from both parties {{pushed back}}. A Democratic senator who helped write the law said the pause had nothing to do with national security. A Republican senator called it [[irresponsible]]. One Republican congressman welcomed the decision. A week earlier, Trump agreed to buy Russian [[diesel]] to try to lower [[fuel prices]].",
+          "verbs": [
+            {
+              "display": "hold up",
+              "base": "hold up",
+              "correct": "To make something slower or later",
+              "wrong": "To move talks to another country",
+              "correctFirst": false,
+              "why": "Heavy snow held up the trains for hours. A missing signature held up the sale of the house. A White House spokesperson said that using the sanctions now would hold up peace talks."
+            },
+            {
+              "display": "pushed back",
+              "base": "push back",
+              "correct": "To openly criticize a decision",
+              "wrong": "To keep a decision secret",
+              "correctFirst": true,
+              "why": "Teachers pushed back when the school cut art classes. Many workers pushed back against the new office rules. Lawmakers from both parties pushed back after Trump paused the sanctions."
+            }
+          ]
+        },
+        {
+          "text": "Zelenskyy said that easing [[pressure]] only encourages Russia to {{keep up}} its attacks. On the night before his statement, Russia targeted more than 15 [[energy sites]] across Ukraine, he said. Each side said it {{shot down}} hundreds of the other's drones. The Associated Press says Russia attacks Ukraine's [[power grid]] each winter to {{wear down}} the country's [[will to fight]]. Zelenskyy also said the United States was working to {{set up}} a meeting with him, Trump and Putin.",
+          "verbs": [
+            {
+              "display": "keep up",
+              "base": "keep up",
+              "correct": "To continue doing something",
+              "wrong": "To plan something in secret",
+              "correctFirst": false,
+              "why": "The neighbors kept up their loud party until midnight. The rain kept up all afternoon. Zelenskyy said that easing pressure only encourages Russia to keep up its attacks."
+            },
+            {
+              "display": "shot down",
+              "base": "shoot down",
+              "correct": "To destroy something flying",
+              "wrong": "To track something on radar",
+              "correctFirst": true,
+              "why": "The army shot down a small plane near the border. Soldiers shot down an enemy helicopter during the battle. Each side said it shot down hundreds of the other's drones."
+            },
+            {
+              "display": "wear down",
+              "base": "wear down",
+              "correct": "To slowly make someone weaker",
+              "wrong": "To make someone angry very quickly",
+              "correctFirst": false,
+              "why": "The long trip wore the children down. Months of hard work wore her down. The Associated Press says Russia attacks Ukraine's power grid each winter to wear down the country's will to fight."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To plan and arrange a meeting",
+              "wrong": "To film a meeting for the news",
+              "correctFirst": true,
+              "why": "Can you set up a meeting with the manager for Monday? My assistant set up a call with our new clients. Zelenskyy said the United States was working to set up a meeting with him, Trump and Putin."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Hold off",
+          "def": "To wait before doing something",
+          "ipa": "/hoʊld ɔf/",
+          "ex": [
+            "We held off on buying a car until prices fell.",
+            "The doctor told me to hold off on running for a week.",
+            "Let's hold off on painting the kitchen until spring."
+          ]
+        },
+        {
+          "verb": "Speak up for",
+          "def": "To say openly that you support something",
+          "ipa": "/spik ʌp fɔr/",
+          "ex": [
+            "Nobody spoke up for the plan at the meeting.",
+            "She always speaks up for better pay for nurses.",
+            "Will you speak up for my idea when the boss asks?"
+          ]
+        },
+        {
+          "verb": "Follow through",
+          "def": "To do what you promised or planned to do",
+          "ipa": "/ˈfɑloʊ θru/",
+          "ex": [
+            "If you make a promise to a child, follow through.",
+            "She said she would quit sugar, and she followed through.",
+            "The team never followed through on its plan to train more."
+          ]
+        },
+        {
+          "verb": "Go after",
+          "def": "To try to punish or stop someone",
+          "ipa": "/ɡoʊ ˈæftər/",
+          "ex": [
+            "The bank went after people who never paid their loans.",
+            "The city plans to go after landlords who ignore safety rules.",
+            "Tax officials went after the company for unpaid taxes."
+          ]
+        },
+        {
+          "verb": "Stand up to",
+          "def": "To firmly resist someone more powerful",
+          "ipa": "/stænd ʌp tu/",
+          "ex": [
+            "The workers stood up to the company and asked for fair pay.",
+            "It is hard for a small nation to stand up to a large army.",
+            "The town stood up to the big company and won in court."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To make something slower or later",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "An accident held up traffic on the highway.",
+            "Bad weather held up the building work for a month.",
+            "Sorry I'm late. The meeting held me up."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To openly criticize a decision",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "Students pushed back when the college raised fees.",
+            "Parents pushed back hard against the new bus schedule.",
+            "Some doctors pushed back on the hospital's new policy."
+          ]
+        },
+        {
+          "verb": "Keep up",
+          "def": "To continue doing something",
+          "ipa": "/kip ʌp/",
+          "ex": [
+            "The fans kept up their singing for the whole game.",
+            "If you keep up this pace, you'll finish early.",
+            "The workers kept up their strike for three weeks."
+          ]
+        },
+        {
+          "verb": "Shoot down",
+          "def": "To destroy something flying",
+          "ipa": "/ʃut daʊn/",
+          "ex": [
+            "The navy shot down a missile over the sea.",
+            "The pilot was shot down during the war.",
+            "Air defense systems can shoot down most small drones."
+          ]
+        },
+        {
+          "verb": "Wear down",
+          "def": "To slowly make someone weaker",
+          "ipa": "/wɛr daʊn/",
+          "ex": [
+            "The night shifts slowly wore him down.",
+            "Constant noise can wear you down.",
+            "The long strike wore down both the workers and the owners."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To plan and arrange a meeting",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "I set up a meeting with my child's teacher.",
+            "Could you set up a video call for ten o'clock?",
+            "The two companies set up talks for next month."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "executive order",
+          "def": "An official rule a president makes without a vote in Congress",
+          "ipa": "/ɪɡˈzɛkjətɪv ˈɔrdər/",
+          "ex": [
+            "The governor signed an executive order on school safety.",
+            "An executive order can be changed by the next president.",
+            "Lawyers are studying the new executive order on travel."
+          ]
+        },
+        {
+          "word": "sanctions",
+          "def": "Official actions that limit trade or money to punish a country",
+          "ipa": "/ˈsæŋkʃənz/",
+          "ex": [
+            "The sanctions made it hard for the country to sell its oil.",
+            "Some leaders want to end the sanctions.",
+            "Banks must follow the new sanctions."
+          ]
+        },
+        {
+          "word": "measures",
+          "def": "Official actions taken to deal with a problem",
+          "ipa": "/ˈmɛʒərz/",
+          "ex": [
+            "The city took new measures to cut crime.",
+            "Safety measures at the airport are very strict.",
+            "The school announced measures to save money."
+          ]
+        },
+        {
+          "word": "unfortunate",
+          "def": "Bad and causing regret",
+          "ipa": "/ʌnˈfɔrtʃənət/",
+          "ex": [
+            "It was an unfortunate mistake.",
+            "The game ended in an unfortunate way for our team.",
+            "It is unfortunate that the store closed."
+          ]
+        },
+        {
+          "word": "wide margins",
+          "def": "Large differences in the number of votes",
+          "ipa": "/waɪd ˈmɑrdʒənz/",
+          "ex": [
+            "The mayor won both elections by wide margins.",
+            "The plan passed by wide margins in the city council.",
+            "Polls show the senator leading by wide margins."
+          ]
+        },
+        {
+          "word": "shadow fleet",
+          "def": "A group of ships that secretly carry goods to avoid rules",
+          "ipa": "/ˈʃædoʊ flit/",
+          "ex": [
+            "Reporters followed one ship from the shadow fleet for weeks.",
+            "The shadow fleet often uses old tankers.",
+            "Officials want to stop the shadow fleet from reaching their ports."
+          ]
+        },
+        {
+          "word": "tariffs",
+          "def": "Taxes on goods that come from other countries",
+          "ipa": "/ˈtɛrɪfs/",
+          "ex": [
+            "New tariffs made imported cars more expensive.",
+            "Farmers worry about tariffs on their exports.",
+            "The two countries agreed to cut tariffs."
+          ]
+        },
+        {
+          "word": "national interest",
+          "def": "What is good for a whole country",
+          "ipa": "/ˈnæʃənəl ˈɪntrəst/",
+          "ex": [
+            "The president said the new port was in the national interest.",
+            "Leaders often disagree about the national interest.",
+            "Protecting clean water is in the national interest."
+          ]
+        },
+        {
+          "word": "spokesperson",
+          "def": "A person who speaks officially for a group or company",
+          "ipa": "/ˈspoʊksˌpɜrsən/",
+          "ex": [
+            "A spokesperson for the airline said the flight was safe.",
+            "The hospital's spokesperson answered questions from reporters.",
+            "A police spokesperson gave an update on the case."
+          ]
+        },
+        {
+          "word": "peace talks",
+          "def": "Meetings where two sides try to end a war",
+          "ipa": "/pis tɔks/",
+          "ex": [
+            "The peace talks lasted for three days.",
+            "Both leaders agreed to join peace talks.",
+            "Many people hope the peace talks will succeed."
+          ]
+        },
+        {
+          "word": "Lawmakers",
+          "def": "People who are elected to make laws",
+          "ipa": "/ˈlɔˌmeɪkərz/",
+          "ex": [
+            "Lawmakers voted on the new budget last night.",
+            "Lawmakers in some states want to raise the minimum wage.",
+            "Lawmakers from both parties met with the governor."
+          ]
+        },
+        {
+          "word": "irresponsible",
+          "def": "Not thinking carefully about the results of your actions",
+          "ipa": "/ˌɪrɪˈspɑnsəbəl/",
+          "ex": [
+            "It is irresponsible to drive so fast in the rain.",
+            "The coach called the player's behavior irresponsible.",
+            "Leaving a small child alone is irresponsible."
+          ]
+        },
+        {
+          "word": "diesel",
+          "def": "A heavy fuel used by trucks, trains and some cars",
+          "ipa": "/ˈdizəl/",
+          "ex": [
+            "Most big trucks run on diesel.",
+            "The price of diesel went higher in the winter.",
+            "Our old car uses diesel, not gas."
+          ]
+        },
+        {
+          "word": "fuel prices",
+          "def": "How much people pay for gas and diesel",
+          "ipa": "/ˈfjuəl ˈpraɪsɪz/",
+          "ex": [
+            "High fuel prices make flights more expensive.",
+            "Fuel prices often change before a long weekend.",
+            "Farmers worry about rising fuel prices."
+          ]
+        },
+        {
+          "word": "pressure",
+          "def": "Strong influence used to make someone do something",
+          "ipa": "/ˈprɛʃər/",
+          "ex": [
+            "Pressure from parents made the school hire more teachers.",
+            "The workers used pressure to get better pay.",
+            "There is pressure on the city to fix the roads."
+          ]
+        },
+        {
+          "word": "energy sites",
+          "def": "Places that make or carry power, such as power plants",
+          "ipa": "/ˈɛnərdʒi saɪts/",
+          "ex": [
+            "Guards protect the country's energy sites.",
+            "Storms damaged several energy sites on the coast.",
+            "New energy sites will use wind and sun."
+          ]
+        },
+        {
+          "word": "power grid",
+          "def": "The system of lines that carries electricity to homes",
+          "ipa": "/ˈpaʊər ɡrɪd/",
+          "ex": [
+            "A heat wave put stress on the power grid.",
+            "The storm damaged part of the power grid.",
+            "Engineers are working to make the power grid stronger."
+          ]
+        },
+        {
+          "word": "will to fight",
+          "def": "The strong wish to keep fighting",
+          "ipa": "/wɪl tə faɪt/",
+          "ex": [
+            "The team lost the game but kept its will to fight.",
+            "Long wars can weaken a nation's will to fight.",
+            "The boxer's will to fight surprised everyone."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Trump paused nearly all of a new law meant to punish Russia over its war in Ukraine. Zelenskyy called that unfortunate and asked its supporters to defend it while Russian attacks continue.",
+          "a": true,
+          "why": "Trump decided to hold off on almost all of the law's measures. Zelenskyy asked supporters to speak up for it, saying easing pressure lets Russia keep up attacks."
+        },
+        {
+          "s": "Zelenskyy openly attacked Trump after the U.S. leader canceled a sanctions law on Russia. Congress is now quickly voting again to force the White House to use every penalty against Moscow.",
+          "a": false,
+          "why": "Close, but Zelenskyy only called the pause unfortunate and asked supporters to speak up for the law. Lawmakers pushed back, but no new vote is described."
+        },
+        {
+          "s": "Ukraine and Russia signed a short deal to stop strikes on power plants before winter. Leaders from Europe and the United States helped arrange it at a summit held in a neutral country.",
+          "a": false,
+          "why": "There is no deal. Russia targeted more than 15 energy sites, and the United States is only trying to set up a meeting with the three leaders."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Trump decided to hold off on almost all of the new sanctions.",
+          "a": true,
+          "why": "He signed an executive order that paused nearly all of the law's measures two days before they were due to start."
+        },
+        {
+          "s": "Zelenskyy asked the law's supporters to speak up for it.",
+          "a": true,
+          "why": "He called Trump's decision unfortunate and said the law could still help a lot."
+        },
+        {
+          "s": "The law would go after Russian officials, banks and oil tankers.",
+          "a": true,
+          "why": "It targets officials, banks and a shadow fleet of tankers, and it allows tariffs on big buyers of Russian oil and gas."
+        },
+        {
+          "s": "Lawmakers from both parties praised Trump's decision to pause the sanctions.",
+          "a": false,
+          "why": "Lawmakers from both parties pushed back. A Republican senator called the pause irresponsible."
+        },
+        {
+          "s": "The White House said the sanctions would help the peace talks move faster.",
+          "a": false,
+          "why": "A spokesperson said that using the sanctions now would hold up peace talks, not make them faster."
+        },
+        {
+          "s": "Zelenskyy said that easing pressure will make Russia stop its attacks.",
+          "a": false,
+          "why": "He said the opposite. Easing pressure only encourages Russia to keep up its attacks."
+        }
+      ]
+    },
     {
       "id": "whale-calf-deaths-argentina-2026",
       "number": 161,
