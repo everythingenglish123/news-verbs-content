@@ -2,6 +2,490 @@
   "updated": "2026-10-20",
   "stories": [
     {
+      "id": "colombia-farc-car-bomb-2026",
+      "number": 166,
+      "headline": "Car bomb at Colombia toll booth injures three",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n166-colombia-farc-car-bomb-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Car bomb at Colombia toll booth injures three as clashes between the army and rebel groups intensify (AP News)",
+          "url": "https://apnews.com/article/9a2810c47ac75b17cac1c0d878a208e1"
+        },
+        {
+          "title": "Ataque con carro bomba dejó tres heridos y provocó cierre de vía Panamericana en Colombia (Primicias)",
+          "url": "https://www.primicias.ec/internacional/atentado-explosivo-peaje-cauca-colombia-cierre-via-panamericana-134719/"
+        },
+        {
+          "title": "Carro bomba destruyó peaje de El Bordo, en Cauca: reportan tres civiles heridos y daños en viviendas (Noticias RCN)",
+          "url": "https://www.noticiasrcn.com/colombia/carro-bomba-destruyo-peaje-de-el-bordo-en-cauca-reportan-tres-civiles-heridos-y-danos-en-viviendas-1070744"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 12, 2026, a car bomb {{went off}} at a [[toll booth]] on a highway in southwestern Colombia. The army said at least three [[civilians]] were injured. The [[blast]] destroyed the toll booth and damaged nearby homes. Officials {{shut down}} part of the highway. The army blamed a group led by former members of Colombia's largest [[rebel]] army. These fighters did not {{go along with}} the 2016 [[peace deal]].",
+          "verbs": [
+            {
+              "display": "went off",
+              "base": "go off",
+              "correct": "To explode suddenly",
+              "wrong": "To be found by police",
+              "correctFirst": true,
+              "why": "Fireworks go off over the lake every New Year's Eve. In some old war zones, buried bombs still go off in fields. A car bomb went off at a toll booth in southwestern Colombia."
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To close something completely",
+              "wrong": "To repair something quickly",
+              "correctFirst": false,
+              "why": "The city shuts down the bridge during big storms. Police shut down the main street for the parade every year. After the blast, officials shut down part of the highway."
+            },
+            {
+              "display": "go along with",
+              "base": "go along with",
+              "correct": "To accept a plan or deal",
+              "wrong": "To help write a new deal",
+              "correctFirst": true,
+              "why": "Most parents go along with their children's plans to study abroad. Some workers do not go along with new rules at work. The fighters did not go along with the 2016 peace deal."
+            }
+          ]
+        },
+        {
+          "text": "Colombia's president [[condemned]] the attack on social media. He said attacks on [[infrastructure]] hurt truck drivers and everyone who needs to travel. He took office in August 2026, and his government has {{called off}} peace talks with the country's [[remaining]] rebel groups. He has promised to {{crack down}} on these groups, which he says he will treat as [[terrorists]]. Some groups have {{hit back}} by {{stepping up}} attacks on the military.",
+          "verbs": [
+            {
+              "display": "called off",
+              "base": "call off",
+              "correct": "To cancel something that was planned",
+              "wrong": "To hold something in secret",
+              "correctFirst": false,
+              "why": "Schools call off classes after a big snowstorm. Families call off picnics when it rains. The government has called off peace talks with the remaining rebel groups."
+            },
+            {
+              "display": "crack down",
+              "base": "crack down",
+              "correct": "To take strong action to stop something",
+              "wrong": "To offer money to end something",
+              "correctFirst": true,
+              "why": "The city cracks down on drivers who speed near schools. Police crack down on people who sell fake tickets. The president has promised to crack down on rebel groups."
+            },
+            {
+              "display": "hit back",
+              "base": "hit back",
+              "correct": "To attack an enemy that attacked you",
+              "wrong": "To hide deep in the mountains",
+              "correctFirst": false,
+              "why": "When rebels attack a village, soldiers usually hit back. Gangs often hit back after police raids. Some rebel groups have hit back by attacking the military."
+            },
+            {
+              "display": "stepping up",
+              "base": "step up",
+              "correct": "To increase something",
+              "wrong": "To report something",
+              "correctFirst": true,
+              "why": "Cities step up police patrols downtown during the holidays. Airports step up security before Thanksgiving. Some rebel groups have been stepping up attacks on the military."
+            }
+          ]
+        },
+        {
+          "text": "The bombing came during a [[wave of violence]] in the region. On October 9, the army said the same group killed a soldier in a [[clash]]. The next day, a drone attack killed another soldier. The army said a different rebel group {{carried out}} that attack. In September, the army {{sent in}} troops to a Caribbean city after a drug gang burned vehicles. The president has also {{set up}} a [[task force]] to stop a group from stealing fuel from a [[pipeline]].",
+          "verbs": [
+            {
+              "display": "carried out",
+              "base": "carry out",
+              "correct": "To do something that was planned",
+              "wrong": "To deny an attack in public",
+              "correctFirst": false,
+              "why": "Nurses carry out the tests in one morning. Workers carry out repairs on the bridge every spring. The army said a different rebel group carried out the drone attack."
+            },
+            {
+              "display": "sent in",
+              "base": "send in",
+              "correct": "To order troops or police to go to a place",
+              "wrong": "To pay troops or police more money",
+              "correctFirst": true,
+              "why": "Governors send in soldiers after a big flood. The city sends in more police when a crowd grows. In September, the army sent in troops to a Caribbean city."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To start a new group or system",
+              "wrong": "To choose a new leader",
+              "correctFirst": false,
+              "why": "Many schools set up clubs for new students. Some towns set up teams to clean their rivers. The president has set up a task force to protect a fuel pipeline."
+            }
+          ]
+        },
+        {
+          "text": "The president's policies are a big change. The previous government spent four years trying to [[negotiate]] with rebel groups. In 2016, about 14,000 fighters {{laid down}} their weapons after the peace deal. But the deal left some [[rural areas]] without strong government control. Smaller armed groups have tried to {{take over}} land the old rebel army once held. They fight for control of gold mines and [[drug routes]], and they [[demand]] money from local businesses.",
+          "verbs": [
+            {
+              "display": "laid down",
+              "base": "lay down",
+              "correct": "To stop fighting and surrender",
+              "wrong": "To sell weapons to other groups",
+              "correctFirst": true,
+              "why": "Soldiers lay down their guns when they surrender. Rebels lay down their weapons after a peace deal. In 2016, about 14,000 fighters laid down their weapons after the peace deal."
+            },
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To win control of a place",
+              "wrong": "To plant crops in a place",
+              "correctFirst": false,
+              "why": "Rebels sometimes take over radio stations during a war. Protesters take over the main square in many big protests. Smaller armed groups have tried to take over land that the old rebel army once held."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Go off",
+          "def": "To explode suddenly",
+          "ipa": "/ɡoʊ ɔf/",
+          "ex": [
+            "A bomb went off near the train station.",
+            "Nobody was hurt when the firework went off too early.",
+            "Police cleared the area before the bomb could go off."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To close something completely",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The state shut down the highway because of snow.",
+            "Officials shut down the airport for two hours.",
+            "The police shut down the road after the crash."
+          ]
+        },
+        {
+          "verb": "Go along with",
+          "def": "To accept a plan or deal",
+          "ipa": "/ɡoʊ əˈlɔŋ wɪθ/",
+          "ex": [
+            "Everyone went along with the plan for dinner.",
+            "I don't agree, but I'll go along with your idea.",
+            "The workers would not go along with the new contract."
+          ]
+        },
+        {
+          "verb": "Call off",
+          "def": "To cancel something that was planned",
+          "ipa": "/kɔl ɔf/",
+          "ex": [
+            "They called off the wedding a week before.",
+            "The game was called off because of the storm.",
+            "The union called off the strike after the new offer."
+          ]
+        },
+        {
+          "verb": "Crack down",
+          "def": "To take strong action to stop something",
+          "ipa": "/kræk daʊn/",
+          "ex": [
+            "The school is cracking down on cell phones in class.",
+            "Police will crack down on drunk drivers this weekend.",
+            "The government cracked down on illegal fishing."
+          ]
+        },
+        {
+          "verb": "Hit back",
+          "def": "To attack an enemy that attacked you",
+          "ipa": "/hɪt bæk/",
+          "ex": [
+            "The army hit back after the attack on its base.",
+            "After the bombing, the army hit back with air strikes.",
+            "The town's guards hit back after the first attack."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase something",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "Airports stepped up security checks this summer.",
+            "The store stepped up its online ads in December.",
+            "Doctors stepped up flu shots before winter."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do something that was planned",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "The doctor carried out a quick blood test.",
+            "The police carried out a search of the house.",
+            "Thieves carried out the robbery at night."
+          ]
+        },
+        {
+          "verb": "Send in",
+          "def": "To order troops or police to go to a place",
+          "ipa": "/sɛnd ɪn/",
+          "ex": [
+            "The president sent in the army to restore order.",
+            "The state sent in soldiers to help after the flood.",
+            "The city sent in extra police for the big game."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To start a new group or system",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "The mayor set up a group to study traffic.",
+            "The town set up a group to help new families.",
+            "The hospital set up a system for online appointments."
+          ]
+        },
+        {
+          "verb": "Lay down",
+          "def": "To stop fighting and surrender",
+          "ipa": "/leɪ daʊn/",
+          "ex": [
+            "Both sides agreed to lay down their weapons.",
+            "The fighters laid down their guns at the border.",
+            "The rebels would not lay down their arms."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To win control of a place",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "Students took over the main hall to protest.",
+            "The army took over the airport in the morning.",
+            "Rebels took over the town's police station."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "toll booth",
+          "def": "A small building on a road where drivers pay to use the road",
+          "ipa": "/toʊl buθ/",
+          "ex": [
+            "We stopped at the toll booth and paid two dollars.",
+            "There was a long line of cars at the toll booth.",
+            "The toll booth worker gave me my change."
+          ]
+        },
+        {
+          "word": "civilians",
+          "def": "People who are not soldiers or police",
+          "ipa": "/səˈvɪljənz/",
+          "ex": [
+            "The army helped civilians leave the area.",
+            "Many civilians were hurt in the war.",
+            "The new rules protect civilians and their homes."
+          ]
+        },
+        {
+          "word": "blast",
+          "def": "A strong explosion",
+          "ipa": "/blæst/",
+          "ex": [
+            "The blast broke windows on the whole street.",
+            "People heard the blast from miles away.",
+            "Nobody was hurt in the blast at the factory."
+          ]
+        },
+        {
+          "word": "rebel",
+          "def": "Fighting against the government with weapons",
+          "ipa": "/ˈrɛbəl/",
+          "ex": [
+            "The rebel army controlled the north of the country.",
+            "Rebel fighters attacked a police station.",
+            "The rebel leader agreed to meet the president."
+          ]
+        },
+        {
+          "word": "peace deal",
+          "def": "An agreement to end a war or fighting",
+          "ipa": "/pis dil/",
+          "ex": [
+            "The two countries signed a peace deal in 1995.",
+            "The peace deal ended ten years of fighting.",
+            "Many people hoped the peace deal would last."
+          ]
+        },
+        {
+          "word": "condemned",
+          "def": "Said in public that something is very wrong",
+          "ipa": "/kənˈdɛmd/",
+          "ex": [
+            "World leaders condemned the attack.",
+            "The mayor condemned the violence at the game.",
+            "The school condemned the racist messages."
+          ]
+        },
+        {
+          "word": "infrastructure",
+          "def": "Roads, bridges, pipes and other systems a country needs",
+          "ipa": "/ˈɪnfrəˌstrʌktʃər/",
+          "ex": [
+            "The city will spend more money on infrastructure.",
+            "Old infrastructure can cause water problems.",
+            "The storm damaged roads and other infrastructure."
+          ]
+        },
+        {
+          "word": "wave of violence",
+          "def": "A short time when many violent attacks happen",
+          "ipa": "/weɪv ʌv ˈvaɪələns/",
+          "ex": [
+            "A wave of violence hit the city in the summer.",
+            "The wave of violence made people afraid to go out.",
+            "Police are working to stop the wave of violence."
+          ]
+        },
+        {
+          "word": "clash",
+          "def": "A short fight between two groups",
+          "ipa": "/klæʃ/",
+          "ex": [
+            "Two soldiers were hurt in a clash near the border.",
+            "Police and protesters had a clash outside the stadium.",
+            "The clash ended after about an hour."
+          ]
+        },
+        {
+          "word": "remaining",
+          "def": "Still left after others are gone",
+          "ipa": "/rɪˈmeɪnɪŋ/",
+          "ex": [
+            "The remaining students went home at five.",
+            "She ate the remaining cake.",
+            "We will finish the remaining work tomorrow."
+          ]
+        },
+        {
+          "word": "terrorists",
+          "def": "People who use violence to scare people for political goals",
+          "ipa": "/ˈtɛrərɪsts/",
+          "ex": [
+            "The police arrested two terrorists before the attack.",
+            "The government called the group terrorists.",
+            "Airports check bags to stop terrorists."
+          ]
+        },
+        {
+          "word": "task force",
+          "def": "A group formed to do one special job",
+          "ipa": "/tæsk fɔrs/",
+          "ex": [
+            "The mayor formed a task force on homelessness.",
+            "A police task force is working on the case.",
+            "The task force will report its ideas in June."
+          ]
+        },
+        {
+          "word": "pipeline",
+          "def": "A long line of pipes that carries oil, gas or water",
+          "ipa": "/ˈpaɪpˌlaɪn/",
+          "ex": [
+            "The pipeline carries oil across the state.",
+            "Workers fixed a leak in the gas pipeline.",
+            "The new pipeline will bring water to the farms."
+          ]
+        },
+        {
+          "word": "negotiate",
+          "def": "To talk with others to reach an agreement",
+          "ipa": "/nɪˈɡoʊʃiˌeɪt/",
+          "ex": [
+            "The workers want to negotiate a better contract.",
+            "We negotiated a lower price for the car.",
+            "The two countries agreed to negotiate."
+          ]
+        },
+        {
+          "word": "rural areas",
+          "def": "Places in the countryside, far from cities",
+          "ipa": "/ˈrʊrəl ˈɛriəz/",
+          "ex": [
+            "Many rural areas have only one doctor.",
+            "Internet service is slow in rural areas.",
+            "Many farmers in rural areas grow corn and beans."
+          ]
+        },
+        {
+          "word": "drug routes",
+          "def": "Roads and paths used to move illegal drugs",
+          "ipa": "/drʌɡ ruts/",
+          "ex": [
+            "Police watch the main drug routes near the border.",
+            "Gangs fight over drug routes in the mountains.",
+            "The army closed several drug routes last year."
+          ]
+        },
+        {
+          "word": "demand",
+          "def": "To ask for something in a strong way",
+          "ipa": "/dɪˈmænd/",
+          "ex": [
+            "The workers demand higher pay.",
+            "The thieves demanded money from the store owner.",
+            "Parents demand safer streets near the school."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A car bomb at a highway toll booth in Colombia injured at least three people, and the army blamed former rebels. Attacks are rising after the government ended peace talks with rebel groups.",
+          "a": true,
+          "why": "A car bomb went off at a toll booth, and the army blamed former rebels. The government has called off peace talks, and some groups have stepped up attacks."
+        },
+        {
+          "s": "Three people were hurt when a bomb exploded at a Colombian toll station, and the group responsible quickly apologized. The president now plans to restart peace talks with every armed group.",
+          "a": false,
+          "why": "Close, but no group said it was sorry, and the government has called off peace talks. The president has promised to crack down on rebel groups."
+        },
+        {
+          "s": "Colombia has opened a new highway that links its capital to the Caribbean coast. Officials say the road will make trips much shorter and bring more tourists and new jobs to small towns.",
+          "a": false,
+          "why": "This story is about a car bomb in Colombia and rising violence after the government called off peace talks with rebel groups."
+        }
+      ],
+      "tf": [
+        {
+          "s": "A car bomb went off at a toll booth on a Colombian highway.",
+          "a": true,
+          "why": "The army said at least three civilians were injured, and officials shut down part of the highway."
+        },
+        {
+          "s": "The army blamed a group that supports the 2016 peace deal.",
+          "a": false,
+          "why": "The army blamed former rebels who did not go along with the 2016 peace deal."
+        },
+        {
+          "s": "The government has called off peace talks with rebel groups.",
+          "a": true,
+          "why": "The president has promised to crack down on these groups instead."
+        },
+        {
+          "s": "Rebel groups have stopped attacking the military.",
+          "a": false,
+          "why": "Some groups have hit back by stepping up attacks on the military."
+        },
+        {
+          "s": "The president says he will treat rebel groups as terrorists.",
+          "a": true,
+          "why": "He has promised to crack down on these groups across the country."
+        },
+        {
+          "s": "The 2016 peace deal ended all armed violence in Colombia.",
+          "a": false,
+          "why": "Smaller armed groups have tried to take over land that the old rebel army once held."
+        }
+      ]
+    },
+    {
       "id": "fragrance-free-products-2026",
       "number": 165,
       "headline": "Fragrance-free and unscented are not the same",
