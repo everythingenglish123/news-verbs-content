@@ -1,6 +1,446 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "stories": [
+    {
+      "id": "fragrance-free-products-2026",
+      "number": 165,
+      "headline": "Fragrance-free and unscented are not the same",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n165-fragrance-free-products-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Fragrances in Cosmetics (U.S. Food and Drug Administration)",
+          "url": "https://www.fda.gov/cosmetics/cosmetic-ingredients/fragrances-cosmetics"
+        },
+        {
+          "title": "How can I find eczema friendly products? (American Academy of Dermatology)",
+          "url": "https://www.aad.org/public/diseases/eczema/childhood/triggers/friendly-products"
+        },
+        {
+          "title": "U.S. FDA Sets November 2026 Timeline for Formaldehyde Ban and Fragrance Allergen Rule (ChemLinked)",
+          "url": "https://cosmetic.chemlinked.com/news/cosmetic-news/us-fda-sets-november-2026-timeline-for-formaldehyde-ban-and-fragrance-allergen-rule"
+        },
+        {
+          "title": "What is the difference between \"Unscented\" and \"Fragrance-free\" products? (McGill University Office for Science and Society)",
+          "url": "https://www.mcgill.ca/oss/article/quirky-science-you-asked/what-difference-between-unscented-and-fragrance-free-products"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Shoppers who want to avoid [[fragrance]] may {{watch out for}} two words on a label: \"fragrance-free\" and \"unscented.\" These words do not mean the same thing. The American Academy of Dermatology says parents of children with [[eczema]] should {{pick out}} fragrance-free products, not unscented ones. Labels may also change. The U.S. Food and Drug Administration plans a rule on fragrance [[allergens]].",
+          "verbs": [
+            {
+              "display": "watch out for",
+              "base": "watch out for",
+              "correct": "To try to notice something",
+              "wrong": "To print words on a bottle",
+              "correctFirst": true,
+              "why": "I always watch out for sugar on food labels. She watches out for sales at her favorite store. Shoppers who want to avoid fragrance may watch out for two words on a label."
+            },
+            {
+              "display": "pick out",
+              "base": "pick out",
+              "correct": "To choose something from a group",
+              "wrong": "To decide the price of something",
+              "correctFirst": false,
+              "why": "Most shoppers pick out their own fruit at the market. Many parents pick out safe soaps for babies. The academy says parents should pick out fragrance-free products for children with eczema."
+            }
+          ]
+        },
+        {
+          "text": "Fragrance in [[cosmetics]] is a mix of many natural and [[man-made]] chemicals. The agency says some of them may cause [[allergic reactions]] in some people. Children with eczema have very [[sensitive skin]], and many products can {{set off}} the problem. Their skin may {{break out}} a few hours or even days after a product is used. This can make the cause hard to find. The academy tells parents to {{cut out}} scented shampoo and [[laundry detergent]].",
+          "verbs": [
+            {
+              "display": "set off",
+              "base": "set off",
+              "correct": "To cause something to start",
+              "wrong": "To name something on a label",
+              "correctFirst": true,
+              "why": "Pollen often sets off sneezing in spring. Cheap perfume sets off headaches for some people. Many products can set off eczema in children with very sensitive skin."
+            },
+            {
+              "display": "break out",
+              "base": "break out",
+              "correct": "To suddenly get spots or a rash",
+              "wrong": "To be listed as an ingredient",
+              "correctFirst": false,
+              "why": "My skin breaks out when I feel stressed. Many teenagers break out before a big event. A child's skin may break out a few hours or even days after a product is used."
+            },
+            {
+              "display": "cut out",
+              "base": "cut out",
+              "correct": "To stop using something",
+              "wrong": "To wash something with soap",
+              "correctFirst": true,
+              "why": "Many people cut out sugar to lose weight. Some families cut out soda for a whole year. The academy tells parents of children with eczema to cut out scented shampoo and laundry detergent."
+            }
+          ]
+        },
+        {
+          "text": "A fragrance-free product should {{leave out}} every ingredient added for its smell. An [[unscented]] product may still contain fragrance. The agency says some makers add just enough to {{cover up}} the [[unpleasant]] smell of other ingredients. A science office at a Canadian university gives an example. If [[lavender]] is hidden in an unscented product, a person who is allergic to it may not {{find out}} that it is there. A fragrance-free product can still smell a little. An oil that softens skin may {{give off}} this light smell.",
+          "verbs": [
+            {
+              "display": "leave out",
+              "base": "leave out",
+              "correct": "To not include something",
+              "wrong": "To stack something on a shelf",
+              "correctFirst": false,
+              "why": "A good cook leaves out the onions for picky eaters. Short news stories often leave out small details. A fragrance-free product should leave out every ingredient added for its smell."
+            },
+            {
+              "display": "cover up",
+              "base": "cover up",
+              "correct": "To hide something so it is not noticed",
+              "wrong": "To list something on the package",
+              "correctFirst": true,
+              "why": "A scented candle covers up the smell of cooking fish. Air fresheners only cover up bad smells. Some makers add just enough fragrance to cover up the unpleasant smell of other ingredients."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact you did not know",
+              "wrong": "To make a soap smell stronger",
+              "correctFirst": true,
+              "why": "Many travelers find out about late flights by text. Shoppers find out store hours on the website. A person who is allergic to lavender may not find out that it is hidden in an unscented product."
+            },
+            {
+              "display": "give off",
+              "base": "give off",
+              "correct": "To produce a smell",
+              "wrong": "To soften dry skin",
+              "correctFirst": false,
+              "why": "Old fish gives off a strong smell. These flowers give off a sweet smell at night. In a fragrance-free product, an oil that softens skin may give off a light smell."
+            }
+          ]
+        },
+        {
+          "text": "On U.S. [[ingredient lists]], a mix of many scent chemicals can {{show up}} as the single word \"fragrance.\" The agency says the law does not force companies to share these [[trade secrets]]. A 2022 law told it to make a rule on fragrance allergens. A government plan published on July 3, 2026, said the agency expected to [[propose]] the rule in November 2026. The rule would {{spell out}} which allergens must be named on labels.",
+          "verbs": [
+            {
+              "display": "show up",
+              "base": "show up",
+              "correct": "To appear on a list",
+              "wrong": "To be priced in a store",
+              "correctFirst": true,
+              "why": "Late payments show up on your credit report. Some charges show up twice on a phone bill. On U.S. ingredient lists, many scent chemicals can show up as the single word \"fragrance.\""
+            },
+            {
+              "display": "spell out",
+              "base": "spell out",
+              "correct": "To explain something clearly",
+              "wrong": "To make a scent stronger",
+              "correctFirst": false,
+              "why": "Most teachers spell out the rules before a test. A lease spells out how much rent you pay each month. The new rule would spell out which allergens must be named on labels."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Watch out for",
+          "def": "To try to notice something",
+          "ipa": "/wɑtʃ aʊt fɔr/",
+          "ex": [
+            "Watch out for spelling mistakes when you check your essay.",
+            "We watch out for nuts on every menu because of my son's allergy.",
+            "Watch out for extra fees when you book a flight."
+          ]
+        },
+        {
+          "verb": "Pick out",
+          "def": "To choose something from a group",
+          "ipa": "/pɪk aʊt/",
+          "ex": [
+            "We picked out a new couch for the living room.",
+            "Can you help me pick out a gift for my mom?",
+            "He picked out the ripest bananas at the store."
+          ]
+        },
+        {
+          "verb": "Set off",
+          "def": "To cause something to start",
+          "ipa": "/sɛt ɔf/",
+          "ex": [
+            "Loud noises set off the dog's barking.",
+            "Cold air can set off her asthma.",
+            "One rude comment set off a big fight at dinner."
+          ]
+        },
+        {
+          "verb": "Break out",
+          "def": "To suddenly get spots or a rash",
+          "ipa": "/breɪk aʊt/",
+          "ex": [
+            "I break out in a rash if I wear wool.",
+            "He broke out in spots after using a new cream.",
+            "Some babies break out in a rash in hot weather."
+          ]
+        },
+        {
+          "verb": "Cut out",
+          "def": "To stop using something",
+          "ipa": "/kʌt aʊt/",
+          "ex": [
+            "She cut out coffee after lunch so she could sleep better.",
+            "We cut out paper towels to save money.",
+            "He cut out fast food for a month."
+          ]
+        },
+        {
+          "verb": "Leave out",
+          "def": "To not include something",
+          "ipa": "/liv aʊt/",
+          "ex": [
+            "The cake still tastes good if you leave out the nuts.",
+            "Don't leave out your phone number on the form.",
+            "The report left out the cost of the project."
+          ]
+        },
+        {
+          "verb": "Cover up",
+          "def": "To hide something so it is not noticed",
+          "ipa": "/ˈkʌvər ʌp/",
+          "ex": [
+            "He sprayed cologne to cover up the smell of smoke.",
+            "The garlic covered up the smell of the old cheese.",
+            "Some cleaners just cover up the smell without cleaning anything."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "We found out that the store was closed on Sundays.",
+            "How did you find out about the new job?",
+            "She found out that her face cream had nuts in it."
+          ]
+        },
+        {
+          "verb": "Give off",
+          "def": "To produce a smell",
+          "ipa": "/ɡɪv ɔf/",
+          "ex": [
+            "The candle gave off a smell of vanilla.",
+            "Wet dogs give off a strong smell.",
+            "Fresh bread gives off a wonderful smell."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear on a list",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "Your payment should show up on your bank statement tomorrow.",
+            "Her name showed up on the list of winners.",
+            "The new street doesn't show up on my old map."
+          ]
+        },
+        {
+          "verb": "Spell out",
+          "def": "To explain something clearly",
+          "ipa": "/spɛl aʊt/",
+          "ex": [
+            "Can you spell out what you need from me?",
+            "The letter spells out the new store hours.",
+            "Our boss spelled out the plan step by step."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "fragrance",
+          "def": "A pleasant smell, or something added to give one",
+          "ipa": "/ˈfreɪɡrəns/",
+          "ex": [
+            "This soap has a light fragrance of lemon.",
+            "The store sells candles with a strong fragrance.",
+            "Some people cannot stand the fragrance of cheap perfume."
+          ]
+        },
+        {
+          "word": "eczema",
+          "def": "A skin problem that makes skin red, dry and itchy",
+          "ipa": "/ˈɛksəmə/",
+          "ex": [
+            "My little brother has eczema on his hands.",
+            "Cold, dry weather can make eczema worse.",
+            "She uses a thick cream for her eczema."
+          ]
+        },
+        {
+          "word": "allergens",
+          "def": "Things that can cause an allergic reaction",
+          "ipa": "/ˈælɝdʒənz/",
+          "ex": [
+            "Peanuts and milk are common allergens.",
+            "Dust and pet hair are allergens for many people.",
+            "The menu lists the main allergens in each dish."
+          ]
+        },
+        {
+          "word": "cosmetics",
+          "def": "Products such as makeup, lotion and shampoo that people put on their body",
+          "ipa": "/kɑzˈmɛtɪks/",
+          "ex": [
+            "She keeps her cosmetics in a small bag.",
+            "That store sells cosmetics and perfume.",
+            "Many cosmetics are tested before they are sold."
+          ]
+        },
+        {
+          "word": "man-made",
+          "def": "Made by people, not found in nature",
+          "ipa": "/ˌmænˈmeɪd/",
+          "ex": [
+            "The park has a small man-made lake.",
+            "Nylon is a man-made material.",
+            "Some man-made scents smell like real flowers."
+          ]
+        },
+        {
+          "word": "allergic reactions",
+          "def": "Bad effects on the body caused by something a person cannot handle",
+          "ipa": "/əˈlɝdʒɪk riˈækʃənz/",
+          "ex": [
+            "Some people have allergic reactions to peanuts.",
+            "Bee stings can cause serious allergic reactions.",
+            "The nurse asked if I had any allergic reactions to medicine."
+          ]
+        },
+        {
+          "word": "sensitive skin",
+          "def": "Skin that easily gets red, dry or sore",
+          "ipa": "/ˈsɛnsətɪv skɪn/",
+          "ex": [
+            "People with sensitive skin should test a new cream on a small spot first.",
+            "This soap is made for babies with sensitive skin.",
+            "My sensitive skin gets red in the cold wind."
+          ]
+        },
+        {
+          "word": "laundry detergent",
+          "def": "Soap used for washing clothes",
+          "ipa": "/ˈlɔndri dɪˈtɝdʒənt/",
+          "ex": [
+            "We ran out of laundry detergent, so I went to the store.",
+            "Use only a little laundry detergent in this machine.",
+            "This laundry detergent comes in a big blue bottle."
+          ]
+        },
+        {
+          "word": "unscented",
+          "def": "Made to have no smell that you can notice",
+          "ipa": "/ʌnˈsɛntɪd/",
+          "ex": [
+            "She buys unscented lotion because perfume gives her headaches.",
+            "The hotel uses unscented soap in every room.",
+            "Unscented candles are popular in restaurants."
+          ]
+        },
+        {
+          "word": "unpleasant",
+          "def": "Not nice or not enjoyable",
+          "ipa": "/ʌnˈplɛzənt/",
+          "ex": [
+            "The trash can had an unpleasant smell.",
+            "It was an unpleasant trip because of the rain.",
+            "He got some unpleasant news at work."
+          ]
+        },
+        {
+          "word": "lavender",
+          "def": "A plant with small purple flowers and a strong smell",
+          "ipa": "/ˈlævəndɝ/",
+          "ex": [
+            "My grandmother grows lavender in her garden.",
+            "This pillow smells like lavender.",
+            "Lavender is often used in soap and lotion."
+          ]
+        },
+        {
+          "word": "ingredient lists",
+          "def": "Lists on a package that name what a product contains",
+          "ipa": "/ɪnˈɡridiənt lɪsts/",
+          "ex": [
+            "I always read ingredient lists when I buy bread.",
+            "Some ingredient lists are very long and hard to read.",
+            "Ingredient lists name the biggest part of the product first."
+          ]
+        },
+        {
+          "word": "trade secrets",
+          "def": "Information a company keeps private so others cannot copy it",
+          "ipa": "/treɪd ˈsikrɪts/",
+          "ex": [
+            "The recipe for the sauce is one of the restaurant's trade secrets.",
+            "Workers must promise not to share trade secrets.",
+            "The company sued a rival for stealing its trade secrets."
+          ]
+        },
+        {
+          "word": "propose",
+          "def": "To officially suggest a plan or rule",
+          "ipa": "/prəˈpoʊz/",
+          "ex": [
+            "The city wants to propose a new bus route.",
+            "She will propose a shorter workweek at the meeting.",
+            "Lawmakers plan to propose a new tax next year."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Fragrance-free and unscented labels do not mean the same thing, because an unscented product can still hold hidden fragrance. U.S. officials also plan a rule on fragrance allergens.",
+          "a": true,
+          "why": "Skin doctors say parents should pick out fragrance-free products. Unscented ones may hide fragrance, and the agency plans a rule to spell out which allergens labels must name."
+        },
+        {
+          "s": "Unscented goods are just as safe as fragrance-free ones, so skin doctors say either kind works for kids with eczema. A new rule would make every scent chemical appear on labels.",
+          "a": false,
+          "why": "Close, but the two labels do not mean the same thing. Skin doctors say parents should pick out fragrance-free products, and the rule is about allergens, not every chemical."
+        },
+        {
+          "s": "A new law in the U.S. bans perfume and scented soap in public schools and hospitals. Officials say the ban starts next spring after many complaints from parents, teachers and nurses.",
+          "a": false,
+          "why": "There is no such ban. Fragrance-free and unscented labels differ, and the agency plans a rule to spell out which allergens labels must name."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Skin doctors say parents should pick out fragrance-free products for children with eczema.",
+          "a": true,
+          "why": "The academy says parents should choose fragrance-free products rather than unscented ones."
+        },
+        {
+          "s": "The words fragrance-free and unscented mean the same thing.",
+          "a": false,
+          "why": "They do not mean the same thing. A fragrance-free product should leave out every ingredient added for its smell."
+        },
+        {
+          "s": "Some makers add fragrance to cover up the smell of other ingredients.",
+          "a": true,
+          "why": "This is why a product labeled \"unscented\" may still contain fragrance."
+        },
+        {
+          "s": "An unscented product never contains any fragrance.",
+          "a": false,
+          "why": "A person allergic to lavender may not find out that it is hidden in an unscented product."
+        },
+        {
+          "s": "The planned rule would stop labels from naming any fragrance allergens.",
+          "a": false,
+          "why": "The rule would spell out which fragrance allergens must be named on labels."
+        },
+        {
+          "s": "Many scent chemicals can show up on a label as just one word.",
+          "a": true,
+          "why": "Companies do not have to share these trade secrets, so the full mix is not listed."
+        }
+      ]
+    },
     {
       "id": "china-sanctions-paraguay-belize-2026",
       "number": 164,
