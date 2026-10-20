@@ -2,6 +2,466 @@
   "updated": "2026-10-20",
   "stories": [
     {
+      "id": "holiday-flights-cost-2026",
+      "number": 168,
+      "headline": "Holiday flights cost the most in 10 years",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n168-holiday-flights-cost-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Holiday airfares reach 10-year high as jet fuel costs spike. Here's how to save on flights. (CBS News)",
+          "url": "https://www.cbsnews.com/news/holiday-airfares-10-year-high-jet-fuel-costs/"
+        },
+        {
+          "title": "When to book Thanksgiving and Christmas flights for the best deals, according to Google (CBS News)",
+          "url": "https://www.cbsnews.com/news/when-to-book-thanksgiving-christmas-flights-google/"
+        },
+        {
+          "title": "Delta expects higher fares and strong demand through the holiday season (CNN)",
+          "url": "https://edition.cnn.com/2026/10/09/business/delta-earnings-higher-airfares-jet-fuel"
+        },
+        {
+          "title": "Why airfares could rise even more, but airline profits won't (CNBC)",
+          "url": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Flying home for the holidays costs more in the U.S. in 2026. On September 28, a travel [[booking app]] said holiday [[airfares]] had reached a [[10-year high]]. An [[average]] U.S. [[round-trip ticket]] around Thanksgiving costs 402 dollars. Prices have {{gone up}} 31 percent in a year. Christmas round trips cost 452 dollars, up 23 percent. The app blames higher [[fuel prices]]. Airlines are {{passing on}} these costs to their passengers.",
+          "verbs": [
+            {
+              "display": "gone up",
+              "base": "go up",
+              "correct": "To become more expensive",
+              "wrong": "To be paid in two parts",
+              "correctFirst": true,
+              "why": "Rent goes up every year in big cities. The price of coffee goes up when the weather is bad for farmers. Holiday flight prices have gone up 31 percent from the same time in 2025."
+            },
+            {
+              "display": "passing on",
+              "base": "pass on",
+              "correct": "To make someone else pay a cost",
+              "wrong": "To pay a cost over many years",
+              "correctFirst": false,
+              "why": "Restaurants pass on higher food costs to their customers. When taxes rise, many stores pass on the extra cost to shoppers. Airlines are passing on higher fuel costs to their passengers."
+            }
+          ]
+        },
+        {
+          "text": "Fuel is one of the biggest costs for airlines. On October 9, Delta Air Lines said its [[fuel bill]] for July to September was 60 percent higher than in the same months of 2025. Its passengers also paid about 15 percent more to fly. The airline's [[chief executive]] said [[demand]] is {{holding up}}. He does not expect fares to {{come down}}, even if fuel gets cheaper. Airlines have {{cut back}} on flights that make little money. An airline [[analyst]] says cutting flights can {{end up}} raising fares.",
+          "verbs": [
+            {
+              "display": "holding up",
+              "base": "hold up",
+              "correct": "To stay strong and not fall",
+              "wrong": "To change from week to week",
+              "correctFirst": true,
+              "why": "Sales of new cars hold up even when prices rise. Ticket sales at the stadium hold up well when the team wins. Delta's chief executive said demand for flights is holding up."
+            },
+            {
+              "display": "come down",
+              "base": "come down",
+              "correct": "To become lower in price",
+              "wrong": "To be returned to the buyer",
+              "correctFirst": false,
+              "why": "Fruit prices come down in the summer when farms have a lot to sell. TV prices usually come down a year after a new model arrives. Delta's chief executive does not expect fares to come down, even if fuel gets cheaper."
+            },
+            {
+              "display": "cut back",
+              "base": "cut back",
+              "correct": "To reduce the number of something",
+              "wrong": "To move something to a later date",
+              "correctFirst": true,
+              "why": "The bus company cuts back on night buses in the summer. Many stores cut back on staff after the busy season. Airlines have cut back on flights that make little money."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To do something in the end",
+              "wrong": "To plan to do something soon",
+              "correctFirst": false,
+              "why": "People who skip breakfast often end up eating more at lunch. Shoppers often end up spending more than they plan. An airline analyst says cutting flights can end up raising fares."
+            }
+          ]
+        },
+        {
+          "text": "Booking early is important. Google Flights studied five years of flight data. On October 5, it said the lowest Thanksgiving fares appear about a month before the trip. Thanksgiving is on November 26. Christmas fares are lowest about 56 days before [[departure]]. An [[economist]] at the booking app says travelers should {{lock in}} fares as early as they can. She warns people not to {{hold off}}, because she expects prices to [[spike]] in the weeks before the holidays.",
+          "verbs": [
+            {
+              "display": "lock in",
+              "base": "lock in",
+              "correct": "To fix a price so it cannot change",
+              "wrong": "To pay a price a little at a time",
+              "correctFirst": true,
+              "why": "Many families lock in a low price for heating oil in the summer. Some phone plans let you lock in a monthly price for two years. An economist at the booking app says travelers should lock in holiday fares as early as they can."
+            },
+            {
+              "display": "hold off",
+              "base": "hold off",
+              "correct": "To wait before doing something",
+              "wrong": "To book a trip for someone else",
+              "correctFirst": false,
+              "why": "Many people hold off on buying a new car until prices fall. We hold off on dinner until everyone gets home. The economist warns people not to hold off, because she expects prices to spike in the weeks before the holidays."
+            }
+          ]
+        },
+        {
+          "text": "The economist says it is cheaper to {{fly out}} on the Monday or Tuesday before Thanksgiving. Airports are expected to be [[crowded]] on Wednesday. Travelers should also avoid {{flying back}} on the Sunday after Thanksgiving. Flying that day can add 250 dollars to a round trip. [[Flexible]] travelers can {{shop around}} for different [[destinations]] that offer a similar trip. This can save hundreds of dollars.",
+          "verbs": [
+            {
+              "display": "fly out",
+              "base": "fly out",
+              "correct": "To leave a place on a plane",
+              "wrong": "To change planes on the way",
+              "correctFirst": true,
+              "why": "Most business travelers fly out early on Monday morning. My brother flies out of Chicago because the fares there are lower. The economist says it is cheaper to fly out on the Monday or Tuesday before Thanksgiving."
+            },
+            {
+              "display": "flying back",
+              "base": "fly back",
+              "correct": "To return home on a plane",
+              "wrong": "To wait at the airport for a seat",
+              "correctFirst": false,
+              "why": "Many students fly back home after their final exams. We usually fly back from Florida on a Saturday. Travelers should avoid flying back on the Sunday after Thanksgiving."
+            },
+            {
+              "display": "shop around",
+              "base": "shop around",
+              "correct": "To compare prices before you buy",
+              "wrong": "To change your trip to a cheaper week",
+              "correctFirst": true,
+              "why": "Smart buyers shop around before they choose a new phone. My aunt shops around for the best price on a new couch. Flexible travelers can shop around for different destinations that offer a similar trip."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Go up",
+          "def": "To become more expensive",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "The price of eggs went up again in March.",
+            "Bus fares in our city go up on January 1.",
+            "When gas prices go up, people drive less."
+          ]
+        },
+        {
+          "verb": "Pass on",
+          "def": "To make someone else pay a cost",
+          "ipa": "/pæs ɑn/",
+          "ex": [
+            "The landlord passed on the higher water bill to the people renting from him.",
+            "Some shops pass on card fees to customers.",
+            "Car makers often pass on the cost of new parts to buyers."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To stay strong and not fall",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "Sales at the bakery held up during the cold winter.",
+            "Her small business is holding up well in a hard year.",
+            "Home prices in the town held up when others fell."
+          ]
+        },
+        {
+          "verb": "Come down",
+          "def": "To become lower in price",
+          "ipa": "/kʌm daʊn/",
+          "ex": [
+            "The price of the phone came down after a few months.",
+            "We are waiting for hotel prices to come down.",
+            "Gas prices finally came down in the fall."
+          ]
+        },
+        {
+          "verb": "Cut back",
+          "def": "To reduce the number of something",
+          "ipa": "/kʌt bæk/",
+          "ex": [
+            "The school cut back on after-school classes.",
+            "Our gym cut back on its weekend hours.",
+            "The city is cutting back on bus routes that few people use."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To do something in the end",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We ended up taking the train because the roads were closed.",
+            "She ended up paying twice as much as her friend.",
+            "If you wait too long, you may end up paying more."
+          ]
+        },
+        {
+          "verb": "Lock in",
+          "def": "To fix a price so it cannot change",
+          "ipa": "/lɑk ɪn/",
+          "ex": [
+            "We locked in a low price for our gym membership.",
+            "They locked in the rent for three years.",
+            "You can lock in this price if you sign today."
+          ]
+        },
+        {
+          "verb": "Hold off",
+          "def": "To wait before doing something",
+          "ipa": "/hoʊld ɔf/",
+          "ex": [
+            "I held off on buying a laptop until the sale.",
+            "The couple held off on the wedding for a year.",
+            "Let's hold off on dessert until the kids arrive."
+          ]
+        },
+        {
+          "verb": "Fly out",
+          "def": "To leave a place on a plane",
+          "ipa": "/flaɪ aʊt/",
+          "ex": [
+            "Our team flies out to Denver on Thursday.",
+            "She flew out the morning after her exam.",
+            "What time do you fly out tomorrow?"
+          ]
+        },
+        {
+          "verb": "Fly back",
+          "def": "To return home on a plane",
+          "ipa": "/flaɪ bæk/",
+          "ex": [
+            "After the wedding, we flew back to Texas.",
+            "He flies back on Friday night after his work trip.",
+            "When do you fly back from your vacation?"
+          ]
+        },
+        {
+          "verb": "Shop around",
+          "def": "To compare prices before you buy",
+          "ipa": "/ʃɑp əˈraʊnd/",
+          "ex": [
+            "We shopped around for a month before we chose a car.",
+            "It is smart to shop around for a bank account.",
+            "She shopped around and found a cheaper gym."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "booking app",
+          "def": "A phone program you use to buy tickets or reserve rooms",
+          "ipa": "/ˈbʊkɪŋ æp/",
+          "ex": [
+            "I used a booking app to find a cheap hotel.",
+            "The booking app shows prices from many airlines.",
+            "My dad doesn't trust any booking app, so he calls the hotel."
+          ]
+        },
+        {
+          "word": "airfares",
+          "def": "The prices people pay to travel on planes",
+          "ipa": "/ˈɛrˌfɛrz/",
+          "ex": [
+            "Airfares to Hawaii are high in December.",
+            "We drove because airfares were too expensive.",
+            "Some websites track airfares and send you an email when they drop."
+          ]
+        },
+        {
+          "word": "10-year high",
+          "def": "The highest level in the last ten years",
+          "ipa": "/ˈtɛn jɪr haɪ/",
+          "ex": [
+            "Home prices in our city hit a 10-year high.",
+            "The number of new students reached a 10-year high.",
+            "Egg prices are near a 10-year high."
+          ]
+        },
+        {
+          "word": "round-trip ticket",
+          "def": "A ticket for a trip to a place and back again",
+          "ipa": "/ˈraʊnd trɪp ˈtɪkɪt/",
+          "ex": [
+            "A round-trip ticket is often cheaper than two one-way tickets.",
+            "She bought a round-trip ticket to visit her sister.",
+            "How much is a round-trip ticket to Miami?"
+          ]
+        },
+        {
+          "word": "average",
+          "def": "Usual or typical for a group",
+          "ipa": "/ˈævərɪdʒ/",
+          "ex": [
+            "The average rent in our town is 1,500 dollars.",
+            "The average price of a used car is about 25,000 dollars.",
+            "The average student here reads two books a month."
+          ]
+        },
+        {
+          "word": "fuel prices",
+          "def": "The cost of gas and other things that make engines run",
+          "ipa": "/ˈfjuəl ˈpraɪsɪz/",
+          "ex": [
+            "Truck drivers watch fuel prices closely.",
+            "High fuel prices make food more expensive too.",
+            "Fuel prices are lower in some states than others."
+          ]
+        },
+        {
+          "word": "fuel bill",
+          "def": "The amount of money spent on fuel",
+          "ipa": "/ˈfjuəl bɪl/",
+          "ex": [
+            "Our fuel bill doubled when we bought a bigger car.",
+            "The farm's fuel bill is very high at harvest time.",
+            "A smaller truck can cut a company's fuel bill."
+          ]
+        },
+        {
+          "word": "chief executive",
+          "def": "The person with the most power in a company",
+          "ipa": "/tʃif ɪɡˈzɛkjətɪv/",
+          "ex": [
+            "The chief executive spoke to workers at the factory.",
+            "She became chief executive at age 40.",
+            "The bank hired a new chief executive in May."
+          ]
+        },
+        {
+          "word": "demand",
+          "def": "How much people want to buy something",
+          "ipa": "/dɪˈmænd/",
+          "ex": [
+            "There is strong demand for small cars.",
+            "Demand for ice cream rises in hot weather.",
+            "The store ordered more coats because demand was high."
+          ]
+        },
+        {
+          "word": "analyst",
+          "def": "A person whose job is to study information and explain it",
+          "ipa": "/ˈænəlɪst/",
+          "ex": [
+            "The analyst expects home sales to rise.",
+            "My cousin works as an analyst for a bank.",
+            "One analyst said the company's plan was too risky."
+          ]
+        },
+        {
+          "word": "departure",
+          "def": "The act of leaving a place to start a trip",
+          "ipa": "/dɪˈpɑrtʃər/",
+          "ex": [
+            "Please arrive two hours before departure.",
+            "Our departure was late because of snow.",
+            "The screen shows the departure time for each train."
+          ]
+        },
+        {
+          "word": "economist",
+          "def": "An expert who studies money, prices and jobs",
+          "ipa": "/ɪˈkɑnəmɪst/",
+          "ex": [
+            "An economist explained why prices are rising.",
+            "She studied hard to become an economist.",
+            "The bank's economist expects lower rates next year."
+          ]
+        },
+        {
+          "word": "spike",
+          "def": "To rise quickly and suddenly",
+          "ipa": "/spaɪk/",
+          "ex": [
+            "Hotel prices spike during big games.",
+            "Ice cream sales spike when the weather gets hot.",
+            "His fever started to spike at night."
+          ]
+        },
+        {
+          "word": "crowded",
+          "def": "Full of people",
+          "ipa": "/ˈkraʊdɪd/",
+          "ex": [
+            "The mall is crowded on Saturdays.",
+            "We left the crowded beach early.",
+            "The train was so crowded that I had to stand."
+          ]
+        },
+        {
+          "word": "Flexible",
+          "def": "Able to change plans easily",
+          "ipa": "/ˈflɛksəbəl/",
+          "ex": [
+            "Flexible workers can choose when they start their day.",
+            "Flexible parents can change plans when a child gets sick.",
+            "Flexible shoppers often find better deals."
+          ]
+        },
+        {
+          "word": "destinations",
+          "def": "Places that people travel to",
+          "ipa": "/ˌdɛstəˈneɪʃənz/",
+          "ex": [
+            "Beach towns are popular destinations in summer.",
+            "The airline added three new destinations.",
+            "We picked two destinations for our road trip."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Holiday flights in the U.S. cost more than at any time in a decade because fuel is expensive. Experts expect fares to stay high, so they tell people to book early and avoid busy days.",
+          "a": true,
+          "why": "Holiday airfares are at a 10-year high because of higher fuel prices. Fares are not expected to come down, so experts say travelers should lock in fares early."
+        },
+        {
+          "s": "Ticket prices for Thanksgiving and Christmas trips have climbed sharply, but airlines say they will soon fall again. Travel experts suggest waiting until November for the cheapest seats.",
+          "a": false,
+          "why": "Close, but Delta's chief executive does not expect fares to come down. An economist warns travelers not to hold off, because prices may spike in the weeks before the holidays."
+        },
+        {
+          "s": "Several major U.S. airlines plan to add hundreds of new routes to warm places for the winter season. A new report says tickets for these trips are cheaper than they were ten years ago.",
+          "a": false,
+          "why": "This story is about holiday fares reaching a 10-year high. Prices have gone up because of higher fuel prices, and many airlines have cut back on flights."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Holiday airfares in the U.S. have reached a 10-year high.",
+          "a": true,
+          "why": "A travel booking app says holiday prices went up to their highest level in 10 years."
+        },
+        {
+          "s": "Airlines are paying the higher fuel costs themselves.",
+          "a": false,
+          "why": "Airlines are passing on these higher costs to their passengers, who pay more for tickets."
+        },
+        {
+          "s": "Delta's chief executive says demand for flights is holding up.",
+          "a": true,
+          "why": "People are still buying tickets, even though they paid about 15 percent more to fly with Delta."
+        },
+        {
+          "s": "Delta's chief executive expects fares to come down soon.",
+          "a": false,
+          "why": "He does not expect fares to come down, even if fuel gets cheaper."
+        },
+        {
+          "s": "Google Flights says Thanksgiving fares are lowest about a month before the trip.",
+          "a": true,
+          "why": "Its flight data shows when fares are lowest, so travelers should lock in fares early."
+        },
+        {
+          "s": "An economist tells travelers to hold off on booking their holiday flights.",
+          "a": false,
+          "why": "She warns people not to hold off, because she expects prices to spike in the weeks before the holidays."
+        }
+      ]
+    },
+    {
       "id": "alberta-referendum-canada-2026",
       "number": 167,
       "headline": "Alberta votes to stay part of Canada",
