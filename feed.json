@@ -1,6 +1,494 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "stories": [
+    {
+      "id": "europe-cost-of-living-protests-2026",
+      "number": 169,
+      "headline": "Cost-of-living protests spread across Europe",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n169-europe-cost-of-living-protests-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Curfew imposed in parts of central Paris and other cities after rioting across France (BBC News)",
+          "url": "https://www.bbc.com/news/articles/cx30ez03djyqo"
+        },
+        {
+          "title": "Italy to deploy 500 troops to Milan after days of protests and looting (The Guardian)",
+          "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+        },
+        {
+          "title": "Why violent protests are sweeping across Europe over living costs (CNBC)",
+          "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html"
+        },
+        {
+          "title": "What you need to know about Europe's protests, and why they're growing (ABC News)",
+          "url": "https://www.abc.net.au/news/2026-10-20/europe-protests-explained-as-demonstrations-grow/107285508"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 17, 2026, about 550,000 people {{turned out}} for marches across France, according to news reports. Most of them marched [[peacefully]]. But violence {{broke out}} in Paris and other cities, and some shops were [[looted]]. Officials say about 2,500 people were arrested. On October 19, French authorities {{brought in}} night [[curfews]] in parts of Paris and other cities.",
+          "verbs": [
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be present at an event",
+              "wrong": "To march without permission",
+              "correctFirst": true,
+              "why": "Thousands of fans turn out for the big game every year. Few people turn out for town meetings when it rains. About 550,000 people turned out for marches across France on October 17, 2026."
+            },
+            {
+              "display": "broke out",
+              "base": "break out",
+              "correct": "To start suddenly",
+              "wrong": "To be planned in secret",
+              "correctFirst": false,
+              "why": "Arguments often break out when people are tired and hungry. A fire sometimes breaks out when someone leaves the stove on. Violence broke out in Paris and other French cities."
+            },
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "correct": "To start using a new rule",
+              "wrong": "To warn people about danger",
+              "correctFirst": true,
+              "why": "Many schools bring in new rules at the start of the year. Some cities bring in higher parking fees in the summer. On October 19, French authorities brought in night curfews in parts of Paris."
+            }
+          ]
+        },
+        {
+          "text": "The French protests {{grew out of}} a student movement for better schools that began in September 2026. Since then, the anger has {{spilled over}} into wider worries about the [[cost of living]] and [[public services]]. [[Consumer prices]] in September were 3.1 percent higher than a year earlier, according to the national statistics office. Between April and June, the [[unemployment rate]] for people aged 15 to 24 was 21.6 percent. An economist says many governments have {{built up}} huge [[debts]] and cannot easily spend more.",
+          "verbs": [
+            {
+              "display": "grew out of",
+              "base": "grow out of",
+              "correct": "To begin as a result of something",
+              "wrong": "To be banned by the courts",
+              "correctFirst": false,
+              "why": "Many big companies grow out of small home businesses. Good friendships often grow out of shared work. The French protests grew out of a student movement that began in September 2026."
+            },
+            {
+              "display": "spilled over",
+              "base": "spill over",
+              "correct": "To spread to include more things",
+              "wrong": "To be shared on social media",
+              "correctFirst": true,
+              "why": "Stress at work often spills over into family life. Problems at one school sometimes spill over into the whole town. In France, the anger has spilled over into wider worries about the cost of living."
+            },
+            {
+              "display": "built up",
+              "base": "build up",
+              "correct": "To slowly gather a large amount",
+              "wrong": "To hide the true amount",
+              "correctFirst": false,
+              "why": "Dust builds up fast in an empty house. Some students build up large debts during college. An economist says many governments have built up huge debts."
+            }
+          ]
+        },
+        {
+          "text": "Similar protests have {{sprung up}} elsewhere in Europe. In Spain and Portugal, people are angry about high [[rent]] and housing costs. Spain will hold an [[early election]] on November 29. In Italy, some marches over living costs ended in [[clashes]] with police. On October 20, Italy's government said it will send 500 soldiers to Milan. It also plans to {{crack down}} on [[youth gangs]]. [[Opposition politicians]] say the government does little about housing.",
+          "verbs": [
+            {
+              "display": "sprung up",
+              "base": "spring up",
+              "correct": "To appear quickly in many places",
+              "wrong": "To be planned months ahead",
+              "correctFirst": true,
+              "why": "New coffee shops spring up all over the city. Food stands spring up near the stadium before every game. Similar protests have sprung up in Spain, Portugal and Italy."
+            },
+            {
+              "display": "crack down",
+              "base": "crack down",
+              "correct": "To act strongly to stop something",
+              "wrong": "To give money to young people",
+              "correctFirst": false,
+              "why": "The city cracks down on drivers who park in bus lanes. Schools crack down on cheating during final exams. Italy's government plans to crack down on youth gangs after the protests in Milan."
+            }
+          ]
+        },
+        {
+          "text": "President Emmanuel Macron [[condemned]] the violence. He blamed radical left-wing groups for taking control of a movement with real [[concerns]]. A left-wing party leader rejected the claim. France will {{set aside}} money to help damaged areas [[recover]]. The governments of Italy and Belgium have also condemned the violence and have not {{backed down}}. Officials say the violence in France {{died down}} on the night of October 19. But more marches are planned for Saturday, October 24, and France will {{step up}} its [[police presence]].",
+          "verbs": [
+            {
+              "display": "set aside",
+              "base": "set aside",
+              "correct": "To keep money for a special use",
+              "wrong": "To ask other countries for money",
+              "correctFirst": true,
+              "why": "She sets aside some money every month for her vacation. Many parents set aside money for their children's college. France's government will set aside money to help damaged areas recover."
+            },
+            {
+              "display": "backed down",
+              "base": "back down",
+              "correct": "To agree to what others demand",
+              "wrong": "To ask for more time to decide",
+              "correctFirst": false,
+              "why": "The company sometimes backs down when workers threaten to strike. My father rarely backs down once he makes a decision. Italy and Belgium have not backed down after the protests."
+            },
+            {
+              "display": "died down",
+              "base": "die down",
+              "correct": "To become less strong",
+              "wrong": "To move to another city",
+              "correctFirst": true,
+              "why": "The wind usually dies down at night. The noise dies down when the concert ends. Officials say the violence in France died down on the night of October 19."
+            },
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To increase the amount of something",
+              "wrong": "To move police to the border",
+              "correctFirst": false,
+              "why": "Stores step up security in December. Police step up patrols during big festivals. France will step up its police presence for the marches on October 24."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Turn out",
+          "def": "To be present at an event",
+          "ipa": "/tɜrn aʊt/",
+          "ex": [
+            "Hundreds of people turned out for the free concert in the park.",
+            "Not many voters turned out because of the snowstorm.",
+            "Will enough parents turn out for the school meeting?"
+          ]
+        },
+        {
+          "verb": "Break out",
+          "def": "To start suddenly",
+          "ipa": "/breɪk aʊt/",
+          "ex": [
+            "A fight broke out in the parking lot after the game.",
+            "Panic broke out when the fire alarm rang.",
+            "A thunderstorm broke out just as our picnic started."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To start using a new rule",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "Our school brought in a new dress code this fall.",
+            "Many states have brought in laws against texting while driving.",
+            "The city plans to bring in a new parking rule next year."
+          ]
+        },
+        {
+          "verb": "Grow out of",
+          "def": "To begin as a result of something",
+          "ipa": "/ɡroʊ aʊt ʌv/",
+          "ex": [
+            "The company grew out of a small garage business.",
+            "Her book grew out of letters she wrote to her son.",
+            "The festival grew out of a small neighborhood party."
+          ]
+        },
+        {
+          "verb": "Spill over",
+          "def": "To spread to include more things",
+          "ipa": "/spɪl ˈoʊvər/",
+          "ex": [
+            "His bad mood at work spilled over into the weekend.",
+            "The argument spilled over into the next meeting.",
+            "Money problems often spill over into other parts of life."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To slowly gather a large amount",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "He built up a lot of credit card debt in college.",
+            "Snow built up on the roof all week.",
+            "She slowly built up her savings over ten years."
+          ]
+        },
+        {
+          "verb": "Spring up",
+          "def": "To appear quickly in many places",
+          "ipa": "/sprɪŋ ʌp/",
+          "ex": [
+            "Pizza places have sprung up all over our neighborhood.",
+            "Small towns sprang up along the new railroad.",
+            "New apartment buildings are springing up near the river."
+          ]
+        },
+        {
+          "verb": "Crack down",
+          "def": "To act strongly to stop something",
+          "ipa": "/kræk daʊn/",
+          "ex": [
+            "The police are cracking down on speeding near schools.",
+            "Our school cracked down on cell phones in class.",
+            "The state wants to crack down on fake online reviews."
+          ]
+        },
+        {
+          "verb": "Set aside",
+          "def": "To keep money for a special use",
+          "ipa": "/sɛt əˈsaɪd/",
+          "ex": [
+            "I set aside 50 dollars a week for groceries.",
+            "The town set aside money to repair the old bridge.",
+            "Try to set aside a little money for emergencies."
+          ]
+        },
+        {
+          "verb": "Back down",
+          "def": "To agree to what others demand",
+          "ipa": "/bæk daʊn/",
+          "ex": [
+            "The landlord backed down and lowered the rent.",
+            "After weeks of pressure, the coach finally backed down.",
+            "The store refused to back down on the price."
+          ]
+        },
+        {
+          "verb": "Die down",
+          "def": "To become less strong",
+          "ipa": "/daɪ daʊn/",
+          "ex": [
+            "The rain died down by the afternoon.",
+            "We waited for the cheering to die down.",
+            "The excitement about the new phone died down quickly."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase the amount of something",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The airport stepped up security checks before the long weekend.",
+            "Our team needs to step up its training before the final.",
+            "The city stepped up trash pickup after the festival."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "peacefully",
+          "def": "In a calm way, without fighting or violence",
+          "ipa": "/ˈpisfəli/",
+          "ex": [
+            "The two neighbors settled their argument peacefully.",
+            "The crowd waited peacefully outside the stadium.",
+            "The children played peacefully in the yard."
+          ]
+        },
+        {
+          "word": "looted",
+          "def": "Robbed during a time of disorder, often by a crowd",
+          "ipa": "/ˈlutɪd/",
+          "ex": [
+            "Several stores were looted after the hurricane.",
+            "The museum was looted during the war.",
+            "Police guarded the mall so it would not be looted."
+          ]
+        },
+        {
+          "word": "curfews",
+          "def": "Rules that say people must not be in public places at certain hours",
+          "ipa": "/ˈkɜrfjuz/",
+          "ex": [
+            "Some towns have curfews for teenagers on school nights.",
+            "The army ordered curfews after the earthquake.",
+            "Many parents set curfews for their children."
+          ]
+        },
+        {
+          "word": "cost of living",
+          "def": "The amount of money people need for food, housing and other basic needs",
+          "ipa": "/kɔst əv ˈlɪvɪŋ/",
+          "ex": [
+            "The cost of living in big cities is very high.",
+            "She moved to a small town with a lower cost of living.",
+            "Pay raises often do not match the cost of living."
+          ]
+        },
+        {
+          "word": "public services",
+          "def": "Services such as schools, hospitals and buses that a government pays for",
+          "ipa": "/ˈpʌblɪk ˈsɜrvɪsɪz/",
+          "ex": [
+            "Taxes help pay for public services.",
+            "Many people in rural areas have poor public services.",
+            "The mayor promised to improve public services."
+          ]
+        },
+        {
+          "word": "Consumer prices",
+          "def": "The prices that people pay for everyday goods and services",
+          "ipa": "/kənˈsumər ˈpraɪsɪz/",
+          "ex": [
+            "Consumer prices usually rise when gas gets more expensive.",
+            "The bank watches consumer prices every month.",
+            "Lower consumer prices helped families save money."
+          ]
+        },
+        {
+          "word": "unemployment rate",
+          "def": "The share of people who want a job but cannot find one",
+          "ipa": "/ˌʌnɪmˈplɔɪmənt reɪt/",
+          "ex": [
+            "The unemployment rate fell to 4 percent in June.",
+            "Our state has a lower unemployment rate than its neighbors.",
+            "A high unemployment rate is hard on young workers."
+          ]
+        },
+        {
+          "word": "debts",
+          "def": "Money that a person, company or country owes",
+          "ipa": "/dɛts/",
+          "ex": [
+            "They paid all their debts before buying a house.",
+            "Medical bills left the family with large debts.",
+            "The company sold buildings to pay its debts."
+          ]
+        },
+        {
+          "word": "rent",
+          "def": "Money you pay each month to live in a home that someone else owns",
+          "ipa": "/rɛnt/",
+          "ex": [
+            "My rent rose by 100 dollars this year.",
+            "She pays her rent on the first day of each month.",
+            "Rent is cheaper outside the city."
+          ]
+        },
+        {
+          "word": "early election",
+          "def": "A vote held before the normal date, often after a political problem",
+          "ipa": "/ˈɜrli ɪˈlɛkʃən/",
+          "ex": [
+            "The leader called an early election to get more support.",
+            "An early election gives parties little time to prepare.",
+            "Many voters were surprised by the early election."
+          ]
+        },
+        {
+          "word": "clashes",
+          "def": "Short, violent fights between two groups",
+          "ipa": "/ˈklæʃɪz/",
+          "ex": [
+            "There were clashes between rival fans after the match.",
+            "The clashes lasted for several hours.",
+            "Police tried to stop clashes near the border."
+          ]
+        },
+        {
+          "word": "youth gangs",
+          "def": "Groups of young people who often commit crimes together",
+          "ipa": "/juθ ɡæŋz/",
+          "ex": [
+            "The city started a sports program to protect kids from youth gangs.",
+            "Youth gangs were a big problem in the neighborhood.",
+            "Teachers worry about youth gangs near the school."
+          ]
+        },
+        {
+          "word": "Opposition politicians",
+          "def": "Politicians from parties that are not in the government",
+          "ipa": "/ˌɑpəˈzɪʃən ˌpɑləˈtɪʃənz/",
+          "ex": [
+            "Opposition politicians voted against the new tax.",
+            "The plan was criticized by opposition politicians.",
+            "Opposition politicians asked the minister to explain the delay."
+          ]
+        },
+        {
+          "word": "condemned",
+          "def": "Said in public that something is very wrong",
+          "ipa": "/kənˈdɛmd/",
+          "ex": [
+            "World leaders condemned the attack.",
+            "The school condemned the bullying in a letter to parents.",
+            "The team condemned the fans' bad behavior."
+          ]
+        },
+        {
+          "word": "concerns",
+          "def": "Worries about something important",
+          "ipa": "/kənˈsɜrnz/",
+          "ex": [
+            "Parents raised concerns about safety at the school.",
+            "The doctor listened to all my concerns.",
+            "There are concerns about the cost of the new stadium."
+          ]
+        },
+        {
+          "word": "recover",
+          "def": "To return to a normal or good condition",
+          "ipa": "/rɪˈkʌvər/",
+          "ex": [
+            "The town needed years to recover from the flood.",
+            "Small businesses slowly recover after hard times.",
+            "The economy began to recover in the spring."
+          ]
+        },
+        {
+          "word": "police presence",
+          "def": "The number of police officers who can be seen in a place",
+          "ipa": "/pəˈlis ˈprɛzəns/",
+          "ex": [
+            "There was a heavy police presence at the parade.",
+            "A strong police presence made shoppers feel safe.",
+            "The city increased its police presence downtown."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Anger about prices, rent and weak public services has led to large marches in several European countries. France ordered curfews after violence, and Italy is sending soldiers to Milan.",
+          "a": true,
+          "why": "Protests about the cost of living have sprung up across Europe. French authorities brought in curfews, and Italy plans to crack down after clashes in Milan."
+        },
+        {
+          "s": "Protests over the high cost of everyday life have spread from France to other nations. Most leaders have answered by cutting taxes and promising new money for schools and homes.",
+          "a": false,
+          "why": "Close, but governments have condemned the violence and have not backed down. France brought in curfews, and Italy is sending soldiers."
+        },
+        {
+          "s": "The European Union has agreed on a new plan to build cheap apartments for young workers. Member countries will share the cost, and the first homes should be ready in two years.",
+          "a": false,
+          "why": "This is about protests that broke out over living costs. Governments answered with curfews, soldiers and plans to step up police."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Violence broke out in several French cities during the marches.",
+          "a": true,
+          "why": "Most people marched peacefully, but violence broke out in Paris and other cities."
+        },
+        {
+          "s": "Most of the people who turned out in France were violent.",
+          "a": false,
+          "why": "About 550,000 people turned out, and most of them marched peacefully."
+        },
+        {
+          "s": "The French protests grew out of a student movement.",
+          "a": true,
+          "why": "They began with a student movement for better schools in September 2026."
+        },
+        {
+          "s": "Italy is sending soldiers to Milan after the protests there.",
+          "a": true,
+          "why": "Italy's government will send 500 soldiers to Milan, and it plans to crack down on youth gangs."
+        },
+        {
+          "s": "The anger in France is only about the state of schools.",
+          "a": false,
+          "why": "It has spilled over into wider worries about the cost of living and public services."
+        },
+        {
+          "s": "Several governments have agreed to all of the protesters' demands.",
+          "a": false,
+          "why": "Governments in Italy and Belgium have condemned the violence and have not backed down."
+        }
+      ]
+    },
     {
       "id": "holiday-flights-cost-2026",
       "number": 168,
