@@ -1,6 +1,490 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "stories": [
+    {
+      "id": "social-media-personal-taste-2026",
+      "number": 171,
+      "headline": "Designers debate whether social media killed taste",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n171-social-media-personal-taste-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Is Taste Dead? We Asked 4 of London's Most Exciting Creatives to Unpack Our Obsession With the 'Hyper-Curated' (Livingetc)",
+          "url": "https://www.livingetc.com/features/the-future-of-taste"
+        },
+        {
+          "title": "'Filterworld' explores how social media algorithms 'flatten' our culture (NPR, Fresh Air)",
+          "url": "https://www.npr.org/transcripts/1224955473"
+        },
+        {
+          "title": "Beige mania: the color defining the interiors of the TikTok Generation (Domus)",
+          "url": "https://www.domusweb.it/en/news/2025/10/15/millennial-beige-interior-color-tiktok.html"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Some people say social media has killed personal [[taste]]. The organizers of a London [[art fair]] {{put on}} a [[panel]] on October 15, 2026, to debate that question. A writer for a British design magazine led it. She said people shape their style around [[algorithms]]. Feeds and [[targeted ads]] tell them what to like and buy. Shoppers can {{look up}} an outfit straight from an [[influencer]]'s photo. Critics worry that homes and clothes {{end up}} looking alike.",
+          "verbs": [
+            {
+              "display": "put on",
+              "base": "put on",
+              "correct": "To organize an event for people",
+              "wrong": "To pay to visit an art show",
+              "correctFirst": true,
+              "why": "Our school puts on a play every spring. The library puts on a free talk about local history every month. The organizers of a London art fair put on a panel to debate whether social media has killed taste."
+            },
+            {
+              "display": "look up",
+              "base": "look up",
+              "correct": "To find something on the internet",
+              "wrong": "To save a photo to your phone",
+              "correctFirst": false,
+              "why": "Shoppers look up store hours online. Music fans look up a song after they hear it on the radio. Shoppers can look up an outfit straight from an influencer's photo."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To reach a result you did not plan",
+              "wrong": "To be designed by the same company",
+              "correctFirst": true,
+              "why": "Drivers who take a wrong turn often end up in the next town. Many art students end up working in banks. Critics worry that homes and clothes end up looking alike."
+            }
+          ]
+        },
+        {
+          "text": "Critics say the [[sameness]] is easy to see in homes. In October 2025, an Italian design magazine searched [[vacation rentals]] in Paris. Room after room was sand, ivory or cream. It said beige was {{taking over}} from gray as the [[safe choice]]. People like beige because it does not [[offend]] anyone and seems to {{fit in}} anywhere. The same colors {{show up}} in furniture [[catalogs]]. The magazine warned that beige could become a [[formula]] that algorithms reward.",
+          "verbs": [
+            {
+              "display": "taking over",
+              "base": "take over",
+              "correct": "To become the most common one",
+              "wrong": "To be mixed with another color",
+              "correctFirst": false,
+              "why": "In many homes, streaming services take over from cable TV. Each new phone model quickly takes over from the old one. An Italian design magazine said beige was taking over from gray in homes."
+            },
+            {
+              "display": "fit in",
+              "base": "fit in",
+              "correct": "To look right with everything else",
+              "wrong": "To cost less than other colors",
+              "correctFirst": true,
+              "why": "The old lamp fits in well with the new furniture. A bright red sofa would not fit in with the rest of this quiet room. People like beige because it seems to fit in anywhere."
+            },
+            {
+              "display": "show up",
+              "base": "show up",
+              "correct": "To appear in a place",
+              "wrong": "To be painted by hand",
+              "correctFirst": false,
+              "why": "Her name shows up in many old newspapers. That same song shows up on every radio station this summer. The same beige colors show up in furniture catalogs."
+            }
+          ]
+        },
+        {
+          "text": "A writer for The New Yorker made a similar argument in a 2024 book. He told a radio show that feeds guess what each person will click on. They offer things that are not too surprising or [[challenging]]. But he also said the internet has {{opened up}} culture. Anyone can {{put out}} their art or music. In the past, magazine editors and [[record company]] bosses could {{shut out}} artists who did not match their taste.",
+          "verbs": [
+            {
+              "display": "opened up",
+              "base": "open up",
+              "correct": "To make something available to all",
+              "wrong": "To make something cost more",
+              "correctFirst": true,
+              "why": "New train lines open up the coast to day visitors. Free online classes open up college courses to many people. The New Yorker writer said the internet has opened up culture."
+            },
+            {
+              "display": "put out",
+              "base": "put out",
+              "correct": "To share your work with the public",
+              "wrong": "To sell your work to a magazine",
+              "correctFirst": false,
+              "why": "Popular bands put out a new album every few years. She puts out a short video every week. Anyone can now put out their art or music on the internet."
+            },
+            {
+              "display": "shut out",
+              "base": "shut out",
+              "correct": "To not let someone take part",
+              "wrong": "To give someone bad advice",
+              "correctFirst": true,
+              "why": "Private clubs shut out anyone who cannot pay the high fee. Many tech companies shut out older workers. In the past, editors and record company bosses could shut out artists who did not match their taste."
+            }
+          ]
+        },
+        {
+          "text": "Not everyone thinks taste is dead. A designer on the London panel said people {{build up}} taste slowly, through travel and making mistakes. You can buy beautiful furniture, he said, but not a [[point of view]]. A home with [[secondhand]] objects and pieces {{handed down}} in a family can feel special, because each one has a story. The writer {{came away}} from the panel feeling [[hopeful]] that taste is still alive.",
+          "verbs": [
+            {
+              "display": "build up",
+              "base": "build up",
+              "correct": "To develop something slowly",
+              "wrong": "To prove something to others",
+              "correctFirst": false,
+              "why": "Cooks build up skill over many years. Wine fans build up their knowledge one bottle at a time. A designer said people build up taste slowly, through travel and making mistakes."
+            },
+            {
+              "display": "handed down",
+              "base": "hand down",
+              "correct": "To give something to a younger relative",
+              "wrong": "To sell something at a low price",
+              "correctFirst": true,
+              "why": "Fathers often hand down their watches to their sons. Mothers hand down old family recipes to their daughters. A home full of pieces handed down in a family can feel special, because each one has a story."
+            },
+            {
+              "display": "came away",
+              "base": "come away",
+              "correct": "To leave an event with a certain belief",
+              "wrong": "To arrive late at a busy event",
+              "correctFirst": false,
+              "why": "Many people come away from a calm meeting feeling relaxed. Most visitors come away from the museum wanting to learn more. The writer came away from the panel feeling hopeful that taste is still alive."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Put on",
+          "def": "To organize an event for people",
+          "ipa": "/pʊt ɑn/",
+          "ex": [
+            "The town puts on a music festival every July.",
+            "Our club put on a dinner to raise money for the hospital.",
+            "The museum will put on a show of young artists next month."
+          ]
+        },
+        {
+          "verb": "Look up",
+          "def": "To find something on the internet",
+          "ipa": "/lʊk ʌp/",
+          "ex": [
+            "I looked up the word in an online dictionary.",
+            "Can you look up the train times for tomorrow?",
+            "She looked up the price of the jacket on three websites."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To reach a result you did not plan",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We ended up eating at home because every restaurant was full.",
+            "He planned to stay one year but ended up living there for ten.",
+            "If you don't save money, you may end up in debt."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To become the most common one",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "Electric scooters have taken over the streets of many cities.",
+            "Short videos are taking over social media.",
+            "Streaming has taken over from DVDs in most homes."
+          ]
+        },
+        {
+          "verb": "Fit in",
+          "def": "To look right with everything else",
+          "ipa": "/fɪt ɪn/",
+          "ex": [
+            "The new building fits in well with the old houses on the street.",
+            "This modern chair doesn't fit in with the rest of the kitchen.",
+            "We chose a soft green paint that fits in with the wood floors."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear in a place",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The same ads show up on every website I visit.",
+            "His photo showed up in the local newspaper.",
+            "Small mistakes often show up in the final report."
+          ]
+        },
+        {
+          "verb": "Open up",
+          "def": "To make something available to all",
+          "ipa": "/ˈoʊpən ʌp/",
+          "ex": [
+            "Cheap flights opened up travel to millions of people.",
+            "The new law opened up the job to women.",
+            "The internet has opened up old books to readers everywhere."
+          ]
+        },
+        {
+          "verb": "Put out",
+          "def": "To share your work with the public",
+          "ipa": "/pʊt aʊt/",
+          "ex": [
+            "The singer put out her first song when she was sixteen.",
+            "The magazine puts out a new issue every month.",
+            "Many writers now put out their books without a publisher."
+          ]
+        },
+        {
+          "verb": "Shut out",
+          "def": "To not let someone take part",
+          "ipa": "/ʃʌt aʊt/",
+          "ex": [
+            "High prices shut out many young buyers from the housing market.",
+            "The new rules shut out small farmers from the program.",
+            "She felt shut out of the group's plans."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To develop something slowly",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "He built up a large group of loyal customers over ten years.",
+            "Reading every day helps you build up your vocabulary.",
+            "It took her a long time to build up her confidence."
+          ]
+        },
+        {
+          "verb": "Hand down",
+          "def": "To give something to a younger relative",
+          "ipa": "/hænd daʊn/",
+          "ex": [
+            "This ring has been handed down through four generations.",
+            "My older brother handed down his old bike to me.",
+            "Stories are often handed down from grandparents to children."
+          ]
+        },
+        {
+          "verb": "Come away",
+          "def": "To leave an event with a certain belief",
+          "ipa": "/kʌm əˈweɪ/",
+          "ex": [
+            "She came away from the interview sure that she got the job.",
+            "Did you come away from the class with any new ideas?",
+            "Fans came away from the concert tired but happy."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "taste",
+          "def": "A person's sense of what is good or beautiful",
+          "ipa": "/teɪst/",
+          "ex": [
+            "She has great taste in music.",
+            "Their apartment shows their taste in art.",
+            "My taste in clothes has changed since college."
+          ]
+        },
+        {
+          "word": "panel",
+          "def": "A small group of experts who discuss a subject in public",
+          "ipa": "/ˈpænəl/",
+          "ex": [
+            "A panel of doctors answered questions from the crowd.",
+            "She spoke on a panel about city housing.",
+            "The panel included two teachers and a parent."
+          ]
+        },
+        {
+          "word": "art fair",
+          "def": "A large event where galleries show and sell art",
+          "ipa": "/ɑrt fɛr/",
+          "ex": [
+            "We saw paintings from twenty countries at the art fair.",
+            "The art fair opens every year in the fall.",
+            "She sold her first painting at a small art fair."
+          ]
+        },
+        {
+          "word": "algorithms",
+          "def": "Computer rules that decide what a person sees online",
+          "ipa": "/ˈælɡəˌrɪðəmz/",
+          "ex": [
+            "Video apps use algorithms to choose the next clip.",
+            "Shopping sites use algorithms to suggest products.",
+            "Some people want to know how news algorithms work."
+          ]
+        },
+        {
+          "word": "targeted ads",
+          "def": "Online ads chosen for a person based on what they do online",
+          "ipa": "/ˈtɑrɡɪtɪd ædz/",
+          "ex": [
+            "After I searched for boots, I saw targeted ads for boots all week.",
+            "Some people find targeted ads a little scary.",
+            "The company spends a lot of money on targeted ads."
+          ]
+        },
+        {
+          "word": "influencer",
+          "def": "A person who is paid to show products to many online followers",
+          "ipa": "/ˈɪnfluənsər/",
+          "ex": [
+            "The influencer posted a video about her new face cream.",
+            "Many brands send free clothes to an influencer they like.",
+            "He became an influencer after his cooking videos went viral."
+          ]
+        },
+        {
+          "word": "sameness",
+          "def": "The state of being too much like other things",
+          "ipa": "/ˈseɪmnəs/",
+          "ex": [
+            "I'm tired of the sameness of the shops at every mall.",
+            "The sameness of his days made him want a new job.",
+            "Travelers often complain about the sameness of airport hotels."
+          ]
+        },
+        {
+          "word": "vacation rentals",
+          "def": "Houses or apartments people rent for a short trip",
+          "ipa": "/veɪˈkeɪʃən ˈrɛntəlz/",
+          "ex": [
+            "Vacation rentals near the beach fill up fast in July.",
+            "We compared vacation rentals and hotels before our trip.",
+            "Some cities limit the number of vacation rentals."
+          ]
+        },
+        {
+          "word": "safe choice",
+          "def": "An option that is unlikely to cause problems or upset anyone",
+          "ipa": "/seɪf tʃɔɪs/",
+          "ex": [
+            "A white shirt is a safe choice for a job interview.",
+            "Pizza is a safe choice when you feed a big group.",
+            "The team made a safe choice and hired an experienced coach."
+          ]
+        },
+        {
+          "word": "offend",
+          "def": "To make someone upset or annoyed",
+          "ipa": "/əˈfɛnd/",
+          "ex": [
+            "I didn't mean to offend you with my joke.",
+            "The ad offended many customers.",
+            "Try not to offend your host by arriving late."
+          ]
+        },
+        {
+          "word": "catalogs",
+          "def": "Books or websites that show products for sale",
+          "ipa": "/ˈkætəˌlɔɡz/",
+          "ex": [
+            "My grandmother still orders clothes from paper catalogs.",
+            "The store sends out new catalogs every season.",
+            "We looked through catalogs to find a new desk."
+          ]
+        },
+        {
+          "word": "formula",
+          "def": "A fixed way of doing something that is used again and again",
+          "ipa": "/ˈfɔrmjələ/",
+          "ex": [
+            "Many pop songs follow the same formula.",
+            "The show's formula is simple but popular.",
+            "There is no formula for a happy family."
+          ]
+        },
+        {
+          "word": "challenging",
+          "def": "Difficult in a way that makes you think or try harder",
+          "ipa": "/ˈtʃælɪndʒɪŋ/",
+          "ex": [
+            "The math test was challenging but fair.",
+            "She wanted a more challenging job.",
+            "The film is challenging, and some viewers left early."
+          ]
+        },
+        {
+          "word": "record company",
+          "def": "A business that makes and sells music by artists",
+          "ipa": "/ˈrɛkərd ˈkʌmpəni/",
+          "ex": [
+            "The band signed with a large record company.",
+            "She worked for a record company in Nashville.",
+            "Many singers now share music without a record company."
+          ]
+        },
+        {
+          "word": "point of view",
+          "def": "A personal way of thinking about or seeing things",
+          "ipa": "/pɔɪnt əv vju/",
+          "ex": [
+            "Try to see the problem from my point of view.",
+            "Her blog has a strong point of view about city life.",
+            "Every good film has a clear point of view."
+          ]
+        },
+        {
+          "word": "secondhand",
+          "def": "Owned and used by someone else before",
+          "ipa": "/ˈsɛkəndˌhænd/",
+          "ex": [
+            "He bought a secondhand car from his neighbor.",
+            "Secondhand clothes are often cheap and in good shape.",
+            "The store sells secondhand books for one dollar."
+          ]
+        },
+        {
+          "word": "hopeful",
+          "def": "Feeling that something good may happen",
+          "ipa": "/ˈhoʊpfəl/",
+          "ex": [
+            "The doctors are hopeful that he will get better.",
+            "She felt hopeful after the job interview.",
+            "We are hopeful about the new school year."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Designers and writers are debating whether online feeds have made homes and clothes look the same. Critics point to beige rooms everywhere, but others say personal taste can still grow.",
+          "a": true,
+          "why": "Critics say algorithms push everyone toward the same safe look. Others say people build up their own taste slowly, so it is not dead."
+        },
+        {
+          "s": "A panel of London experts agreed that algorithms have completely destroyed personal style. They said the only answer is for people to delete their apps and stop shopping online.",
+          "a": false,
+          "why": "Close, but the panel did not agree that taste is dead. The writer who led it came away from the panel hopeful that taste is still alive."
+        },
+        {
+          "s": "A new survey finds that most young adults now paint their homes in bright, bold colors. Furniture stores report that sales of beige sofas have fallen sharply over the last two years.",
+          "a": false,
+          "why": "There is no survey about bold colors. This is a debate about whether social media has made homes and clothes end up looking alike."
+        }
+      ],
+      "tf": [
+        {
+          "s": "An art fair's organizers put on a panel to debate whether taste is dead.",
+          "a": true,
+          "why": "The organizers held the panel in London, and the question was whether social media has killed personal taste."
+        },
+        {
+          "s": "Critics worry that homes and clothes end up looking very different.",
+          "a": false,
+          "why": "Critics worry about the opposite. They say homes and clothes end up looking alike."
+        },
+        {
+          "s": "A design magazine said beige was taking over from gray in homes.",
+          "a": true,
+          "why": "Beige was taking over from gray as the safe choice, and the same colors show up in furniture catalogs."
+        },
+        {
+          "s": "The New Yorker writer said the internet has shut out new artists.",
+          "a": false,
+          "why": "He said the internet has opened up culture, because anyone can put out their work. In the past, editors could shut out artists."
+        },
+        {
+          "s": "A designer on the panel said people can simply buy good taste.",
+          "a": false,
+          "why": "He said people build up taste slowly through travel and mistakes. You can buy furniture, but not a point of view."
+        },
+        {
+          "s": "The writer who led the panel came away from it feeling hopeful.",
+          "a": true,
+          "why": "She came away from the panel hopeful that taste is still alive, not dead."
+        }
+      ]
+    },
     {
       "id": "netflix-job-cuts-2026",
       "number": 170,
