@@ -2,6 +2,508 @@
   "updated": "2026-10-23",
   "stories": [
     {
+      "id": "un-secretary-general-race-2026",
+      "number": 176,
+      "headline": "The UN cannot agree on its next leader",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n176-un-secretary-general-race-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Latest vote shows no candidate for UN chief has the required support of all five key powers (AP)",
+          "url": "https://www.click2houston.com/news/world/2026/10/17/latest-vote-shows-no-candidate-for-un-chief-has-the-required-support-of-all-five-key-powers/"
+        },
+        {
+          "title": "Informal poll shows Costa Rica's Grynspan ahead in race to be next UN chief (Reuters)",
+          "url": "https://979weve.com/?p=864593"
+        },
+        {
+          "title": "Costa Rica's Grynspan extends lead in race to become next UN chief (The National)",
+          "url": "https://www.thenationalnews.com/news/us/2026/09/29/un-chief-race-costa-ricas-rebeca-grynspan-leads-fourth-security-council-straw-poll/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 16, 2026, the UN Security Council held a [[secret vote]] on who should {{take over}} as the next UN leader. The current leader will {{step down}} on December 31 after two [[five-year terms]]. None of the seven candidates in the [[race]] has support from all five [[permanent members]]. These are the U.S., Russia, China, Britain and France. Each can [[veto]] a candidate.",
+          "verbs": [
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To become the new leader",
+              "wrong": "To name a new leader",
+              "correctFirst": true,
+              "why": "An assistant coach often takes over as head coach. A new principal takes over the school in June. The council is choosing who should take over as the next leader of the UN."
+            },
+            {
+              "display": "step down",
+              "base": "step down",
+              "correct": "To leave an important job",
+              "wrong": "To lose a vote by a little",
+              "correctFirst": false,
+              "why": "Many team captains step down after ten years. Mayors step down when their terms end. The current UN leader will step down on December 31 after two five-year terms."
+            }
+          ]
+        },
+        {
+          "text": "Candidates for [[secretary-general]] try to {{line up}} support among the council's 15 members. The council holds [[informal]] [[straw polls]] to {{narrow down}} the list. Members mark each candidate \"encourage,\" \"discourage\" or \"no opinion.\" On October 16, permanent members used red [[ballots]] for the first time. Candidates can now {{find out}} if a big power is against them. A winner needs nine votes [[in favor]] and no veto. Then the General Assembly {{signs off on}} the choice.",
+          "verbs": [
+            {
+              "display": "line up",
+              "base": "line up",
+              "correct": "To arrange support from others",
+              "wrong": "To hide your plans from others",
+              "correctFirst": true,
+              "why": "Smart workers line up support from coworkers before a meeting. A politician lines up votes for his plan. Candidates try to line up support among the council's 15 members."
+            },
+            {
+              "display": "narrow down",
+              "base": "narrow down",
+              "correct": "To make a list shorter",
+              "wrong": "To sort a list by name",
+              "correctFirst": false,
+              "why": "Most renters narrow down their choices to two apartments. Coaches narrow the team down to 12 players. The council holds straw polls to narrow down the list of candidates."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact you did not know",
+              "wrong": "To show others what you think",
+              "correctFirst": true,
+              "why": "Travelers find out about late flights from an app. Students find out their test results online. The red ballots let candidates find out if a big power is against them."
+            },
+            {
+              "display": "signs off on",
+              "base": "sign off on",
+              "correct": "To give final approval",
+              "wrong": "To request a new vote",
+              "correctFirst": false,
+              "why": "Bosses sign off on vacation days. The city council signs off on new parks. The General Assembly signs off on the council's choice for secretary-general."
+            }
+          ]
+        },
+        {
+          "text": "The head of the UN's [[trade agency]], who is from Costa Rica, {{came out on top}} again. But two diplomats said she and the next two candidates each received two red \"discourage\" votes. The other two are Argentina's candidate, who runs the UN's [[nuclear watchdog]], and Guyana's [[ambassador]] to the UN. Two candidates from Ecuador {{ended up}} at the bottom. The job usually [[rotates]] between regions, and this is Latin America's [[turn]]. There is also pressure to choose the first woman.",
+          "verbs": [
+            {
+              "display": "came out on top",
+              "base": "come out on top",
+              "correct": "To get the best result",
+              "wrong": "To speak first at a meeting",
+              "correctFirst": true,
+              "why": "Our school comes out on top in the science contest every year. In close games, the home team often comes out on top. The head of the UN's trade agency came out on top again in the October 16 poll."
+            },
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To finally reach a certain place",
+              "wrong": "To choose a certain place",
+              "correctFirst": false,
+              "why": "Lost drivers often end up on the wrong side of town. Some first books end up at the top of the best-seller list. Two candidates from Ecuador ended up at the bottom of the poll."
+            }
+          ]
+        },
+        {
+          "text": "A candidate must {{win over}} the five powers or at least avoid a veto. U.S. officials say no candidate is [[ideal]] for the Trump [[administration]]. The U.S. has {{pulled out of}} some UN agencies. The U.S. ambassador said the UN needs to {{cut back}}. Still, the U.S. has not {{ruled out}} backing one of the seven. The U.S. and Russian ambassadors said new candidates could still be {{put forward}}. Both hope for a winner before the end of 2026.",
+          "verbs": [
+            {
+              "display": "win over",
+              "base": "win over",
+              "correct": "To get someone's support",
+              "wrong": "To share a secret with someone",
+              "correctFirst": true,
+              "why": "Kind teachers win over their classes quickly. A polite boyfriend wins over his girlfriend's parents. A candidate must win over the five powers or at least avoid a veto."
+            },
+            {
+              "display": "pulled out of",
+              "base": "pull out of",
+              "correct": "To stop being part of a group",
+              "wrong": "To give an award to a group",
+              "correctFirst": false,
+              "why": "Some schools pull out of the soccer league when costs rise. Injured players pull out of tournaments. The United States has pulled out of some UN agencies."
+            },
+            {
+              "display": "cut back",
+              "base": "cut back",
+              "correct": "To do less or spend less",
+              "wrong": "To make a new set of rules",
+              "correctFirst": true,
+              "why": "When prices rise, families cut back. Companies cut back and hire fewer people in hard times. The ambassador from the United States said the UN needs to cut back."
+            },
+            {
+              "display": "ruled out",
+              "base": "rule out",
+              "correct": "To say no to a possible choice",
+              "wrong": "To delay a possible choice",
+              "correctFirst": false,
+              "why": "Coaches rarely rule out playing their best player. Many people rule out moving to a new city because of cost. Officials in the United States have not ruled out backing one of the seven candidates."
+            },
+            {
+              "display": "put forward",
+              "base": "put forward",
+              "correct": "To name someone for a job",
+              "wrong": "To praise someone in a speech",
+              "correctFirst": true,
+              "why": "Each class puts forward two students for the school council. Parties put forward their candidates for mayor in the spring. The ambassadors of the United States and Russia said new candidates could still be put forward."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Take over",
+          "def": "To become the new leader",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "A new manager will take over at the hotel next month.",
+            "He took over as captain when the old captain left.",
+            "Who will take over the family business?"
+          ]
+        },
+        {
+          "verb": "Step down",
+          "def": "To leave an important job",
+          "ipa": "/stɛp daʊn/",
+          "ex": [
+            "The company's boss stepped down after a hard year.",
+            "She plans to step down as club president in May.",
+            "Many people asked the coach to step down."
+          ]
+        },
+        {
+          "verb": "Line up",
+          "def": "To arrange support from others",
+          "ipa": "/laɪn ʌp/",
+          "ex": [
+            "Before the vote, he lined up support from his friends.",
+            "He lined up support from three other parents before the meeting.",
+            "She lined up a lot of help for the move."
+          ]
+        },
+        {
+          "verb": "Narrow down",
+          "def": "To make a list shorter",
+          "ipa": "/ˈnæroʊ daʊn/",
+          "ex": [
+            "It took us weeks to narrow down the list of names for the baby.",
+            "Can you narrow down your choices to three colleges?",
+            "The police narrowed down the list of cars to five."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I need to find out what time the bus leaves.",
+            "How did you find out about the party?",
+            "We found out that the store was closed on Monday."
+          ]
+        },
+        {
+          "verb": "Sign off on",
+          "def": "To give final approval",
+          "ipa": "/saɪn ɔf ɑn/",
+          "ex": [
+            "The principal signed off on the class trip.",
+            "Who needs to sign off on this budget?",
+            "The doctor signed off on her return to work."
+          ]
+        },
+        {
+          "verb": "Come out on top",
+          "def": "To get the best result",
+          "ipa": "/kʌm aʊt ɑn tɑp/",
+          "ex": [
+            "In the end, the smaller team came out on top.",
+            "She came out on top in the spelling bee.",
+            "Which phone came out on top in the tests?"
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally reach a certain place",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "He ended up in Texas after many moves.",
+            "My keys ended up under the couch.",
+            "We took a wrong turn and ended up at the beach."
+          ]
+        },
+        {
+          "verb": "Win over",
+          "def": "To get someone's support",
+          "ipa": "/wɪn ˈoʊvər/",
+          "ex": [
+            "The singer won over the crowd with her first song.",
+            "It took time to win over my new neighbors.",
+            "His honest answers won over the voters."
+          ]
+        },
+        {
+          "verb": "Pull out of",
+          "def": "To stop being part of a group",
+          "ipa": "/pʊl aʊt ʌv/",
+          "ex": [
+            "The runner pulled out of the race because of a bad knee.",
+            "Our town pulled out of the plan to build a new mall.",
+            "Several teams pulled out of the event."
+          ]
+        },
+        {
+          "verb": "Cut back",
+          "def": "To do less or spend less",
+          "ipa": "/kʌt bæk/",
+          "ex": [
+            "Our family is cutting back to save for a car.",
+            "The hospital had to cut back because of low funding.",
+            "When money is tight, many people cut back."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To say no to a possible choice",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The mayor has not ruled out a new tax.",
+            "We can't rule out moving to a smaller house.",
+            "He ruled out selling his house this year."
+          ]
+        },
+        {
+          "verb": "Put forward",
+          "def": "To name someone for a job",
+          "ipa": "/pʊt ˈfɔrwərd/",
+          "ex": [
+            "The workers put forward a new leader for the union.",
+            "Each school can put forward one student for the prize.",
+            "Who did the club put forward for treasurer?"
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "secret vote",
+          "def": "A vote where nobody knows how each person voted",
+          "ipa": "/ˈsikrət voʊt/",
+          "ex": [
+            "The club chose its new president in a secret vote.",
+            "Workers held a secret vote on the new contract.",
+            "In a secret vote, people can choose freely."
+          ]
+        },
+        {
+          "word": "five-year terms",
+          "def": "Periods of five years in an official job",
+          "ipa": "/faɪv jɪr tɜrmz/",
+          "ex": [
+            "Judges in that state serve five-year terms.",
+            "The bank's leaders have five-year terms.",
+            "Board members can serve two five-year terms."
+          ]
+        },
+        {
+          "word": "race",
+          "def": "A competition between people who want the same job",
+          "ipa": "/reɪs/",
+          "ex": [
+            "Three people are in the race for mayor.",
+            "She left the race after the first debate.",
+            "The race for class president was very close."
+          ]
+        },
+        {
+          "word": "permanent members",
+          "def": "Members who always keep their place in a group",
+          "ipa": "/ˈpɜrmənənt ˈmɛmbərz/",
+          "ex": [
+            "The committee has three permanent members and two new ones each year.",
+            "Only permanent members can vote on the budget.",
+            "The founders are permanent members of the club."
+          ]
+        },
+        {
+          "word": "veto",
+          "def": "To officially stop a decision or a choice",
+          "ipa": "/ˈvitoʊ/",
+          "ex": [
+            "The president can veto a new law.",
+            "My parents will veto any plan to camp alone.",
+            "The governor said she would veto the bill."
+          ]
+        },
+        {
+          "word": "secretary-general",
+          "def": "The top official of a large international group",
+          "ipa": "/ˈsɛkrəˌtɛri ˈdʒɛnərəl/",
+          "ex": [
+            "The secretary-general gave a speech about climate change.",
+            "Each secretary-general picks a team of advisers.",
+            "The secretary-general visited the flooded towns."
+          ]
+        },
+        {
+          "word": "informal",
+          "def": "Not official and not final",
+          "ipa": "/ɪnˈfɔrməl/",
+          "ex": [
+            "We had an informal meeting over coffee.",
+            "The class held an informal vote on the trip.",
+            "This is only an informal agreement for now."
+          ]
+        },
+        {
+          "word": "straw polls",
+          "def": "Unofficial votes that show what people think",
+          "ipa": "/strɔ poʊlz/",
+          "ex": [
+            "The teacher used straw polls to pick a movie.",
+            "Early straw polls showed a close race.",
+            "Straw polls are quick but not always correct."
+          ]
+        },
+        {
+          "word": "ballots",
+          "def": "Papers or cards that people use to vote",
+          "ipa": "/ˈbæləts/",
+          "ex": [
+            "Voters put their ballots in a large box.",
+            "The workers counted the ballots by hand.",
+            "Some ballots arrived by mail."
+          ]
+        },
+        {
+          "word": "in favor",
+          "def": "Supporting a plan or a person",
+          "ipa": "/ɪn ˈfeɪvər/",
+          "ex": [
+            "Most parents voted in favor of the new school.",
+            "Are you in favor of a shorter workweek?",
+            "Only two people were in favor of the idea."
+          ]
+        },
+        {
+          "word": "trade agency",
+          "def": "An office that works on buying and selling between countries",
+          "ipa": "/treɪd ˈeɪdʒənsi/",
+          "ex": [
+            "The trade agency helps small farms sell abroad.",
+            "She got a job at a government trade agency.",
+            "A trade agency report showed more exports."
+          ]
+        },
+        {
+          "word": "nuclear watchdog",
+          "def": "A group that checks how countries use nuclear power",
+          "ipa": "/ˈnukliər ˈwɑtʃˌdɔɡ/",
+          "ex": [
+            "The nuclear watchdog sent inspectors to the power plant.",
+            "A report from the nuclear watchdog raised new questions.",
+            "The nuclear watchdog asked for more access to the site."
+          ]
+        },
+        {
+          "word": "ambassador",
+          "def": "A person who officially represents their country in another place",
+          "ipa": "/æmˈbæsədər/",
+          "ex": [
+            "The ambassador met the president in the capital.",
+            "Her father was an ambassador in Japan.",
+            "The new ambassador gave her first speech."
+          ]
+        },
+        {
+          "word": "rotates",
+          "def": "Passes from one person or group to the next in turn",
+          "ipa": "/ˈroʊteɪts/",
+          "ex": [
+            "The job of team captain rotates every month.",
+            "In our office, the night shift rotates between workers.",
+            "The meeting place rotates among the members' homes."
+          ]
+        },
+        {
+          "word": "turn",
+          "def": "The time when it is right for someone to do or get something",
+          "ipa": "/tɜrn/",
+          "ex": [
+            "It's your turn to wash the dishes.",
+            "Wait for your turn to speak.",
+            "Next year it is our town's turn to host the fair."
+          ]
+        },
+        {
+          "word": "ideal",
+          "def": "As good as possible for a certain purpose",
+          "ipa": "/aɪˈdil/",
+          "ex": [
+            "This park is ideal for a family picnic.",
+            "He is not the ideal person for the job.",
+            "Spring is the ideal time to visit."
+          ]
+        },
+        {
+          "word": "administration",
+          "def": "The group of people who run a government",
+          "ipa": "/ədˌmɪnəˈstreɪʃən/",
+          "ex": [
+            "The new administration promised lower taxes.",
+            "The administration changed the rules on visas.",
+            "Many people left the administration after a year."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "The UN Security Council is choosing a new secretary-general, but no candidate yet has the support of all five veto powers. Even the top three each got two red votes against them.",
+          "a": true,
+          "why": "None of the seven has won over all five permanent members. The leading candidate came out on top, but she still got two red votes against her."
+        },
+        {
+          "s": "The General Assembly is stuck after a secret vote on seven people who want to lead the UN. Its new red ballots show which of its 193 countries voted against each candidate.",
+          "a": false,
+          "why": "Close, but the vote was held by the 15-member Security Council. Only its five permanent members used red ballots."
+        },
+        {
+          "s": "The UN General Assembly met in New York to talk about money problems at its agencies. Many countries promised to pay more to keep aid work in poor regions running next year.",
+          "a": false,
+          "why": "This is a different event. The council is choosing the next secretary-general, and no candidate has been able to win over all five veto powers so far."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The current UN leader will step down at the end of 2026.",
+          "a": true,
+          "why": "He will step down on December 31 after two five-year terms."
+        },
+        {
+          "s": "One candidate has won over all five permanent members of the council.",
+          "a": false,
+          "why": "None of the seven candidates has support from all five permanent members."
+        },
+        {
+          "s": "The red ballots let candidates find out if a powerful country is against them.",
+          "a": true,
+          "why": "The five permanent members used red ballots, so candidates can see their votes."
+        },
+        {
+          "s": "The candidate from Costa Rica came out on top in the poll.",
+          "a": true,
+          "why": "The head of the UN's trade agency led the poll again."
+        },
+        {
+          "s": "U.S. officials have ruled out backing any of the seven candidates.",
+          "a": false,
+          "why": "U.S. officials have not ruled out backing one of the seven, though they say none is ideal."
+        },
+        {
+          "s": "The U.S. and Russia said no new candidates can join the race.",
+          "a": false,
+          "why": "Their ambassadors said new candidates could still be put forward."
+        }
+      ]
+    },
+    {
       "id": "north-korea-ai-torpedo-2026",
       "number": 175,
       "headline": "North Korea says it tested an AI-guided torpedo",
