@@ -2,6 +2,500 @@
   "updated": "2026-10-23",
   "stories": [
     {
+      "id": "north-korea-ai-torpedo-2026",
+      "number": 175,
+      "headline": "North Korea says it tested an AI-guided torpedo",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n175-north-korea-ai-torpedo-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "North Korea says it tested new torpedo system with AI capabilities (AP News)",
+          "url": "https://apnews.com/article/b9856c5697a043f74586719974dad6cc"
+        },
+        {
+          "title": "North Korea says tested AI-assisted torpedo system (AFP, via Yahoo News)",
+          "url": "https://www.yahoo.com/news/world/articles/north-korea-says-tested-ai-014446351.html"
+        },
+        {
+          "title": "North Korea claims to have tested an AI-guided 'super-speed' torpedo (The Independent, via Yahoo News)",
+          "url": "https://sg.news.yahoo.com/north-korea-claims-tested-ai-114336164.html"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 17, 2026, North Korea's [[state media]] said the country had tested a new [[torpedo]] that uses artificial intelligence. The Korean Central News Agency said the test took place on October 15. It called the weapon a super-speed, [[precisely guided]] torpedo. AI helps the weapon find its [[target]], according to the report. But the report gave no details to {{back up}} the [[claim]]. North Korea has {{stepped up}} its weapons tests in recent weeks.",
+          "verbs": [
+            {
+              "display": "back up",
+              "base": "back up",
+              "correct": "To show that something is true",
+              "wrong": "To keep the test results secret",
+              "correctFirst": true,
+              "why": "Good reporters back up their stories with photos. Scientists back up their claims with data. North Korea gave no details to back up its claim about the AI torpedo."
+            },
+            {
+              "display": "stepped up",
+              "base": "step up",
+              "correct": "To increase the amount of something",
+              "wrong": "To film weapons tests for TV",
+              "correctFirst": false,
+              "why": "Cities step up police patrols during big events. A coach steps up practice before the big game. North Korea has stepped up its weapons tests in recent weeks."
+            }
+          ]
+        },
+        {
+          "text": "State media said the test checked the weapon's engine system, which was developed through more than 180 tests over five years. On October 14, the country {{carried out}} its first underwater missile tests in nearly three years. Experts say leader Kim Jong Un is shifting his [[focus]] to the [[navy]]. North Korea also wants to {{build up}} its supply of weapons that can beat [[missile defenses]] in South Korea and Japan.",
+          "verbs": [
+            {
+              "display": "carried out",
+              "base": "carry out",
+              "correct": "To do something that was planned",
+              "wrong": "To announce the results of a test",
+              "correctFirst": true,
+              "why": "Nurses carry out many tests every morning. Students carry out a survey about school lunches each year. On October 14, North Korea carried out its first underwater missile tests in nearly three years."
+            },
+            {
+              "display": "build up",
+              "base": "build up",
+              "correct": "To slowly make something bigger",
+              "wrong": "To sell weapons abroad",
+              "correctFirst": false,
+              "why": "Many young workers build up their savings slowly. A good coach builds up a strong group of young players. North Korea wants to build up its supply of weapons that can beat missile defenses."
+            }
+          ]
+        },
+        {
+          "text": "[[Outside experts]] are more [[cautious]]. A South Korean professor said the test seemed designed to {{show off}} a weapon that is hard to [[detect]]. He said AI could help a torpedo {{tell real targets apart}} from [[decoys]]. Another expert said the program may need more time. At [[high speeds]], a torpedo is noisy, and other ships can {{pick it up}}. North Korea has also been {{playing down}} South Korea's own fast missile test.",
+          "verbs": [
+            {
+              "display": "show off",
+              "base": "show off",
+              "correct": "To show something proudly so others notice",
+              "wrong": "To make a weapon cheaper to build",
+              "correctFirst": true,
+              "why": "He shows off his new car to all his friends. She shows off her engagement ring at work. A professor said the test seemed designed to show off a weapon that is hard to detect."
+            },
+            {
+              "display": "tell real targets apart",
+              "base": "tell apart",
+              "correct": "To see the difference between things",
+              "wrong": "To give each target a new name",
+              "correctFirst": false,
+              "why": "Most people tell the twins apart by their hair. Bank workers tell real money apart from fake money easily. A professor said AI could help a torpedo tell real targets apart from decoys."
+            },
+            {
+              "display": "pick it up",
+              "base": "pick up",
+              "correct": "To notice a sound or signal",
+              "wrong": "To make a loud warning sound",
+              "correctFirst": true,
+              "why": "Radar picks up planes from far away. A good microphone picks up every word. At high speeds, a torpedo is noisy, and other ships can pick it up."
+            },
+            {
+              "display": "playing down",
+              "base": "play down",
+              "correct": "To make something seem less important",
+              "wrong": "To copy another country's ideas",
+              "correctFirst": false,
+              "why": "A coach often plays down a loss and praises the players. She plays down her illness so her kids do not worry. North Korea has also been playing down South Korea's own fast missile test."
+            }
+          ]
+        },
+        {
+          "text": "Some experts believe North Korea is improving its [[guidance]] software. But they doubt that its weapons can choose targets on their own. South Korea's military, which often accuses the North of [[exaggerating]] its weapons, did not comment. Analysts say help from Russia may be {{speeding up}} North Korea's progress. Kim has {{cut off}} all talks and [[cooperation]] with South Korea. [[Nuclear talks]] with the United States {{broke down}} in 2019, and the [[stalemate]] has {{dragged on}} since then.",
+          "verbs": [
+            {
+              "display": "speeding up",
+              "base": "speed up",
+              "correct": "To make something happen faster",
+              "wrong": "To make something cost more money",
+              "correctFirst": true,
+              "why": "A new computer speeds up our work. Good weather speeds up building work. Analysts say help from Russia may be speeding up North Korea's progress."
+            },
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To stop all contact with someone",
+              "wrong": "To place more guards at a border",
+              "correctFirst": false,
+              "why": "After a big fight, some people cut off their old friends. Companies cut off business with suppliers who break the rules. Kim Jong Un has cut off all talks and cooperation with South Korea."
+            },
+            {
+              "display": "broke down",
+              "base": "break down",
+              "correct": "To fail and come to an end",
+              "wrong": "To be signed by both leaders",
+              "correctFirst": true,
+              "why": "Many marriages break down because of money problems. Business deals often break down at the last minute. Nuclear talks between North Korea and the United States broke down in 2019."
+            },
+            {
+              "display": "dragged on",
+              "base": "drag on",
+              "correct": "To continue for too long",
+              "wrong": "To be kept secret for years",
+              "correctFirst": false,
+              "why": "Long meetings often drag on for hours. Some strikes drag on all summer. The stalemate in nuclear talks has dragged on since 2019."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Back up",
+          "def": "To show that something is true",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "Scientists need data to back up their ideas.",
+            "Do you have receipts to back up your costs?",
+            "Her boss asked for numbers to back up the plan."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase the amount of something",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "Airports stepped up security checks this summer.",
+            "The store stepped up its online ads in December.",
+            "Doctors stepped up flu shots before winter."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do something that was planned",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "The doctor carried out a quick blood test.",
+            "Workers carried out repairs on the road at night.",
+            "The police carried out a search of the house."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To slowly make something bigger",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "Running every day helps you build up your strength.",
+            "The small shop slowly built up a group of loyal customers.",
+            "It takes years to build up a good name in business."
+          ]
+        },
+        {
+          "verb": "Show off",
+          "def": "To show something proudly so others notice",
+          "ipa": "/ʃoʊ ɔf/",
+          "ex": [
+            "The kids wanted to show off their new bikes.",
+            "He posted a photo to show off his new kitchen.",
+            "The city held a parade to show off its new buses."
+          ]
+        },
+        {
+          "verb": "Tell apart",
+          "def": "To see the difference between things",
+          "ipa": "/tɛl əˈpɑrt/",
+          "ex": [
+            "It's hard to tell the two brands apart.",
+            "Can you tell these two birds apart?",
+            "Only their mother can tell the puppies apart."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To notice a sound or signal",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "The radio picks up stations from three states.",
+            "Our camera picked up movement in the yard.",
+            "Dogs can pick up sounds that people can't hear."
+          ]
+        },
+        {
+          "verb": "Play down",
+          "def": "To make something seem less important",
+          "ipa": "/pleɪ daʊn/",
+          "ex": [
+            "The mayor played down the problems at the new airport.",
+            "He played down his injury and kept playing.",
+            "The company played down the bad sales numbers."
+          ]
+        },
+        {
+          "verb": "Speed up",
+          "def": "To make something happen faster",
+          "ipa": "/spid ʌp/",
+          "ex": [
+            "Can we speed up the meeting? I have a train to catch.",
+            "Extra workers helped speed up the repairs.",
+            "This app speeds up online shopping."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To stop all contact with someone",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The two countries cut off trade last year.",
+            "She cut off her ex after the breakup.",
+            "The club cut off all contact with its former coach."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To fail and come to an end",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "Peace talks broke down after only two days.",
+            "Our plans for a joint business broke down.",
+            "The talks between the workers and the company broke down again."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To continue for too long",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The trial dragged on for months.",
+            "The rainy season dragged on into June.",
+            "Long speeches always drag on at graduation."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "state media",
+          "def": "News outlets that a government owns or controls",
+          "ipa": "/steɪt ˈmidiə/",
+          "ex": [
+            "In some countries, state media is the only news people can get.",
+            "State media showed the president's speech live.",
+            "Many people do not trust state media."
+          ]
+        },
+        {
+          "word": "torpedo",
+          "def": "A long weapon that travels under water and hits ships",
+          "ipa": "/tɔrˈpidoʊ/",
+          "ex": [
+            "The old submarine could carry six torpedoes.",
+            "A torpedo moves through the water like a fish.",
+            "The museum has a real torpedo from World War II."
+          ]
+        },
+        {
+          "word": "precisely guided",
+          "def": "Steered very exactly to the right place",
+          "ipa": "/prɪˈsaɪsli ˈɡaɪdɪd/",
+          "ex": [
+            "The rocket was precisely guided to a small spot on the ground.",
+            "Precisely guided drones can drop boxes in a backyard.",
+            "The robot arm is precisely guided by a computer."
+          ]
+        },
+        {
+          "word": "target",
+          "def": "The thing that a weapon or attack is aimed at",
+          "ipa": "/ˈtɑrɡɪt/",
+          "ex": [
+            "The arrow hit the center of the target.",
+            "The army practices on a target in the desert.",
+            "The bridge was an easy target in the war."
+          ]
+        },
+        {
+          "word": "claim",
+          "def": "A statement that something is true, often without proof",
+          "ipa": "/kleɪm/",
+          "ex": [
+            "The company's claim about its pills was false.",
+            "Police are checking his claim that he was at home.",
+            "Her claim that she won the race was true."
+          ]
+        },
+        {
+          "word": "focus",
+          "def": "The main thing that you pay attention to",
+          "ipa": "/ˈfoʊkəs/",
+          "ex": [
+            "Her focus this year is on her studies.",
+            "The new mayor made schools his main focus.",
+            "The meeting's focus was the budget."
+          ]
+        },
+        {
+          "word": "navy",
+          "def": "A country's ships and sailors that fight at sea",
+          "ipa": "/ˈneɪvi/",
+          "ex": [
+            "My uncle served in the navy for 20 years.",
+            "The navy sent two ships to help after the storm.",
+            "She joined the navy right after high school."
+          ]
+        },
+        {
+          "word": "missile defenses",
+          "def": "Systems that stop missiles before they hit",
+          "ipa": "/ˈmɪsəl dɪˈfɛnsɪz/",
+          "ex": [
+            "The country spent billions on new missile defenses.",
+            "Missile defenses protect the city from attacks.",
+            "Japan and South Korea both have missile defenses."
+          ]
+        },
+        {
+          "word": "Outside experts",
+          "def": "Experts who do not work for the group they are talking about",
+          "ipa": "/ˈaʊtˌsaɪd ˈɛkspərts/",
+          "ex": [
+            "Outside experts checked the company's safety report.",
+            "The school asked outside experts to review its tests.",
+            "Outside experts said the new bridge was safe."
+          ]
+        },
+        {
+          "word": "cautious",
+          "def": "Careful because you do not want to make a mistake",
+          "ipa": "/ˈkɔʃəs/",
+          "ex": [
+            "Be cautious when you drive on icy roads.",
+            "My father is cautious with his money.",
+            "Doctors are cautious about new medicines."
+          ]
+        },
+        {
+          "word": "detect",
+          "def": "To find or notice something that is hard to see",
+          "ipa": "/dɪˈtɛkt/",
+          "ex": [
+            "The machine can detect smoke in the air.",
+            "Dogs can detect some illnesses by smell.",
+            "The test can detect the virus early."
+          ]
+        },
+        {
+          "word": "decoys",
+          "def": "Fake objects used to trick someone",
+          "ipa": "/ˈdiˌkɔɪz/",
+          "ex": [
+            "Hunters put wooden decoys on the lake.",
+            "The farmer used plastic owls as decoys to scare birds.",
+            "The army used decoys to confuse the enemy."
+          ]
+        },
+        {
+          "word": "high speeds",
+          "def": "Very fast rates of movement",
+          "ipa": "/haɪ spidz/",
+          "ex": [
+            "Trains in Japan travel at high speeds.",
+            "Driving at high speeds in the rain is dangerous.",
+            "The fan makes noise at high speeds."
+          ]
+        },
+        {
+          "word": "guidance",
+          "def": "The system that controls where a weapon or vehicle goes",
+          "ipa": "/ˈɡaɪdəns/",
+          "ex": [
+            "The rocket's guidance failed, and it fell into the sea.",
+            "Self-driving cars need very good guidance systems.",
+            "Engineers fixed a problem in the drone's guidance."
+          ]
+        },
+        {
+          "word": "exaggerating",
+          "def": "Saying that something is bigger or better than it really is",
+          "ipa": "/ɪɡˈzædʒəˌreɪtɪŋ/",
+          "ex": [
+            "He's exaggerating when he says he waited ten hours.",
+            "Stop exaggerating; the test wasn't that hard.",
+            "She was not exaggerating about the long line."
+          ]
+        },
+        {
+          "word": "cooperation",
+          "def": "Working together with others to do something",
+          "ipa": "/koʊˌɑpəˈreɪʃən/",
+          "ex": [
+            "The project needs cooperation between the two cities.",
+            "Thanks for your cooperation during the fire drill.",
+            "Cooperation between doctors and nurses saves lives."
+          ]
+        },
+        {
+          "word": "Nuclear talks",
+          "def": "Meetings between countries about nuclear weapons",
+          "ipa": "/ˈnukliər tɔks/",
+          "ex": [
+            "Nuclear talks between the two countries began in Geneva.",
+            "Nuclear talks often last for many years.",
+            "The leaders hope nuclear talks will reduce the danger."
+          ]
+        },
+        {
+          "word": "stalemate",
+          "def": "A situation where neither side can make progress",
+          "ipa": "/ˈsteɪlˌmeɪt/",
+          "ex": [
+            "The game ended in a stalemate.",
+            "The city and the workers are in a stalemate over pay.",
+            "Lawmakers ended the stalemate and passed the budget."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "North Korea says a new torpedo uses AI to find its targets, but it did not explain how. Outside experts are doubtful and warn that the fast weapon may still be too noisy.",
+          "a": true,
+          "why": "State media gave no details to back up the claim. Experts doubt the weapons can choose targets alone, and one says the torpedo is noisy."
+        },
+        {
+          "s": "Experts confirm that North Korea's latest underwater weapon can choose and strike ships by itself. They believe the test puts Pyongyang far ahead of Seoul in the race at sea.",
+          "a": false,
+          "why": "Close, but the AI claim comes only from state media. Outside experts doubt that North Korea's weapons can choose targets on their own."
+        },
+        {
+          "s": "South Korea has launched a large submarine that can stay below the surface for weeks. Its navy says the boat will patrol the coast and protect fishing crews during storms.",
+          "a": false,
+          "why": "This story is about North Korea's claim that AI guides its new torpedo, and about why outside experts are cautious."
+        }
+      ],
+      "tf": [
+        {
+          "s": "North Korea says AI helps its new torpedo find its target.",
+          "a": true,
+          "why": "State media made this claim, but it gave no details to back it up."
+        },
+        {
+          "s": "State media gave many details to back up its AI claim.",
+          "a": false,
+          "why": "It gave no details to back up the claim, and it did not explain how the AI works."
+        },
+        {
+          "s": "North Korea has stepped up its weapons tests in recent weeks.",
+          "a": true,
+          "why": "It also carried out its first underwater missile tests in nearly three years."
+        },
+        {
+          "s": "An expert says the fast torpedo is very quiet under water.",
+          "a": false,
+          "why": "He says the program may need more time. At high speeds, a torpedo is noisy, and other ships can pick it up."
+        },
+        {
+          "s": "Kim Jong Un has cut off all talks with South Korea.",
+          "a": true,
+          "why": "He has stopped all talks and cooperation with South Korea."
+        },
+        {
+          "s": "North Korea and the United States are holding nuclear talks again.",
+          "a": false,
+          "why": "Those talks broke down in 2019, and the stalemate has dragged on since then."
+        }
+      ]
+    },
+    {
       "id": "exercise-before-weight-loss-2026",
       "number": 174,
       "headline": "Exercise changed fat in mice before weight loss",
