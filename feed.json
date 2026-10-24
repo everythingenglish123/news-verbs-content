@@ -2,6 +2,500 @@
   "updated": "2026-10-24",
   "stories": [
     {
+      "id": "forgotten-apples-return-2026",
+      "number": 178,
+      "headline": "Forgotten old apples may return to Austrian stores",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n178-forgotten-apples-return-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Spar und Frutura testen Anbau alter Apfelsorten (Vienna.at)",
+          "url": "https://www.vienna.at/spar-und-frutura-testen-anbau-alter-apfelsorten/10544285"
+        },
+        {
+          "title": "Core values: the Austrian scheme bringing forgotten apple varieties back to life (The Guardian)",
+          "url": "https://www.theguardian.com/food/2026/oct/19/core-values-the-austrian-scheme-bringing-forgotten-apple-varieties-back-to-life"
+        },
+        {
+          "title": "Major Supermarket Begins Wide-Scale Tests to Bring Heritage Apple Varieties to Market (Good News Network)",
+          "url": "https://www.goodnewsnetwork.org/major-supermarket-begins-wide-scale-tests-to-bring-heritage-apple-varieties-to-market/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Apples that Austrians ate more than 100 years ago may soon return to stores. On October 14, 2026, one of Austria's biggest [[supermarket chains]] presented a [[test project]] with the country's largest fruit and vegetable [[supplier]]. They want to {{bring back}} forgotten apple [[varieties]]. Austria has about 2,000 kinds of apples, but stores sell only about ten. War, [[industrial farming]] and [[a taste for]] sweet fruit nearly {{wiped out}} many old types.",
+          "verbs": [
+            {
+              "display": "bring back",
+              "base": "bring back",
+              "correct": "To make something exist again",
+              "wrong": "To sell something for less",
+              "correctFirst": true,
+              "why": "Many towns bring back old festivals in the summer. Some stores bring back popular snacks every fall. Two companies in Austria want to bring back forgotten apple varieties."
+            },
+            {
+              "display": "wiped out",
+              "base": "wipe out",
+              "correct": "To destroy something completely",
+              "wrong": "To change the taste of something",
+              "correctFirst": false,
+              "why": "Hungry insects wipe out whole fields of corn in some years. A bad storm sometimes wipes out a town's power lines. War, industrial farming and a taste for sweet fruit nearly wiped out many old apple types."
+            }
+          ]
+        },
+        {
+          "text": "A team at the chain that works to protect bees {{came up with}} the idea in 2023. The chain's [[deputy chair]] said the reason is not [[romantic]]. It is about [[biodiversity]], the variety of plant and animal life. Experts from a group that saves [[rare plants]] helped {{narrow the list down}} to two varieties from the 1800s. One may no longer grow anywhere [[in the wild]]. The supplier had to travel to a [[research center]] in northern Italy to {{track down}} its trees.",
+          "verbs": [
+            {
+              "display": "came up with",
+              "base": "come up with",
+              "correct": "To create a new idea or plan",
+              "wrong": "To test an idea on a small farm",
+              "correctFirst": true,
+              "why": "My sister comes up with fun games for the kids. Good teachers come up with new ways to explain hard ideas. A team at the chain that works to protect bees came up with the idea in 2023."
+            },
+            {
+              "display": "narrow the list down",
+              "base": "narrow down",
+              "correct": "To make a list of choices shorter",
+              "wrong": "To put a list in the right order",
+              "correctFirst": false,
+              "why": "We narrow the list down to three hotels before we book. The judges narrow the singers down to ten. Experts helped narrow the list down to two old apple varieties."
+            },
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find something after a long search",
+              "wrong": "To order something on the internet",
+              "correctFirst": true,
+              "why": "My dad tracks down old records at yard sales. The police track down stolen cars with cameras. The supplier traveled to northern Italy to track down the trees of one old variety."
+            }
+          ]
+        },
+        {
+          "text": "The supplier {{put in}} about 2,150 trees. Three years later, they gave their first [[harvest]], roughly one metric ton of apples. The larger apple has a [[deep red]] color. The other is smaller and [[paler]]. A manager at the supplier said both remind people of the apples they ate {{growing up}}. The team wants to {{find out}} how well the apples {{hold up}} in [[storage]]. It will also test how well the trees fight disease.",
+          "verbs": [
+            {
+              "display": "put in",
+              "base": "put in",
+              "correct": "To plant something in the ground",
+              "wrong": "To water plants every day",
+              "correctFirst": false,
+              "why": "Many families put in a vegetable garden every spring. Farmers put in new trees when old ones die. The supplier put in about 2,150 trees, and after three years they gave their first harvest."
+            },
+            {
+              "display": "growing up",
+              "base": "grow up",
+              "correct": "To become an adult",
+              "wrong": "To start farm work",
+              "correctFirst": true,
+              "why": "Many children grow up with a pet in the house. Kids grow up fast in big families. A manager said both apples remind people of the apples they ate growing up."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact or the truth",
+              "wrong": "To guess what will happen",
+              "correctFirst": false,
+              "why": "Students find out their test scores on Friday. Most people find out the news on their phones. The team wants to find out how well the old apples last in storage."
+            },
+            {
+              "display": "hold up",
+              "base": "hold up",
+              "correct": "To stay good for a long time",
+              "wrong": "To get bigger and sweeter",
+              "correctFirst": true,
+              "why": "Cheap shoes do not hold up in the rain. Good jeans hold up for years. The team wants to see how well the old apples hold up in storage."
+            }
+          ]
+        },
+        {
+          "text": "Only a little of the first harvest will reach a store in Vienna. Most of the fruit will probably {{end up}} with the two companies. The old apples will cost a little more than others. Still, the deputy chair promised that everyone can [[afford]] them. Nobody knows yet whether they will {{catch on}} with shoppers. The same manager says farming mixes new ideas with knowledge {{passed down}} through [[generations]].",
+          "verbs": [
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To finally arrive somewhere",
+              "wrong": "To be sold far away",
+              "correctFirst": false,
+              "why": "Lost phones often end up at the front desk. Old clothes sometimes end up in a store for used goods. Most of the first apples will probably end up with the two companies."
+            },
+            {
+              "display": "catch on",
+              "base": "catch on",
+              "correct": "To become popular",
+              "wrong": "To become cheaper",
+              "correctFirst": true,
+              "why": "New dance moves catch on fast with teenagers. Some new foods never catch on in small towns. Nobody knows yet whether the old apples will catch on with shoppers."
+            },
+            {
+              "display": "passed down",
+              "base": "pass down",
+              "correct": "To give to the next generation",
+              "wrong": "To keep as a family secret",
+              "correctFirst": false,
+              "why": "Parents pass down family recipes to their children. Many families pass down old jewelry to their daughters. The manager says farming mixes new ideas with knowledge passed down through generations."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Bring back",
+          "def": "To make something exist again",
+          "ipa": "/brɪŋ bæk/",
+          "ex": [
+            "The city wants to bring back its old streetcars.",
+            "Fans asked the TV channel to bring back their favorite show.",
+            "Our school decided to bring back the spring dance."
+          ]
+        },
+        {
+          "verb": "Wipe out",
+          "def": "To destroy something completely",
+          "ipa": "/waɪp aʊt/",
+          "ex": [
+            "A disease wiped out most of the town's elm trees.",
+            "The flood wiped out the farmer's whole crop.",
+            "Hunting almost wiped out the wolves in that state."
+          ]
+        },
+        {
+          "verb": "Come up with",
+          "def": "To create a new idea or plan",
+          "ipa": "/kʌm ʌp wɪð/",
+          "ex": [
+            "We need to come up with a name for the new dog.",
+            "She came up with a smart way to save money.",
+            "Can you come up with a better plan?"
+          ]
+        },
+        {
+          "verb": "Narrow down",
+          "def": "To make a list of choices shorter",
+          "ipa": "/ˈnæroʊ daʊn/",
+          "ex": [
+            "I narrowed my choices down to two colleges.",
+            "Let's narrow down the list of restaurants.",
+            "The police narrowed the suspects down to three people."
+          ]
+        },
+        {
+          "verb": "Track down",
+          "def": "To find something after a long search",
+          "ipa": "/træk daʊn/",
+          "ex": [
+            "I finally tracked down my old college roommate.",
+            "It took weeks to track down the right part for my car.",
+            "She tracked down a copy of her grandmother's favorite book."
+          ]
+        },
+        {
+          "verb": "Put in",
+          "def": "To plant something in the ground",
+          "ipa": "/pʊt ɪn/",
+          "ex": [
+            "We put in tomatoes and beans this spring.",
+            "The city put in new trees along Main Street.",
+            "My neighbor put in a row of rose bushes."
+          ]
+        },
+        {
+          "verb": "Grow up",
+          "def": "To become an adult",
+          "ipa": "/ɡroʊ ʌp/",
+          "ex": [
+            "I grew up in a small town in Ohio.",
+            "My kids want to be doctors when they grow up.",
+            "He grew up speaking two languages."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact or the truth",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I called the store to find out when it opens.",
+            "We found out the truth a week later.",
+            "Did you find out who won the game?"
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To stay good for a long time",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "These boots held up well after five winters.",
+            "Fresh bread does not hold up for more than a few days.",
+            "These plastic chairs held up well in the hot sun."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally arrive somewhere",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "Most of our trash ends up in a landfill.",
+            "We got lost and ended up in the wrong town.",
+            "Where did my keys end up?"
+          ]
+        },
+        {
+          "verb": "Catch on",
+          "def": "To become popular",
+          "ipa": "/kætʃ ɑn/",
+          "ex": [
+            "The new phone app caught on quickly with students.",
+            "Paper straws never really caught on in our town.",
+            "Do you think this new sport will catch on?"
+          ]
+        },
+        {
+          "verb": "Pass down",
+          "def": "To give to the next generation",
+          "ipa": "/pæs daʊn/",
+          "ex": [
+            "My grandmother passed her ring down to my mother.",
+            "Stories are often passed down from parents to children.",
+            "This old table was passed down in our family."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "supermarket chains",
+          "def": "Groups of food stores with the same name and owner",
+          "ipa": "/ˈsupərˌmɑrkɪt tʃeɪnz/",
+          "ex": [
+            "Big supermarket chains often sell their own brands.",
+            "Two supermarket chains opened stores on our street.",
+            "Some supermarket chains now offer free delivery."
+          ]
+        },
+        {
+          "word": "test project",
+          "def": "A small plan to try something before doing it on a large scale",
+          "ipa": "/tɛst ˈprɑdʒɛkt/",
+          "ex": [
+            "The city started a test project with electric buses.",
+            "Our school ran a test project with shorter lunch breaks.",
+            "If the test project works, the company will hire more workers."
+          ]
+        },
+        {
+          "word": "supplier",
+          "def": "A company that sells goods to other businesses",
+          "ipa": "/səˈplaɪər/",
+          "ex": [
+            "The restaurant found a new supplier for its fish.",
+            "Our paper supplier raised its prices.",
+            "The bakery buys flour from a local supplier."
+          ]
+        },
+        {
+          "word": "varieties",
+          "def": "Different types of the same plant or thing",
+          "ipa": "/vəˈraɪətiz/",
+          "ex": [
+            "The farm grows six varieties of potatoes.",
+            "Some varieties of roses smell stronger than others.",
+            "This shop sells many varieties of tea."
+          ]
+        },
+        {
+          "word": "industrial farming",
+          "def": "Growing food on very large farms with machines and chemicals",
+          "ipa": "/ɪnˈdʌstriəl ˈfɑrmɪŋ/",
+          "ex": [
+            "Industrial farming produces a lot of cheap food.",
+            "Some people worry that industrial farming hurts the soil.",
+            "Small farms find it hard to compete with industrial farming."
+          ]
+        },
+        {
+          "word": "a taste for",
+          "def": "A liking for a certain kind of food or thing",
+          "ipa": "/ə teɪst fɔr/",
+          "ex": [
+            "My son has a taste for spicy food.",
+            "She developed a taste for coffee in college.",
+            "Living in Paris gave him a taste for good bread."
+          ]
+        },
+        {
+          "word": "deputy chair",
+          "def": "The person who is second in charge of a company's board",
+          "ipa": "/ˈdɛpjəti tʃɛr/",
+          "ex": [
+            "The deputy chair led the meeting while the boss was away.",
+            "She was named deputy chair of the bank last year.",
+            "The deputy chair answered questions from reporters."
+          ]
+        },
+        {
+          "word": "romantic",
+          "def": "Based on warm feelings about the past, not on practical reasons",
+          "ipa": "/roʊˈmæntɪk/",
+          "ex": [
+            "He has a romantic idea of life on a farm.",
+            "Her reasons for buying the old car were romantic.",
+            "Many people have a romantic view of small towns."
+          ]
+        },
+        {
+          "word": "biodiversity",
+          "def": "The variety of plants and animals living in a place",
+          "ipa": "/ˌbaɪoʊdaɪˈvɜrsəti/",
+          "ex": [
+            "Rain forests have very high biodiversity.",
+            "Pollution can harm the biodiversity of a lake.",
+            "The park protects the biodiversity of the area."
+          ]
+        },
+        {
+          "word": "rare plants",
+          "def": "Plants that are hard to find because few of them still exist",
+          "ipa": "/rɛr plænts/",
+          "ex": [
+            "The garden grows rare plants from around the world.",
+            "It is against the law to pick rare plants in the park.",
+            "She takes photos of rare plants on her hikes."
+          ]
+        },
+        {
+          "word": "in the wild",
+          "def": "In nature, not on a farm or in a zoo",
+          "ipa": "/ɪn ðə waɪld/",
+          "ex": [
+            "Pandas are hard to find in the wild.",
+            "These flowers grow in the wild in the mountains.",
+            "Few of these birds still live in the wild."
+          ]
+        },
+        {
+          "word": "research center",
+          "def": "A place where experts study things and do tests",
+          "ipa": "/ˈrisɜrtʃ ˈsɛntər/",
+          "ex": [
+            "She works at a cancer research center in Boston.",
+            "The university opened a new research center for clean energy.",
+            "Scientists at the research center study ocean water."
+          ]
+        },
+        {
+          "word": "harvest",
+          "def": "The fruit or crops picked from plants in one season",
+          "ipa": "/ˈhɑrvɪst/",
+          "ex": [
+            "The corn harvest was small because of the dry summer.",
+            "Farmers sell most of their harvest at the market.",
+            "This year's grape harvest was very good."
+          ]
+        },
+        {
+          "word": "deep red",
+          "def": "A dark, strong red color",
+          "ipa": "/dip rɛd/",
+          "ex": [
+            "She painted the front door deep red.",
+            "The leaves turn deep red in October.",
+            "He wore a deep red tie to the wedding."
+          ]
+        },
+        {
+          "word": "paler",
+          "def": "Lighter in color",
+          "ipa": "/ˈpeɪlər/",
+          "ex": [
+            "Her face looked paler after a week in bed.",
+            "I want a paler blue for the kitchen walls.",
+            "The sky gets paler just before the sun comes up."
+          ]
+        },
+        {
+          "word": "storage",
+          "def": "Keeping things in a place until you need them",
+          "ipa": "/ˈstɔrɪdʒ/",
+          "ex": [
+            "Potatoes need cool, dark storage.",
+            "We put our winter clothes in storage.",
+            "Apples last longer in cold storage."
+          ]
+        },
+        {
+          "word": "afford",
+          "def": "To have enough money to pay for something",
+          "ipa": "/əˈfɔrd/",
+          "ex": [
+            "We can't afford a new car this year.",
+            "Many students can't afford to live alone.",
+            "She saved for months so she could afford the trip."
+          ]
+        },
+        {
+          "word": "generations",
+          "def": "Groups of people born and living at about the same time",
+          "ipa": "/ˌdʒɛnəˈreɪʃənz/",
+          "ex": [
+            "Three generations live together in their house.",
+            "The family has owned the farm for four generations.",
+            "This song is loved by many generations."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A large Austrian store chain is testing two apple types that people grew long ago. The goal is more variety on shelves, but nobody knows yet if shoppers will want them.",
+          "a": true,
+          "why": "The chain and a big supplier want to bring back forgotten apples. The first harvest is small, and it is not clear if the apples will catch on."
+        },
+        {
+          "s": "An Austrian supermarket wants old apple types mainly because they cost less to grow. Its leaders hope this will let them sell fruit at lower prices than other stores.",
+          "a": false,
+          "why": "Close, but the project is about biodiversity, not saving money. The old apples will also cost a little more than other apples."
+        },
+        {
+          "s": "Scientists in Austria have created a new apple that stays fresh for a full year. Farmers plan to plant it widely because it needs far less water than older kinds.",
+          "a": false,
+          "why": "This story is about testing very old apple types. Experts helped narrow the list down to two varieties from the 1800s."
+        }
+      ],
+      "tf": [
+        {
+          "s": "A supermarket chain wants to bring back forgotten apple varieties.",
+          "a": true,
+          "why": "The chain and Austria's largest fruit and vegetable supplier are testing old apple types."
+        },
+        {
+          "s": "Only a few of Austria's many apple varieties are sold in stores.",
+          "a": true,
+          "why": "Austria has about 2,000 kinds, but only about ten are in stores. Many old types were nearly wiped out."
+        },
+        {
+          "s": "The project started because the chain's leaders felt romantic about the past.",
+          "a": false,
+          "why": "The deputy chair said the reason is biodiversity, not romance. A team that works to protect bees came up with the idea."
+        },
+        {
+          "s": "The team wants to find out how well the old apples hold up in storage.",
+          "a": true,
+          "why": "The team is checking how long the apples stay fresh. It will also test how well the trees fight disease."
+        },
+        {
+          "s": "Most of the first harvest will be sold in stores across Austria.",
+          "a": false,
+          "why": "Only a small amount will reach one store in Vienna. Most of the fruit will probably end up with the two companies."
+        },
+        {
+          "s": "It is still not clear whether the old apples will catch on with shoppers.",
+          "a": true,
+          "why": "Nobody knows yet how shoppers will feel about the apples, which will cost a little more than others."
+        }
+      ]
+    },
+    {
       "id": "museums-hotels-vr-2026",
       "number": 177,
       "headline": "Museums branch out into hotels and virtual reality",
