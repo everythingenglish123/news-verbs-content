@@ -2,6 +2,482 @@
   "updated": "2026-10-25",
   "stories": [
     {
+      "id": "serbia-election-result-2026",
+      "number": 183,
+      "headline": "Serbia's longtime leader admits defeat to students",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n183-serbia-election-result-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Serbia's Vucic concedes defeat to student-led movement in parliamentary elections (RTE, Reuters)",
+          "url": "https://www.rte.ie/news/2026/1025/1596799-serbia-parliamentary-elections/"
+        },
+        {
+          "title": "Vucic Concedes Serbia Election Defeat as Student List Claims 135-140 Seats (Novinite)",
+          "url": "https://www.novinite.com/articles/241255/Vucic+Concedes+Serbia+Election+Defeat+as+Student+List+Claims+135-140+Seats"
+        },
+        {
+          "title": "Serbia holds parliamentary election as populist leader Vucic faces student movement (France 24)",
+          "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Serbia held an early parliamentary election on October 25, 2026. Voters {{showed up}} in large numbers, and news reports said [[turnout]] was the highest since 1992. That evening, the country's longtime leader [[admitted defeat]]. He said a list backed by the student protest movement had won. He added that the [[final results]] were not ready. Celebrations soon {{broke out}} in Belgrade and other cities. Drivers [[honked their horns]] as young people [[chanted]] \"Victory!\"",
+          "verbs": [
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To come to a place to take part",
+              "wrong": "To send a vote by mail",
+              "correctFirst": true,
+              "why": "Most of the class shows up early on test days. Few people show up for the game when it rains. Voters showed up in large numbers on October 25, 2026."
+            },
+            {
+              "display": "broke out",
+              "base": "break out",
+              "correct": "To start suddenly",
+              "wrong": "To be held in a big stadium",
+              "correctFirst": false,
+              "why": "Laughter often breaks out in her class. Applause breaks out when the home team scores. Celebrations broke out in Belgrade and other cities that evening."
+            }
+          ]
+        },
+        {
+          "text": "The leader's numbers came from a [[sample]] of [[polling stations]], not a [[full count]]. He said the student-led list would win 135 to 140 of the 250 [[seats]] in parliament. He expected his own list to win about 105. The first official [[figures]] {{came in}} from only about 200 polling stations and showed his side ahead. A list needs 126 seats to [[govern]] alone. If his [[estimate]] is correct, the student-led list could {{take over}} the government.",
+          "verbs": [
+            {
+              "display": "came in",
+              "base": "come in",
+              "correct": "To arrive or be received",
+              "wrong": "To be checked a second time",
+              "correctFirst": true,
+              "why": "Orders come in all day at the pizza shop. Votes from small towns come in slowly. The first official figures came in from only about 200 polling stations."
+            },
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To take control of something",
+              "wrong": "To share power with others",
+              "correctFirst": false,
+              "why": "A new principal takes over the school when the old one retires. Big companies often take over smaller ones. If his estimate is correct, the student-led list could take over the government."
+            }
+          ]
+        },
+        {
+          "text": "Earlier that day, the leader said his side would accept the [[will of the voters]] if it lost. Later, he said his party would {{carry on}} fighting as the [[opposition]]. The student movement asked [[supporters]] to stay calm. It told them to {{stay away}} from areas with many police officers. It also asked people to help watch the count. The list says it wants to {{crack down on}} [[corruption]] and improve schools.",
+          "verbs": [
+            {
+              "display": "carry on",
+              "base": "carry on",
+              "correct": "To continue doing something",
+              "wrong": "To start a new party",
+              "correctFirst": true,
+              "why": "She carries on with her work after the baby falls asleep. The band carries on playing during the storm. The leader said his party would carry on fighting as the opposition."
+            },
+            {
+              "display": "stay away",
+              "base": "stay away",
+              "correct": "To not go near a place",
+              "wrong": "To go home before dark",
+              "correctFirst": false,
+              "why": "Small children stay away from the hot stove. Many people stay away from busy stores on weekends. The student movement told supporters to stay away from areas with many police officers."
+            },
+            {
+              "display": "crack down on",
+              "base": "crack down on",
+              "correct": "To act strongly to stop something",
+              "wrong": "To study something very closely",
+              "correctFirst": true,
+              "why": "The city cracks down on drivers who speed near schools. Many teachers crack down on cheating during exams. The student-led list says it wants to crack down on corruption."
+            }
+          ]
+        },
+        {
+          "text": "Official results from the election commission {{come out}} in the days after the vote. Then the new parliament must meet and vote on a prime minister. Forming a new government can {{drag on}} for weeks. On election night, the list had not {{put forward}} a [[candidate]] for prime minister. On October 20, its leader, a [[heart doctor]], said the list had more than one candidate for every job. Serbians will then {{find out}} who leads their next government.",
+          "verbs": [
+            {
+              "display": "come out",
+              "base": "come out",
+              "correct": "To be made public",
+              "wrong": "To be kept in a safe place",
+              "correctFirst": false,
+              "why": "Test scores come out every summer. The new job numbers come out each Friday. Official results from the election commission come out in the days after the vote."
+            },
+            {
+              "display": "drag on",
+              "base": "drag on",
+              "correct": "To last longer than people want",
+              "wrong": "To be shown on live television",
+              "correctFirst": true,
+              "why": "Some work meetings drag on for hours. In some years, the cold weather drags on into April. Forming a new government in Serbia can drag on for weeks."
+            },
+            {
+              "display": "put forward",
+              "base": "put forward",
+              "correct": "To name someone as a choice for a job",
+              "wrong": "To thank someone for their hard work",
+              "correctFirst": false,
+              "why": "Each party puts forward a candidate for mayor. The coach puts forward two players for team captain. On election night, the list had not put forward a candidate for prime minister."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact",
+              "wrong": "To vote a second time",
+              "correctFirst": true,
+              "why": "Students find out their grades online. Most people find out the news on their phones. Serbians will then find out who leads their next government."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Show up",
+          "def": "To come to a place to take part",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "Only six people showed up for the meeting.",
+            "Please show up ten minutes before the class starts.",
+            "Thousands of fans showed up at the airport to see the team."
+          ]
+        },
+        {
+          "verb": "Break out",
+          "def": "To start suddenly",
+          "ipa": "/breɪk aʊt/",
+          "ex": [
+            "A fire broke out in the kitchen of the hotel.",
+            "Loud clapping broke out when the singer walked on stage.",
+            "Laughter broke out after the teacher's joke."
+          ]
+        },
+        {
+          "verb": "Come in",
+          "def": "To arrive or be received",
+          "ipa": "/kʌm ɪn/",
+          "ex": [
+            "Calls came in all night after the storm.",
+            "Job applications keep coming in every day.",
+            "The test results came in this morning."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To take control of something",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "A bigger company plans to take over the small bakery.",
+            "Her son will take over the shop next year.",
+            "The new coach took over the team in June."
+          ]
+        },
+        {
+          "verb": "Carry on",
+          "def": "To continue doing something",
+          "ipa": "/ˈkæri ɑn/",
+          "ex": [
+            "Please carry on with your work while I make a call.",
+            "He carried on talking after the bell rang.",
+            "We carried on walking even though it was cold."
+          ]
+        },
+        {
+          "verb": "Stay away",
+          "def": "To not go near a place",
+          "ipa": "/steɪ əˈweɪ/",
+          "ex": [
+            "Doctors tell people to stay away from smoke.",
+            "I stay away from that road when it snows.",
+            "Please stay away from the edge of the pool."
+          ]
+        },
+        {
+          "verb": "Crack down on",
+          "def": "To act strongly to stop something",
+          "ipa": "/kræk daʊn ɑn/",
+          "ex": [
+            "Police plan to crack down on drunk driving.",
+            "The school cracked down on phones in class.",
+            "The city wants to crack down on people who leave trash in parks."
+          ]
+        },
+        {
+          "verb": "Come out",
+          "def": "To be made public",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "The news came out late at night.",
+            "When does the new report come out?",
+            "The truth about the plan came out a year later."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To last longer than people want",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The trial dragged on for two years.",
+            "The meeting dragged on until dinner time.",
+            "I hope this cold weather doesn't drag on much longer."
+          ]
+        },
+        {
+          "verb": "Put forward",
+          "def": "To name someone as a choice for a job",
+          "ipa": "/pʊt ˈfɔrwərd/",
+          "ex": [
+            "The board put forward three people for the top job.",
+            "Her boss put her name forward for a new position.",
+            "Each class can put forward one student for the prize."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I found out the store was closed.",
+            "Call the office to find out the price.",
+            "She found out she got the job on Friday."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "turnout",
+          "def": "The number of people who vote in an election",
+          "ipa": "/ˈtɝnˌaʊt/",
+          "ex": [
+            "Turnout is often low when it rains.",
+            "The town hopes for a high turnout next month.",
+            "Young voters helped raise the turnout."
+          ]
+        },
+        {
+          "word": "admitted defeat",
+          "def": "Said openly that you have lost",
+          "ipa": "/ədˈmɪtɪd dɪˈfit/",
+          "ex": [
+            "After the third game, the team admitted defeat.",
+            "She admitted defeat and asked her brother for help with the puzzle.",
+            "He finally admitted defeat and bought a new phone."
+          ]
+        },
+        {
+          "word": "final results",
+          "def": "The last and complete numbers after everything is counted",
+          "ipa": "/ˈfaɪnəl rɪˈzʌlts/",
+          "ex": [
+            "The final results of the race were posted online.",
+            "We will know the final results on Monday.",
+            "The final results showed a close win."
+          ]
+        },
+        {
+          "word": "honked their horns",
+          "def": "Made a loud noise with a car horn",
+          "ipa": "/hɑŋkt ðɛr hɔrnz/",
+          "ex": [
+            "Drivers honked their horns at the slow bus.",
+            "Fans honked their horns after the big win.",
+            "The taxi drivers honked their horns in the traffic."
+          ]
+        },
+        {
+          "word": "chanted",
+          "def": "Said the same words again and again in a loud voice",
+          "ipa": "/ˈtʃæntɪd/",
+          "ex": [
+            "The fans chanted the team's name.",
+            "The children chanted a song on the bus.",
+            "Workers chanted outside the factory."
+          ]
+        },
+        {
+          "word": "sample",
+          "def": "A small part of a group used to learn about the whole group",
+          "ipa": "/ˈsæmpəl/",
+          "ex": [
+            "The survey used a sample of 1,000 adults.",
+            "Doctors tested a sample of the water.",
+            "A small sample can still give useful answers."
+          ]
+        },
+        {
+          "word": "polling stations",
+          "def": "Places where people go to vote",
+          "ipa": "/ˈpoʊlɪŋ ˈsteɪʃənz/",
+          "ex": [
+            "The polling stations open at 7 a.m.",
+            "Many schools become polling stations on election day.",
+            "There were long lines at some polling stations."
+          ]
+        },
+        {
+          "word": "full count",
+          "def": "A count of every single vote or item",
+          "ipa": "/fʊl kaʊnt/",
+          "ex": [
+            "A full count of the votes takes several days.",
+            "We did a full count of the books in the library.",
+            "The store does a full count of its stock every year."
+          ]
+        },
+        {
+          "word": "seats",
+          "def": "Positions in a parliament that members win in an election",
+          "ipa": "/sits/",
+          "ex": [
+            "The party won ten seats in the city council.",
+            "There are 100 seats in the state senate.",
+            "She hopes to win one of the seats next year."
+          ]
+        },
+        {
+          "word": "figures",
+          "def": "Numbers, especially official ones",
+          "ipa": "/ˈfɪɡjərz/",
+          "ex": [
+            "New figures show that prices are rising.",
+            "The sales figures were better than expected.",
+            "The school shared its figures on test scores."
+          ]
+        },
+        {
+          "word": "govern",
+          "def": "To control and run a country or area",
+          "ipa": "/ˈɡʌvərn/",
+          "ex": [
+            "The party wants to govern the state for four more years.",
+            "It is hard to govern a large country.",
+            "Voters choose who will govern their city."
+          ]
+        },
+        {
+          "word": "estimate",
+          "def": "A guess about a number based on some facts",
+          "ipa": "/ˈɛstəmɪt/",
+          "ex": [
+            "The builder gave us an estimate for the new roof.",
+            "My estimate is that 50 people will come.",
+            "Her estimate was very close to the real number."
+          ]
+        },
+        {
+          "word": "will of the voters",
+          "def": "What most people choose in an election",
+          "ipa": "/wɪl əv ðə ˈvoʊtərz/",
+          "ex": [
+            "The mayor said she would respect the will of the voters.",
+            "A fair election shows the will of the voters.",
+            "Leaders must accept the will of the voters."
+          ]
+        },
+        {
+          "word": "opposition",
+          "def": "The parties in a parliament that are not in the government",
+          "ipa": "/ˌɑpəˈzɪʃən/",
+          "ex": [
+            "The opposition voted against the new tax.",
+            "He was a leader of the opposition for many years.",
+            "The opposition asked hard questions about the budget."
+          ]
+        },
+        {
+          "word": "supporters",
+          "def": "People who like and help a person, team or group",
+          "ipa": "/səˈpɔrtərz/",
+          "ex": [
+            "The singer thanked her supporters after the show.",
+            "Supporters of the team filled the stadium.",
+            "The candidate met his supporters at a cafe."
+          ]
+        },
+        {
+          "word": "corruption",
+          "def": "Dishonest acts by people in power, often for money",
+          "ipa": "/kəˈrʌpʃən/",
+          "ex": [
+            "The police found corruption in the city office.",
+            "Many people are tired of corruption.",
+            "The new law aims to fight corruption."
+          ]
+        },
+        {
+          "word": "candidate",
+          "def": "A person who hopes to be chosen for a job or office",
+          "ipa": "/ˈkændɪdeɪt/",
+          "ex": [
+            "Each candidate gave a short speech.",
+            "She is the best candidate for the job.",
+            "The candidate visited every town in the state."
+          ]
+        },
+        {
+          "word": "heart doctor",
+          "def": "A doctor who treats problems of the heart",
+          "ipa": "/hɑrt ˈdɑktər/",
+          "ex": [
+            "My grandfather sees a heart doctor every year.",
+            "The heart doctor told him to walk more.",
+            "She wants to become a heart doctor."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Serbia's longtime leader said a student-led list won the October 25 vote, using early figures. Official results come first, and then the new parliament will choose a prime minister.",
+          "a": true,
+          "why": "The leader admitted defeat on election night. Official results come out in the days after the vote, and forming a government can drag on for weeks."
+        },
+        {
+          "s": "Serbia's election commission announced on election night that a student-led list had won a full majority. Its supporters expect a new government to start work within a few days.",
+          "a": false,
+          "why": "Close, but the claim came from the leader's own sample, not the election commission. Forming a government can drag on for weeks."
+        },
+        {
+          "s": "Thousands of university students marched to Belgrade to ask for lower fees and better classrooms. Many teachers joined them, and some schools around the country closed for a week.",
+          "a": false,
+          "why": "This story is about an election. The longtime leader admitted defeat, and celebrations broke out in Belgrade."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Serbia's longtime leader admitted defeat on election night.",
+          "a": true,
+          "why": "He said a student-led list had won, and celebrations broke out in Belgrade soon after."
+        },
+        {
+          "s": "Very few voters showed up for the election.",
+          "a": false,
+          "why": "Voters showed up in large numbers, and turnout was the highest since 1992."
+        },
+        {
+          "s": "The leader's figures came from a sample, not a full count.",
+          "a": true,
+          "why": "He said the final results were not ready yet. Official results from the election commission come out in the days after the vote."
+        },
+        {
+          "s": "The leader said his party would leave parliament after the vote.",
+          "a": false,
+          "why": "He said his party would carry on fighting as the opposition in parliament."
+        },
+        {
+          "s": "The leader expected the student-led list to win most of the seats.",
+          "a": true,
+          "why": "He said it would win 135 to 140 of 250 seats, so it could take over the government alone."
+        },
+        {
+          "s": "The student movement told supporters to go to areas with many police.",
+          "a": false,
+          "why": "The student movement asked supporters to stay calm and to stay away from areas with many police officers."
+        }
+      ]
+    },
+    {
       "id": "town-blocks-amazon-drones-2026",
       "number": 182,
       "headline": "A small town votes to keep Amazon drones out",
