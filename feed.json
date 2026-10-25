@@ -2,6 +2,500 @@
   "updated": "2026-10-25",
   "stories": [
     {
+      "id": "town-blocks-amazon-drones-2026",
+      "number": 182,
+      "headline": "A small town votes to keep Amazon drones out",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n182-town-blocks-amazon-drones-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Westborough overwhelmingly votes to restrict commercial drones like Amazon's (Boston.com)",
+          "url": "https://www.boston.com/news/local-news/2026/10/20/amazon-commercial-drones-delivery-westborough/"
+        },
+        {
+          "title": "Westborough Votes 510-13 to Ban Amazon Drone Pads and Drop Zones (DroneXL)",
+          "url": "https://dronexl.co/2026/10/20/westborough-510-13-drone-bylaw-bans-amazon-prime-air-launch-pads/"
+        },
+        {
+          "title": "Amazon drone delivery plans spark 'serious concerns' (NBC Boston)",
+          "url": "https://www.nbcboston.com/news/politics/amazon-drone-delivery-plans-spark-serious-concerns/4022899/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 19, 2026, more than 500 voters {{turned out}} for a special [[town meeting]] in a small town west of Boston. They voted 510 to 13 for a new [[local rule]]. Its goal is to {{keep Amazon's drones out}}. The rule bans [[launch pads]], where delivery drones {{take off}}. It also bans [[drop zones]], where they leave packages. Amazon, one of the world's biggest companies, wants to {{roll out}} drone delivery from its [[warehouse]] there.",
+          "verbs": [
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be present at an event",
+              "wrong": "To watch an event online",
+              "correctFirst": true,
+              "why": "Hundreds of fans turn out for every home game. Few people turn out for meetings in the summer. More than 500 voters turned out for a special town meeting."
+            },
+            {
+              "display": "keep Amazon's drones out",
+              "base": "keep out",
+              "correct": "To stop something from entering",
+              "wrong": "To watch something very closely",
+              "correctFirst": false,
+              "why": "A tall fence keeps deer out of the garden. The new lock keeps strangers out of the building. The voters' goal is to keep Amazon's drones out of their town."
+            },
+            {
+              "display": "take off",
+              "base": "take off",
+              "correct": "To leave the ground and start flying",
+              "wrong": "To get power for the battery",
+              "correctFirst": true,
+              "why": "Planes take off from this airport every few minutes. The small drone takes off from the roof each morning. The rule bans launch pads, where delivery drones take off."
+            },
+            {
+              "display": "roll out",
+              "base": "roll out",
+              "correct": "To start offering a new service",
+              "wrong": "To test a drone near homes",
+              "correctFirst": false,
+              "why": "The bank rolls out a new app every few years. Our city rolls out new bike lanes each spring. Amazon wants to roll out drone delivery from its warehouse in the town."
+            }
+          ]
+        },
+        {
+          "text": "It would be Amazon's first drone delivery [[site]] in New England. The company says its drones would {{drop off}} packages of up to five pounds, usually within an hour of an order. Amazon says the drones' cameras help with [[navigation]] and are not live. It also says the drones are quieter than a delivery truck with its [[engine running]]. The company said it hoped to {{go ahead}} with deliveries before the end of 2026.",
+          "verbs": [
+            {
+              "display": "drop off",
+              "base": "drop off",
+              "correct": "To deliver something to a place",
+              "wrong": "To weigh a package first",
+              "correctFirst": true,
+              "why": "The mail carrier drops off our letters at noon. I drop off my kids at school every morning. Amazon says its drones would drop off packages of up to five pounds."
+            },
+            {
+              "display": "go ahead",
+              "base": "go ahead",
+              "correct": "To start doing what was planned",
+              "wrong": "To change the delivery area",
+              "correctFirst": false,
+              "why": "If the weather is good, the concert goes ahead. The city goes ahead with the new park when the money arrives. Amazon said it hoped to go ahead with deliveries before the end of 2026."
+            }
+          ]
+        },
+        {
+          "text": "Many neighbors do not want the drones. About a month before the vote, residents {{set up}} a group to fight the plan. They {{spoke out}} about noise, [[privacy]] and the sight of drones flying [[overhead]]. Some also worry about [[home values]]. In an [[online survey]], 93 percent of those who answered were against the drones. At the meeting, a group member said residents want to protect the town's [[character]] and {{pass it on}} to the [[next generation]].",
+          "verbs": [
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To start a new group",
+              "wrong": "To join a group online",
+              "correctFirst": true,
+              "why": "Parents often set up a group chat for the class. Many students set up a club in their first year. About a month before the vote, residents set up a group to fight the plan."
+            },
+            {
+              "display": "spoke out",
+              "base": "speak out",
+              "correct": "To say publicly what you think",
+              "wrong": "To sign a letter to a lawmaker",
+              "correctFirst": false,
+              "why": "Some workers speak out when their pay is unfair. She always speaks out about safety at work. Residents spoke out about noise, privacy and the sight of drones flying overhead."
+            },
+            {
+              "display": "pass it on",
+              "base": "pass on",
+              "correct": "To give something to younger people",
+              "wrong": "To sell a home at a high price",
+              "correctFirst": true,
+              "why": "Many families pass their homes on to their children. Grandparents pass on old recipes to their grandchildren. One resident said people want to protect the town and pass it on to the next generation."
+            }
+          ]
+        },
+        {
+          "text": "The vote has [[limits]]. The Federal Aviation Administration controls the sky, so the town cannot stop drones from flying over it. The rule covers only the ground and still allows drones for news and [[emergencies]]. State [[officials]] must {{sign off on}} the rule before it starts. Town leaders are not sure every part will {{hold up}}. A town board has set a November 2 meeting to {{take up}} a separate [[appeal]] from neighbors.",
+          "verbs": [
+            {
+              "display": "sign off on",
+              "base": "sign off on",
+              "correct": "To give official approval",
+              "wrong": "To write the first draft",
+              "correctFirst": false,
+              "why": "The manager signs off on every new hire. The school board signs off on the budget each June. State officials must sign off on the rule before it starts."
+            },
+            {
+              "display": "hold up",
+              "base": "hold up",
+              "correct": "To still be valid after a legal check",
+              "wrong": "To be read aloud at a meeting",
+              "correctFirst": true,
+              "why": "Her story holds up when the police check it. Good research holds up when other scientists test it. Town leaders are not sure every part of the rule will hold up."
+            },
+            {
+              "display": "take up",
+              "base": "take up",
+              "correct": "To begin to discuss something",
+              "wrong": "To share news with the public",
+              "correctFirst": false,
+              "why": "The city council takes up the budget in May. The court takes up two new cases each week. A town board has set a November 2 meeting to take up a separate appeal from neighbors."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Turn out",
+          "def": "To be present at an event",
+          "ipa": "/tɝn aʊt/",
+          "ex": [
+            "Thousands of people turn out for the city parade.",
+            "Only a few parents turn out for the school play.",
+            "Will many voters turn out if it rains?"
+          ]
+        },
+        {
+          "verb": "Keep out",
+          "def": "To stop something from entering",
+          "ipa": "/kip aʊt/",
+          "ex": [
+            "A good screen door keeps bugs out.",
+            "Our dog keeps strangers out of the yard.",
+            "The club uses a guard to keep people out after midnight."
+          ]
+        },
+        {
+          "verb": "Take off",
+          "def": "To leave the ground and start flying",
+          "ipa": "/teɪk ɔf/",
+          "ex": [
+            "Our flight takes off at six in the morning.",
+            "Birds take off when the dog runs at them.",
+            "The helicopter can take off from a small roof."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To start offering a new service",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The phone company plans to roll out faster internet next year.",
+            "Our school rolls out a new lunch menu in January.",
+            "The bus company wants to roll out a new route downtown."
+          ]
+        },
+        {
+          "verb": "Drop off",
+          "def": "To deliver something to a place",
+          "ipa": "/drɑp ɔf/",
+          "ex": [
+            "Can you drop off this package at the post office?",
+            "The driver drops off fresh bread at the store each morning.",
+            "I need to drop off my car at the shop."
+          ]
+        },
+        {
+          "verb": "Go ahead",
+          "def": "To start doing what was planned",
+          "ipa": "/ɡoʊ əˈhɛd/",
+          "ex": [
+            "The wedding will go ahead as planned.",
+            "The city plans to go ahead with the new bridge.",
+            "The game goes ahead even if a few players are sick."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To start a new group",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "My neighbors set up a club for people who love books.",
+            "The students want to set up a new soccer team.",
+            "She set up a small charity to help local families."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say publicly what you think",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "More doctors speak out about the dangers of smoking.",
+            "He was afraid to speak out at first.",
+            "Many parents speak out when the school cuts art classes."
+          ]
+        },
+        {
+          "verb": "Pass on",
+          "def": "To give something to younger people",
+          "ipa": "/pæs ɑn/",
+          "ex": [
+            "My grandfather wants to pass his farm on to my mother.",
+            "She passes her old toys on to her little cousins.",
+            "The family plans to pass the store on to the next generation."
+          ]
+        },
+        {
+          "verb": "Sign off on",
+          "def": "To give official approval",
+          "ipa": "/saɪn ɔf ɑn/",
+          "ex": [
+            "The doctor needs to sign off on your return to work.",
+            "My boss has to sign off on my vacation days.",
+            "The mayor signs off on every new park plan."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To still be valid after a legal check",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "His excuse does not hold up when you look at the facts.",
+            "The study holds up after many years of testing.",
+            "Will the new law hold up in court?"
+          ]
+        },
+        {
+          "verb": "Take up",
+          "def": "To begin to discuss something",
+          "ipa": "/teɪk ʌp/",
+          "ex": [
+            "The school board takes up the question of longer classes tonight.",
+            "Congress plans to take up the bill in the spring.",
+            "The committee will take up your idea at the next meeting."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "town meeting",
+          "def": "A meeting where people in a town vote on local decisions",
+          "ipa": "/taʊn ˈmitɪŋ/",
+          "ex": [
+            "Our town meeting is held every spring in the school gym.",
+            "Anyone who lives here can speak at the town meeting.",
+            "The town meeting lasted almost four hours."
+          ]
+        },
+        {
+          "word": "local rule",
+          "def": "A rule made by a town or city for its own area",
+          "ipa": "/ˈloʊkəl rul/",
+          "ex": [
+            "A local rule says dogs must stay on a leash in the park.",
+            "Our city passed a local rule against loud music at night.",
+            "Each town can make a local rule about parking."
+          ]
+        },
+        {
+          "word": "launch pads",
+          "def": "Places where flying machines start their flights",
+          "ipa": "/lɔntʃ pædz/",
+          "ex": [
+            "The space company built two new launch pads.",
+            "Rockets need strong launch pads made of concrete.",
+            "The army keeps its launch pads far from cities."
+          ]
+        },
+        {
+          "word": "drop zones",
+          "def": "Areas where things are left or dropped from the air",
+          "ipa": "/drɑp zoʊnz/",
+          "ex": [
+            "Planes left food in drop zones after the flood.",
+            "The parachute team practiced landing in two drop zones.",
+            "The farmers marked safe drop zones in their fields."
+          ]
+        },
+        {
+          "word": "warehouse",
+          "def": "A large building where goods are stored before they are sent out",
+          "ipa": "/ˈwɛrˌhaʊs/",
+          "ex": [
+            "He works nights at a warehouse near the highway.",
+            "The warehouse is full of boxes every December.",
+            "The store keeps extra shoes in a warehouse."
+          ]
+        },
+        {
+          "word": "site",
+          "def": "A place where something is built or happens",
+          "ipa": "/saɪt/",
+          "ex": [
+            "The company chose a new site for its factory.",
+            "Workers wear hard hats at the building site.",
+            "This field is the site of the summer fair."
+          ]
+        },
+        {
+          "word": "navigation",
+          "def": "Finding the right way to travel from one place to another",
+          "ipa": "/ˌnævəˈɡeɪʃən/",
+          "ex": [
+            "My phone's navigation app helps me find new places.",
+            "Ships use stars and maps for navigation.",
+            "Good navigation saves time on long drives."
+          ]
+        },
+        {
+          "word": "engine running",
+          "def": "With the motor of a car or truck turned on",
+          "ipa": "/ˈɛndʒən ˈrʌnɪŋ/",
+          "ex": [
+            "Don't leave the car with the engine running.",
+            "He waited outside the store with the engine running.",
+            "It wastes gas to sit in a parking lot with the engine running."
+          ]
+        },
+        {
+          "word": "privacy",
+          "def": "The right to keep your life and home away from other people's eyes",
+          "ipa": "/ˈpraɪvəsi/",
+          "ex": [
+            "Tall trees give our backyard some privacy.",
+            "Many people worry about their privacy online.",
+            "Please respect my privacy and knock first."
+          ]
+        },
+        {
+          "word": "overhead",
+          "def": "In the air above you",
+          "ipa": "/ˌoʊvərˈhɛd/",
+          "ex": [
+            "A plane flew overhead as we ate lunch.",
+            "We heard geese overhead in the evening.",
+            "Dark clouds moved overhead before the storm."
+          ]
+        },
+        {
+          "word": "home values",
+          "def": "How much money houses are worth",
+          "ipa": "/hoʊm ˈvæljuz/",
+          "ex": [
+            "Home values in our area rose last year.",
+            "A new park can raise home values nearby.",
+            "Noise from a highway can lower home values."
+          ]
+        },
+        {
+          "word": "online survey",
+          "def": "A set of questions people answer on the internet",
+          "ipa": "/ˈɑnˌlaɪn ˈsɝveɪ/",
+          "ex": [
+            "The store asked customers to answer an online survey.",
+            "Our school sent parents an online survey about lunch.",
+            "The online survey takes about five minutes."
+          ]
+        },
+        {
+          "word": "character",
+          "def": "The special qualities that make a place different",
+          "ipa": "/ˈkɛrɪktər/",
+          "ex": [
+            "The old brick buildings give the street its character.",
+            "Big new stores can change a town's character.",
+            "The village has kept its quiet character for years."
+          ]
+        },
+        {
+          "word": "next generation",
+          "def": "The younger people who come after the people living now",
+          "ipa": "/nɛkst ˌdʒɛnəˈreɪʃən/",
+          "ex": [
+            "Teachers help prepare the next generation.",
+            "We should save clean water for the next generation.",
+            "The next generation may work in very different jobs."
+          ]
+        },
+        {
+          "word": "limits",
+          "def": "Things that a person or rule cannot do",
+          "ipa": "/ˈlɪmɪts/",
+          "ex": [
+            "Every plan has limits.",
+            "The new law has clear limits on what police can do.",
+            "She knows the limits of her small budget."
+          ]
+        },
+        {
+          "word": "emergencies",
+          "def": "Sudden dangerous events that need quick action",
+          "ipa": "/ɪˈmɝdʒənsiz/",
+          "ex": [
+            "Call this number only for emergencies.",
+            "Nurses are trained to stay calm in emergencies.",
+            "Keep some water at home for emergencies."
+          ]
+        },
+        {
+          "word": "officials",
+          "def": "People who hold important jobs in a government",
+          "ipa": "/əˈfɪʃəlz/",
+          "ex": [
+            "City officials closed the road after the storm.",
+            "Health officials asked people to wash their hands.",
+            "School officials met with parents on Monday."
+          ]
+        },
+        {
+          "word": "appeal",
+          "def": "A formal request to change a decision",
+          "ipa": "/əˈpil/",
+          "ex": [
+            "Her appeal to the school board was successful.",
+            "The company filed an appeal after it lost the case.",
+            "The judge will hear the appeal next month."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Nearly all voters at a meeting in a small Massachusetts town backed a rule against Amazon's drone delivery plan. It covers only the ground, and state officials still need to approve it.",
+          "a": true,
+          "why": "Voters approved the rule 510 to 13 to keep Amazon's drones out. It bans places where drones take off, and state officials must sign off on it."
+        },
+        {
+          "s": "After a huge vote, a town near Boston has banned Amazon's delivery drones from flying in its skies. Because of worries about noise and privacy, no drone may pass above any home there now.",
+          "a": false,
+          "why": "Close, but the town cannot control the sky. The Federal Aviation Administration does, so the rule only bans places on the ground where drones take off and leave packages."
+        },
+        {
+          "s": "Amazon has begun sending medicine by drone to farms across New England. Company leaders say the new service will cut waiting times for rural families who live far from a drugstore.",
+          "a": false,
+          "why": "This is about a town that voted against Amazon's drone plan. Residents spoke out about noise and privacy, and a town board has set a November 2 meeting to take up an appeal."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Hundreds of voters turned out to decide on a rule about drones.",
+          "a": true,
+          "why": "More than 500 voters turned out for the special town meeting, and the rule passed 510 to 13."
+        },
+        {
+          "s": "Amazon set up a group to win support for its drone plan.",
+          "a": false,
+          "why": "Residents set up a group to fight the plan, about a month before the vote."
+        },
+        {
+          "s": "Most voters wanted Amazon to roll out drone delivery in their town.",
+          "a": false,
+          "why": "Nearly all voters were against it. They backed a rule to keep Amazon's drones out."
+        },
+        {
+          "s": "The new rule bans places where delivery drones take off.",
+          "a": true,
+          "why": "The rule bans launch pads and drop zones for delivery drones in the town."
+        },
+        {
+          "s": "Neighbors spoke out about noise and privacy.",
+          "a": true,
+          "why": "They also worried about the sight of drones flying overhead and about home values."
+        },
+        {
+          "s": "The new rule can stop drones from flying over the town.",
+          "a": false,
+          "why": "The Federal Aviation Administration controls the sky. The rule covers only the ground, and state officials must sign off on it."
+        }
+      ]
+    },
+    {
       "id": "school-bus-hero-2026",
       "number": 181,
       "headline": "A store clerk stops a runaway school bus",
