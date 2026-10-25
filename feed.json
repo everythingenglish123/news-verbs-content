@@ -1,6 +1,472 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "stories": [
+    {
+      "id": "ramses-statues-egypt-2026",
+      "number": 180,
+      "headline": "A farmer's strange stone leads to giant statues",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n180-ramses-statues-egypt-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "An Egyptian Villager Stumbled Upon an Inscribed Stone. It Led to a Colossal Head of Ramses II (Gizmodo)",
+          "url": "https://gizmodo.com/an-egyptian-villager-stumbled-upon-an-inscribed-stone-it-led-to-a-colossal-head-of-ramses-ii-2000826264"
+        },
+        {
+          "title": "A Farmer in Egypt Stumbled Upon a Pink Stone and Called the Authorities. They Found the Remains of Two Colossal Statues of Ramses II Beneath the Property (Smithsonian Magazine)",
+          "url": "https://www.smithsonianmag.com/smart-news/a-farmer-in-egypt-stumbled-upon-a-pink-stone-and-called-the-authorities-they-found-the-remains-of-two-colossal-statues-of-ramses-ii-beneath-the-property-180989708/"
+        },
+        {
+          "title": "Egypt discovers fragments of two colossal Ramses II statues (Gulf News)",
+          "url": "https://gulfnews.com/world/mena/egypt-discovers-fragments-of-two-colossal-ramses-ii-statues-1.500709649"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A farmer in Egypt's Nile Delta was working on his land when he found a strange stone outside his home. It was covered in [[ancient writing]]. He reported it to local officials, and they {{brought in}} a team of [[archaeologists]]. In mid-October 2026, Egypt's Ministry of Tourism and Antiquities announced what the team had found. Under the farmer's land were parts of two [[giant statues]] of the [[pharaoh]] Ramses II.",
+          "verbs": [
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "correct": "To ask experts to come and help",
+              "wrong": "To close the area to visitors",
+              "correctFirst": false,
+              "why": "The city brings in engineers to check old bridges. Hospitals bring in extra doctors in flu season. Local officials brought in a team of archaeologists."
+            }
+          ]
+        },
+        {
+          "text": "The team {{dug up}} a stone head that is more than 5 feet tall. It shows Ramses II wearing a [[double crown]]. This crown was a sign of his [[rule]] over both Upper and Lower Egypt. Next to the head was part of the statue's back, carved with one of the king's names. From the size of the head, officials {{worked out}} that the [[complete]] statue was about 28 feet tall, including its [[base]].",
+          "verbs": [
+            {
+              "display": "dug up",
+              "base": "dig up",
+              "correct": "To remove something from the ground",
+              "wrong": "To build a wall around a site",
+              "correctFirst": true,
+              "why": "Dogs dig up bones in the backyard. Farmers dig up potatoes in the fall. The team dug up a stone head that is more than 5 feet tall."
+            },
+            {
+              "display": "worked out",
+              "base": "work out",
+              "correct": "To find an answer by thinking or calculating",
+              "wrong": "To clean a statue with soft brushes",
+              "correctFirst": false,
+              "why": "I work out the tip in my head. Students work out the answer with a calculator. From the size of the head, officials worked out that the whole statue was about 28 feet tall."
+            }
+          ]
+        },
+        {
+          "text": "A second statue {{turned up}} close by. It is nearly 8 feet tall, but its legs and base are [[missing]]. It wears a [[striped]] royal [[headcloth]], and experts believe it also shows Ramses II. Its face has {{held up}} well, with clear [[features]] like those of the first statue. The team also found a [[pink granite]] block more than 4 feet long. It carries two of the king's [[royal titles]]. The statues {{go back}} more than 3,200 years.",
+          "verbs": [
+            {
+              "display": "turned up",
+              "base": "turn up",
+              "correct": "To be found, often by chance",
+              "wrong": "To be badly damaged",
+              "correctFirst": true,
+              "why": "Lost keys often turn up in a coat pocket. My missing socks always turn up in the wash. A second statue turned up close by."
+            },
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To still be in good condition",
+              "wrong": "To be painted bright colors",
+              "correctFirst": false,
+              "why": "Good leather shoes hold up for years. This old bridge still holds up in big storms. The face of the second statue has held up well."
+            },
+            {
+              "display": "go back",
+              "base": "go back",
+              "correct": "To have existed since a past time",
+              "wrong": "To be worth a lot of money",
+              "correctFirst": true,
+              "why": "This bakery goes back to 1920. My family's farm goes back four generations. The statues go back more than 3,200 years."
+            }
+          ]
+        },
+        {
+          "text": "The village is best known for the [[ruins]] of a temple to a [[goddess]]. But experts {{point out}} that it was built many [[centuries]] after Ramses II. Experts now want to {{find out}} how the statues {{ended up}} there. The digging will {{carry on}} as researchers try to {{piece together}} the site's history. The farmer told reporters that he was surprised and happy. He said officials told him the find might change the history of the area.",
+          "verbs": [
+            {
+              "display": "point out",
+              "base": "point out",
+              "correct": "To tell people about a fact",
+              "wrong": "To dig around a very old wall",
+              "correctFirst": true,
+              "why": "Doctors point out that sleep is important for health. My teacher points out the mistakes in my writing. Experts point out that the temple was built many centuries after Ramses II."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact you did not know",
+              "wrong": "To clean a stone very gently",
+              "correctFirst": false,
+              "why": "Students find out their grades online. I usually find out the news from my phone. Experts now want to find out how the statues got to the village."
+            },
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To finally arrive somewhere",
+              "wrong": "To be carved by a skilled worker",
+              "correctFirst": true,
+              "why": "Lost balls often end up in the river. Many travelers end up in towns they never planned to visit. Nobody knows yet how the statues ended up in the village."
+            },
+            {
+              "display": "carry on",
+              "base": "carry on",
+              "correct": "To continue for more time",
+              "wrong": "To need a special permit",
+              "correctFirst": false,
+              "why": "The game carries on after the rain stops. Work on the road carries on all summer. The digging at the site will carry on."
+            },
+            {
+              "display": "piece together",
+              "base": "piece together",
+              "correct": "To understand something from small facts",
+              "wrong": "To write a short report about a king",
+              "correctFirst": true,
+              "why": "Doctors piece together the cause of an illness from many tests. Detectives piece together a crime from small clues. Researchers will try to piece together the history of the site."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Bring in",
+          "def": "To ask experts to come and help",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "The school brought in a reading expert to help the teachers.",
+            "Our company brought in a lawyer to check the contract.",
+            "When the pipes broke, we had to bring in a plumber."
+          ]
+        },
+        {
+          "verb": "Dig up",
+          "def": "To remove something from the ground",
+          "ipa": "/dɪɡ ʌp/",
+          "ex": [
+            "We dug up the old tree and planted a new one.",
+            "The kids dug up some coins in the park.",
+            "Workers dug up an old pipe under the street."
+          ]
+        },
+        {
+          "verb": "Work out",
+          "def": "To find an answer by thinking or calculating",
+          "ipa": "/wɝk aʊt/",
+          "ex": [
+            "Can you work out how much we each owe?",
+            "She worked out the distance on a map.",
+            "Engineers worked out the weight of the bridge before building it."
+          ]
+        },
+        {
+          "verb": "Turn up",
+          "def": "To be found, often by chance",
+          "ipa": "/tɝn ʌp/",
+          "ex": [
+            "My lost wallet turned up under the car seat.",
+            "Don't worry, the cat will turn up soon.",
+            "The missing file turned up in an old folder."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To still be in good condition",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "This tent held up well during the storm.",
+            "Cheap phones don't hold up for long.",
+            "The paint on our house has held up for ten years."
+          ]
+        },
+        {
+          "verb": "Go back",
+          "def": "To have existed since a past time",
+          "ipa": "/ɡoʊ bæk/",
+          "ex": [
+            "Our friendship goes back to high school.",
+            "This tradition goes back hundreds of years.",
+            "The church on Main Street goes back to the 1800s."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people about a fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "My friend pointed out that I forgot to sign the form.",
+            "She pointed out that the store closes early on Sundays.",
+            "He pointed out that the bus was late again."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I want to find out what time the store opens.",
+            "She found out that her flight was canceled.",
+            "Call the doctor to find out your test results."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally arrive somewhere",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up on the wrong side of town.",
+            "His old bike ended up in his neighbor's garage.",
+            "If you take this bus, you will end up downtown."
+          ]
+        },
+        {
+          "verb": "Carry on",
+          "def": "To continue for more time",
+          "ipa": "/ˈkɛri ɑn/",
+          "ex": [
+            "The meeting carried on until late in the evening.",
+            "Please carry on with your work.",
+            "The band carried on playing in the rain."
+          ]
+        },
+        {
+          "verb": "Piece together",
+          "def": "To understand something from small facts",
+          "ipa": "/pis təˈɡɛðər/",
+          "ex": [
+            "The police pieced together what happened from the camera videos.",
+            "She pieced together her family history from old letters.",
+            "We tried to piece together the story from what our friends said."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "ancient writing",
+          "def": "Words or signs that people wrote thousands of years ago",
+          "ipa": "/ˈeɪnʃənt ˈraɪtɪŋ/",
+          "ex": [
+            "The museum shows ancient writing on clay tablets.",
+            "Few people today can read this ancient writing.",
+            "The cave walls are full of ancient writing and pictures."
+          ]
+        },
+        {
+          "word": "archaeologists",
+          "def": "Experts who study objects and places from the distant past",
+          "ipa": "/ˌɑrkiˈɑlədʒɪsts/",
+          "ex": [
+            "Archaeologists found old tools near the river.",
+            "My cousin wants to work with archaeologists in Mexico.",
+            "The archaeologists spent the summer at the old fort."
+          ]
+        },
+        {
+          "word": "giant statues",
+          "def": "Very large figures made of stone or metal",
+          "ipa": "/ˈdʒaɪənt ˈstætʃuz/",
+          "ex": [
+            "Giant statues stand at the entrance to the park.",
+            "The island is famous for its giant statues.",
+            "Workers used cranes to move the giant statues."
+          ]
+        },
+        {
+          "word": "pharaoh",
+          "def": "A king of ancient Egypt",
+          "ipa": "/ˈfɛroʊ/",
+          "ex": [
+            "The pharaoh lived in a large palace.",
+            "Each pharaoh wanted a great tomb.",
+            "The movie tells the story of a young pharaoh."
+          ]
+        },
+        {
+          "word": "double crown",
+          "def": "A two-part crown worn by the kings of ancient Egypt",
+          "ipa": "/ˈdʌbəl kraʊn/",
+          "ex": [
+            "The painting shows a king in a double crown.",
+            "The double crown was red and white.",
+            "Only the king could wear the double crown."
+          ]
+        },
+        {
+          "word": "rule",
+          "def": "The power to control a country",
+          "ipa": "/rul/",
+          "ex": [
+            "The country grew rich under the queen's rule.",
+            "His rule lasted for thirty years.",
+            "Many people were unhappy with the king's rule."
+          ]
+        },
+        {
+          "word": "complete",
+          "def": "Having all its parts",
+          "ipa": "/kəmˈplit/",
+          "ex": [
+            "I finally have a complete set of the books.",
+            "The puzzle is not complete; one piece is gone.",
+            "We found a complete skeleton of a small dinosaur."
+          ]
+        },
+        {
+          "word": "base",
+          "def": "The bottom part that something stands on",
+          "ipa": "/beɪs/",
+          "ex": [
+            "The lamp has a heavy metal base.",
+            "There is a crack in the base of the vase.",
+            "The statue's base has the artist's name on it."
+          ]
+        },
+        {
+          "word": "missing",
+          "def": "Not there, because it is lost or gone",
+          "ipa": "/ˈmɪsɪŋ/",
+          "ex": [
+            "Two pages of this book are missing.",
+            "The police are looking for a missing dog.",
+            "One of my front buttons is missing."
+          ]
+        },
+        {
+          "word": "striped",
+          "def": "Having long, thin lines of different colors",
+          "ipa": "/straɪpt/",
+          "ex": [
+            "He wore a blue and white striped shirt.",
+            "The cat has a striped tail.",
+            "We bought a striped umbrella for the beach."
+          ]
+        },
+        {
+          "word": "headcloth",
+          "def": "A piece of cloth worn over the head",
+          "ipa": "/ˈhɛdˌklɔθ/",
+          "ex": [
+            "The old woman wore a cotton headcloth in the sun.",
+            "In the photo, the farmer has a white headcloth.",
+            "She tied a headcloth over her hair."
+          ]
+        },
+        {
+          "word": "features",
+          "def": "The parts of a face, like the eyes, nose and mouth",
+          "ipa": "/ˈfitʃərz/",
+          "ex": [
+            "The baby has her father's features.",
+            "The artist drew his features very carefully.",
+            "Her features are soft and friendly."
+          ]
+        },
+        {
+          "word": "pink granite",
+          "def": "A very hard, pink stone used for buildings and statues",
+          "ipa": "/pɪŋk ˈɡrænɪt/",
+          "ex": [
+            "The new bank has steps made of pink granite.",
+            "Pink granite is common in this part of the state.",
+            "The kitchen counter is a slab of pink granite."
+          ]
+        },
+        {
+          "word": "royal titles",
+          "def": "Official names that show someone is a king or queen",
+          "ipa": "/ˈrɔɪəl ˈtaɪtəlz/",
+          "ex": [
+            "The prince has several royal titles.",
+            "Her royal titles are printed on the letter.",
+            "He lost his royal titles when he left the family."
+          ]
+        },
+        {
+          "word": "ruins",
+          "def": "What is left of an old building after it is badly damaged",
+          "ipa": "/ˈruɪnz/",
+          "ex": [
+            "We visited the ruins of an old castle.",
+            "Tourists take photos of the ruins every day.",
+            "The ruins are all that is left of the old city."
+          ]
+        },
+        {
+          "word": "goddess",
+          "def": "A female god",
+          "ipa": "/ˈɡɑdəs/",
+          "ex": [
+            "The Greeks had a goddess of love.",
+            "The temple has a statue of a goddess.",
+            "In the story, a goddess helps the hero."
+          ]
+        },
+        {
+          "word": "centuries",
+          "def": "Periods of one hundred years",
+          "ipa": "/ˈsɛntʃəriz/",
+          "ex": [
+            "The castle stood empty for centuries.",
+            "This recipe has been in our family for centuries.",
+            "People have farmed this valley for centuries."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A farmer reported an odd stone on his land in Egypt, and experts found two huge statues of Ramses II under it. They still want to learn how the statues came to be in his village.",
+          "a": true,
+          "why": "The farmer found a stone, and officials brought in archaeologists. Experts now want to find out how the statues ended up there."
+        },
+        {
+          "s": "An Egyptian farmer found two enormous pharaoh statues in his field and dug them up by himself. Experts say the stones were made for the famous temple in his village, which is just as old.",
+          "a": false,
+          "why": "Close, but a team of archaeologists dug up the statues. The temple was built many centuries after Ramses II, so nobody knows yet how they got there."
+        },
+        {
+          "s": "Egypt has opened a large new museum near Cairo to show objects from its ancient kings. Visitors can now see a famous statue of Ramses II that was moved there from a busy city square.",
+          "a": false,
+          "why": "This story is about two statues that turned up under a farmer's land after he found a strange stone."
+        }
+      ],
+      "tf": [
+        {
+          "s": "A farmer found a strange stone while working on his land.",
+          "a": true,
+          "why": "It was covered in ancient writing. He reported it, and officials brought in a team of archaeologists."
+        },
+        {
+          "s": "The statues turned up during work on a new road.",
+          "a": false,
+          "why": "They turned up under a farmer's land after he reported a strange stone to officials."
+        },
+        {
+          "s": "Officials brought in archaeologists after the farmer reported the stone.",
+          "a": true,
+          "why": "Local officials asked a team of archaeologists to come, and the team found parts of two giant statues."
+        },
+        {
+          "s": "Experts already know how the statues ended up in the village.",
+          "a": false,
+          "why": "Experts still want to find out how they got there, because the village temple was built centuries after Ramses II."
+        },
+        {
+          "s": "The team has stopped digging at the site.",
+          "a": false,
+          "why": "The digging will carry on as researchers try to understand the history of the site."
+        },
+        {
+          "s": "Experts believe both statues show the pharaoh Ramses II.",
+          "a": true,
+          "why": "The first head clearly shows him, and experts believe the second statue, which turned up close by, shows him too."
+        }
+      ]
+    },
     {
       "id": "finland-puppy-cam-2026",
       "number": 179,
