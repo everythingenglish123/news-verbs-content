@@ -2,6 +2,518 @@
   "updated": "2026-10-26",
   "stories": [
     {
+      "id": "la-wildlife-bridge-2026",
+      "number": 184,
+      "headline": "A giant bridge for mountain lions is almost ready",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n184-la-wildlife-bridge-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "World's largest wildlife crossing nears completion in California (Popular Science)",
+          "url": "https://www.popsci.com/environment/worlds-largest-wildlife-crossing-california/"
+        },
+        {
+          "title": "World's largest wildlife crossing is on track to open this winter, unless El Niño intervenes (Los Angeles Times)",
+          "url": "https://www.latimes.com/environment/story/2026-10-08/wallis-annenberg-wildlife-crossing-is-on-track-to-open-this-winter-unless-el-nino-intervenes"
+        },
+        {
+          "title": "Wallis Annenberg Wildlife Crossing to open in December (Spectrum News)",
+          "url": "https://spectrumnews1.com/ca/la/environment/2026/04/23/the-wallis-annenberg-wildlife-crossing-is-in-full-bloom-and-on-track-for-completion-in-december-2026"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A giant bridge for animals is almost finished over U.S. Highway 101, a busy freeway near Los Angeles. It is the world's largest [[wildlife crossing]]. It is about 210 feet long and stretches across ten [[lanes]] of traffic. Crews have {{put in}} 6,000 [[native plants]] on top. By April 2026, bees, butterflies and a [[lizard]] named Bob had already {{moved in}}. A [[ribbon cutting]] is planned for December 2, 2026.",
+          "verbs": [
+            {
+              "display": "put in",
+              "base": "put in",
+              "correct": "To plant something in the ground",
+              "wrong": "To water plants by hand",
+              "correctFirst": true,
+              "why": "Every spring, my dad puts in tomatoes along the back fence. The city puts in new trees on our street each fall. Crews have put in 6,000 native plants on top."
+            },
+            {
+              "display": "moved in",
+              "base": "move in",
+              "correct": "To start living in a place",
+              "wrong": "To visit a place for food",
+              "correctFirst": false,
+              "why": "A new family moves in next door almost every summer. Birds move in as soon as we hang a new birdhouse. By April 2026, bees, butterflies and a lizard named Bob had already moved in."
+            }
+          ]
+        },
+        {
+          "text": "The bridge was built mainly for [[mountain lions]]. Freeways and towns have {{boxed in}} the big cats of the Santa Monica Mountains. The freeway {{cuts them off}} from lions to the north, so many lions [[breed]] with [[close relatives]]. California now lists them as a [[threatened species]]. Computer models show the lions could {{die out}} within 50 years if this starts to harm their ability to have cubs.",
+          "verbs": [
+            {
+              "display": "boxed in",
+              "base": "box in",
+              "correct": "To trap in a small area",
+              "wrong": "To mark an area on a map",
+              "correctFirst": true,
+              "why": "High fences box in the horses on the farm. New houses box in the deer that live near our town. Freeways and towns have boxed in the big cats of the Santa Monica Mountains."
+            },
+            {
+              "display": "cuts them off",
+              "base": "cut off",
+              "correct": "To separate from others",
+              "wrong": "To lead the way for others",
+              "correctFirst": false,
+              "why": "Deep snow cuts the mountain village off every winter. A flooded road often cuts the farm off from town. The freeway cuts them off from lions to the north, so many lions breed with close relatives."
+            },
+            {
+              "display": "die out",
+              "base": "die out",
+              "correct": "To stop existing completely",
+              "wrong": "To hunt only at night",
+              "correctFirst": true,
+              "why": "Many old languages die out when the last speakers are gone. Some plants die out when the summers get too hot. Computer models show the lions could die out within 50 years if this starts to harm their ability to have cubs."
+            }
+          ]
+        },
+        {
+          "text": "Heavy rain in the winter of 2022 to 2023 {{pushed back}} the first [[finish date]] of late 2025. In early October 2026, crews still had to move about 3 million [[cubic feet]] of [[soil]]. Forecasters expect a strong El Niño, a weather pattern that can bring heavy rain. Flooding could {{shut down}} the work for [[safety reasons]]. The builders hope to {{wrap up}} the job before big storms arrive. The project costs 114 million dollars. Some [[critics]] have {{spoken out}} against its cost and delays.",
+          "verbs": [
+            {
+              "display": "pushed back",
+              "base": "push back",
+              "correct": "To move to a later date",
+              "wrong": "To make something cheaper",
+              "correctFirst": false,
+              "why": "Bad weather often pushes back the start of the game. My boss pushes back our meeting when she is busy. Heavy rain in the winter of 2022 to 2023 pushed back the first finish date of late 2025."
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To force something to stop",
+              "wrong": "To make something louder",
+              "correctFirst": true,
+              "why": "Heavy snow shuts down the schools for a day or two. A power failure shuts down the whole factory. Flooding could shut down the work for safety reasons."
+            },
+            {
+              "display": "wrap up",
+              "base": "wrap up",
+              "correct": "To finish a job",
+              "wrong": "To share a job",
+              "correctFirst": false,
+              "why": "Painters usually wrap up a small job in two days. I wrap up my homework before dinner. The builders hope to wrap up the job before big storms arrive."
+            },
+            {
+              "display": "spoken out",
+              "base": "speak out",
+              "correct": "To say in public what you think",
+              "wrong": "To give money to a cause",
+              "correctFirst": true,
+              "why": "Many students speak out against the new school rules. Doctors often speak out about the dangers of smoking. Some critics have spoken out against its cost and delays."
+            }
+          ]
+        },
+        {
+          "text": "Wildlife experts say the bridge will {{open up}} the hills to the north to lions that need [[mates]]. The lions' [[genetic diversity]] should then {{go up}}. By early October 2026, coyotes, deer and a mother lion with two cubs had {{shown up}} on a [[trail camera]] near the bridge. Scientists also found three [[kittens]] in the hills nearby. Once they {{grow up}} and leave their mother, they could be among the first lions to use the bridge.",
+          "verbs": [
+            {
+              "display": "open up",
+              "base": "open up",
+              "correct": "To make a place easy to reach",
+              "wrong": "To give a place a new name",
+              "correctFirst": false,
+              "why": "A new road opens up the north side of the lake to visitors. The new bus line opens up the beach to more families. Wildlife experts say the bridge will open up the hills to the north to lions that need mates."
+            },
+            {
+              "display": "go up",
+              "base": "go up",
+              "correct": "To become higher or greater",
+              "wrong": "To stay hidden from view",
+              "correctFirst": true,
+              "why": "Rent goes up almost every year in big cities. The number of birds in the park goes up in the spring. The lions' genetic diversity should then go up."
+            },
+            {
+              "display": "shown up",
+              "base": "show up",
+              "correct": "To appear somewhere",
+              "wrong": "To sleep during the day",
+              "correctFirst": false,
+              "why": "Deer often show up in our backyard at night. My cat shows up at the door when it is hungry. By early October 2026, coyotes, deer and a mother lion with two cubs had shown up on a trail camera near the bridge."
+            },
+            {
+              "display": "grow up",
+              "base": "grow up",
+              "correct": "To become an adult",
+              "wrong": "To get a new name",
+              "correctFirst": true,
+              "why": "Children grow up very quickly. Most young birds grow up in just a few weeks. Once they grow up and leave their mother, they could be among the first lions to use the bridge."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Put in",
+          "def": "To plant something in the ground",
+          "ipa": "/pʊt ɪn/",
+          "ex": [
+            "We put in a small vegetable garden behind the house.",
+            "The school puts in flowers near the front door every April.",
+            "My neighbor put in three apple trees last year."
+          ]
+        },
+        {
+          "verb": "Move in",
+          "def": "To start living in a place",
+          "ipa": "/muv ɪn/",
+          "ex": [
+            "Our new neighbors moved in last weekend.",
+            "My sister is moving in with us for the summer.",
+            "Mice moved in when the old barn was empty."
+          ]
+        },
+        {
+          "verb": "Box in",
+          "def": "To trap in a small area",
+          "ipa": "/bɑks ɪn/",
+          "ex": [
+            "Big trucks often box in small cars on the highway.",
+            "The cows were boxed in by fences on three sides.",
+            "She felt boxed in at her tiny desk in the corner."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To separate from others",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The storm cut the island off from the mainland for three days.",
+            "The river cuts the farm off from the nearest town.",
+            "Without a phone, he felt cut off from his family."
+          ]
+        },
+        {
+          "verb": "Die out",
+          "def": "To stop existing completely",
+          "ipa": "/daɪ aʊt/",
+          "ex": [
+            "Dinosaurs died out millions of years ago.",
+            "This custom is dying out in big cities.",
+            "Scientists fear the frogs will die out without clean water."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To move to a later date",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "They pushed back the wedding to June.",
+            "The airline pushed our flight back by two hours.",
+            "We had to push back the party because of the storm."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To force something to stop",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The police shut down the road after the crash.",
+            "Strong winds shut down the airport for hours.",
+            "The city shut down the pool for repairs."
+          ]
+        },
+        {
+          "verb": "Wrap up",
+          "def": "To finish a job",
+          "ipa": "/ræp ʌp/",
+          "ex": [
+            "The plumber wrapped up the job in an hour.",
+            "Let's wrap up this project before Friday.",
+            "The roofers hope to wrap up the work by the end of the month."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say in public what you think",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "She spoke out against the plan at the town meeting.",
+            "More parents are speaking out about school safety.",
+            "He was afraid to speak out at first."
+          ]
+        },
+        {
+          "verb": "Open up",
+          "def": "To make a place easy to reach",
+          "ipa": "/ˈoʊpən ʌp/",
+          "ex": [
+            "The new trail opens up the forest to hikers.",
+            "The bridge opened up the island to tourists.",
+            "A new train line will open up the area to more workers."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher or greater",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "Gas prices went up again this month.",
+            "Sales usually go up before Christmas.",
+            "The temperature will go up later today."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear somewhere",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "A bear showed up at our campsite last night.",
+            "His face showed up on the store's security camera.",
+            "Only ten people showed up for the meeting."
+          ]
+        },
+        {
+          "verb": "Grow up",
+          "def": "To become an adult",
+          "ipa": "/ɡroʊ ʌp/",
+          "ex": [
+            "The cubs will leave their mother when they grow up.",
+            "Lion cubs stay with their mother until they grow up.",
+            "She wants to be a vet when she grows up."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "wildlife crossing",
+          "def": "A bridge or tunnel that lets wild animals cross a road safely",
+          "ipa": "/ˈwaɪldˌlaɪf ˈkrɔsɪŋ/",
+          "ex": [
+            "Drivers saw a wildlife crossing sign near the forest.",
+            "The state plans to build a wildlife crossing over the highway.",
+            "Bears now use the wildlife crossing every night."
+          ]
+        },
+        {
+          "word": "lanes",
+          "def": "Parts of a road, each wide enough for one line of cars",
+          "ipa": "/leɪnz/",
+          "ex": [
+            "The highway has four lanes in each direction.",
+            "Trucks must stay in the right lanes.",
+            "Two lanes were closed after the accident."
+          ]
+        },
+        {
+          "word": "native plants",
+          "def": "Plants that grow naturally in a place and were not brought from far away",
+          "ipa": "/ˈneɪtɪv plænts/",
+          "ex": [
+            "Native plants need less water than grass.",
+            "The park sells native plants every spring.",
+            "Bees love the native plants in her garden."
+          ]
+        },
+        {
+          "word": "lizard",
+          "def": "A small animal with four short legs, dry skin and a long tail",
+          "ipa": "/ˈlɪzərd/",
+          "ex": [
+            "A tiny lizard ran across the hot rock.",
+            "My son keeps a pet lizard in his room.",
+            "We saw a green lizard on the garden wall."
+          ]
+        },
+        {
+          "word": "ribbon cutting",
+          "def": "A small event where a ribbon is cut to show that something new is open",
+          "ipa": "/ˈrɪbən ˈkʌtɪŋ/",
+          "ex": [
+            "The mayor came to the ribbon cutting for the new library.",
+            "The ribbon cutting for the store is on Monday.",
+            "Kids from the school helped at the ribbon cutting."
+          ]
+        },
+        {
+          "word": "mountain lions",
+          "def": "Large wild cats with brown fur that live in parts of North and South America",
+          "ipa": "/ˈmaʊntən ˈlaɪənz/",
+          "ex": [
+            "Mountain lions usually hunt alone at night.",
+            "Hikers rarely see mountain lions in the wild.",
+            "Signs at the park warn people about mountain lions."
+          ]
+        },
+        {
+          "word": "breed",
+          "def": "To have babies together (used for animals)",
+          "ipa": "/brid/",
+          "ex": [
+            "Many birds breed in the spring.",
+            "Pandas do not breed easily in zoos.",
+            "These frogs breed in small ponds."
+          ]
+        },
+        {
+          "word": "close relatives",
+          "def": "Family members such as parents, brothers, sisters and cousins",
+          "ipa": "/kloʊs ˈrɛlətɪvz/",
+          "ex": [
+            "Only close relatives came to the small wedding.",
+            "She lives near several close relatives.",
+            "Doctors asked if any close relatives had the same illness."
+          ]
+        },
+        {
+          "word": "threatened species",
+          "def": "A type of animal or plant that could disappear if nothing is done",
+          "ipa": "/ˈθrɛtənd ˈspiʃiz/",
+          "ex": [
+            "The bird is now a threatened species in this state.",
+            "Hunting a threatened species is against the law.",
+            "Scientists count each threatened species every year."
+          ]
+        },
+        {
+          "word": "finish date",
+          "def": "The day when a job is planned to be done",
+          "ipa": "/ˈfɪnɪʃ deɪt/",
+          "ex": [
+            "The new school has a finish date in August.",
+            "Rain moved the finish date for our kitchen.",
+            "The company promised a finish date of May 1."
+          ]
+        },
+        {
+          "word": "cubic feet",
+          "def": "A unit for measuring how much space something fills",
+          "ipa": "/ˈkjubɪk fit/",
+          "ex": [
+            "This fridge holds 20 cubic feet of food.",
+            "The truck can carry 1,000 cubic feet of boxes.",
+            "How many cubic feet of air are in this room?"
+          ]
+        },
+        {
+          "word": "soil",
+          "def": "The top layer of the earth, where plants grow",
+          "ipa": "/sɔɪl/",
+          "ex": [
+            "Tomatoes grow best in rich soil.",
+            "The soil was too dry for the seeds.",
+            "He filled the pots with fresh soil."
+          ]
+        },
+        {
+          "word": "safety reasons",
+          "def": "Causes for doing something so that no one gets hurt",
+          "ipa": "/ˈseɪfti ˈrizənz/",
+          "ex": [
+            "The pool closed early for safety reasons.",
+            "For safety reasons, please stay behind the line.",
+            "The game was stopped for safety reasons during the storm."
+          ]
+        },
+        {
+          "word": "critics",
+          "def": "People who say that something is bad or wrong",
+          "ipa": "/ˈkrɪtɪks/",
+          "ex": [
+            "Critics say the new tax is unfair.",
+            "The mayor answered her critics at the meeting.",
+            "Some critics did not like the new park design."
+          ]
+        },
+        {
+          "word": "mates",
+          "def": "Animals that have babies together",
+          "ipa": "/meɪts/",
+          "ex": [
+            "Some birds keep the same mates for life.",
+            "Male frogs call loudly to find mates.",
+            "Wolves often leave their pack to find mates."
+          ]
+        },
+        {
+          "word": "genetic diversity",
+          "def": "The amount of difference between the genes of animals or plants in a group",
+          "ipa": "/dʒəˈnɛtɪk dɪˈvɜrsəti/",
+          "ex": [
+            "Small groups of animals often have low genetic diversity.",
+            "Farmers plant many kinds of corn to keep genetic diversity.",
+            "Zoos share animals to protect genetic diversity."
+          ]
+        },
+        {
+          "word": "trail camera",
+          "def": "A camera outdoors that takes a picture when an animal moves in front of it",
+          "ipa": "/treɪl ˈkæmərə/",
+          "ex": [
+            "Our trail camera caught a fox in the yard.",
+            "Hunters often set a trail camera near water.",
+            "The trail camera took photos of a bear at night."
+          ]
+        },
+        {
+          "word": "kittens",
+          "def": "Very young cats; also used for very young mountain lions",
+          "ipa": "/ˈkɪtənz/",
+          "ex": [
+            "Our cat had four kittens in the closet.",
+            "The kittens slept in a pile next to their mother.",
+            "The shelter has three kittens ready for new homes."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A huge bridge for animals is nearly ready over a busy freeway near Los Angeles. It should help trapped mountain lions reach new mates, which experts say they badly need to survive.",
+          "a": true,
+          "why": "Many lions breed with close relatives and could die out. The bridge will open up the hills to the north to lions that need mates."
+        },
+        {
+          "s": "A large bridge over a freeway near Los Angeles will soon be ready for mountain lions. Its main goal is to stop the big cats from entering nearby towns and neighborhoods at night.",
+          "a": false,
+          "why": "Close, but the bridge is meant to help the lions reach other lions. The freeway cuts them off, so many breed with close relatives."
+        },
+        {
+          "s": "A new study says bright city lights keep big cats awake at night near Los Angeles. The scientists want darker streets close to the hills where these animals live and hunt.",
+          "a": false,
+          "why": "This is about a giant bridge for animals over a freeway. It should help boxed in mountain lions reach other lions."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The bridge was built mainly to help mountain lions.",
+          "a": true,
+          "why": "Freeways and towns have boxed in the big cats, so they need a safe way to reach other lions."
+        },
+        {
+          "s": "The lions can easily reach other lions in the hills to the north.",
+          "a": false,
+          "why": "The ten-lane freeway cuts them off from those lions, so many breed with close relatives."
+        },
+        {
+          "s": "Heavy rain pushed back the bridge's first finish date.",
+          "a": true,
+          "why": "Rain in the winter of 2022 to 2023 pushed back the first finish date of late 2025. A ribbon cutting is now planned for December 2, 2026."
+        },
+        {
+          "s": "The bridge is already open to wild animals.",
+          "a": false,
+          "why": "It is almost finished, and the builders hope to wrap up the job before big storms arrive."
+        },
+        {
+          "s": "No one has spoken out against the cost of the bridge.",
+          "a": false,
+          "why": "Some critics have spoken out against the project's cost and its delays."
+        },
+        {
+          "s": "A mother lion with cubs has shown up on a camera near the bridge.",
+          "a": true,
+          "why": "A trail camera near the bridge caught her and her two cubs, along with coyotes and deer."
+        }
+      ]
+    },
+    {
       "id": "brazil-lula-wins-runoff-2026",
       "number": 183,
       "headline": "Lula wins a fourth term as Brazil's president",
