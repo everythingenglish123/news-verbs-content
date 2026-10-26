@@ -1,147 +1,245 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "stories": [
     {
-      "id": "serbia-election-result-2026",
+      "id": "brazil-lula-wins-runoff-2026",
       "number": 183,
-      "headline": "Serbia's longtime leader admits defeat to students",
+      "headline": "Lula wins a fourth term as Brazil's president",
       "badge": "Politics",
       "meta": "",
-      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n183-serbia-election-result-2026-flat.webp",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n183-brazil-lula-wins-runoff-2026-flat.webp",
       "position": "center 45%",
       "sources": [
         {
-          "title": "Serbia's Vucic concedes defeat to student-led movement in parliamentary elections (RTE, Reuters)",
-          "url": "https://www.rte.ie/news/2026/1025/1596799-serbia-parliamentary-elections/"
+          "title": "Lula wins fourth term as Brazil's president, beating Flávio Bolsonaro in runoff (CBS News)",
+          "url": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"
         },
         {
-          "title": "Vucic Concedes Serbia Election Defeat as Student List Claims 135-140 Seats (Novinite)",
-          "url": "https://www.novinite.com/articles/241255/Vucic+Concedes+Serbia+Election+Defeat+as+Student+List+Claims+135-140+Seats"
+          "title": "Lula holds off far right with victory in Brazil presidential election (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election"
         },
         {
-          "title": "Serbia holds parliamentary election as populist leader Vucic faces student movement (France 24)",
-          "url": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+          "title": "Lula re-elected in Brazil as Bolsonaro rejects results (CBC News)",
+          "url": "https://www.cbc.ca/news/world/lula-brazil-reelection-9.7395695"
         }
       ],
       "chunks": [
         {
-          "text": "Serbia held an early parliamentary election on October 25, 2026. Voters {{showed up}} in large numbers, and news reports said [[turnout]] was the highest since 1992. That evening, the country's longtime leader [[admitted defeat]]. He said a list backed by the student protest movement had won. He added that the [[final results]] were not ready. Celebrations soon {{broke out}} in Belgrade and other cities. Drivers [[honked their horns]] as young people [[chanted]] \"Victory!\"",
+          "text": "President Lula has {{pulled off}} a [[comeback]]. On October 25, 2026, Brazil held a presidential runoff, a second vote between the top two candidates. Lula {{held off}} a [[strong challenge]] from Senator Bolsonaro, the son of a former president. Brazil's [[electoral court]], which runs elections, said Lula won 51.8 percent, about 4.4 million votes more than Bolsonaro. Lula {{fell behind}} in the first round on October 4. Since [[military rule]] ended in 1985, no candidate had won the [[presidency]] after coming second in the first round.",
           "verbs": [
             {
-              "display": "showed up",
-              "base": "show up",
-              "correct": "To come to a place to take part",
-              "wrong": "To send a vote by mail",
+              "display": "pulled off",
+              "base": "pull off",
+              "correct": "To succeed at something difficult",
+              "wrong": "To ask for a vote recount",
               "correctFirst": true,
-              "why": "Most of the class shows up early on test days. Few people show up for the game when it rains. Voters showed up in large numbers on October 25, 2026."
+              "why": "Small teams sometimes pull off big wins. She often pulls off hard tasks at work. President Lula has pulled off a comeback."
             },
+            {
+              "display": "held off",
+              "base": "hold off",
+              "correct": "To stop a rival from winning",
+              "wrong": "To share power with a rival",
+              "correctFirst": false,
+              "why": "The home team holds off a late attack in most games. A good runner holds off the others near the finish line. Lula held off a strong challenge from Senator Bolsonaro, the son of a former president."
+            },
+            {
+              "display": "fell behind",
+              "base": "fall behind",
+              "correct": "To be losing to a rival",
+              "wrong": "To refuse to join a debate",
+              "correctFirst": true,
+              "why": "Some candidates fall behind after a bad debate. A team falls behind when the other side scores first. Lula fell behind in the first round on October 4."
+            }
+          ]
+        },
+        {
+          "text": "Election day ended in [[confusion]] at [[polling stations]]. Just before closing time, a Supreme Court [[justice]], a judge on Brazil's top court, ordered a two-hour [[extension]] of voting. Both campaigns had asked for more time. Lula's [[allies]] said bus service had been {{scaled back}} in some [[working-class]] areas. Bolsonaro's team said heavy rain slowed voting in the south. Voting {{wrapped up}} two hours late, which {{held up}} the count. At one station, [[voting machines]] had already been {{turned off}} and could not be restarted.",
+          "verbs": [
+            {
+              "display": "scaled back",
+              "base": "scale back",
+              "correct": "To offer less of a service",
+              "wrong": "To make a service cost more",
+              "correctFirst": false,
+              "why": "Many cities scale back train service at night. Some stores scale back their hours in winter. Lula's allies said bus service had been scaled back in some working-class areas."
+            },
+            {
+              "display": "wrapped up",
+              "base": "wrap up",
+              "correct": "To finish or end",
+              "wrong": "To move to a new building",
+              "correctFirst": true,
+              "why": "Our meetings usually wrap up before noon. The school year wraps up in early June. Voting wrapped up two hours late, which held up the count."
+            },
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To make something happen later",
+              "wrong": "To check something a second time",
+              "correctFirst": false,
+              "why": "Bad weather often holds up flights. A long line holds up everyone behind it. Voting wrapped up two hours late, which held up the count."
+            },
+            {
+              "display": "turned off",
+              "base": "turn off",
+              "correct": "To make a machine stop running",
+              "wrong": "To fix a machine that is broken",
+              "correctFirst": true,
+              "why": "I turn off my computer every night. She turns off the lights when she leaves a room. At one station, voting machines had already been turned off and could not be restarted."
+            }
+          ]
+        },
+        {
+          "text": "Bolsonaro has not [[conceded defeat]]. He said he would ask the courts to {{throw out}} the election. He {{pushed back}} hard and called the extension [[unacceptable]]. He said the justice changed the rules while people were still voting. He {{pointed out}} that the justice once worked as Lula's lawyer. The head of the electoral court also criticized the extension, but said it did not change the result.",
+          "verbs": [
+            {
+              "display": "throw out",
+              "base": "throw out",
+              "correct": "To say a result does not count",
+              "wrong": "To make a result public",
+              "correctFirst": true,
+              "why": "Judges sometimes throw out a case with weak evidence. The league throws out a game result when a team breaks the rules. He said he would ask the courts to throw out the election."
+            },
+            {
+              "display": "pushed back",
+              "base": "push back",
+              "correct": "To argue against a decision",
+              "wrong": "To vote for someone again",
+              "correctFirst": false,
+              "why": "Parents often push back when a school changes the rules. Workers push back against longer hours. He pushed back hard and called the extension unacceptable."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To mention a fact to others",
+              "wrong": "To praise someone in public",
+              "correctFirst": false,
+              "why": "My teacher points out my spelling mistakes. A good guide points out the oldest buildings in town. He pointed out that the justice once worked as Lula's lawyer."
+            }
+          ]
+        },
+        {
+          "text": "[[Celebrations]] {{broke out}} in Brazil's two biggest cities. Lula was president for two [[terms]], from 2003 to 2010, and again from 2023. His fourth term is due to {{kick off}} on January 5, 2027, when he will be 81. Right-wing parties, Lula's main opponents, are strong in the new Congress, which makes Brazil's laws. He said he would work with [[lawmakers]] to pass his plans.",
+          "verbs": [
             {
               "display": "broke out",
               "base": "break out",
               "correct": "To start suddenly",
-              "wrong": "To be held in a big stadium",
-              "correctFirst": false,
-              "why": "Laughter often breaks out in her class. Applause breaks out when the home team scores. Celebrations broke out in Belgrade and other cities that evening."
-            }
-          ]
-        },
-        {
-          "text": "The leader's numbers came from a [[sample]] of [[polling stations]], not a [[full count]]. He said the student-led list would win 135 to 140 of the 250 [[seats]] in parliament. He expected his own list to win about 105. The first official [[figures]] {{came in}} from only about 200 polling stations and showed his side ahead. A list needs 126 seats to [[govern]] alone. If his [[estimate]] is correct, the student-led list could {{take over}} the government.",
-          "verbs": [
-            {
-              "display": "came in",
-              "base": "come in",
-              "correct": "To arrive or be received",
-              "wrong": "To be checked a second time",
+              "wrong": "To be held indoors",
               "correctFirst": true,
-              "why": "Orders come in all day at the pizza shop. Votes from small towns come in slowly. The first official figures came in from only about 200 polling stations."
+              "why": "Applause breaks out when the home team scores. Laughter often breaks out at family dinners. Celebrations broke out in Brazil's two biggest cities."
             },
             {
-              "display": "take over",
-              "base": "take over",
-              "correct": "To take control of something",
-              "wrong": "To share power with others",
+              "display": "kick off",
+              "base": "kick off",
+              "correct": "To begin or start",
+              "wrong": "To be moved to a new date",
               "correctFirst": false,
-              "why": "A new principal takes over the school when the old one retires. Big companies often take over smaller ones. If his estimate is correct, the student-led list could take over the government."
-            }
-          ]
-        },
-        {
-          "text": "Earlier that day, the leader said his side would accept the [[will of the voters]] if it lost. Later, he said his party would {{carry on}} fighting as the [[opposition]]. The student movement asked [[supporters]] to stay calm. It told them to {{stay away}} from areas with many police officers. It also asked people to help watch the count. The list says it wants to {{crack down on}} [[corruption]] and improve schools.",
-          "verbs": [
-            {
-              "display": "carry on",
-              "base": "carry on",
-              "correct": "To continue doing something",
-              "wrong": "To start a new party",
-              "correctFirst": true,
-              "why": "She carries on with her work after the baby falls asleep. The band carries on playing during the storm. The leader said his party would carry on fighting as the opposition."
-            },
-            {
-              "display": "stay away",
-              "base": "stay away",
-              "correct": "To not go near a place",
-              "wrong": "To go home before dark",
-              "correctFirst": false,
-              "why": "Small children stay away from the hot stove. Many people stay away from busy stores on weekends. The student movement told supporters to stay away from areas with many police officers."
-            },
-            {
-              "display": "crack down on",
-              "base": "crack down on",
-              "correct": "To act strongly to stop something",
-              "wrong": "To study something very closely",
-              "correctFirst": true,
-              "why": "The city cracks down on drivers who speed near schools. Many teachers crack down on cheating during exams. The student-led list says it wants to crack down on corruption."
-            }
-          ]
-        },
-        {
-          "text": "Official results from the election commission {{come out}} in the days after the vote. Then the new parliament must meet and vote on a prime minister. Forming a new government can {{drag on}} for weeks. On election night, the list had not {{put forward}} a [[candidate]] for prime minister. On October 20, its leader, a [[heart doctor]], said the list had more than one candidate for every job. Serbians will then {{find out}} who leads their next government.",
-          "verbs": [
-            {
-              "display": "come out",
-              "base": "come out",
-              "correct": "To be made public",
-              "wrong": "To be kept in a safe place",
-              "correctFirst": false,
-              "why": "Test scores come out every summer. The new job numbers come out each Friday. Official results from the election commission come out in the days after the vote."
-            },
-            {
-              "display": "drag on",
-              "base": "drag on",
-              "correct": "To last longer than people want",
-              "wrong": "To be shown on live television",
-              "correctFirst": true,
-              "why": "Some work meetings drag on for hours. In some years, the cold weather drags on into April. Forming a new government in Serbia can drag on for weeks."
-            },
-            {
-              "display": "put forward",
-              "base": "put forward",
-              "correct": "To name someone as a choice for a job",
-              "wrong": "To thank someone for their hard work",
-              "correctFirst": false,
-              "why": "Each party puts forward a candidate for mayor. The coach puts forward two players for team captain. On election night, the list had not put forward a candidate for prime minister."
-            },
-            {
-              "display": "find out",
-              "base": "find out",
-              "correct": "To learn a fact",
-              "wrong": "To vote a second time",
-              "correctFirst": true,
-              "why": "Students find out their grades online. Most people find out the news on their phones. Serbians will then find out who leads their next government."
+              "why": "The summer festival kicks off every July. Our workday kicks off with a short meeting. His fourth term is due to kick off on January 5, 2027, when he will be 81."
             }
           ]
         }
       ],
       "vocab": [
         {
-          "verb": "Show up",
-          "def": "To come to a place to take part",
-          "ipa": "/ʃoʊ ʌp/",
+          "verb": "Pull off",
+          "def": "To succeed at something difficult",
+          "ipa": "/pʊl ɔf/",
           "ex": [
-            "Only six people showed up for the meeting.",
-            "Please show up ten minutes before the class starts.",
-            "Thousands of fans showed up at the airport to see the team."
+            "Nobody thought the small company could pull off the deal.",
+            "She pulled off a perfect score on the final exam.",
+            "Can the team pull off another win on Saturday?"
+          ]
+        },
+        {
+          "verb": "Hold off",
+          "def": "To stop a rival from winning",
+          "ipa": "/hoʊld ɔf/",
+          "ex": [
+            "The champion held off a young player to keep her title.",
+            "Our school held off three other teams to win the contest.",
+            "The runner held off the pack until the very end."
+          ]
+        },
+        {
+          "verb": "Fall behind",
+          "def": "To be losing to a rival",
+          "ipa": "/fɔl bɪˈhaɪnd/",
+          "ex": [
+            "The mayor fell behind in the polls after the debate.",
+            "Our team fell behind by ten points in the first half.",
+            "The candidate fell behind early but kept campaigning."
+          ]
+        },
+        {
+          "verb": "Scale back",
+          "def": "To offer less of a service",
+          "ipa": "/skeɪl bæk/",
+          "ex": [
+            "The airline scaled back flights to smaller cities.",
+            "The library scaled back its weekend hours.",
+            "The company scaled back its delivery service in rural areas."
+          ]
+        },
+        {
+          "verb": "Wrap up",
+          "def": "To finish or end",
+          "ipa": "/ræp ʌp/",
+          "ex": [
+            "The concert wrapped up just before midnight.",
+            "Let's wrap up this meeting and go to lunch.",
+            "The festival wraps up on Sunday evening."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To make something happen later",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "An accident on the highway held up traffic for an hour.",
+            "Missing papers held up my visa for weeks.",
+            "The storm held up the delivery of our new couch."
+          ]
+        },
+        {
+          "verb": "Turn off",
+          "def": "To make a machine stop running",
+          "ipa": "/tɜrn ɔf/",
+          "ex": [
+            "Please turn off your phone before the movie starts.",
+            "He forgot to turn off the oven.",
+            "The workers turned off the power to fix the wires."
+          ]
+        },
+        {
+          "verb": "Throw out",
+          "def": "To say a result does not count",
+          "ipa": "/θroʊ aʊt/",
+          "ex": [
+            "The judge threw out the case because of a missing document.",
+            "The committee threw out the vote because too few members were there.",
+            "A court may throw out a contract that breaks the law."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To argue against a decision",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "Teachers pushed back against the new testing plan.",
+            "Some neighbors pushed back when the city planned a new road.",
+            "The players pushed back against the coach's decision."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To mention a fact to others",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out that the store was closed on Mondays.",
+            "My friend pointed out a mistake in my email.",
+            "The doctor pointed out that I need more sleep."
           ]
         },
         {
@@ -149,161 +247,81 @@
           "def": "To start suddenly",
           "ipa": "/breɪk aʊt/",
           "ex": [
-            "A fire broke out in the kitchen of the hotel.",
+            "A fire broke out in the kitchen of the restaurant.",
             "Loud clapping broke out when the singer walked on stage.",
-            "Laughter broke out after the teacher's joke."
+            "A fight broke out at the end of the game."
           ]
         },
         {
-          "verb": "Come in",
-          "def": "To arrive or be received",
-          "ipa": "/kʌm ɪn/",
+          "verb": "Kick off",
+          "def": "To begin or start",
+          "ipa": "/kɪk ɔf/",
           "ex": [
-            "Calls came in all night after the storm.",
-            "Job applications keep coming in every day.",
-            "The test results came in this morning."
-          ]
-        },
-        {
-          "verb": "Take over",
-          "def": "To take control of something",
-          "ipa": "/teɪk ˈoʊvər/",
-          "ex": [
-            "A bigger company plans to take over the small bakery.",
-            "Her son will take over the shop next year.",
-            "The new coach took over the team in June."
-          ]
-        },
-        {
-          "verb": "Carry on",
-          "def": "To continue doing something",
-          "ipa": "/ˈkæri ɑn/",
-          "ex": [
-            "Please carry on with your work while I make a call.",
-            "He carried on talking after the bell rang.",
-            "We carried on walking even though it was cold."
-          ]
-        },
-        {
-          "verb": "Stay away",
-          "def": "To not go near a place",
-          "ipa": "/steɪ əˈweɪ/",
-          "ex": [
-            "Doctors tell people to stay away from smoke.",
-            "I stay away from that road when it snows.",
-            "Please stay away from the edge of the pool."
-          ]
-        },
-        {
-          "verb": "Crack down on",
-          "def": "To act strongly to stop something",
-          "ipa": "/kræk daʊn ɑn/",
-          "ex": [
-            "Police plan to crack down on drunk driving.",
-            "The school cracked down on phones in class.",
-            "The city wants to crack down on people who leave trash in parks."
-          ]
-        },
-        {
-          "verb": "Come out",
-          "def": "To be made public",
-          "ipa": "/kʌm aʊt/",
-          "ex": [
-            "The news came out late at night.",
-            "When does the new report come out?",
-            "The truth about the plan came out a year later."
-          ]
-        },
-        {
-          "verb": "Drag on",
-          "def": "To last longer than people want",
-          "ipa": "/dræɡ ɑn/",
-          "ex": [
-            "The trial dragged on for two years.",
-            "The meeting dragged on until dinner time.",
-            "I hope this cold weather doesn't drag on much longer."
-          ]
-        },
-        {
-          "verb": "Put forward",
-          "def": "To name someone as a choice for a job",
-          "ipa": "/pʊt ˈfɔrwərd/",
-          "ex": [
-            "The board put forward three people for the top job.",
-            "Her boss put her name forward for a new position.",
-            "Each class can put forward one student for the prize."
-          ]
-        },
-        {
-          "verb": "Find out",
-          "def": "To learn a fact",
-          "ipa": "/faɪnd aʊt/",
-          "ex": [
-            "I found out the store was closed.",
-            "Call the office to find out the price.",
-            "She found out she got the job on Friday."
+            "The new TV season kicks off in September.",
+            "The city's music festival kicked off with a free concert.",
+            "The campaign will kick off next week in Chicago."
           ]
         }
       ],
       "wordDefs": [
         {
-          "word": "turnout",
-          "def": "The number of people who vote in an election",
-          "ipa": "/ˈtɝnˌaʊt/",
+          "word": "comeback",
+          "def": "A return to success after a period of losing",
+          "ipa": "/ˈkʌmˌbæk/",
           "ex": [
-            "Turnout is often low when it rains.",
-            "The town hopes for a high turnout next month.",
-            "Young voters helped raise the turnout."
+            "The singer made a big comeback with her new album.",
+            "Our team staged a comeback in the last ten minutes.",
+            "After two bad years, the restaurant made a comeback."
           ]
         },
         {
-          "word": "admitted defeat",
-          "def": "Said openly that you have lost",
-          "ipa": "/ədˈmɪtɪd dɪˈfit/",
+          "word": "strong challenge",
+          "def": "A serious attempt by someone to beat you",
+          "ipa": "/strɔŋ ˈtʃælɪndʒ/",
           "ex": [
-            "After the third game, the team admitted defeat.",
-            "She admitted defeat and asked her brother for help with the puzzle.",
-            "He finally admitted defeat and bought a new phone."
+            "The champion faced a strong challenge from a new player.",
+            "The company faces a strong challenge from cheaper brands.",
+            "She expects a strong challenge in the next race."
           ]
         },
         {
-          "word": "final results",
-          "def": "The last and complete numbers after everything is counted",
-          "ipa": "/ˈfaɪnəl rɪˈzʌlts/",
+          "word": "electoral court",
+          "def": "A court that runs elections and announces official results",
+          "ipa": "/ɪˈlɛktərəl kɔrt/",
           "ex": [
-            "The final results of the race were posted online.",
-            "We will know the final results on Monday.",
-            "The final results showed a close win."
+            "The electoral court checks that every vote is counted.",
+            "Candidates must register with the electoral court.",
+            "The electoral court will publish the final numbers tonight."
           ]
         },
         {
-          "word": "honked their horns",
-          "def": "Made a loud noise with a car horn",
-          "ipa": "/hɑŋkt ðɛr hɔrnz/",
+          "word": "military rule",
+          "def": "A time when the army controls a country's government",
+          "ipa": "/ˈmɪləˌtɛri rul/",
           "ex": [
-            "Drivers honked their horns at the slow bus.",
-            "Fans honked their horns after the big win.",
-            "The taxi drivers honked their horns in the traffic."
+            "The country lived under military rule for twenty years.",
+            "Many books describe life under military rule.",
+            "My grandparents still talk about the years of military rule."
           ]
         },
         {
-          "word": "chanted",
-          "def": "Said the same words again and again in a loud voice",
-          "ipa": "/ˈtʃæntɪd/",
+          "word": "presidency",
+          "def": "The job of being president",
+          "ipa": "/ˈprɛzɪdənsi/",
           "ex": [
-            "The fans chanted the team's name.",
-            "The children chanted a song on the bus.",
-            "Workers chanted outside the factory."
+            "She is the first woman to win the presidency in her country.",
+            "He wrote a book about his presidency.",
+            "The presidency lasts four years in many countries."
           ]
         },
         {
-          "word": "sample",
-          "def": "A small part of a group used to learn about the whole group",
-          "ipa": "/ˈsæmpəl/",
+          "word": "confusion",
+          "def": "A situation where people do not know what is happening",
+          "ipa": "/kənˈfjuʒən/",
           "ex": [
-            "The survey used a sample of 1,000 adults.",
-            "Doctors tested a sample of the water.",
-            "A small sample can still give useful answers."
+            "There was confusion at the airport after the flight was canceled.",
+            "A new bus schedule caused confusion in our town.",
+            "The teacher's unclear email led to confusion."
           ]
         },
         {
@@ -312,168 +330,158 @@
           "ipa": "/ˈpoʊlɪŋ ˈsteɪʃənz/",
           "ex": [
             "The polling stations open at 7 a.m.",
-            "Many schools become polling stations on election day.",
-            "There were long lines at some polling stations."
+            "Our school gym is one of the town's polling stations.",
+            "Long lines formed outside the polling stations."
           ]
         },
         {
-          "word": "full count",
-          "def": "A count of every single vote or item",
-          "ipa": "/fʊl kaʊnt/",
+          "word": "extension",
+          "def": "Extra time given to do something",
+          "ipa": "/ɪkˈstɛnʃən/",
           "ex": [
-            "A full count of the votes takes several days.",
-            "We did a full count of the books in the library.",
-            "The store does a full count of its stock every year."
+            "The teacher gave me an extension on my essay.",
+            "He asked his boss for an extension on the deadline.",
+            "We got a one-week extension to pay the bill."
           ]
         },
         {
-          "word": "seats",
-          "def": "Positions in a parliament that members win in an election",
-          "ipa": "/sits/",
+          "word": "allies",
+          "def": "People or groups who support and work with someone",
+          "ipa": "/ˈælaɪz/",
           "ex": [
-            "The party won ten seats in the city council.",
-            "There are 100 seats in the state senate.",
-            "She hopes to win one of the seats next year."
+            "The mayor's allies on the city council backed the plan.",
+            "She found allies among the other new teachers.",
+            "The two countries have been allies for many years."
           ]
         },
         {
-          "word": "figures",
-          "def": "Numbers, especially official ones",
-          "ipa": "/ˈfɪɡjərz/",
+          "word": "working-class",
+          "def": "Relating to people who earn money mostly from manual or low-paid jobs",
+          "ipa": "/ˈwɜrkɪŋ klæs/",
           "ex": [
-            "New figures show that prices are rising.",
-            "The sales figures were better than expected.",
-            "The school shared its figures on test scores."
+            "He lives in a working-class neighborhood.",
+            "Many working-class families take the bus to work.",
+            "The new clinic serves a working-class part of the city."
           ]
         },
         {
-          "word": "govern",
-          "def": "To control and run a country or area",
-          "ipa": "/ˈɡʌvərn/",
+          "word": "voting machines",
+          "def": "Electronic devices that people use to record their votes",
+          "ipa": "/ˈvoʊtɪŋ məˈʃinz/",
           "ex": [
-            "The party wants to govern the state for four more years.",
-            "It is hard to govern a large country.",
-            "Voters choose who will govern their city."
+            "Workers tested the voting machines before the election.",
+            "Some states use paper ballots instead of voting machines.",
+            "The voting machines print a receipt for each voter."
           ]
         },
         {
-          "word": "estimate",
-          "def": "A guess about a number based on some facts",
-          "ipa": "/ˈɛstəmɪt/",
+          "word": "conceded defeat",
+          "def": "Publicly accepted that you lost",
+          "ipa": "/kənˈsidɪd dɪˈfit/",
           "ex": [
-            "The builder gave us an estimate for the new roof.",
-            "My estimate is that 50 people will come.",
-            "Her estimate was very close to the real number."
+            "The losing candidate conceded defeat late at night.",
+            "The chess player conceded defeat after two hours.",
+            "He conceded defeat in a short phone call to the winner."
           ]
         },
         {
-          "word": "will of the voters",
-          "def": "What most people choose in an election",
-          "ipa": "/wɪl əv ðə ˈvoʊtərz/",
+          "word": "unacceptable",
+          "def": "So bad or wrong that it should not be allowed",
+          "ipa": "/ˌʌnəkˈsɛptəbəl/",
           "ex": [
-            "The mayor said she would respect the will of the voters.",
-            "A fair election shows the will of the voters.",
-            "Leaders must accept the will of the voters."
+            "The noise from the party was unacceptable.",
+            "Being late every day is unacceptable at this job.",
+            "Parents called the school's new rule unacceptable."
           ]
         },
         {
-          "word": "opposition",
-          "def": "The parties in a parliament that are not in the government",
-          "ipa": "/ˌɑpəˈzɪʃən/",
+          "word": "justice",
+          "def": "A judge on a very high court",
+          "ipa": "/ˈdʒʌstɪs/",
           "ex": [
-            "The opposition voted against the new tax.",
-            "He was a leader of the opposition for many years.",
-            "The opposition asked hard questions about the budget."
+            "The justice wrote a long opinion on the case.",
+            "The president chose a new justice for the court.",
+            "Each justice gets one vote on the final decision."
           ]
         },
         {
-          "word": "supporters",
-          "def": "People who like and help a person, team or group",
-          "ipa": "/səˈpɔrtərz/",
+          "word": "Celebrations",
+          "def": "Happy events where people mark a special success or day",
+          "ipa": "/ˌsɛləˈbreɪʃənz/",
           "ex": [
-            "The singer thanked her supporters after the show.",
-            "Supporters of the team filled the stadium.",
-            "The candidate met his supporters at a cafe."
+            "Celebrations lasted all night after the team won.",
+            "Celebrations for the new year started early in our town.",
+            "Celebrations were held across the country on Independence Day."
           ]
         },
         {
-          "word": "corruption",
-          "def": "Dishonest acts by people in power, often for money",
-          "ipa": "/kəˈrʌpʃən/",
+          "word": "lawmakers",
+          "def": "People who are elected to make laws",
+          "ipa": "/ˈlɔˌmeɪkərz/",
           "ex": [
-            "The police found corruption in the city office.",
-            "Many people are tired of corruption.",
-            "The new law aims to fight corruption."
+            "Lawmakers voted on the new budget.",
+            "Some lawmakers want to raise the minimum wage.",
+            "Lawmakers met with teachers to discuss school safety."
           ]
         },
         {
-          "word": "candidate",
-          "def": "A person who hopes to be chosen for a job or office",
-          "ipa": "/ˈkændɪdeɪt/",
+          "word": "terms",
+          "def": "Fixed periods of time in an official job",
+          "ipa": "/tɜrmz/",
           "ex": [
-            "Each candidate gave a short speech.",
-            "She is the best candidate for the job.",
-            "The candidate visited every town in the state."
-          ]
-        },
-        {
-          "word": "heart doctor",
-          "def": "A doctor who treats problems of the heart",
-          "ipa": "/hɑrt ˈdɑktər/",
-          "ex": [
-            "My grandfather sees a heart doctor every year.",
-            "The heart doctor told him to walk more.",
-            "She wants to become a heart doctor."
+            "Our governor served two terms in office.",
+            "Presidents in the United States can serve two terms.",
+            "She served three terms on the city council."
           ]
         }
       ],
       "mainIdea": [
         {
-          "s": "Serbia's longtime leader said a student-led list won the October 25 vote, using early figures. Official results come first, and then the new parliament will choose a prime minister.",
+          "s": "Brazil's president won the runoff and a fourth term after coming second in the first round. His rival has not accepted the result and wants a court to cancel it over the late voting hours.",
           "a": true,
-          "why": "The leader admitted defeat on election night. Official results come out in the days after the vote, and forming a government can drag on for weeks."
+          "why": "Lula pulled off a comeback after he fell behind in the first round. Bolsonaro pushed back hard and said he would ask the courts to throw out the election."
         },
         {
-          "s": "Serbia's election commission announced on election night that a student-led list had won a full majority. Its supporters expect a new government to start work within a few days.",
+          "s": "Brazil's leader kept the lead he took in the first round and won again by a wide margin. The losing senator now asks judges to cancel the vote because voting stayed open two extra hours.",
           "a": false,
-          "why": "Close, but the claim came from the leader's own sample, not the election commission. Forming a government can drag on for weeks."
+          "why": "Close, but Lula fell behind in the first round. He won the runoff by about 4.4 million votes, with 51.8 percent."
         },
         {
-          "s": "Thousands of university students marched to Belgrade to ask for lower fees and better classrooms. Many teachers joined them, and some schools around the country closed for a week.",
+          "s": "Brazil's electoral court has delayed the presidential runoff by one week because of heavy rain. Officials say voters in the south need more time to reach their polling places safely.",
           "a": false,
-          "why": "This story is about an election. The longtime leader admitted defeat, and celebrations broke out in Belgrade."
+          "why": "The runoff was held on October 25. Voting wrapped up two hours late, and Lula held off a strong challenge to win."
         }
       ],
       "tf": [
         {
-          "s": "Serbia's longtime leader admitted defeat on election night.",
+          "s": "Lula pulled off a comeback to win Brazil's presidential runoff.",
           "a": true,
-          "why": "He said a student-led list had won, and celebrations broke out in Belgrade soon after."
+          "why": "He came second in the first round, then beat Senator Flavio Bolsonaro, the son of a former president, by about 4.4 million votes."
         },
         {
-          "s": "Very few voters showed up for the election.",
+          "s": "Lula came first in the first round of the election.",
           "a": false,
-          "why": "Voters showed up in large numbers, and turnout was the highest since 1992."
+          "why": "Lula fell behind Bolsonaro in the first round on October 4, then won the runoff."
         },
         {
-          "s": "The leader's figures came from a sample, not a full count.",
+          "s": "A Supreme Court justice kept voting open for extra time.",
           "a": true,
-          "why": "He said the final results were not ready yet. Official results from the election commission come out in the days after the vote."
+          "why": "Both campaigns asked for more time, and voting wrapped up two hours late."
         },
         {
-          "s": "The leader said his party would leave parliament after the vote.",
+          "s": "Bolsonaro accepted the result and congratulated Lula.",
           "a": false,
-          "why": "He said his party would carry on fighting as the opposition in parliament."
+          "why": "Bolsonaro has not conceded defeat. He pushed back hard and called the extension unacceptable."
         },
         {
-          "s": "The leader expected the student-led list to win most of the seats.",
+          "s": "Bolsonaro said he would ask the courts to throw out the election.",
           "a": true,
-          "why": "He said it would win 135 to 140 of 250 seats, so it could take over the government alone."
+          "why": "He has not conceded defeat and says the justice changed the rules while people were still voting."
         },
         {
-          "s": "The student movement told supporters to go to areas with many police.",
+          "s": "Lula said he would ignore Congress and govern alone.",
           "a": false,
-          "why": "The student movement asked supporters to stay calm and to stay away from areas with many police officers."
+          "why": "Right-wing parties are strong in Congress, but Lula said he would work with lawmakers. His fourth term is due to kick off on January 5, 2027."
         }
       ]
     },
