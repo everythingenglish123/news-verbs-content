@@ -2,6 +2,498 @@
   "updated": "2026-10-27",
   "stories": [
     {
+      "id": "albania-flamingo-movement-2026",
+      "number": 186,
+      "headline": "Students join a protest movement in Albania",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n186-albania-flamingo-movement-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Riots erupt in Albania's capital as students join anti-government movement (Associated Press, via OPB)",
+          "url": "https://www.opb.org/article/2026/10/14/riots-erupt-in-albania-s-capital-as-students-join-anti-government-movement/"
+        },
+        {
+          "title": "Youths clash with police for a 3rd day in Albania's anti-government protests (Associated Press, via News4JAX)",
+          "url": "https://www.news4jax.com/news/2026/10/15/clashes-break-out-for-a-third-day-in-albania-as-anti-government-protests-swell/"
+        },
+        {
+          "title": "Albania's PM dismisses calls to resign as student protests spread (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/10/15/albanias-pm-dismisses-calls-to-resign-as-student-protests-spread"
+        },
+        {
+          "title": "'Boiling point': Why students are protesting against Albania's Edi Rama (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama"
+        },
+        {
+          "title": "Albania's anti-government demonstrations continue for fourth day (video, BBC News)",
+          "url": "https://www.youtube.com/watch?v=-nqq5zKogJs"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Thousands of students in Albania, a country in southeastern Europe, have {{risen up}} against the government. From October 13 to 15, 2026, they marched in the capital, Tirana. They are angry about the high cost of education and poor [[job prospects]] after [[graduation]]. They have joined a wider protest called the Flamingo Movement. It {{calls for}} the [[resignation]] of Prime Minister Rama, who has been [[in power]] since 2013. The students are {{taking on}} a leader who has won four national elections.",
+          "verbs": [
+            {
+              "display": "risen up",
+              "base": "rise up",
+              "correct": "To protest against leaders",
+              "wrong": "To vote in a national election",
+              "correctFirst": true,
+              "why": "Farmers rise up when a new tax hurts them. Workers often rise up when their pay is cut. Thousands of students in Albania, a country in southeastern Europe, have risen up against the government."
+            },
+            {
+              "display": "calls for",
+              "base": "call for",
+              "correct": "To say that something must happen",
+              "wrong": "To report the result of a vote",
+              "correctFirst": false,
+              "why": "Parents call for a crosswalk near the school. Nurses often call for higher pay. It calls for the resignation of Prime Minister Rama, who has been in power since 2013."
+            },
+            {
+              "display": "taking on",
+              "base": "take on",
+              "correct": "To fight or compete against someone",
+              "wrong": "To vote for a leader once more",
+              "correctFirst": true,
+              "why": "A small shop rarely takes on a big chain store. Some citizens take on the city council over parking rules. The students are taking on a leader who has won four national elections."
+            }
+          ]
+        },
+        {
+          "text": "The movement began months earlier with protests against a resort project. An [[investment company]] linked to the [[son-in-law]] of U.S. President Donald Trump plans to build a [[luxury resort]] on the southern coast. The movement's name comes from protest signs showing flamingos, which live in a [[nature reserve]] near the site. Protesters say the government is {{selling off}} parts of the coast. They say anger over prices, jobs and [[corruption]] had {{built up}} for months. The government [[denies]] the [[allegations]].",
+          "verbs": [
+            {
+              "display": "selling off",
+              "base": "sell off",
+              "correct": "To let private buyers own public land",
+              "wrong": "To rent land for a short time",
+              "correctFirst": false,
+              "why": "Cities sometimes sell off old parks to builders. The state sells off some public forests to pay its debts. Protesters say the government is selling off parts of the coast."
+            },
+            {
+              "display": "built up",
+              "base": "build up",
+              "correct": "To slowly become stronger",
+              "wrong": "To be shared on social media",
+              "correctFirst": true,
+              "why": "Anger builds up after months of bad service. Stress builds up when you never take a break. They say anger over prices, jobs and corruption had built up for months."
+            }
+          ]
+        },
+        {
+          "text": "On October 14, [[riots]] in Tirana lasted more than eight hours. Groups of young people {{broke away}} from the marches and attacked government buildings, banks and stores. [[Riot police]] used [[tear gas]] and water cannons to {{hold back}} the crowds. Dozens of people were hurt, including many police officers. Organizers accuse the police of {{cracking down}} too hard on protesters and journalists. The next day, smaller [[clashes]] {{broke out}} in other cities.",
+          "verbs": [
+            {
+              "display": "broke away",
+              "base": "break away",
+              "correct": "To leave a larger group",
+              "wrong": "To lead a group of people",
+              "correctFirst": false,
+              "why": "A few runners break away from the others early in a race. Some members break away and start their own group. Groups of young people broke away from the marches and attacked government buildings, banks and stores."
+            },
+            {
+              "display": "hold back",
+              "base": "hold back",
+              "correct": "To stop a crowd from coming closer",
+              "wrong": "To count how many people came",
+              "correctFirst": true,
+              "why": "Guards hold back the fans at the gate. A rope holds back the crowd during a parade. Riot police used tear gas and water cannons to hold back the crowds."
+            },
+            {
+              "display": "cracking down",
+              "base": "crack down",
+              "correct": "To take strong action against people",
+              "wrong": "To guard a building at night",
+              "correctFirst": false,
+              "why": "The city cracks down on drivers who speed near schools. Police crack down on people who sell fake tickets. Organizers accuse the police of cracking down too hard on protesters and journalists."
+            },
+            {
+              "display": "broke out",
+              "base": "break out",
+              "correct": "To start suddenly",
+              "wrong": "To be shown on the news",
+              "correctFirst": true,
+              "why": "Fights often break out after big games. Kitchen fires often break out in busy restaurants. The next day, smaller clashes broke out in other cities."
+            }
+          ]
+        },
+        {
+          "text": "Rama says he will not {{step down}}. He said governments change through elections, and the next one is due in 2029. He said he was ready to {{sit down}} with students to discuss education costs. But he blamed political [[opponents]] for the violence and promised to {{stay on}} and help Albania join the European Union. The main opposition party supports the students and wants [[early elections]].",
+          "verbs": [
+            {
+              "display": "step down",
+              "base": "step down",
+              "correct": "To leave an important job",
+              "wrong": "To give a long speech",
+              "correctFirst": false,
+              "why": "Many coaches step down after ten years. A principal often steps down at the end of the school year. Rama says he will not step down."
+            },
+            {
+              "display": "sit down",
+              "base": "sit down",
+              "correct": "To meet someone and talk seriously",
+              "wrong": "To visit a school as a guest",
+              "correctFirst": true,
+              "why": "Parents sit down with teachers to talk about grades. The two sides sit down every year to discuss a new deal. He said he was ready to sit down with students to discuss education costs."
+            },
+            {
+              "display": "stay on",
+              "base": "stay on",
+              "correct": "To keep a job for longer",
+              "wrong": "To travel to other countries",
+              "correctFirst": false,
+              "why": "Some teachers stay on for one more year before they retire. A good coach often stays on until the end of the season. But he blamed political opponents for the violence and promised to stay on and help Albania join the European Union."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Rise up",
+          "def": "To protest against leaders",
+          "ipa": "/raɪz ʌp/",
+          "ex": [
+            "In history class, we read about people who rose up against a cruel king.",
+            "The workers rose up against the unfair new rules.",
+            "Citizens may rise up when leaders ignore them for years."
+          ]
+        },
+        {
+          "verb": "Call for",
+          "def": "To say that something must happen",
+          "ipa": "/kɔl fɔr/",
+          "ex": [
+            "Doctors are calling for more nurses in the hospital.",
+            "Many drivers called for lower gas prices.",
+            "The union called for a shorter work week."
+          ]
+        },
+        {
+          "verb": "Take on",
+          "def": "To fight or compete against someone",
+          "ipa": "/teɪk ɑn/",
+          "ex": [
+            "Our little team took on the champions and almost won.",
+            "It is hard to take on a big company in court.",
+            "A young lawyer decided to take on the mayor in the next race."
+          ]
+        },
+        {
+          "verb": "Sell off",
+          "def": "To let private buyers own public land",
+          "ipa": "/sɛl ɔf/",
+          "ex": [
+            "The town sold off its only public beach to a hotel.",
+            "People were angry when the state sold off the old forest.",
+            "The city plans to sell off two empty schools to builders."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To slowly become stronger",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "Fear built up in the town after the storm warning.",
+            "Tension built up between the two neighbors all summer.",
+            "Her worry built up as the hours passed."
+          ]
+        },
+        {
+          "verb": "Break away",
+          "def": "To leave a larger group",
+          "ipa": "/breɪk əˈweɪ/",
+          "ex": [
+            "Some children broke away from the tour group to see the fish.",
+            "A small part of the club broke away and formed a new one.",
+            "One cyclist broke away near the end of the race."
+          ]
+        },
+        {
+          "verb": "Hold back",
+          "def": "To stop a crowd from coming closer",
+          "ipa": "/hoʊld bæk/",
+          "ex": [
+            "Firefighters held people back from the burning house.",
+            "The teacher held back the kids until the bus stopped.",
+            "Security guards held back the fans after the concert."
+          ]
+        },
+        {
+          "verb": "Crack down",
+          "def": "To take strong action against people",
+          "ipa": "/kræk daʊn/",
+          "ex": [
+            "The school is cracking down on students who cheat.",
+            "Police cracked down on loud parties in the neighborhood.",
+            "The state will crack down on companies that dump trash in rivers."
+          ]
+        },
+        {
+          "verb": "Break out",
+          "def": "To start suddenly",
+          "ipa": "/breɪk aʊt/",
+          "ex": [
+            "An argument broke out at the town meeting.",
+            "A small fire broke out in the garage.",
+            "A loud argument broke out in the hallway."
+          ]
+        },
+        {
+          "verb": "Step down",
+          "def": "To leave an important job",
+          "ipa": "/stɛp daʊn/",
+          "ex": [
+            "The company's boss stepped down after the bad news.",
+            "She stepped down as team captain to focus on school.",
+            "The mayor said he would step down at the end of the year."
+          ]
+        },
+        {
+          "verb": "Sit down",
+          "def": "To meet someone and talk seriously",
+          "ipa": "/sɪt daʊn/",
+          "ex": [
+            "Let's sit down with the landlord and talk about the rent.",
+            "The two leaders sat down to talk about trade.",
+            "My boss sat down with me to discuss my future."
+          ]
+        },
+        {
+          "verb": "Stay on",
+          "def": "To keep a job for longer",
+          "ipa": "/steɪ ɑn/",
+          "ex": [
+            "She was asked to stay on as manager for another year.",
+            "Most of the staff stayed on after the store changed owners.",
+            "He stayed on at the bank until he was 70."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "job prospects",
+          "def": "The chances of finding good work in the future",
+          "ipa": "/dʒɑb ˈprɑspɛkts/",
+          "ex": [
+            "Nurses have good job prospects in most cities.",
+            "He moved to a bigger town to improve his job prospects.",
+            "Learning English can help your job prospects."
+          ]
+        },
+        {
+          "word": "graduation",
+          "def": "The time when you finish school or college",
+          "ipa": "/ˌɡrædʒuˈeɪʃən/",
+          "ex": [
+            "My whole family came to my graduation.",
+            "She found a job two months after graduation.",
+            "What are your plans after graduation?"
+          ]
+        },
+        {
+          "word": "resignation",
+          "def": "The act of leaving a job by choice",
+          "ipa": "/ˌrɛzɪɡˈneɪʃən/",
+          "ex": [
+            "The manager announced her resignation on Friday.",
+            "His resignation surprised everyone at the office.",
+            "Fans asked for the coach's resignation after many losses."
+          ]
+        },
+        {
+          "word": "in power",
+          "def": "In control of a country or a group",
+          "ipa": "/ɪn ˈpaʊər/",
+          "ex": [
+            "The same party has been in power for ten years.",
+            "Leaders in power often want to stay there.",
+            "Who was in power when your parents were young?"
+          ]
+        },
+        {
+          "word": "investment company",
+          "def": "A business that puts money into projects to make a profit",
+          "ipa": "/ɪnˈvɛstmənt ˈkʌmpəni/",
+          "ex": [
+            "An investment company bought the old hotel downtown.",
+            "My uncle works for an investment company in New York.",
+            "The investment company paid for a new shopping center."
+          ]
+        },
+        {
+          "word": "son-in-law",
+          "def": "The husband of your daughter",
+          "ipa": "/ˈsʌn ɪn ˌlɔ/",
+          "ex": [
+            "Her son-in-law helps on the family farm.",
+            "My grandparents love their new son-in-law.",
+            "He calls his son-in-law every Sunday."
+          ]
+        },
+        {
+          "word": "luxury resort",
+          "def": "An expensive vacation hotel with many comforts",
+          "ipa": "/ˈlʌkʃəri rɪˈzɔrt/",
+          "ex": [
+            "They spent their honeymoon at a luxury resort in Mexico.",
+            "A night at the luxury resort costs a lot of money.",
+            "The luxury resort has three pools and a private beach."
+          ]
+        },
+        {
+          "word": "nature reserve",
+          "def": "An area where wild animals and plants are protected",
+          "ipa": "/ˈneɪtʃər rɪˈzɜrv/",
+          "ex": [
+            "Many birds stop at the nature reserve in the spring.",
+            "You can't build houses inside the nature reserve.",
+            "We saw deer on a walk through the nature reserve."
+          ]
+        },
+        {
+          "word": "corruption",
+          "def": "Dishonest acts by people in power, often for money",
+          "ipa": "/kəˈrʌpʃən/",
+          "ex": [
+            "The mayor went to prison for corruption.",
+            "Voters are tired of corruption in the city government.",
+            "The new law tries to stop corruption in sports."
+          ]
+        },
+        {
+          "word": "denies",
+          "def": "Says that something is not true",
+          "ipa": "/dɪˈnaɪz/",
+          "ex": [
+            "He denies taking the money.",
+            "The company denies that its product is unsafe.",
+            "My brother always denies eating the last cookie."
+          ]
+        },
+        {
+          "word": "allegations",
+          "def": "Claims that someone did something wrong, not yet proven",
+          "ipa": "/ˌæləˈɡeɪʃənz/",
+          "ex": [
+            "The coach is facing allegations of cheating.",
+            "The singer said the allegations were false.",
+            "Police are checking the allegations."
+          ]
+        },
+        {
+          "word": "riots",
+          "def": "Times when crowds act in a violent way in public",
+          "ipa": "/ˈraɪəts/",
+          "ex": [
+            "The riots left many shop windows broken.",
+            "Riots started after the soccer match.",
+            "The city has not seen riots in many years."
+          ]
+        },
+        {
+          "word": "Riot police",
+          "def": "Police officers trained and dressed to control violent crowds",
+          "ipa": "/ˈraɪət pəˈlis/",
+          "ex": [
+            "Riot police stood in a line outside the stadium.",
+            "Riot police wore helmets and carried shields.",
+            "Riot police were sent to the city center."
+          ]
+        },
+        {
+          "word": "tear gas",
+          "def": "A gas that hurts the eyes and is used to control crowds",
+          "ipa": "/tɪr ɡæs/",
+          "ex": [
+            "The police fired tear gas into the street.",
+            "Tear gas made people cough and cry.",
+            "Some people wore masks to protect themselves from tear gas."
+          ]
+        },
+        {
+          "word": "clashes",
+          "def": "Short fights between groups of people",
+          "ipa": "/ˈklæʃɪz/",
+          "ex": [
+            "There were clashes between fans of the two teams.",
+            "Clashes with the police lasted all night.",
+            "The clashes ended when it started to rain."
+          ]
+        },
+        {
+          "word": "opponents",
+          "def": "People who are against you or who compete with you",
+          "ipa": "/əˈpoʊnənts/",
+          "ex": [
+            "The senator attacked his opponents in a speech.",
+            "She beat all of her opponents in the chess contest.",
+            "Opponents of the new law held a rally."
+          ]
+        },
+        {
+          "word": "early elections",
+          "def": "Votes held before the usual date",
+          "ipa": "/ˈɜrli ɪˈlɛkʃənz/",
+          "ex": [
+            "The leader called early elections after losing support.",
+            "Many voters want early elections this spring.",
+            "Early elections can be expensive for a country."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Albanian students angry about school costs and few jobs have joined a movement against the prime minister. The protests turned violent in the capital, but he refuses to resign.",
+          "a": true,
+          "why": "Students have risen up over education costs and poor job prospects. The Flamingo Movement calls for Rama's resignation, but he says he will not step down."
+        },
+        {
+          "s": "Thousands of young Albanians are marching because the government closed several universities. The prime minister has agreed to new elections, and the movement is now ending.",
+          "a": false,
+          "why": "Close, but the students are angry about high costs and poor job prospects. Rama says he will not step down, and the protests are spreading."
+        },
+        {
+          "s": "Albania has opened a new nature park on its southern coast to protect pink flamingos. Tourists will soon be able to watch the birds from special wooden paths near the water.",
+          "a": false,
+          "why": "This is about student protests that call for the prime minister to resign. Protesters say the government is selling off parts of the coast."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Thousands of students have risen up against Albania's government.",
+          "a": true,
+          "why": "Students marched in Tirana for days because of high education costs and poor job prospects."
+        },
+        {
+          "s": "The movement began as a protest against higher taxes.",
+          "a": false,
+          "why": "It began with protests against a resort project. Protesters say the government is selling off parts of the coast for a luxury resort."
+        },
+        {
+          "s": "Groups of young people broke away from the marches and attacked buildings.",
+          "a": true,
+          "why": "They attacked government buildings, banks and stores during riots that lasted more than eight hours."
+        },
+        {
+          "s": "Protest organizers say the police cracked down too hard.",
+          "a": true,
+          "why": "Organizers accuse the police of cracking down too hard on protesters and journalists."
+        },
+        {
+          "s": "Rama has agreed to step down as prime minister.",
+          "a": false,
+          "why": "Rama says he will not step down. He promised to stay on and help Albania join the European Union."
+        },
+        {
+          "s": "Rama refused to sit down with students to discuss their concerns.",
+          "a": false,
+          "why": "Rama said he was ready to sit down with students and discuss education costs."
+        }
+      ]
+    },
+    {
       "id": "comet-found-by-accident-2026",
       "number": 185,
       "headline": "A space telescope finds a new comet by accident",
