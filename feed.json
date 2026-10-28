@@ -2,6 +2,490 @@
   "updated": "2026-10-28",
   "stories": [
     {
+      "id": "ukraine-local-ceasefire-2026",
+      "number": 189,
+      "headline": "Russia and Ukraine pause fighting to help one town",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n189-ukraine-local-ceasefire-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region, officials say (BBC)",
+          "url": "https://www.bbc.com/news/articles/c6lye1w9p2l8o"
+        },
+        {
+          "title": "Oleshky truce appears to hold as two European leaders have 'frank' call with Putin (The Guardian)",
+          "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
+        },
+        {
+          "title": "Russia halts strikes on Ukraine's Kherson as Oleshky ceasefire takes effect (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "For the first time in years, the fighting around one small town in southern Ukraine has {{let up}}. A local [[truce]], an agreement to stop fighting for a set time, began there on October 27, 2026. It aims to get food, medicine and other [[aid]] to the people [[trapped]] in the town. Russian troops {{took over}} the town in the first days of Russia's [[invasion]] in February 2022. It sits across a river from a larger city that Ukraine [[controls]].",
+          "verbs": [
+            {
+              "display": "let up",
+              "base": "let up",
+              "correct": "To become weaker or stop for a while",
+              "wrong": "To move closer to the river",
+              "correctFirst": true,
+              "why": "The rain finally lets up in the late afternoon. The noise from the street never lets up on Saturday nights. For the first time in years, the fighting around the town has let up."
+            },
+            {
+              "display": "took over",
+              "base": "take over",
+              "correct": "To gain control of a place",
+              "wrong": "To build walls around a town",
+              "correctFirst": false,
+              "why": "A new owner takes over the old hotel and paints it blue. A big company takes over the empty factory and hires new workers. Russian troops took over the town in the first days of Russia's invasion in February 2022."
+            }
+          ]
+        },
+        {
+          "text": "Before the war, about 24,000 people lived in the town. The United Nations says up to 2,000 [[remain]] today. Because of [[land mines]] and [[drone attacks]], the roads are too dangerous, so people cannot {{get out}}. The town has had no electricity, gas or [[running water]] since a nearby [[dam]] was destroyed in 2023. It is also {{cut off}} from regular food [[supplies]]. Stores there got their last food delivery in May.",
+          "verbs": [
+            {
+              "display": "get out",
+              "base": "get out",
+              "correct": "To leave a dangerous place",
+              "wrong": "To find enough food to eat",
+              "correctFirst": true,
+              "why": "When the fire alarm rings, everyone gets out fast. Families get out before the floodwater reaches their street. Because of land mines and drone attacks, the people in the town cannot get out."
+            },
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To stop a place from getting supplies",
+              "wrong": "To share food among many people",
+              "correctFirst": false,
+              "why": "Heavy snow cuts the mountain village off from fresh food every winter. A big storm often cuts the island off from fuel deliveries. The town is also cut off from regular food supplies."
+            }
+          ]
+        },
+        {
+          "text": "Melania Trump, the U.S. [[first lady]], and Pope Leo {{stepped in}} to help. Earlier in October, the pope {{reached out}} to the leaders of Russia and Ukraine about the town. The deal was [[announced]] on October 23, and both countries {{signed off on}} it. First, trucks will {{bring in}} doctors, medicine, food and water. Then [[evacuations]], when people are taken to safer places, are set to {{go ahead}} on Friday, October 30.",
+          "verbs": [
+            {
+              "display": "stepped in",
+              "base": "step in",
+              "correct": "To become involved and help",
+              "wrong": "To give money for a cause",
+              "correctFirst": true,
+              "why": "When two kids start a fight, a teacher steps in. A neighbor steps in when the family needs help with the baby. Melania Trump and Pope Leo stepped in to help the two sides agree."
+            },
+            {
+              "display": "reached out",
+              "base": "reach out",
+              "correct": "To contact someone to ask for something",
+              "wrong": "To thank someone in a public speech",
+              "correctFirst": false,
+              "why": "She reaches out to her old boss when she needs a job. The school reaches out to parents for help with the class trip. Earlier in October, the pope reached out to the leaders of Russia and Ukraine."
+            },
+            {
+              "display": "signed off on",
+              "base": "sign off on",
+              "correct": "To give official approval to something",
+              "wrong": "To ask for more time to decide",
+              "correctFirst": true,
+              "why": "The manager signs off on every new hire. The city council signs off on the plan for a new park. Both Russia and Ukraine signed off on the deal."
+            },
+            {
+              "display": "bring in",
+              "base": "bring in",
+              "correct": "To deliver supplies to a place",
+              "wrong": "To hide supplies from soldiers",
+              "correctFirst": false,
+              "why": "Boats bring in fresh food to the island each week. Helicopters bring in water when the roads are closed. First, trucks will bring in doctors, medicine, food and water."
+            },
+            {
+              "display": "go ahead",
+              "base": "go ahead",
+              "correct": "To happen as planned",
+              "wrong": "To be shown on the news",
+              "correctFirst": true,
+              "why": "The game goes ahead even in light rain. The school trip goes ahead as planned. Evacuations are set to go ahead on Friday, October 30."
+            }
+          ]
+        },
+        {
+          "text": "On October 27, the first lady said the truce now covers a wider area, so aid trucks can {{get through}} safely. Ukrainian officials {{backed up}} her statement. A spokesman for the Kremlin, Russia's government, said the truce was going [[according to plan]]. Ukraine's [[foreign minister]] said it could lead to more steps toward peace. Earlier attempts at a cease-fire {{fell through}} because of deep [[mistrust]]. The truce is due to last until late Sunday, November 1.",
+          "verbs": [
+            {
+              "display": "get through",
+              "base": "get through",
+              "correct": "To reach a place despite danger",
+              "wrong": "To pay a fee at a checkpoint",
+              "correctFirst": false,
+              "why": "Rescue boats get through the flood to reach families on their roofs. Only big trucks get through the icy mountain pass in winter. The truce now covers a wider area, so aid trucks can get through safely."
+            },
+            {
+              "display": "backed up",
+              "base": "back up",
+              "correct": "To say that something is true",
+              "wrong": "To ask someone to say it again",
+              "correctFirst": true,
+              "why": "Photos back up her story about the accident. The numbers back up what the coach says about the team. Ukrainian officials backed up the first lady's statement."
+            },
+            {
+              "display": "fell through",
+              "base": "fall through",
+              "correct": "To fail and not happen",
+              "wrong": "To be kept secret from others",
+              "correctFirst": false,
+              "why": "Sometimes a house sale falls through at the last minute. Our weekend plans fall through when my brother gets sick. Earlier attempts at a cease-fire fell through because of deep mistrust."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Let up",
+          "def": "To become weaker or stop for a while",
+          "ipa": "/lɛt ʌp/",
+          "ex": [
+            "The snow didn't let up until Monday morning.",
+            "Her headache finally let up after lunch.",
+            "If the wind lets up, we can go fishing."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To gain control of a place",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "Protesters took over the city's main square for a week.",
+            "The rebels took over the radio station.",
+            "A bank took over the empty building downtown."
+          ]
+        },
+        {
+          "verb": "Get out",
+          "def": "To leave a dangerous place",
+          "ipa": "/ɡɛt aʊt/",
+          "ex": [
+            "We got out of the house just before the storm hit.",
+            "Smoke filled the kitchen, so we had to get out.",
+            "Everyone got out of the bus safely after the crash."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To stop a place from getting supplies",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The flood cut the farm off from clean water.",
+            "Ice on the roads cut the town off from gas deliveries.",
+            "The broken bridge cut the village off from medicine."
+          ]
+        },
+        {
+          "verb": "Step in",
+          "def": "To become involved and help",
+          "ipa": "/stɛp ɪn/",
+          "ex": [
+            "My uncle stepped in when my parents couldn't pay the rent.",
+            "The coach had to step in to stop the argument.",
+            "If the talks fail, the government may step in."
+          ]
+        },
+        {
+          "verb": "Reach out",
+          "def": "To contact someone to ask for something",
+          "ipa": "/ritʃ aʊt/",
+          "ex": [
+            "Please reach out to me if you need a ride.",
+            "He reached out to a lawyer for advice.",
+            "The company reached out to customers after the mistake."
+          ]
+        },
+        {
+          "verb": "Sign off on",
+          "def": "To give official approval to something",
+          "ipa": "/saɪn ɔf ɑn/",
+          "ex": [
+            "The doctor has to sign off on your return to work.",
+            "My boss signed off on my vacation days.",
+            "The mayor signed off on the new bus routes."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To deliver supplies to a place",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "The airline brought in extra blankets for the stuck passengers.",
+            "Volunteers brought in bottled water after the flood.",
+            "The hospital brought in more beds for the winter."
+          ]
+        },
+        {
+          "verb": "Go ahead",
+          "def": "To happen as planned",
+          "ipa": "/ɡoʊ əˈhɛd/",
+          "ex": [
+            "The wedding went ahead despite the rain.",
+            "Will the parade go ahead if it snows?",
+            "The vote went ahead on the planned day."
+          ]
+        },
+        {
+          "verb": "Get through",
+          "def": "To reach a place despite danger",
+          "ipa": "/ɡɛt θru/",
+          "ex": [
+            "The fire truck couldn't get through the smoke on the narrow road.",
+            "Only trucks with chains can get through the icy mountain pass.",
+            "The mail got through even during the big storm."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To say that something is true",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "Can you back up your answer with facts?",
+            "Two witnesses backed up the driver's story.",
+            "New studies back up the doctor's advice."
+          ]
+        },
+        {
+          "verb": "Fall through",
+          "def": "To fail and not happen",
+          "ipa": "/fɔl θru/",
+          "ex": [
+            "Our trip to Mexico fell through at the last minute.",
+            "The deal to buy the team fell through.",
+            "His job offer fell through, so he kept looking."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "truce",
+          "def": "An agreement between two sides to stop fighting for a time",
+          "ipa": "/trus/",
+          "ex": [
+            "The two brothers called a truce after a long argument.",
+            "The truce gave both armies a few days of rest.",
+            "A short truce let farmers harvest their crops."
+          ]
+        },
+        {
+          "word": "aid",
+          "def": "Food, medicine, money or other help given to people in need",
+          "ipa": "/eɪd/",
+          "ex": [
+            "The country sent aid after the earthquake.",
+            "Aid workers handed food to families at the camp.",
+            "The charity asks for aid for children without homes."
+          ]
+        },
+        {
+          "word": "trapped",
+          "def": "Stuck in a place and not able to leave",
+          "ipa": "/træpt/",
+          "ex": [
+            "The cat was trapped in the garage all night.",
+            "Heavy snow left hikers trapped on the mountain.",
+            "Firefighters helped a man trapped in an elevator."
+          ]
+        },
+        {
+          "word": "invasion",
+          "def": "An attack in which an army goes into another country",
+          "ipa": "/ɪnˈveɪʒən/",
+          "ex": [
+            "The invasion started a long war.",
+            "History books describe the invasion in detail.",
+            "The country built a strong army to stop an invasion."
+          ]
+        },
+        {
+          "word": "controls",
+          "def": "Has power over a place or thing",
+          "ipa": "/kənˈtroʊlz/",
+          "ex": [
+            "One company controls most of the town's water.",
+            "The army controls the only road into the valley.",
+            "Who controls the TV remote in your house?"
+          ]
+        },
+        {
+          "word": "remain",
+          "def": "To stay in a place when others have gone",
+          "ipa": "/rɪˈmeɪn/",
+          "ex": [
+            "Only a few guests remain at the party after midnight.",
+            "Some families remain in the old neighborhood.",
+            "A few stores remain open after the others closed."
+          ]
+        },
+        {
+          "word": "land mines",
+          "def": "Bombs hidden in the ground that explode when stepped on",
+          "ipa": "/ˈlænd ˌmaɪnz/",
+          "ex": [
+            "Old land mines still make some fields unsafe.",
+            "Workers search for land mines before farmers return.",
+            "Signs warn people about land mines near the border."
+          ]
+        },
+        {
+          "word": "drone attacks",
+          "def": "Attacks by small flying machines with no pilot on board",
+          "ipa": "/droʊn əˈtæks/",
+          "ex": [
+            "Drone attacks have made the area dangerous.",
+            "The city built nets to stop drone attacks.",
+            "Farmers stay home when drone attacks are common."
+          ]
+        },
+        {
+          "word": "running water",
+          "def": "Water that comes into a building through pipes",
+          "ipa": "/ˈrʌnɪŋ ˈwɔtər/",
+          "ex": [
+            "The old cabin has no running water.",
+            "Running water is a basic need in every home.",
+            "After the storm, many houses lost running water."
+          ]
+        },
+        {
+          "word": "dam",
+          "def": "A large wall built across a river to stop and store water",
+          "ipa": "/dæm/",
+          "ex": [
+            "The dam makes electricity for the whole city.",
+            "Engineers check the dam after every big storm.",
+            "A lake formed behind the new dam."
+          ]
+        },
+        {
+          "word": "supplies",
+          "def": "Food, water and other things people need to live",
+          "ipa": "/səˈplaɪz/",
+          "ex": [
+            "We bought supplies before the hurricane.",
+            "The camp ran low on supplies after a week.",
+            "Planes dropped supplies to the snowy village."
+          ]
+        },
+        {
+          "word": "first lady",
+          "def": "The wife of a country's president",
+          "ipa": "/fɜrst ˈleɪdi/",
+          "ex": [
+            "The first lady visited a children's hospital.",
+            "Every first lady chooses a cause to support.",
+            "The first lady gave a speech about reading."
+          ]
+        },
+        {
+          "word": "announced",
+          "def": "Told the public about something in an official way",
+          "ipa": "/əˈnaʊnst/",
+          "ex": [
+            "The school announced a snow day.",
+            "The company announced new jobs in the city.",
+            "The couple announced their wedding date."
+          ]
+        },
+        {
+          "word": "evacuations",
+          "def": "Times when people are moved from a dangerous place to a safe one",
+          "ipa": "/ɪˌvækjuˈeɪʃənz/",
+          "ex": [
+            "Evacuations began before the hurricane reached the coast.",
+            "The fire led to evacuations in three towns.",
+            "Police helped with the evacuations of older people."
+          ]
+        },
+        {
+          "word": "according to plan",
+          "def": "In the way that people expected or wanted",
+          "ipa": "/əˈkɔrdɪŋ tə plæn/",
+          "ex": [
+            "The trip went according to plan.",
+            "If everything goes according to plan, we'll finish by Friday.",
+            "Nothing about the party went according to plan."
+          ]
+        },
+        {
+          "word": "foreign minister",
+          "def": "The government leader in charge of relations with other countries",
+          "ipa": "/ˈfɔrən ˈmɪnɪstər/",
+          "ex": [
+            "The foreign minister flew to Japan for talks.",
+            "Our foreign minister met the French foreign minister in Paris.",
+            "The foreign minister gave a speech at the United Nations."
+          ]
+        },
+        {
+          "word": "mistrust",
+          "def": "A feeling that you cannot believe or depend on someone",
+          "ipa": "/mɪsˈtrʌst/",
+          "ex": [
+            "There is a lot of mistrust between the two neighbors.",
+            "Years of mistrust made the talks slow.",
+            "His lies created mistrust in the team."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Russia and Ukraine stopped fighting around one small town so that help can arrive. Food, medicine and doctors go in first, and people who want to leave can then be taken to safer places.",
+          "a": true,
+          "why": "The truce lets trucks bring in aid to people trapped in the town. After that, evacuations are set to go ahead for anyone who wants to leave."
+        },
+        {
+          "s": "A short truce in southern Ukraine is meant to empty a town of all of its residents first. When nobody is left there, aid groups will send food and doctors to start rebuilding it.",
+          "a": false,
+          "why": "Close, but the aid comes first, and only people who want to leave will go. Trucks bring in doctors, medicine, food and water before the evacuations."
+        },
+        {
+          "s": "The leaders of Russia and Ukraine met in person and signed a full treaty that ends the war. Foreign soldiers are now going to guard a new border between the two countries for years.",
+          "a": false,
+          "why": "There is no peace treaty. This is a short local truce that lets aid reach one town, and earlier cease-fire attempts fell through."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Melania Trump and Pope Leo stepped in to help the two sides agree.",
+          "a": true,
+          "why": "The U.S. first lady and the pope stepped in, and both Russia and Ukraine signed off on the deal."
+        },
+        {
+          "s": "People in the town can get out easily because the roads are safe.",
+          "a": false,
+          "why": "Land mines and drone attacks make the roads too dangerous, so people cannot get out."
+        },
+        {
+          "s": "The town gets regular food deliveries every week.",
+          "a": false,
+          "why": "The town is cut off from regular food supplies. Stores there got their last food delivery in May."
+        },
+        {
+          "s": "Trucks will bring in doctors, food and water before the evacuations.",
+          "a": true,
+          "why": "Aid comes first, and then the evacuations are set to go ahead on Friday, October 30."
+        },
+        {
+          "s": "Ukrainian officials said the first lady's statement was false.",
+          "a": false,
+          "why": "Ukrainian officials backed up her statement that the truce now covers a wider area."
+        },
+        {
+          "s": "The fighting around the town has let up for the first time in years.",
+          "a": true,
+          "why": "The fighting has let up since a local truce began there on October 27, 2026."
+        }
+      ]
+    },
+    {
       "id": "dinosaur-skull-museum-drawer-2026",
       "number": 188,
       "headline": "Fossil in a museum drawer is a new dinosaur",
