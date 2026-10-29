@@ -2,6 +2,498 @@
   "updated": "2026-10-29",
   "stories": [
     {
+      "id": "us-consumer-confidence-2026",
+      "number": 191,
+      "headline": "Americans feel a little better as gas prices fall",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n191-us-consumer-confidence-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "US Consumer Confidence Increased in October (The Conference Board)",
+          "url": "https://www.conference-board.org/topics/consumer-confidence"
+        },
+        {
+          "title": "US consumer confidence recovers in October as gas prices eased a bit (AP, via ABC News)",
+          "url": "https://abcnews.com/Politics/wireStory/us-consumer-confidence-recovers-october-gas-prices-eased-137604681"
+        },
+        {
+          "title": "Consumer confidence edges up on decline in gas prices: Conference Board (CFO Dive)",
+          "url": "https://www.cfodive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/872949/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Americans felt a little better about the economy in October 2026, as gas got a bit cheaper. The news {{came out}} on October 27 from The Conference Board, a [[nonprofit]] [[research group]]. Every month, some Americans {{fill out}} its [[online survey]] about jobs, business and money. Their answers become the [[consumer confidence index]], a score that shows how good people feel about the economy.",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To be made public",
+              "wrong": "To be checked again",
+              "correctFirst": false,
+              "why": "Test results come out a week after the exam. The jobs report comes out every month. The news came out on October 27 from The Conference Board."
+            },
+            {
+              "display": "fill out",
+              "base": "fill out",
+              "correct": "To complete a form or survey",
+              "wrong": "To write the questions for a survey",
+              "correctFirst": true,
+              "why": "Patients fill out a short form at the doctor's office. Many students fill out job applications in the spring. Every month, some Americans fill out The Conference Board's online survey."
+            }
+          ]
+        },
+        {
+          "text": "In October, the index {{bounced back}} by 7.5 points to 91.7, its highest level since June 2026. In September, it was 84.2, the lowest since April 2014. People also felt more hopeful when they {{looked ahead}} six months. A [[senior economist]] at the group said the [[recovery]] matched the drop in gas prices from September to October.",
+          "verbs": [
+            {
+              "display": "bounced back",
+              "base": "bounce back",
+              "correct": "To rise again after a fall",
+              "wrong": "To change many times in a row",
+              "correctFirst": false,
+              "why": "Sales often bounce back after a slow month. The stock market usually bounces back after a bad day. In October, the consumer confidence index bounced back by 7.5 points to 91.7."
+            },
+            {
+              "display": "looked ahead",
+              "base": "look ahead",
+              "correct": "To think about the future",
+              "wrong": "To guess what others think",
+              "correctFirst": true,
+              "why": "Many people look ahead and save money for later. Smart travelers look ahead and plan their trips early. People felt more hopeful when they looked ahead six months."
+            }
+          ]
+        },
+        {
+          "text": "According to a large club for drivers that tracks gas prices, a [[gallon]] of regular gas cost $4.27 [[on average]] on October 27. A month earlier, it cost $4.48. So prices {{went down}} by 21 cents, which helps drivers who {{fill up}} their tanks. But a year earlier, a gallon cost only $3.05. The economist {{pointed out}} that confidence is still on a long [[downward trend]]. Many people in the survey were still [[frustrated]] by rising costs. [[Worries]] about jobs also {{showed up}} a bit more often.",
+          "verbs": [
+            {
+              "display": "went down",
+              "base": "go down",
+              "correct": "To become lower",
+              "wrong": "To be shown on a sign",
+              "correctFirst": false,
+              "why": "Hotel prices go down after the summer. Fruit prices often go down when the weather is good. Gas prices went down by 21 cents from September to October."
+            },
+            {
+              "display": "fill up",
+              "base": "fill up",
+              "correct": "To fill a car's gas tank completely",
+              "wrong": "To check the air in the tires",
+              "correctFirst": true,
+              "why": "My dad fills up the car every Friday. Many drivers fill up at the same gas station each week. Lower gas prices help drivers who fill up their tanks."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To tell people an important fact",
+              "wrong": "To print an important fact",
+              "correctFirst": false,
+              "why": "My friend points out that the store closes early on Sundays. Doctors often point out the risks of a new drug. The economist pointed out that confidence is still on a long downward trend."
+            },
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To appear or be noticed",
+              "wrong": "To be solved by the bank",
+              "correctFirst": true,
+              "why": "Spelling mistakes show up in many emails. New words show up in the dictionary every year. Worries about jobs showed up a bit more often in the survey comments."
+            }
+          ]
+        },
+        {
+          "text": "[[Inflation]], the general rise in prices, is still a problem. The U.S. Labor Department reports that consumer prices {{went up}} 3.7 percent in September from a year earlier. The economist said high prices have {{eaten into}} people's [[buying power]]. Over the next six months, people plan to {{cut back}} on [[services]], such as hotels and air travel. They also plan to spend less on [[big purchases]] like phones. Plans for movies, concerts and sports games {{held up}} better. And {{eating out}} is at the top of their [[spending plans]] for services.",
+          "verbs": [
+            {
+              "display": "went up",
+              "base": "go up",
+              "correct": "To become higher",
+              "wrong": "To be set by law",
+              "correctFirst": false,
+              "why": "Rent goes up in many cities each year. Bus fares go up when fuel costs more. Consumer prices went up 3.7 percent in September from a year earlier."
+            },
+            {
+              "display": "eaten into",
+              "base": "eat into",
+              "correct": "To reduce something bit by bit",
+              "wrong": "To split something in two equal parts",
+              "correctFirst": true,
+              "why": "Car repairs eat into the money we save for vacation. Long meetings eat into my time for real work. The economist said high prices have eaten into people's buying power."
+            },
+            {
+              "display": "cut back",
+              "base": "cut back",
+              "correct": "To spend less money",
+              "wrong": "To pay a late fee",
+              "correctFirst": false,
+              "why": "Students cut back on coffee to save money. We cut back on gifts when bills are high. Over the next six months, people plan to cut back on services, such as hotels and air travel."
+            },
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To stay strong and not fall",
+              "wrong": "To be the most expensive",
+              "correctFirst": true,
+              "why": "Ticket sales hold up well in a slow economy. Some small shops hold up better than big stores in hard times. Plans for movies, concerts and sports games held up better."
+            },
+            {
+              "display": "eating out",
+              "base": "eat out",
+              "correct": "To eat at a restaurant",
+              "wrong": "To travel by plane",
+              "correctFirst": false,
+              "why": "We eat out on Friday nights. Many young people eat out two or three times a week. Eating out is at the top of people's spending plans for services."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come out",
+          "def": "To be made public",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "The school's test scores came out in June.",
+            "The city's new budget comes out every spring.",
+            "When does the list of top colleges come out?"
+          ]
+        },
+        {
+          "verb": "Fill out",
+          "def": "To complete a form or survey",
+          "ipa": "/fɪl aʊt/",
+          "ex": [
+            "Please fill out this form before you see the dentist.",
+            "It takes ten minutes to fill out the online application.",
+            "My grandmother asks me to help her fill out tax forms."
+          ]
+        },
+        {
+          "verb": "Bounce back",
+          "def": "To rise again after a fall",
+          "ipa": "/baʊns bæk/",
+          "ex": [
+            "Home sales bounced back in the spring.",
+            "The team's ticket sales bounce back every summer.",
+            "Restaurant visits bounced back after the storm."
+          ]
+        },
+        {
+          "verb": "Look ahead",
+          "def": "To think about the future",
+          "ipa": "/lʊk əˈhɛd/",
+          "ex": [
+            "It is smart to look ahead when you plan a wedding.",
+            "Business owners look ahead and hire extra workers for December.",
+            "When I look ahead, I want to buy a house."
+          ]
+        },
+        {
+          "verb": "Go down",
+          "def": "To become lower",
+          "ipa": "/goʊ daʊn/",
+          "ex": [
+            "Airline tickets often go down in price in January.",
+            "The price of eggs went down at our store.",
+            "Will rents ever go down in this city?"
+          ]
+        },
+        {
+          "verb": "Fill up",
+          "def": "To fill a car's gas tank completely",
+          "ipa": "/fɪl ʌp/",
+          "ex": [
+            "Let's fill up before we drive to the mountains.",
+            "She fills up her truck on the way to work.",
+            "It costs a lot more to fill up a big car."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people an important fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "The teacher pointed out that the test is next Monday.",
+            "He pointed out that the bill was too high.",
+            "My doctor points out that I need more sleep."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear or be noticed",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The same problem shows up in every report.",
+            "His name showed up on the list of winners.",
+            "Signs of stress often show up in our sleep."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher",
+          "ipa": "/goʊ ʌp/",
+          "ex": [
+            "The price of coffee went up again.",
+            "Our electric bill goes up in the summer.",
+            "Movie tickets went up by two dollars."
+          ]
+        },
+        {
+          "verb": "Eat into",
+          "def": "To reduce something bit by bit",
+          "ipa": "/it ˈɪntu/",
+          "ex": [
+            "Higher rent eats into my monthly savings.",
+            "Doctor bills ate into their vacation money.",
+            "Bank fees can eat into your paycheck."
+          ]
+        },
+        {
+          "verb": "Cut back",
+          "def": "To spend less money",
+          "ipa": "/kʌt bæk/",
+          "ex": [
+            "We need to cut back on clothes this month.",
+            "Many shoppers cut back when prices rise.",
+            "He cut back on takeout to save for a car."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To stay strong and not fall",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "Toy sales held up well last winter.",
+            "Her small business held up during the bad years.",
+            "Sales of cheap cars usually hold up when money is short."
+          ]
+        },
+        {
+          "verb": "Eat out",
+          "def": "To eat at a restaurant",
+          "ipa": "/it aʊt/",
+          "ex": [
+            "We eat out less now because food costs so much.",
+            "Do you want to eat out tonight or cook?",
+            "They eat out every Sunday after church."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "nonprofit",
+          "def": "Working to help people, not to make money for owners",
+          "ipa": "/nɑnˈprɑfɪt/",
+          "ex": [
+            "She works for a nonprofit that teaches adults to read.",
+            "The nonprofit gives free meals to families.",
+            "Many nonprofits ask for money at the end of the year."
+          ]
+        },
+        {
+          "word": "research group",
+          "def": "A team or organization that studies something and reports on it",
+          "ipa": "/ˈrisərtʃ grup/",
+          "ex": [
+            "A research group studied how teens use their phones.",
+            "The research group published a report on city traffic.",
+            "He joined a research group at his college."
+          ]
+        },
+        {
+          "word": "online survey",
+          "def": "A set of questions that people answer on the internet",
+          "ipa": "/ˈɑnˌlaɪn ˈsɜrveɪ/",
+          "ex": [
+            "The school sent parents an online survey about lunch.",
+            "I got a coupon for finishing an online survey.",
+            "The company used an online survey to ask about its service."
+          ]
+        },
+        {
+          "word": "consumer confidence index",
+          "def": "A number that shows how good people feel about the economy and their money",
+          "ipa": "/kənˈsumər ˈkɑnfədəns ˈɪndɛks/",
+          "ex": [
+            "Stores watch the consumer confidence index before December.",
+            "A high consumer confidence index often means people will spend more.",
+            "News reports compare the consumer confidence index from month to month."
+          ]
+        },
+        {
+          "word": "senior economist",
+          "def": "A top expert who studies money, jobs and business",
+          "ipa": "/ˈsinjər ɪˈkɑnəmɪst/",
+          "ex": [
+            "The bank hired a senior economist to study home prices.",
+            "A senior economist spoke about jobs on the radio.",
+            "She became a senior economist after twenty years at the bank."
+          ]
+        },
+        {
+          "word": "recovery",
+          "def": "A return to a better level after a bad time",
+          "ipa": "/rɪˈkʌvəri/",
+          "ex": [
+            "The town's tourism made a fast recovery after the flood.",
+            "Housing prices showed a slow recovery.",
+            "Experts expect a recovery in car sales next spring."
+          ]
+        },
+        {
+          "word": "gallon",
+          "def": "A unit for measuring liquids, equal to about 3.8 liters",
+          "ipa": "/ˈgælən/",
+          "ex": [
+            "We buy a gallon of milk every week.",
+            "This car goes 40 miles on one gallon of gas.",
+            "He drinks almost a gallon of water a day."
+          ]
+        },
+        {
+          "word": "on average",
+          "def": "Usually, when you count many cases together",
+          "ipa": "/ɑn ˈævərɪdʒ/",
+          "ex": [
+            "On average, I sleep seven hours a night.",
+            "Students spend two hours on homework on average.",
+            "On average, a new car costs more than a used one."
+          ]
+        },
+        {
+          "word": "downward trend",
+          "def": "A slow change toward lower levels over time",
+          "ipa": "/ˈdaʊnwərd trɛnd/",
+          "ex": [
+            "Crime in our city is on a downward trend.",
+            "The newspaper's sales show a downward trend.",
+            "Doctors are happy about the downward trend in smoking."
+          ]
+        },
+        {
+          "word": "frustrated",
+          "def": "Upset because you cannot change or control something",
+          "ipa": "/ˈfrʌstreɪtɪd/",
+          "ex": [
+            "I get frustrated when my computer is slow.",
+            "Drivers were frustrated by the long wait.",
+            "She felt frustrated after failing the test twice."
+          ]
+        },
+        {
+          "word": "Worries",
+          "def": "Thoughts that make you feel nervous or afraid",
+          "ipa": "/ˈwɜriz/",
+          "ex": [
+            "Worries about money kept him awake.",
+            "Worries about the storm made people buy extra water.",
+            "Worries about the trip kept her quiet at dinner."
+          ]
+        },
+        {
+          "word": "Inflation",
+          "def": "A general rise in prices over time",
+          "ipa": "/ɪnˈfleɪʃən/",
+          "ex": [
+            "Inflation makes a dollar worth less each year.",
+            "Inflation was low when my parents bought their house.",
+            "Inflation can make it hard to save money."
+          ]
+        },
+        {
+          "word": "buying power",
+          "def": "The amount that a person's money can buy",
+          "ipa": "/ˈbaɪɪŋ ˈpaʊər/",
+          "ex": [
+            "A raise gives workers more buying power.",
+            "High rents cut the buying power of young people.",
+            "The dollar's buying power is lower than in the past."
+          ]
+        },
+        {
+          "word": "services",
+          "def": "Work that people pay others to do for them, not things they buy",
+          "ipa": "/ˈsɜrvɪsɪz/",
+          "ex": [
+            "Haircuts and car repairs are services.",
+            "The hotel offers many services, like laundry and room cleaning.",
+            "Prices for services often rise faster than prices for goods."
+          ]
+        },
+        {
+          "word": "big purchases",
+          "def": "Expensive things that people buy only now and then",
+          "ipa": "/bɪg ˈpɜrtʃəsɪz/",
+          "ex": [
+            "We save for months before big purchases.",
+            "A car is one of the big purchases in most people's lives.",
+            "Many couples talk before they make big purchases."
+          ]
+        },
+        {
+          "word": "spending plans",
+          "def": "Ideas about how you will spend your money in the future",
+          "ipa": "/ˈspɛndɪŋ plænz/",
+          "ex": [
+            "Our spending plans include a new fridge.",
+            "Stores ask shoppers about their spending plans for December.",
+            "High prices changed our spending plans for the summer."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Americans felt more hopeful about the economy in October, mostly because gas got a little cheaper. Still, an expert says confidence stays weak over the long run as prices remain high.",
+          "a": true,
+          "why": "The consumer confidence index bounced back as gas prices went down. But the economist pointed out that confidence is still on a long downward trend."
+        },
+        {
+          "s": "Cheaper gas lifted Americans' mood about money in October after a very weak September. An expert says the long slide in confidence is over and spending should rise again soon.",
+          "a": false,
+          "why": "Close, but the economist pointed out that confidence is still on a long downward trend, and people still plan to cut back."
+        },
+        {
+          "s": "Gas stations across the country will lower prices next month after a new law takes effect. Drivers in several states are already making plans for longer road trips this winter.",
+          "a": false,
+          "why": "A monthly survey shows how Americans feel about the economy. Confidence bounced back in October as gas prices went down."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Americans felt better about the economy as gas prices went down.",
+          "a": true,
+          "why": "Gas prices went down from September to October, and the consumer confidence index rose by 7.5 points."
+        },
+        {
+          "s": "The consumer confidence index fell again in October.",
+          "a": false,
+          "why": "The index bounced back in October after a very low score in September."
+        },
+        {
+          "s": "Many people in the survey were still frustrated by rising costs.",
+          "a": true,
+          "why": "Their comments still talked about high prices, and worries about jobs also showed up more often."
+        },
+        {
+          "s": "The economist said confidence is now on a strong upward trend.",
+          "a": false,
+          "why": "He pointed out that confidence is still on a long downward trend."
+        },
+        {
+          "s": "People plan to spend more on big purchases like phones.",
+          "a": false,
+          "why": "They plan to cut back on services and to spend less on big purchases over the next six months."
+        },
+        {
+          "s": "Gas is still more expensive than it was a year ago.",
+          "a": true,
+          "why": "Drivers who fill up pay $4.27 a gallon on average, compared with $3.05 a year earlier."
+        }
+      ]
+    },
+    {
       "id": "arizona-new-national-park-2026",
       "number": 190,
       "headline": "Arizona gets America's newest national park",
