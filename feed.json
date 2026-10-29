@@ -2,6 +2,518 @@
   "updated": "2026-10-29",
   "stories": [
     {
+      "id": "villa-vie-cruise-stranded-2026",
+      "number": 192,
+      "headline": "A cruise ship people lived on stops in Cambodia",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n192-villa-vie-cruise-stranded-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs (BBC)",
+          "url": "https://www.bbc.com/news/articles/cwj342k62exyo"
+        },
+        {
+          "title": "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia. (NBC News)",
+          "url": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031"
+        },
+        {
+          "title": "Residential world cruise suddenly suspends operations, leaving passengers stranded in Cambodia (The Independent)",
+          "url": "https://www.the-independent.com/travel/cruise/villa-vie-odyssey-suspends-operations-b3074177.html"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A cruise ship meant to sail around the world for years has stopped in Cambodia, in Southeast Asia. On this [[residential cruise]], people buy or rent a [[cabin]] and live there [[full time]]. The ship {{set out}} from Belfast, Northern Ireland, in October 2024. On October 26, 2026, everyone living on the ship had to {{get off}}. The next day, the Florida company that runs it said it [[suspended]] its trips, or stopped them for now.",
+          "verbs": [
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To begin a long trip",
+              "wrong": "To fix a ship before a trip",
+              "correctFirst": true,
+              "why": "Hikers set out early to avoid the heat. Many families set out on long road trips every summer. The ship set out from Belfast, Northern Ireland, in October 2024."
+            },
+            {
+              "display": "get off",
+              "base": "get off",
+              "correct": "To leave a ship or other vehicle",
+              "wrong": "To book a trip months ahead",
+              "correctFirst": false,
+              "why": "We get off the bus at the next stop. Passengers get off the plane through the front door. Everyone living on the cruise ship had to get off in Cambodia."
+            }
+          ]
+        },
+        {
+          "text": "[[Repairs]] {{held up}} the ship's [[departure]] by about four months. The plan was to visit nearly 150 countries over three and a half years. [[Permanent]] cabins cost from 120,000 to 440,000 dollars, and [[rentals]] started at 3,500 dollars a month. People could also {{sign up}} for a [[lifetime plan]] to spend their [[retirement]] at sea. Many residents {{gave up}} their homes on land, and some sold their houses.",
+          "verbs": [
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To make something happen later",
+              "wrong": "To cover the cost of repairs",
+              "correctFirst": true,
+              "why": "Bad weather often holds up flights in winter. Road work holds up traffic on my street every morning. Repairs held up the ship's departure by about four months."
+            },
+            {
+              "display": "sign up",
+              "base": "sign up",
+              "correct": "To join a plan or program",
+              "wrong": "To request a lower price",
+              "correctFirst": false,
+              "why": "Many people sign up for a gym plan in January. My parents sign up for a cooking class every fall. People could sign up for a lifetime plan to spend their retirement at sea."
+            },
+            {
+              "display": "gave up",
+              "base": "give up",
+              "correct": "To no longer keep something",
+              "wrong": "To rent a home to someone else",
+              "correctFirst": true,
+              "why": "Some students give up their apartments for the summer. People often give up their cars when they move to a big city. Many residents gave up their homes on land to live on the ship."
+            }
+          ]
+        },
+        {
+          "text": "The company says fuel costs {{went up}} [[sharply]]. Fuel for each cabin used to cost about 1,800 dollars a month. In parts of Asia, it now costs 6,000 to 8,000 dollars. The company tried to {{cut back on}} fuel by sailing more slowly and staying longer in [[ports]]. Those steps {{turned out}} to be too small to {{make up for}} the higher costs. It said it could not {{pass on}} the whole [[increase]] to residents.",
+          "verbs": [
+            {
+              "display": "went up",
+              "base": "go up",
+              "correct": "To become higher in price",
+              "wrong": "To change from week to week",
+              "correctFirst": false,
+              "why": "Prices go up every winter. Rent goes up almost every year in big cities. The company says fuel costs went up sharply."
+            },
+            {
+              "display": "cut back on",
+              "base": "cut back on",
+              "correct": "To use less of something",
+              "wrong": "To store something safely",
+              "correctFirst": true,
+              "why": "My family cuts back on meat to save money. Many drivers cut back on gas when prices are high. The company tried to cut back on fuel by sailing more slowly."
+            },
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be shown to be, in the end",
+              "wrong": "To be planned from the start",
+              "correctFirst": false,
+              "why": "Some easy jobs turn out to be very hard. Cheap shoes often turn out to be a bad deal. The company's steps turned out to be too small."
+            },
+            {
+              "display": "make up for",
+              "base": "make up for",
+              "correct": "To do enough to balance a loss",
+              "wrong": "To hide the real size of a cost",
+              "correctFirst": true,
+              "why": "Good tips make up for his low pay. Extra work on Saturday makes up for the hours she misses. Saving fuel was not enough to make up for the higher costs."
+            },
+            {
+              "display": "pass on",
+              "base": "pass on",
+              "correct": "To make someone else pay a cost",
+              "wrong": "To split a cost into small parts",
+              "correctFirst": false,
+              "why": "Many stores pass on higher costs to shoppers. Airlines pass on fuel costs to travelers through higher fares. The company said it could not pass on the whole increase to residents."
+            }
+          ]
+        },
+        {
+          "text": "At about 7 a.m., residents {{found out}} from a note that they had to leave by 2 p.m. They had about seven hours to {{move out}} of their cabins. Reports say about 200 people were living [[on board]]. Now many must {{figure out}} where to live. [[Crew members]] are staying to keep the ship in [[good condition]]. The company will spend 60 days trying to fix its [[money problems]] and find new [[investors]]. It says success is not certain.",
+          "verbs": [
+            {
+              "display": "found out",
+              "base": "find out",
+              "correct": "To learn a fact or news",
+              "wrong": "To post a note for others",
+              "correctFirst": true,
+              "why": "Students find out their grades online. Most people find out the news on their phones. Residents found out from a note that they had about seven hours to leave."
+            },
+            {
+              "display": "move out",
+              "base": "move out",
+              "correct": "To leave your home and take your things",
+              "wrong": "To clean a room for the next guest",
+              "correctFirst": false,
+              "why": "Many young adults move out of their parents' homes at 18. College students move out of the dorms in May. Residents had about seven hours to move out of their cabins."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To find an answer by thinking",
+              "wrong": "To book a cheap hotel room",
+              "correctFirst": true,
+              "why": "New students figure out the bus routes in a few days. Families figure out a budget when they have little money. Now many residents must figure out where to live."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Set out",
+          "def": "To begin a long trip",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "We set out for the mountains before sunrise.",
+            "They set out on a trip across the country in an old van.",
+            "The sailors set out from the harbor at dawn."
+          ]
+        },
+        {
+          "verb": "Get off",
+          "def": "To leave a ship or other vehicle",
+          "ipa": "/ɡɛt ɔf/",
+          "ex": [
+            "Please wait until the train stops before you get off.",
+            "We got off the ferry and walked to the hotel.",
+            "Two people got off the bus at the hospital."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To make something happen later",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "An accident held up traffic for an hour.",
+            "The storm held up our flight until the next morning.",
+            "Paperwork problems held up the opening of the new school."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "def": "To join a plan or program",
+          "ipa": "/saɪn ʌp/",
+          "ex": [
+            "I signed up for a free yoga class.",
+            "Did you sign up for the company's health plan?",
+            "More than 50 people signed up for the bus tour."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "def": "To no longer keep something",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "She gave up her car when she moved to New York.",
+            "They gave up their apartment to save money.",
+            "He gave up his parking space to a new worker."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher in price",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "The price of coffee went up again.",
+            "Our rent goes up every January.",
+            "Bus fares will go up next month."
+          ]
+        },
+        {
+          "verb": "Cut back on",
+          "def": "To use less of something",
+          "ipa": "/kʌt bæk ɑn/",
+          "ex": [
+            "I'm trying to cut back on sugar.",
+            "The school cut back on paper to save money.",
+            "We cut back on trips to restaurants after I lost my job."
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To be shown to be, in the end",
+          "ipa": "/tɜrn aʊt/",
+          "ex": [
+            "The test turned out to be easier than I thought.",
+            "The new neighbor turned out to be a nurse.",
+            "The story turned out to be false."
+          ]
+        },
+        {
+          "verb": "Make up for",
+          "def": "To do enough to balance a loss",
+          "ipa": "/meɪk ʌp fɔr/",
+          "ex": [
+            "A big bonus made up for the lower pay last year.",
+            "Insurance money made up for the crops the farmer lost.",
+            "Busy summer months make up for the slow winter."
+          ]
+        },
+        {
+          "verb": "Pass on",
+          "def": "To make someone else pay a cost",
+          "ipa": "/pæs ɑn/",
+          "ex": [
+            "The landlord passed on the higher water bill to tenants.",
+            "Restaurants often pass on rising food costs to diners.",
+            "The shop does not pass on shipping fees to customers."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact or news",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I found out about the party from my sister.",
+            "When did you find out you got the job?",
+            "She found out the store was closed."
+          ]
+        },
+        {
+          "verb": "Move out",
+          "def": "To leave your home and take your things",
+          "ipa": "/muv aʊt/",
+          "ex": [
+            "My brother moved out when he was 20.",
+            "We have to move out of our apartment by Friday.",
+            "The family moved out after the house was sold."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To find an answer by thinking",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out how to use this printer.",
+            "We need to figure out who will drive.",
+            "She figured out the answer in a few minutes."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "residential cruise",
+          "def": "A ship where people buy or rent a room and live for a long time",
+          "ipa": "/ˌrɛzɪˈdɛnʃəl kruz/",
+          "ex": [
+            "A residential cruise lets people travel without packing again and again.",
+            "My uncle is thinking about a residential cruise after he retires.",
+            "Life on a residential cruise can cost more than life in a small town."
+          ]
+        },
+        {
+          "word": "cabin",
+          "def": "A small room where people sleep on a ship",
+          "ipa": "/ˈkæbɪn/",
+          "ex": [
+            "Our cabin had a small window and two beds.",
+            "She stayed in her cabin when the sea was rough.",
+            "The cheapest cabins are on the lowest level of the ship."
+          ]
+        },
+        {
+          "word": "full time",
+          "def": "All the time, not only for part of the year",
+          "ipa": "/fʊl taɪm/",
+          "ex": [
+            "They live in the mountains full time now.",
+            "My grandparents moved to Florida full time.",
+            "He works from home full time."
+          ]
+        },
+        {
+          "word": "suspended",
+          "def": "Stopped something for a period of time",
+          "ipa": "/səˈspɛndɪd/",
+          "ex": [
+            "The city suspended bus service during the snowstorm.",
+            "The school suspended its music program for a year.",
+            "The airline suspended flights to the island."
+          ]
+        },
+        {
+          "word": "Repairs",
+          "def": "Work done to fix something that is broken or old",
+          "ipa": "/rɪˈpɛrz/",
+          "ex": [
+            "Repairs to the bridge will take six weeks.",
+            "The car needs repairs before the long drive.",
+            "Repairs on our roof cost a lot of money."
+          ]
+        },
+        {
+          "word": "departure",
+          "def": "The act of leaving a place to start a trip",
+          "ipa": "/dɪˈpɑrtʃər/",
+          "ex": [
+            "Our departure time is 6 p.m.",
+            "Please arrive one hour before departure.",
+            "Snow delayed the train's departure."
+          ]
+        },
+        {
+          "word": "Permanent",
+          "def": "Lasting for a very long time or forever",
+          "ipa": "/ˈpɜrmənənt/",
+          "ex": [
+            "She finally found a permanent job.",
+            "Permanent residents can vote in some local elections.",
+            "The museum added a permanent show about the city's history."
+          ]
+        },
+        {
+          "word": "rentals",
+          "def": "Homes or rooms that people pay to use for a time",
+          "ipa": "/ˈrɛntəlz/",
+          "ex": [
+            "Beach rentals are expensive in July.",
+            "There are few cheap rentals near the college.",
+            "Most of the rentals on this street have two bedrooms."
+          ]
+        },
+        {
+          "word": "lifetime plan",
+          "def": "An agreement that lasts for the rest of a person's life",
+          "ipa": "/ˈlaɪfˌtaɪm plæn/",
+          "ex": [
+            "The gym offers a lifetime plan for one payment.",
+            "He bought a lifetime plan for the music app.",
+            "A lifetime plan sounds good, but it is a big risk."
+          ]
+        },
+        {
+          "word": "retirement",
+          "def": "The years after a person stops working",
+          "ipa": "/rɪˈtaɪərmənt/",
+          "ex": [
+            "My parents travel a lot in their retirement.",
+            "She is saving money for her retirement.",
+            "He started painting during his retirement."
+          ]
+        },
+        {
+          "word": "sharply",
+          "def": "Quickly and by a large amount",
+          "ipa": "/ˈʃɑrpli/",
+          "ex": [
+            "Home prices rose sharply last spring.",
+            "The number of visitors fell sharply in winter.",
+            "Sales of umbrellas went sharply higher during the storm."
+          ]
+        },
+        {
+          "word": "ports",
+          "def": "Towns or places by the sea where ships stop",
+          "ipa": "/pɔrts/",
+          "ex": [
+            "Big ships stop at ports to load food and water.",
+            "The cruise visits five ports in Italy.",
+            "Many ports are busy all night."
+          ]
+        },
+        {
+          "word": "increase",
+          "def": "A rise in an amount, number or price",
+          "ipa": "/ˈɪnkris/",
+          "ex": [
+            "The workers asked for a pay increase.",
+            "There was a big increase in traffic after the new mall opened.",
+            "The increase in rent surprised many families."
+          ]
+        },
+        {
+          "word": "on board",
+          "def": "On a ship, plane, train or bus",
+          "ipa": "/ɑn bɔrd/",
+          "ex": [
+            "There were 300 passengers on board the plane.",
+            "Food is served on board the train.",
+            "Everyone on board the boat wore a life jacket."
+          ]
+        },
+        {
+          "word": "Crew members",
+          "def": "The people who work on a ship or plane",
+          "ipa": "/kru ˈmɛmbərz/",
+          "ex": [
+            "Crew members helped passengers find their seats.",
+            "The ship has more than 100 crew members.",
+            "Crew members check the safety equipment every day."
+          ]
+        },
+        {
+          "word": "good condition",
+          "def": "A state where something works well and is not damaged",
+          "ipa": "/ɡʊd kənˈdɪʃən/",
+          "ex": [
+            "The used car is in good condition.",
+            "Please return the books in good condition.",
+            "The old house is still in good condition."
+          ]
+        },
+        {
+          "word": "money problems",
+          "def": "Trouble paying bills or debts",
+          "ipa": "/ˈmʌni ˈprɑbləmz/",
+          "ex": [
+            "The small shop closed because of money problems.",
+            "Money problems can cause stress in a family.",
+            "The team has money problems and cannot pay its players."
+          ]
+        },
+        {
+          "word": "investors",
+          "def": "People or companies that give money to a business to make more money",
+          "ipa": "/ɪnˈvɛstərz/",
+          "ex": [
+            "The new cafe needs investors to open a second store.",
+            "Investors lost money when the company failed.",
+            "She asked investors to help pay for her app."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A ship where people bought or rented cabins to live at sea has stopped its trip around the world in Cambodia. Its owner says fuel became too expensive, so all residents had to leave quickly.",
+          "a": true,
+          "why": "Fuel costs went up sharply, and the company said it could not pass on the whole increase. Everyone living on the ship had to get off."
+        },
+        {
+          "s": "A floating home for retirees has stopped in Southeast Asia after the old vessel failed a safety check. Officials there told everyone to leave because the ship was no longer safe to keep sailing.",
+          "a": false,
+          "why": "Close, but the company stopped the trip itself because fuel costs went up sharply. Nothing says officials found the ship unsafe."
+        },
+        {
+          "s": "A Florida company is building a second, larger ship for people who want to spend their lives traveling. Buyers can pay one price now and live on the new vessel when it begins sailing in 2029.",
+          "a": false,
+          "why": "This is about a ship that stopped in Cambodia, not a new ship. Residents had to get off because fuel costs went up sharply."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Everyone living on the ship had to get off in Cambodia.",
+          "a": true,
+          "why": "The company suspended its operations in Cambodia, and all residents had to get off the ship."
+        },
+        {
+          "s": "Residents found out about the stop weeks before they had to leave.",
+          "a": false,
+          "why": "They found out from a note at about 7 a.m. and had to leave by 2 p.m. the same day."
+        },
+        {
+          "s": "The company says fuel costs went up sharply.",
+          "a": true,
+          "why": "Fuel for each cabin used to cost about 1,800 dollars a month, and now it costs up to 8,000 dollars in parts of Asia."
+        },
+        {
+          "s": "The company decided to pass on the whole fuel increase to residents.",
+          "a": false,
+          "why": "The company said it could not simply pass on the whole increase to residents."
+        },
+        {
+          "s": "Sailing more slowly made up for the higher fuel costs.",
+          "a": false,
+          "why": "The company did cut back on fuel, but those steps turned out to be too small."
+        },
+        {
+          "s": "Many residents now have to figure out where to live.",
+          "a": true,
+          "why": "Many gave up their homes on land to live on the ship, so now they must figure out where to live."
+        }
+      ]
+    },
+    {
       "id": "us-consumer-confidence-2026",
       "number": 191,
       "headline": "Americans feel a little better as gas prices fall",
