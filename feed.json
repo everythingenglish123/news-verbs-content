@@ -1,6 +1,470 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "stories": [
+    {
+      "id": "bc-ends-clock-changes-2026",
+      "number": 193,
+      "headline": "A Canadian province stops changing its clocks",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n193-bc-ends-clock-changes-2026-flat.webp",
+      "position": "center 35%",
+      "sources": [
+        {
+          "title": "For thousands of workers, lifelong time-zone math will go out the window when B.C. stops changing clocks (CBC News)",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/what-time-is-it-in-bc-work-schedule-clock-change-confusion-daylight-saving-9.7382921"
+        },
+        {
+          "title": "Reactions mixed as B.C. to end time changes, adopt year-round daylight time (CBC News)",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657"
+        },
+        {
+          "title": "Adopting permanent daylight saving time (Government of British Columbia)",
+          "url": "https://news.gov.bc.ca/releases/2026AG0013-000209"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Most of the U.S. and Canada will {{fall back}} on Sunday, November 1, 2026. Clocks will move one hour earlier to [[standard time]], the normal winter time. But British Columbia, a [[province]] on Canada's Pacific coast, will not change its clocks. It will stay on [[daylight saving time]] all year. It is the time used in summer, when evenings stay light longer. The province is {{going ahead}} with the change [[on its own]].",
+          "verbs": [
+            {
+              "display": "fall back",
+              "base": "fall back",
+              "correct": "To set clocks one hour earlier",
+              "wrong": "To end the workday one hour early",
+              "correctFirst": true,
+              "why": "Clocks in most of the country fall back in November. We fall back and get one more hour of sleep. Most of Canada and the United States will fall back on Sunday, November 1, 2026."
+            },
+            {
+              "display": "going ahead",
+              "base": "go ahead",
+              "correct": "To do something that was planned",
+              "wrong": "To ask people to vote on it",
+              "correctFirst": false,
+              "why": "The game goes ahead even when it rains. If the weather is good, the school trip goes ahead. British Columbia is going ahead with year-round daylight saving time on its own."
+            }
+          ]
+        },
+        {
+          "text": "The province's [[premier]], its elected leader, announced the plan on March 2, 2026. British Columbia passed a law for the change in 2019. But it {{held off}} for years, hoping nearby U.S. states would change too. The premier says when clocks change, children and parents lose sleep, and dogs {{get up}} at the wrong time. A 2019 [[public survey]] {{backed up}} the idea. Of 223,000 people who answered, 93 percent wanted daylight time [[year-round]].",
+          "verbs": [
+            {
+              "display": "held off",
+              "base": "hold off",
+              "correct": "To wait before doing something",
+              "wrong": "To vote again on the same law",
+              "correctFirst": true,
+              "why": "Many people hold off on buying a car until prices drop. She holds off on big decisions until she has all the facts. The government held off for years, hoping nearby American states would change too."
+            },
+            {
+              "display": "get up",
+              "base": "get up",
+              "correct": "To wake and start the day",
+              "wrong": "To eat at a different hour",
+              "correctFirst": false,
+              "why": "I get up at six on school days. My grandfather gets up early every morning. The premier says clock changes make dogs get up at the wrong time."
+            },
+            {
+              "display": "backed up",
+              "base": "back up",
+              "correct": "To give support to an idea",
+              "wrong": "To count the votes again",
+              "correctFirst": true,
+              "why": "New numbers often back up what doctors say. Good reasons back up a strong opinion. A 2019 public survey backed up the idea of daylight time all year."
+            }
+          ]
+        },
+        {
+          "text": "In winter, British Columbia will be one hour ahead of Washington, the U.S. state to its south. Some workers for Canada's [[national government]] must change their hours to {{line up with}} eastern Canada or Washington. More than 100 [[call-center]] workers will work until 6 p.m., not 5 p.m. A [[union]] leader says some parents will {{end up}} needing more [[child care]]. A salesman says he will {{look up}} the time before meetings.",
+          "verbs": [
+            {
+              "display": "line up with",
+              "base": "line up with",
+              "correct": "To match the time of a place",
+              "wrong": "To move to a new office",
+              "correctFirst": false,
+              "why": "Our class times line up with the bus schedule. Her lunch break lines up with mine, so we eat together. Some workers must change their hours to line up with eastern Canada or Washington."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To finally be in a situation",
+              "wrong": "To ask for help from family",
+              "correctFirst": true,
+              "why": "People who skip breakfast often end up hungry by ten. Many students end up with more homework than they expect. A union leader says some parents will end up needing more child care."
+            },
+            {
+              "display": "look up",
+              "base": "look up",
+              "correct": "To find facts by searching",
+              "wrong": "To write a note to a coworker",
+              "correctFirst": false,
+              "why": "I look up new words in a dictionary. She looks up the bus times on her phone. A salesman says he will look up the time before meetings."
+            }
+          ]
+        },
+        {
+          "text": "Reactions are [[mixed]]. In winter, the sun will {{come up}} one hour later than before. Skies could stay dark until 9 a.m. on the coast. A group for [[construction workers]] is worried about crews who start before [[dawn]]. Some scientists have {{spoken out}}, saying it could harm [[public health]]. The salesman is glad the changes will end, because they {{throw off}} his son's sleep. Most of the U.S. still changes its clocks. The premier hopes American neighbors will {{join in}} soon.",
+          "verbs": [
+            {
+              "display": "come up",
+              "base": "come up",
+              "correct": "To rise in the sky",
+              "wrong": "To shine longer each day",
+              "correctFirst": true,
+              "why": "In summer, the sun comes up very early. The moon comes up over the hills at night. In winter, the sun will come up one hour later than before."
+            },
+            {
+              "display": "spoken out",
+              "base": "speak out",
+              "correct": "To say what you think in public",
+              "wrong": "To write a new science report",
+              "correctFirst": false,
+              "why": "Parents often speak out when a school plans to close. Many doctors speak out about the dangers of smoking. Some scientists have spoken out, saying the change could harm public health."
+            },
+            {
+              "display": "throw off",
+              "base": "throw off",
+              "correct": "To upset a normal routine",
+              "wrong": "To shorten a school day",
+              "correctFirst": true,
+              "why": "Long flights throw off my sleep. A late dinner throws off the baby's bedtime. The salesman says clock changes throw off his young son's sleep."
+            },
+            {
+              "display": "join in",
+              "base": "join in",
+              "correct": "To become part of what others do",
+              "wrong": "To meet to talk about a plan",
+              "correctFirst": false,
+              "why": "When the music starts, everyone joins in and dances. My little brother always joins in when we play cards. The premier hopes American neighbors will join in soon."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Fall back",
+          "def": "To set clocks one hour earlier",
+          "ipa": "/fɔl bæk/",
+          "ex": [
+            "Don't forget that we fall back tonight.",
+            "When we fall back, it gets dark before dinner.",
+            "My phone changes the time on its own when we fall back."
+          ]
+        },
+        {
+          "verb": "Go ahead",
+          "def": "To do something that was planned",
+          "ipa": "/goʊ əˈhɛd/",
+          "ex": [
+            "The wedding went ahead even after the storm.",
+            "The city will go ahead with the new bike lanes.",
+            "Our team decided to go ahead with the plan."
+          ]
+        },
+        {
+          "verb": "Hold off",
+          "def": "To wait before doing something",
+          "ipa": "/hoʊld ɔf/",
+          "ex": [
+            "We held off on painting the house until spring.",
+            "Let's hold off on dinner until Dad gets home.",
+            "The company held off on hiring until sales got better."
+          ]
+        },
+        {
+          "verb": "Get up",
+          "def": "To wake and start the day",
+          "ipa": "/gɛt ʌp/",
+          "ex": [
+            "What time do you get up on Saturdays?",
+            "She got up late and missed the bus.",
+            "It's hard to get up when it's dark outside."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To give support to an idea",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "Can you back up your answer with facts?",
+            "The test results backed up the doctor's opinion.",
+            "Several studies back up the idea that walking helps your heart."
+          ]
+        },
+        {
+          "verb": "Line up with",
+          "def": "To match the time of a place",
+          "ipa": "/laɪn ʌp wɪð/",
+          "ex": [
+            "The new store hours line up with the train schedule.",
+            "Try to make your break line up with your friend's.",
+            "Her vacation lines up with her son's school break."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally be in a situation",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up in the wrong town.",
+            "If you don't save money, you'll end up in debt.",
+            "He ended up working at the same company as his dad."
+          ]
+        },
+        {
+          "verb": "Look up",
+          "def": "To find facts by searching",
+          "ipa": "/lʊk ʌp/",
+          "ex": [
+            "Let me look up the address before we leave.",
+            "She looked up the recipe online.",
+            "You can look up the weather on this website."
+          ]
+        },
+        {
+          "verb": "Come up",
+          "def": "To rise in the sky",
+          "ipa": "/kʌm ʌp/",
+          "ex": [
+            "We watched the sun come up over the ocean.",
+            "The farmers start work before the sun comes up.",
+            "It was cold until the sun came up."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say what you think in public",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "She spoke out against the new parking rules.",
+            "More workers are speaking out about low pay.",
+            "It takes courage to speak out at a town meeting."
+          ]
+        },
+        {
+          "verb": "Throw off",
+          "def": "To upset a normal routine",
+          "ipa": "/θroʊ ɔf/",
+          "ex": [
+            "A long nap can throw off your night's sleep.",
+            "The time difference threw off my eating schedule.",
+            "Working at night throws off your body clock."
+          ]
+        },
+        {
+          "verb": "Join in",
+          "def": "To become part of what others do",
+          "ipa": "/dʒɔɪn ɪn/",
+          "ex": [
+            "The whole crowd joined in when the band played.",
+            "You can join in the game if you want.",
+            "My neighbors joined in to clean the park."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "standard time",
+          "def": "The normal clock time a place uses in winter",
+          "ipa": "/ˈstændərd taɪm/",
+          "ex": [
+            "Arizona stays on standard time all year.",
+            "Standard time makes the sun rise earlier on the clock.",
+            "In winter, the whole state uses standard time."
+          ]
+        },
+        {
+          "word": "province",
+          "def": "One of the large areas that some countries, like Canada, are divided into",
+          "ipa": "/ˈprɑvɪns/",
+          "ex": [
+            "Each province has its own government.",
+            "She moved to a different province for work.",
+            "Canada has ten provinces and three territories."
+          ]
+        },
+        {
+          "word": "daylight saving time",
+          "def": "The time in summer when clocks are set one hour later",
+          "ipa": "/ˈdeɪˌlaɪt ˈseɪvɪŋ taɪm/",
+          "ex": [
+            "Daylight saving time gives us more light after work.",
+            "Some states do not use daylight saving time.",
+            "When daylight saving time starts, we lose one hour of sleep."
+          ]
+        },
+        {
+          "word": "on its own",
+          "def": "Alone, without others doing the same",
+          "ipa": "/ɑn ɪts oʊn/",
+          "ex": [
+            "The city started the bike program on its own.",
+            "One country cannot fix climate change on its own.",
+            "Our school made the rule on its own, before other schools did."
+          ]
+        },
+        {
+          "word": "premier",
+          "def": "The head of the government in a Canadian province",
+          "ipa": "/prɪˈmɪr/",
+          "ex": [
+            "The premier spoke to reporters in the capital.",
+            "Voters will choose a new premier next year.",
+            "The premier visited a hospital in the north."
+          ]
+        },
+        {
+          "word": "public survey",
+          "def": "A set of questions that many people answer to share their views",
+          "ipa": "/ˈpʌblɪk ˈsɜrveɪ/",
+          "ex": [
+            "The city held a public survey about the new park.",
+            "A public survey asked people about bus service.",
+            "More than half of people in the public survey wanted lower taxes."
+          ]
+        },
+        {
+          "word": "year-round",
+          "def": "During every part of the year",
+          "ipa": "/ˈjɪrˌraʊnd/",
+          "ex": [
+            "This beach town is busy year-round.",
+            "The farm sells eggs year-round.",
+            "He swims year-round in an indoor pool."
+          ]
+        },
+        {
+          "word": "national government",
+          "def": "The government that runs a whole country",
+          "ipa": "/ˈnæʃənəl ˈgʌvərnmənt/",
+          "ex": [
+            "The national government pays for most highways.",
+            "She has a job with the national government.",
+            "The national government sets the rules for passports."
+          ]
+        },
+        {
+          "word": "call-center",
+          "def": "A big office where workers answer phone calls from customers",
+          "ipa": "/ˈkɔl ˌsɛntər/",
+          "ex": [
+            "She works the late shift at a call-center job.",
+            "My bank's call-center staff were very helpful.",
+            "The call-center team answers hundreds of calls a day."
+          ]
+        },
+        {
+          "word": "union",
+          "def": "A group of workers who join together to protect their pay and rights",
+          "ipa": "/ˈjunjən/",
+          "ex": [
+            "The teachers' union asked for smaller classes.",
+            "He joined the union at his new job.",
+            "The union met with the company about pay."
+          ]
+        },
+        {
+          "word": "child care",
+          "def": "Care for young children while their parents work",
+          "ipa": "/tʃaɪld kɛr/",
+          "ex": [
+            "Child care costs a lot in big cities.",
+            "Her job offers free child care.",
+            "They found child care near their home."
+          ]
+        },
+        {
+          "word": "mixed",
+          "def": "Both good and bad, or both for and against",
+          "ipa": "/mɪkst/",
+          "ex": [
+            "The new movie got mixed reviews.",
+            "I have mixed feelings about moving away.",
+            "Voters gave the plan a mixed response."
+          ]
+        },
+        {
+          "word": "construction workers",
+          "def": "People who build houses, roads and other buildings",
+          "ipa": "/kənˈstrʌkʃən ˈwɜrkərz/",
+          "ex": [
+            "Construction workers fixed the bridge in a month.",
+            "The construction workers wear hard hats.",
+            "Many construction workers start their day very early."
+          ]
+        },
+        {
+          "word": "dawn",
+          "def": "The time in the morning when light first appears",
+          "ipa": "/dɔn/",
+          "ex": [
+            "Farmers often wake at dawn.",
+            "We left for the airport before dawn.",
+            "Birds start singing at dawn."
+          ]
+        },
+        {
+          "word": "public health",
+          "def": "The health of all the people in a place",
+          "ipa": "/ˈpʌblɪk hɛlθ/",
+          "ex": [
+            "Clean water is important for public health.",
+            "She studies public health at the university.",
+            "The city has a new public health plan."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "British Columbia will skip the November clock change and keep daylight saving time all year. Many workers must change their schedules, and people have mixed feelings about the plan.",
+          "a": true,
+          "why": "The province is going ahead with year-round daylight time on its own. Some workers must line up with new hours, and reactions are mixed."
+        },
+        {
+          "s": "Canada's west coast province is ending clock changes at the same time as Washington and California. Leaders say a shared move makes life simpler for families on both sides of the border.",
+          "a": false,
+          "why": "Close, but British Columbia is going ahead on its own. Most of the U.S. still changes its clocks, so the province will be an hour ahead of Washington state."
+        },
+        {
+          "s": "British Columbia has moved its clocks forward by two hours to save energy in the winter. Officials expect the new time to help farmers who need more morning light for their crops.",
+          "a": false,
+          "why": "The province will simply not fall back on November 1. It stays on daylight saving time, which is one hour later than standard time."
+        }
+      ],
+      "tf": [
+        {
+          "s": "British Columbia will not fall back with most of the U.S. and Canada.",
+          "a": true,
+          "why": "Most of the U.S. and Canada will fall back on November 1, but British Columbia will keep its clocks the same."
+        },
+        {
+          "s": "The province will go ahead only after U.S. states change too.",
+          "a": false,
+          "why": "It will go ahead on its own on November 1. Most of the U.S. still changes its clocks."
+        },
+        {
+          "s": "The province held off on the change for years.",
+          "a": true,
+          "why": "It passed a law in 2019 but chose to hold off, hoping nearby American states would change too."
+        },
+        {
+          "s": "A public survey showed that most people wanted to keep changing clocks.",
+          "a": false,
+          "why": "The 2019 survey backed up daylight time all year. Most people who answered wanted it year-round."
+        },
+        {
+          "s": "Some workers must change their hours to line up with other places.",
+          "a": true,
+          "why": "Some workers for the national government must line up with eastern Canada or Washington."
+        },
+        {
+          "s": "Every scientist supports the change and says it will help public health.",
+          "a": false,
+          "why": "Some scientists have spoken out against it, saying the change could harm public health."
+        }
+      ]
+    },
     {
       "id": "villa-vie-cruise-stranded-2026",
       "number": 192,
