@@ -1,6 +1,472 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "stories": [
+    {
+      "id": "jodi-nanotyrannus-auction-2026",
+      "number": 194,
+      "headline": "A rare dinosaur skeleton sells for 47.3 million dollars",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n194-jodi-nanotyrannus-auction-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Nanotyrannus: Dinosaur skeleton sells for $47.3m in New York auction (BBC News)",
+          "url": "https://www.bbc.com/news/articles/cmx28de233r2o"
+        },
+        {
+          "title": "Rare Nanotyrannus skeleton sells for $47.3m at New York auction (The Guardian)",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction"
+        },
+        {
+          "title": "Rare Nanotyrannus 'Jodi' sells at auction for $47.3 million (CNN)",
+          "url": "https://www.cnn.com/2026/10/27/science/nanotyrannus-jodi-sale"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On October 27, 2026, a rare dinosaur skeleton sold for 47.3 million dollars at an [[auction]] in New York. At an auction, buyers keep raising their offers. The [[auction house]] expected 6 to 9 million dollars. Six [[bidders]] competed for 12 minutes, and the [[final price]] {{shot up}} to more than five times the top [[estimate]]. The buyer has not {{come forward}}. Only one dinosaur, a T. rex, has sold for more.",
+          "verbs": [
+            {
+              "display": "shot up",
+              "base": "shoot up",
+              "correct": "To rise very fast",
+              "wrong": "To guess an amount wrongly",
+              "correctFirst": true,
+              "why": "Gas prices shoot up every summer. Rents shoot up when a big new company comes to town. The final price shot up to more than five times the top estimate."
+            },
+            {
+              "display": "come forward",
+              "base": "come forward",
+              "correct": "To let the public know who you are",
+              "wrong": "To pay the full price at once",
+              "correctFirst": false,
+              "why": "Some big donors never come forward. Some lottery winners never come forward. The buyer has not come forward."
+            }
+          ]
+        },
+        {
+          "text": "For decades, many experts {{mixed up}} this kind of dinosaur with a young T. rex. In 2023, this skeleton was shown at an [[art fair]] in London as a young T. rex. Then, in October 2025, a study by U.S. researchers found it was a [[separate]] kind of dinosaur. It {{turned out}} to be a smaller, [[slimmer]] [[cousin]] of T. rex. The auction house says its bones show it was an adult, not a teenager.",
+          "verbs": [
+            {
+              "display": "mixed up",
+              "base": "mix up",
+              "correct": "To think one thing is another thing",
+              "wrong": "To invent a story about something",
+              "correctFirst": true,
+              "why": "Many people mix up these two words. I often mix up the twins in my class. For decades, many experts mixed up this kind of dinosaur with another, more famous one."
+            },
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be shown to be something in the end",
+              "wrong": "To be worth a great deal of money",
+              "correctFirst": false,
+              "why": "A cheap old painting sometimes turns out to be very valuable. A strange noise at night usually turns out to be the wind. This skeleton turned out to belong to a separate, slimmer kind of dinosaur."
+            }
+          ]
+        },
+        {
+          "text": "In 2019, a [[rancher]] found the skeleton on her land in Montana, a western U.S. state. It is named after her. Its bones are [[fossils]], ancient [[remains]] that slowly changed into rock. A [[fossil hunter]] later {{dug it up}}. It has about 191 bones and a nearly complete [[skull]]. It is one of only three good skeletons of its kind. It is the first to {{come up}} for sale since the 2025 study.",
+          "verbs": [
+            {
+              "display": "dug it up",
+              "base": "dig up",
+              "correct": "To remove something from the ground",
+              "wrong": "To clean old bones with a brush",
+              "correctFirst": true,
+              "why": "Farmers sometimes dig up old coins in their fields. City workers dig up the street to fix the pipes. A professional fossil hunter dug up the skeleton after a rancher found it."
+            },
+            {
+              "display": "come up",
+              "base": "come up",
+              "correct": "To become available",
+              "wrong": "To be checked by experts",
+              "correctFirst": false,
+              "why": "Houses on this street rarely come up for sale. Good jobs at the hospital come up only a few times a year. This skeleton is the first of its kind to come up for sale since the 2025 study."
+            }
+          ]
+        },
+        {
+          "text": "Some [[paleontologists]], scientists who study fossils, worry about the sale. A professor at a university in Scotland {{spoke out}} against it. He said scientists had just {{found out}} this dinosaur was real. Now a [[private collector]] could keep it {{locked away}}, he said. A paleontologist at the University of Maryland said some U.S. museums are {{closing down}} or may close because of [[money problems]]. But a British paleontologist said many fossils like this {{end up}} in museums in time.",
+          "verbs": [
+            {
+              "display": "spoke out",
+              "base": "speak out",
+              "correct": "To say what you think in public",
+              "wrong": "To raise money for a museum",
+              "correctFirst": false,
+              "why": "Many parents speak out when schools lose money. She always speaks out when she sees something unfair. A professor in Scotland spoke out against the sale of the skeleton."
+            },
+            {
+              "display": "found out",
+              "base": "find out",
+              "correct": "To learn a new fact",
+              "wrong": "To guess without proof",
+              "correctFirst": true,
+              "why": "Students find out their grades online. We usually find out the winner at the end of the show. He said scientists had only just found out this dinosaur was real."
+            },
+            {
+              "display": "locked away",
+              "base": "lock away",
+              "correct": "To keep something hidden and safe",
+              "wrong": "To sell something to a museum",
+              "correctFirst": false,
+              "why": "My grandmother locks away her jewelry when guests visit. Museums lock away their most fragile objects in storage. He said a private collector could keep the skeleton locked away."
+            },
+            {
+              "display": "closing down",
+              "base": "close down",
+              "correct": "To shut for the last time",
+              "wrong": "To open fewer days each week",
+              "correctFirst": true,
+              "why": "Small shops close down when rents get too high. Many factories close down when orders stop. A paleontologist said some American museums are closing down or may close because of money problems."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To finally be in a place",
+              "wrong": "To be shown for a short time",
+              "correctFirst": false,
+              "why": "Lost socks often end up under the bed. Old phones often end up in a drawer. A British paleontologist said many fossils like this end up in museums in time."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Shoot up",
+          "def": "To rise very fast",
+          "ipa": "/ʃut ʌp/",
+          "ex": [
+            "The price of eggs shot up last winter.",
+            "Home prices in our town shot up in just two years.",
+            "Ticket prices shoot up right before a big game."
+          ]
+        },
+        {
+          "verb": "Come forward",
+          "def": "To let the public know who you are",
+          "ipa": "/kʌm ˈfɔrwərd/",
+          "ex": [
+            "The winner of the big prize finally came forward.",
+            "No one came forward to claim the lost wallet.",
+            "A woman came forward and said the painting was hers."
+          ]
+        },
+        {
+          "verb": "Mix up",
+          "def": "To think one thing is another thing",
+          "ipa": "/mɪks ʌp/",
+          "ex": [
+            "People often mix me up with my sister.",
+            "I always mix up those two streets.",
+            "Don't mix up the salt and the sugar when you bake."
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To be shown to be something in the end",
+          "ipa": "/tɝn aʊt/",
+          "ex": [
+            "The noise turned out to be the cat.",
+            "The old coin turned out to be very valuable.",
+            "The new teacher turned out to be really kind."
+          ]
+        },
+        {
+          "verb": "Dig up",
+          "def": "To remove something from the ground",
+          "ipa": "/dɪɡ ʌp/",
+          "ex": [
+            "Workers dug up an old pipe under the road.",
+            "The dog dug up a bone in the backyard.",
+            "We dig up the carrots in the fall."
+          ]
+        },
+        {
+          "verb": "Come up",
+          "def": "To become available",
+          "ipa": "/kʌm ʌp/",
+          "ex": [
+            "A great apartment came up for rent near my office.",
+            "Jobs like this don't come up very often.",
+            "Tell me if a used bike comes up for sale."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say what you think in public",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "Several parents spoke out at the school meeting.",
+            "She spoke out about unsafe working conditions.",
+            "More doctors are speaking out about the problem."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a new fact",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "How did you find out my phone number?",
+            "I found out the truth from a friend.",
+            "We'll find out the test results next week."
+          ]
+        },
+        {
+          "verb": "Lock away",
+          "def": "To keep something hidden and safe",
+          "ipa": "/lɑk əˈweɪ/",
+          "ex": [
+            "She locks away her passport in a small safe.",
+            "The rare books are locked away in the library basement.",
+            "He locked away his old letters in a box."
+          ]
+        },
+        {
+          "verb": "Close down",
+          "def": "To shut for the last time",
+          "ipa": "/kloʊz daʊn/",
+          "ex": [
+            "The old movie theater closed down last year.",
+            "Many small shops closed down when the mall opened.",
+            "The factory may close down next spring."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally be in a place",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "My lost keys ended up in the laundry basket.",
+            "A lot of plastic ends up in the ocean.",
+            "The letter ended up at the wrong house."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "auction",
+          "def": "A public sale where people offer money and the highest offer wins",
+          "ipa": "/ˈɔkʃən/",
+          "ex": [
+            "My uncle bought his old truck at an auction.",
+            "The school held an auction to raise money for books.",
+            "Her painting sold at auction for twice its price."
+          ]
+        },
+        {
+          "word": "auction house",
+          "def": "A company that sells valuable things at public sales",
+          "ipa": "/ˈɔkʃən haʊs/",
+          "ex": [
+            "The auction house sold a famous guitar last spring.",
+            "She works as a jewelry expert at an auction house.",
+            "The family asked an auction house to sell their old furniture."
+          ]
+        },
+        {
+          "word": "final price",
+          "def": "The price that someone pays in the end",
+          "ipa": "/ˈfaɪnəl praɪs/",
+          "ex": [
+            "The final price of the car was higher than the ad said.",
+            "After taxes, the final price was 80 dollars.",
+            "We agreed on a final price for the house."
+          ]
+        },
+        {
+          "word": "estimate",
+          "def": "A guess about a number or price, based on facts",
+          "ipa": "/ˈɛstəmət/",
+          "ex": [
+            "The mechanic gave us an estimate for the repair.",
+            "Our estimate was too low, so we needed more money.",
+            "Can you give me an estimate of the cost?"
+          ]
+        },
+        {
+          "word": "bidders",
+          "def": "People who offer money for something at an auction",
+          "ipa": "/ˈbɪdərz/",
+          "ex": [
+            "Three bidders wanted the old clock.",
+            "The bidders raised their hands to make an offer.",
+            "Online bidders can join the sale from home."
+          ]
+        },
+        {
+          "word": "art fair",
+          "def": "A large event where people show and sell art",
+          "ipa": "/ɑrt fɛr/",
+          "ex": [
+            "We bought a small painting at the art fair.",
+            "The art fair fills the whole convention center.",
+            "Young artists hope to sell their work at the art fair."
+          ]
+        },
+        {
+          "word": "separate",
+          "def": "Different and not part of the same group",
+          "ipa": "/ˈsɛpərət/",
+          "ex": [
+            "The twins sleep in separate rooms.",
+            "These are two separate problems.",
+            "Please keep the receipts in a separate folder."
+          ]
+        },
+        {
+          "word": "slimmer",
+          "def": "Thinner and more narrow in shape",
+          "ipa": "/ˈslɪmər/",
+          "ex": [
+            "The new phone is slimmer than the old one.",
+            "He looks slimmer since he started running.",
+            "She chose the slimmer of the two laptops."
+          ]
+        },
+        {
+          "word": "cousin",
+          "def": "A related kind of animal or thing",
+          "ipa": "/ˈkʌzən/",
+          "ex": [
+            "The wolf is a wild cousin of the pet dog.",
+            "Tigers are close cousins of lions.",
+            "The zebra is a cousin of the horse."
+          ]
+        },
+        {
+          "word": "rancher",
+          "def": "A person who owns or runs a large farm for animals",
+          "ipa": "/ˈræntʃər/",
+          "ex": [
+            "The rancher keeps more than 200 cows.",
+            "A rancher in Texas sells beef at the local market.",
+            "The rancher drives his truck across the fields every morning."
+          ]
+        },
+        {
+          "word": "fossils",
+          "def": "Parts of very old animals or plants that have become stone",
+          "ipa": "/ˈfɑsəlz/",
+          "ex": [
+            "The children found tiny fossils on the beach.",
+            "The museum has a room full of fish fossils.",
+            "Fossils help scientists learn about early life."
+          ]
+        },
+        {
+          "word": "remains",
+          "def": "The parts of a body that are left after death",
+          "ipa": "/rɪˈmeɪnz/",
+          "ex": [
+            "Scientists studied the remains of an old whale.",
+            "The remains of a horse were found near the river.",
+            "The museum shows the remains of an ancient bird."
+          ]
+        },
+        {
+          "word": "fossil hunter",
+          "def": "A person who searches for fossils, often as a job",
+          "ipa": "/ˈfɑsəl ˈhʌntər/",
+          "ex": [
+            "The fossil hunter walks the cliffs after every storm.",
+            "A fossil hunter found a shark tooth near the river.",
+            "My cousin dreams of becoming a fossil hunter."
+          ]
+        },
+        {
+          "word": "skull",
+          "def": "The bones of the head",
+          "ipa": "/skʌl/",
+          "ex": [
+            "The doctor showed us an X-ray of my skull.",
+            "A helmet protects your skull when you ride a bike.",
+            "The museum has the skull of a large bear."
+          ]
+        },
+        {
+          "word": "paleontologists",
+          "def": "Scientists who study fossils",
+          "ipa": "/ˌpeɪliənˈtɑlədʒɪsts/",
+          "ex": [
+            "Two paleontologists found a giant bone in the desert.",
+            "Some paleontologists study ancient sea animals.",
+            "Many paleontologists use small brushes to clean old bones."
+          ]
+        },
+        {
+          "word": "private collector",
+          "def": "A person who buys rare things for themselves, not for a museum",
+          "ipa": "/ˈpraɪvət kəˈlɛktər/",
+          "ex": [
+            "A private collector bought the old car.",
+            "The painting belongs to a private collector in Chicago.",
+            "Some rare stamps are kept by a private collector."
+          ]
+        },
+        {
+          "word": "money problems",
+          "def": "Trouble paying for things because there is not enough money",
+          "ipa": "/ˈmʌni ˈprɑbləmz/",
+          "ex": [
+            "The family had money problems after he lost his job.",
+            "Money problems forced the team to sell its best player.",
+            "Many students have money problems in their first year."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A dinosaur that experts once mixed up with a young T. rex sold for 47.3 million dollars in New York. Some scientists worry a private buyer could keep the skeleton from the public.",
+          "a": true,
+          "why": "The skeleton turned out to be its own kind of dinosaur. A paleontologist spoke out because it could be locked away by a private collector."
+        },
+        {
+          "s": "A natural history museum paid a huge sum for a rare T. rex cousin at an auction. Scientists are happy because they can now study the bones and show the full skeleton to visitors.",
+          "a": false,
+          "why": "Close, but the buyer did not come forward, and nobody knows who it is. Some scientists worry the skeleton could be locked away from the public."
+        },
+        {
+          "s": "Researchers in Montana say they have discovered a new kind of dinosaur under a large farm. They believe its bones prove that young T. rex grew much faster than anyone had thought.",
+          "a": false,
+          "why": "This is about a rare skeleton that sold at auction in New York. The price shot up to far more than experts expected."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The price shot up to far more than the auction house expected.",
+          "a": true,
+          "why": "The auction house expected 6 to 9 million dollars, but the skeleton sold for 47.3 million."
+        },
+        {
+          "s": "For decades, many experts mixed up this kind of dinosaur with a young T. rex.",
+          "a": true,
+          "why": "Many experts thought it was a young T. rex until a 2025 study found it was a separate kind of dinosaur."
+        },
+        {
+          "s": "The dinosaur turned out to be a young T. rex after all.",
+          "a": false,
+          "why": "It turned out to be a separate kind of dinosaur, a smaller and slimmer cousin of T. rex."
+        },
+        {
+          "s": "The buyer came forward right after the sale.",
+          "a": false,
+          "why": "The buyer did not come forward, so nobody knows who now owns the skeleton."
+        },
+        {
+          "s": "A paleontologist spoke out against the sale of the skeleton.",
+          "a": true,
+          "why": "He said a private collector could keep the skeleton locked away."
+        },
+        {
+          "s": "A British paleontologist said fossils like this never reach museums.",
+          "a": false,
+          "why": "She said many fossils like this end up in museums in time."
+        }
+      ]
+    },
     {
       "id": "bc-ends-clock-changes-2026",
       "number": 193,
