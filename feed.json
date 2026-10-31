@@ -2,6 +2,472 @@
   "updated": "2026-10-31",
   "stories": [
     {
+      "id": "binance-hack-record-2026",
+      "number": 195,
+      "headline": "Hackers steal a record 6.3 billion dollars in crypto",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n195-binance-hack-record-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea (BBC)",
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo"
+        },
+        {
+          "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history (BBC)",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"
+        },
+        {
+          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance (NPR)",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Binance is the world's biggest [[crypto exchange]], a website where people buy, sell and keep crypto. Crypto is [[digital money]] that exists only online. An estimated 300 million people have {{signed up}} for Binance. On October 29, 2026, the company said hackers had {{made off with}} about 6.3 billion dollars in crypto. Experts call it the largest crypto [[theft]] [[on record]]. The old record was 1.5 billion dollars, stolen from another exchange in 2025.",
+          "verbs": [
+            {
+              "display": "signed up",
+              "base": "sign up",
+              "correct": "To join a service by giving your details",
+              "wrong": "To buy coins when prices are low",
+              "correctFirst": true,
+              "why": "Many people sign up for a free email account. My dad signs up for every new shopping app. An estimated 300 million people have signed up for Binance accounts."
+            },
+            {
+              "display": "made off with",
+              "base": "make off with",
+              "correct": "To steal something and escape",
+              "wrong": "To borrow money for a short time",
+              "correctFirst": false,
+              "why": "Thieves often make off with bikes that people leave unlocked. Sometimes our dog makes off with a sandwich from the table. Hackers made off with about 6.3 billion dollars in crypto from Binance."
+            }
+          ]
+        },
+        {
+          "text": "Binance first said the attack likely began with one engineer's laptop. Hackers had [[taken control]] of it. Later, Binance {{found out}} that there were other [[weak points]] too. A company that tracks crypto [[money transfers]] said most of the money left in about 20 minutes. The hackers used a tool that {{wiped out}} [[signs]] of their work as they went.",
+          "verbs": [
+            {
+              "display": "found out",
+              "base": "find out",
+              "correct": "To learn a fact you did not know",
+              "wrong": "To fix a problem in a system",
+              "correctFirst": true,
+              "why": "She finds out her test results online. Kids often find out the truth from their friends. Later, Binance found out that there were other weak points in its systems."
+            },
+            {
+              "display": "wiped out",
+              "base": "wipe out",
+              "correct": "To destroy something completely",
+              "wrong": "To copy files to a safe place",
+              "correctFirst": false,
+              "why": "A computer virus sometimes wipes out every file on a laptop. One bad fire wipes out a whole forest. The hackers used a tool that wiped out signs of their work as they went."
+            }
+          ]
+        },
+        {
+          "text": "Binance said on October 30 that it had [[frozen]] about 3 billion dollars, roughly half. Frozen money is [[locked]], so nobody can move it. The U.S. Secret Service is working to {{track down}} the rest. The tracking company and another firm say a North Korean [[hacking group]] likely {{pulled off}} the theft. The link is not proven, and North Korea has always [[denied]] such hacks. Western [[security agencies]] have said that stolen crypto helps pay for its nuclear weapons.",
+          "verbs": [
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find something after a long search",
+              "wrong": "To report a crime to the police",
+              "correctFirst": true,
+              "why": "Good reporters track down people who saw a crime. My aunt tracks down old family photos at yard sales. The Secret Service is working to track down the rest of the stolen crypto."
+            },
+            {
+              "display": "pulled off",
+              "base": "pull off",
+              "correct": "To manage to do something hard",
+              "wrong": "To pay someone else to do a job",
+              "correctFirst": false,
+              "why": "Small teams sometimes pull off a big win against a strong team. Few students pull off a perfect score on this test. Two firms say a North Korean hacking group likely pulled off the theft."
+            }
+          ]
+        },
+        {
+          "text": "Binance has {{set aside}} 6.34 billion dollars of its own money. It promises to {{make up for}} every customer's loss. Binance stopped [[withdrawals]] on October 29. It said on October 30 that customers could soon {{take their crypto out}} again, after safety checks. The price of Bitcoin {{went down}} about 5 percent that day. Some experts say the promise may not be [[legally binding]], so the law may not [[force]] Binance to keep it. Another big exchange {{fell apart}} in 2022, and its customers lost [[huge sums]].",
+          "verbs": [
+            {
+              "display": "set aside",
+              "base": "set aside",
+              "correct": "To save money for a special use",
+              "wrong": "To win money in a court case",
+              "correctFirst": true,
+              "why": "Many families set aside money for a summer vacation. I set aside ten dollars each week for birthday gifts. Binance has set aside 6.34 billion dollars of its own money."
+            },
+            {
+              "display": "make up for",
+              "base": "make up for",
+              "correct": "To give money to cover a loss",
+              "wrong": "To keep a loss a secret",
+              "correctFirst": false,
+              "why": "Insurance makes up for the loss when a car is stolen. The airline makes up for lost bags with a cash payment. Binance promises to make up for every customer's loss."
+            },
+            {
+              "display": "take their crypto out",
+              "base": "take out",
+              "correct": "To withdraw your money",
+              "wrong": "To check how much you have",
+              "correctFirst": true,
+              "why": "Most people take out cash at an ATM. My grandma takes money out of the bank every Friday. On October 29, Binance stopped customers from taking their crypto out."
+            },
+            {
+              "display": "went down",
+              "base": "go down",
+              "correct": "To drop to a lower price",
+              "wrong": "To become harder to sell",
+              "correctFirst": false,
+              "why": "Gas prices often go down in the fall. The price of a new TV goes down after a few months. The price of Bitcoin went down about 5 percent on October 30."
+            },
+            {
+              "display": "fell apart",
+              "base": "fall apart",
+              "correct": "To fail and close as a business",
+              "wrong": "To change its name and owners",
+              "correctFirst": true,
+              "why": "Many small companies fall apart in their first year. A business often falls apart when its owners fight. Another big crypto exchange fell apart in 2022, and its customers lost huge sums."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Sign up",
+          "def": "To join a service by giving your details",
+          "ipa": "/saɪn ʌp/",
+          "ex": [
+            "It only takes a minute to sign up for the streaming service.",
+            "She signed up for a library card on her first day in town.",
+            "You need an email address to sign up for this app."
+          ]
+        },
+        {
+          "verb": "Make off with",
+          "def": "To steal something and escape",
+          "ipa": "/meɪk ɔf wɪð/",
+          "ex": [
+            "Someone made off with my bike while I was in the store.",
+            "The thieves made off with three paintings from the museum.",
+            "A seagull made off with my son's french fries at the beach."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I found out about the party from my sister.",
+            "We will find out the winner on Friday.",
+            "How did you find out that the store was closing?"
+          ]
+        },
+        {
+          "verb": "Wipe out",
+          "def": "To destroy something completely",
+          "ipa": "/waɪp aʊt/",
+          "ex": [
+            "The flood wiped out the farmer's whole crop.",
+            "A software error wiped out years of family photos.",
+            "The storm almost wiped out the small beach town."
+          ]
+        },
+        {
+          "verb": "Track down",
+          "def": "To find something after a long search",
+          "ipa": "/træk daʊn/",
+          "ex": [
+            "It took me weeks to track down a copy of that old book.",
+            "The police tracked down the stolen truck in another state.",
+            "She finally tracked down her favorite teacher from high school."
+          ]
+        },
+        {
+          "verb": "Pull off",
+          "def": "To manage to do something hard",
+          "ipa": "/pʊl ɔf/",
+          "ex": [
+            "Nobody thought she could finish the race, but she pulled it off.",
+            "The small restaurant pulled off a dinner for 200 guests.",
+            "It is hard to pull off a surprise party for your mom."
+          ]
+        },
+        {
+          "verb": "Set aside",
+          "def": "To save money for a special use",
+          "ipa": "/sɛt əˈsaɪd/",
+          "ex": [
+            "We set aside some money every month for car repairs.",
+            "She sets aside part of her pay for college.",
+            "The city set aside two million dollars for new parks."
+          ]
+        },
+        {
+          "verb": "Make up for",
+          "def": "To give money to cover a loss",
+          "ipa": "/meɪk ʌp fɔr/",
+          "ex": [
+            "The airline paid 200 dollars to make up for the lost bag.",
+            "The store gave me a refund to make up for the broken chair.",
+            "Nothing can make up for the money he lost in the fire."
+          ]
+        },
+        {
+          "verb": "Take out",
+          "def": "To withdraw your money",
+          "ipa": "/teɪk aʊt/",
+          "ex": [
+            "I need to take out some cash before the trip.",
+            "He took 100 dollars out of his savings account.",
+            "You can take out up to 500 dollars a day with this card."
+          ]
+        },
+        {
+          "verb": "Go down",
+          "def": "To drop to a lower price",
+          "ipa": "/ɡoʊ daʊn/",
+          "ex": [
+            "The price of eggs went down in the spring.",
+            "Rents in our city may go down next year.",
+            "When oil prices go down, gas gets cheaper."
+          ]
+        },
+        {
+          "verb": "Fall apart",
+          "def": "To fail and close as a business",
+          "ipa": "/fɔl əˈpɑrt/",
+          "ex": [
+            "The airline fell apart after years of money problems.",
+            "Their small business fell apart when sales dropped.",
+            "Many new restaurants fall apart before they are two years old."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "crypto exchange",
+          "def": "A website where people buy, sell and keep digital money",
+          "ipa": "/ˈkrɪptoʊ ɪksˈtʃeɪndʒ/",
+          "ex": [
+            "My cousin opened an account with a crypto exchange.",
+            "A crypto exchange charges a small fee for each trade.",
+            "Some countries have strict rules for any crypto exchange."
+          ]
+        },
+        {
+          "word": "digital money",
+          "def": "Money that exists only on computers and phones",
+          "ipa": "/ˈdɪdʒɪtəl ˈmʌni/",
+          "ex": [
+            "Some young people save all their digital money on an app.",
+            "You cannot hold digital money in your hand.",
+            "The store does not accept digital money yet."
+          ]
+        },
+        {
+          "word": "theft",
+          "def": "The crime of stealing something",
+          "ipa": "/θɛft/",
+          "ex": [
+            "He reported the theft of his phone to the police.",
+            "Car theft is a big problem in some cities.",
+            "The shop added cameras after a theft last spring."
+          ]
+        },
+        {
+          "word": "on record",
+          "def": "Among all known cases so far",
+          "ipa": "/ɑn ˈrɛkərd/",
+          "ex": [
+            "It was the hottest day on record in our city.",
+            "This is the biggest fish on record in the state.",
+            "That winter had the most snow on record."
+          ]
+        },
+        {
+          "word": "taken control",
+          "def": "Got the power to direct or use something",
+          "ipa": "/ˈteɪkən kənˈtroʊl/",
+          "ex": [
+            "My little sister has taken control of the TV remote.",
+            "The new manager has taken control of the team.",
+            "Once a virus has taken control of a computer, it can be hard to stop."
+          ]
+        },
+        {
+          "word": "weak points",
+          "def": "Parts that are easy to attack or break",
+          "ipa": "/wik pɔɪnts/",
+          "ex": [
+            "The engineers checked the bridge for weak points.",
+            "Every team has weak points that others can use.",
+            "Old passwords are weak points in many home networks."
+          ]
+        },
+        {
+          "word": "money transfers",
+          "def": "Moves of money from one account to another",
+          "ipa": "/ˈmʌni ˈtrænsfərz/",
+          "ex": [
+            "The bank charges a fee for money transfers to other countries.",
+            "Money transfers usually take a day to arrive.",
+            "She sends money transfers to her parents every month."
+          ]
+        },
+        {
+          "word": "signs",
+          "def": "Things that show something has happened",
+          "ipa": "/saɪnz/",
+          "ex": [
+            "There were signs that a mouse lived in the kitchen.",
+            "The doctor saw no signs of illness.",
+            "Wet roads are signs that it rained last night."
+          ]
+        },
+        {
+          "word": "frozen",
+          "def": "Locked by a bank or company so no one can use it",
+          "ipa": "/ˈfroʊzən/",
+          "ex": [
+            "Her bank account was frozen after a strange payment.",
+            "The court kept the company's money frozen for a year.",
+            "My card is frozen until I call the bank."
+          ]
+        },
+        {
+          "word": "locked",
+          "def": "Closed so that no one can use or open it",
+          "ipa": "/lɑkt/",
+          "ex": [
+            "The front door is locked every night.",
+            "My phone stays locked until I type my code.",
+            "The files are locked, so only the boss can open them."
+          ]
+        },
+        {
+          "word": "hacking group",
+          "def": "A team of people who attack computer systems",
+          "ipa": "/ˈhækɪŋ ɡrup/",
+          "ex": [
+            "A hacking group attacked the city's water company.",
+            "Police arrested two members of a hacking group.",
+            "The hacking group sent fake emails to bank workers."
+          ]
+        },
+        {
+          "word": "denied",
+          "def": "Said that something is not true",
+          "ipa": "/dɪˈnaɪd/",
+          "ex": [
+            "The boy denied that he ate the last cookie.",
+            "The mayor denied the claims in the newspaper.",
+            "She denied breaking the window."
+          ]
+        },
+        {
+          "word": "security agencies",
+          "def": "Government groups that protect a country from danger",
+          "ipa": "/sɪˈkjʊrəti ˈeɪdʒənsiz/",
+          "ex": [
+            "Security agencies watch for threats at big events.",
+            "Many security agencies share information with each other.",
+            "The report came from two security agencies in Europe."
+          ]
+        },
+        {
+          "word": "withdrawals",
+          "def": "Times when people remove money from an account",
+          "ipa": "/wɪðˈdrɔəlz/",
+          "ex": [
+            "The bank limits cash withdrawals to 500 dollars a day.",
+            "She made two withdrawals from her savings in June.",
+            "The ATM fee is two dollars for withdrawals."
+          ]
+        },
+        {
+          "word": "legally binding",
+          "def": "Required by law to be kept",
+          "ipa": "/ˈliɡəli ˈbaɪndɪŋ/",
+          "ex": [
+            "A signed lease is legally binding.",
+            "Is a promise in a text message legally binding?",
+            "The contract is not legally binding until both sides sign it."
+          ]
+        },
+        {
+          "word": "force",
+          "def": "To make someone do something they do not want to do",
+          "ipa": "/fɔrs/",
+          "ex": [
+            "The rain will force us to stay inside.",
+            "No one can force you to sign the paper.",
+            "High rent may force the cafe to close."
+          ]
+        },
+        {
+          "word": "huge sums",
+          "def": "Very large amounts of money",
+          "ipa": "/hjudʒ sʌmz/",
+          "ex": [
+            "Big companies spend huge sums on ads.",
+            "Some players earn huge sums in one season.",
+            "The family paid huge sums for the old house."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Hackers stole about 6.3 billion dollars in crypto from Binance, the biggest theft of its kind. About half is now locked, and the company promises to repay users with its own cash.",
+          "a": true,
+          "why": "Hackers made off with about 6.3 billion dollars, a record. Binance has frozen about half and set aside its own money to make up for every loss."
+        },
+        {
+          "s": "An engineer at Binance gave a password to criminals, and that one mistake let them take billions. Customers will lose most of their savings unless the police get the money back.",
+          "a": false,
+          "why": "Close, but Binance found out there were other weak points, not just one laptop. It also promises to make up for every customer's loss with its own money."
+        },
+        {
+          "s": "A large crypto exchange agreed to pay a record fine for helping criminals move cash. Officials say the firm ignored many warnings for years and must now hire outside checkers.",
+          "a": false,
+          "why": "This story is about a hack. Hackers made off with about 6.3 billion dollars in crypto from Binance, and about half has been frozen."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Hackers made off with about 6.3 billion dollars in crypto from Binance.",
+          "a": true,
+          "why": "Binance said this on October 29, 2026. Experts call it the largest crypto theft on record."
+        },
+        {
+          "s": "Binance found out that one laptop was the only weak point in its systems.",
+          "a": false,
+          "why": "The attack likely began with one engineer's laptop, but Binance later found out there were other weak points too."
+        },
+        {
+          "s": "Two firms link the theft to a North Korean hacking group.",
+          "a": true,
+          "why": "Two companies that follow crypto money say the group likely pulled off the theft. The link is not proven, and North Korea has always denied such hacks."
+        },
+        {
+          "s": "Investigators have already tracked down all of the stolen crypto.",
+          "a": false,
+          "why": "Only about half has been frozen. The U.S. Secret Service is still working to track down the rest."
+        },
+        {
+          "s": "Binance has set aside its own money to cover customers' losses.",
+          "a": true,
+          "why": "It set aside 6.34 billion dollars and promises to make up for every customer's loss."
+        },
+        {
+          "s": "North Korea says its hackers pulled off the attack on Binance.",
+          "a": false,
+          "why": "North Korea has always denied such hacks. The link comes from two companies that follow crypto money."
+        }
+      ]
+    },
+    {
       "id": "jodi-nanotyrannus-auction-2026",
       "number": 194,
       "headline": "A rare dinosaur skeleton sells for 47.3 million dollars",
