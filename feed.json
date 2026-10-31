@@ -2,6 +2,492 @@
   "updated": "2026-10-31",
   "stories": [
     {
+      "id": "eu-canada-closer-ties-2026",
+      "number": 196,
+      "headline": "Canada and the EU launch a new alliance",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n196-eu-canada-closer-ties-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Canada and EU announce new alliance open to like-minded countries (The Guardian, Oct 30, 2026)",
+          "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+        },
+        {
+          "title": "Canada and the European Union announce new Alliance for the Future to create greater affordability, opportunity, and sovereignty (Prime Minister of Canada, Oct 30, 2026)",
+          "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/30/canada-and-european-union-announce-new-alliance-future-create-greater"
+        },
+        {
+          "title": "Joint Statement: Canada and the European Union building together an Alliance for the Future (Prime Minister of Canada, Oct 30, 2026)",
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/10/30/joint-statement-canada-and-european-union-building-together-alliance"
+        },
+        {
+          "title": "Canada, European Union close Montreal summit with 'alliance for the future' pact (The Canadian Press, via CP24, Oct 30, 2026)",
+          "url": "https://www.cp24.com/news/canada/2026/10/30/canada-european-union-close-montreal-summit-with-alliance-for-the-future-pact/"
+        },
+        {
+          "title": "Carney pursuing 'associate' EU membership (CTVNews.ca live coverage, via CP24, Oct 30, 2026)",
+          "url": "https://www.cp24.com/news/canada/2026/10/30/pm-carney-von-der-leyen-float-associate-member-status-at-canada-eu-summit/"
+        },
+        {
+          "title": "EU chief lays out vision for new Canada partnership at Montreal summit (BBC, Oct 29, 2026)",
+          "url": "https://www.bbc.com/news/articles/cq8ezj7jylrzo"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Canada is in North America, but it is moving closer to Europe. The European Union, or EU, is a group of 27 European countries that share many laws. On October 29, 2026, Prime Minister Mark Carney {{kicked off}} a two-day [[summit]], a meeting of top leaders, with EU leaders in Montreal. On October 30, they {{rolled out}} the \"Alliance for the Future,\" a plan to work closely on trade, technology and defense. Canada wants more partners because of a trade fight with the United States.",
+          "verbs": [
+            {
+              "display": "kicked off",
+              "base": "kick off",
+              "correct": "To start an event",
+              "wrong": "To leave a meeting early",
+              "correctFirst": true,
+              "why": "The city kicks off its winter festival with a parade. Our book club kicks off each year with a big dinner. Prime Minister Mark Carney kicked off a two-day summit with EU leaders in Montreal on October 29, 2026."
+            },
+            {
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To launch a new plan",
+              "wrong": "To sign a plan in secret",
+              "correctFirst": false,
+              "why": "The bus company rolls out new routes every spring. Our school rolls out a new lunch menu each fall. On October 30, Canada and the EU rolled out the Alliance for the Future."
+            }
+          ]
+        },
+        {
+          "text": "The two sides {{hammered out}} a deal on [[digital trade]], the buying and selling of goods and services online. Canada also {{signed up for}} Europe's [[network]] of [[supercomputers]], very powerful computers. Canadian [[researchers]] can use them to train [[artificial intelligence]] programs. Canada will {{chip in}} 500 million [[euros]] to an EU [[loan]] for Ukraine. Both sides want to {{build up}} their supply of [[critical minerals]], which modern technology needs.",
+          "verbs": [
+            {
+              "display": "hammered out",
+              "base": "hammer out",
+              "correct": "To reach a deal after long talks",
+              "wrong": "To copy a deal from another country",
+              "correctFirst": true,
+              "why": "Workers and owners often hammer out a new contract over many weeks. Neighbors hammer out a plan for a shared fence after many meetings. At the summit, Canada and the EU hammered out a deal on digital trade."
+            },
+            {
+              "display": "signed up for",
+              "base": "sign up for",
+              "correct": "To join a program or group",
+              "wrong": "To design a program or group",
+              "correctFirst": false,
+              "why": "Many students sign up for a club in their first week. My neighbor signs up for a cooking class every winter. Canada signed up for Europe's network of supercomputers."
+            },
+            {
+              "display": "chip in",
+              "base": "chip in",
+              "correct": "To give money for a shared goal",
+              "wrong": "To count money for a shared goal",
+              "correctFirst": true,
+              "why": "Coworkers often chip in for a birthday cake. Each family chips in ten dollars for the class trip. Canada will chip in 500 million euros to an EU loan for Ukraine."
+            },
+            {
+              "display": "build up",
+              "base": "build up",
+              "correct": "To make something bigger and stronger",
+              "wrong": "To make something cheaper to buy",
+              "correctFirst": false,
+              "why": "Stores build up supplies of water before a big storm. Farmers build up their stock of hay before winter. Canada and the EU want to build up their supply of critical minerals."
+            }
+          ]
+        },
+        {
+          "text": "The leaders talked about making Canada the EU's first \"[[associate member]],\" a country that works closely with the EU without joining it. The president of the European Commission, the office that runs the EU's daily work, first {{put forward}} the idea in September. Not every EU country {{went along with}} the name. Germany's [[ambassador]] to Canada said his country uses the [[term]] for Ukraine and maybe Moldova, which hope to join. So the leaders' [[joint statement]] {{left out}} the words. Still, the Commission president and Carney {{stuck with}} \"associate member\" at the summit.",
+          "verbs": [
+            {
+              "display": "put forward",
+              "base": "put forward",
+              "correct": "To suggest a new idea",
+              "wrong": "To praise someone's idea",
+              "correctFirst": true,
+              "why": "Students often put forward ideas for the school fair. The manager puts forward a new plan every spring. The Commission president first put forward the idea of an associate member in September."
+            },
+            {
+              "display": "went along with",
+              "base": "go along with",
+              "correct": "To accept a plan or idea",
+              "wrong": "To want more time to think",
+              "correctFirst": false,
+              "why": "My brother usually goes along with whatever the family wants. Most workers go along with the new rules at the office. Not every EU country went along with the name \"associate member.\""
+            },
+            {
+              "display": "left out",
+              "base": "leave out",
+              "correct": "To not include some words",
+              "wrong": "To translate some words",
+              "correctFirst": true,
+              "why": "Short news stories often leave out small details. My teacher leaves out the hard words on the first test. The joint statement left out the words \"associate member.\""
+            },
+            {
+              "display": "stuck with",
+              "base": "stick with",
+              "correct": "To keep using something",
+              "wrong": "To use a word by mistake",
+              "correctFirst": false,
+              "why": "Many companies stick with the same name for decades. My grandmother sticks with her old recipe for apple pie. Von der Leyen and Carney stuck with the term \"associate member\" at the summit."
+            }
+          ]
+        },
+        {
+          "text": "This [[status]] does not exist yet, and both sides plan to {{figure out}} what it means by 2027. Carney said the deals will make life more [[affordable]] and that costs will {{come down}} for families. [[Polls]] show most Canadians support closer ties with Europe.",
+          "verbs": [
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To find the answer to a question",
+              "wrong": "To keep a question secret",
+              "correctFirst": true,
+              "why": "Students figure out the answer by working together. A new driver often figures out the fastest way to work. Canada and the EU plan to figure out what the new status means by 2027."
+            },
+            {
+              "display": "come down",
+              "base": "come down",
+              "correct": "To become lower",
+              "wrong": "To be paid in euros",
+              "correctFirst": false,
+              "why": "Gas prices come down after the summer. The cost of a new phone comes down every year. Carney said that costs will come down for families because of the deals."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Kick off",
+          "def": "To start an event",
+          "ipa": "/kɪk ɔf/",
+          "ex": [
+            "The concert kicks off at eight o'clock.",
+            "The team kicked off the season with a big win.",
+            "Let's kick off the meeting with some good news."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To launch a new plan",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The city rolled out a new recycling plan in May.",
+            "The phone company will roll out its new app next month.",
+            "Our bank rolled out a faster way to pay bills."
+          ]
+        },
+        {
+          "verb": "Hammer out",
+          "def": "To reach a deal after long talks",
+          "ipa": "/ˈhæmər aʊt/",
+          "ex": [
+            "The two companies hammered out a deal late at night.",
+            "It took the city council months to hammer out a budget.",
+            "We finally hammered out a plan for the family trip."
+          ]
+        },
+        {
+          "verb": "Sign up for",
+          "def": "To join a program or group",
+          "ipa": "/saɪn ʌp fɔr/",
+          "ex": [
+            "I signed up for a yoga class at the gym.",
+            "Did you sign up for the town's summer reading program?",
+            "Over 200 people signed up for the charity race."
+          ]
+        },
+        {
+          "verb": "Chip in",
+          "def": "To give money for a shared goal",
+          "ipa": "/tʃɪp ɪn/",
+          "ex": [
+            "We all chipped in to buy our teacher a gift.",
+            "Can you chip in five dollars for the pizza?",
+            "The neighbors chipped in to fix the park bench."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To make something bigger and stronger",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "The city is building up its supply of salt for the winter.",
+            "She built up her savings over five years.",
+            "Hospitals build up their stock of flu shots in the fall."
+          ]
+        },
+        {
+          "verb": "Put forward",
+          "def": "To suggest a new idea",
+          "ipa": "/pʊt ˈfɔrwərd/",
+          "ex": [
+            "Several parents put forward ideas for the new playground.",
+            "He put forward a plan to cut the town's water use.",
+            "Anyone can put forward a name for the new team."
+          ]
+        },
+        {
+          "verb": "Go along with",
+          "def": "To accept a plan or idea",
+          "ipa": "/ɡoʊ əˈlɔŋ wɪð/",
+          "ex": [
+            "She didn't like the plan, but she went along with it.",
+            "The rest of the class went along with the teacher's idea.",
+            "I'll go along with your choice of restaurant."
+          ]
+        },
+        {
+          "verb": "Leave out",
+          "def": "To not include some words",
+          "ipa": "/liv aʊt/",
+          "ex": [
+            "Please don't leave out any names on the list.",
+            "The editor left out two sentences from my article.",
+            "He left out the boring parts when he told the story."
+          ]
+        },
+        {
+          "verb": "Stick with",
+          "def": "To keep using something",
+          "ipa": "/stɪk wɪð/",
+          "ex": [
+            "She stuck with her old laptop for ten years.",
+            "The store stuck with its old cash registers for years.",
+            "We stuck with the same plan, and it worked."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To find the answer to a question",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out how this new remote works.",
+            "We figured out the problem with the car.",
+            "Scientists are trying to figure out why the lake is shrinking."
+          ]
+        },
+        {
+          "verb": "Come down",
+          "def": "To become lower",
+          "ipa": "/kʌm daʊn/",
+          "ex": [
+            "Rents in the city finally came down.",
+            "My electric bill comes down in the spring.",
+            "Prices for strawberries come down in June."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "summit",
+          "def": "A meeting between the leaders of two or more countries",
+          "ipa": "/ˈsʌmɪt/",
+          "ex": [
+            "The two presidents met at a summit in Geneva.",
+            "World leaders will discuss climate at next year's summit.",
+            "Reporters waited outside the summit for news."
+          ]
+        },
+        {
+          "word": "digital trade",
+          "def": "The buying and selling of goods and services online",
+          "ipa": "/ˈdɪdʒɪtəl treɪd/",
+          "ex": [
+            "Digital trade lets a small shop sell to people in other countries.",
+            "New rules on digital trade make online payments safer.",
+            "Music and movies are a big part of digital trade."
+          ]
+        },
+        {
+          "word": "supercomputers",
+          "def": "Very large and fast computers that do huge amounts of work",
+          "ipa": "/ˈsupərkəmˌpjutərz/",
+          "ex": [
+            "Weather offices use supercomputers to predict storms.",
+            "The university has two supercomputers for its scientists.",
+            "Supercomputers can solve some problems in minutes."
+          ]
+        },
+        {
+          "word": "network",
+          "def": "A group of connected things, like computers, that work together",
+          "ipa": "/ˈnɛtˌwɝk/",
+          "ex": [
+            "The school has a network of computers in every classroom.",
+            "A network of trains connects the big cities.",
+            "The library is part of a network of libraries across the state."
+          ]
+        },
+        {
+          "word": "researchers",
+          "def": "People who study a subject carefully to learn new facts",
+          "ipa": "/ˈrisɜrtʃərz/",
+          "ex": [
+            "The researchers tested the new medicine on 500 people.",
+            "Researchers at the zoo study how elephants sleep.",
+            "A team of researchers found a new kind of frog."
+          ]
+        },
+        {
+          "word": "artificial intelligence",
+          "def": "Computer programs that can do tasks that usually need a human mind",
+          "ipa": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+          "ex": [
+            "My phone uses artificial intelligence to sort my photos.",
+            "Some doctors use artificial intelligence to read X-rays.",
+            "Artificial intelligence can write short emails for you."
+          ]
+        },
+        {
+          "word": "euros",
+          "def": "The money used in most EU countries",
+          "ipa": "/ˈjʊroʊz/",
+          "ex": [
+            "This coffee costs three euros in Paris.",
+            "She changed her dollars into euros at the airport.",
+            "The hotel room was 90 euros a night."
+          ]
+        },
+        {
+          "word": "loan",
+          "def": "Money that someone borrows and must return later",
+          "ipa": "/loʊn/",
+          "ex": [
+            "She got a loan from the bank to buy a car.",
+            "The loan must be repaid in five years.",
+            "The city took a loan to build a new bridge."
+          ]
+        },
+        {
+          "word": "critical minerals",
+          "def": "Minerals that are very important for modern industry",
+          "ipa": "/ˈkrɪtɪkəl ˈmɪnərəlz/",
+          "ex": [
+            "Lithium is one of the critical minerals used in batteries.",
+            "Many countries want their own supply of critical minerals.",
+            "The new mine will produce critical minerals for car makers."
+          ]
+        },
+        {
+          "word": "associate member",
+          "def": "A member with close ties but fewer rights than full members",
+          "ipa": "/əˈsoʊʃiət ˈmɛmbər/",
+          "ex": [
+            "As an associate member, he can use the pool but cannot vote.",
+            "The college made the small school an associate member.",
+            "Each associate member pays a lower fee."
+          ]
+        },
+        {
+          "word": "status",
+          "def": "An official position or rank that someone has",
+          "ipa": "/ˈstætəs/",
+          "ex": [
+            "She applied for permanent resident status.",
+            "The old building has protected status now.",
+            "His status changed from student to full-time worker."
+          ]
+        },
+        {
+          "word": "ambassador",
+          "def": "A person sent to another country to represent their own country",
+          "ipa": "/æmˈbæsədər/",
+          "ex": [
+            "The ambassador met the president in the capital.",
+            "She served as ambassador to Japan for four years.",
+            "The new ambassador gave a speech at the embassy."
+          ]
+        },
+        {
+          "word": "term",
+          "def": "A word or phrase used for a particular thing",
+          "ipa": "/tɝm/",
+          "ex": [
+            "Doctors use a special term for this kind of pain.",
+            "I didn't understand the term on my bank statement.",
+            "The term is used mostly in science classes."
+          ]
+        },
+        {
+          "word": "joint statement",
+          "def": "A public message written and shared by two or more sides",
+          "ipa": "/dʒɔɪnt ˈsteɪtmənt/",
+          "ex": [
+            "The two companies released a joint statement about the merger.",
+            "The leaders signed a joint statement after the meeting.",
+            "A joint statement from both teams thanked the fans."
+          ]
+        },
+        {
+          "word": "affordable",
+          "def": "Not too expensive for most people",
+          "ipa": "/əˈfɔrdəbəl/",
+          "ex": [
+            "The city wants more affordable homes for young families.",
+            "This phone is affordable for most students.",
+            "Fresh fruit is more affordable in the summer."
+          ]
+        },
+        {
+          "word": "Polls",
+          "def": "Studies that ask many people what they think",
+          "ipa": "/poʊlz/",
+          "ex": [
+            "Polls show that most voters care about prices.",
+            "Recent polls suggest the race is very close.",
+            "Polls in our city find that people want more parks."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Canada and the EU rolled out a new alliance and several deals at a Montreal summit. They also talked about making Canada an associate member, though some EU countries objected to the name.",
+          "a": true,
+          "why": "The two sides hammered out deals on trade, computers and minerals. Germany and others did not go along with the name associate member."
+        },
+        {
+          "s": "Leaders from Canada and Europe met for two days and signed deals on trade and technology. Every EU country agreed to make Canada a full member of the EU by their next summit in 2027.",
+          "a": false,
+          "why": "Close, but Canada is not joining the EU, and not every country went along with the name associate member. The details are still being figured out."
+        },
+        {
+          "s": "Canada and the EU signed a new agreement on fishing in the North Atlantic. It sets strict limits on how much cod each side may catch from their fishing boats over the next ten years.",
+          "a": false,
+          "why": "This story is about a summit where Canada and the EU rolled out a new alliance. They also talked about Canada becoming an associate member."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Canada and the EU rolled out a new alliance at the end of the summit.",
+          "a": true,
+          "why": "On October 30, the leaders launched the Alliance for the Future to work closely on trade, technology and defense."
+        },
+        {
+          "s": "Canada signed up for a European program for very powerful computers.",
+          "a": true,
+          "why": "Canadian researchers can now use Europe's supercomputers to train artificial intelligence programs."
+        },
+        {
+          "s": "Every EU country went along with the name for Canada's new status.",
+          "a": false,
+          "why": "Germany and several other members objected. Germany uses the term for Ukraine and maybe Moldova, which hope to join."
+        },
+        {
+          "s": "The leaders' joint statement left out the name that some countries disliked.",
+          "a": true,
+          "why": "It calls for an \"ever closer association\" instead, even though von der Leyen and Carney still use the old term."
+        },
+        {
+          "s": "Both sides already know exactly what an associate member would be.",
+          "a": false,
+          "why": "The status does not exist yet. Canada and the EU plan to figure out what it means by their next summit in 2027."
+        },
+        {
+          "s": "Carney said the deals will help costs come down for families.",
+          "a": true,
+          "why": "He said the deals will make life more affordable and that costs will come down for families."
+        }
+      ]
+    },
+    {
       "id": "binance-hack-record-2026",
       "number": 195,
       "headline": "Hackers steal a record 6.3 billion dollars in crypto",
