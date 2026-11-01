@@ -2,6 +2,462 @@
   "updated": "2026-11-01",
   "stories": [
     {
+      "id": "singapore-indonesia-haze-2026",
+      "number": 199,
+      "headline": "Singapore and Indonesia team up to fight smoke haze",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n199-singapore-indonesia-haze-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning (AP)",
+          "url": "https://apnews.com/article/indonesia-singapore-haze-fire-pollution-wildfires-16109886ad54f7f8e0fa0dea6b91e424"
+        },
+        {
+          "title": "Singapore, Indonesia to set up joint task force to hold firms accountable for forest fires (The Straits Times via The Star)",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/28/singapore-indonesia-to-set-up-joint-task-force-to-hold-firms-accountable-for-forest-fires"
+        },
+        {
+          "title": "Indonesian, Singapore foreign ministers meet amid spat over haze, gas (AFP via The Star)",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/indonesian-singapore-foreign-ministers-meet-amid-spat-over-haze-gas"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Smoke from forest fires in Indonesia has covered parts of Southeast Asia in [[haze]], a thick, dirty cloud. Indonesia and [[neighboring]] Singapore have {{teamed up}} to fight it. On October 27, 2026, the two countries' [[foreign ministers]], who handle relations with other countries, met in Jakarta, Indonesia's capital. They agreed to {{set up}} a [[task force]], a special team for one goal. It will {{step up}} action against the companies behind the fires.",
+          "verbs": [
+            {
+              "display": "teamed up",
+              "base": "team up",
+              "correct": "To work as a group toward a goal",
+              "wrong": "To share the cost of a meeting",
+              "correctFirst": true,
+              "why": "Two friends team up to start a small business. Neighbors team up to clean the park every spring. Indonesia and Singapore have teamed up to fight the smoke haze."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create a new group",
+              "wrong": "To study a new group",
+              "correctFirst": false,
+              "why": "Parents set up a club for kids who love chess. Many towns set up groups to help new families. The two countries agreed to set up a task force against the haze."
+            },
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To increase an effort or action",
+              "wrong": "To write the rules for an action",
+              "correctFirst": true,
+              "why": "Police step up patrols on busy weekends. Many schools step up safety checks after a storm. The new task force will step up action against the companies behind the fires."
+            }
+          ]
+        },
+        {
+          "text": "Fires in western Indonesia are often started [[on purpose]] to [[clear land]] for farming. Many burn in [[peatland]], wet ground made of dead plants that burns easily when dry. The 2026 fires are the worst [[on record]], the Associated Press reports. Hot, dry weather from El Niño, a natural [[weather pattern]], made the fires worse. Singapore's foreign minister {{pointed out}} that El Niño is natural, but people cause the burning.",
+          "verbs": [
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To say something to make people notice it",
+              "wrong": "To repeat a question to the group",
+              "correctFirst": false,
+              "why": "My teacher points out small mistakes in my essays. A good friend points out problems in a kind way. Singapore's foreign minister pointed out that people cause the burning."
+            }
+          ]
+        },
+        {
+          "text": "The haze has reached Singapore and Malaysia and {{shut down}} schools in nearby countries. Over the Indonesian part of Borneo, a large island, the smoke turned the sky orange. Both ministers said Indonesians suffer the most. Singapore sent [[warning letters]] to 10 Indonesian companies. Indonesia says it has {{looked into}} the fires. It has [[investigated]] or [[charged]] hundreds of people and more than 50 companies. About 71,000 workers are trying to {{put out}} the fires.",
+          "verbs": [
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To close for a period of time",
+              "wrong": "To move to a new building",
+              "correctFirst": true,
+              "why": "Heavy snow often shuts down schools for a day. Some small businesses shut down for a week in August. The haze has shut down schools in nearby countries."
+            },
+            {
+              "display": "looked into",
+              "base": "look into",
+              "correct": "To study a problem to learn the facts",
+              "wrong": "To send a warning to a company",
+              "correctFirst": false,
+              "why": "The school looks into every report of bullying. Doctors look into the cause of a patient's pain. Indonesia says it has looked into the fires that caused the haze."
+            },
+            {
+              "display": "put out",
+              "base": "put out",
+              "correct": "To stop a fire from burning",
+              "wrong": "To measure the smoke from a fire",
+              "correctFirst": true,
+              "why": "Firefighters put out most house fires in a few minutes. Campers put out their fire with water before bed. About 71,000 workers in Indonesia are trying to put out the fires."
+            }
+          ]
+        },
+        {
+          "text": "The task force will share [[evidence]] and information about where the companies' money goes. Indonesia's foreign minister said smoke can cross borders, and so can money. Singapore offered to {{hand over}} data on these companies, and Indonesia welcomed it. The task force may also {{go after}} those companies' [[property]]. The ministers also agreed on a [[hotline]], a direct phone line between top officials, to {{iron out}} [[disagreements]]. It was their first meeting since Indonesia's foreign minister {{took over}} on October 1.",
+          "verbs": [
+            {
+              "display": "hand over",
+              "base": "hand over",
+              "correct": "To give something to someone else",
+              "wrong": "To delete something from a computer",
+              "correctFirst": false,
+              "why": "Students hand over their phones before the test. The landlord hands over the keys on moving day. Singapore offered to hand over data on companies linked to the fires."
+            },
+            {
+              "display": "go after",
+              "base": "go after",
+              "correct": "To try to get or take something",
+              "wrong": "To pay the taxes on something",
+              "correctFirst": true,
+              "why": "Lawyers go after the money that people owe their clients. The bank goes after the house when a family stops paying. The task force may also go after those companies' property."
+            },
+            {
+              "display": "iron out",
+              "base": "iron out",
+              "correct": "To fix small problems or disagreements",
+              "wrong": "To count small problems or disagreements",
+              "correctFirst": false,
+              "why": "Managers iron out problems before a new product goes on sale. The couple irons out small problems by talking every night. The ministers agreed on a hotline to iron out disagreements."
+            },
+            {
+              "display": "took over",
+              "base": "take over",
+              "correct": "To start doing a job after someone else",
+              "wrong": "To write a report for someone else",
+              "correctFirst": true,
+              "why": "When the manager retires, her assistant takes over the job. A new teacher takes over the class after the winter break. Indonesia's foreign minister took over on October 1, 2026."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Team up",
+          "def": "To work as a group toward a goal",
+          "ipa": "/tim ʌp/",
+          "ex": [
+            "Two local bakeries teamed up to make a giant cake for the fair.",
+            "Let's team up and finish this project faster.",
+            "The city and a hospital teamed up to offer free flu shots."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create a new group",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "The students set up a club to help younger kids read.",
+            "The company set up a team to answer customer questions.",
+            "Our church set up a group for new parents."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase an effort or action",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The city stepped up efforts to fix broken streetlights.",
+            "Airports step up security checks on busy travel days.",
+            "The coach wants the team to step up its training."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To say something to make people notice it",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out that the store closes early on Sundays.",
+            "My doctor pointed out that I need more sleep.",
+            "He pointed out a mistake on the bill."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To close for a period of time",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The storm shut down the airport for two days.",
+            "The library shuts down every year for repairs.",
+            "Bad weather shut down the highway on Monday."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study a problem to learn the facts",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The police are looking into the missing money.",
+            "My bank promised to look into the strange charge on my card.",
+            "The city will look into the noise complaints."
+          ]
+        },
+        {
+          "verb": "Put out",
+          "def": "To stop a fire from burning",
+          "ipa": "/pʊt aʊt/",
+          "ex": [
+            "Firefighters put out the fire before it reached the house.",
+            "Make sure you put out the candles before you go to sleep.",
+            "It took two days to put out the fire in the hills."
+          ]
+        },
+        {
+          "verb": "Hand over",
+          "def": "To give something to someone else",
+          "ipa": "/hænd ˈoʊvər/",
+          "ex": [
+            "The company handed over its records to the police.",
+            "The old coach handed over his notes to the new coach.",
+            "She handed over the money at the front desk."
+          ]
+        },
+        {
+          "verb": "Go after",
+          "def": "To try to get or take something",
+          "ipa": "/ɡoʊ ˈæftər/",
+          "ex": [
+            "The state went after the money that the company owed in taxes.",
+            "The city plans to go after unpaid parking fines.",
+            "The bank went after his car when he stopped paying."
+          ]
+        },
+        {
+          "verb": "Iron out",
+          "def": "To fix small problems or disagreements",
+          "ipa": "/ˈaɪərn aʊt/",
+          "ex": [
+            "We need to iron out a few details before the trip.",
+            "The two teams ironed out their differences in one meeting.",
+            "The new app still has some problems to iron out."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To start doing a job after someone else",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "She took over as head nurse last spring.",
+            "Who will take over the class when the teacher retires?",
+            "A new chef took over the kitchen in May."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "haze",
+          "def": "Smoke, dust or dirt in the air that makes it hard to see far",
+          "ipa": "/heɪz/",
+          "ex": [
+            "We could not see the mountains through the haze.",
+            "A gray haze hung over the city all morning.",
+            "The haze made my eyes feel dry."
+          ]
+        },
+        {
+          "word": "neighboring",
+          "def": "Next to or near another place",
+          "ipa": "/ˈneɪbərɪŋ/",
+          "ex": [
+            "Kids from neighboring towns play in the same league.",
+            "Our neighboring state has lower taxes.",
+            "Smoke drifted into the neighboring houses."
+          ]
+        },
+        {
+          "word": "foreign ministers",
+          "def": "Government leaders in charge of relations with other countries",
+          "ipa": "/ˈfɔrən ˈmɪnɪstərz/",
+          "ex": [
+            "The foreign ministers talked about trade.",
+            "Foreign ministers from ten countries came to the meeting.",
+            "Two foreign ministers signed the new deal."
+          ]
+        },
+        {
+          "word": "task force",
+          "def": "A special team created to deal with one problem",
+          "ipa": "/tæsk fɔrs/",
+          "ex": [
+            "The city created a task force to reduce traffic.",
+            "A task force studied ways to keep the beach clean.",
+            "The school has a task force on student safety."
+          ]
+        },
+        {
+          "word": "clear land",
+          "def": "To remove trees and plants from an area so it can be used",
+          "ipa": "/klɪr lænd/",
+          "ex": [
+            "The farmer had to clear land before planting corn.",
+            "Builders clear land before they start new houses.",
+            "It took weeks to clear land for the new road."
+          ]
+        },
+        {
+          "word": "peatland",
+          "def": "Wet ground made of old, dead plants that can burn",
+          "ipa": "/ˈpitlænd/",
+          "ex": [
+            "Some birds live only on peatland.",
+            "Peatland holds a lot of water.",
+            "Fires on peatland can be very hard to stop."
+          ]
+        },
+        {
+          "word": "on record",
+          "def": "Since people first kept exact measurements",
+          "ipa": "/ɑn ˈrɛkərd/",
+          "ex": [
+            "It was the hottest summer on record.",
+            "This is the wettest month on record in our town.",
+            "That was the coldest night on record."
+          ]
+        },
+        {
+          "word": "on purpose",
+          "def": "Done because someone wanted to do it, not by accident",
+          "ipa": "/ɑn ˈpɜrpəs/",
+          "ex": [
+            "He broke the window on purpose.",
+            "She left the door open on purpose.",
+            "I know you did not hurt me on purpose."
+          ]
+        },
+        {
+          "word": "weather pattern",
+          "def": "A usual way the weather changes over a period of time",
+          "ipa": "/ˈwɛðər ˈpætərn/",
+          "ex": [
+            "A new weather pattern brought rain every afternoon.",
+            "Farmers watch the weather pattern before they plant.",
+            "This weather pattern often brings strong winds."
+          ]
+        },
+        {
+          "word": "warning letters",
+          "def": "Official letters that tell someone to stop doing something wrong",
+          "ipa": "/ˈwɔrnɪŋ ˈlɛtərz/",
+          "ex": [
+            "The city sent warning letters to noisy bars.",
+            "The landlord sent warning letters about late rent.",
+            "Some drivers got warning letters about unpaid tickets."
+          ]
+        },
+        {
+          "word": "investigated",
+          "def": "Studied a crime carefully to learn the facts",
+          "ipa": "/ɪnˈvɛstəˌgeɪtɪd/",
+          "ex": [
+            "The police investigated the robbery for months.",
+            "A reporter investigated the city's spending.",
+            "The school investigated the missing money."
+          ]
+        },
+        {
+          "word": "charged",
+          "def": "Officially accused of a crime by the police or a court",
+          "ipa": "/tʃɑrdʒd/",
+          "ex": [
+            "The driver was charged with speeding.",
+            "Two men were charged with stealing a car.",
+            "She was never charged with a crime."
+          ]
+        },
+        {
+          "word": "evidence",
+          "def": "Facts or things that show something is true",
+          "ipa": "/ˈɛvədəns/",
+          "ex": [
+            "The police found new evidence in the case.",
+            "There is no evidence that the drink helps you sleep.",
+            "The video was important evidence in court."
+          ]
+        },
+        {
+          "word": "property",
+          "def": "Things that a person or company owns, such as land or buildings",
+          "ipa": "/ˈprɑpərti/",
+          "ex": [
+            "The family owns property near the lake.",
+            "Please do not touch other people's property.",
+            "The company sold some property to pay its debts."
+          ]
+        },
+        {
+          "word": "hotline",
+          "def": "A direct phone line for urgent calls",
+          "ipa": "/ˈhɑtˌlaɪn/",
+          "ex": [
+            "Call the hotline if you see a fire.",
+            "The bank has a hotline for stolen cards.",
+            "The hotline is open 24 hours a day."
+          ]
+        },
+        {
+          "word": "disagreements",
+          "def": "Times when people or groups do not agree",
+          "ipa": "/ˌdɪsəˈɡrimənts/",
+          "ex": [
+            "The brothers had small disagreements about money.",
+            "Good friends can solve disagreements calmly.",
+            "The team had disagreements about the plan."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Singapore and Indonesia agreed to form a special team against the firms behind big fires in Indonesia. The smoke has closed schools and worried people across the region.",
+          "a": true,
+          "why": "The two foreign ministers agreed to set up a task force to step up action against companies, because the haze has spread across Southeast Asia."
+        },
+        {
+          "s": "Indonesia and Singapore will send a joint team of firefighters to stop the fires in Indonesia. Both ministers said dry El Niño weather is the main cause of the smoke.",
+          "a": false,
+          "why": "Close, but the task force goes after the companies behind the fires, and Singapore's minister pointed out that people cause the burning."
+        },
+        {
+          "s": "Thailand's rice farmers had a record harvest after heavy rains filled rivers and lakes. Officials said the extra rice will be sold to buyers in many countries in Asia.",
+          "a": false,
+          "why": "This story is about Indonesia and Singapore setting up a task force to go after companies that start fires to clear land."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Singapore and Indonesia have teamed up to fight the smoke haze.",
+          "a": true,
+          "why": "Their foreign ministers met in Jakarta and agreed to work together against the haze."
+        },
+        {
+          "s": "The ministers said the haze is caused only by natural weather.",
+          "a": false,
+          "why": "Singapore's foreign minister pointed out that El Niño is natural, but the burning is caused by people."
+        },
+        {
+          "s": "The new task force will step up action against companies behind the fires.",
+          "a": true,
+          "why": "The task force is a special team that will push harder against the companies that start the fires."
+        },
+        {
+          "s": "The haze stayed inside Indonesia and did not reach other countries.",
+          "a": false,
+          "why": "The haze reached Singapore and Malaysia, and it has shut down schools in nearby countries."
+        },
+        {
+          "s": "Indonesia says it has looked into the fires and charged some people.",
+          "a": true,
+          "why": "It says hundreds of people and more than 50 companies were investigated or charged, and some were found guilty."
+        },
+        {
+          "s": "Indonesia refused Singapore's offer to share data on the companies.",
+          "a": false,
+          "why": "Indonesia welcomed Singapore's offer to hand over data on companies linked to the fires."
+        }
+      ]
+    },
+    {
       "id": "china-party-meeting-2026",
       "number": 198,
       "headline": "China's ruling party meets with many empty seats",
