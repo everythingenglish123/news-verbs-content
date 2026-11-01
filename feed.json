@@ -1,6 +1,444 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "stories": [
+    {
+      "id": "hot-tea-heart-health-2026",
+      "number": 197,
+      "headline": "Tea may help your heart, but let it cool first",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n197-hot-tea-heart-health-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "How you drink your tea could determine whether you gain or lose heart health benefits (CNN, via CP24)",
+          "url": "https://www.cp24.com/news/world/2026/10/21/how-you-drink-your-tea-could-determine-whether-you-gain-or-lose-heart-health-benefits/"
+        },
+        {
+          "title": "Tea Drinkers May Have Fewer Heart and Blood Vessel Problems, Large Study Finds (Sci.News)",
+          "url": "https://www.sci.news/medicine/tea-consumption-cardiovascular-disease-risk-15145.html"
+        },
+        {
+          "title": "Regular tea consumption linked to lower risk of vascular disease (News-Medical)",
+          "url": "https://news-medical.net/news/20261021/Regular-tea-consumption-linked-to-lower-risk-of-vascular-disease.aspx"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A cup of tea may help your heart, but how hot you drink it seems to matter. That is the finding of a large study that {{came out}} on October 21, 2026, in the Journal of Internal Medicine. Researchers from Peking Union Medical College in China followed about 485,000 adults for about nine years. Everyone described their [[tea-drinking habits]] [[in detail]].",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To be published for people to read",
+              "wrong": "To be checked by other scientists",
+              "correctFirst": true,
+              "why": "A new phone comes out every fall. Her first book comes out in May. That is the finding of a large study that came out on October 21, 2026, in the Journal of Internal Medicine."
+            }
+          ]
+        },
+        {
+          "text": "People who drank tea at least three days a week had about an 11 percent lower [[risk]] of heart and [[blood vessel]] disease. Tea drinkers who did not smoke and {{worked out}} a lot did best of all. But one result {{stood out}}. People who drank their tea \"burning hot\" had a 16 percent higher risk than people who did not drink tea regularly. Tea at [[room temperature]] or hot, but not [[scalding]], was linked to lower risk.",
+          "verbs": [
+            {
+              "display": "worked out",
+              "base": "work out",
+              "correct": "To exercise to stay fit",
+              "wrong": "To eat a lot of fresh food",
+              "correctFirst": true,
+              "why": "My dad works out at the gym three times a week. She works out every morning before her job. Tea drinkers who did not smoke and worked out a lot did best of all."
+            },
+            {
+              "display": "stood out",
+              "base": "stand out",
+              "correct": "To be easy to notice",
+              "wrong": "To be hard to measure",
+              "correctFirst": false,
+              "why": "A bright yellow house stands out on a gray street. Her red coat always stands out in a crowd. But one result stood out."
+            }
+          ]
+        },
+        {
+          "text": "The study shows a [[link]], not proof that tea protects the heart. People reported their own habits, so one person's \"burning hot\" may be another person's \"warm.\" The study cannot {{rule out}} other differences, such as diet or [[income]]. Outside experts {{weighed in}}. A [[dietitian]] at a British [[heart charity]] said differences in diet and [[lifestyle]] could help explain the results. An American emergency doctor, a health expert for a TV news network, says tea contains natural [[compounds]] that may help {{bring down}} [[blood pressure]].",
+          "verbs": [
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To show that something is not a cause",
+              "wrong": "To check something more than once",
+              "correctFirst": true,
+              "why": "Doctors take an X-ray to rule out a broken bone. Mechanics test the battery to rule out a simple problem. The study cannot rule out other differences, such as diet or income."
+            },
+            {
+              "display": "weighed in",
+              "base": "weigh in",
+              "correct": "To share an opinion about something",
+              "wrong": "To repeat what others have said",
+              "correctFirst": false,
+              "why": "Parents often weigh in on the school lunch menu. Everyone weighs in when our family plans a trip. Outside experts weighed in."
+            },
+            {
+              "display": "bring down",
+              "base": "bring down",
+              "correct": "To make something lower",
+              "wrong": "To make something last longer",
+              "correctFirst": true,
+              "why": "Big sales bring down the price of winter coats. Lower taxes bring down the cost of food. An American emergency doctor, a health expert for a TV news network, says tea contains natural compounds that may help bring down blood pressure."
+            }
+          ]
+        },
+        {
+          "text": "The American doctor has simple advice. Tea lovers do not need to {{cut out}} their favorite drink. They should avoid tea hot enough to burn the mouth or throat. Instead, they can {{hold off}} until it {{cools down}} enough to sip [[comfortably]]. Choosing [[unsweetened]] tea can help people {{cut back on}} [[sugary drinks]]. People who do not drink tea do not need to start. Exercise, a healthy diet and not smoking also protect the heart.",
+          "verbs": [
+            {
+              "display": "cut out",
+              "base": "cut out",
+              "correct": "To stop eating or drinking something",
+              "wrong": "To drink something more slowly",
+              "correctFirst": false,
+              "why": "Some athletes cut out fried food before a big race. Many people cut out sugar when they want to lose weight. Tea lovers do not need to cut out their favorite drink."
+            },
+            {
+              "display": "hold off",
+              "base": "hold off",
+              "correct": "To wait before doing something",
+              "wrong": "To add cold milk to a drink",
+              "correctFirst": true,
+              "why": "We hold off on dinner until everyone arrives. Farmers hold off on planting when the ground is too cold. Instead, they can hold off until it cools down enough to sip comfortably."
+            },
+            {
+              "display": "cools down",
+              "base": "cool down",
+              "correct": "To become less hot",
+              "wrong": "To lose its strong taste",
+              "correctFirst": true,
+              "why": "Hot soup cools down in a few minutes. A car engine cools down after a long drive. Instead, they can hold off until it cools down enough to sip comfortably."
+            },
+            {
+              "display": "cut back on",
+              "base": "cut back on",
+              "correct": "To use or have less of something",
+              "wrong": "To mix one thing with another",
+              "correctFirst": false,
+              "why": "Doctors tell many patients to cut back on salt. She cuts back on coffee during exam week. Choosing unsweetened tea can help people cut back on sugary drinks."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come out",
+          "def": "To be published for people to read",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "The new edition of the dictionary comes out next spring.",
+            "When does the next issue of the magazine come out?",
+            "His report came out just before Thanksgiving."
+          ]
+        },
+        {
+          "verb": "Work out",
+          "def": "To exercise to stay fit",
+          "ipa": "/wɜrk aʊt/",
+          "ex": [
+            "I try to work out for 30 minutes every day.",
+            "He works out at home because the gym is too far.",
+            "My sister and I work out together on Saturdays."
+          ]
+        },
+        {
+          "verb": "Stand out",
+          "def": "To be easy to notice",
+          "ipa": "/stænd aʊt/",
+          "ex": [
+            "One student's answer really stood out to the teacher.",
+            "Bright colors help a sign stand out at night.",
+            "Her voice stands out in the school choir."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To show that something is not a cause",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The vet ran a blood test to rule out an infection.",
+            "Police have ruled out a gas leak as the cause of the fire.",
+            "We can't rule out bad weather as the reason for the delay."
+          ]
+        },
+        {
+          "verb": "Weigh in",
+          "def": "To share an opinion about something",
+          "ipa": "/weɪ ɪn/",
+          "ex": [
+            "My grandmother always weighs in on what we name our pets.",
+            "Several teachers weighed in on the new school schedule.",
+            "Feel free to weigh in if you have a better idea."
+          ]
+        },
+        {
+          "verb": "Bring down",
+          "def": "To make something lower",
+          "ipa": "/brɪŋ daʊn/",
+          "ex": [
+            "The city wants to bring down the number of car crashes.",
+            "A cold cloth can help bring down a fever.",
+            "New solar panels brought down our electric bill."
+          ]
+        },
+        {
+          "verb": "Cut out",
+          "def": "To stop eating or drinking something",
+          "ipa": "/kʌt aʊt/",
+          "ex": [
+            "I cut out soda last year and feel much better.",
+            "Her doctor told her to cut out salty snacks.",
+            "You don't have to cut out dessert completely."
+          ]
+        },
+        {
+          "verb": "Hold off",
+          "def": "To wait before doing something",
+          "ipa": "/hoʊld ɔf/",
+          "ex": [
+            "Let's hold off on buying a car until next year.",
+            "The coach held off on naming the team until Friday.",
+            "Please hold off on eating until your grandfather sits down."
+          ]
+        },
+        {
+          "verb": "Cool down",
+          "def": "To become less hot",
+          "ipa": "/kul daʊn/",
+          "ex": [
+            "Let the cookies cool down before you eat them.",
+            "The oven takes an hour to cool down.",
+            "Wait for the iron to cool down before you put it away."
+          ]
+        },
+        {
+          "verb": "Cut back on",
+          "def": "To use or have less of something",
+          "ipa": "/kʌt bæk ɑn/",
+          "ex": [
+            "We are trying to cut back on screen time at home.",
+            "He cut back on fast food and felt much better.",
+            "Many offices cut back on paper to save money."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "tea-drinking habits",
+          "def": "The usual ways a person drinks tea, such as how often and how hot",
+          "ipa": "/ti ˈdrɪŋkɪŋ ˈhæbɪts/",
+          "ex": [
+            "My grandmother's tea-drinking habits never change.",
+            "Travel can change your tea-drinking habits.",
+            "The cafe owner asked customers about their tea-drinking habits."
+          ]
+        },
+        {
+          "word": "in detail",
+          "def": "Carefully, with all the small facts",
+          "ipa": "/ɪn dɪˈteɪl/",
+          "ex": [
+            "The teacher explained the test in detail.",
+            "Please describe the problem in detail.",
+            "We talked about the trip in detail over dinner."
+          ]
+        },
+        {
+          "word": "risk",
+          "def": "The chance that something bad will happen",
+          "ipa": "/rɪsk/",
+          "ex": [
+            "Wearing a helmet lowers the risk of a head injury.",
+            "There is a small risk of rain this afternoon.",
+            "Smoking raises the risk of many diseases."
+          ]
+        },
+        {
+          "word": "blood vessel",
+          "def": "A tube that carries blood around the body",
+          "ipa": "/blʌd ˈvɛsəl/",
+          "ex": [
+            "A blood vessel in his eye broke when he coughed.",
+            "The nurse looked for a good blood vessel in my arm.",
+            "Exercise keeps every blood vessel in the body healthy."
+          ]
+        },
+        {
+          "word": "room temperature",
+          "def": "The normal warmth of air inside a house",
+          "ipa": "/rum ˈtɛmpərətʃər/",
+          "ex": [
+            "Let the butter sit until it reaches room temperature.",
+            "Some wines taste best at room temperature.",
+            "Keep the medicine at room temperature."
+          ]
+        },
+        {
+          "word": "scalding",
+          "def": "So hot that it can burn your skin",
+          "ipa": "/ˈskɔldɪŋ/",
+          "ex": [
+            "Be careful, the water in the pot is scalding.",
+            "The scalding coffee burned his tongue.",
+            "Never give a baby scalding milk."
+          ]
+        },
+        {
+          "word": "link",
+          "def": "A connection between two things",
+          "ipa": "/lɪŋk/",
+          "ex": [
+            "Doctors see a link between poor sleep and weight gain.",
+            "Is there a link between music and memory?",
+            "Police found a link between the two cases."
+          ]
+        },
+        {
+          "word": "income",
+          "def": "The money a person or family earns",
+          "ipa": "/ˈɪnˌkʌm/",
+          "ex": [
+            "Rent takes half of their monthly income.",
+            "She has a second job to increase her income.",
+            "Families with a low income can get help with school lunches."
+          ]
+        },
+        {
+          "word": "dietitian",
+          "def": "An expert who gives advice about food and healthy eating",
+          "ipa": "/ˌdaɪəˈtɪʃən/",
+          "ex": [
+            "The dietitian helped my father plan his meals.",
+            "Our school hired a dietitian to improve lunches.",
+            "A dietitian can tell you how much protein you need."
+          ]
+        },
+        {
+          "word": "heart charity",
+          "def": "A group that raises money to fight heart disease and help patients",
+          "ipa": "/hɑrt ˈtʃærəti/",
+          "ex": [
+            "The heart charity holds a fun run every spring.",
+            "She gives money to a heart charity each year.",
+            "A heart charity paid for new machines at the hospital."
+          ]
+        },
+        {
+          "word": "lifestyle",
+          "def": "The way a person usually lives, eats and spends time",
+          "ipa": "/ˈlaɪfˌstaɪl/",
+          "ex": [
+            "Moving to the country changed her whole lifestyle.",
+            "A busy lifestyle can make it hard to cook at home.",
+            "He wants a healthier lifestyle with more sleep."
+          ]
+        },
+        {
+          "word": "compounds",
+          "def": "Substances made of two or more different parts",
+          "ipa": "/ˈkɑmpaʊndz/",
+          "ex": [
+            "Some plants make compounds that keep insects away.",
+            "Scientists study the compounds in coffee.",
+            "These cleaning compounds are not safe for children."
+          ]
+        },
+        {
+          "word": "blood pressure",
+          "def": "The force of blood pushing through your body, which a doctor can measure",
+          "ipa": "/blʌd ˈprɛʃər/",
+          "ex": [
+            "The nurse checked my blood pressure before the exam.",
+            "Too much salt can raise blood pressure.",
+            "His blood pressure is normal for his age."
+          ]
+        },
+        {
+          "word": "comfortably",
+          "def": "In a way that feels easy and causes no pain",
+          "ipa": "/ˈkʌmftərbli/",
+          "ex": [
+            "The chair is big enough to sit in comfortably.",
+            "Wait until the soup is cool enough to eat comfortably.",
+            "Four people can sleep comfortably in this tent."
+          ]
+        },
+        {
+          "word": "unsweetened",
+          "def": "With no sugar or sweet taste added",
+          "ipa": "/ʌnˈswitənd/",
+          "ex": [
+            "I buy unsweetened yogurt and add fresh fruit.",
+            "Unsweetened juice is still a little sweet.",
+            "She drinks her coffee black and unsweetened."
+          ]
+        },
+        {
+          "word": "sugary drinks",
+          "def": "Drinks with a lot of added sugar, such as soda",
+          "ipa": "/ˈʃʊɡəri drɪŋks/",
+          "ex": [
+            "Our school stopped selling sugary drinks.",
+            "Sugary drinks can be bad for your teeth.",
+            "He drinks water instead of sugary drinks at lunch."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A huge study in China linked regular tea drinking to a lower risk of heart disease. People who drank their tea burning hot had a higher risk, so a doctor says to let it cool first.",
+          "a": true,
+          "why": "Regular tea drinkers had about an 11 percent lower risk, but one result stood out. Burning hot tea came with a higher risk, so people should hold off before sipping."
+        },
+        {
+          "s": "Scientists in China have proven that regular tea drinking keeps the heart safe from disease. They now advise people who never touch tea to start, as long as each cup is not too hot.",
+          "a": false,
+          "why": "Close, but the study shows only a link, not proof. The doctor also says people who do not drink tea do not need to start."
+        },
+        {
+          "s": "A new study from Japan found that green tea helps older adults sleep better at night. Researchers say a warm cup before bed may calm the mind and make it easier to fall asleep.",
+          "a": false,
+          "why": "This story is about tea and heart disease in China. A study that came out in October linked tea to a lower risk, unless the tea is burning hot."
+        }
+      ],
+      "tf": [
+        {
+          "s": "A large study about tea and heart health came out in a medical journal.",
+          "a": true,
+          "why": "The study came out in the Journal of Internal Medicine. Researchers in China followed about 485,000 adults for about nine years."
+        },
+        {
+          "s": "People who drank their tea burning hot had the lowest risk of heart disease.",
+          "a": false,
+          "why": "That result stood out for the opposite reason. People who drank burning hot tea had a higher risk than people who did not drink tea regularly."
+        },
+        {
+          "s": "Regular tea drinkers had a lower risk of heart and blood vessel disease.",
+          "a": true,
+          "why": "They had about an 11 percent lower risk. Tea drinkers who did not smoke and worked out a lot had the lowest risk of all."
+        },
+        {
+          "s": "The study proves that drinking tea protects the heart.",
+          "a": false,
+          "why": "It shows a link, not proof. The study cannot rule out other differences, such as diet or income."
+        },
+        {
+          "s": "An American doctor says people should hold off until their tea is cool enough to sip.",
+          "a": true,
+          "why": "She says people should avoid tea hot enough to burn the mouth or throat and wait until they can sip it comfortably."
+        },
+        {
+          "s": "The American doctor says tea lovers need to cut out their favorite drink.",
+          "a": false,
+          "why": "She says they do not need to cut it out. They can simply let it cool down before they sip it."
+        }
+      ]
+    },
     {
       "id": "eu-canada-closer-ties-2026",
       "number": 196,
