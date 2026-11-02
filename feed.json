@@ -2,6 +2,504 @@
   "updated": "2026-11-02",
   "stories": [
     {
+      "id": "bulgaria-first-woman-president-2026",
+      "number": 201,
+      "headline": "Bulgaria elects its first woman president",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n201-bulgaria-first-woman-president-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Initial results suggest Yotova wins runoff to become Bulgaria's first elected female president (AP)",
+          "url": "https://www.audacy.com/wtic/news/world/bulgaria-president-runoff-yotova-gyrov-radev-russia-cc540e5540a7a268da15aa72c5ec033e"
+        },
+        {
+          "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+        },
+        {
+          "title": "Bulgaria's incumbent president Iotova wins runoff vote (RTE)",
+          "url": "https://www.rte.ie/news/2026/1102/1597575-bulgaria-runoff/"
+        },
+        {
+          "title": "Iotova/Valchev Win with 58.16% of Votes with 72.65% of Tally Sheets Processed (BTA)",
+          "url": "https://www.bta.bg/en/news/bulgaria/1237805-iotova-valchev-win-with-58-16-of-votes-with-72-65-of-tally-sheets-processed"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 1, 2026, Bulgarians {{voted in}} a woman as president for the first time. Bulgaria is a country in southeast Europe. The winner, Iliana Yotova, was already doing the job. As vice president, she {{took over}} as [[acting president]] in January 2026. Her [[longtime ally]], the elected president, had {{stepped down}} to run for parliament. His party won, and he became prime minister.",
+          "verbs": [
+            {
+              "display": "voted in",
+              "base": "vote in",
+              "correct": "To choose a leader by voting",
+              "wrong": "To count ballots after an election",
+              "correctFirst": true,
+              "why": "Many towns vote in a new mayor every four years. Our club votes in a new president each spring. On November 1, 2026, Bulgarians voted in a woman as president for the first time."
+            },
+            {
+              "display": "took over",
+              "base": "take over",
+              "correct": "To start a job after another person",
+              "wrong": "To share a job with another person",
+              "correctFirst": false,
+              "why": "A new coach takes over when the old one retires. My brother takes over at the store when my father goes home. Yotova took over as acting president in January 2026, when the elected president left."
+            },
+            {
+              "display": "stepped down",
+              "base": "step down",
+              "correct": "To leave an important job",
+              "wrong": "To visit towns and meet voters",
+              "correctFirst": true,
+              "why": "Many company leaders step down when they turn 65. A team captain sometimes steps down after a bad season. The elected president stepped down to run for parliament."
+            }
+          ]
+        },
+        {
+          "text": "The vote was a [[runoff]], a second vote between the top two candidates. Yotova's [[rival]] was a former [[caretaker]] prime minister, a temporary leader before an election. [[Opposition parties]] {{lined up behind}} him. In the [[first round]] on October 25, Yotova won 35 percent to his 32. [[Turnout]], the share of people who vote, was a [[record low]] 23 percent. Most Bulgarians {{sat out}} that round. More {{turned out}} for the runoff, about 28 percent by early estimates.",
+          "verbs": [
+            {
+              "display": "lined up behind",
+              "base": "line up behind",
+              "correct": "To support a person as a group",
+              "wrong": "To pay a person to run a campaign",
+              "correctFirst": false,
+              "why": "Party members often line up behind one candidate before an election. Workers line up behind a leader they trust. Opposition parties lined up behind Yotova's rival in the runoff."
+            },
+            {
+              "display": "sat out",
+              "base": "sit out",
+              "correct": "To choose not to take part",
+              "wrong": "To wait in line at a voting place",
+              "correctFirst": true,
+              "why": "Many people sit out local elections. Hurt players sit out the big game. Most Bulgarians sat out the first round of the election on October 25."
+            },
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To attend an event or vote",
+              "wrong": "To change a vote at the last minute",
+              "correctFirst": false,
+              "why": "Thousands of fans turn out for the town parade. Few people turn out for small local elections. More Bulgarians turned out for the runoff than for the first round."
+            }
+          ]
+        },
+        {
+          "text": "Russia and the Ukraine war were major issues. In October, drones hit [[commercial ships]] off Bulgaria's coast and left 21 people missing. Both candidates {{spoke out}} against the attacks. The prime minister said the attacks seemed to help Russia, but his government says no [[evidence]] directly links them to Russia. In a debate, the rival {{called Yotova out}} for not blaming Russia directly. Yotova opposes [[military aid]] to Ukraine and says peace there can come only through [[negotiations]]. She supports Bulgaria's EU and NATO membership.",
+          "verbs": [
+            {
+              "display": "spoke out",
+              "base": "speak out",
+              "correct": "To say publicly that you oppose something",
+              "wrong": "To answer questions on a TV show",
+              "correctFirst": false,
+              "why": "Students often speak out against unfair rules. Some workers speak out when a company breaks the law. Both candidates spoke out against the drone attacks on ships."
+            },
+            {
+              "display": "called Yotova out",
+              "base": "call out",
+              "correct": "To say publicly that someone did wrong",
+              "wrong": "To ask someone to join a campaign",
+              "correctFirst": true,
+              "why": "Good reporters call out leaders who lie. Fans often call out players who cheat. In a debate, the rival called Yotova out for not blaming Russia directly."
+            }
+          ]
+        },
+        {
+          "text": "In the runoff, Yotova {{pulled ahead}}. With most [[ballots]] counted, she had about 58 percent to his 39. Bulgaria's president has [[limited powers]] and does not run the government. Parliament must {{sign off on}} all major policies. The president leads the [[armed forces]] and can [[veto]], or {{turn down}}, new laws. Yotova's win lets the prime minister's allies {{hold on to}} the presidency. [[Observers]] warn that one party may hold too much power.",
+          "verbs": [
+            {
+              "display": "pulled ahead",
+              "base": "pull ahead",
+              "correct": "To get a clear lead",
+              "wrong": "To win by only a few votes",
+              "correctFirst": true,
+              "why": "The faster runner often pulls ahead in the last mile. Our team usually pulls ahead in the second half. Yotova pulled ahead of her rival in the runoff and won about 58 percent."
+            },
+            {
+              "display": "sign off on",
+              "base": "sign off on",
+              "correct": "To give official approval",
+              "wrong": "To write the first draft of a plan",
+              "correctFirst": false,
+              "why": "A manager signs off on every large payment. The city council signs off on new building plans. In Bulgaria, parliament must sign off on all major policies."
+            },
+            {
+              "display": "turn down",
+              "base": "turn down",
+              "correct": "To refuse to accept something",
+              "wrong": "To vote on something twice",
+              "correctFirst": true,
+              "why": "Banks turn down many loan requests. Good colleges turn down a lot of students. Bulgaria's president can veto, or turn down, new laws."
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something and not lose it",
+              "wrong": "To give a job to a close friend",
+              "correctFirst": false,
+              "why": "Most leaders try to hold on to power. Some teams hold on to their best players for years. Yotova's win lets the prime minister's allies hold on to the presidency."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Vote in",
+          "def": "To choose a leader by voting",
+          "ipa": "/voʊt ɪn/",
+          "ex": [
+            "Our neighborhood voted in a new board last spring.",
+            "Students will vote in a new class president on Friday.",
+            "The city voted in its youngest mayor ever."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To start a job after another person",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "Who will take over when the manager retires?",
+            "Her daughter took over as head of the family business.",
+            "A younger doctor took over at the clinic in June."
+          ]
+        },
+        {
+          "verb": "Step down",
+          "def": "To leave an important job",
+          "ipa": "/stɛp daʊn/",
+          "ex": [
+            "The school principal will step down in June.",
+            "He stepped down as mayor because of his health.",
+            "After 20 years, she decided to step down as CEO."
+          ]
+        },
+        {
+          "verb": "Line up behind",
+          "def": "To support a person as a group",
+          "ipa": "/laɪn ʌp bɪˈhaɪnd/",
+          "ex": [
+            "The whole team lined up behind the new captain.",
+            "Local leaders are lining up behind the governor.",
+            "Will the party line up behind her after the vote?"
+          ]
+        },
+        {
+          "verb": "Sit out",
+          "def": "To choose not to take part",
+          "ipa": "/sɪt aʊt/",
+          "ex": [
+            "I sat out the last game because my knee hurt.",
+            "She decided to sit out the office party this year.",
+            "Why did so many people sit out the vote?"
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To attend an event or vote",
+          "ipa": "/tɜrn aʊt/",
+          "ex": [
+            "Hundreds of parents turned out for the school meeting.",
+            "Will young people turn out on Election Day?",
+            "A big crowd turned out to see the band."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say publicly that you oppose something",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "Parents spoke out against the new school hours.",
+            "It takes courage to speak out at work.",
+            "Several nurses spoke out about the low pay."
+          ]
+        },
+        {
+          "verb": "Call out",
+          "def": "To say publicly that someone did wrong",
+          "ipa": "/kɔl aʊt/",
+          "ex": [
+            "She called her boss out for taking credit for her work.",
+            "The reporter called the mayor out for breaking his promise.",
+            "Customers called the company out for its false ads."
+          ]
+        },
+        {
+          "verb": "Pull ahead",
+          "def": "To get a clear lead",
+          "ipa": "/pʊl əˈhɛd/",
+          "ex": [
+            "She pulled ahead of the other runners near the end.",
+            "The home team pulled ahead in the third quarter.",
+            "One company has pulled ahead of its competitors in sales."
+          ]
+        },
+        {
+          "verb": "Sign off on",
+          "def": "To give official approval",
+          "ipa": "/saɪn ɔf ɑn/",
+          "ex": [
+            "My boss has to sign off on my vacation days.",
+            "The mayor signed off on the new bus routes.",
+            "Has the doctor signed off on your return to work?"
+          ]
+        },
+        {
+          "verb": "Turn down",
+          "def": "To refuse to accept something",
+          "ipa": "/tɜrn daʊn/",
+          "ex": [
+            "She turned down the job because the pay was low.",
+            "The bank turned down our request for a loan.",
+            "He turned down an offer to buy his house."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something and not lose it",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "The company wants to hold on to its best workers.",
+            "He held on to his seat in the state senate.",
+            "They held on to the family farm for 80 years."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "acting president",
+          "def": "A person who does the president's job for a time without being elected",
+          "ipa": "/ˈæktɪŋ ˈprɛzɪdənt/",
+          "ex": [
+            "The college named an acting president while it searched for a new leader.",
+            "The acting president signed the papers on Monday.",
+            "She served as acting president of the club for six months."
+          ]
+        },
+        {
+          "word": "longtime ally",
+          "def": "A person who has supported you and worked with you for many years",
+          "ipa": "/ˈlɔŋˌtaɪm ˈælaɪ/",
+          "ex": [
+            "The mayor gave the job to a longtime ally.",
+            "Her longtime ally on the city council moved to another state.",
+            "He lost a longtime ally when his partner retired."
+          ]
+        },
+        {
+          "word": "runoff",
+          "def": "A second vote between the top candidates when no one won the first vote",
+          "ipa": "/ˈrʌnˌɔf/",
+          "ex": [
+            "The two top candidates for mayor will meet in a runoff.",
+            "Our state holds a runoff if no one gets half the votes.",
+            "She won the runoff by just 200 votes."
+          ]
+        },
+        {
+          "word": "rival",
+          "def": "A person who competes against you for the same thing",
+          "ipa": "/ˈraɪvəl/",
+          "ex": [
+            "The senator shook hands with her rival after the debate.",
+            "His main rival for the job has more experience.",
+            "She beat her rival in the final race."
+          ]
+        },
+        {
+          "word": "caretaker",
+          "def": "Holding a government job only for a short time until an election",
+          "ipa": "/ˈkɛrˌteɪkər/",
+          "ex": [
+            "The caretaker government can't start big new programs.",
+            "A retired judge became caretaker leader of the country.",
+            "The caretaker mayor stayed for only three months."
+          ]
+        },
+        {
+          "word": "Opposition parties",
+          "def": "Political groups that are not part of the government",
+          "ipa": "/ˌɑpəˈzɪʃən ˈpɑrtiz/",
+          "ex": [
+            "Opposition parties voted against the budget.",
+            "Opposition parties asked the minister to explain the new tax.",
+            "Opposition parties won more seats than experts expected."
+          ]
+        },
+        {
+          "word": "first round",
+          "def": "The first of two or more votes or stages in a contest",
+          "ipa": "/fɜrst raʊnd/",
+          "ex": [
+            "Our team lost in the first round of the tournament.",
+            "Ten candidates ran in the first round of the election.",
+            "She got the most votes in the first round."
+          ]
+        },
+        {
+          "word": "Turnout",
+          "def": "The number or share of people who take part in an event or vote",
+          "ipa": "/ˈtɜrnˌaʊt/",
+          "ex": [
+            "Rain kept turnout low at the street fair.",
+            "Voter turnout is usually higher in big elections.",
+            "The organizers were happy with the turnout at the concert."
+          ]
+        },
+        {
+          "word": "record low",
+          "def": "The lowest level ever measured",
+          "ipa": "/ˈrɛkərd loʊ/",
+          "ex": [
+            "Home sales fell to a record low in March.",
+            "The lake dropped to a record low during the dry summer.",
+            "Unemployment in the state reached a record low."
+          ]
+        },
+        {
+          "word": "commercial ships",
+          "def": "Large boats used for business, such as moving goods",
+          "ipa": "/kəˈmɜrʃəl ʃɪps/",
+          "ex": [
+            "Most of the world's goods travel on commercial ships.",
+            "The new port can handle very large commercial ships.",
+            "All commercial ships must follow strict safety rules."
+          ]
+        },
+        {
+          "word": "evidence",
+          "def": "Facts or signs that show something is true",
+          "ipa": "/ˈɛvɪdəns/",
+          "ex": [
+            "The police found new evidence in the case.",
+            "There is good evidence that exercise helps you sleep.",
+            "Do you have any evidence for that claim?"
+          ]
+        },
+        {
+          "word": "negotiations",
+          "def": "Formal talks to reach an agreement",
+          "ipa": "/nɪˌɡoʊʃiˈeɪʃənz/",
+          "ex": [
+            "The negotiations between the union and the company lasted a month.",
+            "After long negotiations, they agreed on a price.",
+            "The two countries started negotiations on a trade deal."
+          ]
+        },
+        {
+          "word": "military aid",
+          "def": "Weapons, money or training that one country gives another for its defense",
+          "ipa": "/ˈmɪləˌtɛri eɪd/",
+          "ex": [
+            "Congress voted on a new military aid bill.",
+            "The small country asked its neighbors for military aid.",
+            "Some military aid includes planes and training for soldiers."
+          ]
+        },
+        {
+          "word": "ballots",
+          "def": "Papers that people mark to show their vote",
+          "ipa": "/ˈbæləts/",
+          "ex": [
+            "Workers counted the ballots late into the night.",
+            "Some voters mail their ballots a week early.",
+            "The club gave members paper ballots at the meeting."
+          ]
+        },
+        {
+          "word": "limited powers",
+          "def": "Only a small amount of official control",
+          "ipa": "/ˈlɪmɪtɪd ˈpaʊərz/",
+          "ex": [
+            "The city board has limited powers over schools.",
+            "Under the rules, the club president has limited powers.",
+            "Some mayors have limited powers and few staff."
+          ]
+        },
+        {
+          "word": "armed forces",
+          "def": "A country's army, navy and air force",
+          "ipa": "/ɑrmd ˈfɔrsɪz/",
+          "ex": [
+            "Her brother joined the armed forces after high school.",
+            "The country's armed forces helped after the flood.",
+            "Many people in the armed forces live far from home."
+          ]
+        },
+        {
+          "word": "veto",
+          "def": "To officially refuse to approve a new law",
+          "ipa": "/ˈvitoʊ/",
+          "ex": [
+            "The governor may veto the new tax bill.",
+            "Presidents sometimes veto laws they don't like.",
+            "Can the mayor veto a decision by the city council?"
+          ]
+        },
+        {
+          "word": "Observers",
+          "def": "People who watch events closely and comment on them",
+          "ipa": "/əbˈzɜrvərz/",
+          "ex": [
+            "Many observers expected a close game.",
+            "Some observers think prices will rise again.",
+            "Foreign observers watched the vote in several cities."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A woman has won Bulgaria's presidency in an election for the first time, after a second vote. The winner already held the job for months as acting leader, and the post has limited powers.",
+          "a": true,
+          "why": "Bulgarians voted in Yotova in the runoff. She took over as acting president in January, and parliament must sign off on all major policies."
+        },
+        {
+          "s": "Bulgarians have chosen a female leader with a large lead, ending months of rule by a temporary cabinet. She will now run national policy herself, and lawmakers will play only a small part.",
+          "a": false,
+          "why": "Close, but Bulgaria's president does not run the government. Parliament must sign off on all major policies, and the prime minister's allies hold on to power."
+        },
+        {
+          "s": "Bulgaria has agreed to send more weapons to Ukraine following drone strikes near its coast. Lawmakers approved the plan in November, and the first shipments should leave by next spring.",
+          "a": false,
+          "why": "The news here is the runoff, in which Yotova pulled ahead and won. She opposes military aid to Ukraine, and no such plan was approved."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Bulgarians voted in a woman as president for the first time.",
+          "a": true,
+          "why": "Bulgarians voted in Yotova in the runoff on November 1, 2026. No woman had been elected to the job before."
+        },
+        {
+          "s": "Yotova took over as acting president after she won the runoff.",
+          "a": false,
+          "why": "She took over as acting president in January 2026, months before the runoff."
+        },
+        {
+          "s": "Most Bulgarians turned out to vote in the first round.",
+          "a": false,
+          "why": "Most Bulgarians sat out the first round. Turnout was a record low 23 percent."
+        },
+        {
+          "s": "Both candidates spoke out against the drone attacks on ships.",
+          "a": true,
+          "why": "Both spoke out against the attacks, which hit commercial ships off the coast of Bulgaria."
+        },
+        {
+          "s": "Yotova's rival called her out for not blaming Russia directly.",
+          "a": true,
+          "why": "He called her out in a debate. She said peace can come only through negotiations."
+        },
+        {
+          "s": "Bulgaria's president can make major policies without parliament.",
+          "a": false,
+          "why": "The president has limited powers. Parliament must sign off on all major policies."
+        }
+      ]
+    },
+    {
       "id": "snakes-roll-like-wheels-2026",
       "number": 200,
       "headline": "Tiny snakes escape danger by rolling like wheels",
