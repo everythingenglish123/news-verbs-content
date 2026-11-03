@@ -1,6 +1,454 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "stories": [
+    {
+      "id": "swedish-warship-wreck-2026",
+      "number": 203,
+      "headline": "Divers explore oldest warship found off Sweden",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n203-swedish-warship-wreck-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Divers exploring oldest warship found off Sweden find \"new clues\" (CBS News / AFP)",
+          "url": "https://www.cbsnews.com/news/oldest-warship-found-off-sweden/"
+        },
+        {
+          "title": "Sweden's oldest warship: Marine archaeologists document 15th-century warship Vrak 5 off Stockholm (Malay Mail / AFP)",
+          "url": "https://www.malaymail.com/news/life/2026/10/23/swedens-oldest-warship-marine-archaeologists-document-15th-century-warship-vrak-5-off-stockholm/240292"
+        },
+        {
+          "title": "Swedish archaelogists discover wreck of 15th century ship off Stockholm (Baird Maritime)",
+          "url": "https://www.bairdmaritime.com/amp/story/work-boat-world/research-environment-training/maritime-archaeology/swedish-archaelogists-discover-wreck-of-15th-century-ship-off-stockholm"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A [[warship]] more than 500 years old lies on the [[seabed]] south of Stockholm, below an old castle on the coast. Experts believe it is the oldest warship found off Sweden or Denmark. In October 2026, a team from Sweden's Museum of Wrecks {{headed out}} to the site again. They wanted to {{find out}} how the ship was built and why it sank.",
+          "verbs": [
+            {
+              "display": "headed out",
+              "base": "head out",
+              "correct": "To leave to go somewhere",
+              "wrong": "To pay a new crew",
+              "correctFirst": true,
+              "why": "We head out early on Saturday mornings. The fishing boats head out before sunrise. In October 2026, a team from Sweden's Museum of Wrecks headed out to the site again."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn facts you did not know",
+              "wrong": "To fix something that is broken",
+              "correctFirst": false,
+              "why": "Students find out a lot on school trips. Doctors run tests to find out what is wrong. They wanted to find out how the ship was built and why it sank."
+            }
+          ]
+        },
+        {
+          "text": "The wreck was first found in the late 1800s. Tests in 2025 showed that it {{goes back}} to the 1480s, or possibly the 1460s. The ship was built in an unusual way, with its [[planks]] laid [[edge to edge]], not on top of each other. The museum's [[project leader]] says it is the first known ship of this kind in Scandinavia. This method {{came about}} when ships began to carry heavy [[cannons]], because it made their [[hulls]] stronger.",
+          "verbs": [
+            {
+              "display": "goes back",
+              "base": "go back",
+              "correct": "To be as old as a certain time",
+              "wrong": "To be moved to a new museum",
+              "correctFirst": true,
+              "why": "This church goes back to the 1700s. Some family recipes go back many years. Tests in 2025 showed that it goes back to the 1480s, or possibly the 1460s."
+            },
+            {
+              "display": "came about",
+              "base": "come about",
+              "correct": "To begin to happen or exist",
+              "wrong": "To be paid for by a king",
+              "correctFirst": false,
+              "why": "Big changes often come about slowly. Many good ideas come about by accident. This method came about when ships began to carry heavy cannons, because it made their hulls stronger."
+            }
+          ]
+        },
+        {
+          "text": "The divers used special pumps to {{clear away}} mud from the wreck. Under it were bricks, a sign that they had found the ship's [[galley]], or kitchen. They also found parts of the [[rigging]], the ropes that controlled the sails. A student at the site said the [[crew]] probably ate fish, meat and [[porridge]], much of it [[boiled]]. Ordinary sailors probably {{washed their meals down}} with beer, because beer [[stayed fresh]] longer than water.",
+          "verbs": [
+            {
+              "display": "clear away",
+              "base": "clear away",
+              "correct": "To remove dirt or mud from a place",
+              "wrong": "To mark the edges of a dig site",
+              "correctFirst": false,
+              "why": "Workers clear away the snow every morning. After a storm, we clear away the fallen leaves. The divers used special pumps to clear away mud from the wreck."
+            },
+            {
+              "display": "washed their meals down",
+              "base": "wash down",
+              "correct": "To drink something with food",
+              "wrong": "To cook food in a big pot",
+              "correctFirst": false,
+              "why": "He eats a sandwich and washes it down with milk. Many people wash their lunch down with a cup of coffee. Ordinary sailors probably washed their meals down with beer, because beer stayed fresh longer than water."
+            }
+          ]
+        },
+        {
+          "text": "Nobody knows yet why the ship {{went down}}. Old [[rumors]] say a fire {{broke out}} [[on board]]. Sweden and Denmark were joined in a union then, but often fought. The project leader's [[theory]] is that the ship sank when Danish forces attacked the castle in 1501. He hopes divers will find [[traces]] of burning. The wood came from what is now Sweden, but experts cannot {{rule out}} that the ship was Danish. Each new dive helps them {{fill in}} the gaps in its story.",
+          "verbs": [
+            {
+              "display": "went down",
+              "base": "go down",
+              "correct": "To sink to the bottom of the sea",
+              "wrong": "To be sold to another navy",
+              "correctFirst": true,
+              "why": "Many ships go down in big storms. A boat with a hole in it goes down fast. Nobody knows yet why the ship went down."
+            },
+            {
+              "display": "broke out",
+              "base": "break out",
+              "correct": "To start suddenly",
+              "wrong": "To be seen from far away",
+              "correctFirst": false,
+              "why": "Fires often break out in dry summer weather. Fights sometimes break out between fans after a game. Old rumors say a fire broke out on board."
+            },
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To say something is not possible",
+              "wrong": "To write something in an official list",
+              "correctFirst": true,
+              "why": "Doctors rule out a broken bone with an X-ray. The police rule out a neighbor who is at work all day. The wood came from what is now Sweden, but experts cannot rule out that the ship was Danish."
+            },
+            {
+              "display": "fill in",
+              "base": "fill in",
+              "correct": "To add facts or details that are missing",
+              "wrong": "To clean old wood with salt water",
+              "correctFirst": false,
+              "why": "Old letters often fill in the gaps in a family's history. Witnesses fill in the details for the police. Each new dive helps them fill in the gaps in its story."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Head out",
+          "def": "To leave to go somewhere",
+          "ipa": "/hɛd aʊt/",
+          "ex": [
+            "What time do you head out for work?",
+            "We should head out soon if we want a good seat.",
+            "The hikers head out at dawn to avoid the heat."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn facts you did not know",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I called the bank to find out my balance.",
+            "She wants to find out who sent the flowers.",
+            "You can find out the bus times online."
+          ]
+        },
+        {
+          "verb": "Go back",
+          "def": "To be as old as a certain time",
+          "ipa": "/ɡoʊ bæk/",
+          "ex": [
+            "Our town's main street goes back to the 1800s.",
+            "This tradition goes back hundreds of years.",
+            "The oldest trees in the park go back to colonial times."
+          ]
+        },
+        {
+          "verb": "Come about",
+          "def": "To begin to happen or exist",
+          "ipa": "/kʌm əˈbaʊt/",
+          "ex": [
+            "How did this problem come about?",
+            "The new rule came about after the accident.",
+            "Nobody knows how the tradition came about."
+          ]
+        },
+        {
+          "verb": "Clear away",
+          "def": "To remove dirt or mud from a place",
+          "ipa": "/klɪr əˈweɪ/",
+          "ex": [
+            "Workers clear away mud from the road after a flood.",
+            "Crews cleared away the rocks from the road.",
+            "We cleared away the weeds to plant a garden."
+          ]
+        },
+        {
+          "verb": "Wash down",
+          "def": "To drink something with food",
+          "ipa": "/wɑʃ daʊn/",
+          "ex": [
+            "She washed the pills down with a glass of water.",
+            "He washed his pizza down with a cold soda.",
+            "I like to wash down my cookies with milk."
+          ]
+        },
+        {
+          "verb": "Go down",
+          "def": "To sink to the bottom of the sea",
+          "ipa": "/ɡoʊ daʊn/",
+          "ex": [
+            "The famous ship went down in 1912.",
+            "The fishing boat went down after it hit a rock.",
+            "Nobody saw the small boat go down in the storm."
+          ]
+        },
+        {
+          "verb": "Break out",
+          "def": "To start suddenly",
+          "ipa": "/breɪk aʊt/",
+          "ex": [
+            "A fire broke out in the kitchen of the restaurant.",
+            "Fights sometimes break out at hockey games.",
+            "A small fire broke out in the parking garage."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To say something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctor ruled out a serious illness.",
+            "We can't rule out rain on Saturday.",
+            "Police have ruled out a crime in the fire."
+          ]
+        },
+        {
+          "verb": "Fill in",
+          "def": "To add facts or details that are missing",
+          "ipa": "/fɪl ɪn/",
+          "ex": [
+            "The new photos fill in the gaps in the story.",
+            "Old diaries help fill in the gaps in history.",
+            "Her notes filled in the missing details of the trip."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "warship",
+          "def": "A ship with weapons that is used in war",
+          "ipa": "/ˈwɔrˌʃɪp/",
+          "ex": [
+            "The navy built a new warship last year.",
+            "Tourists can visit an old warship in the harbor.",
+            "The warship carried more than 300 sailors."
+          ]
+        },
+        {
+          "word": "seabed",
+          "def": "The ground at the bottom of the sea",
+          "ipa": "/ˈsiˌbɛd/",
+          "ex": [
+            "Many strange fish live near the seabed.",
+            "The cable runs along the seabed between the two countries.",
+            "Divers found old coins on the seabed."
+          ]
+        },
+        {
+          "word": "planks",
+          "def": "Long, flat pieces of wood",
+          "ipa": "/plæŋks/",
+          "ex": [
+            "The old floor was made of wide planks.",
+            "He used planks to build a small boat.",
+            "Some planks on the deck were loose."
+          ]
+        },
+        {
+          "word": "edge to edge",
+          "def": "With the sides touching, not lying on top of each other",
+          "ipa": "/ɛdʒ tə ɛdʒ/",
+          "ex": [
+            "Lay the tiles edge to edge on the floor.",
+            "The tables stood edge to edge to make one long table.",
+            "Put the photos edge to edge so there are no gaps."
+          ]
+        },
+        {
+          "word": "hulls",
+          "def": "The main bodies of ships that sit in the water",
+          "ipa": "/hʌlz/",
+          "ex": [
+            "The workers painted the hulls of the fishing boats.",
+            "Modern hulls are often made of steel.",
+            "Ice can damage the hulls of ships in winter."
+          ]
+        },
+        {
+          "word": "cannons",
+          "def": "Large, heavy guns that fire metal balls",
+          "ipa": "/ˈkænənz/",
+          "ex": [
+            "The old fort still has three cannons.",
+            "Ships of that time carried cannons on both sides.",
+            "The soldiers pulled the cannons up the hill."
+          ]
+        },
+        {
+          "word": "crew",
+          "def": "All the people who work on a ship",
+          "ipa": "/kru/",
+          "ex": [
+            "The crew cleaned the deck every morning.",
+            "The captain and his crew sailed for three weeks.",
+            "The ship needs a crew of twenty people."
+          ]
+        },
+        {
+          "word": "galley",
+          "def": "The kitchen on a ship or plane",
+          "ipa": "/ˈɡæli/",
+          "ex": [
+            "The cook made breakfast in the galley.",
+            "The galley on the boat was very small.",
+            "Flight attendants keep drinks in the galley."
+          ]
+        },
+        {
+          "word": "rigging",
+          "def": "The ropes and wires that hold and move a ship's sails",
+          "ipa": "/ˈrɪɡɪŋ/",
+          "ex": [
+            "The sailors climbed the rigging to fix a sail.",
+            "Strong wind damaged the rigging of the yacht.",
+            "The old ship's rigging was made of thick rope."
+          ]
+        },
+        {
+          "word": "porridge",
+          "def": "A soft hot food made by cooking grains in water or milk",
+          "ipa": "/ˈpɔrɪdʒ/",
+          "ex": [
+            "I eat porridge with honey on cold mornings.",
+            "My grandmother makes porridge with oats and milk.",
+            "The children had porridge for breakfast."
+          ]
+        },
+        {
+          "word": "boiled",
+          "def": "Cooked in very hot water",
+          "ipa": "/bɔɪld/",
+          "ex": [
+            "She boiled some eggs for lunch.",
+            "The potatoes are boiled before we mash them.",
+            "He likes his vegetables boiled, not fried."
+          ]
+        },
+        {
+          "word": "stayed fresh",
+          "def": "Stayed good to eat or drink for a long time",
+          "ipa": "/steɪd frɛʃ/",
+          "ex": [
+            "The bread stayed fresh in the plastic bag.",
+            "The milk stayed fresh in the cold fridge.",
+            "The fruit stayed fresh for a whole week."
+          ]
+        },
+        {
+          "word": "rumors",
+          "def": "Stories that people tell that may not be true",
+          "ipa": "/ˈrumərz/",
+          "ex": [
+            "There are rumors that the store will close.",
+            "Don't believe every rumor you hear at school.",
+            "Rumors about the singer spread fast online."
+          ]
+        },
+        {
+          "word": "on board",
+          "def": "On or in a ship, plane or train",
+          "ipa": "/ɑn bɔrd/",
+          "ex": [
+            "There were 200 people on board the plane.",
+            "Food is served on board the train.",
+            "Please keep your phone off while on board."
+          ]
+        },
+        {
+          "word": "project leader",
+          "def": "The person in charge of a group doing a special piece of work",
+          "ipa": "/ˈprɑdʒɛkt ˈlidər/",
+          "ex": [
+            "The project leader made a plan for the next month.",
+            "She became project leader after five years at the company.",
+            "Ask the project leader if we can have more time."
+          ]
+        },
+        {
+          "word": "theory",
+          "def": "An idea that tries to explain why something happened",
+          "ipa": "/ˈθiəri/",
+          "ex": [
+            "My theory is that the dog ate the cake.",
+            "Scientists tested the theory for many years.",
+            "He has a theory about why the team lost."
+          ]
+        },
+        {
+          "word": "traces",
+          "def": "Very small signs that something was there or happened",
+          "ipa": "/ˈtreɪsɪz/",
+          "ex": [
+            "The police found traces of mud on his shoes.",
+            "There were traces of paint on the old wall.",
+            "The test showed traces of sugar in the drink."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Swedish divers have explored a warship from the 1400s that lies off the coast near Stockholm. They found clues about how it was built and what the crew ate, but nobody knows why it sank.",
+          "a": true,
+          "why": "The divers found kitchen bricks and parts of the rigging. Experts still cannot say why the ship went down."
+        },
+        {
+          "s": "Divers in Sweden have finally learned the reason an old warship sank near a castle. Burned wood on the wreck proves that a fire started on board when Danish forces attacked in 1501.",
+          "a": false,
+          "why": "Close, but nobody knows yet why the ship went down. The Danish attack is only one theory, and divers still hope to find traces of burning."
+        },
+        {
+          "s": "A museum in Stockholm has lifted a famous 1600s warship out of the sea for visitors. People can now walk on its deck and see the guns that sailors once used in big battles at sea.",
+          "a": false,
+          "why": "This is about divers who headed out to study a 1400s wreck that is still on the seabed. They found bricks from its kitchen."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Divers headed out to study a very old warship near Stockholm.",
+          "a": true,
+          "why": "In October 2026, a team from Sweden's Museum of Wrecks dove to the wreck again to learn more about it."
+        },
+        {
+          "s": "Experts already know why the old warship went down.",
+          "a": false,
+          "why": "Nobody knows yet why it sank. One theory is that it went down during a Danish attack in 1501."
+        },
+        {
+          "s": "The ship's planks were laid on top of each other.",
+          "a": false,
+          "why": "Its planks were laid edge to edge. This way of building came about when ships began to carry heavy cannons."
+        },
+        {
+          "s": "The divers found bricks from the ship's kitchen.",
+          "a": true,
+          "why": "The divers used pumps to clear away mud, and under it they found bricks, a sign of the ship's galley."
+        },
+        {
+          "s": "Divers want to find out how the ship was built and why it sank.",
+          "a": true,
+          "why": "The museum team dove to the wreck again in October 2026 to learn more about how it was built and why it sank."
+        },
+        {
+          "s": "Experts have ruled out that the ship was Danish.",
+          "a": false,
+          "why": "Experts cannot rule out that it was a Danish ship and not a Swedish one."
+        }
+      ]
+    },
     {
       "id": "nasa-mars-simulation-ends-2026",
       "number": 202,
