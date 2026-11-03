@@ -2,6 +2,500 @@
   "updated": "2026-11-03",
   "stories": [
     {
+      "id": "western-sahara-un-mission-2026",
+      "number": 205,
+      "headline": "UN ends its Western Sahara mission after 35 years",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n205-western-sahara-un-mission-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years (NPR)",
+          "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends"
+        },
+        {
+          "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends"
+        },
+        {
+          "title": "As peacekeepers leave Western Sahara, refugees yearn to end a half-century wait (Reuters via Al-Monitor)",
+          "url": "https://al-monitor.com/originals/2026/11/peacekeepers-leave-western-sahara-refugees-yearn-end-half-century-wait"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 1, 2026, the United Nations {{shut down}} its [[peacekeeping mission]] in Western Sahara after 35 years. Western Sahara is a [[desert territory]] on Africa's northwestern coast. The UN {{set up}} the mission in 1991. Its [[troops]] were there to [[monitor]] a [[cease-fire]], an agreement to stop fighting.",
+          "verbs": [
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To stop an operation completely",
+              "wrong": "To give an operation a new leader",
+              "correctFirst": false,
+              "why": "The factory shuts down when the owner retires. Many small shops shut down when a big store opens nearby. The United Nations shut down its peacekeeping mission in Western Sahara after 35 years."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create a new group or program",
+              "wrong": "To pay the costs of a program",
+              "correctFirst": false,
+              "why": "The school sets up a reading program for new students. Some cities set up a group to help older people. The UN set up the mission in 1991."
+            }
+          ]
+        },
+        {
+          "text": "Morocco and the Polisario Front, an [[independence movement]] backed by Algeria, both [[claim]] the territory. Morocco {{took over}} in 1975, when Spain, the territory's old ruler, left. Morocco now runs nearly all of it. The movement wants an [[independent state]] there. A war {{broke out}} between the two sides and lasted over 15 years. More than 16,000 people died, according to the French Senate. Thousands fled and {{ended up}} in [[refugee camps]] in Algeria.",
+          "verbs": [
+            {
+              "display": "took over",
+              "base": "take over",
+              "correct": "To gain control of a place",
+              "wrong": "To draw a new map of a place",
+              "correctFirst": true,
+              "why": "In this board game, players take over one country at a time. A big company takes over the town's only airport. Morocco took over the territory in 1975, when Spain left."
+            },
+            {
+              "display": "broke out",
+              "base": "break out",
+              "correct": "To start suddenly, like a war",
+              "wrong": "To be reported in the newspapers",
+              "correctFirst": false,
+              "why": "Fights often break out at the end of hockey games. Arguments break out when the two families meet. A war broke out over Western Sahara and lasted more than 15 years."
+            },
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To finally be in a place",
+              "wrong": "To cross a border at night",
+              "correctFirst": true,
+              "why": "Lost bags often end up at the wrong airport. Many students end up in a big city after college. Thousands of people fled the war and ended up in camps in Algeria."
+            }
+          ]
+        },
+        {
+          "text": "The UN also planned a [[referendum]], a [[public vote]] on the territory's future. That vote {{fell through}} because the two sides disagreed about who could vote. The conflict has {{dragged on}} for about 50 years. The movement {{pulled out}} of the cease-fire in 2020. The [[dispute]] {{heated up}} in 2025, when the UN's main peace body, the Security Council, supported Morocco's plan to give the territory [[self-rule]] under Moroccan control. On October 30, 2026, Russia stopped a U.S. plan backing that idea. Five council members, including Russia, have a [[veto]], the power to block decisions.",
+          "verbs": [
+            {
+              "display": "fell through",
+              "base": "fall through",
+              "correct": "To fail to happen as planned",
+              "wrong": "To win support from most people",
+              "correctFirst": true,
+              "why": "Many house sales fall through when the bank says no. Travel plans often fall through when someone gets sick. The vote on the territory's future fell through because the two sides disagreed about who could vote."
+            },
+            {
+              "display": "dragged on",
+              "base": "drag on",
+              "correct": "To last much longer than people want",
+              "wrong": "To become known around the world",
+              "correctFirst": false,
+              "why": "Some meetings drag on for hours. A court case can drag on for years. The conflict over Western Sahara has dragged on for about 50 years."
+            },
+            {
+              "display": "pulled out",
+              "base": "pull out",
+              "correct": "To leave an agreement",
+              "wrong": "To request a better agreement",
+              "correctFirst": true,
+              "why": "A company often pulls out when a deal costs too much. Some countries pull out of a trade agreement after an election. The Polisario Front pulled out of the cease-fire in 2020."
+            },
+            {
+              "display": "heated up",
+              "base": "heat up",
+              "correct": "To become more serious or angry",
+              "wrong": "To get the attention of a court",
+              "correctFirst": false,
+              "why": "The fight over the new school heats up every spring. The debate about parking heats up when the city raises prices. The dispute heated up in 2025, when the Security Council supported Morocco's plan."
+            }
+          ]
+        },
+        {
+          "text": "Eleven of the 15 members supported the U.S. plan. The U.S. said its plan would have brought progress, but Russia said the plan favored one side. The council {{voted down}} a Russian plan to extend the mission, so its [[mandate]], or [[official permission]] to operate, {{ran out}}. Morocco's [[royal palace]] welcomed the result. The Polisario Front called it unacceptable, and Algeria blamed U.S. [[bias]]. The UN's leader warned of a risk of more fighting and {{called on}} all sides to stay calm.",
+          "verbs": [
+            {
+              "display": "voted down",
+              "base": "vote down",
+              "correct": "To reject something by voting",
+              "wrong": "To count the votes a second time",
+              "correctFirst": true,
+              "why": "Workers often vote down a bad contract. The city council votes down most plans for new parking. The Security Council voted down a Russian plan to extend the mission."
+            },
+            {
+              "display": "ran out",
+              "base": "run out",
+              "correct": "To reach the end of its allowed time",
+              "wrong": "To be signed by every member",
+              "correctFirst": false,
+              "why": "My parking permit runs out at the end of the month. Most passports run out after ten years. The mission's mandate ran out when the council could not agree."
+            },
+            {
+              "display": "called on",
+              "base": "call on",
+              "correct": "To publicly ask someone to do something",
+              "wrong": "To thank someone in public for their work",
+              "correctFirst": true,
+              "why": "Parents call on the school to make lunch healthier. Doctors call on people to get more sleep. The UN's leader called on all sides to stay calm."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Shut down",
+          "def": "To stop an operation completely",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The airline shut down after 40 years in business.",
+            "The city plans to shut down the old power plant.",
+            "Our local newspaper shut down two years ago."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create a new group or program",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "The church set up a food program for local families.",
+            "Her company set up a team to answer customer questions.",
+            "The city plans to set up a new housing office."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To gain control of a place",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "The soldiers took over the city in a single day.",
+            "A rebel army tried to take over the capital.",
+            "The Romans took over large parts of Europe."
+          ]
+        },
+        {
+          "verb": "Break out",
+          "def": "To start suddenly, like a war",
+          "ipa": "/breɪk aʊt/",
+          "ex": [
+            "A fight broke out in the parking lot after the game.",
+            "Nobody expected a war to break out that summer.",
+            "Protests broke out in several cities."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally be in a place",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up in the wrong town.",
+            "After years of travel, he ended up in Chicago.",
+            "How did your suitcase end up in Denver?"
+          ]
+        },
+        {
+          "verb": "Fall through",
+          "def": "To fail to happen as planned",
+          "ipa": "/fɔl θru/",
+          "ex": [
+            "Our plan to buy the house fell through.",
+            "His job offer fell through a week before he started.",
+            "The concert fell through when the band canceled."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To last much longer than people want",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The strike dragged on for three months.",
+            "I hope this movie does not drag on much longer.",
+            "The talks dragged on until midnight."
+          ]
+        },
+        {
+          "verb": "Pull out",
+          "def": "To leave an agreement",
+          "ipa": "/pʊl aʊt/",
+          "ex": [
+            "The buyer pulled out of the deal a day before signing.",
+            "Two countries pulled out of the climate agreement.",
+            "If the price goes higher, we will pull out of the contract."
+          ]
+        },
+        {
+          "verb": "Heat up",
+          "def": "To become more serious or angry",
+          "ipa": "/hit ʌp/",
+          "ex": [
+            "The argument heated up when he raised his voice.",
+            "The race for mayor is heating up.",
+            "Their fight over money heated up last winter."
+          ]
+        },
+        {
+          "verb": "Vote down",
+          "def": "To reject something by voting",
+          "ipa": "/voʊt daʊn/",
+          "ex": [
+            "The members voted down the new rules.",
+            "Lawmakers voted the tax plan down last spring.",
+            "The school board may vote down the budget."
+          ]
+        },
+        {
+          "verb": "Run out",
+          "def": "To reach the end of its allowed time",
+          "ipa": "/rʌn aʊt/",
+          "ex": [
+            "Her visa ran out while she was abroad.",
+            "Our lease runs out in June.",
+            "The contract ran out, and nobody renewed it."
+          ]
+        },
+        {
+          "verb": "Call on",
+          "def": "To publicly ask someone to do something",
+          "ipa": "/kɔl ɑn/",
+          "ex": [
+            "The mayor called on residents to save water.",
+            "Teachers are calling on the state to raise pay.",
+            "The president called on both countries to start talks."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "desert territory",
+          "def": "A large, very dry area of land",
+          "ipa": "/ˈdɛzərt ˈtɛrəˌtɔri/",
+          "ex": [
+            "Few people live in that desert territory.",
+            "The road crosses a huge desert territory.",
+            "Water is hard to find in a desert territory."
+          ]
+        },
+        {
+          "word": "peacekeeping mission",
+          "def": "An international effort to keep peace in a place after a war",
+          "ipa": "/ˈpisˌkipɪŋ ˈmɪʃən/",
+          "ex": [
+            "Her brother served on a peacekeeping mission in Africa.",
+            "The peacekeeping mission costs millions of dollars a year.",
+            "Ten countries sent soldiers to the peacekeeping mission."
+          ]
+        },
+        {
+          "word": "troops",
+          "def": "Soldiers, usually in a large group",
+          "ipa": "/trups/",
+          "ex": [
+            "The troops came home in December.",
+            "The country sent more troops to the border.",
+            "Troops helped people after the flood."
+          ]
+        },
+        {
+          "word": "monitor",
+          "def": "To watch something carefully over time",
+          "ipa": "/ˈmɑnətər/",
+          "ex": [
+            "Nurses monitor patients through the night.",
+            "Experts monitor the river after heavy rain.",
+            "Observers will monitor the election."
+          ]
+        },
+        {
+          "word": "cease-fire",
+          "def": "An agreement to stop fighting",
+          "ipa": "/ˈsisˌfaɪər/",
+          "ex": [
+            "The cease-fire began at noon.",
+            "Both armies agreed to a cease-fire.",
+            "People returned home during the cease-fire."
+          ]
+        },
+        {
+          "word": "independence movement",
+          "def": "A group that wants a place to govern itself",
+          "ipa": "/ˌɪndɪˈpɛndəns ˈmuvmənt/",
+          "ex": [
+            "He joined the independence movement as a student.",
+            "The independence movement held a large march.",
+            "The independence movement has support in the north."
+          ]
+        },
+        {
+          "word": "claim",
+          "def": "To say that something belongs to you",
+          "ipa": "/kleɪm/",
+          "ex": [
+            "Two neighbors claim the same piece of land.",
+            "Both countries claim the small island.",
+            "Several people claim the old house."
+          ]
+        },
+        {
+          "word": "independent state",
+          "def": "A country that governs itself",
+          "ipa": "/ˌɪndɪˈpɛndənt steɪt/",
+          "ex": [
+            "The island became an independent state in 1975.",
+            "Many people there want an independent state.",
+            "An independent state makes its own laws."
+          ]
+        },
+        {
+          "word": "refugee camps",
+          "def": "Places where people live after leaving a war or danger",
+          "ipa": "/ˌrɛfjuˈdʒi kæmps/",
+          "ex": [
+            "Many families live in refugee camps near the border.",
+            "Doctors visit the refugee camps twice a week.",
+            "New schools opened in the refugee camps."
+          ]
+        },
+        {
+          "word": "referendum",
+          "def": "A vote in which all citizens decide one question",
+          "ipa": "/ˌrɛfəˈrɛndəm/",
+          "ex": [
+            "The state held a referendum on the new tax.",
+            "Voters rejected the plan in a referendum.",
+            "Leaders promised a referendum next year."
+          ]
+        },
+        {
+          "word": "public vote",
+          "def": "A decision made by the voters of a place",
+          "ipa": "/ˈpʌblɪk voʊt/",
+          "ex": [
+            "The new stadium needs a public vote.",
+            "The city held a public vote on the bridge.",
+            "A public vote will decide the school's budget."
+          ]
+        },
+        {
+          "word": "dispute",
+          "def": "A serious disagreement between people or groups",
+          "ipa": "/dɪˈspjut/",
+          "ex": [
+            "The two farmers have a dispute about water.",
+            "A court will settle the dispute.",
+            "The dispute between the neighbors lasted for years."
+          ]
+        },
+        {
+          "word": "self-rule",
+          "def": "The power of a region to govern itself",
+          "ipa": "/ˌsɛlfˈrul/",
+          "ex": [
+            "The island wants more self-rule.",
+            "The region gained self-rule in 1999.",
+            "Under self-rule, local leaders make most decisions."
+          ]
+        },
+        {
+          "word": "veto",
+          "def": "The power to stop a decision",
+          "ipa": "/ˈvitoʊ/",
+          "ex": [
+            "The president used his veto to stop the bill.",
+            "Each member has a veto over new rules.",
+            "The governor's veto surprised lawmakers."
+          ]
+        },
+        {
+          "word": "mandate",
+          "def": "An official order that lets a group do a job",
+          "ipa": "/ˈmænˌdeɪt/",
+          "ex": [
+            "The committee has a mandate to study school safety.",
+            "The agency's mandate ends next year.",
+            "The new law gives the office a wider mandate."
+          ]
+        },
+        {
+          "word": "official permission",
+          "def": "Approval from a government or other authority",
+          "ipa": "/əˈfɪʃəl pərˈmɪʃən/",
+          "ex": [
+            "You need official permission to build a second floor.",
+            "The group got official permission to march downtown.",
+            "They filmed in the park without official permission."
+          ]
+        },
+        {
+          "word": "royal palace",
+          "def": "The home and offices of a king or queen",
+          "ipa": "/ˈrɔɪəl ˈpælɪs/",
+          "ex": [
+            "Tourists take photos outside the royal palace.",
+            "The royal palace announced the wedding.",
+            "The royal palace has more than 100 rooms."
+          ]
+        },
+        {
+          "word": "bias",
+          "def": "Unfair support for one person or side",
+          "ipa": "/ˈbaɪəs/",
+          "ex": [
+            "The judge was accused of bias.",
+            "Good reporters try to avoid bias.",
+            "Some viewers see bias in the TV news."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A long UN peacekeeping effort in Western Sahara has ended after Russia and the U.S. could not agree on the territory's future. The promised vote never happened, and many refugees remain in Algeria.",
+          "a": true,
+          "why": "The mandate ran out after a Russian veto and a failed Russian plan. The referendum fell through, and families who fled ended up in camps in Algeria."
+        },
+        {
+          "s": "Soldiers left the desert region because the fighting was over and both sides asked them to go. Now that peace has come, families living in camps can plan their trip home after fifty years away.",
+          "a": false,
+          "why": "Close, but no peace deal ended the mission. The mandate ran out because of a fight at the Security Council, and the UN warned of a risk of more fighting."
+        },
+        {
+          "s": "Spain has agreed to pay for new schools and clean water systems across North Africa. Officials in Madrid say the work should start next spring, and it could take about four years to finish.",
+          "a": false,
+          "why": "This story is about the end of a UN mission. The UN shut down its peacekeeping work in Western Sahara after a fight at the Security Council."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The UN shut down its peacekeeping mission in Western Sahara.",
+          "a": true,
+          "why": "The UN shut down the mission on November 1, 2026, after 35 years."
+        },
+        {
+          "s": "Morocco and the Polisario Front agreed on who could vote on the territory's future.",
+          "a": false,
+          "why": "They could not agree, so the vote on the territory's future fell through."
+        },
+        {
+          "s": "Morocco's royal palace was unhappy that the mission's mandate ran out.",
+          "a": false,
+          "why": "The mandate ran out, and Morocco's royal palace welcomed the result. The Polisario Front called it unacceptable."
+        },
+        {
+          "s": "Russia blocked a U.S. plan before the mission's mandate ran out.",
+          "a": true,
+          "why": "Russia used its veto, and the council then voted down a Russian plan. With no new decision, the mandate ran out."
+        },
+        {
+          "s": "Many people who fled the war ended up in camps in Algeria.",
+          "a": true,
+          "why": "Thousands of people fled the war and ended up in refugee camps in Algeria."
+        },
+        {
+          "s": "The UN's leader said there is no risk of more fighting.",
+          "a": false,
+          "why": "He warned of a risk of more fighting and called on all sides to stay calm."
+        }
+      ]
+    },
+    {
       "id": "europe-fridge-hacks-2026",
       "number": 204,
       "headline": "New fridge attacks spoil food across Europe",
