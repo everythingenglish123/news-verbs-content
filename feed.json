@@ -1,6 +1,490 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "stories": [
+    {
+      "id": "tame-foxes-brain-2026",
+      "number": 206,
+      "headline": "Friendly foxes have fewer of certain brain cells",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n206-tame-foxes-brain-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "From wild to mild: Friendly foxes show changes in brain region (Cornell Chronicle)",
+          "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region"
+        },
+        {
+          "title": "Brain Circuit Pruned to Make Wild Foxes Friendly (Neuroscience News)",
+          "url": "https://neurosciencenews.com/ventromedial-hypothalamus-pruning-domestication-32373/"
+        },
+        {
+          "title": "Fox experiment is replaying domestication in fast-forward (Science News)",
+          "url": "https://www.sciencenews.org/article/fox-experiment-replaying-domestication-fast-forward"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Foxes [[bred]] to be friendly have fewer of a certain kind of [[brain cell]] than foxes bred to be [[aggressive]], a new study says. Bred means people chose which animals had babies. The study {{came out}} on November 2, 2026, in the [[science journal]] Current Biology. A team at Cornell University {{set out}} to learn how the brain changes when a wild animal becomes [[tame]], or calm around people.",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To be published for people to read",
+              "wrong": "To be checked by other experts",
+              "correctFirst": true,
+              "why": "Her new book comes out in May. The town magazine comes out every month. The study came out on November 2, 2026, in the science journal Current Biology."
+            },
+            {
+              "display": "set out",
+              "base": "set out",
+              "correct": "To start work with a clear goal",
+              "wrong": "To hire more people for a lab",
+              "correctFirst": false,
+              "why": "Each year he sets out to read 50 books. Many students set out to finish college in four years. The Cornell team set out to learn how the brain changes when a wild animal becomes tame."
+            }
+          ]
+        },
+        {
+          "text": "The foxes are part of a famous experiment that began on [[fur farms]] in Siberia, Russia, in the late 1950s. Some foxes {{stood out}} because they were friendlier toward workers. Only the friendliest foxes had babies, and they {{passed on}} this behavior. After six [[generations]], scientists {{ended up}} with [[pups]] that wanted to be with humans. [[Floppy ears]] and shorter [[snouts]], or noses, {{showed up}} too. In 2017, a science magazine reported that the foxes {{rolled over}} for [[belly rubs]] but still did not [[follow commands]] like dogs.",
+          "verbs": [
+            {
+              "display": "stood out",
+              "base": "stand out",
+              "correct": "To be easy to notice",
+              "wrong": "To wait quietly for food",
+              "correctFirst": true,
+              "why": "Her red coat stands out in a crowd. A good resume stands out in a big pile. Some foxes stood out because they were friendlier toward workers."
+            },
+            {
+              "display": "passed on",
+              "base": "pass on",
+              "correct": "To give a quality to your young",
+              "wrong": "To take food from other animals",
+              "correctFirst": false,
+              "why": "Parents pass on their eye color to their children. Many animals pass on their size to their young. The friendliest foxes passed on this behavior to their pups."
+            },
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To finally have a certain result",
+              "wrong": "To sell animals to another farm",
+              "correctFirst": true,
+              "why": "Cooks who buy too much food end up with a full fridge. People who never save money end up with large debts. After six generations, scientists ended up with pups that wanted to be with humans."
+            },
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To become easy to see",
+              "wrong": "To get bigger over time",
+              "correctFirst": false,
+              "why": "Gray hairs show up in your thirties. Bruises show up a day after a fall. Floppy ears and shorter snouts showed up in the friendly foxes too."
+            },
+            {
+              "display": "rolled over",
+              "base": "roll over",
+              "correct": "To turn your whole body",
+              "wrong": "To beg loudly for food",
+              "correctFirst": true,
+              "why": "My dog rolls over when he wants attention. Many cats roll over and show their bellies. In 2017, a science magazine reported that the foxes rolled over for belly rubs."
+            }
+          ]
+        },
+        {
+          "text": "Scientists in Russia sent the team nine [[preserved]] brains: three from tame foxes, three from aggressive foxes, and three from wild foxes. The team studied [[thin slices]] from a small area [[at the base of]] the brain. In earlier work on mice, scientists used light to {{turn on}} certain brain cells there, and the mouse would attack another. The tame foxes {{turned out}} to have fewer of this same kind of cell than aggressive foxes.",
+          "verbs": [
+            {
+              "display": "turn on",
+              "base": "turn on",
+              "correct": "To make something start working",
+              "wrong": "To take a photo of something",
+              "correctFirst": false,
+              "why": "A small sensor turns on the light when someone walks in. I turn on the radio each morning. In earlier work on mice, scientists used light to turn on certain brain cells."
+            },
+            {
+              "display": "turned out",
+              "base": "turn out",
+              "correct": "To be shown to be true",
+              "wrong": "To be larger than expected",
+              "correctFirst": true,
+              "why": "Many quiet students turn out to be great speakers. Some old paintings turn out to be fakes. The tame foxes turned out to have fewer of this same kind of cell than aggressive foxes."
+            }
+          ]
+        },
+        {
+          "text": "The study does not [[prove]] that these cells make a fox friendly. It used only nine brains. The link between these cells and attacks is also based on mice, not foxes. The scientists do not yet know how the difference {{came about}}. Next, they want to {{figure out}} why breeding changes this part of the brain. One team member may {{look into}} how fox [[genes]] affect these cells.",
+          "verbs": [
+            {
+              "display": "came about",
+              "base": "come about",
+              "correct": "To happen or develop",
+              "wrong": "To be checked once more",
+              "correctFirst": true,
+              "why": "Big changes often come about slowly. Many new ideas come about by accident. The scientists do not yet know how the difference came about."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To understand by thinking or testing",
+              "wrong": "To share news with reporters",
+              "correctFirst": false,
+              "why": "Doctors run tests to figure out what is wrong. Kids figure out new phones very fast. Next, the scientists want to figure out why breeding changes this part of the brain."
+            },
+            {
+              "display": "look into",
+              "base": "look into",
+              "correct": "To study something carefully",
+              "wrong": "To keep a result secret",
+              "correctFirst": true,
+              "why": "The police look into every complaint. Doctors look into new ways to treat pain. One team member may look into how fox genes affect these cells."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come out",
+          "def": "To be published for people to read",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "The new cookbook comes out on Friday.",
+            "When does your next book come out?",
+            "A report on city traffic came out last spring."
+          ]
+        },
+        {
+          "verb": "Set out",
+          "def": "To start work with a clear goal",
+          "ipa": "/sɛt aʊt/",
+          "ex": [
+            "She set out to become a doctor.",
+            "They set out to build a better bike.",
+            "We set out to save money for a house."
+          ]
+        },
+        {
+          "verb": "Stand out",
+          "def": "To be easy to notice",
+          "ipa": "/stænd aʊt/",
+          "ex": [
+            "His bright yellow car really stands out.",
+            "One singer stood out from the rest of the group.",
+            "Tall people stand out in a small room."
+          ]
+        },
+        {
+          "verb": "Pass on",
+          "def": "To give a quality to your young",
+          "ipa": "/pæs ɑn/",
+          "ex": [
+            "My mother passed on her curly hair to me.",
+            "Tall parents often pass on their height.",
+            "Birds pass on their colors to their chicks."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally have a certain result",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We ended up with three extra tickets.",
+            "If you skip lunch, you end up with a headache.",
+            "She ended up with a job she loves."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To become easy to see",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The first flowers show up in early spring.",
+            "A rash showed up on his arm.",
+            "New lines show up on your face as you age."
+          ]
+        },
+        {
+          "verb": "Roll over",
+          "def": "To turn your whole body",
+          "ipa": "/roʊl ˈoʊvər/",
+          "ex": [
+            "The puppy rolled over and kicked its legs.",
+            "He rolled over and looked at the ceiling.",
+            "The baby can roll over now."
+          ]
+        },
+        {
+          "verb": "Turn on",
+          "def": "To make something start working",
+          "ipa": "/tɜrn ɑn/",
+          "ex": [
+            "Please turn on the lights.",
+            "She turned on the heater before bed.",
+            "Can you turn on the TV?"
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To be shown to be true",
+          "ipa": "/tɜrn aʊt/",
+          "ex": [
+            "The new neighbor turned out to be a nurse.",
+            "The old coin turned out to be very valuable.",
+            "The test turned out to be easy."
+          ]
+        },
+        {
+          "verb": "Come about",
+          "def": "To happen or develop",
+          "ipa": "/kʌm əˈbaʊt/",
+          "ex": [
+            "How did this problem come about?",
+            "The new law came about after years of debate.",
+            "Their friendship came about at a summer job."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand by thinking or testing",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out this math problem.",
+            "She figured out why the printer stopped working.",
+            "We need to figure out the best way home."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study something carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The school will look into the problem.",
+            "My bank looked into the strange charge.",
+            "A reporter looked into the mayor's spending."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "bred",
+          "def": "Kept and chosen by people so that certain animals have babies together",
+          "ipa": "/brɛd/",
+          "ex": [
+            "These horses were bred for speed.",
+            "The cows on that farm were bred to give more milk.",
+            "Her dogs were bred to work with sheep."
+          ]
+        },
+        {
+          "word": "brain cell",
+          "def": "One of the very small parts of the brain that carry signals",
+          "ipa": "/breɪn sɛl/",
+          "ex": [
+            "A brain cell sends signals to other cells.",
+            "Each brain cell is too small to see without a microscope.",
+            "A single brain cell can connect with thousands of others."
+          ]
+        },
+        {
+          "word": "aggressive",
+          "def": "Likely to attack or fight",
+          "ipa": "/əˈɡrɛsɪv/",
+          "ex": [
+            "The aggressive dog barked at everyone.",
+            "Some birds become aggressive when they have eggs.",
+            "He was aggressive on the playing field."
+          ]
+        },
+        {
+          "word": "science journal",
+          "def": "A serious magazine where scientists publish their research",
+          "ipa": "/ˈsaɪəns ˈdʒɜrnəl/",
+          "ex": [
+            "Her paper appeared in a science journal.",
+            "The library has a science journal about ocean life.",
+            "He reads a science journal every month."
+          ]
+        },
+        {
+          "word": "tame",
+          "def": "Calm around people and not afraid of them",
+          "ipa": "/teɪm/",
+          "ex": [
+            "The tame deer ate from my hand.",
+            "Our parrot is so tame that it sits on my shoulder.",
+            "Wild birds are rarely as tame as these ducks."
+          ]
+        },
+        {
+          "word": "fur farms",
+          "def": "Farms that raise animals so their fur can be sold",
+          "ipa": "/fɜr fɑrmz/",
+          "ex": [
+            "Some countries have closed their fur farms.",
+            "Mink were raised on fur farms in that valley.",
+            "Fur farms were once common in cold places."
+          ]
+        },
+        {
+          "word": "generations",
+          "def": "All the animals or people born at about the same time in a family line",
+          "ipa": "/ˌdʒɛnəˈreɪʃənz/",
+          "ex": [
+            "Three generations live in that house.",
+            "This farm has been in our family for five generations.",
+            "Fruit flies go through many generations in a year."
+          ]
+        },
+        {
+          "word": "pups",
+          "def": "Very young foxes, dogs or similar animals",
+          "ipa": "/pʌps/",
+          "ex": [
+            "The mother dog fed her six pups.",
+            "Wolf pups stay close to their den.",
+            "The pups slept in a pile by the door."
+          ]
+        },
+        {
+          "word": "Floppy ears",
+          "def": "Soft ears that hang down and do not stand straight",
+          "ipa": "/ˈflɑpi ɪrz/",
+          "ex": [
+            "Floppy ears make that rabbit look sleepy.",
+            "Floppy ears are common on many kinds of dogs.",
+            "Floppy ears can get dirty and need cleaning."
+          ]
+        },
+        {
+          "word": "snouts",
+          "def": "The long noses and mouths of some animals",
+          "ipa": "/snaʊts/",
+          "ex": [
+            "Pigs use their snouts to dig in the ground.",
+            "The puppies pushed their snouts into the bowl.",
+            "Bears have long snouts and a strong sense of smell."
+          ]
+        },
+        {
+          "word": "belly rubs",
+          "def": "Gentle touches on an animal's stomach",
+          "ipa": "/ˈbɛli rʌbz/",
+          "ex": [
+            "My dog loves belly rubs after a walk.",
+            "Some cats do not like belly rubs.",
+            "The old dog asks for belly rubs every night."
+          ]
+        },
+        {
+          "word": "follow commands",
+          "def": "To do what someone tells you to do",
+          "ipa": "/ˈfɑloʊ kəˈmændz/",
+          "ex": [
+            "Police dogs learn to follow commands quickly.",
+            "Soldiers must follow commands from their officers.",
+            "My puppy does not follow commands yet."
+          ]
+        },
+        {
+          "word": "preserved",
+          "def": "Kept in a special way so it does not decay",
+          "ipa": "/prɪˈzɜrvd/",
+          "ex": [
+            "The museum has a preserved insect in glass.",
+            "The preserved leaves are 100 years old.",
+            "Doctors studied a preserved heart in class."
+          ]
+        },
+        {
+          "word": "thin slices",
+          "def": "Flat pieces of something, cut so they are not thick",
+          "ipa": "/θɪn ˈslaɪsɪz/",
+          "ex": [
+            "She cut the cheese into thin slices.",
+            "He ate thin slices of apple with lunch.",
+            "The bakery sells bread in thin slices."
+          ]
+        },
+        {
+          "word": "at the base of",
+          "def": "At the lowest part of something",
+          "ipa": "/æt ðə beɪs ʌv/",
+          "ex": [
+            "We had a picnic at the base of the mountain.",
+            "A small shop stands at the base of the tower.",
+            "Mushrooms grow at the base of that old tree."
+          ]
+        },
+        {
+          "word": "genes",
+          "def": "Parts of a cell that control features like size and color",
+          "ipa": "/dʒinz/",
+          "ex": [
+            "Your genes control the color of your eyes.",
+            "Some genes make a person taller.",
+            "Doctors can test your genes for some illnesses."
+          ]
+        },
+        {
+          "word": "prove",
+          "def": "To show clearly that something is true",
+          "ipa": "/pruv/",
+          "ex": [
+            "Can you prove you were at home?",
+            "The photo does not prove who took the money.",
+            "Tests can prove that the water is safe."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Foxes bred to be tame have fewer of a certain brain cell than foxes bred to be aggressive. The study used only nine brains, and scientists still need to learn why the difference exists.",
+          "a": true,
+          "why": "Tame foxes turned out to have fewer of these cells. The study is very small, and the next step is to figure out why."
+        },
+        {
+          "s": "Scientists have shown that one type of cell makes every fox friendly or dangerous. Removing those cells in a Russian experiment calmed angry animals within only six generations.",
+          "a": false,
+          "why": "Close, but the study does not prove that these cells make a fox friendly. Nobody removed any cells, and the link to aggression is based on mice."
+        },
+        {
+          "s": "A Russian fur farm has closed after decades of raising silver foxes for sale as pets. Workers must now find new homes for hundreds of animals, and a court will decide who pays the costs.",
+          "a": false,
+          "why": "This is about a study of nine fox brains. It found that tame foxes turned out to have fewer of certain brain cells."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The tame foxes turned out to have fewer of these brain cells than aggressive foxes.",
+          "a": true,
+          "why": "This is the main result of the study, and it is what the Cornell team found in the small area at the base of the brain."
+        },
+        {
+          "s": "The study proves that these cells make a fox friendly.",
+          "a": false,
+          "why": "The study that came out in Current Biology does not prove this. It used only nine brains."
+        },
+        {
+          "s": "Scientists know exactly how the difference in the brain came about.",
+          "a": false,
+          "why": "They do not yet know how the difference came about. The study does not answer that question."
+        },
+        {
+          "s": "The scientists want to figure out why breeding changes this part of the brain.",
+          "a": true,
+          "why": "Next, they want to figure out why breeding changes this part of the brain."
+        },
+        {
+          "s": "The friendliest foxes passed on their friendly behavior to their pups.",
+          "a": true,
+          "why": "Scientists let only the friendliest foxes have babies. After six generations, the pups wanted to be with humans."
+        },
+        {
+          "s": "In the mouse experiments, turning on these brain cells made the mice calm.",
+          "a": false,
+          "why": "When scientists used light to turn on these cells, a mouse would immediately attack another mouse."
+        }
+      ]
+    },
     {
       "id": "western-sahara-un-mission-2026",
       "number": 205,
