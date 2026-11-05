@@ -1,6 +1,526 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "stories": [
+    {
+      "id": "david-jones-collapse-2026",
+      "number": 207,
+      "headline": "Australia's oldest department store calls in experts",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n207-david-jones-collapse-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Australia's oldest department store David Jones folds after 188 years (BBC)",
+          "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o"
+        },
+        {
+          "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk (The Guardian)",
+          "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration"
+        },
+        {
+          "title": "David Jones calls in administrators, leaving retailer's future in doubt (ABC News)",
+          "url": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "The David Jones company has sold goods in Australia for 188 years. It is the country's oldest [[department store]] chain. Queen Elizabeth attended a [[banquet]] at its Sydney store in 1954. Many Australians {{grew up}} with its Christmas [[window displays]], and some people traveled for hours to see them. On November 5, 2026, the chain's leaders {{called in}} [[administrators]]. These are outside experts who try to save or sell a company in trouble.",
+          "verbs": [
+            {
+              "display": "grew up",
+              "base": "grow up",
+              "correct": "To change from a child to an adult",
+              "wrong": "To feel sad about an old memory",
+              "correctFirst": true,
+              "why": "Many kids grow up with a dog in the house. Children who grow up near the ocean often swim well. Many Australians grew up with the Christmas window displays at David Jones."
+            },
+            {
+              "display": "called in",
+              "base": "call in",
+              "correct": "To ask experts to come and help",
+              "wrong": "To pay workers before they leave",
+              "correctFirst": false,
+              "why": "Schools call in a plumber when the pipes leak. Companies call in a lawyer when a contract looks wrong. The leaders of David Jones called in administrators on November 5, 2026."
+            }
+          ]
+        },
+        {
+          "text": "The chain is not closed. Its 38 stores and its website remain open. But many customers have left [[traditional stores]] for online shopping. [[Steep losses]] have {{piled up}} for years. The chain also {{fell behind}} on its rent. Talks with its main [[landlord]], the owner of many [[shopping malls]], {{broke down}}. The landlord said it made a [[generous offer]] to keep the chain open. The owners, an [[investment company]], {{turned down}} the offer.",
+          "verbs": [
+            {
+              "display": "piled up",
+              "base": "pile up",
+              "correct": "To keep growing until it is large",
+              "wrong": "To be counted twice by mistake",
+              "correctFirst": true,
+              "why": "Bills pile up when people lose their jobs. Debts pile up fast on a credit card. Steep losses have piled up at David Jones for years."
+            },
+            {
+              "display": "fell behind",
+              "base": "fall behind",
+              "correct": "To be late paying money you owe",
+              "wrong": "To pay more than the agreed amount",
+              "correctFirst": false,
+              "why": "Many families fall behind on their bills after a job loss. Students sometimes fall behind on their loan payments. David Jones fell behind on its rent."
+            },
+            {
+              "display": "broke down",
+              "base": "break down",
+              "correct": "To fail because people cannot agree",
+              "wrong": "To become loud and very angry",
+              "correctFirst": true,
+              "why": "Talks often break down when neither side gives anything. Peace talks break down when trust is low. Talks between the chain and its main landlord broke down."
+            },
+            {
+              "display": "turned down",
+              "base": "turn down",
+              "correct": "To say no to an offer",
+              "wrong": "To read a contract with care",
+              "correctFirst": false,
+              "why": "Some people turn down a job because the pay is low. Small companies sometimes turn down big offers. The landlord said the chain's owners turned down its offer."
+            }
+          ]
+        },
+        {
+          "text": "The chain's main [[lender]], the company that lent it money, then chose a second team of experts, called [[receivers]], to protect its loans. That team has {{taken over}} daily control of the business. The owners could not {{turn the business around}}. The administrators are trying to find a buyer. A new buyer could {{step in}}. Business experts expect [[store closures]], mostly in malls far from city centers. The chain has about 6,000 workers, and thousands could be {{laid off}}.",
+          "verbs": [
+            {
+              "display": "taken over",
+              "base": "take over",
+              "correct": "To get control of a business",
+              "wrong": "To give money to a business",
+              "correctFirst": true,
+              "why": "Big companies often take over small ones. A son sometimes takes over his father's store. A team of receivers has taken over daily control of David Jones."
+            },
+            {
+              "display": "turn the business around",
+              "base": "turn around",
+              "correct": "To make a failing business do well",
+              "wrong": "To move a business to a new city",
+              "correctFirst": false,
+              "why": "A good manager can turn around a failing restaurant. New owners sometimes turn a weak company around. The owners could not turn David Jones around."
+            },
+            {
+              "display": "step in",
+              "base": "step in",
+              "correct": "To become involved and help",
+              "wrong": "To let another person take your place",
+              "correctFirst": true,
+              "why": "Governments often step in when a big bank is in trouble. Neighbors step in when a family needs help. A new buyer could step in and try to save David Jones."
+            },
+            {
+              "display": "laid off",
+              "base": "lay off",
+              "correct": "To end workers' jobs to save money",
+              "wrong": "To move workers to a new store",
+              "correctFirst": false,
+              "why": "Factories lay off workers when orders fall. Companies often lay off staff in hard times. Thousands of David Jones workers could be laid off."
+            }
+          ]
+        },
+        {
+          "text": "The union for [[retail workers]] wants to {{hold on to}} as many jobs as possible. Its leader said a smaller David Jones is better than seeing the chain {{go under}}. An expert at a consumer website told shoppers to {{use up}} their [[gift cards]] quickly. He said the cards will almost certainly be [[worthless]] if no buyer is found. A retail expert at an Australian university said the chain must {{bring back}} good [[customer service]].",
+          "verbs": [
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something you could lose",
+              "wrong": "To divide something among people",
+              "correctFirst": true,
+              "why": "Good bosses try to hold on to their best workers. Families try to hold on to their homes when money is short. The union wants to hold on to as many jobs as possible."
+            },
+            {
+              "display": "go under",
+              "base": "go under",
+              "correct": "To fail and stop doing business",
+              "wrong": "To move the main office abroad",
+              "correctFirst": false,
+              "why": "Many small restaurants go under in their first year. Stores go under when customers stop coming. The union's leader does not want to see David Jones go under."
+            },
+            {
+              "display": "use up",
+              "base": "use up",
+              "correct": "To spend all of something",
+              "wrong": "To sell something to a friend",
+              "correctFirst": true,
+              "why": "Many people use up their vacation days in December. Families use up their savings when prices rise fast. An expert at a consumer website told shoppers to use up their David Jones gift cards quickly."
+            },
+            {
+              "display": "bring back",
+              "base": "bring back",
+              "correct": "To make something exist again",
+              "wrong": "To ask customers to pay more",
+              "correctFirst": false,
+              "why": "Some restaurants bring back old favorites every winter. Some towns bring back old street fairs. A retail expert said David Jones must bring back good customer service."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Grow up",
+          "def": "To change from a child to an adult",
+          "ipa": "/ɡroʊ ʌp/",
+          "ex": [
+            "She grew up in a small town in Ohio.",
+            "My kids are growing up so fast.",
+            "I grew up with three older brothers."
+          ]
+        },
+        {
+          "verb": "Call in",
+          "def": "To ask experts to come and help",
+          "ipa": "/kɔl ɪn/",
+          "ex": [
+            "The city called in engineers to check the bridge.",
+            "We had to call in a specialist for the old computer system.",
+            "The company called in a safety expert after the accident."
+          ]
+        },
+        {
+          "verb": "Pile up",
+          "def": "To keep growing until it is large",
+          "ipa": "/paɪl ʌp/",
+          "ex": [
+            "The work piled up while I was sick.",
+            "Unpaid bills are piling up on his desk.",
+            "Her credit card debt piled up after college."
+          ]
+        },
+        {
+          "verb": "Fall behind",
+          "def": "To be late paying money you owe",
+          "ipa": "/fɔl bɪˈhaɪnd/",
+          "ex": [
+            "We fell behind on our car payments last winter.",
+            "If you fall behind on your rent, talk to your landlord.",
+            "He fell behind on his credit card bills."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To fail because people cannot agree",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "The talks broke down after two days.",
+            "Their contract talks broke down over pay.",
+            "Negotiations broke down because neither side would move."
+          ]
+        },
+        {
+          "verb": "Turn down",
+          "def": "To say no to an offer",
+          "ipa": "/tɜrn daʊn/",
+          "ex": [
+            "She turned down the job in Chicago.",
+            "They turned down our offer on the house.",
+            "He turned down the money because it was too little."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To get control of a business",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "A larger bank took over the small one in June.",
+            "Her sister took over the family restaurant.",
+            "A new company will take over the airline next year."
+          ]
+        },
+        {
+          "verb": "Turn around",
+          "def": "To make a failing business do well",
+          "ipa": "/tɜrn əˈraʊnd/",
+          "ex": [
+            "The new manager turned the store around in two years.",
+            "She was hired to turn the company around.",
+            "It takes time to turn around a business that loses money."
+          ]
+        },
+        {
+          "verb": "Step in",
+          "def": "To become involved and help",
+          "ipa": "/stɛp ɪn/",
+          "ex": [
+            "The city stepped in to save the old theater.",
+            "A local bank stepped in with a loan.",
+            "Her uncle stepped in when the family needed money."
+          ]
+        },
+        {
+          "verb": "Lay off",
+          "def": "To end workers' jobs to save money",
+          "ipa": "/leɪ ɔf/",
+          "ex": [
+            "My brother was laid off last spring.",
+            "The factory laid off 200 people in March.",
+            "The company laid off half of its office staff."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something you could lose",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "The team wants to hold on to its best player.",
+            "Try to hold on to your savings when prices rise.",
+            "She held on to her job when others lost theirs."
+          ]
+        },
+        {
+          "verb": "Go under",
+          "def": "To fail and stop doing business",
+          "ipa": "/ɡoʊ ˈʌndər/",
+          "ex": [
+            "The bakery went under after two bad years.",
+            "Their airline went under in 2019.",
+            "Without a loan, the farm could go under."
+          ]
+        },
+        {
+          "verb": "Use up",
+          "def": "To spend all of something",
+          "ipa": "/juz ʌp/",
+          "ex": [
+            "We used up all our vacation days by June.",
+            "He used up his phone data in a week.",
+            "Use up your coupons before they expire."
+          ]
+        },
+        {
+          "verb": "Bring back",
+          "def": "To make something exist again",
+          "ipa": "/brɪŋ bæk/",
+          "ex": [
+            "The coffee shop brought back its old menu.",
+            "The school wants to bring back music classes.",
+            "The city brought back its summer concerts after ten years."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "department store",
+          "def": "A large store that sells clothes, home goods and many other things",
+          "ipa": "/dɪˈpɑrtmənt stɔr/",
+          "ex": [
+            "We bought a new coat at the department store.",
+            "The department store has a toy section on the fourth floor.",
+            "My aunt worked at a department store for twenty years."
+          ]
+        },
+        {
+          "word": "banquet",
+          "def": "A large formal dinner for many people",
+          "ipa": "/ˈbæŋkwɪt/",
+          "ex": [
+            "The school held a banquet for its best athletes.",
+            "The mayor gave a short speech at the banquet.",
+            "The hotel can serve a banquet for 300 guests."
+          ]
+        },
+        {
+          "word": "window displays",
+          "def": "Goods arranged in store windows so people on the street can see them",
+          "ipa": "/ˈwɪndoʊ dɪˈspleɪz/",
+          "ex": [
+            "The shoe store changes its window displays every month.",
+            "We walked downtown to look at the window displays.",
+            "Bright window displays bring more people into a store."
+          ]
+        },
+        {
+          "word": "administrators",
+          "def": "Outside experts who try to save or sell a company in trouble",
+          "ipa": "/ədˈmɪnəˌstreɪtərz/",
+          "ex": [
+            "The court named two administrators to run the failing airline.",
+            "The administrators found a buyer for the old factory.",
+            "Workers met the administrators to ask about their pay."
+          ]
+        },
+        {
+          "word": "traditional stores",
+          "def": "Real stores in buildings that people visit, not websites",
+          "ipa": "/trəˈdɪʃənəl stɔrz/",
+          "ex": [
+            "Some people still prefer traditional stores to websites.",
+            "Traditional stores let you try clothes on before you pay.",
+            "Many traditional stores also sell their goods online."
+          ]
+        },
+        {
+          "word": "Steep losses",
+          "def": "Very large amounts of money that a business loses",
+          "ipa": "/stip ˈlɔsɪz/",
+          "ex": [
+            "The airline reported steep losses after fuel prices rose.",
+            "Steep losses forced the company to sell two factories.",
+            "Investors worry about steep losses at the car maker."
+          ]
+        },
+        {
+          "word": "landlord",
+          "def": "A person or company that owns a place and rents it to others",
+          "ipa": "/ˈlændˌlɔrd/",
+          "ex": [
+            "Our landlord raised the rent by 50 dollars.",
+            "Call the landlord if the heat stops working.",
+            "My landlord lives on the first floor of the building."
+          ]
+        },
+        {
+          "word": "shopping malls",
+          "def": "Large buildings with many stores inside",
+          "ipa": "/ˈʃɑpɪŋ mɔlz/",
+          "ex": [
+            "Teenagers often meet friends at shopping malls.",
+            "Many shopping malls in our state are half empty.",
+            "Shopping malls get very busy before Christmas."
+          ]
+        },
+        {
+          "word": "generous offer",
+          "def": "An offer that gives more than people expect",
+          "ipa": "/ˈdʒɛnərəs ˈɔfər/",
+          "ex": [
+            "The company made him a generous offer to stay.",
+            "They received a generous offer for their old house.",
+            "It was a generous offer, so she said yes right away."
+          ]
+        },
+        {
+          "word": "investment company",
+          "def": "A company that buys businesses or other things to make money",
+          "ipa": "/ɪnˈvɛstmənt ˈkʌmpəni/",
+          "ex": [
+            "An investment company bought the old hotel downtown.",
+            "She works for an investment company in Boston.",
+            "The investment company sold the farm for a big profit."
+          ]
+        },
+        {
+          "word": "lender",
+          "def": "A bank or company that lends money",
+          "ipa": "/ˈlɛndər/",
+          "ex": [
+            "Our lender wants the first payment in March.",
+            "Compare the rates of more than one lender before you borrow.",
+            "The lender agreed to give the farmer more time."
+          ]
+        },
+        {
+          "word": "receivers",
+          "def": "Experts chosen by a lender to run a company in trouble",
+          "ipa": "/rɪˈsivərz/",
+          "ex": [
+            "The bank chose receivers to run the failing hotel.",
+            "The receivers sold two of the factories in June.",
+            "Workers asked the receivers about their missing pay."
+          ]
+        },
+        {
+          "word": "store closures",
+          "def": "When a company closes stores and does not open them again",
+          "ipa": "/stɔr ˈkloʊʒərz/",
+          "ex": [
+            "The grocery chain announced ten store closures in Texas.",
+            "Store closures left many downtown buildings empty.",
+            "Low sales led to store closures across the region."
+          ]
+        },
+        {
+          "word": "retail workers",
+          "def": "People whose job is to sell goods in stores",
+          "ipa": "/ˈriteɪl ˈwɜrkərz/",
+          "ex": [
+            "Retail workers are very busy in December.",
+            "Many retail workers stand all day.",
+            "The new law gives retail workers more notice of their schedules."
+          ]
+        },
+        {
+          "word": "gift cards",
+          "def": "Cards with money on them to spend at a certain store",
+          "ipa": "/ɡɪft kɑrdz/",
+          "ex": [
+            "I gave my nephew two gift cards for his birthday.",
+            "Many people buy gift cards in December.",
+            "Some gift cards can only be used online."
+          ]
+        },
+        {
+          "word": "worthless",
+          "def": "Having no value at all",
+          "ipa": "/ˈwɜrθləs/",
+          "ex": [
+            "These old coins are worthless.",
+            "A check from a closed account is worthless.",
+            "The stock became worthless when the company failed."
+          ]
+        },
+        {
+          "word": "customer service",
+          "def": "The help a company gives to people who buy from it",
+          "ipa": "/ˈkʌstəmər ˈsɜrvɪs/",
+          "ex": [
+            "I called customer service about my broken phone.",
+            "That hotel is known for its great customer service.",
+            "Good customer service keeps people coming to a store."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Australia's oldest department store has called in outside experts after years of losses and unpaid rent. Its doors remain open for now, but closures are expected and thousands of jobs are at risk.",
+          "a": true,
+          "why": "Losses piled up and the chain fell behind on its rent, so its leaders called in administrators. Stores are open, but thousands of workers could be laid off."
+        },
+        {
+          "s": "A famous Australian retailer asked for help after its landlord suddenly raised the rent. The owners accepted a rescue deal from the landlord, but experts still expect some stores to close.",
+          "a": false,
+          "why": "Close, but the problem was not a sudden rent increase. The chain fell behind on its rent, and the landlord said the owners turned its offer down."
+        },
+        {
+          "s": "David Jones will open a large new location in Sydney to mark 188 years in business. The company plans to hire more staff next year and create bigger Christmas windows for visiting families.",
+          "a": false,
+          "why": "Nothing new is opening. David Jones called in administrators, and a team of receivers has taken over daily control of the business."
+        }
+      ],
+      "tf": [
+        {
+          "s": "David Jones called in outside experts after years of heavy losses.",
+          "a": true,
+          "why": "Steep losses piled up for years. On November 5, 2026, the chain's leaders called in administrators, who try to save or sell a company in trouble."
+        },
+        {
+          "s": "The chain has closed all of its stores and its website.",
+          "a": false,
+          "why": "The stores and the website remain open, even though receivers have taken over daily control of the business."
+        },
+        {
+          "s": "David Jones fell behind on the rent it owed its main landlord.",
+          "a": true,
+          "why": "The chain fell behind on its rent, and talks with the owner of many shopping malls broke down."
+        },
+        {
+          "s": "The landlord turned down a rescue offer from the chain's owners.",
+          "a": false,
+          "why": "It was the other way. The landlord said it made a generous offer, and the chain's owners turned it down."
+        },
+        {
+          "s": "Thousands of David Jones workers could be laid off.",
+          "a": true,
+          "why": "The chain has about 6,000 workers. Business experts expect store closures, and the union wants to hold on to as many jobs as possible."
+        },
+        {
+          "s": "An expert at a consumer website told shoppers to save gift cards for later.",
+          "a": false,
+          "why": "He told shoppers to use up their gift cards quickly. He said the cards will almost certainly be worthless if no buyer is found."
+        }
+      ]
+    },
     {
       "id": "tame-foxes-brain-2026",
       "number": 206,
