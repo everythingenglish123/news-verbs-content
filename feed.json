@@ -2,6 +2,544 @@
   "updated": "2026-11-06",
   "stories": [
     {
+      "id": "swift-telescope-falls-2026",
+      "number": 210,
+      "headline": "NASA's Swift telescope falls to Earth after 22 years",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n210-swift-telescope-falls-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "NASA's Swift Observatory Re-Entered Atmosphere (NASA)",
+          "url": "https://science.nasa.gov/blogs/swift/2026/11/02/nasas-swift-observatory-to-re-enter-atmosphere/"
+        },
+        {
+          "title": "3,200-pound space telescope plunges back to Earth after 22 years in orbit (CBS News)",
+          "url": "https://www.cbsnews.com/news/swift-observatory-plunges-back-to-earth/"
+        },
+        {
+          "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt (Space.com)",
+          "url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth"
+        },
+        {
+          "title": "A storied NASA observatory could be weeks away from falling to Earth after failed rescue attempt (CNN via KRDO)",
+          "url": "https://krdo.com/cnn-other/2026/09/30/a-storied-nasa-observatory-could-be-weeks-away-from-falling-to-earth-after-failed-rescue-attempt/"
+        },
+        {
+          "title": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission (The Guardian)",
+          "url": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "NASA's Swift space telescope was built to work for just two years. It {{held up}} for almost 22 years. On November 4, 2026, it fell from [[orbit]], its path around Earth. The U.S. Space Force [[confirmed]] that it {{came down}} over the North Sumatra region of Indonesia. NASA expected most of the 3,200-pound telescope to {{burn up}} high above Earth. Some pieces may have [[survived]] the fall.",
+          "verbs": [
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To keep working well over time",
+              "wrong": "To change direction in space",
+              "correctFirst": true,
+              "why": "Good boots hold up for many years. Cheap phones rarely hold up after a few falls. Swift was built to work for just two years, but it held up for almost 22 years."
+            },
+            {
+              "display": "came down",
+              "base": "come down",
+              "correct": "To fall from the sky",
+              "wrong": "To circle Earth once more",
+              "correctFirst": false,
+              "why": "Snow comes down all night in the mountains. Old weather balloons come down in empty fields. The telescope came down over the North Sumatra region of Indonesia."
+            },
+            {
+              "display": "burn up",
+              "base": "burn up",
+              "correct": "To be destroyed by great heat",
+              "wrong": "To send a last signal to Earth",
+              "correctFirst": true,
+              "why": "Most small space rocks burn up in the air. Old papers burn up quickly in a hot fire. NASA expected most of the telescope to burn up high above Earth."
+            }
+          ]
+        },
+        {
+          "text": "Swift, a machine with three telescopes [[on board]], {{blasted off}} in November 2004. Its main job was to study gamma-ray bursts, the most [[powerful explosions]] in space. Some [[bursts]] last less than a second, so speed [[mattered]]. Swift could {{zero in on}} a burst's spot in about a minute, before its glow was gone. It {{picked up}} more than 2,000 bursts and studied 1,400 stars that {{blew up}}. It [[alerted]] other telescopes to take a closer look.",
+          "verbs": [
+            {
+              "display": "blasted off",
+              "base": "blast off",
+              "correct": "To leave the ground at great speed",
+              "wrong": "To circle the moon and return home",
+              "correctFirst": false,
+              "why": "The astronauts blast off at dawn. Rockets blast off from this site every month. Swift blasted off in November 2004 with three telescopes on board."
+            },
+            {
+              "display": "zero in on",
+              "base": "zero in on",
+              "correct": "To find one exact spot and aim there",
+              "wrong": "To fly quickly past a small star",
+              "correctFirst": true,
+              "why": "Security cameras zero in on the front door. The news camera zeroes in on the winner. Swift could zero in on a burst's spot in about a minute."
+            },
+            {
+              "display": "picked up",
+              "base": "pick up",
+              "correct": "To find a signal using equipment",
+              "wrong": "To send a warning to scientists",
+              "correctFirst": false,
+              "why": "My old radio picks up stations from far away. This phone picks up a signal almost everywhere. Swift picked up more than 2,000 gamma-ray bursts."
+            },
+            {
+              "display": "blew up",
+              "base": "blow up",
+              "correct": "To explode with great force",
+              "wrong": "To circle a distant black hole",
+              "correctFirst": true,
+              "why": "Old gas tanks sometimes blow up in a fire. Fireworks blow up high in the sky. Swift studied 1,400 stars that blew up."
+            }
+          ]
+        },
+        {
+          "text": "[[Thin air]] high above Earth pulled Swift lower for years. Strong activity on the sun made that air spread higher and {{sped up}} the fall. In 2025, NASA hired a [[private company]] to save the telescope. In July 2026, the company {{sent up}} a robot [[spacecraft]] to push Swift higher. The robot soon {{ran into}} trouble and began to spin [[out of control]]. Fixing that problem {{used up}} the fuel it needed for the [[rescue]]. In August 2026, NASA and the company {{called off}} the rescue.",
+          "verbs": [
+            {
+              "display": "sped up",
+              "base": "speed up",
+              "correct": "To make something happen faster",
+              "wrong": "To make a machine easier to fix",
+              "correctFirst": false,
+              "why": "Warm weather speeds up plant growth. A new computer speeds up my work. Strong activity on the sun sped up the telescope's fall."
+            },
+            {
+              "display": "sent up",
+              "base": "send up",
+              "correct": "To launch something high in the sky",
+              "wrong": "To test something on the ground",
+              "correctFirst": true,
+              "why": "The weather service sends up balloons every day. The space agency sends up a new satellite each year. In July 2026, the company sent up a robot spacecraft to push Swift higher."
+            },
+            {
+              "display": "ran into",
+              "base": "run into",
+              "correct": "To suddenly have a problem",
+              "wrong": "To hire a new business partner",
+              "correctFirst": false,
+              "why": "Small companies often run into money problems. New drivers run into trouble on icy roads. The robot soon ran into trouble and began to spin out of control."
+            },
+            {
+              "display": "used up",
+              "base": "use up",
+              "correct": "To finish all of a supply",
+              "wrong": "To check how much is left",
+              "correctFirst": true,
+              "why": "Long video calls use up my phone battery. We use up all the milk in two days. Fixing the robot's problem used up the fuel it needed for the rescue."
+            },
+            {
+              "display": "called off",
+              "base": "call off",
+              "correct": "To decide that something will not happen",
+              "wrong": "To give a rescue team a new date",
+              "correctFirst": false,
+              "why": "Schools call off classes when the snow is heavy. Teams call off games in bad storms. In August 2026, NASA and the company called off the rescue."
+            }
+          ]
+        },
+        {
+          "text": "Swift {{wrapped up}} its last science work on October 20, 2026. NASA had put the [[odds]] of falling pieces hurting anyone at about 1 in 2,100. Such falls are common. A 2025 report found at least three large objects, such as [[dead satellites]], fall to Earth every day [[on average]]. NASA says the failed rescue taught [[useful lessons]]. Scientists are still trying to {{figure out}} how to [[replace]] Swift's work.",
+          "verbs": [
+            {
+              "display": "wrapped up",
+              "base": "wrap up",
+              "correct": "To finish a piece of work",
+              "wrong": "To study a new part of space",
+              "correctFirst": true,
+              "why": "Most teachers wrap up the lesson with a short quiz. Our team wraps up each meeting by noon. Swift wrapped up its last science work on October 20, 2026."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To find the answer to a problem",
+              "wrong": "To build a new kind of telescope",
+              "correctFirst": false,
+              "why": "Kids figure out new phones very fast. Good mechanics figure out what is wrong with a car. Scientists are still trying to figure out how to replace Swift's work."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Hold up",
+          "def": "To keep working well over time",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "This old truck still holds up on long trips.",
+            "Do these shoes hold up in the rain?",
+            "Her laptop held up for ten years."
+          ]
+        },
+        {
+          "verb": "Come down",
+          "def": "To fall from the sky",
+          "ipa": "/kʌm daʊn/",
+          "ex": [
+            "The rain came down all morning.",
+            "A small plane came down in a field, but no one was hurt.",
+            "Leaves come down from the trees in October."
+          ]
+        },
+        {
+          "verb": "Burn up",
+          "def": "To be destroyed by great heat",
+          "ipa": "/bɜrn ʌp/",
+          "ex": [
+            "The letter burned up in seconds.",
+            "Most falling stars burn up before they reach the ground.",
+            "The dry leaves burned up in the campfire."
+          ]
+        },
+        {
+          "verb": "Blast off",
+          "def": "To leave the ground at great speed",
+          "ipa": "/blæst ɔf/",
+          "ex": [
+            "We watched the rocket blast off on TV.",
+            "The crew will blast off from Florida.",
+            "The shuttle blasted off into a clear blue sky."
+          ]
+        },
+        {
+          "verb": "Zero in on",
+          "def": "To find one exact spot and aim there",
+          "ipa": "/ˈzɪroʊ ɪn ɑn/",
+          "ex": [
+            "The camera zeroed in on the bird's nest.",
+            "The search plane zeroed in on the small boat.",
+            "The photographer zeroed in on one face in the crowd."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To find a signal using equipment",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "Our TV picks up only three channels.",
+            "The microphone picked up every small sound.",
+            "The ship's radar picked up a storm far ahead."
+          ]
+        },
+        {
+          "verb": "Blow up",
+          "def": "To explode with great force",
+          "ipa": "/bloʊ ʌp/",
+          "ex": [
+            "The old bridge blew up during the war.",
+            "A gas leak can make a house blow up.",
+            "In the movie, the car blows up at the end."
+          ]
+        },
+        {
+          "verb": "Speed up",
+          "def": "To make something happen faster",
+          "ipa": "/spid ʌp/",
+          "ex": [
+            "This tool will speed up your homework.",
+            "More workers sped up the building project.",
+            "Online forms speed up the whole process."
+          ]
+        },
+        {
+          "verb": "Send up",
+          "def": "To launch something high in the sky",
+          "ipa": "/sɛnd ʌp/",
+          "ex": [
+            "They sent up a small rocket for the science fair.",
+            "The army sent up a balloon to study the wind.",
+            "China plans to send up more satellites next year."
+          ]
+        },
+        {
+          "verb": "Run into",
+          "def": "To suddenly have a problem",
+          "ipa": "/rʌn ˈɪntu/",
+          "ex": [
+            "We ran into problems with the new software.",
+            "She ran into trouble at the border.",
+            "The project ran into delays because of the weather."
+          ]
+        },
+        {
+          "verb": "Use up",
+          "def": "To finish all of a supply",
+          "ipa": "/juz ʌp/",
+          "ex": [
+            "I used up all my vacation days.",
+            "The kids used up the paper in one afternoon.",
+            "Heavy snow used up the town's supply of salt."
+          ]
+        },
+        {
+          "verb": "Call off",
+          "def": "To decide that something will not happen",
+          "ipa": "/kɔl ɔf/",
+          "ex": [
+            "They called off the wedding a week before the date.",
+            "The workers called off the strike.",
+            "The city called off the parade because of the wind."
+          ]
+        },
+        {
+          "verb": "Wrap up",
+          "def": "To finish a piece of work",
+          "ipa": "/ræp ʌp/",
+          "ex": [
+            "Let's wrap up this report before lunch.",
+            "She wrapped up her studies in June.",
+            "The doctors wrapped up the surgery in two hours."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To find the answer to a problem",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out this math problem.",
+            "We finally figured out why the sink was leaking.",
+            "Can you figure out how to open this box?"
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "orbit",
+          "def": "The curved path of an object around a planet or star",
+          "ipa": "/ˈɔrbɪt/",
+          "ex": [
+            "The moon stays in orbit around Earth.",
+            "It takes a year for Earth to finish one orbit of the sun.",
+            "Thousands of machines are now in orbit high above us."
+          ]
+        },
+        {
+          "word": "confirmed",
+          "def": "Said that something is true after checking it",
+          "ipa": "/kənˈfɜrmd/",
+          "ex": [
+            "The doctor confirmed that my arm was broken.",
+            "The airline confirmed that our flight was on time.",
+            "The hotel confirmed my room by email."
+          ]
+        },
+        {
+          "word": "survived",
+          "def": "Continued to exist after something dangerous",
+          "ipa": "/sərˈvaɪvd/",
+          "ex": [
+            "Only one old church survived the earthquake.",
+            "Her family photos survived the fire.",
+            "A few of the trees survived the long winter."
+          ]
+        },
+        {
+          "word": "on board",
+          "def": "On a ship, plane or other vehicle",
+          "ipa": "/ɑn bɔrd/",
+          "ex": [
+            "There were 200 people on board the plane.",
+            "No food is allowed on board this bus.",
+            "The ship had a doctor on board."
+          ]
+        },
+        {
+          "word": "powerful explosions",
+          "def": "Very strong and sudden bursts of energy",
+          "ipa": "/ˈpaʊərfəl ɪkˈsploʊʒənz/",
+          "ex": [
+            "Workers use powerful explosions to break rock in a mine.",
+            "Volcanoes can produce powerful explosions.",
+            "The movie is full of powerful explosions and fast cars."
+          ]
+        },
+        {
+          "word": "bursts",
+          "def": "Short and sudden events of energy or activity",
+          "ipa": "/bɜrsts/",
+          "ex": [
+            "The wind came in short bursts.",
+            "He works in bursts and then takes a long rest.",
+            "We heard bursts of laughter from the next room."
+          ]
+        },
+        {
+          "word": "mattered",
+          "def": "Was important",
+          "ipa": "/ˈmætərd/",
+          "ex": [
+            "Her opinion mattered to the whole team.",
+            "In that race, every second mattered.",
+            "Money never mattered much to my grandfather."
+          ]
+        },
+        {
+          "word": "alerted",
+          "def": "Quickly told someone about something important",
+          "ipa": "/əˈlɜrtɪd/",
+          "ex": [
+            "A neighbor alerted the police to the fire.",
+            "The app alerted me to the heavy rain.",
+            "The nurse alerted the doctor right away."
+          ]
+        },
+        {
+          "word": "Thin air",
+          "def": "Air with less gas in it, as on high mountains",
+          "ipa": "/θɪn ɛr/",
+          "ex": [
+            "Thin air makes it hard to breathe on a high mountain.",
+            "Climbers often feel tired in thin air.",
+            "Thin air can give visitors a headache in the mountains."
+          ]
+        },
+        {
+          "word": "spacecraft",
+          "def": "A vehicle or machine that travels in space",
+          "ipa": "/ˈspeɪsˌkræft/",
+          "ex": [
+            "The spacecraft took pictures of Mars.",
+            "A small spacecraft can cost millions of dollars.",
+            "Children love to draw a spacecraft with big windows."
+          ]
+        },
+        {
+          "word": "private company",
+          "def": "A business that is not owned by the government",
+          "ipa": "/ˈpraɪvət ˈkʌmpəni/",
+          "ex": [
+            "A private company runs the buses in our city.",
+            "She left the government for a job at a private company.",
+            "The town hired a private company to clean the park."
+          ]
+        },
+        {
+          "word": "out of control",
+          "def": "Not able to be stopped or guided",
+          "ipa": "/aʊt əv kənˈtroʊl/",
+          "ex": [
+            "The car slid out of control on the ice.",
+            "Prices are out of control this winter.",
+            "The fire was soon out of control."
+          ]
+        },
+        {
+          "word": "rescue",
+          "def": "An act of saving someone or something from danger",
+          "ipa": "/ˈrɛskju/",
+          "ex": [
+            "The rescue of the two hikers took six hours.",
+            "The dog's rescue made the evening news.",
+            "A helicopter came to help with the rescue."
+          ]
+        },
+        {
+          "word": "odds",
+          "def": "How likely it is that something will happen",
+          "ipa": "/ɑdz/",
+          "ex": [
+            "The odds of winning the lottery are very small.",
+            "What are the odds of rain on Saturday?",
+            "Doctors say the odds of a full recovery are good."
+          ]
+        },
+        {
+          "word": "dead satellites",
+          "def": "Machines in space that no longer work",
+          "ipa": "/dɛd ˈsætəˌlaɪts/",
+          "ex": [
+            "Dead satellites can stay in space for many years.",
+            "Engineers want to remove dead satellites from space.",
+            "Some dead satellites can still be seen at night."
+          ]
+        },
+        {
+          "word": "on average",
+          "def": "Usually, when you consider all the cases together",
+          "ipa": "/ɑn ˈævərɪdʒ/",
+          "ex": [
+            "I sleep seven hours a night on average.",
+            "On average, our bus is five minutes late.",
+            "Families here spend 200 dollars a week on food on average."
+          ]
+        },
+        {
+          "word": "useful lessons",
+          "def": "Helpful things that you learn from experience",
+          "ipa": "/ˈjusfəl ˈlɛsənz/",
+          "ex": [
+            "My first job taught me useful lessons about money.",
+            "We learned useful lessons from the failed project.",
+            "Losing a game can teach useful lessons."
+          ]
+        },
+        {
+          "word": "replace",
+          "def": "To put something new in the place of something old",
+          "ipa": "/rɪˈpleɪs/",
+          "ex": [
+            "We need to replace the old windows.",
+            "It costs a lot to replace a phone screen.",
+            "Nothing can replace a good night's sleep."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A NASA telescope built for two years kept working for almost 22, then fell from orbit in November 2026. A private rescue attempt had failed, and scientists still need a way to replace its work.",
+          "a": true,
+          "why": "Swift held up far longer than planned, then came down on November 4, 2026. The rescue was called off, and scientists are still trying to figure out how to replace its work."
+        },
+        {
+          "s": "Swift finally came down because a robot spacecraft crashed into it during a mission. NASA had planned to bring the old machine home so that engineers could study how it held up in space.",
+          "a": false,
+          "why": "Close, but the robot never touched Swift. Thin air and activity on the sun pulled the telescope lower, and the rescue was called off in August 2026."
+        },
+        {
+          "s": "NASA has launched a new telescope to search for gamma-ray bursts near distant galaxies. Engineers expect this modern observatory to start returning its first pictures early next spring.",
+          "a": false,
+          "why": "This is about an old telescope ending its work, not a new one starting. Swift wrapped up its last science work on October 20, 2026."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The Swift telescope held up for far longer than NASA planned.",
+          "a": true,
+          "why": "It was built to work for just two years, and it held up for almost 22 years."
+        },
+        {
+          "s": "The rescue mission saved Swift and pushed it to a higher orbit.",
+          "a": false,
+          "why": "The robot spacecraft ran into trouble, and NASA and the company called off the rescue."
+        },
+        {
+          "s": "NASA expected most of the telescope to burn up high above Earth.",
+          "a": true,
+          "why": "Most of it was expected to burn up, but some pieces may have survived."
+        },
+        {
+          "s": "Swift picked up very few of the bursts it was built to study.",
+          "a": false,
+          "why": "Swift picked up more than 2,000 gamma-ray bursts during its long life."
+        },
+        {
+          "s": "Strong activity on the sun slowed Swift's fall to Earth.",
+          "a": false,
+          "why": "Activity on the sun made thin air spread higher, and that sped up the fall."
+        },
+        {
+          "s": "Scientists are still trying to figure out how to replace Swift's work.",
+          "a": true,
+          "why": "Swift has stopped working, and scientists have to figure out how to do that job."
+        }
+      ]
+    },
+    {
       "id": "cane-toad-barrier-2026",
       "number": 209,
       "headline": "Australia plans a dry barrier to stop poisonous toads",
