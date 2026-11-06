@@ -2,6 +2,546 @@
   "updated": "2026-11-06",
   "stories": [
     {
+      "id": "dinosaur-red-blood-cells-2026",
+      "number": 211,
+      "headline": "Scientists may have found dinosaur blood cells in a bone",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n211-dinosaur-red-blood-cells-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Fossilised red blood cells found in 115m-year-old dinosaur's bone, say scientists (The Guardian)",
+          "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone"
+        },
+        {
+          "title": "Evidence of red blood cells seen in dinosaur fossil from Brazil (Reuters, via KFGO)",
+          "url": "https://kfgo.com/2026/11/02/evidence-of-red-blood-cells-seen-in-dinosaur-fossil-from-brazil/"
+        },
+        {
+          "title": "Incredible discovery of fossilized blood cells inside a dinosaur leg bone (New Atlas)",
+          "url": "https://newatlas.com/biology/fossilized-blood-cells-dinosaur-bone/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Scientists say they may have found [[red blood cells]] in the leg bone of a dinosaur that lived about 115 million years ago. The young [[meat-eating]] dinosaur's bone was {{dug up}} in a [[mine]] in northeastern Brazil in 2008. An international team {{laid out}} its [[evidence]] on November 2, 2026, in a [[science journal]]. When the team {{zoomed in}} with a powerful microscope, tiny round shapes {{showed up}} in [[narrow channels]] where [[blood vessels]] once ran.",
+          "verbs": [
+            {
+              "display": "dug up",
+              "base": "dig up",
+              "correct": "To remove something from under the ground",
+              "wrong": "To clean an old bone with a brush",
+              "correctFirst": true,
+              "why": "Workers dig up the old pipes under our street. Dogs dig up bones in the backyard. The dinosaur bone was dug up in a mine in northeastern Brazil in 2008."
+            },
+            {
+              "display": "laid out",
+              "base": "lay out",
+              "correct": "To explain something clearly",
+              "wrong": "To check a report for errors",
+              "correctFirst": false,
+              "why": "The coach lays out the plan before every game. Good teachers lay out the rules on the first day. An international team laid out its evidence in a science journal on November 2, 2026."
+            },
+            {
+              "display": "zoomed in",
+              "base": "zoom in",
+              "correct": "To make a small area look much bigger",
+              "wrong": "To take a small piece for testing",
+              "correctFirst": true,
+              "why": "You zoom in on a map to see the street names. Photographers zoom in to get a closer picture of a bird. The team zoomed in on the bone with a powerful microscope."
+            },
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To appear so that people can see it",
+              "wrong": "To grow slowly inside a bone",
+              "correctFirst": false,
+              "why": "Stars show up in the sky after dark. Coffee stains show up on a white shirt. Tiny round shapes showed up in narrow channels inside the bone."
+            }
+          ]
+        },
+        {
+          "text": "Soft parts of the body usually {{break down}} fast, so they are [[rarely]] found in [[fossils]], the remains of ancient life kept in rock. The team says these shapes are now made of [[minerals]], hard natural materials. Chemical tests {{came back}} [[positive]] for heme, the part of blood that holds [[iron]] and helps carry oxygen. The team says those results {{back up}} its blood cell idea. The team also says one mineral may have helped {{hold the shapes together}}.",
+          "verbs": [
+            {
+              "display": "break down",
+              "base": "break down",
+              "correct": "To rot until nothing is left",
+              "wrong": "To move deeper into the ground",
+              "correctFirst": true,
+              "why": "Fallen leaves break down in the soil over the winter. Food scraps break down fast in warm, wet places. Soft parts of the body usually break down fast, so they are rarely found in fossils."
+            },
+            {
+              "display": "came back",
+              "base": "come back",
+              "correct": "To return with a result",
+              "wrong": "To be sent to a different lab",
+              "correctFirst": false,
+              "why": "Most lab tests come back within a week. My test results usually come back on Friday. Chemical tests on the bone came back positive for heme."
+            },
+            {
+              "display": "back up",
+              "base": "back up",
+              "correct": "To support an idea with evidence",
+              "wrong": "To print an idea in a journal",
+              "correctFirst": true,
+              "why": "The numbers back up her story. Good students back up their ideas with facts. The team says the chemical results back up its blood cell idea."
+            },
+            {
+              "display": "hold the shapes together",
+              "base": "hold together",
+              "correct": "To keep something in one piece",
+              "wrong": "To move something to a new place",
+              "correctFirst": false,
+              "why": "Glue holds the pages of a book together. Thread holds the two pieces of cloth together. The team also says one mineral may have helped hold the shapes together."
+            }
+          ]
+        },
+        {
+          "text": "The study has {{stirred up}} [[debate]]. A leading dinosaur expert at North Carolina State University, in the U.S., is [[not convinced]]. She says dinosaur blood cells should be thicker in the middle. These shapes [[curve inward]], so she says they could {{turn out}} to be something else. She finds the chemical signs more convincing. The team cannot completely {{rule out}} microbes, tiny living things, as a source of the heme.",
+          "verbs": [
+            {
+              "display": "stirred up",
+              "base": "stir up",
+              "correct": "To cause arguments among people",
+              "wrong": "To test an idea a second time",
+              "correctFirst": true,
+              "why": "New rules often stir up arguments at school. Political posts stir up arguments online. The study has stirred up debate among scientists."
+            },
+            {
+              "display": "turn out",
+              "base": "turn out",
+              "correct": "To be found to be something later",
+              "wrong": "To stay hidden for a very long time",
+              "correctFirst": false,
+              "why": "Many strange noises turn out to be the wind. Some rumors turn out to be false. An American expert says the round shapes could turn out to be something else."
+            },
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To decide that something is not possible",
+              "wrong": "To show that something is very common",
+              "correctFirst": true,
+              "why": "Doctors rule out serious problems with a few simple tests. Police rule out theft when nothing is missing. The team says it cannot completely rule out microbes as a source of the heme."
+            }
+          ]
+        },
+        {
+          "text": "The lead scientist, at a university in Australia, {{points out}} that the team did not find dinosaur DNA. \"We have not found a [[vial]] of dinosaur blood,\" she said. This is not the [[plot]] of Jurassic Park, the movie where scientists {{bring dinosaurs back}} with old DNA. If the finding is [[confirmed]], researchers could {{figure out}} more about how active dinosaurs were. The lead scientist says more chemical [[clues]] may be waiting in museum fossils.",
+          "verbs": [
+            {
+              "display": "points out",
+              "base": "point out",
+              "correct": "To tell people an important fact",
+              "wrong": "To guess a fact without any proof",
+              "correctFirst": false,
+              "why": "My doctor points out that sleep matters. Teachers point out that practice helps. The lead scientist points out that the team did not find dinosaur DNA."
+            },
+            {
+              "display": "bring dinosaurs back",
+              "base": "bring back",
+              "correct": "To make an extinct animal live again",
+              "wrong": "To study an old bone very closely",
+              "correctFirst": true,
+              "why": "Some scientists want to bring back the woolly mammoth, an extinct animal that no longer lives anywhere. No lab can bring back an extinct animal without its DNA. In the movie Jurassic Park, scientists bring dinosaurs back with old DNA."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To learn something by studying it",
+              "wrong": "To teach something to students",
+              "correctFirst": false,
+              "why": "Mechanics figure out what is wrong with a car. Students figure out the answer by testing their ideas. If the finding is confirmed, researchers could figure out how active dinosaurs were."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Dig up",
+          "def": "To remove something from under the ground",
+          "ipa": "/dɪɡ ʌp/",
+          "ex": [
+            "The workers dug up an old pipe under the road.",
+            "We dug up the old tree roots in the yard.",
+            "Police dug up a metal box behind the house."
+          ]
+        },
+        {
+          "verb": "Lay out",
+          "def": "To explain something clearly",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "The mayor laid out her plan for the new park.",
+            "Can you lay out your reasons in a short email?",
+            "The report lays out the costs of the new road."
+          ]
+        },
+        {
+          "verb": "Zoom in",
+          "def": "To make a small area look much bigger",
+          "ipa": "/zum ɪn/",
+          "ex": [
+            "Zoom in on the photo so we can read the sign.",
+            "I zoomed in on the map to find our hotel.",
+            "The camera zooms in on the singer's face."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear so that people can see it",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The scratch doesn't show up in photos.",
+            "Dust shows up easily on black furniture.",
+            "A small spot showed up on the X-ray."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To rot until nothing is left",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "A fallen tree takes many years to break down.",
+            "Old paper breaks down in wet weather.",
+            "These paper bags break down in a few months."
+          ]
+        },
+        {
+          "verb": "Come back",
+          "def": "To return with a result",
+          "ipa": "/kʌm bæk/",
+          "ex": [
+            "Her blood test came back normal.",
+            "When will the results come back?",
+            "The lab results came back on Monday."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To support an idea with evidence",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "Do you have any facts to back up that idea?",
+            "The photos back up what she told the police.",
+            "New data backs up the doctor's advice."
+          ]
+        },
+        {
+          "verb": "Hold together",
+          "def": "To keep something in one piece",
+          "ipa": "/hoʊld təˈɡɛðər/",
+          "ex": [
+            "A single screw holds the old chair together.",
+            "Tape held the torn map together.",
+            "This glue holds the broken cup together."
+          ]
+        },
+        {
+          "verb": "Stir up",
+          "def": "To cause arguments among people",
+          "ipa": "/stɜr ʌp/",
+          "ex": [
+            "The vote stirred up arguments among the neighbors.",
+            "A single email stirred up a fight in the office.",
+            "That TV show stirred up debate in many homes."
+          ]
+        },
+        {
+          "verb": "Turn out",
+          "def": "To be found to be something later",
+          "ipa": "/tɜrn aʊt/",
+          "ex": [
+            "The noise turned out to be a cat.",
+            "The stranger turned out to be my cousin.",
+            "The old ring turned out to be gold."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To decide that something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctor ruled out a broken arm.",
+            "We can't rule out rain on Saturday.",
+            "Firefighters have ruled out a gas leak."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people an important fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out that the store closes at six.",
+            "My dad pointed out that we had enough money already.",
+            "The guide pointed out that the bridge is very old."
+          ]
+        },
+        {
+          "verb": "Bring back",
+          "def": "To make an extinct animal live again",
+          "ipa": "/brɪŋ bæk/",
+          "ex": [
+            "Some scientists want to bring back the woolly mammoth.",
+            "Extinct animals no longer live anywhere, but one lab hopes to bring them back.",
+            "Bird lovers want to bring back the dodo, an extinct bird."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To learn something by studying it",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I finally figured out how to use the new phone.",
+            "We need to figure out why the printer stopped.",
+            "Doctors are trying to figure out what caused the illness."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "red blood cells",
+          "def": "Tiny parts of blood that carry oxygen around the body",
+          "ipa": "/rɛd blʌd sɛlz/",
+          "ex": [
+            "Red blood cells need iron to work well.",
+            "A simple blood test counts your red blood cells.",
+            "Our bodies make new red blood cells every day."
+          ]
+        },
+        {
+          "word": "mine",
+          "def": "A place where people dig rock or metal out of the ground",
+          "ipa": "/maɪn/",
+          "ex": [
+            "My grandfather worked in a coal mine.",
+            "The mine closed in the 1990s.",
+            "The town grew around a gold mine."
+          ]
+        },
+        {
+          "word": "meat-eating",
+          "def": "Living by eating other animals",
+          "ipa": "/ˈmitˌitɪŋ/",
+          "ex": [
+            "Lions are meat-eating animals.",
+            "A large meat-eating fish lives in this river.",
+            "Most meat-eating birds have sharp claws."
+          ]
+        },
+        {
+          "word": "evidence",
+          "def": "Facts or things that show something is true",
+          "ipa": "/ˈɛvədəns/",
+          "ex": [
+            "The police need more evidence to make an arrest.",
+            "There is no evidence that this diet works.",
+            "Her notes were good evidence that she did the work."
+          ]
+        },
+        {
+          "word": "science journal",
+          "def": "A serious magazine where researchers publish their work",
+          "ipa": "/ˈsaɪəns ˈdʒɜrnəl/",
+          "ex": [
+            "Her research appeared in a science journal last spring.",
+            "Our library has a science journal about the ocean.",
+            "A science journal asks experts to check each study."
+          ]
+        },
+        {
+          "word": "narrow channels",
+          "def": "Long, thin spaces that something can move through",
+          "ipa": "/ˈnæroʊ ˈtʃænəlz/",
+          "ex": [
+            "Water runs through narrow channels in the rock.",
+            "Narrow channels carry rainwater under the road.",
+            "Small boats use the narrow channels between the islands."
+          ]
+        },
+        {
+          "word": "blood vessels",
+          "def": "Tubes that carry blood around the body",
+          "ipa": "/blʌd ˈvɛsəlz/",
+          "ex": [
+            "Exercise keeps your blood vessels healthy.",
+            "Smoking can damage blood vessels.",
+            "Tiny blood vessels run through your eyes."
+          ]
+        },
+        {
+          "word": "rarely",
+          "def": "Not often",
+          "ipa": "/ˈrɛrli/",
+          "ex": [
+            "My uncle rarely eats breakfast.",
+            "It rarely snows in this part of Texas.",
+            "She rarely misses a day of work."
+          ]
+        },
+        {
+          "word": "fossils",
+          "def": "Remains of ancient plants or animals kept in rock",
+          "ipa": "/ˈfɑsəlz/",
+          "ex": [
+            "The children found small fossils on the beach.",
+            "The museum has fossils of ancient fish.",
+            "These fossils show what the plant looked like."
+          ]
+        },
+        {
+          "word": "minerals",
+          "def": "Natural hard materials found in rock and soil",
+          "ipa": "/ˈmɪnərəlz/",
+          "ex": [
+            "Rocks are made of different minerals.",
+            "This river water is full of minerals.",
+            "The company digs for valuable minerals in the desert."
+          ]
+        },
+        {
+          "word": "positive",
+          "def": "Showing that something, such as an illness, is present",
+          "ipa": "/ˈpɑzətɪv/",
+          "ex": [
+            "His flu test was positive.",
+            "Two players had positive tests before the game.",
+            "The first test was positive, so the doctor ordered another."
+          ]
+        },
+        {
+          "word": "iron",
+          "def": "A common metal that the body needs in small amounts",
+          "ipa": "/ˈaɪərn/",
+          "ex": [
+            "Red meat has a lot of iron.",
+            "Her doctor told her to get more iron.",
+            "Spinach is a good source of iron."
+          ]
+        },
+        {
+          "word": "debate",
+          "def": "A discussion in which people disagree",
+          "ipa": "/dɪˈbeɪt/",
+          "ex": [
+            "The new school rule caused a long debate.",
+            "There is a debate about the best time to start work.",
+            "The city council held a debate on bus fares."
+          ]
+        },
+        {
+          "word": "not convinced",
+          "def": "Not sure that something is true",
+          "ipa": "/nɑt kənˈvɪnst/",
+          "ex": [
+            "I am not convinced that this plan will work.",
+            "Her parents were not convinced by her reasons.",
+            "The judge was not convinced that he told the truth."
+          ]
+        },
+        {
+          "word": "curve inward",
+          "def": "To bend toward the middle",
+          "ipa": "/kɜrv ˈɪnwərd/",
+          "ex": [
+            "The sides of this bowl curve inward at the top.",
+            "The walls of the old tower curve inward.",
+            "The edges of the leaf curve inward when it is dry."
+          ]
+        },
+        {
+          "word": "vial",
+          "def": "A small glass tube for liquids",
+          "ipa": "/ˈvaɪəl/",
+          "ex": [
+            "The nurse filled a vial with blood.",
+            "The lab keeps each vial in a cold room.",
+            "She dropped a vial of medicine on the floor."
+          ]
+        },
+        {
+          "word": "plot",
+          "def": "The events that make the story of a movie or book",
+          "ipa": "/plɑt/",
+          "ex": [
+            "The plot of that movie was hard to follow.",
+            "I liked the actors more than the plot.",
+            "The book has a simple plot about two sisters."
+          ]
+        },
+        {
+          "word": "confirmed",
+          "def": "Shown to be true",
+          "ipa": "/kənˈfɜrmd/",
+          "ex": [
+            "Our flight time was confirmed by email.",
+            "Once the date is confirmed, I will call you.",
+            "The news was confirmed by the mayor's office."
+          ]
+        },
+        {
+          "word": "clues",
+          "def": "Small facts that help you understand something",
+          "ipa": "/kluz/",
+          "ex": [
+            "The detective found two clues in the kitchen.",
+            "Your symptoms give the doctor clues about the illness.",
+            "Old letters gave us clues about our family."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Researchers report what may be blood cells and chemical signs of blood in an ancient dinosaur bone from Brazil. Another expert has doubts about the shapes, and the team did not find any DNA.",
+          "a": true,
+          "why": "Round shapes showed up in the bone and tests came back positive for heme. A U.S. expert says the shapes could turn out to be something else."
+        },
+        {
+          "s": "A team studying fossil material thinks small round forms in a very old leg bone may be dinosaur cells. One critic accepts their shape as correct, but she says the lab tests for heme were failures.",
+          "a": false,
+          "why": "Close, but the critic doubts the shape of the cells. She finds the chemical signs more convincing, and the tests came back positive for heme."
+        },
+        {
+          "s": "Miners in South America have found a nearly complete skeleton of a giant plant eater. The national museum plans to show it to visitors next year after workers clean and repair each piece.",
+          "a": false,
+          "why": "The news is about possible blood cells in one leg bone. It was dug up in 2008, and the team laid out its evidence in a science journal."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The team found dinosaur DNA in the bone.",
+          "a": false,
+          "why": "The lead scientist points out that the team did not find dinosaur DNA."
+        },
+        {
+          "s": "Tiny round shapes showed up inside a dinosaur's leg bone.",
+          "a": true,
+          "why": "The team saw the shapes with a powerful microscope, in channels where blood vessels once ran."
+        },
+        {
+          "s": "A U.S. dinosaur expert is sure the shapes are real blood cells.",
+          "a": false,
+          "why": "She is not convinced. She says the shapes curve inward, so they could turn out to be something else."
+        },
+        {
+          "s": "Chemical tests came back positive for heme, a part of blood.",
+          "a": true,
+          "why": "Heme holds iron and helps carry oxygen. The team says these results back up its idea."
+        },
+        {
+          "s": "The team has ruled out microbes as a source of the heme.",
+          "a": false,
+          "why": "The team says it cannot completely rule out microbes, so the source of the heme is still open to question."
+        },
+        {
+          "s": "The study has stirred up debate among scientists.",
+          "a": true,
+          "why": "One leading expert doubts the shapes are blood cells, even though she finds the chemical signs more convincing."
+        }
+      ]
+    },
+    {
       "id": "swift-telescope-falls-2026",
       "number": 210,
       "headline": "NASA's Swift telescope falls to Earth after 22 years",
