@@ -2,6 +2,522 @@
   "updated": "2026-11-07",
   "stories": [
     {
+      "id": "tesla-ends-cybertruck-2026",
+      "number": 214,
+      "headline": "Tesla plans to stop making its Cybertruck",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n214-tesla-ends-cybertruck-2026-flat.webp",
+      "position": "center 60%",
+      "sources": [
+        {
+          "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI (The Guardian)",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says (CNBC)",
+          "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+        },
+        {
+          "title": "Musk says Tesla will end Cybertruck production in 2027 (CBS News)",
+          "url": "https://www.cbsnews.com/news/tesla-ending-cybertruck-production-next-year/"
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab (Fox Business)",
+          "url": "https://www.foxbusiness.com/markets/tesla-wind-down-cybertruck-production-texas-factory-next-year-make-room-cybercab"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Tesla will stop making its Cybertruck, an electric [[pickup truck]] with a sharp, [[boxy]] steel body. Elon Musk, the company's [[chief executive]], shared the news on X, his [[social media site]], on November 6, 2026. Tesla will {{phase out}} the truck at its factory in Austin, Texas, around the middle of 2027. Musk said Tesla needs the factory space to {{ramp up}} [[production]] of the Cybercab, its [[self-driving]] taxi. No other Tesla factory makes the truck.",
+          "verbs": [
+            {
+              "display": "phase out",
+              "base": "phase out",
+              "correct": "To stop making something step by step",
+              "wrong": "To sell something at a lower price",
+              "correctFirst": true,
+              "why": "Many cities phase out old buses and buy electric ones. Some stores phase out paper bags over a few years. Tesla will phase out the truck at its huge factory in Austin, Texas, around the middle of 2027."
+            },
+            {
+              "display": "ramp up",
+              "base": "ramp up",
+              "correct": "To increase something quickly",
+              "wrong": "To test a new car on a track",
+              "correctFirst": false,
+              "why": "Toy companies ramp up work every fall. Farms ramp up hiring when the fruit is ready. Musk said Tesla needs the factory space to ramp up production of the Cybercab, its self-driving taxi."
+            }
+          ]
+        },
+        {
+          "text": "Musk first {{showed the truck off}} in 2019. Its [[futuristic]] look made it {{stand out}}. Its [[stainless-steel]] body was hard to build. This problem {{held up}} the [[launch]] for years. Tesla {{handed over}} the first trucks to buyers in late 2023. The company said the [[starting price]] would be 60,990 dollars. The truck never went on sale in Europe, because it did not meet [[safety standards]] there.",
+          "verbs": [
+            {
+              "display": "showed the truck off",
+              "base": "show off",
+              "correct": "To show something proudly to people",
+              "wrong": "To sell something for the first time",
+              "correctFirst": false,
+              "why": "Car makers show off their new models at big auto shows. My neighbor shows off his garden to every visitor. Musk first showed the truck off in 2019."
+            },
+            {
+              "display": "stand out",
+              "base": "stand out",
+              "correct": "To be easy to see and notice",
+              "wrong": "To be hard to drive and park",
+              "correctFirst": true,
+              "why": "Red cars stand out in a parking lot. Her bright yellow coat stands out in the crowd. The truck's futuristic look made it stand out."
+            },
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To make something happen later",
+              "wrong": "To make something cost more",
+              "correctFirst": false,
+              "why": "Snow often holds up flights in the winter. Missing parts hold up repairs at the shop. Problems with its stainless-steel body held up the truck's launch for years."
+            },
+            {
+              "display": "handed over",
+              "base": "hand over",
+              "correct": "To give something to someone",
+              "wrong": "To build something for someone",
+              "correctFirst": true,
+              "why": "The seller hands over the keys after you pay. Students hand over their phones before the test. Tesla handed over the first trucks to buyers in late 2023."
+            }
+          ]
+        },
+        {
+          "text": "Sales of the Cybertruck never {{took off}}. Musk once said [[annual sales]] could reach 250,000 trucks. Its sales {{fell short of}} that goal by a lot. Car industry researchers [[estimate]] that Tesla sold 20,237 Cybertrucks in the U.S. in 2025. Sales {{dropped off}} by 48 percent from the year before. Tesla's Model 3 and Model Y cars {{make up}} most of its sales. A Wall Street [[analyst]], who advises investors, said high prices and weak [[demand]] made the truck's end easy to predict.",
+          "verbs": [
+            {
+              "display": "took off",
+              "base": "take off",
+              "correct": "To become popular and successful",
+              "wrong": "To be counted by the government",
+              "correctFirst": true,
+              "why": "Some songs take off after one viral video. A new app sometimes takes off in just a few weeks. Sales of the Cybertruck never took off."
+            },
+            {
+              "display": "fell short of",
+              "base": "fall short of",
+              "correct": "To not reach a goal or amount",
+              "wrong": "To change a goal or amount",
+              "correctFirst": false,
+              "why": "Most new stores fall short of their sales goals in the first year. His test score falls short of what the college asks for. Its sales fell short of Musk's goal of 250,000 a year by a lot."
+            },
+            {
+              "display": "dropped off",
+              "base": "drop off",
+              "correct": "To become fewer or smaller",
+              "wrong": "To be checked again by experts",
+              "correctFirst": true,
+              "why": "Visitors to the beach drop off after the summer. Orders usually drop off when prices rise. Cybertruck sales dropped off by 48 percent in 2025."
+            },
+            {
+              "display": "make up",
+              "base": "make up",
+              "correct": "To form or be part of something",
+              "wrong": "To compete against something",
+              "correctFirst": false,
+              "why": "Women make up half of the class. Small businesses make up most of the shops on our street. Tesla's Model 3 and Model Y cars make up most of its sales."
+            }
+          ]
+        },
+        {
+          "text": "Tesla is now {{moving on}} to robots and artificial intelligence. The Cybercab has two seats and no [[steering wheel]] or pedals. It began giving [[paid rides]] in parts of Austin in September 2026. Tesla wants to {{roll out}} the service to more places, but U.S. safety officials are reviewing the car. The Texas factory will also build Optimus, Tesla's [[humanoid robot]]. Musk said the trucks people already own will {{stick around}} for a long time.",
+          "verbs": [
+            {
+              "display": "moving on",
+              "base": "move on",
+              "correct": "To start doing something new",
+              "wrong": "To sell part of a company",
+              "correctFirst": true,
+              "why": "After college, many students move on to full-time jobs. Our class moves on to a new chapter every week. Tesla is now moving on to robots and artificial intelligence."
+            },
+            {
+              "display": "roll out",
+              "base": "roll out",
+              "correct": "To start offering a new service",
+              "wrong": "To test a service in secret",
+              "correctFirst": false,
+              "why": "Phone companies roll out new plans every year. Our city rolls out a bike-sharing program each spring. Tesla wants to roll out the Cybercab service to more places."
+            },
+            {
+              "display": "stick around",
+              "base": "stick around",
+              "correct": "To stay or remain somewhere",
+              "wrong": "To be made in a new color",
+              "correctFirst": true,
+              "why": "Good teachers often stick around at one school for years. Some guests stick around after the party to help clean. Musk said the Cybertrucks people already own will stick around for a long time."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Phase out",
+          "def": "To stop making something step by step",
+          "ipa": "/feɪz aʊt/",
+          "ex": [
+            "The school plans to phase out its old textbooks next year.",
+            "The airline will phase out its oldest planes by 2030.",
+            "Our office is phasing out paper forms."
+          ]
+        },
+        {
+          "verb": "Ramp up",
+          "def": "To increase something quickly",
+          "ipa": "/ræmp ʌp/",
+          "ex": [
+            "The bakery ramps up its baking before Thanksgiving.",
+            "The company ramped up hiring after a strong year.",
+            "Stores ramp up hiring before Christmas."
+          ]
+        },
+        {
+          "verb": "Show off",
+          "def": "To show something proudly to people",
+          "ipa": "/ʃoʊ ɔf/",
+          "ex": [
+            "She showed off her new phone to her friends.",
+            "The museum shows off its oldest paintings in the main hall.",
+            "He loves to show off the photos from his trip."
+          ]
+        },
+        {
+          "verb": "Stand out",
+          "def": "To be easy to see and notice",
+          "ipa": "/stænd aʊt/",
+          "ex": [
+            "A tall tree stands out in an empty field.",
+            "Bright colors help a sign stand out.",
+            "His green hair really stood out at the meeting."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To make something happen later",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "Heavy traffic held us up for an hour.",
+            "A computer problem held up the bank's payments.",
+            "Bad weather can hold up the building work."
+          ]
+        },
+        {
+          "verb": "Hand over",
+          "def": "To give something to someone",
+          "ipa": "/hænd ˈoʊvər/",
+          "ex": [
+            "Please hand over your ticket at the door.",
+            "The old manager handed over the office keys on Friday.",
+            "She handed over the report to her boss."
+          ]
+        },
+        {
+          "verb": "Take off",
+          "def": "To become popular and successful",
+          "ipa": "/teɪk ɔf/",
+          "ex": [
+            "Her small cake business really took off last year.",
+            "The singer's career took off after her first album.",
+            "Nobody knows which new game will take off."
+          ]
+        },
+        {
+          "verb": "Fall short of",
+          "def": "To not reach a goal or amount",
+          "ipa": "/fɔl ʃɔrt ʌv/",
+          "ex": [
+            "The charity fell short of its goal by 500 dollars.",
+            "Our team fell short of the playoffs again.",
+            "His salary falls short of what he needs for rent."
+          ]
+        },
+        {
+          "verb": "Drop off",
+          "def": "To become fewer or smaller",
+          "ipa": "/drɑp ɔf/",
+          "ex": [
+            "The number of visitors dropped off after the rain started.",
+            "Phone sales often drop off in January.",
+            "Interest in the show dropped off after the first season."
+          ]
+        },
+        {
+          "verb": "Make up",
+          "def": "To form or be part of something",
+          "ipa": "/meɪk ʌp/",
+          "ex": [
+            "Children make up a third of the town's people.",
+            "Rice and beans make up most of their meals.",
+            "Older drivers make up a big part of the company's customers."
+          ]
+        },
+        {
+          "verb": "Move on",
+          "def": "To start doing something new",
+          "ipa": "/muv ɑn/",
+          "ex": [
+            "After five years in sales, she moved on to marketing.",
+            "Let's move on to the next question.",
+            "The band moved on to a new style of music."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To start offering a new service",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The bank rolled out a new app for its customers.",
+            "The city will roll out free Wi-Fi in all parks.",
+            "The store rolled out home delivery in May."
+          ]
+        },
+        {
+          "verb": "Stick around",
+          "def": "To stay or remain somewhere",
+          "ipa": "/stɪk əˈraʊnd/",
+          "ex": [
+            "Old habits often stick around for years.",
+            "Can you stick around after the meeting?",
+            "Some of the first shops on this street have stuck around for decades."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "pickup truck",
+          "def": "A vehicle with a cab in front and an open back for carrying things",
+          "ipa": "/ˈpɪkˌʌp trʌk/",
+          "ex": [
+            "My uncle uses his pickup truck to carry wood.",
+            "We moved the old sofa in a friend's pickup truck.",
+            "Pickup trucks are very popular in Texas."
+          ]
+        },
+        {
+          "word": "boxy",
+          "def": "Shaped like a box, with flat sides and sharp corners",
+          "ipa": "/ˈbɑksi/",
+          "ex": [
+            "That boxy old car is easy to spot.",
+            "The new office building looks plain and boxy.",
+            "She bought a boxy jacket with large pockets."
+          ]
+        },
+        {
+          "word": "chief executive",
+          "def": "The person with the most power in a company",
+          "ipa": "/tʃif ɪɡˈzɛkjətɪv/",
+          "ex": [
+            "The chief executive spoke to all the workers on Monday.",
+            "She became chief executive of the bank at 45.",
+            "The company's chief executive lost his job after the bad year."
+          ]
+        },
+        {
+          "word": "social media site",
+          "def": "A website or app where people share posts, photos and videos",
+          "ipa": "/ˈsoʊʃəl ˈmidiə saɪt/",
+          "ex": [
+            "My grandmother joined a social media site to see family photos.",
+            "The school posts news on a social media site.",
+            "He spends too much time on one social media site."
+          ]
+        },
+        {
+          "word": "production",
+          "def": "The work of making goods, usually in large numbers",
+          "ipa": "/prəˈdʌkʃən/",
+          "ex": [
+            "Production at the bread factory starts at 4 a.m.",
+            "Bad weather slowed the production of coffee.",
+            "The company stopped production of its old phone."
+          ]
+        },
+        {
+          "word": "self-driving",
+          "def": "Able to drive itself without a person controlling it",
+          "ipa": "/ˌsɛlfˈdraɪvɪŋ/",
+          "ex": [
+            "Some cities now have self-driving buses.",
+            "Would you ride in a self-driving car?",
+            "The company is testing self-driving delivery vans."
+          ]
+        },
+        {
+          "word": "futuristic",
+          "def": "Looking very modern, as if it comes from the future",
+          "ipa": "/ˌfjutʃəˈrɪstɪk/",
+          "ex": [
+            "The new train station has a futuristic design.",
+            "She wore futuristic silver shoes to the party.",
+            "The movie shows a futuristic city full of robots."
+          ]
+        },
+        {
+          "word": "stainless-steel",
+          "def": "Made of a strong, shiny metal that does not rust",
+          "ipa": "/ˈsteɪnləs stil/",
+          "ex": [
+            "We bought a stainless-steel sink for the kitchen.",
+            "Stainless-steel pans are easy to clean.",
+            "The hospital uses stainless-steel tables."
+          ]
+        },
+        {
+          "word": "launch",
+          "def": "The moment a new product first becomes available",
+          "ipa": "/lɔntʃ/",
+          "ex": [
+            "The phone's launch drew long lines at stores.",
+            "The company held a party for the launch of its new game.",
+            "Sales were strong in the first week after the launch."
+          ]
+        },
+        {
+          "word": "starting price",
+          "def": "The lowest price for the most basic version of a product",
+          "ipa": "/ˈstɑrtɪŋ praɪs/",
+          "ex": [
+            "The starting price of the new laptop is 900 dollars.",
+            "Bigger models cost more than the starting price.",
+            "The starting price for a room at that hotel is 120 dollars."
+          ]
+        },
+        {
+          "word": "safety standards",
+          "def": "Official rules a product must meet to be safe",
+          "ipa": "/ˈseɪfti ˈstændərdz/",
+          "ex": [
+            "All car seats must meet strict safety standards.",
+            "The old bridge no longer meets safety standards.",
+            "Toys sold in stores must pass safety standards."
+          ]
+        },
+        {
+          "word": "annual sales",
+          "def": "The total amount a business sells in one year",
+          "ipa": "/ˈænjuəl seɪlz/",
+          "ex": [
+            "The bakery's annual sales grew by 10 percent.",
+            "The shop's annual sales are about 2 million dollars.",
+            "Annual sales of electric bikes keep rising."
+          ]
+        },
+        {
+          "word": "estimate",
+          "def": "To guess a number or amount using the facts you have",
+          "ipa": "/ˈɛstəˌmeɪt/",
+          "ex": [
+            "Experts estimate that the storm cost 5 billion dollars.",
+            "I estimate the trip will take three hours.",
+            "Can you estimate how many people came to the game?"
+          ]
+        },
+        {
+          "word": "analyst",
+          "def": "A person whose job is to study data and give advice",
+          "ipa": "/ˈænəlɪst/",
+          "ex": [
+            "The bank hired an analyst to study the housing market.",
+            "One analyst said oil prices would fall.",
+            "She works as a sports analyst on TV."
+          ]
+        },
+        {
+          "word": "demand",
+          "def": "How much people want to buy something",
+          "ipa": "/dɪˈmænd/",
+          "ex": [
+            "Demand for umbrellas is high in the rainy season.",
+            "Low demand forced the shop to cut prices.",
+            "There is strong demand for nurses in many states."
+          ]
+        },
+        {
+          "word": "steering wheel",
+          "def": "The round wheel a driver turns to change direction",
+          "ipa": "/ˈstɪrɪŋ wil/",
+          "ex": [
+            "Keep both hands on the steering wheel.",
+            "The steering wheel in my car feels cold in the morning.",
+            "In the U.S., the steering wheel is on the left side."
+          ]
+        },
+        {
+          "word": "paid rides",
+          "def": "Trips in a vehicle that cost the passengers money",
+          "ipa": "/peɪd raɪdz/",
+          "ex": [
+            "The horse farm offers paid rides on weekends.",
+            "Taxi drivers give paid rides all over the city.",
+            "The new app lets drivers offer paid rides to the airport."
+          ]
+        },
+        {
+          "word": "humanoid robot",
+          "def": "A robot with a body shaped like a person's",
+          "ipa": "/ˈhjuməˌnɔɪd ˈroʊbɑt/",
+          "ex": [
+            "The humanoid robot can walk up stairs.",
+            "A humanoid robot greeted visitors at the museum.",
+            "Scientists taught a humanoid robot to fold towels."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Tesla will end Cybertruck production in Texas in 2027 so its factory can build more self-driving taxis. The steel pickup sold far fewer trucks than the company's boss once predicted.",
+          "a": true,
+          "why": "Tesla will phase out the truck in mid-2027 to ramp up Cybercab production. Sales fell far short of the 250,000 a year that the boss predicted."
+        },
+        {
+          "s": "Tesla is moving its famous steel truck to a new plant so its Austin factory can focus on robots. Demand stays strong, and buyers want it as much as they did at its 2023 launch.",
+          "a": false,
+          "why": "Close, but nobody said the truck will be built somewhere else. Sales dropped off sharply, and demand for the truck was weak."
+        },
+        {
+          "s": "Tesla has opened a large new factory in Europe to build a cheaper electric pickup. The carmaker hopes the first models will reach drivers there before the end of the decade.",
+          "a": false,
+          "why": "Tesla will phase out the Cybertruck in Texas, and the truck never went on sale in Europe. The Texas factory will build more Cybercabs instead."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Tesla plans to phase out the Cybertruck at its factory in Texas.",
+          "a": true,
+          "why": "Tesla will phase out the truck at its factory in Austin, Texas, around the middle of 2027."
+        },
+        {
+          "s": "Musk said Tesla needs the space to build more pickup trucks.",
+          "a": false,
+          "why": "He said Tesla needs the space to ramp up production of the Cybercab, its self-driving taxi."
+        },
+        {
+          "s": "Problems with the truck's steel body held up its launch for years.",
+          "a": true,
+          "why": "The stainless-steel body was very hard to build, and those problems held up the launch."
+        },
+        {
+          "s": "Sales of the Cybertruck took off and beat Musk's early prediction.",
+          "a": false,
+          "why": "Sales never took off. They fell far short of the 250,000 trucks a year that Musk once said were possible."
+        },
+        {
+          "s": "The Cybertruck makes up most of Tesla's sales.",
+          "a": false,
+          "why": "Tesla's Model 3 and Model Y make up most of its sales, not the Cybertruck."
+        },
+        {
+          "s": "Tesla is moving on to robots and artificial intelligence.",
+          "a": true,
+          "why": "Tesla is moving on to robots and AI, and the Texas factory will also build a humanoid robot."
+        }
+      ]
+    },
+    {
       "id": "paraguay-president-resigns-2026",
       "number": 213,
       "headline": "Paraguay removes its president after a bank fails",
