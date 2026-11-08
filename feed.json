@@ -1,6 +1,500 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "stories": [
+    {
+      "id": "good-conversations-study-2026",
+      "number": 215,
+      "headline": "Good conversations mix one topic with new ideas",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n215-good-conversations-study-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "Want to have a better chat? Scientists say the secret is 'pink noise' (The Guardian)",
+          "url": "https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise"
+        },
+        {
+          "title": "Pink noise makes conversations more enjoyable (EurekAlert!, Science Advances press release)",
+          "url": "https://www.eurekalert.org/news-releases/1150090"
+        },
+        {
+          "title": "How \"Pink Noise\" in Conversation Makes Chats Enjoyable (Neuroscience News)",
+          "url": "https://neurosciencenews.com/pink-noise-conversation-cognition-32390/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Scientists at Dartmouth College, a university in the U.S. state of New Hampshire, have studied what makes a chat [[enjoyable]]. Their study was published on November 6, 2026. The researchers say it is hard to {{figure out}} why some talks feel great. They {{looked into}} this question using more than 1,000 conversations between [[strangers]]. After each chat, both people {{filled out}} a [[survey]].",
+          "verbs": [
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To understand something after thinking",
+              "wrong": "To record a talk for later study",
+              "correctFirst": true,
+              "why": "She never figures out the rules of that card game. Most kids figure out the new phone in a few minutes. The researchers say it is hard to figure out why some talks feel great."
+            },
+            {
+              "display": "looked into",
+              "base": "look into",
+              "correct": "To study a question carefully",
+              "wrong": "To ask a stranger to join a chat",
+              "correctFirst": false,
+              "why": "Scientists look into why some people sleep better than others. Good reporters look into a story before they write it. The scientists looked into this question using more than 1,000 conversations between strangers."
+            },
+            {
+              "display": "filled out",
+              "base": "fill out",
+              "correct": "To complete a form or survey",
+              "wrong": "To read a form aloud to someone",
+              "correctFirst": true,
+              "why": "New patients fill out a form at the front desk. Students fill out a short survey at the end of each class. After each chat, both people filled out a survey."
+            }
+          ]
+        },
+        {
+          "text": "The most enjoyable conversations had a [[balance]] between staying on one [[subject]] and moving to new ideas. People stayed on a subject long enough to understand it and [[get to know]] each other. Then one person {{brought up}} something new, and the other {{picked up on}} it. A chat can fail in two ways. First, it can {{jump around}} all the time, or one person can [[ignore]] the other's replies. Second, people can [[repeat]] each other's words and {{end up}} bored.",
+          "verbs": [
+            {
+              "display": "brought up",
+              "base": "bring up",
+              "correct": "To mention a new subject",
+              "wrong": "To share the same view as someone",
+              "correctFirst": false,
+              "why": "My aunt always brings up politics at dinner. He never brings up money with his friends. In good chats, one person brought up something new."
+            },
+            {
+              "display": "picked up on",
+              "base": "pick up on",
+              "correct": "To notice something and say more about it",
+              "wrong": "To repeat someone's exact words",
+              "correctFirst": true,
+              "why": "Good listeners pick up on what you say and ask more. My best friend always picks up on my hints and asks about them. In good chats, the other person picked up on the new idea."
+            },
+            {
+              "display": "jump around",
+              "base": "jump around",
+              "correct": "To change quickly from one subject to another",
+              "wrong": "To speak louder than the other person",
+              "correctFirst": false,
+              "why": "His stories jump around, so they are hard to follow. Our meetings jump around when there is no plan. A chat can fail when it jumps around all the time."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To finally reach a certain state",
+              "wrong": "To try hard to look interested",
+              "correctFirst": true,
+              "why": "People who skip breakfast often end up hungry by ten. If you stay up too late, you end up tired at work. People who just repeat each other's words can end up bored."
+            }
+          ]
+        },
+        {
+          "text": "Scientists call this balanced pattern \"pink noise,\" a physics term for patterns not too steady or too random. More pink noise meant people enjoyed a chat more and felt a stronger [[connection]]. The team also studied talks between friends to {{find out}} if this was true for them. It was. In [[speed dating]], single people have short talks with many [[possible partners]]. There, more pink noise [[predicted]] which pairs {{met up}} for a [[second date]].",
+          "verbs": [
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn a fact by checking",
+              "wrong": "To make a result public",
+              "correctFirst": false,
+              "why": "I call the store to find out when it opens. Doctors run tests to find out what is wrong. The team studied talks between friends to find out if this was true for them."
+            },
+            {
+              "display": "met up",
+              "base": "meet up",
+              "correct": "To see someone at a set time and place",
+              "wrong": "To talk on the phone for hours",
+              "correctFirst": true,
+              "why": "My old classmates meet up once a year. We meet up for coffee every Friday. More pink noise predicted which speed-dating pairs met up for a second date."
+            }
+          ]
+        },
+        {
+          "text": "The team also studied podcasts with two [[hosts]]. Their talks became more balanced over the first 50 [[episodes]]. The study's [[lead author]] thinks people can learn this skill. In her view, practice can {{pay off}}. When the team asked a chatbot to {{come up with}} enjoyable and boring conversations, the enjoyable ones had more pink noise. A conversation expert at a London university [[praised]] the study. But she {{pointed out}} that many of life's most important talks are [[painful]], not enjoyable.",
+          "verbs": [
+            {
+              "display": "pay off",
+              "base": "pay off",
+              "correct": "To bring good results",
+              "wrong": "To make people feel tired",
+              "correctFirst": false,
+              "why": "Hard work usually pays off in the end. Her daily piano practice pays off at every concert. The lead author thinks that practice can pay off in conversation."
+            },
+            {
+              "display": "come up with",
+              "base": "come up with",
+              "correct": "To create a new thing or idea",
+              "wrong": "To read and score something",
+              "correctFirst": true,
+              "why": "My son comes up with a new game every weekend. Good writers come up with fresh ideas. The team asked an AI chatbot to come up with enjoyable conversations."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To mention an important fact",
+              "wrong": "To change the subject of a talk",
+              "correctFirst": false,
+              "why": "My doctor points out that sleep matters for health. Our teacher often points out common mistakes. The expert pointed out that many important talks are painful, not enjoyable."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Figure out",
+          "def": "To understand something after thinking",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out why my laptop is so slow.",
+            "It took me a week to figure out the bus system.",
+            "We finally figured out what the baby wanted."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study a question carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The company promised to look into my complaint.",
+            "A reporter is looking into the rise in rent prices.",
+            "Can you look into why the bill is so high?"
+          ]
+        },
+        {
+          "verb": "Fill out",
+          "def": "To complete a form or survey",
+          "ipa": "/fɪl aʊt/",
+          "ex": [
+            "Please fill out this form before your appointment.",
+            "I filled out three job applications today.",
+            "You need to fill out a form to get a library card."
+          ]
+        },
+        {
+          "verb": "Bring up",
+          "def": "To mention a new subject",
+          "ipa": "/brɪŋ ʌp/",
+          "ex": [
+            "Don't bring up her old boyfriend at the party.",
+            "I brought up the idea of a vacation, and everyone liked it.",
+            "She brought up a good question at the meeting."
+          ]
+        },
+        {
+          "verb": "Pick up on",
+          "def": "To notice something and say more about it",
+          "ipa": "/pɪk ʌp ɑn/",
+          "ex": [
+            "She picked up on my comment about Paris and asked about my trip.",
+            "A good host picks up on each guest's story and asks a follow-up question.",
+            "He picked up on my idea and added his own thoughts."
+          ]
+        },
+        {
+          "verb": "Jump around",
+          "def": "To change quickly from one subject to another",
+          "ipa": "/dʒʌmp əˈraʊnd/",
+          "ex": [
+            "The movie jumps around in time, so pay attention.",
+            "Her emails jump around from one problem to the next.",
+            "Try not to jump around when you give a speech."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally reach a certain state",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up late for the wedding.",
+            "If you don't save money, you may end up in debt.",
+            "He ended up happy with his choice of college."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn a fact by checking",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I want to find out who won the game.",
+            "She found out that her flight was canceled.",
+            "Let's find out how much the tickets cost."
+          ]
+        },
+        {
+          "verb": "Meet up",
+          "def": "To see someone at a set time and place",
+          "ipa": "/mit ʌp/",
+          "ex": [
+            "Let's meet up after work for a drink.",
+            "The two families meet up every summer at the lake.",
+            "We met up at the mall and went shopping together."
+          ]
+        },
+        {
+          "verb": "Pay off",
+          "def": "To bring good results",
+          "ipa": "/peɪ ɔf/",
+          "ex": [
+            "All those early runs paid off when she won the race.",
+            "Studying every night really paid off on the final test.",
+            "Being kind to customers pays off for small shops."
+          ]
+        },
+        {
+          "verb": "Come up with",
+          "def": "To create a new thing or idea",
+          "ipa": "/kʌm ʌp wɪð/",
+          "ex": [
+            "We need to come up with a name for the new dog.",
+            "She came up with a smart plan to save money.",
+            "Can you come up with a good title for the report?"
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To mention an important fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "He pointed out that the store closes early on Sundays.",
+            "My friend pointed out a typo in my resume.",
+            "The guide pointed out that the bridge is very old."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "enjoyable",
+          "def": "Giving you pleasure and making you feel good",
+          "ipa": "/ɪnˈdʒɔɪəbəl/",
+          "ex": [
+            "We had an enjoyable evening with our neighbors.",
+            "The hike was long but very enjoyable.",
+            "She finds cooking more enjoyable than cleaning."
+          ]
+        },
+        {
+          "word": "strangers",
+          "def": "People you do not know",
+          "ipa": "/ˈstreɪndʒərz/",
+          "ex": [
+            "Parents tell children not to get into cars with strangers.",
+            "Two strangers helped me push my car.",
+            "On the train, I sat between two strangers."
+          ]
+        },
+        {
+          "word": "survey",
+          "def": "A set of questions that many people answer",
+          "ipa": "/ˈsɜrveɪ/",
+          "ex": [
+            "The hotel sent me a survey after my stay.",
+            "A survey showed that most workers want shorter meetings.",
+            "Only half of the students answered the survey."
+          ]
+        },
+        {
+          "word": "balance",
+          "def": "A good mix where no part is too strong or too weak",
+          "ipa": "/ˈbæləns/",
+          "ex": [
+            "It is hard to find a balance between work and family.",
+            "This soup has a nice balance of salt and spice.",
+            "A healthy diet needs a balance of different foods."
+          ]
+        },
+        {
+          "word": "subject",
+          "def": "The main topic of a talk or text",
+          "ipa": "/ˈsʌbdʒɪkt/",
+          "ex": [
+            "Money is a hard subject for many couples.",
+            "Let's change the subject before we start to argue.",
+            "The subject of the meeting was the new budget."
+          ]
+        },
+        {
+          "word": "get to know",
+          "def": "To slowly learn what a person is like",
+          "ipa": "/ɡɛt tə noʊ/",
+          "ex": [
+            "It takes time to get to know new coworkers.",
+            "I want to get to know my neighbors better.",
+            "Team dinners help players get to know each other."
+          ]
+        },
+        {
+          "word": "ignore",
+          "def": "To pay no attention to someone or something",
+          "ipa": "/ɪɡˈnɔr/",
+          "ex": [
+            "He tends to ignore emails from his bank.",
+            "Try to ignore the noise and focus on your test.",
+            "Please don't ignore me when I am talking to you."
+          ]
+        },
+        {
+          "word": "repeat",
+          "def": "To say the same words again",
+          "ipa": "/rɪˈpit/",
+          "ex": [
+            "Could you repeat the question, please?",
+            "The teacher asked us to repeat each new word.",
+            "My little brother likes to repeat everything I say."
+          ]
+        },
+        {
+          "word": "connection",
+          "def": "A feeling of being close to another person",
+          "ipa": "/kəˈnɛkʃən/",
+          "ex": [
+            "She felt a strong connection with her new roommate.",
+            "Playing music together gives the band a real connection.",
+            "Many people want a deeper connection with their friends."
+          ]
+        },
+        {
+          "word": "speed dating",
+          "def": "An event where single people meet many others in short talks",
+          "ipa": "/spid ˈdeɪtɪŋ/",
+          "ex": [
+            "My cousin met her husband at a speed dating night.",
+            "Speed dating events often give each pair five minutes.",
+            "He tried speed dating because he was too busy to date."
+          ]
+        },
+        {
+          "word": "possible partners",
+          "def": "People who could become someone's boyfriend or girlfriend",
+          "ipa": "/ˈpɑsəbəl ˈpɑrtnərz/",
+          "ex": [
+            "Dating apps show users many possible partners.",
+            "She met several possible partners at the event.",
+            "He likes to meet possible partners in person first."
+          ]
+        },
+        {
+          "word": "predicted",
+          "def": "Showed what was likely to happen",
+          "ipa": "/prɪˈdɪktɪd/",
+          "ex": [
+            "The weather report predicted rain for the weekend.",
+            "Her test scores predicted how well she did in college.",
+            "Few experts predicted that the small team would win."
+          ]
+        },
+        {
+          "word": "second date",
+          "def": "A second planned meeting between two people who like each other",
+          "ipa": "/ˈsɛkənd deɪt/",
+          "ex": [
+            "After a great first dinner, he asked her for a second date.",
+            "They went bowling on their second date.",
+            "She was nervous before their second date."
+          ]
+        },
+        {
+          "word": "hosts",
+          "def": "People who lead and talk on a show",
+          "ipa": "/hoʊsts/",
+          "ex": [
+            "The two hosts of the morning show are old friends.",
+            "Radio hosts often take calls from listeners.",
+            "The game show has new hosts this season."
+          ]
+        },
+        {
+          "word": "episodes",
+          "def": "Single parts of a series, like a TV show or podcast",
+          "ipa": "/ˈɛpəˌsoʊdz/",
+          "ex": [
+            "I watched three episodes of the show last night.",
+            "The podcast puts out new episodes every Monday.",
+            "Each season has ten episodes."
+          ]
+        },
+        {
+          "word": "lead author",
+          "def": "The main writer of a science study",
+          "ipa": "/lid ˈɔθər/",
+          "ex": [
+            "The lead author spoke to reporters about the results.",
+            "She was the lead author on her first study at age 25.",
+            "The lead author thanked the whole team."
+          ]
+        },
+        {
+          "word": "praised",
+          "def": "Said good things about someone or something",
+          "ipa": "/preɪzd/",
+          "ex": [
+            "The coach praised the players after the game.",
+            "Critics praised the movie for its music.",
+            "My boss praised my report in front of everyone."
+          ]
+        },
+        {
+          "word": "painful",
+          "def": "Making you feel sad or hurt",
+          "ipa": "/ˈpeɪnfəl/",
+          "ex": [
+            "Saying goodbye to her old dog was painful.",
+            "The divorce was painful for the whole family.",
+            "It is painful to read about the accident."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Researchers found that people enjoy a talk most when they stay with one subject for a while and then add fresh ideas. Pairs with this balance also felt closer and were more likely to date again.",
+          "a": true,
+          "why": "The best chats had a balance between one subject and new ideas. More of this pattern also predicted which speed-dating pairs met up for a second date."
+        },
+        {
+          "s": "A study of over a thousand chats shows that the best talks mix one subject with fresh ideas. But the researchers say this balance comes only from personality, so practice does not help at all.",
+          "a": false,
+          "why": "Close, but the lead author thinks people can learn this skill. Podcast hosts became more balanced over their first 50 episodes."
+        },
+        {
+          "s": "Scientists in New Hampshire report that adults who talk with strangers on the bus each morning feel happier at work. They now want cities to add quiet seats and talking seats on every bus.",
+          "a": false,
+          "why": "The study looked into what makes a conversation enjoyable. It found a balance between staying on one subject and bringing up new ideas."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The researchers looked into conversations between strangers.",
+          "a": true,
+          "why": "They studied more than 1,000 chats between people who did not know each other."
+        },
+        {
+          "s": "The most enjoyable chats stayed on one subject from start to finish.",
+          "a": false,
+          "why": "People stayed on one subject for a while, and then one person brought up something new."
+        },
+        {
+          "s": "In good chats, the other person picked up on the new idea.",
+          "a": true,
+          "why": "One person brought up something new, and the other person noticed it and talked about it."
+        },
+        {
+          "s": "People who only repeat each other's words end up enjoying the chat more.",
+          "a": false,
+          "why": "They can end up bored. Repeating each other's words is one way a chat can fail."
+        },
+        {
+          "s": "More pink noise predicted which speed-dating pairs met up again.",
+          "a": true,
+          "why": "Pairs with more of this balanced pattern were more likely to meet up for a second date."
+        },
+        {
+          "s": "The conversation expert said all important talks are enjoyable.",
+          "a": false,
+          "why": "She pointed out that many of life's most important talks are painful, not enjoyable."
+        }
+      ]
+    },
     {
       "id": "tesla-ends-cybertruck-2026",
       "number": 214,
