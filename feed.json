@@ -1,6 +1,502 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "stories": [
+    {
+      "id": "south-africa-anc-local-vote-2026",
+      "number": 218,
+      "headline": "South Africa's ruling party loses ground in local votes",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n218-south-africa-anc-local-vote-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "South Africa's ANC suffers setback in local elections (Al Jazeera, AFP and Reuters)",
+          "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections"
+        },
+        {
+          "title": "IEC declares LGE 2026 Free and Fair (SAnews)",
+          "url": "https://www.sanews.gov.za/south-africa/iec-declares-lge-2026-free-and-fair"
+        },
+        {
+          "title": "ANC faces coalition scramble after electoral rout as control of key metros slips away (Daily Maverick)",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-07-anc-faces-coalition-scramble-after-electoral-rout-as-control-of-key-metros-slips-away/"
+        },
+        {
+          "title": "ANC loses significant ground in 2026 local govt elections (EWN)",
+          "url": "https://www.ewn.co.za/2026/11/09/anc-loses-significant-ground-in-2026-local-govt-elections"
+        },
+        {
+          "title": "South Africa's ANC faces 'worst nightmare' as vote share tumbles (Reuters, via CNBC Africa)",
+          "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
+        },
+        {
+          "title": "ANC faces anger over poor services as South Africans vote in local elections (The Guardian)",
+          "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "South Africans voted in local elections on November 4, 2026. These elections choose the [[councils]] that run cities and towns. As results {{came in}}, they showed a [[sharp drop]] for the African National Congress. This party led the fight against [[apartheid]], the old system of [[white minority rule]]. It has led the national government since 1994. In the final results, announced on November 8, it had 30.8 percent of the vote, down from 45.6 percent in 2021.",
+          "verbs": [
+            {
+              "display": "came in",
+              "base": "come in",
+              "correct": "To arrive and become known",
+              "wrong": "To be thrown away unread",
+              "correctFirst": true,
+              "why": "Test results usually come in after a few days. Orders come in fast in December. As results came in, they showed a sharp drop for the African National Congress."
+            }
+          ]
+        },
+        {
+          "text": "Analysts say many voters have {{turned away from}} the party over crime, [[corruption]], [[a lack of jobs]] and poor [[public services]]. In Johannesburg, the biggest city, homes are often {{cut off}} from water and power. Trash {{piles up}} on the streets, and roads are full of [[potholes]]. The city has had 10 mayors in about 10 years under [[shaky]] [[coalitions]], groups of parties that govern together.",
+          "verbs": [
+            {
+              "display": "turned away from",
+              "base": "turn away from",
+              "correct": "To stop supporting someone",
+              "wrong": "To move to a different city",
+              "correctFirst": false,
+              "why": "Fans often turn away from a band after a bad album. Shoppers turn away from a store when its prices rise. Analysts say many voters have turned away from the party."
+            },
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To stop the supply of something",
+              "wrong": "To raise the price of something",
+              "correctFirst": true,
+              "why": "The power company cuts off service when people do not pay the bill. Big storms often cut off power in our area. In Johannesburg, homes are often cut off from water and power."
+            },
+            {
+              "display": "piles up",
+              "base": "pile up",
+              "correct": "To grow larger as more is added",
+              "wrong": "To be burned in the open air",
+              "correctFirst": false,
+              "why": "Dirty dishes pile up when I am busy. Bills pile up fast when you lose your job. In Johannesburg, trash piles up on the streets."
+            }
+          ]
+        },
+        {
+          "text": "The [[pro-business]] Democratic Alliance came second, with 24.6 percent. It {{pulled ahead}} in Johannesburg, with about 35 percent. It {{held on to}} Cape Town, which it has run since 2006. A party led by former president Jacob Zuma came third, with about 10 percent. It {{broke away}} from the African National Congress in 2023. It came first in Durban, a [[port city]]. [[Turnout]], the share of [[registered voters]] who voted, {{went up}} from 45.9 percent to 52 percent, the election commission said.",
+          "verbs": [
+            {
+              "display": "pulled ahead",
+              "base": "pull ahead",
+              "correct": "To take the lead in a race",
+              "wrong": "To give up and leave a race",
+              "correctFirst": true,
+              "why": "Our team often pulls ahead in the second half. The fastest runner pulls ahead after the first mile. The Democratic Alliance pulled ahead in Johannesburg, with about 35 percent."
+            },
+            {
+              "display": "held on to",
+              "base": "hold on to",
+              "correct": "To keep control of something",
+              "wrong": "To sell something to a company",
+              "correctFirst": false,
+              "why": "Strong teams hold on to the lead until the final minute. Many families hold on to their land for generations. The Democratic Alliance held on to Cape Town, which it has run since 2006."
+            },
+            {
+              "display": "broke away",
+              "base": "break away",
+              "correct": "To leave a group and form a new one",
+              "wrong": "To lose an election by a lot",
+              "correctFirst": true,
+              "why": "Sometimes a few members break away and start their own club. Small groups often break away from large unions. A party led by former president Jacob Zuma broke away from the African National Congress in 2023."
+            },
+            {
+              "display": "went up",
+              "base": "go up",
+              "correct": "To become higher",
+              "wrong": "To be split in two",
+              "correctFirst": false,
+              "why": "Prices go up every winter. Rent goes up almost every year in big cities. Turnout went up from 45.9 percent in 2021 to 52 percent."
+            }
+          ]
+        },
+        {
+          "text": "An analyst at a research company said the higher turnout [[suggests]] that supporters of the African National Congress did not {{stay away}}. Instead, they {{showed up}} and chose other parties. The commission called the vote free and fair. In 127 councils, including Johannesburg's, no party won a [[majority]], or more than half of the [[seats]]. Parties have two weeks to {{team up}} and choose mayors. The ruling party could still {{end up}} leading some cities.",
+          "verbs": [
+            {
+              "display": "stay away",
+              "base": "stay away",
+              "correct": "To choose not to be present",
+              "wrong": "To cheat in a vote count",
+              "correctFirst": true,
+              "why": "Many fans stay away when ticket prices are too high. Some parents stay away from school meetings because of work. An analyst said supporters of the African National Congress did not stay away."
+            },
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To be present and take part",
+              "wrong": "To count the votes by hand",
+              "correctFirst": false,
+              "why": "Most of my friends show up for my birthday party. Only a few people show up when it rains. Instead of staying home, its supporters showed up and chose other parties."
+            },
+            {
+              "display": "team up",
+              "base": "team up",
+              "correct": "To work as one group for a goal",
+              "wrong": "To argue in a public meeting",
+              "correctFirst": true,
+              "why": "Two small shops team up to sell their goods online. Neighbors often team up to clean the local park. Parties have two weeks to team up and choose mayors."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To finally be in a certain situation",
+              "wrong": "To lose control of a city council",
+              "correctFirst": false,
+              "why": "People who miss the bus often end up walking to work. Many students end up working in a field they never planned. The African National Congress could still end up leading some cities."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come in",
+          "def": "To arrive and become known",
+          "ipa": "/kʌm ɪn/",
+          "ex": [
+            "The first reports came in late at night.",
+            "Calls from worried parents kept coming in all morning.",
+            "We will decide when all the answers come in."
+          ]
+        },
+        {
+          "verb": "Turn away from",
+          "def": "To stop supporting someone",
+          "ipa": "/tɝn əˈweɪ frʌm/",
+          "ex": [
+            "Many readers turned away from the paper after it raised its price.",
+            "Young people are turning away from cable TV.",
+            "Customers turned away from the brand after the scandal."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To stop the supply of something",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The gas company cut off our heat for a day to fix a pipe.",
+            "A fallen tree cut off power to the whole street.",
+            "They will cut off your phone if you miss three payments."
+          ]
+        },
+        {
+          "verb": "Pile up",
+          "def": "To grow larger as more is added",
+          "ipa": "/paɪl ʌp/",
+          "ex": [
+            "Emails piled up while I was on vacation.",
+            "Snow piled up against the front door.",
+            "Unpaid bills started to pile up on the kitchen table."
+          ]
+        },
+        {
+          "verb": "Pull ahead",
+          "def": "To take the lead in a race",
+          "ipa": "/pʊl əˈhɛd/",
+          "ex": [
+            "The home team pulled ahead with a late goal.",
+            "One candidate pulled ahead after the debate.",
+            "Her horse pulled ahead on the last turn."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep control of something",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "The mayor held on to his job after a close race.",
+            "The company held on to first place in sales.",
+            "It is hard to hold on to a lead for a whole season."
+          ]
+        },
+        {
+          "verb": "Break away",
+          "def": "To leave a group and form a new one",
+          "ipa": "/breɪk əˈweɪ/",
+          "ex": [
+            "Three members broke away and formed their own band.",
+            "A small group broke away from the union last year.",
+            "Some towns want to break away and form a new county."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher",
+          "ipa": "/goʊ ʌp/",
+          "ex": [
+            "The price of eggs went up again.",
+            "Bus fares will go up in January.",
+            "My electric bill always goes up in the summer."
+          ]
+        },
+        {
+          "verb": "Stay away",
+          "def": "To choose not to be present",
+          "ipa": "/steɪ əˈweɪ/",
+          "ex": [
+            "Rain made most visitors stay away from the fair.",
+            "Many students stayed away from class on the day of the storm.",
+            "Shoppers stay away when parking is hard to find."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To be present and take part",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "Only ten people showed up for the meeting.",
+            "He showed up late for his first day at work.",
+            "Hundreds of fans showed up at the airport."
+          ]
+        },
+        {
+          "verb": "Team up",
+          "def": "To work as one group for a goal",
+          "ipa": "/tim ʌp/",
+          "ex": [
+            "Two local schools teamed up for a food drive.",
+            "The singers teamed up for a new song.",
+            "Our town teamed up with a nearby city to buy new buses."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally be in a certain situation",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up in the wrong town.",
+            "She ended up running the whole company.",
+            "If you don't save, you may end up in debt."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "councils",
+          "def": "Groups of elected people who make decisions for a city or town",
+          "ipa": "/ˈkaʊnsəlz/",
+          "ex": [
+            "The city councils meet once a month.",
+            "Two councils argued about the new road.",
+            "Some councils have only five members."
+          ]
+        },
+        {
+          "word": "sharp drop",
+          "def": "A sudden, large fall in an amount",
+          "ipa": "/ʃɑrp drɑp/",
+          "ex": [
+            "There was a sharp drop in sales in January.",
+            "The cold front brought a sharp drop in temperature.",
+            "Doctors noticed a sharp drop in his blood pressure."
+          ]
+        },
+        {
+          "word": "apartheid",
+          "def": "A system in South Africa that kept people apart by race",
+          "ipa": "/əˈpɑrtˌhaɪt/",
+          "ex": [
+            "My grandfather grew up under apartheid.",
+            "Many countries spoke against apartheid in the 1980s.",
+            "The museum teaches visitors about apartheid."
+          ]
+        },
+        {
+          "word": "white minority rule",
+          "def": "A government in which a small white group holds all the power",
+          "ipa": "/waɪt maɪˈnɔrəti rul/",
+          "ex": [
+            "White minority rule also existed in some other African countries.",
+            "History books explain how white minority rule ended.",
+            "Black citizens had no vote under white minority rule."
+          ]
+        },
+        {
+          "word": "corruption",
+          "def": "Dishonest behavior by people in power, often for money",
+          "ipa": "/kəˈrʌpʃən/",
+          "ex": [
+            "The police chief lost his job over corruption.",
+            "Many people are tired of corruption in government.",
+            "The new law aims to fight corruption."
+          ]
+        },
+        {
+          "word": "a lack of jobs",
+          "def": "Not enough work for the people who need it",
+          "ipa": "/ə læk əv dʒɑbz/",
+          "ex": [
+            "A lack of jobs pushes young people to move to big cities.",
+            "The town suffers from a lack of jobs since the factory closed.",
+            "Many families leave rural areas because of a lack of jobs."
+          ]
+        },
+        {
+          "word": "public services",
+          "def": "Things a government provides for everyone, like water, schools and buses",
+          "ipa": "/ˈpʌblɪk ˈsɝvɪsɪz/",
+          "ex": [
+            "Taxes help pay for public services.",
+            "Public services are often slow in small towns.",
+            "Voters want better public services, like clean water."
+          ]
+        },
+        {
+          "word": "potholes",
+          "def": "Holes in the surface of a road",
+          "ipa": "/ˈpɑtˌhoʊlz/",
+          "ex": [
+            "My car hit two potholes on the way to work.",
+            "The city fills potholes every spring.",
+            "Potholes can damage your tires."
+          ]
+        },
+        {
+          "word": "shaky",
+          "def": "Not strong and likely to fail",
+          "ipa": "/ˈʃeɪki/",
+          "ex": [
+            "Their plan is built on a shaky idea.",
+            "The team has a shaky defense this year.",
+            "Their friendship is a little shaky right now."
+          ]
+        },
+        {
+          "word": "coalitions",
+          "def": "Groups of parties or people that agree to work together",
+          "ipa": "/ˌkoʊəˈlɪʃənz/",
+          "ex": [
+            "Small parties often form coalitions after an election.",
+            "Coalitions of parents asked the school for changes.",
+            "Some coalitions last only a few months."
+          ]
+        },
+        {
+          "word": "pro-business",
+          "def": "Supporting policies that help companies and trade",
+          "ipa": "/proʊ ˈbɪznəs/",
+          "ex": [
+            "The governor is known as a pro-business leader.",
+            "Pro-business groups want lower taxes.",
+            "The new mayor has a pro-business plan for downtown."
+          ]
+        },
+        {
+          "word": "port city",
+          "def": "A city with a harbor where large ships load and unload",
+          "ipa": "/pɔrt ˈsɪti/",
+          "ex": [
+            "Seattle is a busy port city.",
+            "We visited an old port city on our trip.",
+            "Many sailors live in the port city."
+          ]
+        },
+        {
+          "word": "Turnout",
+          "def": "The share of people who vote in an election",
+          "ipa": "/ˈtɝnˌaʊt/",
+          "ex": [
+            "Turnout was low because of the heavy rain.",
+            "Turnout is usually higher in presidential years.",
+            "Turnout among young people rose this time."
+          ]
+        },
+        {
+          "word": "registered voters",
+          "def": "People who are on the official list of those allowed to vote",
+          "ipa": "/ˈrɛdʒɪstərd ˈvoʊtərz/",
+          "ex": [
+            "Only registered voters can vote in the primary.",
+            "The town has about 20,000 registered voters.",
+            "Registered voters get a card in the mail before each election."
+          ]
+        },
+        {
+          "word": "suggests",
+          "def": "Shows that something is probably true",
+          "ipa": "/səgˈdʒɛsts/",
+          "ex": [
+            "The dark sky suggests that rain is coming.",
+            "His smile suggests that he passed the test.",
+            "The study suggests that walking helps memory."
+          ]
+        },
+        {
+          "word": "majority",
+          "def": "More than half of a group or total",
+          "ipa": "/məˈdʒɔrəti/",
+          "ex": [
+            "A majority of students voted for the new rule.",
+            "The bill passed with a small majority.",
+            "The majority of my coworkers drive to work."
+          ]
+        },
+        {
+          "word": "seats",
+          "def": "Places in a council or lawmaking group that members win in an election",
+          "ipa": "/sits/",
+          "ex": [
+            "The party won five seats in the state senate.",
+            "Two seats on the school board are open.",
+            "She hopes to win one of the open seats."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Final results in South Africa's local elections show support for the African National Congress falling hard. Analysts say voters are angry about crime, jobs and poor water and power service.",
+          "a": true,
+          "why": "In the final results, the party had 30.8 percent, down from 45.6 percent. Analysts say many voters have turned away from it over crime, jobs and services."
+        },
+        {
+          "s": "South Africa's oldest party lost many seats because far fewer people voted in the local elections. Many of its usual supporters stayed home, so rivals easily won Johannesburg and Durban.",
+          "a": false,
+          "why": "Close, but turnout went up from 45.9 percent to 52 percent. An analyst said the party's supporters showed up and chose other parties."
+        },
+        {
+          "s": "South Africans chose a new president in a national vote held on a rainy Wednesday in November. The winner has promised to build new homes and repair roads in every province by 2029.",
+          "a": false,
+          "why": "This story is about local elections for city and town councils. The final results showed a sharp drop for the African National Congress."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Analysts say many voters have turned away from the African National Congress.",
+          "a": true,
+          "why": "Voters are unhappy about crime, corruption, a lack of jobs and poor public services."
+        },
+        {
+          "s": "In Johannesburg, homes are rarely cut off from water and power.",
+          "a": false,
+          "why": "Homes there are often cut off from water and power, and trash piles up on the streets."
+        },
+        {
+          "s": "The Democratic Alliance pulled ahead in Johannesburg.",
+          "a": true,
+          "why": "The pro-business party won about 35 percent there and came second nationally."
+        },
+        {
+          "s": "Fewer South Africans showed up to vote than in 2021.",
+          "a": false,
+          "why": "Turnout went up. An analyst said the party's supporters showed up but chose other parties."
+        },
+        {
+          "s": "A party led by former president Jacob Zuma broke away from the ruling party.",
+          "a": true,
+          "why": "The party broke away in 2023, came third nationally and came first in Durban."
+        },
+        {
+          "s": "The African National Congress won more than half of the vote.",
+          "a": false,
+          "why": "As the final results came in, it had about 31 percent, far less than half."
+        }
+      ]
+    },
     {
       "id": "ebola-congo-5000-deaths-2026",
       "number": 217,
