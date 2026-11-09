@@ -2,6 +2,518 @@
   "updated": "2026-11-09",
   "stories": [
     {
+      "id": "nz-election-too-close-2026",
+      "number": 219,
+      "headline": "New Zealand's election ends with no clear winner",
+      "badge": "Politics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n219-nz-election-too-close-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "No clear winner after tight New Zealand general election (BBC News)",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+        },
+        {
+          "title": "New Zealand faces weeks of uncertainty with election 'too close to call' (The Guardian)",
+          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        },
+        {
+          "title": "'Too close to call': Wait begins for special votes after cliffhanger Election night (RNZ)",
+          "url": "https://www.rnz.co.nz/news/political/2420113/too-close-to-call-wait-begins-for-special-votes-after-cliffhanger-election-night"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "New Zealand, a country in the South Pacific, held an election on November 7, 2026. In [[preliminary results]], Prime Minister Christopher Luxon's center-right National Party won the most seats in parliament, 42. The main [[opposition party]], center-left and led by Chris Hipkins, won 36. Each got about 29 percent of the [[party vote]], which decides each party's seats. Hipkins has not {{given up}}. He said it may take longer to {{figure out}} what voters wanted.",
+          "verbs": [
+            {
+              "display": "given up",
+              "base": "give up",
+              "correct": "To stop trying and accept a loss",
+              "wrong": "To give a speech to supporters",
+              "correctFirst": true,
+              "why": "Our team never gives up, even when we are far behind. She gives up when a puzzle gets too hard. Hipkins has not given up, although his party has fewer seats."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To understand something by thinking",
+              "wrong": "To count all the votes again",
+              "correctFirst": false,
+              "why": "I can never figure out the bus schedule. My son figures out new phones faster than I do. Hipkins said it may take longer to figure out what voters wanted."
+            }
+          ]
+        },
+        {
+          "text": "Most governments in New Zealand are [[coalitions]], groups of parties that agree to rule together. Luxon's government has National and two smaller [[right-leaning]] parties. Support for both partners {{went up}} from the 2023 election. The three parties' seats {{add up to}} 67. Extra seats under the voting rules give parliament 131 members on the early count. A [[majority]], more than half, is 66. That [[slim lead]] means the government could {{hold on to}} power.",
+          "verbs": [
+            {
+              "display": "went up",
+              "base": "go up",
+              "correct": "To become higher or bigger",
+              "wrong": "To join the government",
+              "correctFirst": true,
+              "why": "Rent goes up almost every year in big cities. The price of coffee goes up when there is a bad harvest. Support for the government's two smaller partners went up."
+            },
+            {
+              "display": "add up to",
+              "base": "add up to",
+              "correct": "To make a total of",
+              "wrong": "To be split among",
+              "correctFirst": false,
+              "why": "Small savings add up to a lot of money over time. Two short walks a day add up to an hour. Together, the three parties' seats add up to 67."
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something you already have",
+              "wrong": "To share power with a rival",
+              "correctFirst": true,
+              "why": "Good companies hold on to their best workers. Many families hold on to old photos for years. With a slim lead, the government could hold on to power."
+            }
+          ]
+        },
+        {
+          "text": "Opportunity, a small [[centrist]] party, {{won over}} about 6 percent of voters and will enter parliament for the first time. Even with Opportunity's 7 seats, Hipkins and his partners {{fall short of}} a majority. Opportunity's leader said it would {{reach out to}} the party with the most seats first. But hundreds of thousands of [[special votes]], from people overseas or away from home, still need counting. An [[election law]] expert said the result could {{come down to}} small [[margins]].",
+          "verbs": [
+            {
+              "display": "won over",
+              "base": "win over",
+              "correct": "To get someone's support",
+              "wrong": "To ask people to vote early",
+              "correctFirst": false,
+              "why": "A friendly waiter wins over even the hardest customers. A good first speech wins over many new voters. The small centrist party won over about 6 percent of voters."
+            },
+            {
+              "display": "fall short of",
+              "base": "fall short of",
+              "correct": "To fail to reach a goal",
+              "wrong": "To lose a seat in a close race",
+              "correctFirst": true,
+              "why": "Our fundraiser often falls short of its goal. His test score falls short of what the college wants. Even with Opportunity's 7 seats, Hipkins and his partners fall short of a majority."
+            },
+            {
+              "display": "reach out to",
+              "base": "reach out to",
+              "correct": "To contact someone to start talking",
+              "wrong": "To make a promise to voters",
+              "correctFirst": false,
+              "why": "Good teachers reach out to parents when a child has trouble. Our company reaches out to new customers by email. Opportunity's leader said it would reach out to the party with the most seats first."
+            },
+            {
+              "display": "come down to",
+              "base": "come down to",
+              "correct": "To be decided mainly by something",
+              "wrong": "To be counted again by hand",
+              "correctFirst": true,
+              "why": "Many close games come down to the last few minutes. A job choice often comes down to pay. An election law expert said the result could come down to small margins."
+            }
+          ]
+        },
+        {
+          "text": "The [[official result]] {{comes out}} on November 27. Until then, Luxon will {{stay on}} as prime minister of a [[caretaker government]], a temporary government that keeps [[daily business]] going. Talks between parties could {{drag on}} for weeks. The campaign focused on the [[cost of living]] and [[unemployment]]. [[Record numbers]] of New Zealanders have {{moved away}}, many to Australia. Together, the two biggest parties won under 60 percent, their lowest [[share]] since 1996.",
+          "verbs": [
+            {
+              "display": "comes out",
+              "base": "come out",
+              "correct": "To be made public",
+              "wrong": "To be sent by mail",
+              "correctFirst": false,
+              "why": "The new school rules come out every August. Test scores come out a week after the exam. The official election result comes out on November 27."
+            },
+            {
+              "display": "stay on",
+              "base": "stay on",
+              "correct": "To keep the same job for longer",
+              "wrong": "To visit voters at home",
+              "correctFirst": true,
+              "why": "Some teachers stay on for a year after their planned last day. The old manager stays on until the new one arrives. Luxon will stay on as prime minister until the official result."
+            },
+            {
+              "display": "drag on",
+              "base": "drag on",
+              "correct": "To last longer than people want",
+              "wrong": "To be kept secret from voters",
+              "correctFirst": false,
+              "why": "Some meetings drag on for hours. The winter drags on when it is cold and dark. Talks between the parties could drag on for weeks."
+            },
+            {
+              "display": "moved away",
+              "base": "move away",
+              "correct": "To leave and live somewhere else",
+              "wrong": "To lose a job in a slow economy",
+              "correctFirst": true,
+              "why": "Many young people move away from small towns for work. Some retired couples move away to be near their grandchildren. Record numbers of New Zealanders have moved away, many to Australia."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Give up",
+          "def": "To stop trying and accept a loss",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "The runner was tired, but she didn't give up.",
+            "Don't give up on your English just because it feels slow.",
+            "After three losses, the coach told the players not to give up."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand something by thinking",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I finally figured out how to use the new printer.",
+            "Can you help me figure out this math problem?",
+            "We need to figure out why the car makes that noise."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher or bigger",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "Gas prices went up again before the long weekend.",
+            "My electric bill always goes up in the summer.",
+            "The number of students in my class went up to 30."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "def": "To make a total of",
+          "ipa": "/æd ʌp tu/",
+          "ex": [
+            "My three part-time jobs add up to 40 hours a week.",
+            "The bills on the table add up to 200 dollars.",
+            "Ten minutes of reading a day adds up to a lot of books in a year."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something you already have",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "The team held on to first place until the end of the season.",
+            "She held on to her job when others lost theirs.",
+            "Try to hold on to your receipts in case you need them."
+          ]
+        },
+        {
+          "verb": "Win over",
+          "def": "To get someone's support",
+          "ipa": "/wɪn ˈoʊvər/",
+          "ex": [
+            "The new coach won over the players in just a few weeks.",
+            "Her kind words won over the angry neighbor.",
+            "The singer won over the crowd with her first song."
+          ]
+        },
+        {
+          "verb": "Fall short of",
+          "def": "To fail to reach a goal",
+          "ipa": "/fɔl ʃɔrt ʌv/",
+          "ex": [
+            "The movie fell short of what the fans hoped for.",
+            "Sales fell short of the company's target this year.",
+            "The school fell short of the money it needed for a new gym."
+          ]
+        },
+        {
+          "verb": "Reach out to",
+          "def": "To contact someone to start talking",
+          "ipa": "/ritʃ aʊt tu/",
+          "ex": [
+            "I reached out to an old friend after many years.",
+            "The nurse reached out to the family to explain the test.",
+            "Feel free to reach out to me if you have questions."
+          ]
+        },
+        {
+          "verb": "Come down to",
+          "def": "To be decided mainly by something",
+          "ipa": "/kʌm daʊn tu/",
+          "ex": [
+            "In the end, the choice came down to price.",
+            "The game came down to one last shot.",
+            "For me, a good home comes down to a quiet street."
+          ]
+        },
+        {
+          "verb": "Come out",
+          "def": "To be made public",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "The final grades came out on Friday.",
+            "When does the new report come out?",
+            "The news about the merger came out late at night."
+          ]
+        },
+        {
+          "verb": "Stay on",
+          "def": "To keep the same job for longer",
+          "ipa": "/steɪ ɑn/",
+          "ex": [
+            "The coach agreed to stay on for one more season.",
+            "She stayed on at the bank after her boss left.",
+            "He will stay on as manager until June."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To last longer than people want",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The trial dragged on for two years.",
+            "The speech dragged on, and people started to leave.",
+            "I hope this rainy week doesn't drag on much longer."
+          ]
+        },
+        {
+          "verb": "Move away",
+          "def": "To leave and live somewhere else",
+          "ipa": "/muv əˈweɪ/",
+          "ex": [
+            "My cousin moved away to go to college in Texas.",
+            "We moved away when I was ten, but I still visit.",
+            "Many families move away when the local factory closes."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "preliminary results",
+          "def": "Early numbers that may still change before the final count",
+          "ipa": "/prɪˈlɪməˌnɛri rɪˈzʌlts/",
+          "ex": [
+            "The preliminary results of the medical test look good.",
+            "Preliminary results show that the new drug may help.",
+            "The company shared preliminary results from its survey."
+          ]
+        },
+        {
+          "word": "opposition party",
+          "def": "A party that is not part of the government",
+          "ipa": "/ˌɑpəˈzɪʃən ˈpɑrti/",
+          "ex": [
+            "The opposition party voted against the new tax.",
+            "Leaders of the opposition party asked the prime minister hard questions.",
+            "Each opposition party hopes to win the next election."
+          ]
+        },
+        {
+          "word": "party vote",
+          "def": "A vote for a political party, not for one person",
+          "ipa": "/ˈpɑrti voʊt/",
+          "ex": [
+            "In some countries, voters cast a party vote and a vote for a person.",
+            "The party vote decides how many seats each party gets.",
+            "She gave her party vote to a small new party."
+          ]
+        },
+        {
+          "word": "coalitions",
+          "def": "Groups of parties or people that agree to work together",
+          "ipa": "/ˌkoʊəˈlɪʃənz/",
+          "ex": [
+            "Small countries often form coalitions to have a stronger voice.",
+            "Several coalitions of parents asked for safer streets.",
+            "Coalitions can fail when partners disagree."
+          ]
+        },
+        {
+          "word": "right-leaning",
+          "def": "Having political views closer to the right side",
+          "ipa": "/ˈraɪt ˌlinɪŋ/",
+          "ex": [
+            "My uncle reads a right-leaning newspaper.",
+            "The city has many right-leaning voters.",
+            "A right-leaning group wants lower taxes."
+          ]
+        },
+        {
+          "word": "majority",
+          "def": "More than half of a group or total",
+          "ipa": "/məˈdʒɔrəti/",
+          "ex": [
+            "A majority of students voted for a longer lunch break.",
+            "The plan needs a majority to pass.",
+            "The majority of my friends live near the city."
+          ]
+        },
+        {
+          "word": "slim lead",
+          "def": "A very small advantage over others",
+          "ipa": "/slɪm lid/",
+          "ex": [
+            "Our team has a slim lead with five minutes left.",
+            "The mayor holds a slim lead in the latest poll.",
+            "A slim lead can disappear very quickly."
+          ]
+        },
+        {
+          "word": "centrist",
+          "def": "Having political views in the middle, not left or right",
+          "ipa": "/ˈsɛntrɪst/",
+          "ex": [
+            "The centrist candidate tried to please both sides.",
+            "Many centrist voters care most about the economy.",
+            "A centrist group of lawmakers wrote the new plan."
+          ]
+        },
+        {
+          "word": "special votes",
+          "def": "Votes cast by people away from home or overseas, counted later",
+          "ipa": "/ˈspɛʃəl voʊts/",
+          "ex": [
+            "Special votes can take weeks to count.",
+            "Students studying abroad can send special votes.",
+            "In a close race, special votes can change the winner."
+          ]
+        },
+        {
+          "word": "election law",
+          "def": "The rules about how elections are run",
+          "ipa": "/ɪˈlɛkʃən lɔ/",
+          "ex": [
+            "She teaches election law at a university.",
+            "The new election law changes when people can register to vote.",
+            "Lawyers who know election law are busy in a close race."
+          ]
+        },
+        {
+          "word": "margins",
+          "def": "The differences in votes or points between winners and losers",
+          "ipa": "/ˈmɑrdʒɪnz/",
+          "ex": [
+            "Both games were won by small margins.",
+            "The margins in this year's races were very close.",
+            "Polls show wide margins in some cities."
+          ]
+        },
+        {
+          "word": "official result",
+          "def": "The final count that is approved and announced",
+          "ipa": "/əˈfɪʃəl rɪˈzʌlt/",
+          "ex": [
+            "We are still waiting for the official result of the vote.",
+            "The official result showed a different winner from the early count.",
+            "The official result will be posted online."
+          ]
+        },
+        {
+          "word": "caretaker government",
+          "def": "A temporary government that runs things until a new one starts",
+          "ipa": "/ˈkɛrˌteɪkər ˈɡʌvərnmənt/",
+          "ex": [
+            "A caretaker government usually avoids big new laws.",
+            "The country had a caretaker government for three months.",
+            "Ministers in a caretaker government still do their daily work."
+          ]
+        },
+        {
+          "word": "daily business",
+          "def": "The normal work that must be done every day",
+          "ipa": "/ˈdeɪli ˈbɪznəs/",
+          "ex": [
+            "The manager is away, but the daily business of the store continues.",
+            "Phone calls and emails are part of my daily business.",
+            "The strike stopped the daily business of the city hall."
+          ]
+        },
+        {
+          "word": "cost of living",
+          "def": "The amount of money people need for food, housing and other basics",
+          "ipa": "/kɔst əv ˈlɪvɪŋ/",
+          "ex": [
+            "The cost of living is very high in New York.",
+            "Many workers want higher pay because of the cost of living.",
+            "She moved to a smaller town with a lower cost of living."
+          ]
+        },
+        {
+          "word": "unemployment",
+          "def": "The state of not having a job, or the number of people without jobs",
+          "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+          "ex": [
+            "Unemployment is lower this year than last year.",
+            "The factory closing caused high unemployment in the town.",
+            "He received help during his time of unemployment."
+          ]
+        },
+        {
+          "word": "Record numbers",
+          "def": "More than ever before",
+          "ipa": "/ˈrɛkərd ˈnʌmbərz/",
+          "ex": [
+            "Record numbers of people visited the park in July.",
+            "Record numbers of students joined the class.",
+            "Stores saw record numbers of shoppers on Black Friday."
+          ]
+        },
+        {
+          "word": "share",
+          "def": "The part of a total that belongs to one person or group",
+          "ipa": "/ʃɛr/",
+          "ex": [
+            "Her share of the rent is 600 dollars.",
+            "Online sales are a growing share of the market.",
+            "Each child got an equal share of the cake."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "New Zealand's two biggest parties finished almost even, so nobody has clearly won yet. Small parties and votes from overseas will help decide which side forms the next government.",
+          "a": true,
+          "why": "The vote was too close for any party to give up or claim a win. The final count comes out on November 27, and talks could drag on for weeks."
+        },
+        {
+          "s": "The prime minister's party lost its place as the largest group in parliament. Now the main opposition will lead the talks with small parties, and a final count is due in late November.",
+          "a": false,
+          "why": "Close, but Luxon's National Party still won the most seats. Its government could hold on to power, and Luxon will stay on as prime minister for now."
+        },
+        {
+          "s": "Voters in New Zealand have approved a plan to change how members of parliament are chosen. The new rules start at the next election and will end the separate vote for a political party.",
+          "a": false,
+          "why": "This story is about an election with no clear winner. The two big parties are almost tied, and the result could come down to small margins."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Neither big party won enough seats to rule without partners.",
+          "a": true,
+          "why": "National won 42 seats and the main opposition won 36. A majority is 66, so each party falls short of it alone."
+        },
+        {
+          "s": "Hipkins has given up and accepted that his side lost.",
+          "a": false,
+          "why": "Hipkins has not given up. He said it may take longer to figure out what voters wanted."
+        },
+        {
+          "s": "Support for the government's two smaller partners went up.",
+          "a": true,
+          "why": "Both right-leaning partner parties got more votes than at the last election."
+        },
+        {
+          "s": "The centrist party Opportunity has been in parliament for many years.",
+          "a": false,
+          "why": "Opportunity won over about 6 percent of voters and will enter parliament for the first time."
+        },
+        {
+          "s": "Hundreds of thousands of special votes still need counting.",
+          "a": true,
+          "why": "These votes from overseas and away from home are not counted yet, so the result could come down to small margins."
+        },
+        {
+          "s": "Luxon has left his job as prime minister while the votes are counted.",
+          "a": false,
+          "why": "Luxon will stay on as prime minister of a caretaker government until the official result."
+        }
+      ]
+    },
+    {
       "id": "south-africa-anc-local-vote-2026",
       "number": 218,
       "headline": "South Africa's ruling party loses ground in local votes",
