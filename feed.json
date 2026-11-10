@@ -1,6 +1,490 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "stories": [
+    {
+      "id": "octopus-squeeze-holes-2026",
+      "number": 220,
+      "headline": "How octopuses squeeze through tiny holes",
+      "badge": "Science",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n220-octopus-squeeze-holes-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "How octopuses squeeze through teeny tiny holes (NPR)",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6027897/how-octopuses-squeeze-through-teeny-tiny-holes"
+        },
+        {
+          "title": "How octopuses squeeze through too small gaps (The Company of Biologists, via EurekAlert!)",
+          "url": "https://www.eurekalert.org/news-releases/1149776"
+        },
+        {
+          "title": "How do octopuses squeeze through tiny holes? (Popular Science)",
+          "url": "https://www.popsci.com/environment/how-does-octopus-squeeze-through-small-hole/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Octopuses can [[squeeze]] their [[soft bodies]] through holes smaller than they are. A study published on November 5, 2026, shows how. Biologists in Austria and Italy {{teamed up}} with robot engineers in Singapore. They wanted to {{figure out}} the [[exact steps]] an octopus takes. The answer could help build robots for [[rescue work]] after earthquakes.",
+          "verbs": [
+            {
+              "display": "teamed up",
+              "base": "team up",
+              "correct": "To join others to do a task together",
+              "wrong": "To win money for a new study",
+              "correctFirst": true,
+              "why": "My brother and I team up for school projects. Two shops team up to sell food at the fair. Biologists in Austria and Italy teamed up with robot engineers in Singapore."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To understand something by studying it",
+              "wrong": "To share results with other scientists",
+              "correctFirst": false,
+              "why": "My son figures out math problems very fast. Doctors try to figure out what causes the pain. The researchers wanted to figure out the exact steps an octopus takes."
+            }
+          ]
+        },
+        {
+          "text": "The team tested two kinds of octopus, common and Mayan, at an aquarium in Vienna. An octopus is soft except for a small [[beak]] and a hard case around its brain. The [[distance]] between its eyes shows how wide that case is. The scientists built [[clear plastic]] boxes with holes and {{set up}} cameras. Some holes were wider than that, and some were smaller.",
+          "verbs": [
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To place equipment so it is ready",
+              "wrong": "To check that equipment is safe",
+              "correctFirst": true,
+              "why": "The band sets up its speakers before every show. My dad sets up the tent while we cook dinner. The scientists built clear plastic boxes with holes and set up cameras."
+            }
+          ]
+        },
+        {
+          "text": "With a wide hole, common octopuses followed the same [[pattern]]. One arm went in first to {{check out}} the other side. More arms followed. In one last move, two arms [[gripped]] the wall with [[suckers]] and pulled the body across. With a smaller hole, a common octopus {{broke the last move down}} into two steps: other arms first, then the body. When the only hole was small, the Mayan octopuses {{stayed away}} and {{hung out}} in a [[corner]]. Offered two holes, they felt the small one, then {{gave up}} on it.",
+          "verbs": [
+            {
+              "display": "check out",
+              "base": "check out",
+              "correct": "To examine something to learn about it",
+              "wrong": "To block an opening with something",
+              "correctFirst": false,
+              "why": "Cats always check out a new box carefully. Buyers check out a house before they make an offer. First, one arm went into the hole to check out the other side."
+            },
+            {
+              "display": "broke the last move down",
+              "base": "break down",
+              "correct": "To divide something into smaller parts",
+              "wrong": "To repeat something many times",
+              "correctFirst": true,
+              "why": "Good teachers break big lessons down into small steps. She breaks her long run down into three parts. With a smaller hole, a common octopus broke the last move down into two steps."
+            },
+            {
+              "display": "stayed away",
+              "base": "stay away",
+              "correct": "To not go near something",
+              "wrong": "To move slowly to the other side",
+              "correctFirst": false,
+              "why": "Most deer stay away from busy roads. I stay away from that bridge when it rains. When the only hole was small, the Mayan octopuses stayed away."
+            },
+            {
+              "display": "hung out",
+              "base": "hang out",
+              "correct": "To spend time relaxing somewhere",
+              "wrong": "To change color to match the walls",
+              "correctFirst": true,
+              "why": "My kids hang out in the park after school. Our cat hangs out on the sofa all day. The Mayan octopuses hung out in a corner."
+            },
+            {
+              "display": "gave up",
+              "base": "give up",
+              "correct": "To stop trying to do something",
+              "wrong": "To make a hole bigger by pushing",
+              "correctFirst": false,
+              "why": "Many people give up when a puzzle gets hard. My son never gives up on a difficult game. Offered two holes, the Mayan octopuses felt the small one, then gave up on it."
+            }
+          ]
+        },
+        {
+          "text": "Most rescue robots are long and thin like snakes. That leaves little room for [[emergency supplies]] and [[sensors]], the parts that help a robot see and feel. An octopus-like robot could {{track down}} [[survivors]] under [[fallen buildings]] and {{drop off}} food and water. An engineer at the University of Connecticut, not part of the study, said the results {{back up}} the idea of robots that pull themselves forward instead of pushing. Robots usually {{take on}} [[dull]], dirty or dangerous jobs, he said. Octopuses suggest a new kind: [[delicate work]].",
+          "verbs": [
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find someone after searching",
+              "wrong": "To send a signal for help",
+              "correctFirst": true,
+              "why": "Police dogs track down people who are lost in the woods. Reporters track down people who saw the crash. An octopus-like robot could track down survivors under fallen buildings."
+            },
+            {
+              "display": "drop off",
+              "base": "drop off",
+              "correct": "To deliver something to someone",
+              "wrong": "To hide something from people",
+              "correctFirst": false,
+              "why": "The mail carrier drops off packages every morning. Volunteers drop off meals at older people's homes. An octopus-like robot could also drop off food and water."
+            },
+            {
+              "display": "back up",
+              "base": "back up",
+              "correct": "To give support to an idea",
+              "wrong": "To explain an idea in simple words",
+              "correctFirst": true,
+              "why": "Good test results back up a doctor's idea. Photos often back up a witness's story. An engineer said the results back up the idea of robots that pull themselves forward instead of pushing."
+            },
+            {
+              "display": "take on",
+              "base": "take on",
+              "correct": "To agree to do a job",
+              "wrong": "To build a new machine",
+              "correctFirst": false,
+              "why": "Our neighbor takes on extra work in the summer. Young workers often take on the hardest jobs. Robots usually take on dull, dirty or dangerous jobs, the engineer said."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Team up",
+          "def": "To join others to do a task together",
+          "ipa": "/tim ʌp/",
+          "ex": [
+            "Two local schools teamed up to build a new playground.",
+            "Let's team up and finish this report together.",
+            "The doctors teamed up with engineers to make a better heart pump."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand something by studying it",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out how this new phone works.",
+            "The mechanic figured out why the car was so loud.",
+            "We need to figure out the best way to get to the airport."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To place equipment so it is ready",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "We set up the chairs before the meeting started.",
+            "He set up a camera to watch the birds in his yard.",
+            "It took an hour to set up the new printer."
+          ]
+        },
+        {
+          "verb": "Check out",
+          "def": "To examine something to learn about it",
+          "ipa": "/tʃɛk aʊt/",
+          "ex": [
+            "Let's check out the new park on Saturday.",
+            "The dog checked out every corner of the yard.",
+            "She checked out the apartment before she signed the lease."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To divide something into smaller parts",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "The coach broke the play down into simple parts.",
+            "Can you break the cost down for me?",
+            "It helps to break a big goal down into small tasks."
+          ]
+        },
+        {
+          "verb": "Stay away",
+          "def": "To not go near something",
+          "ipa": "/steɪ əˈweɪ/",
+          "ex": [
+            "Please stay away from the hot stove.",
+            "Birds stay away from the yard when the cat is outside.",
+            "Please stay away from the edge of the pool."
+          ]
+        },
+        {
+          "verb": "Hang out",
+          "def": "To spend time relaxing somewhere",
+          "ipa": "/hæŋ aʊt/",
+          "ex": [
+            "We hung out at the beach all afternoon.",
+            "Teenagers often hang out at the mall.",
+            "Do you want to hang out at my place tonight?"
+          ]
+        },
+        {
+          "verb": "Give up",
+          "def": "To stop trying to do something",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "Don't give up just because the first try failed.",
+            "He gave up on the crossword after ten minutes.",
+            "She almost gave up, but she finished the race."
+          ]
+        },
+        {
+          "verb": "Track down",
+          "def": "To find someone after searching",
+          "ipa": "/træk daʊn/",
+          "ex": [
+            "It took weeks to track down my old school friend.",
+            "The police tracked down the missing hiker by nightfall.",
+            "Can you track down the owner of this wallet?"
+          ]
+        },
+        {
+          "verb": "Drop off",
+          "def": "To deliver something to someone",
+          "ipa": "/drɑp ɔf/",
+          "ex": [
+            "I drop off soup at my neighbor's house when she is sick.",
+            "Can you drop off this letter at the post office?",
+            "The driver dropped off three boxes of books."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To give support to an idea",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "Do you have any facts to back up that claim?",
+            "New numbers back up what the nurses said.",
+            "Her friends backed up her story."
+          ]
+        },
+        {
+          "verb": "Take on",
+          "def": "To agree to do a job",
+          "ipa": "/teɪk ɑn/",
+          "ex": [
+            "I can't take on any more work this month.",
+            "She took on the job of team leader.",
+            "Our company took on a big new project."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "squeeze",
+          "def": "To push something through or into a small space",
+          "ipa": "/skwiz/",
+          "ex": [
+            "I can squeeze one more sweater into my bag.",
+            "We tried to squeeze the couch through the front door.",
+            "She squeezed her car into a tiny parking space."
+          ]
+        },
+        {
+          "word": "soft bodies",
+          "def": "Bodies with no hard bones or shell",
+          "ipa": "/sɔft ˈbɑdiz/",
+          "ex": [
+            "Worms have soft bodies and no legs.",
+            "Animals with soft bodies can hide in small cracks.",
+            "Snails carry a shell to protect their soft bodies."
+          ]
+        },
+        {
+          "word": "exact steps",
+          "def": "The precise actions done in a certain order",
+          "ipa": "/ɪɡˈzækt stɛps/",
+          "ex": [
+            "The recipe lists the exact steps to make bread.",
+            "Write down the exact steps so others can repeat the test.",
+            "I forgot the exact steps to reset my password."
+          ]
+        },
+        {
+          "word": "rescue work",
+          "def": "The job of saving people who are in danger",
+          "ipa": "/ˈrɛskju wɜrk/",
+          "ex": [
+            "Firefighters do rescue work after big storms.",
+            "Dogs are trained for rescue work in the mountains.",
+            "Rescue work is hard and often dangerous."
+          ]
+        },
+        {
+          "word": "beak",
+          "def": "The hard, pointed mouth of a bird or some sea animals",
+          "ipa": "/bik/",
+          "ex": [
+            "The parrot cracked the nut with its strong beak.",
+            "A small bird had a worm in its beak.",
+            "The duck has a wide, flat yellow beak."
+          ]
+        },
+        {
+          "word": "distance",
+          "def": "The amount of space between two places or things",
+          "ipa": "/ˈdɪstəns/",
+          "ex": [
+            "The distance from my home to work is ten miles.",
+            "Keep a safe distance from the car in front of you.",
+            "What is the distance between the two cities?"
+          ]
+        },
+        {
+          "word": "clear plastic",
+          "def": "Plastic that you can see through",
+          "ipa": "/klɪr ˈplæstɪk/",
+          "ex": [
+            "The cake came in a box of clear plastic.",
+            "Keep your papers in a clear plastic folder.",
+            "The store sells clear plastic boxes for shoes."
+          ]
+        },
+        {
+          "word": "pattern",
+          "def": "A way of doing something that repeats the same way",
+          "ipa": "/ˈpætərn/",
+          "ex": [
+            "My sleep pattern changed when I started the night job.",
+            "Doctors look for a pattern in the test results.",
+            "The birds follow the same pattern every spring."
+          ]
+        },
+        {
+          "word": "gripped",
+          "def": "Held something very tightly",
+          "ipa": "/ɡrɪpt/",
+          "ex": [
+            "She gripped the rail on the icy stairs.",
+            "The child gripped his mother's hand in the crowd.",
+            "He gripped the steering wheel with both hands."
+          ]
+        },
+        {
+          "word": "suckers",
+          "def": "Round parts on an animal's arms that stick to surfaces",
+          "ipa": "/ˈsʌkərz/",
+          "ex": [
+            "An octopus has hundreds of suckers on its arms.",
+            "The squid's suckers held the fish tightly.",
+            "Tiny suckers help the animal climb smooth rocks."
+          ]
+        },
+        {
+          "word": "corner",
+          "def": "The place where two walls meet",
+          "ipa": "/ˈkɔrnər/",
+          "ex": [
+            "The lamp stands in the corner of the living room.",
+            "Our cat sleeps in a corner of the kitchen.",
+            "Put the plant in the corner near the window."
+          ]
+        },
+        {
+          "word": "emergency supplies",
+          "def": "Things like food, water and medicine kept ready for a disaster",
+          "ipa": "/ɪˈmɜrdʒənsi səˈplaɪz/",
+          "ex": [
+            "We keep emergency supplies in the basement.",
+            "Trucks brought emergency supplies to the flooded town.",
+            "Check your emergency supplies before hurricane season."
+          ]
+        },
+        {
+          "word": "sensors",
+          "def": "Devices that notice things like heat, light or movement",
+          "ipa": "/ˈsɛnsərz/",
+          "ex": [
+            "The lights turn on when the sensors notice movement.",
+            "Modern cars have sensors that warn the driver.",
+            "Sensors in the room measure the temperature."
+          ]
+        },
+        {
+          "word": "survivors",
+          "def": "People who are still alive after a disaster",
+          "ipa": "/sərˈvaɪvərz/",
+          "ex": [
+            "Doctors treated the survivors of the fire.",
+            "Boats searched the lake for survivors.",
+            "All of the survivors were taken to a hospital."
+          ]
+        },
+        {
+          "word": "fallen buildings",
+          "def": "Buildings that have dropped to the ground in pieces",
+          "ipa": "/ˈfɔlən ˈbɪldɪŋz/",
+          "ex": [
+            "After the storm, fallen buildings blocked the street.",
+            "Workers cleared the fallen buildings one by one.",
+            "People searched the fallen buildings with dogs."
+          ]
+        },
+        {
+          "word": "dull",
+          "def": "Boring and not interesting",
+          "ipa": "/dʌl/",
+          "ex": [
+            "The movie was long and dull.",
+            "He hates dull jobs like sorting mail.",
+            "The meeting was so dull that I almost fell asleep."
+          ]
+        },
+        {
+          "word": "delicate work",
+          "def": "Work that needs great care because things can break easily",
+          "ipa": "/ˈdɛlɪkət wɜrk/",
+          "ex": [
+            "Fixing old watches is delicate work.",
+            "Cleaning old paintings is delicate work.",
+            "Surgery on the eye is very delicate work."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Scientists filmed octopuses moving through holes smaller than their bodies and found repeated steps. They hope the findings will help engineers build better robots for disaster rescues.",
+          "a": true,
+          "why": "The common octopuses used one arm to check out the hole and then followed set steps. The team wants robots that can track down survivors."
+        },
+        {
+          "s": "Researchers learned that both kinds of octopus fit through even the tiniest openings in exactly the same way. They believe any octopus can go wherever its hard brain case is able to pass.",
+          "a": false,
+          "why": "Close, but the two kinds acted differently. The Mayan octopuses stayed away from a small hole and just hung out in a corner of the box."
+        },
+        {
+          "s": "A new aquarium in Vienna has opened a huge tank where visitors can watch octopuses hunt crabs. Officials expect thousands of families to visit it during the long winter school break.",
+          "a": false,
+          "why": "This story is about a study on how octopuses squeeze through small holes. Researchers in Europe and Singapore teamed up to do it."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Biologists and robotics researchers teamed up to study octopuses.",
+          "a": true,
+          "why": "Biologists in Austria and Italy worked with robotics researchers in Singapore."
+        },
+        {
+          "s": "The common octopuses sent their bodies into the hole before their arms.",
+          "a": false,
+          "why": "One arm went into the hole first to check out the other side. The body came last."
+        },
+        {
+          "s": "The Mayan octopuses stayed away from the smaller holes.",
+          "a": true,
+          "why": "They never touched a small hole on its own. With two holes, they gave up on the small one."
+        },
+        {
+          "s": "The Mayan octopuses squeezed through every hole they were given.",
+          "a": false,
+          "why": "When a small hole was the only way out, they never touched it. They hung out in a corner."
+        },
+        {
+          "s": "The researchers hope to build robots that can track down survivors.",
+          "a": true,
+          "why": "A robot that moves like an octopus could find people under fallen buildings after a disaster."
+        },
+        {
+          "s": "Most rescue robots today are shaped like octopuses.",
+          "a": false,
+          "why": "Most rescue robots are long and thin like snakes. The team wants robots that can track down survivors in tight spaces."
+        }
+      ]
+    },
     {
       "id": "nz-election-too-close-2026",
       "number": 219,
