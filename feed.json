@@ -2,6 +2,458 @@
   "updated": "2026-11-12",
   "stories": [
     {
+      "id": "brooklyn-building-collapse-2026",
+      "number": 224,
+      "headline": "Building in Brooklyn falls into a construction site",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n224-brooklyn-building-collapse-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Brooklyn building collapse live updates: Dangerous search for survivors continues in NYC (CNN)",
+          "url": "https://www.cnn.com/2026/11/11/us/live-news/brooklyn-building-collapse-nyc"
+        },
+        {
+          "title": "At least 2 killed, 17 hurt in Brooklyn building collapse, officials say (CBS New York)",
+          "url": "https://www.cbsnews.com/newyork/news/brooklyn-building-collapse-bedford-avenue/"
+        },
+        {
+          "title": "Brooklyn building collapse kills at least two people and traps others in wreckage (The Guardian)",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+        },
+        {
+          "title": "Flatbush collapse investigation focuses on building's history, nearby construction (ABC7 New York)",
+          "url": "https://abc7ny.com/post/brooklyn-building-collapse-investigation-focuses-what-caused-tragedy-flatbush/20035040/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 11, 2026, a three-story building in Brooklyn, part of New York City, {{came down}} just after 4 p.m. It had a store on the [[ground floor]] and apartments above. Its walls {{caved in}}, and it fell into a [[construction site]] next door. At least two people died and at least 17 were [[injured]], fire officials said that night. Four were in [[critical condition]], so their lives were in danger. Seven children were among those [[treated]].",
+          "verbs": [
+            {
+              "display": "came down",
+              "base": "come down",
+              "correct": "To fall to the ground",
+              "wrong": "To be closed for repairs",
+              "correctFirst": true,
+              "why": "Many old trees come down in big storms. Old walls often come down in an earthquake. A three-story building in Brooklyn came down on the afternoon of November 11, 2026."
+            },
+            {
+              "display": "caved in",
+              "base": "cave in",
+              "correct": "To fall inward and break",
+              "wrong": "To shake during a storm",
+              "correctFirst": false,
+              "why": "Old roofs sometimes cave in under heavy snow. The sides of a deep hole can cave in after rain. The building's walls caved in, and it fell into a construction site next door."
+            }
+          ]
+        },
+        {
+          "text": "The building was built in 1930. Next to it, a one-story building had been {{knocked down}} for a new [[building project]]. Workers there were digging into the ground when the building fell, the fire department's top chief said. The city's Department of Buildings is trying to {{figure out}} the cause. It is not yet clear whether the work next door [[played a part]]. [[Inspectors]] are checking nearby buildings to make sure they are safe.",
+          "verbs": [
+            {
+              "display": "knocked down",
+              "base": "knock down",
+              "correct": "To destroy a building",
+              "wrong": "To repair a building",
+              "correctFirst": true,
+              "why": "The city knocks down empty buildings that are not safe. Some owners knock down old houses and build bigger ones. Next to the Brooklyn building, a one-story building had been knocked down for a new building project."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To understand or learn something",
+              "wrong": "To keep something secret",
+              "correctFirst": false,
+              "why": "Mechanics figure out what is wrong with a car. Doctors figure out the cause of a fever with a few tests. The city's Department of Buildings is trying to figure out the cause of the collapse."
+            }
+          ]
+        },
+        {
+          "text": "More than 250 firefighters and [[emergency medical workers]] came to help. The first fire trucks {{pulled up}} about one minute after the first call. Crews {{carried out}} a careful, dangerous search. They moved the [[rubble]], the broken pieces of the building, mostly [[by hand]]. [[Rescue dogs]] helped them. Some firefighters {{broke through}} a fallen wall to search under it. Early that evening, they {{dug out}} a [[pregnant]] woman. Her husband told reporters she was alive.",
+          "verbs": [
+            {
+              "display": "pulled up",
+              "base": "pull up",
+              "correct": "To drive to a place and stop",
+              "wrong": "To call for more help",
+              "correctFirst": false,
+              "why": "The school bus pulls up at the corner every morning. An ambulance pulls up in front of the house. The first fire trucks pulled up about one minute after the first call for help."
+            },
+            {
+              "display": "carried out",
+              "base": "carry out",
+              "correct": "To do a job or task",
+              "wrong": "To pay for a job or task",
+              "correctFirst": true,
+              "why": "Doctors carry out tests to check your blood. Firefighters carry out training every week. In Brooklyn, crews carried out a careful, dangerous search of the rubble."
+            },
+            {
+              "display": "broke through",
+              "base": "break through",
+              "correct": "To force a way past something",
+              "wrong": "To make something stronger",
+              "correctFirst": false,
+              "why": "Firefighters often break through a locked door to reach people inside. Rescuers sometimes break through thick ice to save a dog. Some firefighters in Brooklyn broke through a fallen wall to search under it."
+            },
+            {
+              "display": "dug out",
+              "base": "dig out",
+              "correct": "To free someone who is trapped",
+              "wrong": "To give someone first aid",
+              "correctFirst": true,
+              "why": "After an earthquake, rescuers dig out people from fallen homes. Ski patrol teams dig out skiers who are stuck under snow. Early that evening, firefighters dug out a pregnant woman from the rubble."
+            }
+          ]
+        },
+        {
+          "text": "Part of the [[side wall]] of a second building was {{torn off}}, so people could see into its apartments. At least eight families had to leave their homes. The Red Cross and the city opened a [[help center]] for them. Officials do not yet know how many people may be [[missing]]. New York City's mayor praised the rescuers for their [[quick response]]. Fire officials said crews would {{keep up}} the search for several days.",
+          "verbs": [
+            {
+              "display": "torn off",
+              "base": "tear off",
+              "correct": "To remove something with force",
+              "wrong": "To cover something with paint",
+              "correctFirst": true,
+              "why": "Strong winds sometimes tear off the roofs of houses. Big storms tear off branches from old trees. Part of the side wall of a second building in Brooklyn was torn off."
+            },
+            {
+              "display": "keep up",
+              "base": "keep up",
+              "correct": "To continue doing something",
+              "wrong": "To make something smaller",
+              "correctFirst": false,
+              "why": "The workers keep up the repairs all through the night. Fans keep up the cheering until the end of the game. Fire officials said crews would keep up the search in Brooklyn for several days."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Come down",
+          "def": "To fall to the ground",
+          "ipa": "/kʌm daʊn/",
+          "ex": [
+            "The old tree came down during the storm.",
+            "Part of the bridge came down in the earthquake.",
+            "The tent came down when the wind got stronger."
+          ]
+        },
+        {
+          "verb": "Cave in",
+          "def": "To fall inward and break",
+          "ipa": "/keɪv ɪn/",
+          "ex": [
+            "The roof of the old barn caved in under the snow.",
+            "The mine tunnel caved in, so the workers left quickly.",
+            "The ground caved in after days of heavy rain."
+          ]
+        },
+        {
+          "verb": "Knock down",
+          "def": "To destroy a building",
+          "ipa": "/nɑk daʊn/",
+          "ex": [
+            "They knocked down the old hospital last year.",
+            "The city plans to knock down the empty mall.",
+            "The town knocked down the old fire station."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To understand or learn something",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out how this phone works.",
+            "Police are trying to figure out who started the fire.",
+            "We figured out why the kitchen floor was wet."
+          ]
+        },
+        {
+          "verb": "Pull up",
+          "def": "To drive to a place and stop",
+          "ipa": "/pʊl ʌp/",
+          "ex": [
+            "A taxi pulled up outside the hotel.",
+            "The police car pulled up next to us.",
+            "We pulled up at the gas station to buy water."
+          ]
+        },
+        {
+          "verb": "Carry out",
+          "def": "To do a job or task",
+          "ipa": "/ˈkæri aʊt/",
+          "ex": [
+            "The hospital carried out more than 200 operations last month.",
+            "Scientists carried out a study on sleep.",
+            "The army carried out a rescue after the flood."
+          ]
+        },
+        {
+          "verb": "Break through",
+          "def": "To force a way past something",
+          "ipa": "/breɪk θru/",
+          "ex": [
+            "The firefighters broke through the door with an ax.",
+            "Water broke through the wall of the old dam.",
+            "The rescue team broke through the ice to reach the boat."
+          ]
+        },
+        {
+          "verb": "Dig out",
+          "def": "To free someone who is trapped",
+          "ipa": "/dɪɡ aʊt/",
+          "ex": [
+            "Rescuers dug out a family after the earthquake.",
+            "Two workers were dug out of the tunnel alive.",
+            "The team dug out a hiker who was stuck under the snow."
+          ]
+        },
+        {
+          "verb": "Tear off",
+          "def": "To remove something with force",
+          "ipa": "/tɛr ɔf/",
+          "ex": [
+            "The storm tore off part of the roof.",
+            "Strong wind tore off the door of the shed.",
+            "The big wave tore off the front of the small boat."
+          ]
+        },
+        {
+          "verb": "Keep up",
+          "def": "To continue doing something",
+          "ipa": "/kip ʌp/",
+          "ex": [
+            "The team kept up the hard work all season.",
+            "Keep up the good work, everyone.",
+            "Volunteers kept up the search for the lost dog for three days."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "ground floor",
+          "def": "The floor of a building that is at the same level as the street",
+          "ipa": "/ɡraʊnd flɔr/",
+          "ex": [
+            "Our apartment is on the ground floor, so we have no stairs.",
+            "There is a small cafe on the ground floor of the hotel.",
+            "The ground floor of the museum has a gift shop."
+          ]
+        },
+        {
+          "word": "construction site",
+          "def": "A place where workers are building something",
+          "ipa": "/kənˈstrʌkʃən saɪt/",
+          "ex": [
+            "Workers must wear hard hats at the construction site.",
+            "The construction site near my house is very noisy.",
+            "Children should not play near a construction site."
+          ]
+        },
+        {
+          "word": "injured",
+          "def": "Hurt in an accident or attack",
+          "ipa": "/ˈɪndʒərd/",
+          "ex": [
+            "Three people were injured in the car accident.",
+            "The injured player left the game early.",
+            "She was injured when she fell from her bike."
+          ]
+        },
+        {
+          "word": "critical condition",
+          "def": "Very badly hurt or sick, with a real danger of dying",
+          "ipa": "/ˈkrɪtɪkəl kənˈdɪʃən/",
+          "ex": [
+            "The driver is in critical condition at the hospital.",
+            "Doctors said the man was in critical condition after the fire.",
+            "Two hikers were taken to the hospital in critical condition."
+          ]
+        },
+        {
+          "word": "treated",
+          "def": "Given medical care by doctors or nurses",
+          "ipa": "/ˈtritɪd/",
+          "ex": [
+            "He was treated for a broken arm.",
+            "Nurses treated the runners who felt sick from the heat.",
+            "She was treated at the hospital and went home the same day."
+          ]
+        },
+        {
+          "word": "building project",
+          "def": "A plan to build something new, and the work to do it",
+          "ipa": "/ˈbɪldɪŋ ˈprɑdʒɛkt/",
+          "ex": [
+            "The new library is the city's biggest building project.",
+            "The school's building project will take two years.",
+            "Our street is noisy because of a building project."
+          ]
+        },
+        {
+          "word": "played a part",
+          "def": "Was one of the reasons something happened",
+          "ipa": "/pleɪd ə pɑrt/",
+          "ex": [
+            "Bad weather played a part in the accident.",
+            "Her hard work played a part in the team's success.",
+            "Doctors think his diet played a part in his illness."
+          ]
+        },
+        {
+          "word": "Inspectors",
+          "def": "Officials whose job is to check that things are safe or follow the rules",
+          "ipa": "/ɪnˈspɛktərz/",
+          "ex": [
+            "Inspectors visit restaurants to check the kitchens.",
+            "Inspectors found problems with the old bridge.",
+            "Inspectors checked every exit in the school."
+          ]
+        },
+        {
+          "word": "emergency medical workers",
+          "def": "People trained to give medical help at the scene of an accident",
+          "ipa": "/ɪˈmɜrdʒənsi ˈmɛdɪkəl ˈwɜrkərz/",
+          "ex": [
+            "Emergency medical workers helped the runner who fell.",
+            "The ambulance brought two emergency medical workers.",
+            "Emergency medical workers learn how to help people quickly."
+          ]
+        },
+        {
+          "word": "rubble",
+          "def": "Broken pieces of stone, brick and wood from a building that has fallen",
+          "ipa": "/ˈrʌbəl/",
+          "ex": [
+            "The old church was just rubble after the earthquake.",
+            "Trucks carried away the rubble from the empty lot.",
+            "The dog found a toy under the rubble."
+          ]
+        },
+        {
+          "word": "by hand",
+          "def": "Using your hands, not machines",
+          "ipa": "/baɪ hænd/",
+          "ex": [
+            "My grandmother washed all our clothes by hand.",
+            "These shoes are made by hand.",
+            "He wrote the letter by hand."
+          ]
+        },
+        {
+          "word": "Rescue dogs",
+          "def": "Dogs trained to find people who are lost or trapped",
+          "ipa": "/ˈrɛskju dɔɡz/",
+          "ex": [
+            "Rescue dogs searched the snow for the missing skier.",
+            "Rescue dogs can smell people under the ground.",
+            "Rescue dogs work closely with firefighters."
+          ]
+        },
+        {
+          "word": "pregnant",
+          "def": "Having a baby growing inside the body",
+          "ipa": "/ˈprɛɡnənt/",
+          "ex": [
+            "My sister is pregnant with her first child.",
+            "Pregnant women should rest often.",
+            "She stopped drinking coffee when she was pregnant."
+          ]
+        },
+        {
+          "word": "side wall",
+          "def": "A wall on the side of a building, not the front or back",
+          "ipa": "/saɪd wɔl/",
+          "ex": [
+            "We painted a big picture on the side wall of the school.",
+            "The side wall of the garage has a small window.",
+            "Water was coming through the side wall of the house."
+          ]
+        },
+        {
+          "word": "help center",
+          "def": "A place where people can go to get support and information",
+          "ipa": "/hɛlp ˈsɛntər/",
+          "ex": [
+            "After the flood, families went to a help center for food and clothes.",
+            "The college has a help center for new students.",
+            "The help center is open every day until 8 p.m."
+          ]
+        },
+        {
+          "word": "missing",
+          "def": "Not found, and no one knows where the person is",
+          "ipa": "/ˈmɪsɪŋ/",
+          "ex": [
+            "Police are searching for a missing boy.",
+            "The missing hiker was found after two days.",
+            "Her cat has been missing since Monday."
+          ]
+        },
+        {
+          "word": "quick response",
+          "def": "Acting fast when something bad happens",
+          "ipa": "/kwɪk rɪˈspɑns/",
+          "ex": [
+            "The quick response of the nurse saved his life.",
+            "Thanks to a quick response, the fire stayed small.",
+            "The company thanked its staff for their quick response."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A building in Brooklyn fell into the construction site next to it, and at least two people died. Rescuers searched the rubble by hand, and officials are studying what caused it.",
+          "a": true,
+          "why": "The building came down on November 11, 2026, and at least 17 people were hurt. The city is trying to figure out the cause, and crews will keep up the search."
+        },
+        {
+          "s": "An old apartment building in New York collapsed beside a work site and killed two people. City leaders have already blamed the digging there, and crews ended their search that night.",
+          "a": false,
+          "why": "Close, but the cause is not known yet. The city is trying to figure it out, and fire officials said crews would keep up the search for several days."
+        },
+        {
+          "s": "Workers finished a tall new apartment tower in Brooklyn after five long years of building. Officials call it one of the safest homes in the city, and families may live there by spring.",
+          "a": false,
+          "why": "This story is about a building that fell into a construction site. At least two people died, and crews carried out a careful search by hand."
+        }
+      ],
+      "tf": [
+        {
+          "s": "A building in Brooklyn came down and fell into a construction site.",
+          "a": true,
+          "why": "On November 11, 2026, a three-story building came down into the construction site next door."
+        },
+        {
+          "s": "No one was hurt when the walls of the building caved in.",
+          "a": false,
+          "why": "When the walls caved in, at least two people died and at least 17 people were injured."
+        },
+        {
+          "s": "City officials already know what made the building fall.",
+          "a": false,
+          "why": "The cause is not known yet. The city's Department of Buildings is trying to figure it out."
+        },
+        {
+          "s": "Firefighters dug out a pregnant woman from the rubble.",
+          "a": true,
+          "why": "Early that evening, firefighters dug out a pregnant woman, and her husband told reporters that she was alive."
+        },
+        {
+          "s": "Rescuers searched the rubble mostly by hand.",
+          "a": true,
+          "why": "Crews carried out a careful search and moved the broken pieces of the building mostly by hand."
+        },
+        {
+          "s": "Fire officials said the search would end that same night.",
+          "a": false,
+          "why": "Fire officials said crews would keep up the search for several days."
+        }
+      ]
+    },
+    {
       "id": "italy-school-bomb-hoaxes-2026",
       "number": 223,
       "headline": "Fake bomb emails empty hundreds of schools in Italy",
