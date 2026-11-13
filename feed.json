@@ -1,6 +1,480 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "stories": [
+    {
+      "id": "nvidia-ceo-spy-probe-2026",
+      "number": 225,
+      "headline": "Nvidia's boss steps down after reports about a spy",
+      "badge": "Technology",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n225-nvidia-ceo-spy-probe-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "NVIDIA Announces CEO Transition (Nvidia statement, SEC filing)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang resigns after affair with suspected Chinese spy (NBC News)",
+          "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang resigns amid spy scandal and market loss (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo"
+        },
+        {
+          "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy (NPR)",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy"
+        },
+        {
+          "title": "The spying affair scandal surrounding Nvidia CEO Jensen Huang could shape the US-China AI race (ABC News)",
+          "url": "https://www.abc.net.au/news/2026-11-10/nvidia-and-spy-affair-could-reshape-us-china-ai-race/107367578"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Jensen Huang {{stepped down}} as the head of Nvidia on November 12, 2026. Nvidia is an American company that makes computer [[chips]], tiny parts that work like a computer's brain. Its chips run many [[artificial intelligence]], or AI, systems. Huang, 63, helped {{set up}} the company 33 years ago. He left his job as [[chief executive]] right away. He also left the [[board of directors]], which oversees the company. Nvidia did not give a reason. Huang left after reports about his [[private life]], including a relationship with a woman U.S. officials [[suspect]] is a Chinese spy.",
+          "verbs": [
+            {
+              "display": "stepped down",
+              "base": "step down",
+              "correct": "To leave an important job",
+              "wrong": "To take a long vacation",
+              "correctFirst": true,
+              "why": "A leader often steps down after a big mistake. Some coaches step down when the team loses too often. Jensen Huang stepped down as the head of Nvidia on November 12, 2026."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To start a new business",
+              "wrong": "To work for a big business",
+              "correctFirst": false,
+              "why": "Many young people set up their own businesses online. Two friends often set up a company together after college. Huang helped set up Nvidia 33 years ago."
+            }
+          ]
+        },
+        {
+          "text": "The spy claims first {{came out}} in The New York Times on October 29. It said U.S. [[intelligence agencies]], the government's spy services, believe a Chinese businesswoman worked for China's spy agency. A company in Singapore that she once led bought billions of dollars of Nvidia chips. The U.S. bans sales of Nvidia's best chips to China for security reasons. Reports say she may have helped China {{get around}} those [[limits]]. China {{hit back}} and called the claims [[smears]], false stories meant to hurt China.",
+          "verbs": [
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To become known to the public",
+              "wrong": "To be sold for a high price",
+              "correctFirst": false,
+              "why": "The truth usually comes out in the end. New facts come out when reporters ask more questions. The spy claims first came out in The New York Times on October 29."
+            },
+            {
+              "display": "get around",
+              "base": "get around",
+              "correct": "To find a way to avoid a rule",
+              "wrong": "To ask for a change to a rule",
+              "correctFirst": true,
+              "why": "Some students get around the phone rule by hiding their phones in their bags. People sometimes get around a ticket limit by using a friend's name. The reports say the businesswoman may have helped China get around American limits on chip sales."
+            },
+            {
+              "display": "hit back",
+              "base": "hit back",
+              "correct": "To answer an attack with strong words",
+              "wrong": "To ask for more time to answer",
+              "correctFirst": true,
+              "why": "Politicians often hit back when someone attacks them. The singer hits back at bad reviews online. China hit back and called the spy claims smears against China."
+            }
+          ]
+        },
+        {
+          "text": "On November 8, Huang {{owned up to}} the relationship in an email to workers. He [[apologized]] to his wife. The same day, Nvidia's board said it would {{look into}} the reports. It {{brought in}} [[outside lawyers]] to help. Federal police and Congress are also investigating. Some [[shareholders]], who own part of the company, [[sued]] Nvidia.",
+          "verbs": [
+            {
+              "display": "owned up to",
+              "base": "own up to",
+              "correct": "To admit that you did something wrong",
+              "wrong": "To promise to work much harder",
+              "correctFirst": false,
+              "why": "Good players own up to their mistakes. A child often owns up to a broken window when a parent asks. In an email to Nvidia workers, Huang owned up to the relationship with the woman."
+            },
+            {
+              "display": "look into",
+              "base": "look into",
+              "correct": "To check carefully what happened",
+              "wrong": "To print a story in the paper",
+              "correctFirst": true,
+              "why": "The police look into every report of a stolen car. A good school looks into a problem when a parent calls. On November 8, 2026, Nvidia's board said it would look into the reports about its boss."
+            },
+            {
+              "display": "brought in",
+              "base": "bring in",
+              "correct": "To get outside experts to help",
+              "wrong": "To send workers to a new office",
+              "correctFirst": false,
+              "why": "Schools bring in experts when a problem is serious. Many companies bring in lawyers when there is a legal problem. Nvidia's board brought in outside lawyers to help with its investigation."
+            }
+          ]
+        },
+        {
+          "text": "Nvidia's [[stock price]] {{went down}} more than 11% after the news. The company's finance chief will {{take over}} as chief executive for now. The board will search for a [[permanent]] boss. Nvidia also named the first chair, or leader, of its board. It will still report its [[earnings]] on November 17. [[Lawmakers]] in Congress want to {{find out}} whether U.S. secrets were at risk.",
+          "verbs": [
+            {
+              "display": "went down",
+              "base": "go down",
+              "correct": "To become lower in price",
+              "wrong": "To be sold to a new owner",
+              "correctFirst": true,
+              "why": "Gas prices often go down in the fall. The price of a new phone goes down after a year. Nvidia's stock price went down more than 11% after the news on November 12."
+            },
+            {
+              "display": "take over",
+              "base": "take over",
+              "correct": "To start doing someone else's job",
+              "wrong": "To pay someone else's bills",
+              "correctFirst": false,
+              "why": "A new manager often takes over when the old one leaves. The vice president takes over when the president is sick. Nvidia's finance chief will take over as chief executive for now."
+            },
+            {
+              "display": "find out",
+              "base": "find out",
+              "correct": "To learn facts that were not known",
+              "wrong": "To share news with the public",
+              "correctFirst": true,
+              "why": "Doctors run tests to find out what is wrong. Students find out their grades at the end of the week. Lawmakers in Congress want to find out whether American secrets were at risk."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Step down",
+          "def": "To leave an important job",
+          "ipa": "/stɛp daʊn/",
+          "ex": [
+            "The mayor stepped down after two years.",
+            "She will step down as team captain next month.",
+            "The company's president stepped down because of poor health."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To start a new business",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "My uncle set up a small bakery in 1998.",
+            "She set up her own design company after college.",
+            "They set up a shop that sells used bikes."
+          ]
+        },
+        {
+          "verb": "Come out",
+          "def": "To become known to the public",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "The real reason for the delay came out later.",
+            "Details of the deal came out in the newspaper.",
+            "If the truth comes out, he could lose his job."
+          ]
+        },
+        {
+          "verb": "Get around",
+          "def": "To find a way to avoid a rule",
+          "ipa": "/ɡɛt əˈraʊnd/",
+          "ex": [
+            "Some companies get around the law by moving money overseas.",
+            "He got around the age rule by using his brother's card.",
+            "There is no way to get around this rule."
+          ]
+        },
+        {
+          "verb": "Hit back",
+          "def": "To answer an attack with strong words",
+          "ipa": "/hɪt bæk/",
+          "ex": [
+            "The senator hit back at his critics in a speech.",
+            "The company hit back at the report, calling it false.",
+            "She hit back on social media after the rumors started."
+          ]
+        },
+        {
+          "verb": "Own up to",
+          "def": "To admit that you did something wrong",
+          "ipa": "/oʊn ʌp tu/",
+          "ex": [
+            "He owned up to taking the money.",
+            "No one owned up to breaking the printer.",
+            "It takes courage to own up to a mistake."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To check carefully what happened",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The city will look into the cause of the fire.",
+            "My bank is looking into the strange charge on my card.",
+            "The manager looked into the complaint the same day."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To get outside experts to help",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "The hospital brought in a heart expert from Boston.",
+            "We brought in a plumber to fix the leak.",
+            "The team brought in a new coach to help the players."
+          ]
+        },
+        {
+          "verb": "Go down",
+          "def": "To become lower in price",
+          "ipa": "/ɡoʊ daʊn/",
+          "ex": [
+            "The price of eggs went down last month.",
+            "Our electric bill went down in the spring.",
+            "Home prices may go down next year."
+          ]
+        },
+        {
+          "verb": "Take over",
+          "def": "To start doing someone else's job",
+          "ipa": "/teɪk ˈoʊvər/",
+          "ex": [
+            "A new coach took over the team in June.",
+            "Who will take over when the boss retires?",
+            "She took over as editor after he left."
+          ]
+        },
+        {
+          "verb": "Find out",
+          "def": "To learn facts that were not known",
+          "ipa": "/faɪnd aʊt/",
+          "ex": [
+            "I found out the truth from a friend.",
+            "Police want to find out who started the fire.",
+            "We found out about the party too late."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "chips",
+          "def": "Tiny electronic parts inside computers and phones that make them work",
+          "ipa": "/tʃɪps/",
+          "ex": [
+            "New phones have faster chips.",
+            "Cars today use many computer chips.",
+            "The factory makes chips for game systems."
+          ]
+        },
+        {
+          "word": "artificial intelligence",
+          "def": "Computer systems that can do tasks that usually need a human mind",
+          "ipa": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+          "ex": [
+            "Artificial intelligence can help doctors read X-rays.",
+            "Many apps now use artificial intelligence to answer questions.",
+            "Some people worry that artificial intelligence will change their jobs."
+          ]
+        },
+        {
+          "word": "chief executive",
+          "def": "The person with the highest job in a company",
+          "ipa": "/tʃif ɪɡˈzɛkjətɪv/",
+          "ex": [
+            "The chief executive spoke to all the workers.",
+            "She became chief executive of the airline at 45.",
+            "The chief executive earns much more than other workers."
+          ]
+        },
+        {
+          "word": "board of directors",
+          "def": "A group of people chosen to watch over and guide a company",
+          "ipa": "/bɔrd ʌv dəˈrɛktərz/",
+          "ex": [
+            "The board of directors chose a new president for the bank.",
+            "The board of directors meets four times a year.",
+            "The board of directors must agree to the big deal."
+          ]
+        },
+        {
+          "word": "private life",
+          "def": "The part of your life that is about family and relationships, not work",
+          "ipa": "/ˈpraɪvət laɪf/",
+          "ex": [
+            "The actor does not talk about his private life.",
+            "Reporters asked questions about her private life.",
+            "He keeps his private life away from his job."
+          ]
+        },
+        {
+          "word": "suspect",
+          "def": "To think something bad is true without being sure",
+          "ipa": "/səˈspɛkt/",
+          "ex": [
+            "I suspect that my neighbor took my newspaper.",
+            "Doctors suspect the water made people sick.",
+            "Police suspect the fire was not an accident."
+          ]
+        },
+        {
+          "word": "intelligence agencies",
+          "def": "Government groups that collect secret information about other countries",
+          "ipa": "/ɪnˈtɛlədʒəns ˈeɪdʒənsiz/",
+          "ex": [
+            "Intelligence agencies watch for threats to the country.",
+            "Many countries have several intelligence agencies.",
+            "The report came from two intelligence agencies."
+          ]
+        },
+        {
+          "word": "limits",
+          "def": "Rules that say how much of something is allowed",
+          "ipa": "/ˈlɪmɪts/",
+          "ex": [
+            "The city has limits on how tall buildings can be.",
+            "There are limits on how much cash you can bring on a plane.",
+            "New limits on fishing protect the river."
+          ]
+        },
+        {
+          "word": "smears",
+          "def": "False stories told to hurt the good name of a person or group",
+          "ipa": "/smɪrz/",
+          "ex": [
+            "The candidate said the stories about him were smears.",
+            "Smears spread fast on social media.",
+            "She asked people to stop sharing smears about her family."
+          ]
+        },
+        {
+          "word": "apologized",
+          "def": "Said you were sorry for something you did",
+          "ipa": "/əˈpɑləˌdʒaɪzd/",
+          "ex": [
+            "He apologized for being late.",
+            "The company apologized to its customers.",
+            "She apologized to her sister after the fight."
+          ]
+        },
+        {
+          "word": "outside lawyers",
+          "def": "Lawyers who do not work for the company but are paid to help it",
+          "ipa": "/ˈaʊtˌsaɪd ˈlɔjərz/",
+          "ex": [
+            "The school hired outside lawyers to study the problem.",
+            "Outside lawyers checked the bank's records.",
+            "The city paid outside lawyers to write the new contract."
+          ]
+        },
+        {
+          "word": "shareholders",
+          "def": "People who own small parts of a company",
+          "ipa": "/ˈʃɛrˌhoʊldərz/",
+          "ex": [
+            "The shareholders voted for a new board.",
+            "The company sends a report to its shareholders every year.",
+            "Many shareholders were angry about the bad news."
+          ]
+        },
+        {
+          "word": "sued",
+          "def": "Asked a court to make someone pay for harm they caused",
+          "ipa": "/sud/",
+          "ex": [
+            "The family sued the hospital after the mistake.",
+            "She sued her landlord over the broken heater.",
+            "The singer sued the magazine for printing false stories."
+          ]
+        },
+        {
+          "word": "stock price",
+          "def": "The price of one share, or small part, of a company",
+          "ipa": "/stɑk praɪs/",
+          "ex": [
+            "The company's stock price rose after the good news.",
+            "A bad report can hurt a stock price.",
+            "He checks the stock price every morning."
+          ]
+        },
+        {
+          "word": "permanent",
+          "def": "Meant to last for a long time, not just for now",
+          "ipa": "/ˈpɜrmənənt/",
+          "ex": [
+            "After a year, she got a permanent job at the bank.",
+            "The school finally has a permanent principal.",
+            "They moved from a hotel into a permanent home."
+          ]
+        },
+        {
+          "word": "earnings",
+          "def": "The money a company makes after it pays its costs",
+          "ipa": "/ˈɜrnɪŋz/",
+          "ex": [
+            "The bank's earnings were higher than last year.",
+            "The store shared its earnings with investors.",
+            "Strong earnings made the stock price rise."
+          ]
+        },
+        {
+          "word": "Lawmakers",
+          "def": "People who are elected to make a country's laws",
+          "ipa": "/ˈlɔˌmeɪkərz/",
+          "ex": [
+            "Lawmakers voted for a new tax on sugar drinks.",
+            "Lawmakers from both parties met with the president.",
+            "Some lawmakers want to change the school rules."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Nvidia's boss, Jensen Huang, has quit after reports linked him to a woman suspected of spying for China. China denies the claims, and the finance chief now runs the firm.",
+          "a": true,
+          "why": "Huang stepped down right away, after the spy claims came out. China hit back, and Nvidia's finance chief will take over for now."
+        },
+        {
+          "s": "Jensen Huang has left his top job at Nvidia because U.S. officials charged him with spying. He will remain on the board, and Nvidia has explained the reason in detail.",
+          "a": false,
+          "why": "Close, but officials suspect the woman, not Huang, of spying. Huang also left the board, and Nvidia did not give a reason."
+        },
+        {
+          "s": "A large American chip company plans to build a new factory to make AI chips at home. Leaders say the plant will create thousands of jobs and help the country compete with China.",
+          "a": false,
+          "why": "This is about Nvidia's boss, who stepped down after reports about a suspected Chinese spy. The company's finance chief will take over for now."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Jensen Huang stepped down as Nvidia's chief executive.",
+          "a": true,
+          "why": "On November 12, 2026, Huang left his job as chief executive and left the board right away."
+        },
+        {
+          "s": "China agreed that the businesswoman was working as a spy.",
+          "a": false,
+          "why": "China hit back and called the spy claims smears, false stories meant to hurt China."
+        },
+        {
+          "s": "Huang owned up to the relationship in an email to workers.",
+          "a": true,
+          "why": "On November 8, he wrote to Nvidia workers and apologized to his wife."
+        },
+        {
+          "s": "Nvidia gave a clear reason why Huang left the company.",
+          "a": false,
+          "why": "Nvidia's statement did not give a reason when Huang stepped down."
+        },
+        {
+          "s": "Reports say the woman may have helped China get around U.S. limits on chips.",
+          "a": true,
+          "why": "The U.S. does not allow Nvidia's best chips to be sold to China, and a company she once led bought billions of dollars of them."
+        },
+        {
+          "s": "Nvidia's stock price rose after the news about Huang.",
+          "a": false,
+          "why": "The stock price went down more than 11% after the news."
+        }
+      ]
+    },
     {
       "id": "brooklyn-building-collapse-2026",
       "number": 224,
