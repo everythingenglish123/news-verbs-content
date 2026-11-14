@@ -2,6 +2,480 @@
   "updated": "2026-11-14",
   "stories": [
     {
+      "id": "faa-nationwide-ground-stop-2026",
+      "number": 229,
+      "headline": "Planes across the U.S. stay on the ground for hours",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n229-faa-nationwide-ground-stop-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Live updates on FAA ground stop: Airlines can resume flights after hours-long halt, but delays and cancellations to continue (CNN)",
+          "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa"
+        },
+        {
+          "title": "Live updates: FAA lifts ground stop as U.S. airports grapple with thousands of canceled flights (NBC News)",
+          "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268"
+        },
+        {
+          "title": "FAA issues rare nationwide ground stop; no indication of 'nefarious attack' (ABC News)",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+        },
+        {
+          "title": "U.S. flights resume after FAA lifts hours-long nationwide ground stop (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+        },
+        {
+          "title": "FAA Statement on Nationwide Ground Stop (Federal Aviation Administration)",
+          "url": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On Friday, November 13, 2026, planes across the United States were told they could not {{take off}}. The U.S. agency that runs air traffic ordered a [[nationwide]] [[ground stop]], an order that keeps all [[departing]] planes on the ground. A [[communication problem]] had hit all 22 of the country's large [[air traffic control]] centers, which guide planes between airports. More than 3,500 planes were already in the air. They kept flying and {{touched down}} safely, officials said.",
+          "verbs": [
+            {
+              "display": "take off",
+              "base": "take off",
+              "correct": "To leave the ground and start flying",
+              "wrong": "To be checked by airport workers",
+              "correctFirst": true,
+              "why": "Most planes take off from this airport in the early morning. Small planes take off from short runways. On November 13, 2026, planes across the United States were told they could not take off."
+            },
+            {
+              "display": "touched down",
+              "base": "touch down",
+              "correct": "To land safely at the end of a flight",
+              "wrong": "To fly in circles above an airport",
+              "correctFirst": false,
+              "why": "Our plane usually touches down in Denver around noon. Big jets touch down gently on long runways. More than 3,500 planes kept flying and touched down at airports around the country."
+            }
+          ]
+        },
+        {
+          "text": "The agency [[lifted]] the order at 8:15 p.m. Eastern time, more than four hours after it began. In all, more than 4,000 flights were canceled and more than 10,000 were {{held up}}, according to a [[flight-tracking website]]. A [[travel data company]] said about 1.5 million people were [[stranded]]. Some airports {{ran out of}} space to park planes. Travelers {{lined up}} at [[baggage counters]] to find their bags. Others {{waited out}} the delays on airport floors.",
+          "verbs": [
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To make something late; to delay it",
+              "wrong": "To make something more expensive",
+              "correctFirst": true,
+              "why": "Heavy traffic often holds up the morning buses. Bad weather sometimes holds up mail delivery. More than 10,000 flights were held up, according to a flight-tracking website."
+            },
+            {
+              "display": "ran out of",
+              "base": "run out of",
+              "correct": "To use all of something so none is left",
+              "wrong": "To share something with other places",
+              "correctFirst": false,
+              "why": "Small stores often run out of bread by noon. We always run out of milk on Sundays. Some airports ran out of space to park planes during the ground stop."
+            },
+            {
+              "display": "lined up",
+              "base": "line up",
+              "correct": "To form a line with other people",
+              "wrong": "To complain loudly to workers",
+              "correctFirst": true,
+              "why": "Children line up at the door before lunch. Fans line up outside the stadium for tickets. At some airports, travelers lined up at baggage counters to find their bags."
+            },
+            {
+              "display": "waited out",
+              "base": "wait out",
+              "correct": "To wait until something bad ends",
+              "wrong": "To demand a refund for a delay",
+              "correctFirst": false,
+              "why": "Hikers wait out the storm inside a small cabin. Many drivers wait out the heavy snow at a rest stop. Some travelers waited out the delays on airport floors."
+            }
+          ]
+        },
+        {
+          "text": "The transportation secretary blamed the country's [[aging]] air traffic control system. He said some old equipment {{broke down}}. He said [[routers]], machines that pass data between computers, got [[overloaded]] with data. Because of that, officials stopped departing flights for safety. The homeland security secretary said there was no sign of a [[cyberattack]], an attack by computer hackers. But he would not {{rule out}} anything yet.",
+          "verbs": [
+            {
+              "display": "broke down",
+              "base": "break down",
+              "correct": "To stop working, like a machine",
+              "wrong": "To be moved to a new building",
+              "correctFirst": true,
+              "why": "Old copy machines often break down at the worst time. Our washing machine breaks down every few years. The transportation secretary said some old equipment broke down on November 13."
+            },
+            {
+              "display": "rule out",
+              "base": "rule out",
+              "correct": "To say something is not possible",
+              "wrong": "To keep something secret",
+              "correctFirst": false,
+              "why": "Doctors rule out a broken bone with an X-ray. The police rarely rule out a cause early in a case. The homeland security secretary said officials would not rule out anything yet."
+            }
+          ]
+        },
+        {
+          "text": "The homeland security secretary also said new equipment added to the old system seemed to have [[overwhelmed]] it. The agency has been {{rolling out}} a new tool that uses [[artificial intelligence]] to help manage air traffic. The company behind it said its tool did not cause the stop, but officials are checking that too. Officials are still {{looking into}} what went wrong and have not {{figured out}} the [[exact cause]]. Airlines warned that delays would continue on Saturday, November 14.",
+          "verbs": [
+            {
+              "display": "rolling out",
+              "base": "roll out",
+              "correct": "To start using a new product or service",
+              "wrong": "To test a new product in secret",
+              "correctFirst": true,
+              "why": "Phone companies roll out new apps every year. Many cities roll out new bus routes in the fall. The agency has been rolling out a new tool that uses artificial intelligence to help manage air traffic."
+            },
+            {
+              "display": "looking into",
+              "base": "look into",
+              "correct": "To try to find the facts about something",
+              "wrong": "To share the facts with the public",
+              "correctFirst": false,
+              "why": "The school looks into every complaint from parents. Insurance companies look into large claims. Officials are looking into what went wrong with the air traffic control system."
+            },
+            {
+              "display": "figured out",
+              "base": "figure out",
+              "correct": "To find the answer to a question",
+              "wrong": "To write a report for others",
+              "correctFirst": true,
+              "why": "Good mechanics figure out the problem with a car quickly. Most students figure out the answer after a few tries. Officials have not figured out the exact cause of the ground stop."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Take off",
+          "def": "To leave the ground and start flying",
+          "ipa": "/teɪk ɔf/",
+          "ex": [
+            "Our flight takes off at six in the morning.",
+            "The plane took off ten minutes late.",
+            "We watched the jets take off from the airport roof."
+          ]
+        },
+        {
+          "verb": "Touch down",
+          "def": "To land safely at the end of a flight",
+          "ipa": "/tʌtʃ daʊn/",
+          "ex": [
+            "The plane touched down in Chicago just after midnight.",
+            "Please stay in your seat until we touch down.",
+            "The pilot said we would touch down in twenty minutes."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To make something late; to delay it",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "An accident held up traffic for an hour.",
+            "Sorry I'm late. I was held up at work.",
+            "Bad weather held up the delivery of our new couch."
+          ]
+        },
+        {
+          "verb": "Run out of",
+          "def": "To use all of something so none is left",
+          "ipa": "/rʌn aʊt əv/",
+          "ex": [
+            "We ran out of gas on the highway.",
+            "The store ran out of water before the storm.",
+            "I always run out of time on tests."
+          ]
+        },
+        {
+          "verb": "Line up",
+          "def": "To form a line with other people",
+          "ipa": "/laɪn ʌp/",
+          "ex": [
+            "People lined up outside the store before it opened.",
+            "The kids lined up for ice cream.",
+            "Hundreds of fans lined up to meet the singer."
+          ]
+        },
+        {
+          "verb": "Wait out",
+          "def": "To wait until something bad ends",
+          "ipa": "/weɪt aʊt/",
+          "ex": [
+            "We waited out the rain under a tree.",
+            "They stayed inside to wait out the storm.",
+            "She waited out the long delay at the airport."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To stop working, like a machine",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "Our car broke down on the highway.",
+            "The old elevator breaks down every winter.",
+            "The printer broke down in the middle of my report."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To say something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctor ruled out a serious illness.",
+            "Police have not ruled out a fire as the cause.",
+            "We can't rule out rain on Saturday."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To start using a new product or service",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The bank rolled out a new app for its customers.",
+            "The city will roll out new parking meters in March.",
+            "Our school is rolling out laptops for every student."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To try to find the facts about something",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The manager promised to look into my complaint.",
+            "Police are looking into the cause of the crash.",
+            "We need to look into cheaper ways to travel."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To find the answer to a question",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "I can't figure out how this TV remote works.",
+            "Engineers figured out why the bridge was shaking.",
+            "We need to figure out the fastest way home."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "nationwide",
+          "def": "Happening in every part of a country",
+          "ipa": "/ˌneɪʃənˈwaɪd/",
+          "ex": [
+            "The store chain has a nationwide sale.",
+            "The news caused nationwide worry.",
+            "The company ran a nationwide search for a new chef."
+          ]
+        },
+        {
+          "word": "ground stop",
+          "def": "An order that does not let planes leave airports",
+          "ipa": "/ɡraʊnd stɑp/",
+          "ex": [
+            "A ground stop kept our plane at the gate.",
+            "The airport issued a ground stop because of snow.",
+            "Travelers waited for hours during the ground stop."
+          ]
+        },
+        {
+          "word": "departing",
+          "def": "Leaving a place to start a trip",
+          "ipa": "/dɪˈpɑrtɪŋ/",
+          "ex": [
+            "All departing trains are on time today.",
+            "Departing passengers must go to Gate 5.",
+            "The screen shows every departing flight."
+          ]
+        },
+        {
+          "word": "communication problem",
+          "def": "A problem that blocks messages between people or machines",
+          "ipa": "/kəˌmjunɪˈkeɪʃən ˈprɑbləm/",
+          "ex": [
+            "A communication problem stopped the radios from working.",
+            "The team lost the game because of a communication problem.",
+            "Engineers fixed the communication problem in an hour."
+          ]
+        },
+        {
+          "word": "air traffic control",
+          "def": "The people and system that guide planes through the sky",
+          "ipa": "/ɛr ˈtræfɪk kənˈtroʊl/",
+          "ex": [
+            "Air traffic control told the pilot to wait.",
+            "She has worked in air traffic control for ten years.",
+            "Air traffic control keeps planes far apart."
+          ]
+        },
+        {
+          "word": "lifted",
+          "def": "Ended an official order or rule",
+          "ipa": "/ˈlɪftɪd/",
+          "ex": [
+            "The city lifted the ban on fireworks.",
+            "The school lifted its rule about phones at lunch.",
+            "Officials lifted the travel warning after the storm."
+          ]
+        },
+        {
+          "word": "flight-tracking website",
+          "def": "A website that shows where planes are and if they are late",
+          "ipa": "/ˈflaɪt ˌtrækɪŋ ˈwɛbsaɪt/",
+          "ex": [
+            "I check a flight-tracking website before I drive to the airport.",
+            "The flight-tracking website showed our plane over Ohio.",
+            "A flight-tracking website said the flight was two hours late."
+          ]
+        },
+        {
+          "word": "travel data company",
+          "def": "A business that collects numbers about trips and travelers",
+          "ipa": "/ˈtrævəl ˈdeɪtə ˈkʌmpəni/",
+          "ex": [
+            "A travel data company counts how many people fly each day.",
+            "Airlines buy reports from a travel data company.",
+            "The travel data company said summer trips were up."
+          ]
+        },
+        {
+          "word": "stranded",
+          "def": "Stuck in a place with no way to leave",
+          "ipa": "/ˈstrændɪd/",
+          "ex": [
+            "The snow left hundreds of drivers stranded.",
+            "We were stranded at the station all night.",
+            "Stranded passengers slept in the airport."
+          ]
+        },
+        {
+          "word": "baggage counters",
+          "def": "Airport counters where workers help people with their bags",
+          "ipa": "/ˈbæɡɪdʒ ˈkaʊntərz/",
+          "ex": [
+            "The baggage counters were busy after the late flight.",
+            "I went to one of the baggage counters about my lost suitcase.",
+            "Workers at the baggage counters gave us a number to call."
+          ]
+        },
+        {
+          "word": "aging",
+          "def": "Getting old and less useful",
+          "ipa": "/ˈeɪdʒɪŋ/",
+          "ex": [
+            "The town needs to fix its aging bridges.",
+            "Our aging car needs a lot of repairs.",
+            "The school is replacing its aging computers."
+          ]
+        },
+        {
+          "word": "routers",
+          "def": "Machines that send data between computers and networks",
+          "ipa": "/ˈraʊtərz/",
+          "ex": [
+            "The office has two routers for its internet.",
+            "Old routers can make the internet slow.",
+            "The technician replaced the routers in our building."
+          ]
+        },
+        {
+          "word": "overloaded",
+          "def": "Given more work or data than it can handle",
+          "ipa": "/ˌoʊvərˈloʊdɪd/",
+          "ex": [
+            "The phone lines were overloaded after the storm.",
+            "The website was overloaded with visitors.",
+            "An overloaded power line can stop working."
+          ]
+        },
+        {
+          "word": "cyberattack",
+          "def": "An attack on computers by hackers",
+          "ipa": "/ˈsaɪbərəˌtæk/",
+          "ex": [
+            "The hospital's computers stopped after a cyberattack.",
+            "Banks spend a lot to stop a cyberattack.",
+            "Police said the cyberattack came from another country."
+          ]
+        },
+        {
+          "word": "overwhelmed",
+          "def": "Gave something more than it could handle",
+          "ipa": "/ˌoʊvərˈwɛlmd/",
+          "ex": [
+            "The heavy rain overwhelmed the city's drains.",
+            "Too many orders overwhelmed the small bakery.",
+            "Thousands of calls overwhelmed the help line."
+          ]
+        },
+        {
+          "word": "artificial intelligence",
+          "def": "Computer programs that can learn and make decisions",
+          "ipa": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+          "ex": [
+            "Many phones use artificial intelligence to sort photos.",
+            "The bank uses artificial intelligence to spot fraud.",
+            "Artificial intelligence helps doctors read X-rays."
+          ]
+        },
+        {
+          "word": "exact cause",
+          "def": "The true and specific reason something happened",
+          "ipa": "/ɪɡˈzækt kɔz/",
+          "ex": [
+            "Firefighters are still trying to learn the exact cause of the fire.",
+            "Doctors do not know the exact cause of her pain.",
+            "The exact cause of the crash is not clear."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A communication problem in the air traffic control system kept departing planes on the ground across the U.S. for hours. Thousands of flights were canceled, and the cause is not known.",
+          "a": true,
+          "why": "The order lasted more than four hours, about 1.5 million people were stranded, and officials have not figured out the exact cause."
+        },
+        {
+          "s": "A cyberattack on the air traffic control system stopped every flight in the U.S. for hours. Officials found the hackers quickly, and airlines say all flights are back to normal now.",
+          "a": false,
+          "why": "Close, but officials said there was no sign of a cyberattack. They have not figured out the cause, and airlines warned of more delays."
+        },
+        {
+          "s": "The U.S. agency that runs air traffic hired thousands of new workers for its control centers. It says the extra staff will help airports handle the busy Thanksgiving travel season.",
+          "a": false,
+          "why": "This story is about a ground stop. A communication problem kept planes from taking off, and thousands of flights were canceled or held up."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Departing planes across the U.S. stayed on the ground for hours.",
+          "a": true,
+          "why": "Planes could not take off for more than four hours because of a nationwide ground stop."
+        },
+        {
+          "s": "Planes already in the air were ordered to return to their first airport.",
+          "a": false,
+          "why": "Planes already in the air kept flying and touched down at airports around the country."
+        },
+        {
+          "s": "Many travelers were stranded after their flights were canceled.",
+          "a": true,
+          "why": "About 1.5 million people were stranded, and some waited out the delays on airport floors."
+        },
+        {
+          "s": "The transportation secretary blamed old equipment and overloaded routers.",
+          "a": true,
+          "why": "He said some old equipment broke down and routers got overloaded with data."
+        },
+        {
+          "s": "Officials said hackers were behind the ground stop.",
+          "a": false,
+          "why": "The homeland security secretary said there was no sign of a cyberattack, but he would not rule out anything yet."
+        },
+        {
+          "s": "Officials have already figured out the exact cause of the problem.",
+          "a": false,
+          "why": "Officials are still looking into what went wrong and have not figured out the exact cause."
+        }
+      ]
+    },
+    {
       "id": "obesity-beyond-bmi-2026",
       "number": 228,
       "headline": "A waist check may help doctors find obesity",
