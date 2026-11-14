@@ -1,6 +1,510 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "stories": [
+    {
+      "id": "obesity-beyond-bmi-2026",
+      "number": 228,
+      "headline": "A waist check may help doctors find obesity",
+      "badge": "Health",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n228-obesity-beyond-bmi-2026-flat.webp",
+      "position": "center 35%",
+      "sources": [
+        {
+          "title": "BMI alternative for identifying obesity 'could prevent misdiagnosis in millions' (The Guardian)",
+          "url": "https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index"
+        },
+        {
+          "title": "Move over BMI: new obesity definition is better for predicting your health (Nature)",
+          "url": "https://www.nature.com/articles/d41586-026-03636-5"
+        },
+        {
+          "title": "New clinical definition outperforms BMI in diagnosing obesity (King's College London, EurekAlert!)",
+          "url": "https://www.eurekalert.org/news-releases/1150796"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Two people can have the same [[body mass index]] but very different health. This index is a number made from weight and height. Doctors use it to find [[obesity]], or too much [[body fat]]. But the index {{leaves out}} where the fat sits. People with lots of [[muscle]] or lots of fat can get the same high number. A study in the [[journal]] Nature, published on November 11, 2026, says a [[waist]] check can help doctors {{tell these people apart}}.",
+          "verbs": [
+            {
+              "display": "leaves out",
+              "base": "leave out",
+              "correct": "To not include something",
+              "wrong": "To measure something twice",
+              "correctFirst": false,
+              "why": "My little brother leaves out the onions when he makes soup. The short version of the movie leaves out two scenes. The body mass index alone leaves out where a person's fat sits."
+            },
+            {
+              "display": "tell these people apart",
+              "base": "tell apart",
+              "correct": "To see how two people or things differ",
+              "wrong": "To weigh two people at the same time",
+              "correctFirst": true,
+              "why": "Many parents tell their twins apart by their voices. A good cook tells fresh fish and old fish apart by the smell. A study says a waist check can help doctors tell people with muscle and people with fat apart."
+            }
+          ]
+        },
+        {
+          "text": "An international group of obesity experts {{came up with}} this new method in January 2025. It keeps the index but adds two [[measurements]]: waist size, and waist size compared with height. Experts say fat that {{builds up}} around the [[belly]] is linked to more [[health problems]]. Researchers {{looked into}} the method using the [[health records]] of 844,108 adults in China, Britain, the U.S. and Spain.",
+          "verbs": [
+            {
+              "display": "came up with",
+              "base": "come up with",
+              "correct": "To create a new idea or plan",
+              "wrong": "To forget an old idea or plan",
+              "correctFirst": false,
+              "why": "Our team comes up with a new name for the club every year. My son comes up with funny stories at dinner. In January 2025, an international group of obesity experts came up with a new way to find obesity."
+            },
+            {
+              "display": "builds up",
+              "base": "build up",
+              "correct": "To slowly become larger",
+              "wrong": "To change color over time",
+              "correctFirst": true,
+              "why": "Dust builds up under the bed. Snow builds up on the roof in winter. Experts say fat that builds up around the belly is linked to more health problems."
+            },
+            {
+              "display": "looked into",
+              "base": "look into",
+              "correct": "To study something carefully",
+              "wrong": "To copy something by hand",
+              "correctFirst": false,
+              "why": "The police look into every report of a stolen car. The school looks into all complaints from parents. Researchers looked into the method using the health records of 844,108 adults in four countries."
+            }
+          ]
+        },
+        {
+          "text": "The index alone did not {{pick up}} obesity in as many as 9 percent of people. It wrongly [[labeled]] as many as 3 percent as having obesity. A [[surgeon]] at King's College London who helped create the method said these mistakes can {{add up to}} [[tens of millions]] of people. For people with obesity, a higher [[risk of death]] {{showed up}} only when waist size was added.",
+          "verbs": [
+            {
+              "display": "pick up",
+              "base": "pick up",
+              "correct": "To notice or find something",
+              "wrong": "To count something twice",
+              "correctFirst": true,
+              "why": "A good doctor picks up small changes in a patient's voice. This test picks up problems early. The body mass index alone did not pick up obesity in as many as 9 percent of people."
+            },
+            {
+              "display": "add up to",
+              "base": "add up to",
+              "correct": "To reach a total amount",
+              "wrong": "To get smaller each year",
+              "correctFirst": false,
+              "why": "Small daily costs add up to a lot of money. Ten minutes of walking each day adds up to more than an hour a week. A surgeon said the mistakes can add up to tens of millions of people."
+            },
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To appear or become easy to see",
+              "wrong": "To stay the same for years",
+              "correctFirst": true,
+              "why": "Spots show up on the skin after a day in the sun. Mistakes show up when you read your work aloud. For people with obesity, a higher risk of death showed up only when waist size was added."
+            }
+          ]
+        },
+        {
+          "text": "The method {{breaks obesity down}} into two levels. In clinical obesity, extra fat is already harming the [[organs]]. In pre-clinical obesity, the fat is a [[health risk]], but the organs still work. Within 10 years, 77 to 91 percent of people with pre-clinical obesity did not {{end up}} with clinical obesity. The surgeon said this level should not be {{brushed off}} as [[harmless]] or treated [[automatically]] as a disease. A Chinese researcher on the study said the results {{back up}} the idea of using the method [[worldwide]].",
+          "verbs": [
+            {
+              "display": "breaks obesity down",
+              "base": "break down",
+              "correct": "To make smaller groups from something",
+              "wrong": "To give something a new name",
+              "correctFirst": false,
+              "why": "The teacher breaks the class down into four teams. The report breaks the costs down into food, rent and travel. The new method breaks obesity down into two levels."
+            },
+            {
+              "display": "end up",
+              "base": "end up",
+              "correct": "To reach a certain situation at last",
+              "wrong": "To be tested again by a doctor",
+              "correctFirst": true,
+              "why": "People who skip breakfast often end up hungry before lunch. Many students end up with jobs in other cities. Most people with pre-clinical obesity did not end up with clinical obesity within 10 years."
+            },
+            {
+              "display": "brushed off",
+              "base": "brush off",
+              "correct": "To treat something as not important",
+              "wrong": "To test something in a lab",
+              "correctFirst": false,
+              "why": "My boss never brushes off my questions. Some people brush off a bad cough for weeks. The surgeon said pre-clinical obesity should not be brushed off as harmless."
+            },
+            {
+              "display": "back up",
+              "base": "back up",
+              "correct": "To support an idea with facts",
+              "wrong": "To ask people to change a plan",
+              "correctFirst": true,
+              "why": "Good writers back up their opinions with numbers. Photos often back up a driver's story after a crash. A Chinese researcher on the study said the results back up the idea of using the method around the world."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Leave out",
+          "def": "To not include something",
+          "ipa": "/liv aʊt/",
+          "ex": [
+            "Please don't leave out any names from the list.",
+            "He left out the sugar, so the cake tasted strange.",
+            "The news report left out an important detail."
+          ]
+        },
+        {
+          "verb": "Tell apart",
+          "def": "To see how two people or things differ",
+          "ipa": "/tɛl əˈpɑrt/",
+          "ex": [
+            "I can't tell the two sisters apart in photos.",
+            "It is hard to tell real money and fake money apart.",
+            "Can you tell these two songs apart?"
+          ]
+        },
+        {
+          "verb": "Come up with",
+          "def": "To create a new idea or plan",
+          "ipa": "/kʌm ʌp wɪð/",
+          "ex": [
+            "She came up with a great idea for the party.",
+            "We need to come up with a plan before Monday.",
+            "He came up with a new recipe for chicken soup."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To slowly become larger",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "Ice built up on the car windows overnight.",
+            "Water can build up in the garden after heavy rain.",
+            "Old papers built up on her desk for months."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study something carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The city will look into the noise problem.",
+            "My bank is looking into a strange charge on my card.",
+            "We asked the landlord to look into the broken heater."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To notice or find something",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "The camera picked up a fox in the yard at night.",
+            "Did you pick up anything strange in his voice?",
+            "Dogs can pick up smells that people miss."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "def": "To reach a total amount",
+          "ipa": "/æd ʌp tu/",
+          "ex": [
+            "All those coffees add up to a big bill each month.",
+            "Her small savings add up to enough for a new laptop.",
+            "The extra hours add up to two full days of work."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To appear or become easy to see",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "The crack only shows up in bright light.",
+            "Her name didn't show up on the list.",
+            "Problems with the engine showed up after the long trip."
+          ]
+        },
+        {
+          "verb": "Break down",
+          "def": "To make smaller groups from something",
+          "ipa": "/breɪk daʊn/",
+          "ex": [
+            "Let's break the project down into small steps.",
+            "The bill breaks down the price of each part.",
+            "The survey breaks the answers down by age group."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To reach a certain situation at last",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up in the wrong town.",
+            "If you don't study, you could end up failing the test.",
+            "She ended up as a teacher, not a lawyer."
+          ]
+        },
+        {
+          "verb": "Brush off",
+          "def": "To treat something as not important",
+          "ipa": "/brʌʃ ɔf/",
+          "ex": [
+            "He brushed off the pain in his knee for a month.",
+            "Don't brush off advice from your doctor.",
+            "She brushed off the question with a smile."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To support an idea with facts",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "Can you back up that claim with facts?",
+            "The numbers back up what the teacher said.",
+            "New tests backed up the first results."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "body mass index",
+          "def": "A number made from your weight and height",
+          "ipa": "/ˈbɑdi mæs ˈɪndɛks/",
+          "ex": [
+            "The nurse wrote my body mass index on the chart.",
+            "An online tool can tell you your body mass index.",
+            "Her body mass index is normal for her height."
+          ]
+        },
+        {
+          "word": "obesity",
+          "def": "The condition of having too much body fat",
+          "ipa": "/oʊˈbisəti/",
+          "ex": [
+            "Obesity is more common in some countries than others.",
+            "The school wants to fight child obesity with more sports.",
+            "Doctors talk about obesity with care and respect."
+          ]
+        },
+        {
+          "word": "body fat",
+          "def": "The fat that a body stores under the skin and around organs",
+          "ipa": "/ˈbɑdi fæt/",
+          "ex": [
+            "Some gyms have a machine that measures body fat.",
+            "Runners often have very little body fat.",
+            "A healthy diet can lower body fat over time."
+          ]
+        },
+        {
+          "word": "muscle",
+          "def": "The parts of the body that help you move and lift things",
+          "ipa": "/ˈmʌsəl/",
+          "ex": [
+            "He has a lot of muscle from working on a farm.",
+            "Swimming builds muscle in your arms and back.",
+            "Cycling builds muscle in your legs."
+          ]
+        },
+        {
+          "word": "waist",
+          "def": "The middle part of the body, above the hips",
+          "ipa": "/weɪst/",
+          "ex": [
+            "These pants are too tight around the waist.",
+            "She tied a sweater around her waist.",
+            "The nurse measures his waist with a tape measure."
+          ]
+        },
+        {
+          "word": "journal",
+          "def": "A magazine that prints new science or medical studies",
+          "ipa": "/ˈdʒɜrnəl/",
+          "ex": [
+            "My doctor reads a medical journal every month.",
+            "The scientists sent their study to a journal.",
+            "A science journal printed her report on bees."
+          ]
+        },
+        {
+          "word": "measurements",
+          "def": "Numbers that show the size or amount of something",
+          "ipa": "/ˈmɛʒərmənts/",
+          "ex": [
+            "The tailor took my measurements for a new suit.",
+            "Write down the measurements of the window before you buy curtains.",
+            "The nurse checked her measurements at every visit."
+          ]
+        },
+        {
+          "word": "belly",
+          "def": "The front part of the body below the chest",
+          "ipa": "/ˈbɛli/",
+          "ex": [
+            "The baby laughed when I touched her belly.",
+            "My belly hurts after I eat too fast.",
+            "The dog likes to sleep on its belly."
+          ]
+        },
+        {
+          "word": "health problems",
+          "def": "Illnesses or conditions that make a person less healthy",
+          "ipa": "/hɛlθ ˈprɑbləmz/",
+          "ex": [
+            "Smoking can lead to serious health problems.",
+            "My grandfather has a few health problems, but he still walks every day.",
+            "Stress can cause health problems at work."
+          ]
+        },
+        {
+          "word": "health records",
+          "def": "Official notes about a person's illnesses and medical care",
+          "ipa": "/hɛlθ ˈrɛkərdz/",
+          "ex": [
+            "The new clinic asked for my health records.",
+            "Patients can see their health records online.",
+            "Health records must be kept private."
+          ]
+        },
+        {
+          "word": "labeled",
+          "def": "Called or described as a certain kind of thing",
+          "ipa": "/ˈleɪbəld/",
+          "ex": [
+            "The quiet student was labeled shy by his classmates.",
+            "The food was labeled healthy, but it had lots of sugar.",
+            "She was unfairly labeled a bad driver."
+          ]
+        },
+        {
+          "word": "tens of millions",
+          "def": "A very large number, more than 20 million",
+          "ipa": "/tɛnz əv ˈmɪljənz/",
+          "ex": [
+            "Tens of millions of people watched the final game.",
+            "The company lost tens of millions of dollars.",
+            "The song was played tens of millions of times online."
+          ]
+        },
+        {
+          "word": "risk of death",
+          "def": "The chance that a person will die",
+          "ipa": "/rɪsk əv dɛθ/",
+          "ex": [
+            "Wearing a seat belt lowers the risk of death in a crash.",
+            "Smoking raises the risk of death from heart disease.",
+            "Doctors try to lower the risk of death during surgery."
+          ]
+        },
+        {
+          "word": "surgeon",
+          "def": "A doctor who does operations on the body",
+          "ipa": "/ˈsɜrdʒən/",
+          "ex": [
+            "The surgeon fixed my broken arm with a metal plate.",
+            "My aunt is a heart surgeon at a big hospital.",
+            "The surgeon talked to the family after the operation."
+          ]
+        },
+        {
+          "word": "organs",
+          "def": "Body parts such as the heart, liver and lungs that do special jobs",
+          "ipa": "/ˈɔrɡənz/",
+          "ex": [
+            "The heart and lungs are important organs.",
+            "Some people agree to give their organs after they die.",
+            "Too much alcohol can harm your organs."
+          ]
+        },
+        {
+          "word": "health risk",
+          "def": "Something that may cause illness in the future",
+          "ipa": "/hɛlθ rɪsk/",
+          "ex": [
+            "Sitting all day is a health risk.",
+            "Dirty water is a big health risk for children.",
+            "Doctors say poor sleep is a health risk."
+          ]
+        },
+        {
+          "word": "automatically",
+          "def": "In every case, without checking first",
+          "ipa": "/ˌɔtəˈmætɪkli/",
+          "ex": [
+            "Don't automatically believe everything you read online.",
+            "The store does not automatically give refunds.",
+            "She automatically said yes to every request."
+          ]
+        },
+        {
+          "word": "worldwide",
+          "def": "In every part of the world",
+          "ipa": "/ˌwɜrldˈwaɪd/",
+          "ex": [
+            "The singer has fans worldwide.",
+            "The company sells its phones worldwide.",
+            "Coffee is popular worldwide."
+          ]
+        },
+        {
+          "word": "harmless",
+          "def": "Not able to cause any damage or pain",
+          "ipa": "/ˈhɑrmləs/",
+          "ex": [
+            "The spider looks scary, but it is harmless.",
+            "It was a harmless joke, and everyone laughed.",
+            "Most mushrooms in the park are harmless, but don't eat them."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A study found that adding a waist check to the usual weight and height number helps doctors find obesity more accurately. It also showed that extra fat harms the organs in only some people.",
+          "a": true,
+          "why": "The usual number alone did not pick up obesity in many people. The new method breaks obesity down into two levels, and only clinical obesity already harms organs."
+        },
+        {
+          "s": "Scientists now say doctors should stop using the old weight and height number and measure only the waist. They found that everyone with a large waist is already sick and needs treatment now.",
+          "a": false,
+          "why": "Close, but the new method keeps the body mass index and adds waist size. Most people with pre-clinical obesity did not end up with clinical obesity within 10 years."
+        },
+        {
+          "s": "A city in Europe has opened new parks and bike lanes to help children stay active after school. Local leaders and parents hope that more outdoor play will keep young people at a healthy weight.",
+          "a": false,
+          "why": "This is about a better way to find obesity. Researchers looked into the health records of 844,108 adults and tested a method that adds a waist check."
+        }
+      ],
+      "tf": [
+        {
+          "s": "People with the same body mass index can have very different health.",
+          "a": true,
+          "why": "A person with a lot of muscle can have a high number and little fat, and a waist check helps doctors tell these people apart."
+        },
+        {
+          "s": "The body mass index alone picked up obesity in every person in the study.",
+          "a": false,
+          "why": "It did not pick up obesity in as many as 9 percent of people, and it wrongly labeled as many as 3 percent."
+        },
+        {
+          "s": "Obesity's link to a higher risk of death showed up when waist size was used.",
+          "a": true,
+          "why": "For people with obesity, the higher risk of death showed up only when waist size was used, not with the body mass index alone."
+        },
+        {
+          "s": "Most people with pre-clinical obesity ended up with clinical obesity.",
+          "a": false,
+          "why": "Most of them, 77 to 91 percent, did not end up with clinical obesity within 10 years."
+        },
+        {
+          "s": "In clinical obesity, extra body fat is already harming the organs.",
+          "a": true,
+          "why": "The method breaks obesity down into two levels, and only in clinical obesity are the organs already harmed."
+        },
+        {
+          "s": "The new method leaves out the body mass index and uses only the waist.",
+          "a": false,
+          "why": "It keeps the body mass index and adds waist measurements, because the index alone leaves out where fat sits."
+        }
+      ]
+    },
     {
       "id": "portugal-storm-schools-closed-2026",
       "number": 227,
@@ -3774,7 +4278,7 @@
           "why": "One arm went into the hole first to check out the other side. The body came last."
         },
         {
-          "s": "The Mayan octopuses stayed away from the smaller holes.",
+          "s": "The Mayan octopuses stayed away when the only hole was small.",
           "a": true,
           "why": "They never touched a small hole on its own. With two holes, they gave up on the small one."
         },
@@ -4031,7 +4535,7 @@
           "ex": [
             "In the end, the choice came down to price.",
             "The game came down to one last shot.",
-            "For me, a good home comes down to a quiet street."
+            "For many buyers, the choice of a home comes down to the price."
           ]
         },
         {
@@ -4278,7 +4782,7 @@
         {
           "s": "Neither big party won enough seats to rule without partners.",
           "a": true,
-          "why": "National won 42 seats and the main opposition won 36. A majority is 66, so each party falls short of it alone."
+          "why": "National won 42 seats, and the main opposition won fewer. A majority is 66, so each party falls short of it alone."
         },
         {
           "s": "Hipkins has given up and accepted that his side lost.",
@@ -4369,10 +4873,10 @@
             {
               "display": "cut off",
               "base": "cut off",
-              "correct": "To stop the supply of something",
+              "correct": "To stop a place from getting something",
               "wrong": "To raise the price of something",
               "correctFirst": true,
-              "why": "The power company cuts off service when people do not pay the bill. Big storms often cut off power in our area. In Johannesburg, homes are often cut off from water and power."
+              "why": "The power company cuts off homes that do not pay the bill. Big storms often cut off small towns from power. In Johannesburg, homes are often cut off from water and power."
             },
             {
               "display": "piles up",
@@ -4482,12 +4986,12 @@
         },
         {
           "verb": "Cut off",
-          "def": "To stop the supply of something",
+          "def": "To stop a place from getting something",
           "ipa": "/kʌt ɔf/",
           "ex": [
-            "The gas company cut off our heat for a day to fix a pipe.",
-            "A fallen tree cut off power to the whole street.",
-            "They will cut off your phone if you miss three payments."
+            "The gas company cut off our street from heat for a day to fix a pipe.",
+            "A fallen tree cut off the whole street from power.",
+            "The city cuts off homes from water when the owners miss three payments."
           ]
         },
         {
@@ -4533,7 +5037,7 @@
         {
           "verb": "Go up",
           "def": "To become higher",
-          "ipa": "/goʊ ʌp/",
+          "ipa": "/ɡoʊ ʌp/",
           "ex": [
             "The price of eggs went up again.",
             "Bus fares will go up in January.",
@@ -4725,7 +5229,7 @@
         {
           "word": "suggests",
           "def": "Shows that something is probably true",
-          "ipa": "/səgˈdʒɛsts/",
+          "ipa": "/səɡˈdʒɛsts/",
           "ex": [
             "The dark sky suggests that rain is coming.",
             "His smile suggests that he passed the test.",
@@ -4895,7 +5399,7 @@
               "display": "track down",
               "base": "track down",
               "correct": "To find someone after searching",
-              "wrong": "To separate someone from others",
+              "wrong": "To teach someone a new skill",
               "correctFirst": true,
               "why": "Police track down the driver of a stolen car with GPS. Reporters often track down people who saw an accident. Officials struggle to track down people who were near patients."
             },
@@ -5082,7 +5586,7 @@
           "ipa": "/ritʃ aʊt/",
           "ex": [
             "The church reached out to families who lost their homes.",
-            "The school reached out to families who lost power in the storm.",
+            "The clinic reached out to older people who live alone.",
             "A neighbor reached out to me when my husband was sick."
           ]
         }
@@ -5424,7 +5928,7 @@
               "correct": "To say no to a request or offer",
               "wrong": "To report someone to police",
               "correctFirst": true,
-              "why": "She turns down the job because the pay is low. Many students turn down offers from expensive colleges. Some Hungarians turned down requests to become informers and still ended up in the records."
+              "why": "Many workers turn down jobs with low pay. Many students turn down offers from expensive colleges. Some Hungarians turned down requests to become informers and still ended up in the records."
             },
             {
               "display": "ended up",
@@ -5865,7 +6369,7 @@
               "display": "figure out",
               "base": "figure out",
               "correct": "To understand something after thinking",
-              "wrong": "To record a talk for later study",
+              "wrong": "To record a chat for later study",
               "correctFirst": true,
               "why": "She never figures out the rules of that card game. Most kids figure out the new phone in a few minutes. The researchers say it is hard to figure out why some talks feel great."
             },
@@ -5968,7 +6472,7 @@
               "display": "pointed out",
               "base": "point out",
               "correct": "To mention an important fact",
-              "wrong": "To change the subject of a talk",
+              "wrong": "To change the subject of a chat",
               "correctFirst": false,
               "why": "My doctor points out that sleep matters for health. Our teacher often points out common mistakes. The expert pointed out that many important talks are painful, not enjoyable."
             }
@@ -6031,7 +6535,7 @@
           "def": "To change quickly from one subject to another",
           "ipa": "/dʒʌmp əˈraʊnd/",
           "ex": [
-            "The movie jumps around in time, so pay attention.",
+            "The teacher jumps around from topic to topic.",
             "Her emails jump around from one problem to the next.",
             "Try not to jump around when you give a speech."
           ]
@@ -6190,7 +6694,7 @@
         },
         {
           "word": "speed dating",
-          "def": "An event where single people meet many others in short talks",
+          "def": "An event where single people meet many others in short chats",
           "ipa": "/spid ˈdeɪtɪŋ/",
           "ex": [
             "My cousin met her husband at a speed dating night.",
@@ -6281,12 +6785,12 @@
       ],
       "mainIdea": [
         {
-          "s": "Researchers found that people enjoy a talk most when they stay with one subject for a while and then add fresh ideas. Pairs with this balance also felt closer and were more likely to date again.",
+          "s": "Researchers found that people enjoy a chat most when they stay with one subject for a while and then add fresh ideas. Pairs with this balance also felt closer and were more likely to date again.",
           "a": true,
           "why": "The best chats had a balance between one subject and new ideas. More of this pattern also predicted which speed-dating pairs met up for a second date."
         },
         {
-          "s": "A study of over a thousand chats shows that the best talks mix one subject with fresh ideas. But the researchers say this balance comes only from personality, so practice does not help at all.",
+          "s": "A study of over a thousand chats shows that the best chats mix one subject with fresh ideas. But the researchers say this balance comes only from personality, so practice does not help at all.",
           "a": false,
           "why": "Close, but the lead author thinks people can learn this skill. Podcast hosts became more balanced over their first 50 episodes."
         },
@@ -6323,9 +6827,9 @@
           "why": "Pairs with more of this balanced pattern were more likely to meet up for a second date."
         },
         {
-          "s": "The conversation expert said all important talks are enjoyable.",
+          "s": "The conversation expert said all important conversations are enjoyable.",
           "a": false,
-          "why": "She pointed out that many of life's most important talks are painful, not enjoyable."
+          "why": "She pointed out that many of life's most important conversations are painful, not enjoyable."
         }
       ]
     },
@@ -6408,7 +6912,7 @@
               "display": "handed over",
               "base": "hand over",
               "correct": "To give something to someone",
-              "wrong": "To build something for someone",
+              "wrong": "To explain something to someone",
               "correctFirst": true,
               "why": "The seller hands over the keys after you pay. Students hand over their phones before the test. Tesla handed over the first trucks to buyers in late 2023."
             }
@@ -6920,7 +7424,7 @@
               "display": "took over",
               "base": "take over",
               "correct": "To take control of something",
-              "wrong": "To check a bank's records",
+              "wrong": "To move an office to a new city",
               "correctFirst": true,
               "why": "The city takes over a building when the owner stops paying taxes. A new company takes over the store in January. In early November, the central bank took over the failing bank."
             },
@@ -6928,7 +7432,7 @@
               "display": "shut down",
               "base": "shut down",
               "correct": "To stop working completely",
-              "wrong": "To show many error messages",
+              "wrong": "To become cheaper to use",
               "correctFirst": false,
               "why": "My laptop shuts down when the battery is empty. The trains shut down during big snowstorms. The bank's app and cards shut down."
             },
@@ -6936,7 +7440,7 @@
               "display": "lined up",
               "base": "line up",
               "correct": "To wait in a row with other people",
-              "wrong": "To gather to protest loudly",
+              "wrong": "To cheer and wave small flags",
               "correctFirst": true,
               "why": "Fans line up early for concert tickets. Shoppers line up outside the store on Black Friday. Anxious customers lined up outside the bank's closed branches."
             }
@@ -6949,7 +7453,7 @@
               "display": "turned against",
               "base": "turn against",
               "correct": "To stop supporting someone",
-              "wrong": "To ask someone to explain",
+              "wrong": "To give someone a prize",
               "correctFirst": false,
               "why": "Fans turn against a team when it keeps losing. Voters often turn against a leader when prices rise. The president's own Colorado Party turned against him."
             },
@@ -7027,7 +7531,7 @@
           "def": "To stop someone from using something",
           "ipa": "/kʌt ɔf/",
           "ex": [
-            "The flood cut the village off from the main road.",
+            "The bank cut him off from his account after three wrong passwords.",
             "The storm cut us off from the internet for two days.",
             "The landlord cut the tenants off from the laundry room."
           ]
@@ -7334,7 +7838,7 @@
           "why": "His own Colorado Party turned against him, and even his mentor, a former president, supported impeachment."
         },
         {
-          "s": "The central bank took over the bank because it did not have enough money.",
+          "s": "The central bank took over the online bank because that bank had too little money.",
           "a": true,
           "why": "Officials said the bank was insolvent, meaning it could not cover its losses."
         },
@@ -7427,7 +7931,7 @@
               "correct": "To be easy to notice as special",
               "wrong": "To be argued about in court",
               "correctFirst": true,
-              "why": "A red car stands out in a parking lot full of gray ones. Her voice stands out in the school choir. One governor race stood out because Georgia elected the first Black woman governor of a US state."
+              "why": "A red car stands out in a parking lot full of gray ones. Her voice stands out in the school choir. One governor's race stood out because Georgia elected the first Black woman governor of a US state."
             }
           ]
         },
@@ -7667,7 +8171,7 @@
           "ex": [
             "Voters flipped the city council seat this year.",
             "The party flipped two seats in the state Senate.",
-            "One district flipped after twenty years with the same party."
+            "Democrats flipped one district after twenty years."
           ]
         },
         {
@@ -7810,7 +8314,7 @@
           "why": "Trump said he would work with Democrats, but he would not hold back from using his veto."
         },
         {
-          "s": "One governor race stood out because of who won it.",
+          "s": "One governor's race stood out because of who won it.",
           "a": true,
           "why": "In Georgia, voters elected the first Black woman ever chosen as governor of a US state."
         },
@@ -8216,7 +8720,7 @@
           "ipa": "/ˈmɪnərəlz/",
           "ex": [
             "Rocks are made of different minerals.",
-            "This river water is full of minerals.",
+            "Gold and salt are both minerals.",
             "The company digs for valuable minerals in the desert."
           ]
         },
@@ -8352,7 +8856,7 @@
         {
           "s": "The team has ruled out microbes as a source of the heme.",
           "a": false,
-          "why": "The team says it cannot completely rule out microbes, so the source of the heme is still open to question."
+          "why": "The team says it cannot completely rule out microbes, so the source of the heme is still not certain."
         },
         {
           "s": "The study has stirred up debate among scientists.",
@@ -8960,7 +9464,7 @@
               "correct": "To add something from outside to do a job",
               "wrong": "To offer farmers a very low price",
               "correctFirst": false,
-              "why": "The city brings in goats to eat the dry grass. The company brings in an expert when a machine breaks. Cane toads were brought in during 1935 to kill beetles on sugar cane farms."
+              "why": "The city brings in goats to eat the dry grass. The company brings in an expert when a machine breaks. In 1935, cane toads were brought in to kill beetles on sugar cane farms."
             },
             {
               "display": "took over",
@@ -8995,7 +9499,7 @@
               "display": "fall back on",
               "base": "fall back on",
               "correct": "To use something when nothing else is left",
-              "wrong": "To hide under something for safety",
+              "wrong": "To sell something to cattle farmers",
               "correctFirst": false,
               "why": "Many families fall back on savings when a job ends. Cooks fall back on frozen food when the store is closed. When there is no natural water, the toads fall back on dams, tanks and water points for cattle."
             },
@@ -9353,7 +9857,7 @@
       ],
       "mainIdea": [
         {
-          "s": "Australian scientists and a mining company plan a dry zone to stop poisonous cane toads before they reach a rich wildlife area. Toads need water often, so workers will change the farm water points.",
+          "s": "Australian scientists and a mining company plan a dry zone to stop poisonous cane toads before they reach a dry mining region. Toads need water often, so workers will change the farm water points.",
           "a": true,
           "why": "The plan is to cut off the water the toads use in the dry months, so they cannot cross the zone and harm native animals."
         },
@@ -9944,7 +10448,7 @@
               "display": "broke down",
               "base": "break down",
               "correct": "To fail because people cannot agree",
-              "wrong": "To become loud and very angry",
+              "wrong": "To open a new store in the city",
               "correctFirst": true,
               "why": "Talks often break down when neither side gives anything. Peace talks break down when trust is low. Talks between the chain and its main landlord broke down."
             },
@@ -10383,7 +10887,7 @@
         {
           "s": "The landlord turned down a rescue offer from the chain's owners.",
           "a": false,
-          "why": "It was the other way. The landlord said it made a generous offer, and the chain's owners turned it down."
+          "why": "It was the other way around. The landlord said it made a generous offer, and the chain's owners turned it down."
         },
         {
           "s": "Thousands of David Jones workers could be laid off.",
@@ -10500,7 +11004,7 @@
             {
               "display": "turned out",
               "base": "turn out",
-              "correct": "To be shown to be true",
+              "correct": "To be found to be a certain way",
               "wrong": "To be larger than expected",
               "correctFirst": true,
               "why": "Many quiet students turn out to be great speakers. Some old paintings turn out to be fakes. The tame foxes turned out to have fewer of this same kind of cell than aggressive foxes."
@@ -10620,7 +11124,7 @@
         },
         {
           "verb": "Turn out",
-          "def": "To be shown to be true",
+          "def": "To be found to be a certain way",
           "ipa": "/tɜrn aʊt/",
           "ex": [
             "The new neighbor turned out to be a nurse.",
@@ -64903,9 +65407,9 @@
           "why": "SWR said deploying the dogs is not linked to any increased threat. They are there to reassure passengers."
         },
         {
-          "s": "Alpha Canine Specialists supplied the three dogs.",
+          "s": "SWR teamed up with Alpha Canine Specialists to bring in the dogs.",
           "a": true,
-          "why": "SWR and Network Rail Wessex worked with the company, and the dogs started at the station in August 2026."
+          "why": "South Western Railway and Network Rail Wessex worked with the company, and the three dogs have been on duty at the station since August 2026."
         },
         {
           "s": "The dogs patrol out of sight, away from the crowds.",
@@ -65553,9 +66057,9 @@
           "why": "He scored eight goals and finished second in the scoring race."
         },
         {
-          "s": "The federation made the retirement decision for Messi after the final.",
+          "s": "The federation told Messi it was time to move on after the final.",
           "a": false,
-          "why": "The head of Argentina's soccer federation said it left the decision entirely up to Messi after the final."
+          "why": "The head of Argentina's soccer federation said it left the decision entirely up to Messi, and he chose to move on himself."
         },
         {
           "s": "He said a younger generation deserved the chance to play.",
@@ -65771,7 +66275,7 @@
               "display": "pick up",
               "base": "pick up",
               "correct": "To notice and record something",
-              "wrong": "To choose one thing from a group",
+              "wrong": "To warn someone about danger",
               "correctFirst": true,
               "why": "A sensor can pick up movement near a gate at 3 a.m., and night cameras pick up animals that people never see. Two camera traps on each bridge pick up every animal that crosses."
             }
@@ -65821,7 +66325,7 @@
               "display": "branch out",
               "base": "branch out",
               "correct": "To extend work to new areas",
-              "wrong": "To separate from a main road",
+              "wrong": "To receive money from others",
               "correctFirst": false,
               "why": "A charity can start in one town and branch out across the whole region, and a company can branch out into three new countries. The project hopes to branch out to other countries in South America as well."
             }
@@ -66191,9 +66695,9 @@
           "why": "Monkeys were not the only users. The footage showed opossums, sloths, and mouse opossums crossing as well."
         },
         {
-          "s": "The project estimates that about 90,000 mammals die on Brazilian roads each year.",
+          "s": "The project says about 90,000 mammals are run over on Brazilian roads each year.",
           "a": false,
-          "why": "The project estimates roughly 9 million mammals die on Brazilian roads each year."
+          "why": "Roughly 9 million mammals are run over on Brazilian roads each year, according to the project's estimate."
         },
         {
           "s": "The team set up eight canopy bridges in Alta Floresta in 2024.",
@@ -66822,7 +67326,7 @@
         {
           "s": "Fewer than 500 people have died in Nepal so far.",
           "a": false,
-          "why": "The flood has now killed more than 900 people in Nepal, and thousands are still listed as missing."
+          "why": "The flood has killed more than 900 people in Nepal, and nearly 21,000 security personnel and volunteers have pitched in to help with the search."
         }
       ],
       "dialogue": {
@@ -66988,7 +67492,7 @@
               "display": "broke down",
               "base": "break down",
               "correct": "To fail or end without agreement",
-              "wrong": "To make sudden progress after difficulty",
+              "wrong": "To make neither profit nor loss",
               "correctFirst": true,
               "why": "Peace talks often break down over one small detail. Many deals between landlords and tenants break down over money. Trade talks between Canada and the United States broke down on August 22, three days before Canada's announcement."
             },
@@ -66996,7 +67500,7 @@
               "display": "put on",
               "base": "put on",
               "correct": "To make goods subject to a tax",
-              "wrong": "To remove a tax from goods",
+              "wrong": "To delay something until later",
               "correctFirst": false,
               "why": "Many cities put a tax on sugary drinks. Most states put a tax on gas at the pump. After the talks ended, the United States put a 50 percent tariff on about 20 billion dollars' worth of Canadian goods."
             },
@@ -67054,7 +67558,7 @@
               "display": "summed up",
               "base": "sum up",
               "correct": "To state the main point in a few words",
-              "wrong": "To count the money that was spent",
+              "wrong": "To make a problem seem smaller",
               "correctFirst": false,
               "why": "A good speaker sums up a long talk in one sentence. A news report often sums up the key facts at the end. Carney summed up the dispute in blunt terms, saying Canada was at war because it had been attacked."
             },
@@ -67116,16 +67620,6 @@
       ],
       "vocab": [
         {
-          "verb": "Lay out",
-          "def": "To explain a plan clearly",
-          "ipa": "/leɪ aʊt/",
-          "ex": [
-            "The manager laid out the schedule for the whole week.",
-            "Before we start, let me lay out how this will work.",
-            "She laid the plan out step by step so everyone understood."
-          ]
-        },
-        {
           "verb": "Break down",
           "def": "To fail or end without agreement",
           "ipa": "/breɪk daʊn/",
@@ -67153,6 +67647,16 @@
             "Students make up about a third of the town's population.",
             "Food makes up a big part of our travel budget.",
             "Teenagers made up most of the crowd at the concert."
+          ]
+        },
+        {
+          "verb": "Lay out",
+          "def": "To explain a plan clearly",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "The manager laid out the schedule for the whole week.",
+            "Before we start, let me lay out how this will work.",
+            "She laid the plan out step by step so everyone understood."
           ]
         },
         {
@@ -68157,7 +68661,7 @@
         {
           "s": "Doctors say drinking urine is safe.",
           "a": false,
-          "why": "Drinking urine is worse than skipping showers, because it contains waste products and harmful microbes."
+          "why": "Doctors point out that urine contains waste products and harmful microbes, so drinking it is worse than skipping showers."
         },
         {
           "s": "People mix up the trend with real body-odor research.",
@@ -68344,7 +68848,7 @@
               "display": "looking back",
               "base": "look back",
               "correct": "To think about the past",
-              "wrong": "To plan for next year",
+              "wrong": "To find information on a phone",
               "correctFirst": false,
               "why": "People look back on their childhood, look back with regret, or just look back at old photos for fun. Here millions of fans look back at 2016 with nothing but warm smiles."
             },
@@ -68352,7 +68856,7 @@
               "display": "blew up",
               "base": "blow up",
               "correct": "To become hugely popular fast",
-              "wrong": "To disappear from the internet",
+              "wrong": "To pass without causing harm",
               "correctFirst": true,
               "why": "A photo can blow up online overnight, a new dance can blow up on video apps, and a small joke can blow up into a trend. Here the 2016 hashtag blew up in January, growing by more than 450 percent."
             }
@@ -68373,7 +68877,7 @@
               "display": "brought back",
               "base": "bring back",
               "correct": "To return something from the past",
-              "wrong": "To make something disappear",
+              "wrong": "To release a new product for sale",
               "correctFirst": true,
               "why": "Stores bring back old recipes, radio stations bring back forgotten songs, and apps now bring back old photo filters too. Here photo apps brought back the famous dog-ears filter that everyone used a decade ago."
             },
@@ -68394,7 +68898,7 @@
               "display": "holds up",
               "base": "hold up",
               "correct": "To stay good as time passes",
-              "wrong": "To sound strange and old",
+              "wrong": "To reach the top of the charts",
               "correctFirst": true,
               "why": "A good joke can hold up for years, and an old song can hold up even better. Fans say Zara Larsson's 2016 hit still holds up today, a full decade after its release."
             },
@@ -68402,7 +68906,7 @@
               "display": "turned into",
               "base": "turn into",
               "correct": "To become something different",
-              "wrong": "To stay exactly the same",
+              "wrong": "To appear without warning",
               "correctFirst": false,
               "why": "A hobby can turn into a career, and a small argument can turn into a big fight. Here a private playlist of old songs turned into a giant online party that everyone wanted to join."
             }
@@ -68439,7 +68943,7 @@
               "display": "leave out",
               "base": "leave out",
               "correct": "To not include something",
-              "wrong": "To describe something fully",
+              "wrong": "To keep something for later",
               "correctFirst": false,
               "why": "A story can leave out the hard parts, a recipe can leave out one key ingredient, and a memory can leave out the bad days entirely. These 2016 videos leave out the difficult moments, so the whole year looks better than it really was."
             }
@@ -68824,14 +69328,14 @@
           "why": "The tag blew up in January, and searches for 2016 songs jumped 290 percent."
         },
         {
-          "s": "A 2016 pop hit re-entered the British charts at number eight.",
+          "s": "Lush Life came back onto the British charts at number eight.",
           "a": true,
-          "why": "A viral dance carried Lush Life back onto the lists a full decade after its release."
+          "why": "Thanks to a viral dance, Zara Larsson's 2016 hit came back a full decade after its release and also returned to the American list."
         },
         {
-          "s": "Lush Life returned to the charts thanks to a new movie.",
+          "s": "A new movie brought Lush Life back onto the charts.",
           "a": false,
-          "why": "A viral dance carried Zara Larsson's 2016 hit Lush Life back onto the British and American charts."
+          "why": "A viral dance, not a movie, brought back Zara Larsson's 2016 hit, and fans say its bright, simple pop still holds up today."
         },
         {
           "s": "Today's teenagers were small children in 2016.",
@@ -69044,7 +69548,7 @@
               "display": "clog up",
               "base": "clog up",
               "correct": "To block something so it cannot flow",
-              "wrong": "To clean something completely",
+              "wrong": "To rise to the top of a list",
               "correctFirst": false,
               "why": "Fallen leaves clog up a drain after a storm, and holiday traffic clogs up the highway every year. Now these fake posts clog up feeds on every major app, leaving little room for anything real."
             }
@@ -69065,7 +69569,7 @@
               "display": "rake in",
               "base": "rake in",
               "correct": "To earn a lot of money quickly",
-              "wrong": "To spend money without thinking",
+              "wrong": "To divide money among partners",
               "correctFirst": false,
               "why": "A hit movie can rake in millions in one weekend, and an ice cream shop can rake in cash during a heat wave. Here one viral fake post can rake in more money than a month of honest work."
             }
@@ -69107,7 +69611,7 @@
               "display": "crack down on",
               "base": "crack down on",
               "correct": "To start punishing rule-breakers",
-              "wrong": "To quietly ignore a problem",
+              "wrong": "To study someone more closely",
               "correctFirst": true,
               "why": "Police crack down on speeding drivers near schools, and cities crack down on illegal parking downtown. Big platforms now promise to crack down on the accounts that post the worst fake content."
             },
@@ -69702,7 +70206,7 @@
               "display": "came down",
               "base": "come down",
               "correct": "To fall to the ground",
-              "wrong": "To slide slowly for years",
+              "wrong": "To break into pieces",
               "correctFirst": false,
               "why": "Old walls come down, heavy rain comes down, and power lines come down in storms. The frozen wall came down into the valley within minutes."
             },
@@ -69781,7 +70285,7 @@
               "display": "call off",
               "base": "call off",
               "correct": "To stop something that was planned",
-              "wrong": "To shout to people far away",
+              "wrong": "To ask experts to come and help",
               "correctFirst": true,
               "why": "Schools call off classes in bad weather, and couples sometimes call off a wedding. Teams had to call off the search when a new lake began to overflow."
             },
@@ -70189,7 +70693,7 @@
         {
           "s": "All of the missing people are citizens of Nepal.",
           "a": false,
-          "why": "More than half of the roughly 1,500 missing are foreigners, including Indian pilgrims and dozens of Americans."
+          "why": "More than half of the roughly 1,500 missing are foreigners, including Indian pilgrims and dozens of Americans, and foreign governments have reached out to offer help."
         },
         {
           "s": "Some villages were cut off because bridges and the main highway were destroyed.",
@@ -70378,7 +70882,7 @@
               "display": "put off",
               "base": "put off",
               "correct": "To delay something until later",
-              "wrong": "To finish work ahead of time",
+              "wrong": "To accept something unpleasant",
               "correctFirst": false,
               "why": "People put off homework, dentist visits, and hard conversations. Parton admitted she had put off dealing with her own health for too long."
             },
@@ -70415,7 +70919,7 @@
               "display": "broke through",
               "base": "break through",
               "correct": "To reach success after a struggle",
-              "wrong": "To take a break from music",
+              "wrong": "To end a relationship suddenly",
               "correctFirst": true,
               "why": "A young singer often breaks through with one big hit. Some small bands break through after years of playing in clubs. Parton broke through in the late 1960s and stayed on top for decades."
             },
@@ -71074,7 +71578,7 @@
               "display": "hold off",
               "base": "hold off",
               "correct": "To wait before doing something",
-              "wrong": "To attack without any warning",
+              "wrong": "To keep information secret",
               "correctFirst": true,
               "why": "Shoppers hold off on big purchases, and coaches hold off on naming the team. Washington asked Ukraine to hold off on strikes against two Russian cities."
             },
@@ -72328,7 +72832,7 @@
               "display": "built into",
               "base": "build into",
               "correct": "To make something part of a machine",
-              "wrong": "To place something on a shelf",
+              "wrong": "To use as a base for more work",
               "correctFirst": false,
               "why": "Car makers build airbags into every new vehicle, and phone makers build a camera into the back of each phone. A soft version of this electronic skin could be built into a robot hand within a few years."
             }
@@ -72341,7 +72845,7 @@
               "display": "went through",
               "base": "go through",
               "correct": "To complete a whole process",
-              "wrong": "To fail an important check",
+              "wrong": "To send a signal to a computer",
               "correctFirst": true,
               "why": "New cars go through crash testing before they reach a showroom, and new medicine goes through years of trials. This electronic skin went through more than one thousand touch tests and kept working the whole time."
             },
@@ -72934,7 +73438,7 @@
               "display": "came out",
               "base": "come out",
               "correct": "To be published for the public",
-              "wrong": "To be kept secret for years",
+              "wrong": "To be mentioned in a meeting",
               "correctFirst": false,
               "why": "News, results, movies, and albums come out. These results came out on August 19, the way a new phone comes out every fall."
             }
@@ -72963,7 +73467,7 @@
               "display": "put together",
               "base": "put together",
               "correct": "To build from separate parts",
-              "wrong": "To divide into small pieces",
+              "wrong": "To store in a cold place",
               "correctFirst": true,
               "why": "You put together furniture, a team, or a plan. Each dose is put together for one patient, like a recipe written for a single person."
             },
@@ -72984,7 +73488,7 @@
               "display": "come back",
               "base": "come back",
               "correct": "To return after being away",
-              "wrong": "To disappear forever",
+              "wrong": "To become smaller or lower",
               "correctFirst": true,
               "why": "Headaches, old fashions, and cancer can all come back. For most patients in this trial, the melanoma has not come back at all."
             },
@@ -73000,7 +73504,7 @@
               "display": "shot up",
               "base": "shoot up",
               "correct": "To rise very fast",
-              "wrong": "To fall little by little",
+              "wrong": "To split into two parts",
               "correctFirst": true,
               "why": "Prices, fevers, and stocks shoot up. Moderna's stock shot up within hours, the way gas prices sometimes jump overnight."
             }
@@ -73013,7 +73517,7 @@
               "display": "go over",
               "base": "go over",
               "correct": "To examine something carefully",
-              "wrong": "To forget to check something",
+              "wrong": "To approve for public use",
               "correctFirst": false,
               "why": "You go over homework, contracts, and bills. Independent experts will go over these numbers line by line before anyone celebrates."
             },
@@ -73029,7 +73533,7 @@
               "display": "take on",
               "base": "take on",
               "correct": "To accept a difficult challenge",
-              "wrong": "To avoid a hard task politely",
+              "wrong": "To gain control of a company",
               "correctFirst": false,
               "why": "A student takes on a hard class, and a worker takes on a job nobody else wants. Researchers now want to take on lung, kidney, and pancreatic cancer."
             }
@@ -77415,20 +77919,20 @@
               "why": "Couples settle on a wedding date, and friends settle on a restaurant after arguing for an hour. After reviewing the data, scientists settled on mako and blue sharks for the project."
             },
             {
-              "display": "send back",
-              "base": "send back",
-              "correct": "To return information to a place",
-              "wrong": "To keep information secret",
-              "correctFirst": true,
-              "why": "Weather satellites send back photos of storms, and space robots send back pictures from far away. Here a shark's tag sends back ocean measurements to scientists on shore by satellite."
-            },
-            {
               "display": "comes up",
               "base": "come up",
               "correct": "To rise to a higher place",
               "wrong": "To swim quickly from danger",
               "correctFirst": false,
               "why": "Divers come up for air, and swimmers come up between strokes. These sharks come up to the surface about twice a day, giving their tags a chance to transmit."
+            },
+            {
+              "display": "send back",
+              "base": "send back",
+              "correct": "To return information to a place",
+              "wrong": "To keep information secret",
+              "correctFirst": true,
+              "why": "Weather satellites send back photos of storms, and space robots send back pictures from far away. Here a shark's tag sends back ocean measurements to scientists on shore by satellite."
             }
           ]
         },
@@ -77525,16 +78029,6 @@
           ]
         },
         {
-          "verb": "Send back",
-          "ipa": "/sɛnd bæk/",
-          "def": "To return information to a place",
-          "ex": [
-            "The probe sends back photos from deep space.",
-            "The climbers sent back news from the base camp.",
-            "The drone sends back video as it flies."
-          ]
-        },
-        {
           "verb": "Come up",
           "ipa": "/kʌm ʌp/",
           "def": "To rise to a higher place",
@@ -77542,6 +78036,16 @@
             "Divers come up slowly to stay safe.",
             "The whale came up for air near our boat.",
             "Bubbles come up when the water boils."
+          ]
+        },
+        {
+          "verb": "Send back",
+          "ipa": "/sɛnd bæk/",
+          "def": "To return information to a place",
+          "ex": [
+            "The probe sends back photos from deep space.",
+            "The climbers sent back news from the base camp.",
+            "The drone sends back video as it flies."
           ]
         },
         {
@@ -84781,6 +85285,14 @@
           "text": "Romania is [[in the same position]]. The [[flow]] of the Danube there has fallen to about 1,500 cubic meters a second, less than a third of the July [[average]]. One of the two 680 megawatt reactors at the Cernavoda plant has already stopped, and the other is running at about half [[capacity]]. Together they normally [[supply]] [[roughly]] a fifth of Romania's electricity. More than 100 soldiers {{set off}} 180 kilograms of [[explosives]] at a rock formation on Monday. The blast will {{hold back}} the water that escapes down a side channel called the Bala arm and {{send it past}} the plant instead. The navy also plans to sink four barges carrying about 500 tons of stone across the same channel. Acting Prime Minister Ilie Bolojan declared a nationwide energy [[alert]] for August and {{turned to}} Ukraine for extra nuclear power. The carmakers Dacia and Ford have stopped production until August 19.",
           "verbs": [
             {
+              "display": "set off",
+              "base": "set off",
+              "correct": "To make something explode",
+              "wrong": "To take rocks from a riverbed",
+              "correctFirst": true,
+              "why": "Soldiers set off dynamite to clear a blocked road, and construction workers set off small charges to loosen solid rock. In Romania, more than 100 soldiers set off 180 kilograms of explosives at a rock formation in the river."
+            },
+            {
               "display": "hold back",
               "base": "hold back",
               "correct": "To stop water from flowing",
@@ -84795,14 +85307,6 @@
               "wrong": "To pump water into a tank",
               "correctFirst": false,
               "why": "Engineers send water past a blocked pipe to a nearby town, and workers send trucks past a closed road to finish a delivery on time. In Romania, the planned blast will send the Danube water past the Bala side channel to the power plant instead."
-            },
-            {
-              "display": "set off",
-              "base": "set off",
-              "correct": "To make something explode",
-              "wrong": "To take rocks from a riverbed",
-              "correctFirst": true,
-              "why": "Soldiers set off dynamite to clear a blocked road, and construction workers set off small charges to loosen solid rock. In Romania, more than 100 soldiers set off 180 kilograms of explosives at a rock formation in the river."
             },
             {
               "display": "turned to",
@@ -84906,6 +85410,16 @@
           "ipa": "/pʊt ɔf/"
         },
         {
+          "verb": "Set off",
+          "def": "To make something explode",
+          "ex": [
+            "Workers set off a controlled blast to clear the rocks.",
+            "They set off the explosives at noon.",
+            "The team is setting off a small blast today."
+          ],
+          "ipa": "/sɛt ɔf/"
+        },
+        {
           "verb": "Hold back",
           "def": "To stop water from flowing",
           "ex": [
@@ -84924,16 +85438,6 @@
             "The new channel sends the river past the town."
           ],
           "ipa": "/sɛnd pæst/"
-        },
-        {
-          "verb": "Set off",
-          "def": "To make something explode",
-          "ex": [
-            "Workers set off a controlled blast to clear the rocks.",
-            "They set off the explosives at noon.",
-            "The team is setting off a small blast today."
-          ],
-          "ipa": "/sɛt ɔf/"
         },
         {
           "verb": "Turn to",
