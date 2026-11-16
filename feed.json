@@ -2,6 +2,484 @@
   "updated": "2026-11-16",
   "stories": [
     {
+      "id": "korea-exam-ai-cheating-2026",
+      "number": 235,
+      "headline": "Top scorer on a South Korean exam admits AI cheating",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n235-korea-exam-ai-cheating-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating (The Guardian)",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+        },
+        {
+          "title": "South Korea's top scorer in tax accountancy exam admits cheating (BBC News)",
+          "url": "https://www.bbc.com/news/articles/ckvg2ezvpe08o"
+        },
+        {
+          "title": "Mini camera, AI and smartphone: How tax exam top scorer says he cheated under two proctors' noses (The Korea Herald)",
+          "url": "https://www.koreaherald.com/article/10937594"
+        },
+        {
+          "title": "PM vows to mobilize all national capabilities to prevent AI cheating on college entrance exam (The Korea Herald)",
+          "url": "https://www.koreaherald.com/article/10938149"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On Sunday, November 15, 2026, a man in South Korea {{owned up to}} cheating on a national exam with AI. The exam is for people who want to become [[tax accountants]], experts who help people with their taxes. The 34-year-old was the [[top scorer]] in both rounds, in April and July. His results had {{stood out}} for months. In the [[first round]], he got 159 of 160 questions right.",
+          "verbs": [
+            {
+              "display": "owned up to",
+              "base": "own up to",
+              "correct": "To admit that you did something wrong",
+              "wrong": "To ask another person to take a test",
+              "correctFirst": true,
+              "why": "Kids often own up to small mistakes when their parents stay calm. A good worker owns up to errors quickly. On November 15, 2026, the top scorer owned up to cheating on a national exam with AI."
+            },
+            {
+              "display": "stood out",
+              "base": "stand out",
+              "correct": "To be easy to notice because it is unusual",
+              "wrong": "To be written in very small letters",
+              "correctFirst": false,
+              "why": "A bright red coat stands out in a crowd. A strong answer stands out on any test. The man's near-perfect results had stood out for months."
+            }
+          ]
+        },
+        {
+          "text": "In a video on his lawyer's YouTube channel, he explained his [[method]]. He took photos of the questions with a tiny camera. He sent them to a generative AI tool, a program that writes answers by itself. Then he checked the answers on his smartphone. He said he {{pulled this off}} with two exam [[supervisors]] in the room. When cheating [[claims]] first {{came out}}, he [[denied]] them. He [[changed his mind]] after thinking about the person who finished second.",
+          "verbs": [
+            {
+              "display": "pulled this off",
+              "base": "pull off",
+              "correct": "To manage to do something hard",
+              "wrong": "To delay something until a later time",
+              "correctFirst": true,
+              "why": "Few students pull off a perfect score on that test. Our small team often pulls off big projects on time. He said he pulled off the cheating with two exam supervisors in the room."
+            },
+            {
+              "display": "came out",
+              "base": "come out",
+              "correct": "To become known to the public",
+              "wrong": "To be counted by a machine",
+              "correctFirst": false,
+              "why": "The truth often comes out in the end. News about a new phone usually comes out online first. When cheating claims first came out, the top scorer denied them."
+            }
+          ]
+        },
+        {
+          "text": "He {{turned himself in}} to police in Seoul. He gave them a [[written confession]], a letter that admits what he did. He promised to {{hand over}} his [[devices]] as [[evidence]]. Police say they are {{looking into}} the case. No court has [[ruled]] on it yet. Under South Korean law, officials can {{throw out}} a cheater's results. The person is also [[banned]] from the exam for five years.",
+          "verbs": [
+            {
+              "display": "turned himself in",
+              "base": "turn in",
+              "correct": "To give yourself to the police",
+              "wrong": "To get a job with the police",
+              "correctFirst": true,
+              "why": "Some people turn themselves in because they feel guilty. A lawyer often tells a client to turn himself in. The top scorer turned himself in to police in Seoul with a written confession."
+            },
+            {
+              "display": "hand over",
+              "base": "hand over",
+              "correct": "To give something to another person",
+              "wrong": "To fix something for another person",
+              "correctFirst": false,
+              "why": "Passengers hand over their tickets at the gate. The old manager hands over the office keys to the new one. The top scorer promised to hand over his devices as evidence."
+            },
+            {
+              "display": "looking into",
+              "base": "look into",
+              "correct": "To study something to learn the facts",
+              "wrong": "To lock something in a police car",
+              "correctFirst": true,
+              "why": "The school looks into every complaint from parents. My bank looks into strange charges on my card. Police say they are looking into the top scorer's case."
+            },
+            {
+              "display": "throw out",
+              "base": "throw out",
+              "correct": "To say that something does not count",
+              "wrong": "To make something easier to read",
+              "correctFirst": false,
+              "why": "A school throws out a test score if a student brings notes. A judge throws out evidence that police get in the wrong way. Under South Korean law, officials can throw out a cheater's results."
+            }
+          ]
+        },
+        {
+          "text": "When the man confessed, South Korea's [[college entrance exam]] was {{coming up}} in four days, on Thursday, November 19, 2026. Students take this test to apply to universities. On Sunday, the president's office called an [[emergency meeting]]. A top official in the president's office said officials will {{track down}} people who cheated in the past. On Monday, November 16, the prime minister said the government will {{set up}} an emergency team. She said old ways of running exams cannot {{keep up with}} [[fast-changing]] AI.",
+          "verbs": [
+            {
+              "display": "coming up",
+              "base": "come up",
+              "correct": "To be going to happen soon",
+              "wrong": "To cost a lot of money",
+              "correctFirst": true,
+              "why": "Final exams always come up fast. Tax day always comes up sooner than people expect. When the man confessed, South Korea's college entrance exam was coming up in four days."
+            },
+            {
+              "display": "track down",
+              "base": "track down",
+              "correct": "To find someone after a long search",
+              "wrong": "To teach someone how to use AI",
+              "correctFirst": false,
+              "why": "Police often track down car thieves in a few days. She tracks down old school friends online. A top official in the president's office said officials will track down people who cheated in the past."
+            },
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create a new group",
+              "wrong": "To give a group a prize",
+              "correctFirst": true,
+              "why": "Many cities set up special teams after a big storm. Our school sets up a group of parents to plan the summer fair. The prime minister said the government will set up an emergency team."
+            },
+            {
+              "display": "keep up with",
+              "base": "keep up with",
+              "correct": "To go at the same speed as something",
+              "wrong": "To get the same grade as something",
+              "correctFirst": false,
+              "why": "Laws rarely keep up with new technology. Many small schools struggle to keep up with changes in teaching. The prime minister said old ways of running exams cannot keep up with fast-changing AI."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Own up to",
+          "def": "To admit that you did something wrong",
+          "ipa": "/oʊn ʌp tu/",
+          "ex": [
+            "It took him a week to own up to breaking the window.",
+            "She owned up to the mistake before her boss noticed it.",
+            "Nobody owned up to eating the last piece of cake."
+          ]
+        },
+        {
+          "verb": "Stand out",
+          "def": "To be easy to notice because it is unusual",
+          "ipa": "/stænd aʊt/",
+          "ex": [
+            "His tall green hat made him stand out at the party.",
+            "Your resume needs something that makes it stand out.",
+            "One painting stood out because of its bright colors."
+          ]
+        },
+        {
+          "verb": "Pull off",
+          "def": "To manage to do something hard",
+          "ipa": "/pʊl ɔf/",
+          "ex": [
+            "Nobody thought the small team could pull off the win.",
+            "She pulled off a surprise party without her husband knowing.",
+            "It's a hard plan, but I think we can pull it off."
+          ]
+        },
+        {
+          "verb": "Come out",
+          "def": "To become known to the public",
+          "ipa": "/kʌm aʊt/",
+          "ex": [
+            "The truth about the missing money came out years later.",
+            "When the news came out, the whole town was shocked.",
+            "Details of the deal came out in a newspaper report."
+          ]
+        },
+        {
+          "verb": "Turn in",
+          "def": "To give yourself to the police",
+          "ipa": "/tɝn ɪn/",
+          "ex": [
+            "The driver turned himself in the next morning.",
+            "Her lawyer told her to turn herself in.",
+            "Two of the robbers turned themselves in on Friday."
+          ]
+        },
+        {
+          "verb": "Hand over",
+          "def": "To give something to another person",
+          "ipa": "/hænd ˈoʊvər/",
+          "ex": [
+            "The thief handed over the stolen watch to a police officer.",
+            "She handed over the house keys to the new owner.",
+            "Please hand over the report when it's finished."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study something to learn the facts",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The company is looking into why the website crashed.",
+            "I'll look into the problem tomorrow morning.",
+            "Doctors are looking into the cause of her headaches."
+          ]
+        },
+        {
+          "verb": "Throw out",
+          "def": "To say that something does not count",
+          "ipa": "/θroʊ aʊt/",
+          "ex": [
+            "The judge threw out the case because there was no proof.",
+            "The court threw out the votes from one town.",
+            "The teacher threw out her test score after she was caught with notes."
+          ]
+        },
+        {
+          "verb": "Come up",
+          "def": "To be going to happen soon",
+          "ipa": "/kʌm ʌp/",
+          "ex": [
+            "My sister's birthday is coming up in June.",
+            "With Thanksgiving coming up, stores are very busy.",
+            "Is anything big coming up at work?"
+          ]
+        },
+        {
+          "verb": "Track down",
+          "def": "To find someone after a long search",
+          "ipa": "/træk daʊn/",
+          "ex": [
+            "It took weeks to track down the owner of the lost dog.",
+            "Police tracked down the driver with a security video.",
+            "I finally tracked down my old college roommate."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create a new group",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "The city set up a team to help flood victims.",
+            "Parents set up a group to plan the school fair.",
+            "The company set up a team to answer worried customers."
+          ]
+        },
+        {
+          "verb": "Keep up with",
+          "def": "To go at the same speed as something",
+          "ipa": "/kip ʌp wɪθ/",
+          "ex": [
+            "Laws often fail to keep up with new technology.",
+            "Schools try hard to keep up with changes in the job market.",
+            "Small towns can't keep up with how fast big cities grow."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "tax accountants",
+          "def": "Experts who help people and companies with their taxes",
+          "ipa": "/tæks əˈkaʊntənts/",
+          "ex": [
+            "Many tax accountants work long hours in the spring.",
+            "Small businesses often pay tax accountants to do their paperwork.",
+            "My aunt and uncle are both tax accountants."
+          ]
+        },
+        {
+          "word": "top scorer",
+          "def": "The person who gets the highest score",
+          "ipa": "/tɑp ˈskɔrər/",
+          "ex": [
+            "She was the top scorer on her team this season.",
+            "The top scorer in the spelling contest won a new bike.",
+            "Our class's top scorer got 98 on the math test."
+          ]
+        },
+        {
+          "word": "first round",
+          "def": "The first part of a test or contest that has several parts",
+          "ipa": "/fɝst raʊnd/",
+          "ex": [
+            "Half of the singers went home after the first round.",
+            "He passed the first round of job interviews.",
+            "The first round of the quiz was the easiest."
+          ]
+        },
+        {
+          "word": "method",
+          "def": "A way of doing something",
+          "ipa": "/ˈmɛθəd/",
+          "ex": [
+            "My grandmother has a special method for making bread.",
+            "This method of saving money works for many families.",
+            "The teacher showed us a faster method for long division."
+          ]
+        },
+        {
+          "word": "supervisors",
+          "def": "People who watch others to make sure they follow the rules",
+          "ipa": "/ˈsupərˌvaɪzərz/",
+          "ex": [
+            "The supervisors walked around the room during the test.",
+            "Each exam room has two supervisors.",
+            "The supervisors stop students from talking during the test."
+          ]
+        },
+        {
+          "word": "claims",
+          "def": "Statements that something is true, given without proof",
+          "ipa": "/kleɪmz/",
+          "ex": [
+            "The company denies the claims about its products.",
+            "Reporters checked the claims before they wrote the story.",
+            "His claims about the money were false."
+          ]
+        },
+        {
+          "word": "denied",
+          "def": "Said that something is not true",
+          "ipa": "/dɪˈnaɪd/",
+          "ex": [
+            "The boy denied breaking the vase.",
+            "She denied that she knew the answer.",
+            "The mayor denied the report about the new tax."
+          ]
+        },
+        {
+          "word": "changed his mind",
+          "def": "Made a different decision than before",
+          "ipa": "/tʃeɪndʒd hɪz maɪnd/",
+          "ex": [
+            "He wanted pizza, but then he changed his mind.",
+            "My dad changed his mind about selling the car.",
+            "My brother changed his mind and stayed home."
+          ]
+        },
+        {
+          "word": "written confession",
+          "def": "A letter in which someone admits a crime",
+          "ipa": "/ˈrɪtən kənˈfɛʃən/",
+          "ex": [
+            "The thief signed a written confession.",
+            "Police asked her for a written confession.",
+            "A written confession can be used in court."
+          ]
+        },
+        {
+          "word": "devices",
+          "def": "Small machines such as phones and cameras",
+          "ipa": "/dɪˈvaɪsɪz/",
+          "ex": [
+            "Please silence all devices during the movie.",
+            "Our family has too many devices at home.",
+            "Many devices need to be charged every night."
+          ]
+        },
+        {
+          "word": "evidence",
+          "def": "Things that show something is true",
+          "ipa": "/ˈɛvɪdəns/",
+          "ex": [
+            "The police found new evidence in the car.",
+            "There is no evidence that the drink is unsafe.",
+            "The video was strong evidence in the trial."
+          ]
+        },
+        {
+          "word": "ruled",
+          "def": "Made an official decision as a court or judge",
+          "ipa": "/ruld/",
+          "ex": [
+            "The judge ruled that the contract was fair.",
+            "The court ruled against the company.",
+            "The judges ruled in favor of the city."
+          ]
+        },
+        {
+          "word": "banned",
+          "def": "Not allowed to do something because of a law or rule",
+          "ipa": "/bænd/",
+          "ex": [
+            "The player was banned from three games.",
+            "Phones are banned in many classrooms.",
+            "He was banned from the store after he stole a watch."
+          ]
+        },
+        {
+          "word": "college entrance exam",
+          "def": "A test students take when they apply to universities",
+          "ipa": "/ˈkɑlɪdʒ ˈɛntrəns ɪɡˈzæm/",
+          "ex": [
+            "My cousin studies every night for her college entrance exam.",
+            "The college entrance exam lasts most of the day.",
+            "Some schools no longer ask for a college entrance exam."
+          ]
+        },
+        {
+          "word": "emergency meeting",
+          "def": "A meeting held quickly because of a serious problem",
+          "ipa": "/ɪˈmɝdʒənsi ˈmitɪŋ/",
+          "ex": [
+            "The school board held an emergency meeting after the storm.",
+            "The boss called an emergency meeting on Friday night.",
+            "Doctors had an emergency meeting about the new virus."
+          ]
+        },
+        {
+          "word": "fast-changing",
+          "def": "Changing very quickly",
+          "ipa": "/ˈfæst ˌtʃeɪndʒɪŋ/",
+          "ex": [
+            "Phones are part of a fast-changing industry.",
+            "It is hard to plan in a fast-changing world.",
+            "Fast-changing weather made the hike difficult."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A man who came first on a national exam for tax accountants admitted that he used AI to cheat. The case worried South Korean officials just days before the national college entrance exam.",
+          "a": true,
+          "why": "He owned up to cheating with a tiny camera, an AI tool and a smartphone. Officials feared AI cheating because the college entrance exam was coming up."
+        },
+        {
+          "s": "Exam supervisors in South Korea caught a top test taker sending questions to an AI tool. Police arrested him, and leaders fear students will copy his trick at the national college test.",
+          "a": false,
+          "why": "Close, but nobody caught him during the exam. He confessed on his own and turned himself in to police, who are looking into the case."
+        },
+        {
+          "s": "South Korea will let students use AI tools during its college entrance exam for the first time. Officials say the change will help students who cannot afford private tutors at home.",
+          "a": false,
+          "why": "This story is about a top scorer who owned up to AI cheating on a tax accountant exam. The government now wants to keep the college exam fair."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The top scorer owned up to cheating on the exam with AI.",
+          "a": true,
+          "why": "He said he took photos of the questions, sent them to an AI tool and checked the answers on his smartphone."
+        },
+        {
+          "s": "He admitted the cheating right after the first claims came out.",
+          "a": false,
+          "why": "When the claims first came out, he denied them. He changed his mind later."
+        },
+        {
+          "s": "He turned himself in to police with a written confession.",
+          "a": true,
+          "why": "He turned himself in to police in Seoul and gave them a letter that admits what he did."
+        },
+        {
+          "s": "A court has already found the top scorer guilty of cheating.",
+          "a": false,
+          "why": "No court has ruled on the case. Police say they are looking into it."
+        },
+        {
+          "s": "Officials were worried because the college entrance exam was coming up.",
+          "a": true,
+          "why": "The college entrance exam was coming up four days after the confession, so officials wanted to stop AI cheating."
+        },
+        {
+          "s": "The prime minister said old exam methods can keep up with AI.",
+          "a": false,
+          "why": "She said old ways of running exams cannot keep up with fast-changing AI, and the government will set up an emergency team."
+        }
+      ]
+    },
+    {
       "id": "comte-best-cheese-2026",
       "number": 234,
       "headline": "A French cheese is named the best in the world",
@@ -25,7 +503,7 @@
       ],
       "chunks": [
         {
-          "text": "On November 12, 2026, judges at the World Cheese Awards in Cordoba, Spain, named a hard French cheese called Comté the best in the world. It comes from the Jura Mountains of eastern France. The winner was [[aged]] for 24 months, kept on a shelf so its taste grew stronger. It {{stood out}} among 5,330 cheeses from 45 countries. It was aged in an old [[fort]] by a [[family business]] that started in 1907 and has been {{passed down}} ever since.",
+          "text": "On November 12, 2026, judges at the World Cheese Awards in Spain named a hard French cheese called Comté the best in the world. It comes from the mountains of eastern France. The winner was [[aged]] for 24 months, kept on a shelf so its taste grew stronger. It {{stood out}} among 5,330 cheeses from 45 countries. It was aged in an old [[fort]] by a [[family business]] that started in 1907 and has been {{passed down}} ever since.",
           "verbs": [
             {
               "display": "stood out",
