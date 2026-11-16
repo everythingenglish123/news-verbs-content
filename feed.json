@@ -2,6 +2,490 @@
   "updated": "2026-11-16",
   "stories": [
     {
+      "id": "italy-fines-meta-photos-2026",
+      "number": 236,
+      "headline": "Italy fines Meta for accessing users' phone photos",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n236-italy-fines-meta-photos-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Italy fines Meta €805m over accessing users' photos (BBC News)",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
+        },
+        {
+          "title": "Italy fines Meta $887m for accessing Android users' photos and videos (The Guardian)",
+          "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos"
+        },
+        {
+          "title": "Italy hits Meta with €805m fine over privacy law violation (Politico Europe)",
+          "url": "https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 14, 2026, Italy's Data Protection Authority {{handed out}} a [[fine]] of 805 million euros, or about 887 million dollars, to Meta, Facebook's owner. A fine is money paid as a punishment. The agency, which protects [[personal information]], said Facebook's Android phone app used people's photos and videos without their [[specific]] [[consent]], meaning clear permission for that exact use. When setting the fine, it {{factored in}} the roughly 20 million people affected in Italy.",
+          "verbs": [
+            {
+              "display": "handed out",
+              "base": "hand out",
+              "correct": "To give someone a punishment",
+              "wrong": "To write a new law for schools",
+              "correctFirst": true,
+              "why": "Police officers hand out tickets to drivers who speed. The judge hands out a tough punishment to the thief. Italy's Data Protection Authority handed out a fine to Meta."
+            },
+            {
+              "display": "factored in",
+              "base": "factor in",
+              "correct": "To include something when deciding",
+              "wrong": "To send data to another agency",
+              "correctFirst": true,
+              "why": "Good drivers factor in the traffic when they leave home. Banks factor in your income before they give a loan. The agency factored in the roughly 20 million people affected in Italy."
+            }
+          ]
+        },
+        {
+          "text": "The case is about a feature that Meta {{rolled out}} in 2023. While people [[browse]] Facebook, the feature {{picks out}} saved photos and videos from their phone's [[gallery]] as ideas for posts. Facebook asked for one [[permission]] covering the whole app. The agency said the message that {{popped up}} was too general. It did not {{spell out}} that the app would use people's photos for [[suggestions]]. The agency says users who {{went along with}} the request could not understand this.",
+          "verbs": [
+            {
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To make a new feature available",
+              "wrong": "To report a feature to the police",
+              "correctFirst": false,
+              "why": "Phone makers roll out new features every fall. Our bank rolls out a new app every few years. Meta rolled out the photo feature in 2023."
+            },
+            {
+              "display": "picks out",
+              "base": "pick out",
+              "correct": "To choose certain items",
+              "wrong": "To delete old phone files",
+              "correctFirst": true,
+              "why": "The app picks out the best photos from each trip. My mom picks out a few good apples at the store. The feature picks out photos and videos from a phone's gallery."
+            },
+            {
+              "display": "popped up",
+              "base": "pop up",
+              "correct": "To appear suddenly on a screen",
+              "wrong": "To send a warning by email",
+              "correctFirst": false,
+              "why": "A warning pops up when my battery is low. Ads often pop up while I read the news. The agency said the message that popped up was too general."
+            },
+            {
+              "display": "spell out",
+              "base": "spell out",
+              "correct": "To explain something clearly",
+              "wrong": "To translate a message for users",
+              "correctFirst": true,
+              "why": "Good contracts spell out every cost. My boss spells out exactly what she wants. The message did not spell out that Facebook would use people's photos for suggestions."
+            },
+            {
+              "display": "went along with",
+              "base": "go along with",
+              "correct": "To accept a request or plan",
+              "wrong": "To pay extra for an app",
+              "correctFirst": false,
+              "why": "I often go along with my friends' plans for the weekend. Most workers go along with the new rules. The agency says users who went along with the request could not understand it."
+            }
+          ]
+        },
+        {
+          "text": "The agency said this permission can let an app read a phone's whole [[photo archive]], usually [[permanently]]. It said the problem is still {{going on}} for people who have not updated the app. The agency began {{looking into}} the feature in 2025. It {{called out}} Meta's [[lack of cooperation]] during the investigation. The fine equals about 0.4 percent of Meta's [[yearly sales]]. It is one of Italy's largest fines for a tech company.",
+          "verbs": [
+            {
+              "display": "going on",
+              "base": "go on",
+              "correct": "To continue to happen",
+              "wrong": "To be sent to a court",
+              "correctFirst": false,
+              "why": "The noise from the bar goes on all night. Our team meetings often go on for hours. The problem is still going on for people who have not updated the app."
+            },
+            {
+              "display": "looking into",
+              "base": "look into",
+              "correct": "To study a problem to learn the facts",
+              "wrong": "To build a feature for a new phone",
+              "correctFirst": true,
+              "why": "The police look into every complaint they get. The school looks into the problem when a parent calls. The agency began looking into the feature in 2025."
+            },
+            {
+              "display": "called out",
+              "base": "call out",
+              "correct": "To criticize someone openly",
+              "wrong": "To print a letter on paper",
+              "correctFirst": false,
+              "why": "Fans call out the coach when the team plays badly. Customers often call out companies for bad service online. The agency called out Meta's lack of cooperation during the investigation."
+            }
+          ]
+        },
+        {
+          "text": "Meta has 60 days to {{turn the feature off}} [[by default]], so it stays off unless a user chooses it. Meta must ask for consent just for this feature. Meta {{pushed back}}. A [[spokesperson]] said Meta strongly disagrees and called the fine [[disproportionate]], or too large. Meta says people give permission on their phones and can change it in [[settings]]. Meta plans to [[appeal]], or ask for the decision to be changed.",
+          "verbs": [
+            {
+              "display": "turn the feature off",
+              "base": "turn off",
+              "correct": "To stop a feature from working",
+              "wrong": "To move a feature to a new app",
+              "correctFirst": true,
+              "why": "Many people turn off the sound on their phones at night. I turn off location tracking when I do not need it. Meta has 60 days to turn the feature off by default."
+            },
+            {
+              "display": "pushed back",
+              "base": "push back",
+              "correct": "To say you oppose a decision",
+              "wrong": "To delete a user's old posts",
+              "correctFirst": false,
+              "why": "Workers push back when the boss cuts their pay. Parents often push back against new school rules. After the decision, Meta pushed back."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Hand out",
+          "def": "To give someone a punishment",
+          "ipa": "/hænd aʊt/",
+          "ex": [
+            "The referee handed out two yellow cards in the first half.",
+            "Some schools hand out detention to students who are often late.",
+            "The city hands out big fines for parking in bus lanes."
+          ]
+        },
+        {
+          "verb": "Factor in",
+          "def": "To include something when deciding",
+          "ipa": "/ˈfæktər ɪn/",
+          "ex": [
+            "Don't forget to factor in the cost of gas.",
+            "We factored in the weather when we planned the party.",
+            "Teachers factor in homework when they give final grades."
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To make a new feature available",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The company rolled out a new version of its app last week.",
+            "Many stores roll out new self-checkout machines slowly.",
+            "The city plans to roll out free Wi-Fi in all its parks."
+          ]
+        },
+        {
+          "verb": "Pick out",
+          "def": "To choose certain items",
+          "ipa": "/pɪk aʊt/",
+          "ex": [
+            "She picked out a blue dress for the wedding.",
+            "Can you help me pick out a gift for Dad?",
+            "The teacher picked out three essays to read to the class."
+          ]
+        },
+        {
+          "verb": "Pop up",
+          "def": "To appear suddenly on a screen",
+          "ipa": "/pɑp ʌp/",
+          "ex": [
+            "A box popped up asking me to update the app.",
+            "Strange ads keep popping up on my laptop.",
+            "A reminder pops up on my phone every morning."
+          ]
+        },
+        {
+          "verb": "Spell out",
+          "def": "To explain something clearly",
+          "ipa": "/spɛl aʊt/",
+          "ex": [
+            "The rules spell out what students can bring to the test.",
+            "Please spell out what you need from me.",
+            "The letter spells out when the rent is due each month."
+          ]
+        },
+        {
+          "verb": "Go along with",
+          "def": "To accept a request or plan",
+          "ipa": "/ɡoʊ əˈlɔŋ wɪð/",
+          "ex": [
+            "She went along with the idea, even though she didn't like it.",
+            "He usually goes along with whatever his wife wants.",
+            "The team went along with the coach's plan."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To continue to happen",
+          "ipa": "/ɡoʊ ɑn/",
+          "ex": [
+            "The protest went on for three days.",
+            "How long will this rain go on?",
+            "The party went on until midnight."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study a problem to learn the facts",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The company is looking into the cause of the crash.",
+            "I'll look into why your package is late.",
+            "The city looked into complaints about the noisy bar."
+          ]
+        },
+        {
+          "verb": "Call out",
+          "def": "To criticize someone openly",
+          "ipa": "/kɔl aʊt/",
+          "ex": [
+            "She called out her coworker for taking credit for her work.",
+            "Many fans called out the team for raising ticket prices.",
+            "The report calls out the city for its slow repairs."
+          ]
+        },
+        {
+          "verb": "Turn off",
+          "def": "To stop a feature from working",
+          "ipa": "/tɜrn ɔf/",
+          "ex": [
+            "She turned off the camera during the video call.",
+            "I turned off notifications for that game.",
+            "You can turn off auto-play in the app's settings."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To say you oppose a decision",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "The players pushed back against the new schedule.",
+            "Neighbors pushed back on plans for a parking lot.",
+            "Some teachers pushed back against the longer school day."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "fine",
+          "def": "Money that someone must pay as a punishment",
+          "ipa": "/faɪn/",
+          "ex": [
+            "He got a fine for parking in the wrong spot.",
+            "The library charges a small fine for late books.",
+            "The fine for speeding here is 150 dollars."
+          ]
+        },
+        {
+          "word": "personal information",
+          "def": "Facts about a person, like their name, address or photos",
+          "ipa": "/ˈpɜrsənəl ˌɪnfərˈmeɪʃən/",
+          "ex": [
+            "Never share your personal information with strangers online.",
+            "The form asks for a lot of personal information.",
+            "Hackers stole the personal information of many customers."
+          ]
+        },
+        {
+          "word": "specific",
+          "def": "Clear and about one exact thing",
+          "ipa": "/spəˈsɪfɪk/",
+          "ex": [
+            "The doctor gave me specific advice about my diet.",
+            "Please give a specific reason for your answer.",
+            "The job needs specific computer skills."
+          ]
+        },
+        {
+          "word": "consent",
+          "def": "Permission to do something",
+          "ipa": "/kənˈsɛnt/",
+          "ex": [
+            "Parents must give consent for the school trip.",
+            "You need the owner's consent to use that photo.",
+            "The doctor needed her consent before the surgery."
+          ]
+        },
+        {
+          "word": "browse",
+          "def": "To read or view things on a website or app without a clear goal",
+          "ipa": "/braʊz/",
+          "ex": [
+            "I browse the news on my phone at breakfast.",
+            "She likes to browse online stores at night.",
+            "He likes to browse the app for an hour before bed."
+          ]
+        },
+        {
+          "word": "gallery",
+          "def": "The place on a phone where photos and videos are saved",
+          "ipa": "/ˈɡæləri/",
+          "ex": [
+            "My phone's gallery is full of pictures of my dog.",
+            "Open the gallery and choose a photo.",
+            "I deleted old videos from my gallery to save space."
+          ]
+        },
+        {
+          "word": "permission",
+          "def": "Agreement from someone that lets you do something",
+          "ipa": "/pərˈmɪʃən/",
+          "ex": [
+            "You need permission to leave class early.",
+            "The app wants permission to use my camera.",
+            "She gave me permission to borrow her car."
+          ]
+        },
+        {
+          "word": "suggestions",
+          "def": "Ideas that someone or something offers you",
+          "ipa": "/səɡˈdʒɛstʃənz/",
+          "ex": [
+            "My music app gives good suggestions for new songs.",
+            "The teacher made a few suggestions about my essay.",
+            "Do you have any suggestions for dinner?"
+          ]
+        },
+        {
+          "word": "photo archive",
+          "def": "A large collection of saved photos",
+          "ipa": "/ˈfoʊtoʊ ˈɑrkaɪv/",
+          "ex": [
+            "The newspaper keeps a photo archive going back 100 years.",
+            "My grandfather's photo archive fills three boxes.",
+            "The museum opened its photo archive to the public."
+          ]
+        },
+        {
+          "word": "permanently",
+          "def": "For all time, without ending",
+          "ipa": "/ˈpɜrmənəntli/",
+          "ex": [
+            "The store closed permanently in May.",
+            "Deleted files are not always removed permanently.",
+            "They moved to Canada permanently."
+          ]
+        },
+        {
+          "word": "lack of cooperation",
+          "def": "When a person or group does not help or work with others",
+          "ipa": "/læk əv koʊˌɑpəˈreɪʃən/",
+          "ex": [
+            "The police blamed the delay on a lack of cooperation from witnesses.",
+            "A lack of cooperation between the two teams slowed the project.",
+            "The coach was upset by the lack of cooperation among players."
+          ]
+        },
+        {
+          "word": "yearly sales",
+          "def": "The total money a company makes from selling things in one year",
+          "ipa": "/ˈjɪrli seɪlz/",
+          "ex": [
+            "The shop's yearly sales grew by 10 percent.",
+            "Toy stores make a big part of their yearly sales in December.",
+            "The company reports its yearly sales every January."
+          ]
+        },
+        {
+          "word": "by default",
+          "def": "Automatically, unless a person chooses to change it",
+          "ipa": "/baɪ dɪˈfɔlt/",
+          "ex": [
+            "The printer prints in black and white by default.",
+            "Location tracking is on by default in many apps.",
+            "New phones save photos to the cloud by default."
+          ]
+        },
+        {
+          "word": "spokesperson",
+          "def": "A person whose job is to speak for a company or group",
+          "ipa": "/ˈspoʊksˌpɜrsən/",
+          "ex": [
+            "A police spokesperson answered questions from reporters.",
+            "The team's spokesperson said the coach was fine.",
+            "She works as a spokesperson for a large airline."
+          ]
+        },
+        {
+          "word": "disproportionate",
+          "def": "Too large compared with something else",
+          "ipa": "/ˌdɪsprəˈpɔrʃənət/",
+          "ex": [
+            "The punishment seemed disproportionate for such a small mistake.",
+            "He spends a disproportionate amount of money on shoes.",
+            "The storm caused disproportionate damage to older homes."
+          ]
+        },
+        {
+          "word": "settings",
+          "def": "The choices on a device or app that control how it works",
+          "ipa": "/ˈsɛtɪŋz/",
+          "ex": [
+            "You can make the text bigger in your phone's settings.",
+            "Check the privacy settings on your account.",
+            "I changed the settings so the screen stays bright."
+          ]
+        },
+        {
+          "word": "appeal",
+          "def": "To formally ask for a decision to be changed",
+          "ipa": "/əˈpil/",
+          "ex": [
+            "He plans to appeal the court's decision.",
+            "The team will appeal the player's ban.",
+            "She decided to appeal the parking ticket."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Italy's privacy agency fined Meta 805 million euros over a Facebook feature that used photos on Android phones. It says users never gave clear permission, but Meta disagrees and plans to appeal.",
+          "a": true,
+          "why": "The agency says a general message did not spell out that the app would use people's photos. Meta pushed back and plans to appeal."
+        },
+        {
+          "s": "An Italian regulator punished Meta because Facebook secretly sold private pictures to advertisers. As a result, the company must now remove all of these images from its servers within two months.",
+          "a": false,
+          "why": "Close, but nothing was sold to advertisers. The problem was that a feature picks out photos from a phone's gallery without clear consent."
+        },
+        {
+          "s": "Lawmakers in Rome have passed a new rule that bans children under 14 from joining social media apps. Parents who ignore this rule could pay large penalties, and the ban starts next spring.",
+          "a": false,
+          "why": "No new law was passed. The agency handed out a fine to Meta because Facebook's Android app used people's photos without clear consent."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Italy's privacy agency handed out a huge fine to Meta.",
+          "a": true,
+          "why": "Italy's Data Protection Authority fined Meta 805 million euros, or about 887 million dollars."
+        },
+        {
+          "s": "The agency says the message that popped up explained the feature clearly.",
+          "a": false,
+          "why": "The agency says the message was too general. It did not spell out that Facebook would use people's photos for suggestions."
+        },
+        {
+          "s": "Users went along with one request that covered the whole app.",
+          "a": true,
+          "why": "Facebook asked for one permission covering the whole app. The agency says users who went along with it could not understand this."
+        },
+        {
+          "s": "The agency says the problem has ended for every user.",
+          "a": false,
+          "why": "The problem still goes on for people who have not updated the app, the agency says."
+        },
+        {
+          "s": "Meta must turn the photo feature off by default.",
+          "a": true,
+          "why": "Meta has 60 days to turn the feature off by default and ask for consent just for this feature."
+        },
+        {
+          "s": "Meta accepted the decision and did not push back.",
+          "a": false,
+          "why": "Meta pushed back hard. It strongly disagrees, calls the fine too large and plans to appeal."
+        }
+      ]
+    },
+    {
       "id": "korea-exam-ai-cheating-2026",
       "number": 235,
       "headline": "Top scorer on a South Korean exam admits AI cheating",
