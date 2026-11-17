@@ -1,6 +1,504 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "stories": [
+    {
+      "id": "voyager-one-light-day-2026",
+      "number": 237,
+      "headline": "Voyager 1 hits one light-day from Earth on November 18",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n237-voyager-one-light-day-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Voyager 1: What Is a Light-Day (NASA Science)",
+          "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"
+        },
+        {
+          "title": "NASA's Voyager 1 to hit new space distance record of one light-day (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day"
+        },
+        {
+          "title": "Voyager 1 is now one light-day from Earth. What's out there? (Science News)",
+          "url": "https://www.sciencenews.org/article/voyager-1-light-day-exploration"
+        },
+        {
+          "title": "Voyager 1 will reach one light-day from Earth in 2026. Here's what that means (CNN)",
+          "url": "https://www.cnn.com/2025/12/09/science/voyager-1-light-day-earth"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "NASA said its Voyager 1 [[probe]] would set a new [[distance record]] on November 18, 2026. A probe is a space robot with no people [[on board]]. NASA said the probe would reach one [[light-day]] from Earth that day. That is the distance light travels in 24 hours, about 16 billion miles. Voyager 1 {{blasted off}} from Florida on September 5, 1977. It {{started out}} as a mission to study Jupiter and Saturn.",
+          "verbs": [
+            {
+              "display": "blasted off",
+              "base": "blast off",
+              "correct": "To leave the ground on a rocket",
+              "wrong": "To travel close to a planet",
+              "correctFirst": true,
+              "why": "Rockets often blast off early in the morning. The crowd claps when a rocket blasts off. Voyager 1 blasted off from Florida on September 5, 1977."
+            },
+            {
+              "display": "started out",
+              "base": "start out",
+              "correct": "To be something at the beginning",
+              "wrong": "To stop for a short rest",
+              "correctFirst": false,
+              "why": "Many big companies start out in a garage. Her bakery starts out as a small hobby. Voyager 1 started out as a mission to study Jupiter and Saturn."
+            }
+          ]
+        },
+        {
+          "text": "In 1990, Voyager 1 {{looked back}} and took a famous photo of Earth as a [[tiny dot]]. The sun sends a wind of tiny [[particles]] into space. This wind forms a giant [[bubble]] around the [[solar system]], the sun and its planets. In August 2012, Voyager 1 {{left that bubble behind}}. It entered [[interstellar space]], the space between the stars. Its trip has {{gone on}} ever since, at about 38,000 miles per hour.",
+          "verbs": [
+            {
+              "display": "looked back",
+              "base": "look back",
+              "correct": "To turn and see what is behind you",
+              "wrong": "To take a photo with a flash",
+              "correctFirst": true,
+              "why": "Good runners rarely look back during a race. She looks back to wave at her mom. In 1990, Voyager 1 looked back and took a famous photo of Earth."
+            },
+            {
+              "display": "left that bubble behind",
+              "base": "leave behind",
+              "correct": "To leave a place and not return",
+              "wrong": "To protect a place from danger",
+              "correctFirst": false,
+              "why": "Many people leave their small hometowns behind for big cities. Some families leave the busy city behind for a quiet farm. In August 2012, Voyager 1 left the sun's bubble behind."
+            },
+            {
+              "display": "gone on",
+              "base": "go on",
+              "correct": "To continue for a long time",
+              "wrong": "To move in a small circle",
+              "correctFirst": true,
+              "why": "Some meetings go on for hours. The noise from the party next door goes on all night. Voyager 1's trip has gone on ever since, at about 38,000 miles per hour."
+            }
+          ]
+        },
+        {
+          "text": "Because of the distance, a [[radio message]] from Earth now takes about a full day to reach the probe. Then the team waits about another day to {{hear back}}. Voyager's [[project manager]] gave an example. A \"good morning\" sent at 8 a.m. on Monday gets an answer around 8 a.m. on Wednesday. Large [[antennas]] on Earth {{pick up}} Voyager's [[weak signal]]. The probe {{sends back}} data very slowly. Engineers {{figure out}} each signal's travel time from the probe's speed and [[path]].",
+          "verbs": [
+            {
+              "display": "hear back",
+              "base": "hear back",
+              "correct": "To get an answer to a message",
+              "wrong": "To remember an old conversation",
+              "correctFirst": false,
+              "why": "Job seekers often wait weeks to hear back. I usually hear back from my sister in a few minutes. The team waits about another day to hear back from Voyager 1."
+            },
+            {
+              "display": "pick up",
+              "base": "pick up",
+              "correct": "To receive a radio signal",
+              "wrong": "To hide a radio signal",
+              "correctFirst": true,
+              "why": "Our car radio picks up a station from Canada at night. Ships at sea pick up signals from the coast. Large antennas on Earth pick up the probe's weak signal."
+            },
+            {
+              "display": "sends back",
+              "base": "send back",
+              "correct": "To return data from far away",
+              "wrong": "To count the stars in space",
+              "correctFirst": false,
+              "why": "Weather satellites send back pictures of big storms. Space telescopes send back new images every day. Voyager 1 sends back data very slowly."
+            },
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To find an answer by doing math",
+              "wrong": "To send a number by radio",
+              "correctFirst": true,
+              "why": "Kids figure out the change at the store. My dad figures out the tip at dinner. Engineers figure out each signal's travel time from the probe's speed and path."
+            }
+          ]
+        },
+        {
+          "text": "Keeping the probe working gets harder every year. Engineers have {{turned off}} its cameras and several [[instruments]] to [[save power]]. Scientists expect its power to {{run out}} in 10 to 15 years. Its twin probe, Voyager 2, should reach one light-day from Earth in November 2035. To mark the [[milestone]], NASA asked people around the world to {{join in}} by flashing lights at the sky after [[sunset]] on November 17.",
+          "verbs": [
+            {
+              "display": "turned off",
+              "base": "turn off",
+              "correct": "To stop a machine from working",
+              "wrong": "To repair a broken machine",
+              "correctFirst": false,
+              "why": "I turn off the lights before bed. He turns off his phone at the movies. Engineers have turned off Voyager 1's cameras and several instruments to save power."
+            },
+            {
+              "display": "run out",
+              "base": "run out",
+              "correct": "To be gone completely",
+              "wrong": "To be shared by two probes",
+              "correctFirst": true,
+              "why": "Our milk runs out every Friday. A phone battery runs out fast in the cold. Scientists expect Voyager 1's power to run out in 10 to 15 years."
+            },
+            {
+              "display": "join in",
+              "base": "join in",
+              "correct": "To take part with other people",
+              "wrong": "To pay a small fee online",
+              "correctFirst": false,
+              "why": "Everyone joins in when the band plays that song. Neighbors join in to clean the park each spring. NASA asked people around the world to join in by flashing lights at the sky."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Blast off",
+          "def": "To leave the ground on a rocket",
+          "ipa": "/blæst ɔf/",
+          "ex": [
+            "We watched the rocket blast off on TV.",
+            "The spacecraft will blast off next month if the weather is good.",
+            "Kids clap when the toy rocket blasts off."
+          ]
+        },
+        {
+          "verb": "Start out",
+          "def": "To be something at the beginning",
+          "ipa": "/stɑrt aʊt/",
+          "ex": [
+            "He started out as a waiter, and now he owns the restaurant.",
+            "The trip started out as a short visit.",
+            "Our garden started out as one small box of herbs."
+          ]
+        },
+        {
+          "verb": "Look back",
+          "def": "To turn and see what is behind you",
+          "ipa": "/lʊk bæk/",
+          "ex": [
+            "Don't look back while you're running.",
+            "He looked back to see if the bus was coming.",
+            "When I looked back, the dog was following me."
+          ]
+        },
+        {
+          "verb": "Leave behind",
+          "def": "To leave a place and not return",
+          "ipa": "/liv bɪˈhaɪnd/",
+          "ex": [
+            "She left her hometown behind and moved to New York.",
+            "The family left the old farm behind and moved to Texas.",
+            "The rocket left Earth behind and flew toward Mars."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To continue for a long time",
+          "ipa": "/ɡoʊ ɑn/",
+          "ex": [
+            "The meeting went on for three hours.",
+            "The noise went on all night.",
+            "The game went on in the rain."
+          ]
+        },
+        {
+          "verb": "Hear back",
+          "def": "To get an answer to a message",
+          "ipa": "/hɪr bæk/",
+          "ex": [
+            "Did you hear back from the landlord?",
+            "I emailed the school, but I haven't heard back yet.",
+            "We should hear back about the apartment by Friday."
+          ]
+        },
+        {
+          "verb": "Pick up",
+          "def": "To receive a radio signal",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "My radio can't pick up any stations in this valley.",
+            "The boat picked up a signal from the shore.",
+            "At night, the radio picks up stations from far away."
+          ]
+        },
+        {
+          "verb": "Send back",
+          "def": "To return data from far away",
+          "ipa": "/sɛnd bæk/",
+          "ex": [
+            "The Mars rover sends back photos of red rocks.",
+            "The satellite sent back clear pictures of the hurricane.",
+            "Space cameras send back images that scientists study for years."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To find an answer by doing math",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "Can you figure out how much we owe?",
+            "She figured out the cost of the trip in a minute.",
+            "We need to figure out how many chairs to buy."
+          ]
+        },
+        {
+          "verb": "Turn off",
+          "def": "To stop a machine from working",
+          "ipa": "/tɝn ɔf/",
+          "ex": [
+            "Please turn off the TV when you leave.",
+            "She turned off the heater to save money.",
+            "Turn off the engine at the gas pump."
+          ]
+        },
+        {
+          "verb": "Run out",
+          "def": "To be gone completely",
+          "ipa": "/rʌn aʊt/",
+          "ex": [
+            "The gas ran out halfway home.",
+            "Time is running out to buy tickets.",
+            "Our money ran out at the end of the trip."
+          ]
+        },
+        {
+          "verb": "Join in",
+          "def": "To take part with other people",
+          "ipa": "/dʒɔɪn ɪn/",
+          "ex": [
+            "Can I join in the game?",
+            "The whole class joined in the singing.",
+            "Fans joined in when the singer started the chorus."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "probe",
+          "def": "A spacecraft with no people that is sent to study space",
+          "ipa": "/proʊb/",
+          "ex": [
+            "The probe took pictures of a distant moon.",
+            "Scientists hope to send a probe to the ice planet.",
+            "The new probe carries a small camera and a heat sensor."
+          ]
+        },
+        {
+          "word": "distance record",
+          "def": "The longest distance anyone or anything has traveled",
+          "ipa": "/ˈdɪstəns ˈrɛkərd/",
+          "ex": [
+            "The pilot set a distance record for a small plane.",
+            "Her long throw broke the school distance record.",
+            "The swimmer hopes to beat the distance record next summer."
+          ]
+        },
+        {
+          "word": "on board",
+          "def": "On or inside a ship, plane or other vehicle",
+          "ipa": "/ɑn bɔrd/",
+          "ex": [
+            "There were 200 passengers on board the plane.",
+            "No food is allowed on board the bus.",
+            "The ship had a doctor on board."
+          ]
+        },
+        {
+          "word": "light-day",
+          "def": "The distance light travels in one day",
+          "ipa": "/ˈlaɪt ˌdeɪ/",
+          "ex": [
+            "A light-day is billions of miles long.",
+            "No radio message can cross a light-day in less than a day.",
+            "The teacher drew a line to show one light-day."
+          ]
+        },
+        {
+          "word": "tiny dot",
+          "def": "A very small round mark or spot",
+          "ipa": "/ˈtaɪni dɑt/",
+          "ex": [
+            "From the plane, the house looked like a tiny dot.",
+            "There is a tiny dot of paint on your shirt.",
+            "The ship became a tiny dot on the ocean."
+          ]
+        },
+        {
+          "word": "particles",
+          "def": "Extremely small pieces of something",
+          "ipa": "/ˈpɑrtɪkəlz/",
+          "ex": [
+            "Dust particles floated in the sunlight.",
+            "The mask stops very small particles in the air.",
+            "Sand is made of tiny particles of rock."
+          ]
+        },
+        {
+          "word": "bubble",
+          "def": "A round space filled with gas or air",
+          "ipa": "/ˈbʌbəl/",
+          "ex": [
+            "The child blew a big soap bubble.",
+            "A bubble of air rose to the top of the water.",
+            "Each bubble in the soda is full of gas."
+          ]
+        },
+        {
+          "word": "solar system",
+          "def": "The sun and all the planets that circle it",
+          "ipa": "/ˈsoʊlər ˈsɪstəm/",
+          "ex": [
+            "Jupiter is the biggest planet in our solar system.",
+            "The museum has a model of the solar system.",
+            "Earth is the third planet from the sun in the solar system."
+          ]
+        },
+        {
+          "word": "interstellar space",
+          "def": "The very large empty area between stars",
+          "ipa": "/ˌɪntərˈstɛlər speɪs/",
+          "ex": [
+            "Interstellar space is very cold and dark.",
+            "A comet from interstellar space passed near the sun.",
+            "Few machines have ever reached interstellar space."
+          ]
+        },
+        {
+          "word": "radio message",
+          "def": "Words or information sent by radio waves",
+          "ipa": "/ˈreɪdioʊ ˈmɛsɪdʒ/",
+          "ex": [
+            "The pilot sent a radio message to the airport.",
+            "The ship's radio message asked for help.",
+            "Fire crews get a radio message about every new fire."
+          ]
+        },
+        {
+          "word": "project manager",
+          "def": "The person who leads a project and its team",
+          "ipa": "/ˈprɑdʒɛkt ˈmænɪdʒər/",
+          "ex": [
+            "The project manager set the deadline for June.",
+            "She works as a project manager at a big bank.",
+            "Our project manager meets with the team every Monday."
+          ]
+        },
+        {
+          "word": "antennas",
+          "def": "Metal parts or dishes that send or receive radio signals",
+          "ipa": "/ænˈtɛnəz/",
+          "ex": [
+            "The tall antennas on the hill help phones work.",
+            "Old TVs had two antennas on top.",
+            "The ship has antennas for its radio."
+          ]
+        },
+        {
+          "word": "weak signal",
+          "def": "A radio or phone signal that is not strong",
+          "ipa": "/wik ˈsɪɡnəl/",
+          "ex": [
+            "My phone has a weak signal in the basement.",
+            "The radio station has a weak signal out here.",
+            "A weak signal makes video calls freeze."
+          ]
+        },
+        {
+          "word": "path",
+          "def": "The line along which something moves",
+          "ipa": "/pæθ/",
+          "ex": [
+            "The storm's path goes north along the coast.",
+            "The ball followed a high path into the net.",
+            "Scientists tracked the comet's path across the sky."
+          ]
+        },
+        {
+          "word": "instruments",
+          "def": "Tools used to measure or study things",
+          "ipa": "/ˈɪnstrəmənts/",
+          "ex": [
+            "The weather station has instruments for wind and rain.",
+            "Doctors use special instruments to check your ears.",
+            "The pilot checked all the instruments before takeoff."
+          ]
+        },
+        {
+          "word": "save power",
+          "def": "To use less electricity or energy",
+          "ipa": "/seɪv ˈpaʊər/",
+          "ex": [
+            "Close the fridge door to save power.",
+            "My laptop dims its screen to save power.",
+            "The city dims some street lights at night to save power."
+          ]
+        },
+        {
+          "word": "milestone",
+          "def": "An important event or point in a long process",
+          "ipa": "/ˈmaɪlˌstoʊn/",
+          "ex": [
+            "Graduating from college is a big milestone.",
+            "The company reached a milestone of one million customers.",
+            "Her first steps were an exciting milestone."
+          ]
+        },
+        {
+          "word": "sunset",
+          "def": "The time each evening when the sun sets",
+          "ipa": "/ˈsʌnˌsɛt/",
+          "ex": [
+            "We walked on the beach at sunset.",
+            "The park closes at sunset.",
+            "The sky turns orange and pink at sunset."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "NASA said Voyager 1, a probe launched in 1977, would be the first object made by people to reach one light-day from Earth, on November 18, 2026. A message to it takes about a day.",
+          "a": true,
+          "why": "Voyager 1 blasted off in 1977, and NASA said it would reach one light-day on November 18, 2026. A radio message now takes about a day to reach it."
+        },
+        {
+          "s": "NASA said an old spacecraft would pass the one light-day mark in deep space. Because it is so far away, engineers have lost all contact with it and can no longer send it any orders.",
+          "a": false,
+          "why": "Close, but the team still talks to the probe. Messages are just slow, and antennas on Earth still pick up its weak signal."
+        },
+        {
+          "s": "NASA has launched a new probe that will try to reach the edge of the solar system by 2030. The agency says the craft is much faster than earlier missions and carries modern cameras.",
+          "a": false,
+          "why": "Voyager 1 is not a new probe. It started out in 1977, and NASA said it would reach one light-day from Earth on November 18, 2026."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Voyager 1 is still traveling many years after it blasted off.",
+          "a": true,
+          "why": "It blasted off in 1977 and is still traveling."
+        },
+        {
+          "s": "A radio message from Earth reaches Voyager 1 in about one hour.",
+          "a": false,
+          "why": "A message takes about a full day to reach the probe. Then the team waits about another day to hear back."
+        },
+        {
+          "s": "Voyager 1 still sends back data to Earth.",
+          "a": true,
+          "why": "The probe sends back data very slowly, and large antennas on Earth pick up its weak signal."
+        },
+        {
+          "s": "Voyager 1 is still inside the sun's giant bubble.",
+          "a": false,
+          "why": "Voyager 1 left that bubble behind in August 2012. It became the first spacecraft in interstellar space."
+        },
+        {
+          "s": "Engineers turned off instruments to make the probe travel faster.",
+          "a": false,
+          "why": "They turned off its cameras and several instruments to save power. Scientists expect its power to run out in 10 to 15 years."
+        },
+        {
+          "s": "NASA asked people to join in by flashing lights at the sky.",
+          "a": true,
+          "why": "To mark the milestone, NASA asked people around the world to join in after sunset on November 17."
+        }
+      ]
+    },
     {
       "id": "italy-fines-meta-photos-2026",
       "number": 236,
