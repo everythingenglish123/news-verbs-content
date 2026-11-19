@@ -2,6 +2,498 @@
   "updated": "2026-11-19",
   "stories": [
     {
+      "id": "us-loses-measles-status-2026",
+      "number": 243,
+      "headline": "The U.S. loses its measles-free status after 26 years",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n243-us-loses-measles-status-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "US loses measles elimination status after 26 years amid record case numbers (BBC News)",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+        },
+        {
+          "title": "US loses measles elimination status amid worst outbreak since 1991 (The Guardian)",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"
+        },
+        {
+          "title": "PAHO urges countries to step up efforts to stop measles outbreaks and move towards elimination in the Americas (Pan American Health Organization)",
+          "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards"
+        },
+        {
+          "title": "Measles in the Americas: Questions and Answers, Technical Reference for Journalists and the Public (Pan American Health Organization)",
+          "url": "https://www.paho.org/en/news/17-11-2026-measles-americas-questions-and-answers-technical-reference-journalists-and-public"
+        },
+        {
+          "title": "2 more people die of measles complications as US cases top 5,400 (CIDRAP)",
+          "url": "https://www.cidrap.umn.edu/measles/2-more-people-die-measles-complications-us-cases-top-5400"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "The U.S. has lost a [[public health]] title that it held for 26 years. On November 17, 2026, the Pan American Health Organization, the World Health Organization's office for the Americas, said the U.S., Mexico and Bolivia no longer have measles [[elimination status]]. That status means the disease does not spread [[nonstop]] in a country. Measles is a highly [[contagious]] disease. One sick person can {{pass it on}} to as many as 18 [[unprotected]] people. The organization [[urged]] countries to {{step up}} efforts to stop it.",
+          "verbs": [
+            {
+              "display": "pass it on",
+              "base": "pass on",
+              "correct": "To give a disease to someone else",
+              "wrong": "To test someone for a disease",
+              "correctFirst": true,
+              "why": "Parents often pass colds on to their children. A sick cook can pass on a stomach virus to many customers. One person with measles can pass it on to as many as 18 people who are not protected."
+            },
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To increase or make stronger",
+              "wrong": "To count or check again",
+              "correctFirst": false,
+              "why": "Schools step up safety checks before big events. Police step up patrols during large festivals. The organization urged countries to step up their efforts to stop measles."
+            }
+          ]
+        },
+        {
+          "text": "Travelers can still bring the virus home, and [[outbreaks]], groups of cases in one place, can {{flare up}}. A country keeps its status if each outbreak {{dies out}} within 12 months. It loses the status when the same [[strain]], or type, of the virus spreads nonstop for a full year. The U.S. outbreak began on January 20, 2025, and {{dragged on}} past the [[one-year mark]], the organization said.",
+          "verbs": [
+            {
+              "display": "flare up",
+              "base": "flare up",
+              "correct": "To begin suddenly and spread",
+              "wrong": "To become a new vaccine",
+              "correctFirst": true,
+              "why": "Small fires flare up in dry summer weather. Flu cases often flare up in crowded schools. Measles outbreaks can still flare up in a country that has elimination status."
+            },
+            {
+              "display": "dies out",
+              "base": "die out",
+              "correct": "To stop existing completely",
+              "wrong": "To lose its official title",
+              "correctFirst": false,
+              "why": "Many small languages die out when children stop learning them. An old custom dies out when nobody practices it. A country keeps its status if each outbreak dies out within 12 months."
+            },
+            {
+              "display": "dragged on",
+              "base": "drag on",
+              "correct": "To last longer than wanted",
+              "wrong": "To be given a vaccine",
+              "correctFirst": true,
+              "why": "Some meetings drag on all afternoon. A bad cold often drags on for weeks. The American outbreak began in January 2025 and dragged on past the one-year mark."
+            }
+          ]
+        },
+        {
+          "text": "Cases have {{shot up}} across the Americas. The organization counted 58,213 by November 13, 2026, compared with 12,806 at the same point in 2025. It [[blamed]] [[gaps]] in vaccination. The CDC, the U.S. health agency, counted 5,412 American cases by that date. State [[health departments]] reported 10 deaths linked to measles in 2026. The country's measles [[vaccination rate]] has {{gone down}} to 92.4 percent. Some Americans are being asked to {{dig up}} old [[vaccination records]].",
+          "verbs": [
+            {
+              "display": "shot up",
+              "base": "shoot up",
+              "correct": "To rise very quickly",
+              "wrong": "To be sent by mail",
+              "correctFirst": false,
+              "why": "Ticket prices shoot up before a big game. Gas prices often shoot up in the summer. Measles cases have shot up across the Americas."
+            },
+            {
+              "display": "gone down",
+              "base": "go down",
+              "correct": "To become lower",
+              "wrong": "To be sold at a clinic",
+              "correctFirst": true,
+              "why": "Prices often go down after the summer. The number of visitors goes down in winter. The American measles vaccination rate has gone down to 92.4 percent."
+            },
+            {
+              "display": "dig up",
+              "base": "dig up",
+              "correct": "To find something old by searching",
+              "wrong": "To sell something to a doctor",
+              "correctFirst": false,
+              "why": "She digs up old family photos for the party. He digs up his school records for a new job. Some Americans are being asked to dig up old vaccination records."
+            }
+          ]
+        },
+        {
+          "text": "The three countries must now {{turn in}} plans that {{spell out}} how they will raise vaccination rates. To {{win back}} the title, each must show that the spread has stopped for at least 12 months [[in a row]]. The CDC said it is [[committed]] to that goal. The organization's director said elimination is not a [[trophy]] that a country wins once. Countries must work every day to {{hold on to}} it.",
+          "verbs": [
+            {
+              "display": "turn in",
+              "base": "turn in",
+              "correct": "To give finished work to someone",
+              "wrong": "To read something to a sick child",
+              "correctFirst": true,
+              "why": "Students turn in their homework on Friday. Workers turn in their reports every month. The three countries must now turn in plans to the organization."
+            },
+            {
+              "display": "spell out",
+              "base": "spell out",
+              "correct": "To explain something clearly",
+              "wrong": "To send a bill to a doctor",
+              "correctFirst": false,
+              "why": "The coach spells out the plan before each game. A good teacher spells out the rules on the first day. The plans must spell out how each country will raise its vaccination rate."
+            },
+            {
+              "display": "win back",
+              "base": "win back",
+              "correct": "To get something again after losing it",
+              "wrong": "To print something on a health card",
+              "correctFirst": true,
+              "why": "The store tries to win back old customers with low prices. The team wants to win back the title next season. To win back the title, a country must show that the spread has stopped for at least 12 months in a row."
+            },
+            {
+              "display": "hold on to",
+              "base": "hold on to",
+              "correct": "To keep something and not lose it",
+              "wrong": "To buy something a second time",
+              "correctFirst": false,
+              "why": "Good companies try to hold on to their best workers. Families work hard to hold on to their homes. The director said countries must work every day to hold on to elimination status."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pass on",
+          "def": "To give a disease to someone else",
+          "ipa": "/pæs ɑn/",
+          "ex": [
+            "Wash your hands so you don't pass on your cold.",
+            "Children can easily pass on the flu at school.",
+            "She stayed home because she didn't want to pass the virus on."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase or make stronger",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The city stepped up street cleaning in the spring.",
+            "Our company needs to step up its training.",
+            "Airports step up security when crowds get bigger."
+          ]
+        },
+        {
+          "verb": "Flare up",
+          "def": "To begin suddenly and spread",
+          "ipa": "/flɛr ʌp/",
+          "ex": [
+            "Fires can flare up quickly on windy days.",
+            "Colds tend to flare up when school starts again.",
+            "Wildfires flared up across the hills again."
+          ]
+        },
+        {
+          "verb": "Die out",
+          "def": "To stop existing completely",
+          "ipa": "/daɪ aʊt/",
+          "ex": [
+            "Some animals die out when their forests disappear.",
+            "That old farming method died out long ago.",
+            "Many local traditions are starting to die out."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To last longer than wanted",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The trial dragged on for two years.",
+            "The winter seemed to drag on forever.",
+            "I hope this long meeting doesn't drag on much more."
+          ]
+        },
+        {
+          "verb": "Shoot up",
+          "def": "To rise very quickly",
+          "ipa": "/ʃut ʌp/",
+          "ex": [
+            "Rents shot up after the new train line opened.",
+            "Sales of umbrellas shoot up when it rains.",
+            "The temperature shot up in just one hour."
+          ]
+        },
+        {
+          "verb": "Go down",
+          "def": "To become lower",
+          "ipa": "/ɡoʊ daʊn/",
+          "ex": [
+            "His fever went down during the night.",
+            "Crime went down in our neighborhood.",
+            "The price of eggs finally went down."
+          ]
+        },
+        {
+          "verb": "Dig up",
+          "def": "To find something old by searching",
+          "ipa": "/dɪɡ ʌp/",
+          "ex": [
+            "I dug up my old college notes for my son.",
+            "She dug up an old photo of her grandparents.",
+            "Can you dig up the receipt for this TV?"
+          ]
+        },
+        {
+          "verb": "Turn in",
+          "def": "To give finished work to someone",
+          "ipa": "/tɜrn ɪn/",
+          "ex": [
+            "Please turn in your forms by noon.",
+            "He turned in his report two days early.",
+            "All teams must turn in their budgets this month."
+          ]
+        },
+        {
+          "verb": "Spell out",
+          "def": "To explain something clearly",
+          "ipa": "/spɛl aʊt/",
+          "ex": [
+            "The mayor spelled out her ideas for the new park.",
+            "The report spells out the main risks.",
+            "Let me spell out the steps for you."
+          ]
+        },
+        {
+          "verb": "Win back",
+          "def": "To get something again after losing it",
+          "ipa": "/wɪn bæk/",
+          "ex": [
+            "The airline is trying to win back angry customers.",
+            "She worked hard to win back his trust.",
+            "The party hopes to win back the seat."
+          ]
+        },
+        {
+          "verb": "Hold on to",
+          "def": "To keep something and not lose it",
+          "ipa": "/hoʊld ɑn tu/",
+          "ex": [
+            "Try to hold on to your savings when prices rise.",
+            "The team held on to first place all season.",
+            "He wants to hold on to his job."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "public health",
+          "def": "The work of keeping all the people in a place healthy",
+          "ipa": "/ˈpʌblɪk hɛlθ/",
+          "ex": [
+            "She studied public health in college.",
+            "Clean water is a basic public health need.",
+            "The city hired a new public health nurse."
+          ]
+        },
+        {
+          "word": "elimination status",
+          "def": "An official finding that a disease no longer spreads all the time in a country",
+          "ipa": "/ɪˌlɪməˈneɪʃən ˈsteɪtəs/",
+          "ex": [
+            "Experts review a country's elimination status every year.",
+            "A nation needs strong records to keep its elimination status.",
+            "Polio elimination status is a goal for many nations."
+          ]
+        },
+        {
+          "word": "contagious",
+          "def": "Able to spread from one person to another",
+          "ipa": "/kənˈteɪdʒəs/",
+          "ex": [
+            "Stay home if you are still contagious.",
+            "The flu is very contagious in winter.",
+            "Is this skin problem contagious?"
+          ]
+        },
+        {
+          "word": "unprotected",
+          "def": "Not kept safe from harm or disease",
+          "ipa": "/ˌʌnprəˈtɛktɪd/",
+          "ex": [
+            "Unprotected skin burns quickly in the sun.",
+            "The storm left the small boats unprotected.",
+            "Never leave your computer unprotected online."
+          ]
+        },
+        {
+          "word": "urged",
+          "def": "Strongly asked someone to do something",
+          "ipa": "/ɜrdʒd/",
+          "ex": [
+            "My doctor urged me to get more sleep.",
+            "The mayor urged drivers to stay home during the storm.",
+            "Her friends urged her to apply for the job."
+          ]
+        },
+        {
+          "word": "outbreaks",
+          "def": "Times when a disease suddenly affects many people",
+          "ipa": "/ˈaʊtˌbreɪks/",
+          "ex": [
+            "Flu outbreaks are common in winter.",
+            "Clean kitchens help prevent outbreaks of food poisoning.",
+            "Nurses track outbreaks in local schools."
+          ]
+        },
+        {
+          "word": "strain",
+          "def": "One type of a virus or germ",
+          "ipa": "/streɪn/",
+          "ex": [
+            "This flu strain makes people very tired.",
+            "Scientists found a new strain of the virus.",
+            "The vaccine protects against more than one strain."
+          ]
+        },
+        {
+          "word": "nonstop",
+          "def": "Without stopping",
+          "ipa": "/ˌnɑnˈstɑp/",
+          "ex": [
+            "It rained nonstop for three days.",
+            "The baby cried nonstop on the plane.",
+            "Our phones rang nonstop during the sale."
+          ]
+        },
+        {
+          "word": "one-year mark",
+          "def": "The point when exactly one year has passed",
+          "ipa": "/wʌn jɪr mɑrk/",
+          "ex": [
+            "The new store just reached the one-year mark.",
+            "Many workers get a raise at the one-year mark.",
+            "Our team passed the one-year mark without an accident."
+          ]
+        },
+        {
+          "word": "blamed",
+          "def": "Said that someone or something caused a problem",
+          "ipa": "/bleɪmd/",
+          "ex": [
+            "The driver blamed the icy road for the crash.",
+            "She blamed herself for the mistake.",
+            "The company blamed high costs for the price increase."
+          ]
+        },
+        {
+          "word": "gaps",
+          "def": "Places where something is missing",
+          "ipa": "/ɡæps/",
+          "ex": [
+            "The test showed gaps in his math skills.",
+            "There are gaps in our town's bus service.",
+            "We need to fill the gaps in this report."
+          ]
+        },
+        {
+          "word": "health departments",
+          "def": "Government offices that protect people's health in an area",
+          "ipa": "/hɛlθ dɪˈpɑrtmənts/",
+          "ex": [
+            "City health departments inspect restaurants.",
+            "Local health departments offer free flu shots.",
+            "State health departments share advice during heat waves."
+          ]
+        },
+        {
+          "word": "vaccination rate",
+          "def": "The share of people who have received a vaccine",
+          "ipa": "/ˌvæksəˈneɪʃən reɪt/",
+          "ex": [
+            "Our school has a high vaccination rate.",
+            "The vaccination rate is lower in some rural towns.",
+            "Doctors want the vaccination rate to rise."
+          ]
+        },
+        {
+          "word": "vaccination records",
+          "def": "Official papers that show which vaccines a person has received",
+          "ipa": "/ˌvæksəˈneɪʃən ˈrɛkərdz/",
+          "ex": [
+            "The school asked for my son's vaccination records.",
+            "Keep your vaccination records in a safe place.",
+            "Some jobs require vaccination records."
+          ]
+        },
+        {
+          "word": "in a row",
+          "def": "One after another, with no break",
+          "ipa": "/ɪn ə roʊ/",
+          "ex": [
+            "Our team won five games in a row.",
+            "It snowed for three days in a row.",
+            "She was late twice in a row."
+          ]
+        },
+        {
+          "word": "committed",
+          "def": "Willing to work hard for a goal",
+          "ipa": "/kəˈmɪtɪd/",
+          "ex": [
+            "The school is committed to helping every child.",
+            "He is committed to his family.",
+            "Our company is committed to clean energy."
+          ]
+        },
+        {
+          "word": "trophy",
+          "def": "A prize, often a metal cup, given to a winner",
+          "ipa": "/ˈtroʊfi/",
+          "ex": [
+            "The team lifted the trophy after the game.",
+            "She keeps her tennis trophy in the living room.",
+            "The winner gets a trophy and a small check."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "The U.S., Mexico and Bolivia lost a health title because one measles strain kept spreading for over a year. Each country must now raise vaccination and prove that the virus has stopped.",
+          "a": true,
+          "why": "The same strain spread nonstop for at least 12 months. The countries must turn in plans and show that the spread has stopped."
+        },
+        {
+          "s": "One sick traveler from abroad is enough to cost a nation this health title under the rules. That is why three countries in the Americas lost it after a few visitors arrived with measles.",
+          "a": false,
+          "why": "Close, but outbreaks from travelers can flare up without any loss of status. A country loses it when one strain spreads nonstop for a full year."
+        },
+        {
+          "s": "A new measles vaccine has passed its final tests and should reach clinics across the Americas next spring. Doctors expect this single shot to replace the two doses that children receive today.",
+          "a": false,
+          "why": "No new vaccine is described here. Three countries lost their status, and they must now turn in plans to stop the spread."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Measles cases have shot up across the Americas.",
+          "a": true,
+          "why": "Cases have shot up to 58,213, far more than at the same point in 2025."
+        },
+        {
+          "s": "Mexico and Bolivia held on to their measles elimination status.",
+          "a": false,
+          "why": "Neither country could hold on to the status. Both lost it along with the U.S."
+        },
+        {
+          "s": "Measles outbreaks can flare up in a country with elimination status.",
+          "a": true,
+          "why": "Travelers can still bring the virus home and start an outbreak."
+        },
+        {
+          "s": "The three countries must turn in plans to raise vaccination rates.",
+          "a": true,
+          "why": "They must turn in plans that explain how they will raise those rates."
+        },
+        {
+          "s": "A country loses its status when an outbreak dies out quickly.",
+          "a": false,
+          "why": "A country keeps its status if each outbreak dies out within 12 months. It loses the status when one strain spreads for a full year."
+        },
+        {
+          "s": "Once a country loses the title, it can never win it back.",
+          "a": false,
+          "why": "A country can win back the title by showing that the spread has stopped for at least 12 months in a row."
+        }
+      ]
+    },
+    {
       "id": "hunters-become-photographers-2026",
       "number": 242,
       "headline": "Villagers in Indonesia get paid for animal photos",
