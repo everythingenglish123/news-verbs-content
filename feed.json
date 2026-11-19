@@ -1,6 +1,466 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "stories": [
+    {
+      "id": "hunters-become-photographers-2026",
+      "number": 242,
+      "headline": "Villagers in Indonesia get paid for animal photos",
+      "badge": "Nature",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n242-hunters-become-photographers-2026-flat.webp",
+      "position": "center 40%",
+      "sources": [
+        {
+          "title": "A Strategy of Cash-for-Photos Turns Animal Hunters into Animal Protectors in Indonesia (Good News Network)",
+          "url": "https://www.goodnewsnetwork.org/a-strategy-of-cash-for-photos-turns-animal-hunters-into-animal-protectors-in-indonesia/"
+        },
+        {
+          "title": "Indonesia cash-for-photos scheme turns animal hunters into protectors (AFP, via The Star)",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/17/indonesia-cash-for-photos-scheme-turns-animal-hunters-into-protectors"
+        },
+        {
+          "title": "Indonesia scheme turns hunters into protectors (AFP, via Taipei Times)",
+          "url": "https://www.taipeitimes.com/News/world/archives/2026/09/18/2003864487"
+        },
+        {
+          "title": "Indonesia's cash-for-photos scheme turns villagers into wildlife protectors (video, AFP)",
+          "url": "https://www.youtube.com/watch?v=afy8kgPUgdk"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A project in Indonesia pays villagers to photograph wild animals instead of hunting them. It runs in nine villages in the Indonesian part of the island of Borneo. Local people {{head out}} into the forest and {{send in}} photos or [[sound recordings]] of the animals they find. Many [[former hunters]] have {{turned into}} [[protectors]] of wildlife. A French news agency reported on the project on September 17, 2026.",
+          "verbs": [
+            {
+              "display": "head out",
+              "base": "head out",
+              "correct": "To leave a place and go somewhere",
+              "wrong": "To sell food at a local market",
+              "correctFirst": true,
+              "why": "We head out early to avoid traffic. The kids head out to the park after lunch. Local people head out into the forest and send in photos or sound recordings of the animals they find."
+            },
+            {
+              "display": "send in",
+              "base": "send in",
+              "correct": "To upload or mail something to a group",
+              "wrong": "To delete a photo file by mistake",
+              "correctFirst": false,
+              "why": "Viewers send in questions for the show. Job seekers send in their applications online. Local people head out into the forest and send in photos or sound recordings of the animals they find."
+            },
+            {
+              "display": "turned into",
+              "base": "turn into",
+              "correct": "To become something different",
+              "wrong": "To leave home for a big city",
+              "correctFirst": true,
+              "why": "Small shops sometimes turn into big businesses. Quiet streets often turn into busy roads. Many former hunters have turned into protectors of wildlife."
+            }
+          ]
+        },
+        {
+          "text": "An environmental [[consulting company]] called Borneo Futures {{set up}} the project in 2024. Users share each [[sighting]] through an app, and staff check that it is real. A common bird earns 5,000 rupiah, about 30 cents. An [[endangered]] orangutan earns 130,000 rupiah, the [[top prize]]. These small payments can {{add up}}. The most active observers {{bring in}} up to 10 million rupiah a month, about $570. That is several times what a typical [[farm worker]] earns.",
+          "verbs": [
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To start a new project",
+              "wrong": "To delay a plan or project",
+              "correctFirst": false,
+              "why": "Many retired cooks set up small bakeries. The school sets up a reading club for new students every fall. An environmental consulting company called Borneo Futures set up the project in 2024."
+            },
+            {
+              "display": "add up",
+              "base": "add up",
+              "correct": "To slowly become a large amount",
+              "wrong": "To include an extra charge",
+              "correctFirst": true,
+              "why": "Small coffee purchases really add up over a month. Late fees add up fast. These small payments can add up."
+            },
+            {
+              "display": "bring in",
+              "base": "bring in",
+              "correct": "To earn an amount of money",
+              "wrong": "To make a price lower",
+              "correctFirst": false,
+              "why": "Her online shop brings in about $2,000 a month. The school bake sale brings in about $300 each year. The most active observers bring in up to 10 million rupiah a month, about $570."
+            }
+          ]
+        },
+        {
+          "text": "Since the project began, two villages have {{given up}} hunting and [[banned]] it [[on their own]]. One 50-year-old farmer earned about $230 in September 2026. He says the photo work is a [[side job]] that {{fits in with}} his farming. One woman says the money gives her more [[independence]]. The company's director in Indonesia says one caught bird could once sell for 50,000 rupiah. Now five photos of a bird can earn the same, and the bird can still [[breed]].",
+          "verbs": [
+            {
+              "display": "given up",
+              "base": "give up",
+              "correct": "To stop doing something forever",
+              "wrong": "To teach a skill to others",
+              "correctFirst": true,
+              "why": "Many people give up smoking after a health scare. Some travelers give up meat after a visit to a farm. Since the project began, two villages have given up hunting and banned it on their own."
+            },
+            {
+              "display": "fits in with",
+              "base": "fit in with",
+              "correct": "To suit a plan without causing problems",
+              "wrong": "To do work for someone who is away",
+              "correctFirst": false,
+              "why": "The new class fits in with my work hours. A Monday meeting fits in with most people's plans. He says the photo work is a side job that fits in with his farming."
+            }
+          ]
+        },
+        {
+          "text": "Two more villages planned to {{sign up}} in October 2026. Users have shared more than 350,000 [[observations]], and about half have been checked and paid for. [[Charitable foundations]] have {{put up}} about $300,000. The [[funding]] is set to last until 2028. A researcher at Johns Hopkins University who studies human behavior says keeping people interested after the money {{runs out}} will be hard.",
+          "verbs": [
+            {
+              "display": "sign up",
+              "base": "sign up",
+              "correct": "To join a plan or program",
+              "wrong": "To transfer land to a new owner",
+              "correctFirst": true,
+              "why": "Many people sign up for yoga classes in January. Over 100 students sign up for the school trip every year. Two more villages planned to sign up in October 2026."
+            },
+            {
+              "display": "put up",
+              "base": "put up",
+              "correct": "To give money for something",
+              "wrong": "To get a bank loan",
+              "correctFirst": false,
+              "why": "Parents often put up the money for a first car. Local businesses put up money for new playgrounds. Charitable foundations have put up about $300,000."
+            },
+            {
+              "display": "runs out",
+              "base": "run out",
+              "correct": "To be completely used, with none left",
+              "wrong": "To owe a large amount of money",
+              "correctFirst": true,
+              "why": "Our money often runs out before the end of the month. The printer ink always runs out at the worst time. A researcher at Johns Hopkins University who studies human behavior says keeping people interested after the money runs out will be hard."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Head out",
+          "def": "To leave a place and go somewhere",
+          "ipa": "/hɛd aʊt/",
+          "ex": [
+            "Let's head out before it gets dark.",
+            "They headed out to the beach at noon.",
+            "I need to head out now, or I'll miss my bus."
+          ]
+        },
+        {
+          "verb": "Send in",
+          "def": "To upload or mail something to a group",
+          "ipa": "/sɛnd ɪn/",
+          "ex": [
+            "Listeners sent in hundreds of song requests.",
+            "Please send in your forms by Friday.",
+            "Fans can send in videos of their best dance moves."
+          ]
+        },
+        {
+          "verb": "Turn into",
+          "def": "To become something different",
+          "ipa": "/tɜrn ˈɪntu/",
+          "ex": [
+            "The old factory turned into a popular market.",
+            "His hobby turned into a full-time job.",
+            "The tiny puppy turned into a huge dog."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To start a new project",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "They set up a website for the new store.",
+            "The city set up a free clinic downtown.",
+            "My friends set up a band in college."
+          ]
+        },
+        {
+          "verb": "Add up",
+          "def": "To slowly become a large amount",
+          "ipa": "/æd ʌp/",
+          "ex": [
+            "Those monthly phone apps add up quickly.",
+            "Five dollars a day adds up to a lot in a year.",
+            "Parking fees at work really add up."
+          ]
+        },
+        {
+          "verb": "Bring in",
+          "def": "To earn an amount of money",
+          "ipa": "/brɪŋ ɪn/",
+          "ex": [
+            "The summer festival brings in a lot of money for the town.",
+            "His weekend job brings in an extra $400 a month.",
+            "The new product brought in millions last year."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "def": "To stop doing something forever",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "I gave up soda last spring.",
+            "He gave up fast food to lose weight.",
+            "She gave up gambling and saved her money."
+          ]
+        },
+        {
+          "verb": "Fit in with",
+          "def": "To suit a plan without causing problems",
+          "ipa": "/fɪt ɪn wɪð/",
+          "ex": [
+            "Night classes fit in with my job.",
+            "The trip has to fit in with the kids' school schedule.",
+            "Working from home fits in with her family life."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "def": "To join a plan or program",
+          "ipa": "/saɪn ʌp/",
+          "ex": [
+            "Did you sign up for the soccer team?",
+            "Thousands of people signed up for the free course.",
+            "You can sign up online in five minutes."
+          ]
+        },
+        {
+          "verb": "Put up",
+          "def": "To give money for something",
+          "ipa": "/pʊt ʌp/",
+          "ex": [
+            "An investor put up half the money for the restaurant.",
+            "The city put up $2 million for a new park.",
+            "Who is putting up the money for this movie?"
+          ]
+        },
+        {
+          "verb": "Run out",
+          "def": "To be completely used, with none left",
+          "ipa": "/rʌn aʊt/",
+          "ex": [
+            "Our car ran out of gas on the highway.",
+            "The free tickets ran out in an hour.",
+            "My savings ran out before the end of the month."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "sound recordings",
+          "def": "Sounds saved on a phone or other device to play later",
+          "ipa": "/saʊnd rɪˈkɔrdɪŋz/",
+          "ex": [
+            "The museum has old sound recordings of famous speeches.",
+            "She keeps sound recordings of her baby's first words.",
+            "The police listened to sound recordings of the phone call."
+          ]
+        },
+        {
+          "word": "former hunters",
+          "def": "People who used to hunt animals but no longer do",
+          "ipa": "/ˈfɔrmər ˈhʌntərz/",
+          "ex": [
+            "Some former hunters now work as park guides.",
+            "The club has a few former hunters as members.",
+            "Former hunters often know the woods very well."
+          ]
+        },
+        {
+          "word": "protectors",
+          "def": "People who keep something safe from harm",
+          "ipa": "/prəˈtɛktərz/",
+          "ex": [
+            "Parents are the first protectors of their children.",
+            "The volunteers see themselves as protectors of the beach.",
+            "Firefighters are protectors of the whole town."
+          ]
+        },
+        {
+          "word": "consulting company",
+          "def": "A business that gives expert advice to others",
+          "ipa": "/kənˈsʌltɪŋ ˈkʌmpəni/",
+          "ex": [
+            "He left the bank to start a consulting company.",
+            "The city hired a consulting company to plan the new roads.",
+            "She works for a consulting company in Chicago."
+          ]
+        },
+        {
+          "word": "sighting",
+          "def": "A time when someone sees something, especially something rare",
+          "ipa": "/ˈsaɪtɪŋ/",
+          "ex": [
+            "There was a bear sighting near the campground.",
+            "Each sighting of the comet was reported online.",
+            "The last sighting of the missing dog was on Main Street."
+          ]
+        },
+        {
+          "word": "endangered",
+          "def": "At risk of disappearing from the earth forever",
+          "ipa": "/ɪnˈdeɪndʒərd/",
+          "ex": [
+            "Tigers are an endangered animal.",
+            "The zoo helps protect endangered birds.",
+            "Some endangered plants grow only on this mountain."
+          ]
+        },
+        {
+          "word": "top prize",
+          "def": "The best and biggest reward in a contest",
+          "ipa": "/tɑp praɪz/",
+          "ex": [
+            "She won the top prize at the science fair.",
+            "The top prize in the lottery is $5 million.",
+            "Our film took the top prize at the festival."
+          ]
+        },
+        {
+          "word": "farm worker",
+          "def": "A person who is paid to work on a farm",
+          "ipa": "/fɑrm ˈwɜrkər/",
+          "ex": [
+            "The farm worker picked strawberries all morning.",
+            "Every farm worker gets a break at noon.",
+            "He was a farm worker before he opened his store."
+          ]
+        },
+        {
+          "word": "side job",
+          "def": "Work you do for extra money besides your main job",
+          "ipa": "/saɪd dʒɑb/",
+          "ex": [
+            "He drives for a delivery app as a side job.",
+            "Her side job is teaching guitar on weekends.",
+            "Many teachers have a side job in the summer."
+          ]
+        },
+        {
+          "word": "independence",
+          "def": "The freedom to take care of yourself without help from others",
+          "ipa": "/ˌɪndɪˈpɛndəns/",
+          "ex": [
+            "Getting a car gave my son more independence.",
+            "She values her independence and lives alone.",
+            "A first job can bring money and independence."
+          ]
+        },
+        {
+          "word": "breed",
+          "def": "To produce young animals",
+          "ipa": "/brid/",
+          "ex": [
+            "Salmon swim up the river to breed.",
+            "Many birds breed in the spring.",
+            "Pandas rarely breed in zoos."
+          ]
+        },
+        {
+          "word": "banned",
+          "def": "Officially did not allow something",
+          "ipa": "/bænd/",
+          "ex": [
+            "The school banned cell phones in class.",
+            "The city banned smoking in parks.",
+            "The league banned the player for one year."
+          ]
+        },
+        {
+          "word": "on their own",
+          "def": "Without anyone telling them to",
+          "ipa": "/ɑn ðɛr oʊn/",
+          "ex": [
+            "The kids cleaned their rooms on their own.",
+            "The neighbors fixed the fence on their own.",
+            "The workers started recycling on their own."
+          ]
+        },
+        {
+          "word": "observations",
+          "def": "Things a person sees and records",
+          "ipa": "/ˌɑbzərˈveɪʃənz/",
+          "ex": [
+            "The nurse wrote her observations in the chart.",
+            "Students shared their observations about the experiment.",
+            "His observations of the night sky filled three notebooks."
+          ]
+        },
+        {
+          "word": "Charitable foundations",
+          "def": "Groups that give money to help good causes",
+          "ipa": "/ˈtʃærɪtəbəl faʊnˈdeɪʃənz/",
+          "ex": [
+            "Charitable foundations paid for the new hospital wing.",
+            "Many charitable foundations support children's education.",
+            "Charitable foundations often help after a disaster."
+          ]
+        },
+        {
+          "word": "funding",
+          "def": "Money given for a special purpose",
+          "ipa": "/ˈfʌndɪŋ/",
+          "ex": [
+            "The school lost its funding for art classes.",
+            "The team is looking for funding for its research.",
+            "The new bridge has state funding."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Villagers in part of Indonesian Borneo now get money for photos and recordings of wild animals. Many people who once hunted help protect wildlife, but the money lasts only until 2028.",
+          "a": true,
+          "why": "Nine villages share sightings through an app and get paid. Former hunters have turned into protectors, and the funding is set to last until 2028."
+        },
+        {
+          "s": "A program in Borneo pays former hunters a monthly salary to guard the forest from poachers. Every village taking part has now made hunting illegal, and the government pays the costs.",
+          "a": false,
+          "why": "Close, but people are paid for each photo or recording, not a salary. Only two villages banned hunting, and charitable foundations put up the money."
+        },
+        {
+          "s": "Indonesia has opened a new national park on Borneo to protect orangutans. Officials plan to move families out of the forest and hire park rangers to stop illegal logging there.",
+          "a": false,
+          "why": "Villagers in nine villages are paid for wildlife photos and recordings. A consulting company set up the project, and no families are being moved."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Local people send in photos or sound recordings of the animals they find.",
+          "a": true,
+          "why": "Villagers head out into the forest and share each sighting through an app."
+        },
+        {
+          "s": "The project pays villagers to hunt wild animals in the forest.",
+          "a": false,
+          "why": "It pays them to photograph wild animals instead of hunting them. Villagers head out into the forest and take photos."
+        },
+        {
+          "s": "A common bird earns more money than an endangered orangutan.",
+          "a": false,
+          "why": "A common bird earns 5,000 rupiah, but an orangutan earns 130,000 rupiah. These payments add up over time."
+        },
+        {
+          "s": "Many former hunters have turned into protectors of wildlife.",
+          "a": true,
+          "why": "Instead of hunting animals, they now photograph them and bring in money from each checked photo."
+        },
+        {
+          "s": "Two villages in the project have given up hunting.",
+          "a": true,
+          "why": "Since the project began, two villages have given up hunting and banned it on their own."
+        },
+        {
+          "s": "A U.S. researcher thinks people will easily stay interested after the money runs out.",
+          "a": false,
+          "why": "He says keeping people interested after the money runs out will be hard. The funding is set to last until 2028."
+        }
+      ]
+    },
     {
       "id": "crimea-bridge-attack-2026",
       "number": 241,
