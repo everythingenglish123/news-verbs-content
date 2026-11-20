@@ -1,6 +1,480 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "stories": [
+    {
+      "id": "china-brick-pets-2026",
+      "number": 245,
+      "headline": "Young people in China are raising bricks as pets",
+      "badge": "Culture",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n245-china-brick-pets-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "'Zero-energy companionship': bizarre hobby takes seed among China's stressed young adults (The Guardian)",
+          "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults"
+        },
+        {
+          "title": "年轻人\"养砖头\"须防健康隐患 (Young people who \"raise bricks\" should guard against health risks) (Xinhua, in Chinese, Sept 22, 2026)",
+          "url": "http://www.news.cn/sci-tech/20260922/32f0a66920384ace9b6e8481ce2a7163/c.html"
+        },
+        {
+          "title": "China's Young Workers Are Raising Discarded Bricks as Pets (Trending on Weibo)",
+          "url": "https://www.trendingonweibo.com/hotwords/raising-bricks-as-pets/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Young adults in China have {{picked up}} an unusual hobby. They \"raise\" [[ordinary]] bricks like pets. Owners spray a brick with water a few times a day. Then they wait for [[moss]], a soft green plant, to grow on it. The moss grows from [[spores]], tiny cells in the air that work like seeds. The trend has {{taken off}} online. Posts with one tag about it have more than 5 million views on a Chinese social media app.",
+          "verbs": [
+            {
+              "display": "picked up",
+              "base": "pick up",
+              "correct": "To start doing a new activity",
+              "wrong": "To laugh at a new activity",
+              "correctFirst": true,
+              "why": "Many retired people pick up painting as a hobby. My brother picks up a new sport every summer. Young adults in China have picked up the hobby of raising bricks."
+            },
+            {
+              "display": "taken off",
+              "base": "take off",
+              "correct": "To become popular very quickly",
+              "wrong": "To get many angry comments",
+              "correctFirst": false,
+              "why": "Some songs take off after one funny video. A new snack sometimes takes off in just a few days. The brick trend has taken off online in China."
+            }
+          ]
+        },
+        {
+          "text": "A brick's tiny holes {{soak up}} the water and keep it [[damp]]. If an owner forgets to water it, the moss goes [[dormant]], which means it rests. When the watering starts again, the green color {{comes back}}. Fans call them \"brick babies.\" Many {{show off}} photos of their bricks as they change over a year. \"No cats, no dating, I started raising a brick,\" one owner wrote.",
+          "verbs": [
+            {
+              "display": "soak up",
+              "base": "soak up",
+              "correct": "To absorb water like a sponge",
+              "wrong": "To slowly change its color",
+              "correctFirst": true,
+              "why": "A sponge soaks up water very fast. Dry soil soaks up the rain in minutes. A brick's tiny holes soak up the water and keep it damp."
+            },
+            {
+              "display": "comes back",
+              "base": "come back",
+              "correct": "To return after being gone",
+              "wrong": "To spread to other bricks",
+              "correctFirst": false,
+              "why": "The leaves on our tree come back every spring. My cat always comes back home at dinnertime. When the watering starts again, the green color comes back."
+            },
+            {
+              "display": "show off",
+              "base": "show off",
+              "correct": "To proudly let people see something",
+              "wrong": "To sell something on the internet",
+              "correctFirst": true,
+              "why": "She shows off her new shoes to her friends. He shows off photos of his garden online. Many brick owners show off photos of their bricks as they change."
+            }
+          ]
+        },
+        {
+          "text": "For many owners, the small [[daily care]] {{pays off}}. One told Chinese media that it gives a [[sense of accomplishment]], like finishing a long project. Another owner wrote online that a brick has no goals to hit and never has to {{keep up with}} other people's bricks. Chinese commentators link the trend to the [[pressure]] young people feel. A hard [[job market]] {{stresses many young people out}}. Officially, nearly one in five people aged 16 to 24 who are not students have no job.",
+          "verbs": [
+            {
+              "display": "pays off",
+              "base": "pay off",
+              "correct": "To bring a good result",
+              "wrong": "To take a very long time",
+              "correctFirst": false,
+              "why": "Hard work usually pays off in the end. Saving a little money each week pays off over time. For many owners, the small daily care of a brick pays off."
+            },
+            {
+              "display": "keep up with",
+              "base": "keep up with",
+              "correct": "To do as well as other people",
+              "wrong": "To give advice to other people",
+              "correctFirst": true,
+              "why": "Some students study every night to keep up with their classmates. Small shops find it hard to keep up with big stores. Another owner wrote that a brick never has to keep up with other people's bricks."
+            },
+            {
+              "display": "stresses many young people out",
+              "base": "stress out",
+              "correct": "To make someone very worried",
+              "wrong": "To make someone feel lazy",
+              "correctFirst": false,
+              "why": "Exams stress many students out. Long lines at the airport stress me out. A hard job market stresses many young people out in China."
+            }
+          ]
+        },
+        {
+          "text": "Some young people are also {{giving up}} the race for top jobs. They choose \"[[lying flat]],\" a life with low [[effort]] and low stress. A brick costs almost nothing, and it helps some owners {{wind down}}. In September 2026, Chinese state media warned about [[mold]] on wet moss. Some owners have {{ended up}} with [[itchy eyes]] and [[runny noses]]. A [[retired]] moss expert suggests {{putting on}} [[disposable gloves]] and a mask.",
+          "verbs": [
+            {
+              "display": "giving up",
+              "base": "give up",
+              "correct": "To stop trying to get something",
+              "wrong": "To complain about something",
+              "correctFirst": true,
+              "why": "Many players give up their dream of a pro career. Some people give up the search for a better job. Some young people in China are giving up the race for top jobs."
+            },
+            {
+              "display": "wind down",
+              "base": "wind down",
+              "correct": "To relax after a busy time",
+              "wrong": "To learn a new skill",
+              "correctFirst": false,
+              "why": "I read a book to wind down at night. Many people take a warm bath to wind down. Caring for a brick helps some owners wind down."
+            },
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To finally be in a situation",
+              "wrong": "To worry about a situation",
+              "correctFirst": true,
+              "why": "People who skip sleep often end up sick. Tourists without a map sometimes end up in the wrong town. Some brick owners have ended up with itchy eyes and runny noses."
+            },
+            {
+              "display": "putting on",
+              "base": "put on",
+              "correct": "To start wearing something",
+              "wrong": "To wash something carefully",
+              "correctFirst": false,
+              "why": "I put on a warm coat when it is cold. Nurses put on gloves before they touch a patient. A retired moss expert suggests putting on disposable gloves and a mask."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Pick up",
+          "def": "To start doing a new activity",
+          "ipa": "/pɪk ʌp/",
+          "ex": [
+            "My mom picked up knitting after she retired.",
+            "It is never too late to pick up a new language.",
+            "He picked up the guitar in high school."
+          ]
+        },
+        {
+          "verb": "Take off",
+          "def": "To become popular very quickly",
+          "ipa": "/teɪk ɔf/",
+          "ex": [
+            "Her small bakery took off after a local news story.",
+            "The app took off with teenagers last summer.",
+            "Nobody expected the silly dance to take off like that."
+          ]
+        },
+        {
+          "verb": "Soak up",
+          "def": "To absorb water like a sponge",
+          "ipa": "/soʊk ʌp/",
+          "ex": [
+            "Use a paper towel to soak up the spilled water.",
+            "The garden soil soaks up the rain quickly.",
+            "A good towel soaks up water quickly."
+          ]
+        },
+        {
+          "verb": "Come back",
+          "def": "To return after being gone",
+          "ipa": "/kʌm bæk/",
+          "ex": [
+            "The birds come back to the lake every April.",
+            "Her pain came back after a few weeks.",
+            "When the power came back, the lights turned on."
+          ]
+        },
+        {
+          "verb": "Show off",
+          "def": "To proudly let people see something",
+          "ipa": "/ʃoʊ ɔf/",
+          "ex": [
+            "He loves to show off his old car at car shows.",
+            "The kids showed off their drawings to their grandparents.",
+            "She showed off her new kitchen to the neighbors."
+          ]
+        },
+        {
+          "verb": "Pay off",
+          "def": "To bring a good result",
+          "ipa": "/peɪ ɔf/",
+          "ex": [
+            "All those hours of practice paid off at the concert.",
+            "Her careful planning paid off, and the trip went well.",
+            "Eating well really pays off as you get older."
+          ]
+        },
+        {
+          "verb": "Keep up with",
+          "def": "To do as well as other people",
+          "ipa": "/kip ʌp wɪð/",
+          "ex": [
+            "It is hard to keep up with friends who earn more money.",
+            "The new worker tried to keep up with the rest of the team.",
+            "Our town can't keep up with the big cities on jobs."
+          ]
+        },
+        {
+          "verb": "Stress out",
+          "def": "To make someone very worried",
+          "ipa": "/strɛs aʊt/",
+          "ex": [
+            "Moving to a new city stressed her out.",
+            "Big crowds stress my dog out.",
+            "Don't let small problems stress you out."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "def": "To stop trying to get something",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "He gave up his plan to become a doctor.",
+            "She never gave up the hope of owning a home.",
+            "After five years, they gave up the search for a bigger apartment."
+          ]
+        },
+        {
+          "verb": "Wind down",
+          "def": "To relax after a busy time",
+          "ipa": "/waɪnd daʊn/",
+          "ex": [
+            "Soft music helps me wind down after work.",
+            "My dad watches TV to wind down in the evening.",
+            "A short walk is a good way to wind down."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To finally be in a situation",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We got lost and ended up at a farm.",
+            "If you don't study, you may end up failing the test.",
+            "She ended up with a cold after the long trip."
+          ]
+        },
+        {
+          "verb": "Put on",
+          "def": "To start wearing something",
+          "ipa": "/pʊt ɑn/",
+          "ex": [
+            "Put on your shoes before we go outside.",
+            "He put on a clean shirt for the interview.",
+            "Always put on a helmet when you ride a bike."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "ordinary",
+          "def": "Normal and not special in any way",
+          "ipa": "/ˈɔrdəˌnɛri/",
+          "ex": [
+            "It was just an ordinary day at work.",
+            "She wore an ordinary black dress to the party.",
+            "The hotel room was small and ordinary."
+          ]
+        },
+        {
+          "word": "moss",
+          "def": "A small, soft green plant that grows on wet stones, trees and the ground",
+          "ipa": "/mɔs/",
+          "ex": [
+            "Moss covers the north side of the old tree.",
+            "The stone steps were green with moss.",
+            "Moss grows well in cool, shady places."
+          ]
+        },
+        {
+          "word": "spores",
+          "def": "Tiny cells that some plants and fungi use to make new ones, like seeds",
+          "ipa": "/spɔrz/",
+          "ex": [
+            "Mushrooms spread by sending spores into the air.",
+            "Ferns grow from spores, not seeds.",
+            "Wind can carry spores a long way."
+          ]
+        },
+        {
+          "word": "damp",
+          "def": "A little wet",
+          "ipa": "/dæmp/",
+          "ex": [
+            "Wipe the table with a damp cloth.",
+            "My socks are still damp from the rain.",
+            "The basement always feels damp in spring."
+          ]
+        },
+        {
+          "word": "dormant",
+          "def": "Alive but not active or growing for a time",
+          "ipa": "/ˈdɔrmənt/",
+          "ex": [
+            "Many trees are dormant in the winter.",
+            "The seeds stay dormant until the rain comes.",
+            "The old volcano has been dormant for centuries."
+          ]
+        },
+        {
+          "word": "sense of accomplishment",
+          "def": "A good feeling that you have done something well",
+          "ipa": "/sɛns əv əˈkɑmplɪʃmənt/",
+          "ex": [
+            "Finishing a marathon gives you a sense of accomplishment.",
+            "She felt a sense of accomplishment when the shelf was done.",
+            "Cleaning the whole garage gave him a real sense of accomplishment."
+          ]
+        },
+        {
+          "word": "daily care",
+          "def": "The work of caring for something every day",
+          "ipa": "/ˈdeɪli kɛr/",
+          "ex": [
+            "Babies need a lot of daily care.",
+            "This plant needs very little daily care.",
+            "Good daily care keeps your teeth healthy."
+          ]
+        },
+        {
+          "word": "pressure",
+          "def": "A feeling that you must do something or do it well",
+          "ipa": "/ˈprɛʃər/",
+          "ex": [
+            "Students feel a lot of pressure before final exams.",
+            "There is pressure on new workers to stay late.",
+            "He felt pressure from his family to become a lawyer."
+          ]
+        },
+        {
+          "word": "job market",
+          "def": "All the jobs that are open and the people looking for them",
+          "ipa": "/dʒɑb ˈmɑrkət/",
+          "ex": [
+            "The job market for nurses is strong right now.",
+            "She studied hard to do well in a tough job market.",
+            "A weak job market makes it hard to change careers."
+          ]
+        },
+        {
+          "word": "lying flat",
+          "def": "Choosing a calm, simple life without working too hard for success",
+          "ipa": "/ˈlaɪɪŋ flæt/",
+          "ex": [
+            "He says lying flat is better than working 12 hours a day.",
+            "Some young people see lying flat as a way to avoid stress.",
+            "Her parents do not understand why she likes lying flat."
+          ]
+        },
+        {
+          "word": "effort",
+          "def": "The hard work or energy you use to do something",
+          "ipa": "/ˈɛfərt/",
+          "ex": [
+            "Learning a new language takes a lot of effort.",
+            "He made an effort to arrive on time.",
+            "With a little effort, the garden looks great."
+          ]
+        },
+        {
+          "word": "mold",
+          "def": "A soft green, gray or black growth that forms in wet places",
+          "ipa": "/moʊld/",
+          "ex": [
+            "There was mold on the old bread.",
+            "Open a window to stop mold in the bathroom.",
+            "The leaky roof caused mold on the ceiling."
+          ]
+        },
+        {
+          "word": "itchy eyes",
+          "def": "Eyes that feel like you want to rub them",
+          "ipa": "/ˈɪtʃi aɪz/",
+          "ex": [
+            "Spring flowers give me itchy eyes.",
+            "Dust can cause itchy eyes and sneezing.",
+            "He has itchy eyes every time he pets a cat."
+          ]
+        },
+        {
+          "word": "runny noses",
+          "def": "Noses that drip, often because of a cold",
+          "ipa": "/ˈrʌni ˈnoʊzɪz/",
+          "ex": [
+            "Many kids at school have runny noses in winter.",
+            "Cold weather often gives people runny noses.",
+            "The teacher keeps tissues ready for runny noses."
+          ]
+        },
+        {
+          "word": "retired",
+          "def": "No longer working because of age",
+          "ipa": "/rɪˈtaɪərd/",
+          "ex": [
+            "My retired uncle spends his days fishing.",
+            "A retired teacher helps at the library.",
+            "She is retired but still very busy."
+          ]
+        },
+        {
+          "word": "disposable gloves",
+          "def": "Thin gloves that you use only once",
+          "ipa": "/dɪˈspoʊzəbəl ɡlʌvz/",
+          "ex": [
+            "The cook wears disposable gloves when she makes salads.",
+            "Keep a box of disposable gloves for cleaning.",
+            "Doctors use disposable gloves to keep patients safe."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Many young adults in China now care for plain bricks and wait for moss to grow. The cheap, easy hobby helps them relax in hard times, but Chinese media warn it can bring mold.",
+          "a": true,
+          "why": "Young people have picked up brick raising as a cheap way to wind down. Chinese media also warn about mold and health problems."
+        },
+        {
+          "s": "Young people in China keep mossy bricks at home because doctors say the plants clean the air. Health officials hope that millions more will start the new hobby this winter.",
+          "a": false,
+          "why": "Close, but Chinese commentators link the trend to stress and a hard job market. Chinese media actually warn that moss can bring mold and itchy eyes."
+        },
+        {
+          "s": "A building company in China has started selling green bricks covered in living moss for new apartments. It says the walls will keep homes cool and lower energy bills in summer.",
+          "a": false,
+          "why": "This story is about young adults who raise ordinary bricks like pets. Many of them show off photos of their bricks online."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Young adults in China have picked up the hobby of raising bricks.",
+          "a": true,
+          "why": "They spray ordinary bricks with water and wait for moss to grow, as if the bricks were pets."
+        },
+        {
+          "s": "Owners must buy special bricks that already have moss on them.",
+          "a": false,
+          "why": "They use ordinary bricks and spray them with water. The brick's tiny holes soak up the water, and moss grows."
+        },
+        {
+          "s": "If owners forget to water a brick, the moss dies and never returns.",
+          "a": false,
+          "why": "The moss only rests. When the watering starts again, the green color comes back."
+        },
+        {
+          "s": "Many owners show off photos of their bricks online.",
+          "a": true,
+          "why": "They share pictures of how their bricks change over a year."
+        },
+        {
+          "s": "A hard job market stresses many young people out in China.",
+          "a": true,
+          "why": "Officially, nearly one in five people aged 16 to 24 who are not students have no job."
+        },
+        {
+          "s": "Chinese media say moss bricks are completely safe to keep at home.",
+          "a": false,
+          "why": "They warn about mold on wet moss, and some owners have ended up with itchy eyes and runny noses."
+        }
+      ]
+    },
     {
       "id": "us-chip-rules-southeast-asia-2026",
       "number": 244,
