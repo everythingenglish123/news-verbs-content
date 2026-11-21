@@ -2,6 +2,478 @@
   "updated": "2026-11-21",
   "stories": [
     {
+      "id": "trump-xi-putin-meeting-2026",
+      "number": 249,
+      "headline": "Trump, Xi and Putin hold their first three-way meeting",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n249-trump-xi-putin-meeting-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "Friend zone: rejected by US voters, Trump enjoys autocrats' warm embrace (The Guardian)",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit"
+        },
+        {
+          "title": "Trump touts meeting with Xi and Putin but offers little results (NPR)",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+        },
+        {
+          "title": "Strongman 'friends,' AI's potential and other takeaways from Trump's China trip and sitdown with Putin and Xi (CNN)",
+          "url": "https://www.cnn.com/2026/11/19/politics/trump-putin-xi-meeting-takeaways"
+        },
+        {
+          "title": "'Groundbreaking' Trump-Xi-Putin summit: Five key takeaways (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
+        },
+        {
+          "title": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 19, 2026, the presidents of the U.S., China and Russia held their [[first-ever]] [[three-way meeting]]. Donald Trump, Xi Jinping and Vladimir Putin {{sat down}} together in southern China. All three were there for a [[summit]], a meeting of world leaders. It was the yearly summit of Asia-Pacific Economic Cooperation. This group of 21 Pacific countries and places works together on [[trade]].",
+          "verbs": [
+            {
+              "display": "sat down",
+              "base": "sit down",
+              "correct": "To take a seat",
+              "wrong": "To fall asleep",
+              "correctFirst": true,
+              "why": "The guests sit down at the table before dinner. The students sit down when the teacher walks in. Trump, Xi and Putin sat down together in southern China."
+            }
+          ]
+        },
+        {
+          "text": "First, Trump met Xi and Putin [[one at a time]]. He called each one his \"friend.\" The three-way talks {{kicked off}} at a [[round table]], with short speeches in front of reporters. \"The world is at peace when great powers live in [[harmony]],\" Xi said. [[Great powers]] are very strong countries. Trump {{pointed out}} that the three countries have the most [[nuclear weapons]] in the world. He had also said he would {{bring up}} the war in Ukraine. Then the leaders talked [[in private]].",
+          "verbs": [
+            {
+              "display": "kicked off",
+              "base": "kick off",
+              "correct": "To begin an event or activity",
+              "wrong": "To force someone to leave a place",
+              "correctFirst": false,
+              "why": "The festival kicks off with a big parade. Our meetings always kick off at nine. The three-way talks kicked off with short speeches in front of reporters."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To mention a fact so people notice it",
+              "wrong": "To choose someone for a team",
+              "correctFirst": true,
+              "why": "My teacher points out my spelling mistakes. The guide points out the oldest building in town. Trump pointed out that the three countries have the most nuclear weapons in the world."
+            },
+            {
+              "display": "bring up",
+              "base": "bring up",
+              "correct": "To start talking about a subject",
+              "wrong": "To give someone a gift",
+              "correctFirst": false,
+              "why": "My dad brings up politics at every family dinner. She never brings up her old job. Trump had said he would bring up the war in Ukraine."
+            }
+          ]
+        },
+        {
+          "text": "Afterward, the countries released a [[joint statement]], a message from all three. It {{laid out}} four main points. In one, they promised to {{talk over}} ways to reduce the dangers of nuclear weapons. In another, they agreed to {{step up}} the production and [[supply]] of fuels made from oil, such as gasoline. A third point called for changes at the United Nations. The statement {{left out}} the war in Ukraine.",
+          "verbs": [
+            {
+              "display": "laid out",
+              "base": "lay out",
+              "correct": "To explain a plan or idea clearly",
+              "wrong": "To put a plan away for later",
+              "correctFirst": true,
+              "why": "The coach lays out the plan before each game. A good teacher lays out the rules on the first day. The joint statement laid out four main points."
+            },
+            {
+              "display": "talk over",
+              "base": "talk over",
+              "correct": "To discuss something with other people",
+              "wrong": "To sign a deal without reading it",
+              "correctFirst": false,
+              "why": "My wife and I talk over big decisions together. Before a trip, we talk over the costs. The three countries promised to talk over ways to reduce the dangers of nuclear weapons."
+            },
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To increase the amount of something",
+              "wrong": "To leave an important job or post",
+              "correctFirst": true,
+              "why": "Factories step up work before Christmas. The city steps up bus service during big games. The three countries agreed to step up the production and supply of fuels made from oil."
+            },
+            {
+              "display": "left out",
+              "base": "leave out",
+              "correct": "To not include something",
+              "wrong": "To translate something",
+              "correctFirst": false,
+              "why": "He always leaves out the boring parts of the story. Some recipes leave out salt for health reasons. The joint statement left out the war in Ukraine."
+            }
+          ]
+        },
+        {
+          "text": "On November 20, Trump {{talked up}} the trip at a White House [[news conference]]. He said he and Xi agreed to make [[guardrails]], or safety rules, for [[artificial intelligence]]. He did not {{spell out}} the details. After the trip, he rated it a 12 on a scale of zero to 10. But National Public Radio reported that few real results {{came out of}} the meeting. Putin called the talks very honest and open. He said the leaders {{came away}} understanding one another better.",
+          "verbs": [
+            {
+              "display": "talked up",
+              "base": "talk up",
+              "correct": "To praise something to make it seem better",
+              "wrong": "To repeat something so people remember it",
+              "correctFirst": true,
+              "why": "Store workers talk up the new phones to every customer. Coaches often talk up young players. On November 20, Trump talked up the trip at a White House news conference."
+            },
+            {
+              "display": "spell out",
+              "base": "spell out",
+              "correct": "To explain every detail of something",
+              "wrong": "To take a photo of something",
+              "correctFirst": false,
+              "why": "The contract spells out how much you pay each month. My boss spells out what she wants from each of us. Trump did not spell out the details of the AI guardrails."
+            },
+            {
+              "display": "came out of",
+              "base": "come out of",
+              "correct": "To be the result of something",
+              "wrong": "To be the cost of something",
+              "correctFirst": true,
+              "why": "Good ideas often come out of long talks. Many new friendships come out of sports teams. National Public Radio reported that few real results came out of the meeting."
+            },
+            {
+              "display": "came away",
+              "base": "come away",
+              "correct": "To leave a place with a certain feeling",
+              "wrong": "To miss a meeting for a certain reason",
+              "correctFirst": false,
+              "why": "Most visitors come away happy from the museum. Students often come away from her class with new ideas. Putin said the leaders came away understanding one another better."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Sit down",
+          "def": "To take a seat",
+          "ipa": "/sɪt daʊn/",
+          "ex": [
+            "Let's sit down at that table by the window.",
+            "He sat down next to his grandmother.",
+            "Please sit down, and the doctor will see you soon."
+          ]
+        },
+        {
+          "verb": "Kick off",
+          "def": "To begin an event or activity",
+          "ipa": "/kɪk ɔf/",
+          "ex": [
+            "The concert kicked off at eight with a short speech.",
+            "The school year kicks off in late August.",
+            "The meeting kicked off with a welcome from the mayor."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To mention a fact so people notice it",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out that the store was closed on Sundays.",
+            "He pointed out a mistake in my report.",
+            "The doctor pointed out that I need more sleep."
+          ]
+        },
+        {
+          "verb": "Bring up",
+          "def": "To start talking about a subject",
+          "ipa": "/brɪŋ ʌp/",
+          "ex": [
+            "Don't bring up money at the party.",
+            "She brought up the problem at the meeting.",
+            "He brought up an old story about his brother."
+          ]
+        },
+        {
+          "verb": "Lay out",
+          "def": "To explain a plan or idea clearly",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "The mayor laid out her plan for new parks.",
+            "The report lays out three reasons for the change.",
+            "Can you lay out the steps one more time?"
+          ]
+        },
+        {
+          "verb": "Talk over",
+          "def": "To discuss something with other people",
+          "ipa": "/tɔk ˈoʊvər/",
+          "ex": [
+            "Let's talk over the plan at lunch.",
+            "They talked over the offer before they said yes.",
+            "I need to talk it over with my family first."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase the amount of something",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The police stepped up patrols after the break-ins.",
+            "The company stepped up production of face masks.",
+            "Schools are stepping up safety checks this fall."
+          ]
+        },
+        {
+          "verb": "Leave out",
+          "def": "To not include something",
+          "ipa": "/liv aʊt/",
+          "ex": [
+            "You left out my name on the list.",
+            "The movie leaves out an important part of the book.",
+            "Please don't leave out any details in your report."
+          ]
+        },
+        {
+          "verb": "Talk up",
+          "def": "To praise something to make it seem better",
+          "ipa": "/tɔk ʌp/",
+          "ex": [
+            "The mayor talked up the new bridge on TV.",
+            "He talked up his small town to every visitor.",
+            "Car dealers always talk up the newest models."
+          ]
+        },
+        {
+          "verb": "Spell out",
+          "def": "To explain every detail of something",
+          "ipa": "/spɛl aʊt/",
+          "ex": [
+            "The rules spell out what you can bring on the plane.",
+            "Can you spell out what you need from me?",
+            "The letter spelled out the new prices."
+          ]
+        },
+        {
+          "verb": "Come out of",
+          "def": "To be the result of something",
+          "ipa": "/kʌm aʊt ʌv/",
+          "ex": [
+            "Nothing useful came out of the meeting.",
+            "A great plan came out of our long talk.",
+            "What came out of your visit to the bank?"
+          ]
+        },
+        {
+          "verb": "Come away",
+          "def": "To leave a place with a certain feeling",
+          "ipa": "/kʌm əˈweɪ/",
+          "ex": [
+            "I came away from the game feeling proud of our team.",
+            "She came away from the interview with a good feeling.",
+            "Many fans came away from the show disappointed."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "first-ever",
+          "def": "Happening for the very first time",
+          "ipa": "/ˈfɜrst ˈɛvər/",
+          "ex": [
+            "This is the town's first-ever book fair.",
+            "She won her first-ever race at age ten.",
+            "The team played its first-ever game in Europe."
+          ]
+        },
+        {
+          "word": "three-way meeting",
+          "def": "A meeting where three people or groups talk together",
+          "ipa": "/ˈθri ˌweɪ ˈmitɪŋ/",
+          "ex": [
+            "The three companies held a three-way meeting about the deal.",
+            "A three-way meeting can take longer than a talk between two people.",
+            "The coaches set a three-way meeting with the school director."
+          ]
+        },
+        {
+          "word": "summit",
+          "def": "A meeting between leaders of different countries",
+          "ipa": "/ˈsʌmɪt/",
+          "ex": [
+            "The leaders met at a summit on climate change.",
+            "Reporters from many countries came to the summit.",
+            "The next summit will take place in the spring."
+          ]
+        },
+        {
+          "word": "trade",
+          "def": "The buying and selling of goods between countries",
+          "ipa": "/treɪd/",
+          "ex": [
+            "Trade between the two countries grew last year.",
+            "The new port helps trade with other countries.",
+            "Bad weather can slow trade across the ocean."
+          ]
+        },
+        {
+          "word": "one at a time",
+          "def": "Separately, first one person or thing and then the next",
+          "ipa": "/wʌn æt ə taɪm/",
+          "ex": [
+            "The doctor saw the patients one at a time.",
+            "Please come into the room one at a time.",
+            "She answered the questions one at a time."
+          ]
+        },
+        {
+          "word": "round table",
+          "def": "A table shaped like a circle, where no seat is at the head",
+          "ipa": "/raʊnd ˈteɪbəl/",
+          "ex": [
+            "Our family eats dinner at a round table.",
+            "The round table had room for eight people.",
+            "The leaders talked at a large round table."
+          ]
+        },
+        {
+          "word": "harmony",
+          "def": "A state of living or working together peacefully",
+          "ipa": "/ˈhɑrməni/",
+          "ex": [
+            "The two cats live in harmony.",
+            "The neighbors work in harmony to keep the street clean.",
+            "People of many faiths live in harmony in this city."
+          ]
+        },
+        {
+          "word": "Great powers",
+          "def": "Very strong countries with a lot of influence in the world",
+          "ipa": "/ɡreɪt ˈpaʊərz/",
+          "ex": [
+            "Great powers often have large armies.",
+            "The great powers met to talk about the war.",
+            "Small countries sometimes feel pushed around by great powers."
+          ]
+        },
+        {
+          "word": "nuclear weapons",
+          "def": "Very powerful bombs that use the energy inside atoms",
+          "ipa": "/ˈnukliər ˈwɛpənz/",
+          "ex": [
+            "Only a few countries have nuclear weapons.",
+            "Many people want a world without nuclear weapons.",
+            "The leaders talked about the dangers of nuclear weapons."
+          ]
+        },
+        {
+          "word": "in private",
+          "def": "Where other people cannot see or hear",
+          "ipa": "/ɪn ˈpraɪvət/",
+          "ex": [
+            "Can I talk to you in private for a minute?",
+            "The players met in private after the game.",
+            "She cried in private, not in front of her kids."
+          ]
+        },
+        {
+          "word": "joint statement",
+          "def": "A message that two or more groups write and share together",
+          "ipa": "/dʒɔɪnt ˈsteɪtmənt/",
+          "ex": [
+            "The two schools released a joint statement about the new rules.",
+            "The companies signed a joint statement after the deal.",
+            "In a joint statement, both teams thanked their fans."
+          ]
+        },
+        {
+          "word": "supply",
+          "def": "The amount of something that is available to people",
+          "ipa": "/səˈplaɪ/",
+          "ex": [
+            "The town has a clean water supply.",
+            "The supply of eggs is low this month.",
+            "Stores need a steady supply of fresh fruit."
+          ]
+        },
+        {
+          "word": "news conference",
+          "def": "An event where an important person answers reporters' questions",
+          "ipa": "/nuz ˈkɑnfərəns/",
+          "ex": [
+            "The mayor held a news conference after the storm.",
+            "The coach spoke at a news conference after the loss.",
+            "Reporters asked many questions at the news conference."
+          ]
+        },
+        {
+          "word": "artificial intelligence",
+          "def": "Computer programs that can learn and do tasks that need human thinking",
+          "ipa": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+          "ex": [
+            "Artificial intelligence helps doctors read X-rays.",
+            "My phone uses artificial intelligence to sort my photos.",
+            "Many schools teach students about artificial intelligence."
+          ]
+        },
+        {
+          "word": "guardrails",
+          "def": "Rules or limits that keep something safe",
+          "ipa": "/ˈɡɑrdˌreɪlz/",
+          "ex": [
+            "The company added guardrails to protect children online.",
+            "New guardrails limit how much the bank can lend.",
+            "Parents set guardrails for how teens use their phones."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "The leaders of the U.S., China and Russia met together for the first time and released a joint statement. They promised more talks on nuclear dangers, but few real deals came out of it.",
+          "a": true,
+          "why": "The three countries agreed to talk over ways to reduce nuclear dangers. National Public Radio reported that few real results came out of the meeting."
+        },
+        {
+          "s": "The leaders of the U.S., China and Russia held a first meeting in southern China. They signed a deal to end the war in Ukraine and agreed to cut the number of their nuclear weapons.",
+          "a": false,
+          "why": "Close, but the statement left out the war in Ukraine. The countries only promised to talk over ways to reduce nuclear dangers."
+        },
+        {
+          "s": "Leaders from 21 Pacific countries agreed to lower taxes on goods they sell each other. The group says the new trade plan will start next spring and could make many products cheaper.",
+          "a": false,
+          "why": "This story is about the first meeting of Trump, Xi and Putin. They laid out four main points, but none was about lowering taxes on goods."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Trump, Xi and Putin sat down together for their first three-way meeting.",
+          "a": true,
+          "why": "The three leaders sat down at a round table in southern China on November 19, 2026."
+        },
+        {
+          "s": "The joint statement left out the war in Ukraine.",
+          "a": true,
+          "why": "The statement laid out four main points, but none of them was about the war in Ukraine."
+        },
+        {
+          "s": "The three countries agreed to step up the production of fuels made from oil.",
+          "a": true,
+          "why": "They promised to step up both the production and the supply of these fuels."
+        },
+        {
+          "s": "The leaders refused to talk over ways to reduce the dangers of nuclear weapons.",
+          "a": false,
+          "why": "They promised to talk over ways to reduce these dangers. This was one of the four points in their statement."
+        },
+        {
+          "s": "Trump told reporters that the trip to China was a failure.",
+          "a": false,
+          "why": "Trump talked up the trip at a news conference. He rated it a 12 on a scale of zero to 10."
+        },
+        {
+          "s": "Trump gave full details of the AI safety rules he planned with Xi.",
+          "a": false,
+          "why": "Trump said he and Xi agreed to make AI guardrails, but he did not spell out the details."
+        }
+      ]
+    },
+    {
       "id": "eurovision-asia-first-winner-2026",
       "number": 248,
       "headline": "The Philippines wins the first Eurovision Asia",
