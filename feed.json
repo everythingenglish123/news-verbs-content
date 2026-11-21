@@ -2,6 +2,480 @@
   "updated": "2026-11-21",
   "stories": [
     {
+      "id": "bangladesh-first-nuclear-power-2026",
+      "number": 250,
+      "headline": "Bangladesh gets its first power from a nuclear plant",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n250-bangladesh-first-nuclear-power-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Rooppur nuclear plant feeds 350MW into national grid for the first time (The Daily Star)",
+          "url": "https://www.thedailystar.net/news/power-and-energy/news/rooppur-nuclear-plant-feeds-350mw-national-grid-the-first-time-4326161"
+        },
+        {
+          "title": "Rooppur nuclear plant feeds national grid for first time (bdnews24.com)",
+          "url": "https://bdnews24.com/bangladesh/d9whj4ueq4"
+        },
+        {
+          "title": "Bangladesh connects its first nuclear power plant to national grid (Arab News)",
+          "url": "https://www.arabnews.com/world/bangladesh-connects-its-first-nuclear-power-plant-to-national-grid-3012480"
+        },
+        {
+          "title": "Rooppur power plant's first unit begins 350MW trial supply to nat'l grid (The Business Standard)",
+          "url": "https://www.tbsnews.net/economy/energy/rooppurs-first-unit-begins-trial-supply-350mw-national-grid-1605311"
+        },
+        {
+          "title": "Nuclear power connected to national grid for the first time (Prothom Alo)",
+          "url": "https://en.prothomalo.com/bangladesh/f6htl23qg1"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "Bangladesh, a country of about 170 million people in South Asia, got electricity from nuclear power for the first time on November 17, 2026. Its first nuclear power plant was {{hooked up}} to the national [[grid]]. A grid is the [[network]] of [[power lines]] that carries electricity to homes and businesses. Within 30 minutes, the plant was {{putting out}} 350 megawatts. A megawatt is one million watts, a [[unit]] for measuring electric power.",
+          "verbs": [
+            {
+              "display": "hooked up",
+              "base": "hook up",
+              "correct": "To connect something to a system",
+              "wrong": "To check something for safety",
+              "correctFirst": true,
+              "why": "Workers hook up new homes to the city water system. The cable company hooks up our internet in one day. On November 17, 2026, Bangladesh's first nuclear power plant was hooked up to the national grid."
+            },
+            {
+              "display": "putting out",
+              "base": "put out",
+              "correct": "To produce energy or power",
+              "wrong": "To store energy for later",
+              "correctFirst": false,
+              "why": "This small engine puts out a lot of power. Big wind turbines put out energy all day. Within 30 minutes, the plant was putting out 350 megawatts."
+            }
+          ]
+        },
+        {
+          "text": "The plant, in the west of the country, was built with help from Russia. Work on it {{kicked off}} in 2017. Its first [[reactor]] began making heat in October 2026. A reactor is the part of a power plant where [[nuclear fuel]] makes heat for electricity. The project {{fell behind}}, and its [[deadline]] is now June 2028. A stronger U.S. dollar also {{drove up}} the cost in Bangladesh's own money. Reports say the [[total cost]] will be about 11.2 billion dollars.",
+          "verbs": [
+            {
+              "display": "kicked off",
+              "base": "kick off",
+              "correct": "To begin or start",
+              "wrong": "To be done again",
+              "correctFirst": true,
+              "why": "The school year kicks off in late August. Our town's summer festival kicks off with a parade. Work on the plant kicked off in 2017."
+            },
+            {
+              "display": "fell behind",
+              "base": "fall behind",
+              "correct": "To be later than planned",
+              "wrong": "To be given a new name",
+              "correctFirst": false,
+              "why": "Construction work often falls behind in bad weather. A road project falls behind when parts arrive late. The project fell behind, and its deadline is now June 2028."
+            },
+            {
+              "display": "drove up",
+              "base": "drive up",
+              "correct": "To make a cost or price higher",
+              "wrong": "To split a cost in two",
+              "correctFirst": true,
+              "why": "Bad weather drives up the price of fruit. A big sports event drives up hotel prices. A stronger dollar drove up the cost of the plant in Bangladesh's own money."
+            }
+          ]
+        },
+        {
+          "text": "The plant is now in a [[trial period]]. During the tests, engineers want to {{figure out}} how the plant and the grid work together. Under the test plan, the plant is [[disconnected]] at times for [[technical checks]]. The reactor may also {{shut down}} for short periods. The power it makes will {{ramp up}} [[step by step]], with [[pauses]]. Bangladesh's nuclear [[safety agency]] must {{sign off on}} each new step.",
+          "verbs": [
+            {
+              "display": "figure out",
+              "base": "figure out",
+              "correct": "To discover how or why something happens",
+              "wrong": "To make something work much faster",
+              "correctFirst": false,
+              "why": "Doctors run tests to figure out what is wrong. A mechanic figures out why a car makes a strange noise. Engineers want to figure out how the plant and the grid work together."
+            },
+            {
+              "display": "shut down",
+              "base": "shut down",
+              "correct": "To stop working for a while",
+              "wrong": "To be moved to a new site",
+              "correctFirst": true,
+              "why": "Our office computers shut down for updates at night. Some factories shut down for a week every summer. The reactor may also shut down for short periods during the trial."
+            },
+            {
+              "display": "ramp up",
+              "base": "ramp up",
+              "correct": "To become bigger or higher",
+              "wrong": "To be kept a secret",
+              "correctFirst": false,
+              "why": "Production ramps up slowly at a new factory. Ticket sales ramp up in the weeks before a big concert. The power the plant makes will ramp up step by step, with pauses."
+            },
+            {
+              "display": "sign off on",
+              "base": "sign off on",
+              "correct": "To give official approval to",
+              "wrong": "To write the news about",
+              "correctFirst": true,
+              "why": "The manager signs off on every new hire. A city inspector signs off on each new building. Bangladesh's nuclear safety agency must sign off on each new step."
+            }
+          ]
+        },
+        {
+          "text": "The science minister said the tests may {{go on}} through December and January. He hoped the reactor would reach its [[full power]] of 1,200 megawatts by early February 2027. With a second reactor planned for 2028, the plant is expected to supply about 11 percent of the country's electricity. Bangladesh gets about half of its electricity from natural gas. It has faced power [[shortages]] for years. The plant should help it {{cut down on}} [[imported]] fuel.",
+          "verbs": [
+            {
+              "display": "go on",
+              "base": "go on",
+              "correct": "To continue for a time",
+              "wrong": "To be planned once more",
+              "correctFirst": false,
+              "why": "The meeting often goes on until late at night. In the spring, the rain goes on for days. The minister said the tests may go on through December and January."
+            },
+            {
+              "display": "cut down on",
+              "base": "cut down on",
+              "correct": "To use less of something",
+              "wrong": "To make a list of",
+              "correctFirst": true,
+              "why": "My doctor tells me to cut down on salt. Many families cut down on driving when gas is expensive. The plant is expected to help Bangladesh cut down on imported fuel."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Hook up",
+          "def": "To connect something to a system",
+          "ipa": "/hʊk ʌp/",
+          "ex": [
+            "Can you hook up the printer to my laptop?",
+            "We hooked up the new TV to the cable box.",
+            "The town wants to hook up every school to fast internet."
+          ]
+        },
+        {
+          "verb": "Put out",
+          "def": "To produce energy or power",
+          "ipa": "/pʊt aʊt/",
+          "ex": [
+            "This heater puts out a lot of heat.",
+            "The new solar panels put out more power than the old ones.",
+            "A car with a bigger engine puts out more power."
+          ]
+        },
+        {
+          "verb": "Kick off",
+          "def": "To begin or start",
+          "ipa": "/kɪk ɔf/",
+          "ex": [
+            "The meeting kicked off with a short video.",
+            "Our road trip kicks off on Saturday morning.",
+            "The city's book fair kicked off at noon."
+          ]
+        },
+        {
+          "verb": "Fall behind",
+          "def": "To be later than planned",
+          "ipa": "/fɔl bɪˈhaɪnd/",
+          "ex": [
+            "Work on our new road fell behind because of the heavy rain.",
+            "The bridge repairs are falling behind again.",
+            "If the parts don't come, the work will fall behind."
+          ]
+        },
+        {
+          "verb": "Drive up",
+          "def": "To make a cost or price higher",
+          "ipa": "/draɪv ʌp/",
+          "ex": [
+            "A dry summer drove up the price of corn.",
+            "High demand drives up the cost of rent.",
+            "New taxes could drive up the price of gas."
+          ]
+        },
+        {
+          "verb": "Figure out",
+          "def": "To discover how or why something happens",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "ex": [
+            "We need to figure out why the sink is leaking.",
+            "She finally figured out how the new phone works.",
+            "Scientists are trying to figure out what causes the problem."
+          ]
+        },
+        {
+          "verb": "Shut down",
+          "def": "To stop working for a while",
+          "ipa": "/ʃʌt daʊn/",
+          "ex": [
+            "The ride shut down for an hour after the storm.",
+            "My laptop shuts down when the battery is low.",
+            "The factory shut down for repairs in July."
+          ]
+        },
+        {
+          "verb": "Ramp up",
+          "def": "To become bigger or higher",
+          "ipa": "/ræmp ʌp/",
+          "ex": [
+            "Sales usually ramp up in December.",
+            "Work on the new stadium is ramping up.",
+            "Hiring will ramp up after the new store opens."
+          ]
+        },
+        {
+          "verb": "Sign off on",
+          "def": "To give official approval to",
+          "ipa": "/saɪn ɔf ɑn/",
+          "ex": [
+            "The boss signed off on our travel plans.",
+            "The city has to sign off on the new park design.",
+            "My teacher signed off on my project idea."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To continue for a time",
+          "ipa": "/ɡoʊ ɑn/",
+          "ex": [
+            "The party went on until midnight.",
+            "The strike could go on for weeks.",
+            "The game went on in the rain."
+          ]
+        },
+        {
+          "verb": "Cut down on",
+          "def": "To use less of something",
+          "ipa": "/kʌt daʊn ɑn/",
+          "ex": [
+            "I'm trying to cut down on sugar.",
+            "We cut down on eating out to save money.",
+            "The school wants to cut down on paper waste."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "grid",
+          "def": "The system of lines that carries electricity across an area",
+          "ipa": "/ɡrɪd/",
+          "ex": [
+            "The storm damaged part of the grid in our state.",
+            "The new wind farm sends power to the grid.",
+            "The grid carries power to millions of homes."
+          ]
+        },
+        {
+          "word": "network",
+          "def": "A group of lines or parts that are joined together",
+          "ipa": "/ˈnɛtˌwɜrk/",
+          "ex": [
+            "The city has a large network of bus routes.",
+            "Our office computers are on one network.",
+            "A network of roads connects the small towns."
+          ]
+        },
+        {
+          "word": "power lines",
+          "def": "Wires that carry electricity from place to place",
+          "ipa": "/ˈpaʊər laɪnz/",
+          "ex": [
+            "Never touch power lines that are lying on the ground.",
+            "Workers fixed the power lines after the storm.",
+            "Birds often sit on the power lines near my house."
+          ]
+        },
+        {
+          "word": "unit",
+          "def": "An amount used to measure something",
+          "ipa": "/ˈjunɪt/",
+          "ex": [
+            "A meter is a unit of length.",
+            "The pound is a unit of weight in the U.S.",
+            "Which unit do you use for temperature?"
+          ]
+        },
+        {
+          "word": "reactor",
+          "def": "A machine that makes heat from nuclear fuel",
+          "ipa": "/riˈæktər/",
+          "ex": [
+            "The reactor is inside a thick concrete building.",
+            "Engineers watch the reactor all day and night.",
+            "The new reactor will take years to build."
+          ]
+        },
+        {
+          "word": "nuclear fuel",
+          "def": "Material used in a reactor to make heat",
+          "ipa": "/ˈnukliər ˈfjuəl/",
+          "ex": [
+            "Nuclear fuel arrives in strong metal containers.",
+            "Used nuclear fuel must be stored safely.",
+            "Trucks with nuclear fuel travel with police cars."
+          ]
+        },
+        {
+          "word": "deadline",
+          "def": "The last day or time to finish something",
+          "ipa": "/ˈdɛdˌlaɪn/",
+          "ex": [
+            "The deadline for the report is Friday.",
+            "She worked late to meet the deadline.",
+            "Tax forms have a deadline in April."
+          ]
+        },
+        {
+          "word": "total cost",
+          "def": "The full amount of money something costs",
+          "ipa": "/ˈtoʊtəl kɔst/",
+          "ex": [
+            "The total cost of the trip was about $900.",
+            "Check the total cost before you pay.",
+            "The total cost of the new school is still rising."
+          ]
+        },
+        {
+          "word": "trial period",
+          "def": "A time when something is tested before full use",
+          "ipa": "/ˈtraɪəl ˈpɪriəd/",
+          "ex": [
+            "The gym offers a free trial period of one week.",
+            "New workers have a three-month trial period.",
+            "The app has a short trial period before you pay."
+          ]
+        },
+        {
+          "word": "disconnected",
+          "def": "No longer joined to a system or power",
+          "ipa": "/ˌdɪskəˈnɛktɪd/",
+          "ex": [
+            "Our phone was disconnected because we forgot to pay.",
+            "The printer is disconnected from the computer.",
+            "The old house was disconnected from the gas line."
+          ]
+        },
+        {
+          "word": "technical checks",
+          "def": "Tests to make sure machines work correctly",
+          "ipa": "/ˈtɛknɪkəl tʃɛks/",
+          "ex": [
+            "The plane waited for technical checks before takeoff.",
+            "The TV station ran technical checks before the show.",
+            "Every elevator needs technical checks each year."
+          ]
+        },
+        {
+          "word": "step by step",
+          "def": "Slowly, one stage at a time",
+          "ipa": "/stɛp baɪ stɛp/",
+          "ex": [
+            "The teacher explained the math problem step by step.",
+            "We painted the house step by step.",
+            "Follow the instructions step by step."
+          ]
+        },
+        {
+          "word": "pauses",
+          "def": "Short times when something stops",
+          "ipa": "/ˈpɔzɪz/",
+          "ex": [
+            "There were long pauses in the conversation.",
+            "The speaker took pauses to drink water.",
+            "The music has short pauses between songs."
+          ]
+        },
+        {
+          "word": "safety agency",
+          "def": "A government office that makes sure things are safe",
+          "ipa": "/ˈseɪfti ˈeɪdʒənsi/",
+          "ex": [
+            "The safety agency tested the new car seats.",
+            "A food safety agency checks restaurants.",
+            "The safety agency closed the old bridge."
+          ]
+        },
+        {
+          "word": "full power",
+          "def": "The most power a machine can make",
+          "ipa": "/fʊl ˈpaʊər/",
+          "ex": [
+            "The heater works best at full power.",
+            "The ship moved at full power across the bay.",
+            "Don't run the old fan at full power."
+          ]
+        },
+        {
+          "word": "shortages",
+          "def": "Times when there is not enough of something",
+          "ipa": "/ˈʃɔrtɪdʒɪz/",
+          "ex": [
+            "The storm caused water shortages in the town.",
+            "Hospitals face shortages of nurses.",
+            "Shortages of eggs made prices rise."
+          ]
+        },
+        {
+          "word": "imported",
+          "def": "Bought from another country",
+          "ipa": "/ɪmˈpɔrtɪd/",
+          "ex": [
+            "This store sells imported cheese.",
+            "Imported cars can be expensive.",
+            "Most of our bananas are imported."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Bangladesh sent power from its first nuclear plant into the national grid on November 17, 2026. Tests are still going on, and officials hope its first reactor will reach full power in early 2027.",
+          "a": true,
+          "why": "The plant was hooked up to the grid for the first time. Tests will go on, and the science minister hopes for full power by early February 2027."
+        },
+        {
+          "s": "Bangladesh's new nuclear plant now gives steady power to homes across the country every day. Officials say all testing is finished and that a second reactor will start working next month.",
+          "a": false,
+          "why": "Close, but the plant is only in a trial period. The reactor may shut down during tests, and the second reactor is planned for 2028."
+        },
+        {
+          "s": "Bangladesh has signed a deal with several countries to build large solar farms along its southern coast. These farms are meant to replace old gas plants by the end of the next ten years.",
+          "a": false,
+          "why": "No solar deal is described. The country's first nuclear power plant was hooked up to the national grid on November 17, 2026."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Bangladesh's first nuclear power plant was hooked up to the national grid.",
+          "a": true,
+          "why": "On November 17, 2026, the plant was hooked up to the grid and began sending electricity into it."
+        },
+        {
+          "s": "The plant is already running at full power all the time.",
+          "a": false,
+          "why": "The plant is in a trial period. The tests may go on through December and January."
+        },
+        {
+          "s": "Work on the nuclear power plant fell behind.",
+          "a": true,
+          "why": "The project fell behind, and its deadline is now June 2028."
+        },
+        {
+          "s": "Bangladesh built the plant alone, with no help from another country.",
+          "a": false,
+          "why": "It was built with help from Russia. Work on the plant kicked off in 2017."
+        },
+        {
+          "s": "A safety agency must sign off on each new step of the tests.",
+          "a": true,
+          "why": "Bangladesh's nuclear safety agency must sign off on each new step before the power ramps up."
+        },
+        {
+          "s": "The plant is meant to make Bangladesh use more imported fuel.",
+          "a": false,
+          "why": "The plant is expected to help the country cut down on imported fuel."
+        }
+      ]
+    },
+    {
       "id": "trump-xi-putin-meeting-2026",
       "number": 249,
       "headline": "Trump, Xi and Putin hold their first three-way meeting",
