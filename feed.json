@@ -2,6 +2,478 @@
   "updated": "2026-11-22",
   "stories": [
     {
+      "id": "palisades-fire-verdict-2026",
+      "number": 252,
+      "headline": "Man found guilty of starting the Palisades Fire",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n252-palisades-fire-verdict-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Federal jury convicts man of starting 2025 Palisades Fire (NPR)",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction"
+        },
+        {
+          "title": "Man convicted of starting Palisades fire in Los Angeles (BBC)",
+          "url": "https://www.bbc.com/news/articles/c64gn0gy8rj3o"
+        },
+        {
+          "title": "Man accused of sparking deadly Los Angeles wildfire found guilty (The Guardian)",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict"
+        },
+        {
+          "title": "Man accused of sparking deadly Palisades Fire found guilty of arson (CNN)",
+          "url": "https://www.cnn.com/2026/11/20/us/california-palisades-fire-trial-verdict"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 20, 2026, a [[jury]] in Los Angeles reached its [[verdict]] in the Palisades Fire case. A jury is a group of ordinary people who decide a [[trial]], a case in court. A verdict is their final decision. The jury found a 30-year-old man [[guilty]] of [[arson]], the crime of starting a fire [[on purpose]]. The January 2025 fire killed 12 people and {{burned down}} more than 6,800 buildings in Los Angeles and Malibu.",
+          "verbs": [
+            {
+              "display": "burned down",
+              "base": "burn down",
+              "correct": "To destroy a building completely with fire",
+              "wrong": "To light a building brightly for a party",
+              "correctFirst": true,
+              "why": "Wildfires burn down homes in dry places every summer. A candle left alone sometimes burns down a whole house. The January 2025 fire killed 12 people and burned down more than 6,800 buildings."
+            }
+          ]
+        },
+        {
+          "text": "[[Prosecutors]], the lawyers for the government, said the man started a small fire on a hill on January 1. Firefighters {{put out}} the flames. But the fire kept burning, unseen, in [[plant roots]] underground. On January 7, [[strong winds]] helped it {{break out}} again. He said he was [[innocent]]. His first trial, in June 2026, ended in a [[mistrial]], because the jury could not agree. Ten of the 12 thought he was not guilty.",
+          "verbs": [
+            {
+              "display": "put out",
+              "base": "put out",
+              "correct": "To stop a fire from burning",
+              "wrong": "To use a fire for cooking food",
+              "correctFirst": false,
+              "why": "Firefighters put out most kitchen fires in a few minutes. My dad puts out the campfire with a bucket of water. Firefighters put out the flames of the small fire on January 1, 2025."
+            },
+            {
+              "display": "break out",
+              "base": "break out",
+              "correct": "To start suddenly and strongly",
+              "wrong": "To become wet in the morning rain",
+              "correctFirst": true,
+              "why": "Fires break out often in hot, dry, windy weather. A fire sometimes breaks out when people cook with too much oil. On January 7, 2025, strong winds helped the hidden fire break out again."
+            }
+          ]
+        },
+        {
+          "text": "Prosecutors did not {{give up}}. At the [[retrial]], a new trial with a new jury, they {{laid out}} their [[evidence]], the facts used to prove a case. Photos showed his car below the hill. [[Cell phone tower]] data {{backed up}} their claim that he was on the hill. Their experts {{ruled out}} other causes, such as fireworks. His lawyer said fireworks may have caused it.",
+          "verbs": [
+            {
+              "display": "give up",
+              "base": "give up",
+              "correct": "To stop trying to do something",
+              "wrong": "To sing a song in a court",
+              "correctFirst": false,
+              "why": "Good students do not give up when a test is hard. She never gives up when her team is losing. Prosecutors did not give up after the first trial ended in a mistrial."
+            },
+            {
+              "display": "laid out",
+              "base": "lay out",
+              "correct": "To explain something clearly in detail",
+              "wrong": "To fold something into small squares",
+              "correctFirst": true,
+              "why": "A good teacher lays out the plan for the class on the first day. The coach lays out the rules before every game. At the retrial, prosecutors laid out their evidence against the man."
+            },
+            {
+              "display": "backed up",
+              "base": "back up",
+              "correct": "To show that something is true",
+              "wrong": "To send a message to many people",
+              "correctFirst": false,
+              "why": "Good reporters back up their stories with facts. Photos often back up what a witness says. Cell phone tower data backed up the prosecutors' claim that the man was on the hill."
+            },
+            {
+              "display": "ruled out",
+              "base": "rule out",
+              "correct": "To decide something is not possible",
+              "wrong": "To buy something at a low price",
+              "correctFirst": true,
+              "why": "Doctors rule out some illnesses with a simple blood test. The police rule out a person when the facts show he was far away. The prosecutors' experts ruled out other causes of the fire, such as fireworks."
+            }
+          ]
+        },
+        {
+          "text": "On the new jury, only one person first thought the man was not guilty. He {{came around}} after listening to every point. The man's [[sentence]], or [[punishment]], is scheduled for March 17, 2027. Each of his two crimes can mean 5 to 20 years in prison. His lawyer was [[disappointed]] but respected the jury. He said they will {{look into}} their options, including an [[appeal]], which asks a [[higher court]] to review the case. The city's mayor said no verdict can {{bring back}} the lives lost.",
+          "verbs": [
+            {
+              "display": "came around",
+              "base": "come around",
+              "correct": "To change your mind and agree",
+              "wrong": "To grow a long gray beard",
+              "correctFirst": false,
+              "why": "My parents often come around to my ideas after a long talk. He hates new music at first, but he usually comes around. One juror came around after listening to every point."
+            },
+            {
+              "display": "look into",
+              "base": "look into",
+              "correct": "To study something carefully",
+              "wrong": "To lock something in a box",
+              "correctFirst": true,
+              "why": "The school looks into every complaint from parents. My bank looks into strange charges on my card. The man's lawyer said they will look into all their options, including an appeal."
+            },
+            {
+              "display": "bring back",
+              "base": "bring back",
+              "correct": "To return something that is gone",
+              "wrong": "To paint something on a wall",
+              "correctFirst": false,
+              "why": "A new phone does not bring back deleted photos. Money never brings back lost time. The city's mayor said no verdict can bring back the lives lost in the fire."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Burn down",
+          "def": "To destroy a building completely with fire",
+          "ipa": "/bɝn daʊn/",
+          "ex": [
+            "A fire burned down the old school in 1990.",
+            "Lightning burned down the farmer's barn.",
+            "A kitchen fire almost burned down their cabin last summer."
+          ]
+        },
+        {
+          "verb": "Put out",
+          "def": "To stop a fire from burning",
+          "ipa": "/pʊt aʊt/",
+          "ex": [
+            "Firefighters put out the kitchen fire quickly.",
+            "Please put out the campfire before you leave.",
+            "It took two days to put out the forest fire."
+          ]
+        },
+        {
+          "verb": "Break out",
+          "def": "To start suddenly and strongly",
+          "ipa": "/breɪk aʊt/",
+          "ex": [
+            "A fire broke out in an apartment building last night.",
+            "Fires often break out during hot, dry summers.",
+            "Nobody knows how the fire broke out."
+          ]
+        },
+        {
+          "verb": "Give up",
+          "def": "To stop trying to do something",
+          "ipa": "/ɡɪv ʌp/",
+          "ex": [
+            "Don't give up just because it's hard.",
+            "She gave up after three tries.",
+            "The team never gave up, even when it was losing."
+          ]
+        },
+        {
+          "verb": "Lay out",
+          "def": "To explain something clearly in detail",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "The manager laid out the plan at the meeting.",
+            "Can you lay out the facts for me?",
+            "The report lays out the problem clearly."
+          ]
+        },
+        {
+          "verb": "Back up",
+          "def": "To show that something is true",
+          "ipa": "/bæk ʌp/",
+          "ex": [
+            "Do you have any facts to back up that claim?",
+            "The video backed up her story.",
+            "Scientists back up their ideas with tests."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To decide something is not possible",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The doctor ruled out a broken bone.",
+            "Police have not ruled out other suspects.",
+            "We can't rule out rain tomorrow."
+          ]
+        },
+        {
+          "verb": "Come around",
+          "def": "To change your mind and agree",
+          "ipa": "/kʌm əˈraʊnd/",
+          "ex": [
+            "Dad didn't like the idea at first, but he came around.",
+            "She will come around once she hears the whole plan.",
+            "It took a while, but my boss came around to my way of thinking."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study something carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The company will look into your complaint.",
+            "Police are looking into the cause of the crash.",
+            "I'll look into cheaper flights for our trip."
+          ]
+        },
+        {
+          "verb": "Bring back",
+          "def": "To return something that is gone",
+          "ipa": "/brɪŋ bæk/",
+          "ex": [
+            "No apology can bring back the time we lost.",
+            "Doctors could not bring back his sight.",
+            "Fixing the road will not bring back the shops that closed."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "jury",
+          "def": "A group of ordinary people who listen to a trial and decide the result",
+          "ipa": "/ˈdʒʊri/",
+          "ex": [
+            "She was called to serve on a jury in her city.",
+            "The jury listened to both sides for two weeks.",
+            "A jury usually has twelve people."
+          ]
+        },
+        {
+          "word": "verdict",
+          "def": "The final decision of a jury at the end of a trial",
+          "ipa": "/ˈvɝdɪkt/",
+          "ex": [
+            "The room was very quiet before the verdict.",
+            "The verdict surprised many people in the town.",
+            "The jury needed three days to reach a verdict."
+          ]
+        },
+        {
+          "word": "trial",
+          "def": "A meeting in a court to decide if a person did a crime",
+          "ipa": "/ˈtraɪəl/",
+          "ex": [
+            "The trial lasted two weeks.",
+            "Ten people spoke at the trial.",
+            "Her trial will start in the spring."
+          ]
+        },
+        {
+          "word": "guilty",
+          "def": "Having done a crime, as decided by a court",
+          "ipa": "/ˈɡɪlti/",
+          "ex": [
+            "The driver was found guilty of driving too fast.",
+            "If he is guilty, he will pay a large fine.",
+            "Nobody believed she was guilty of stealing."
+          ]
+        },
+        {
+          "word": "arson",
+          "def": "The crime of starting a fire on purpose to damage property",
+          "ipa": "/ˈɑrsən/",
+          "ex": [
+            "Police think the empty store was a target of arson.",
+            "Arson is a serious crime in every state.",
+            "Fire investigators found signs of arson in the garage."
+          ]
+        },
+        {
+          "word": "on purpose",
+          "def": "Done because you wanted to, not by accident",
+          "ipa": "/ɑn ˈpɝpəs/",
+          "ex": [
+            "He broke the window on purpose.",
+            "I didn't step on your foot on purpose.",
+            "She left early on purpose to miss the traffic."
+          ]
+        },
+        {
+          "word": "Prosecutors",
+          "def": "Lawyers who work for the government and try to prove that someone did a crime",
+          "ipa": "/ˈprɑsəˌkjutərz/",
+          "ex": [
+            "Prosecutors asked the judge for a long prison term.",
+            "Prosecutors showed the jury a video from the bank.",
+            "The prosecutors said they had a strong case."
+          ]
+        },
+        {
+          "word": "plant roots",
+          "def": "The parts of a plant that grow under the ground",
+          "ipa": "/plænt ruts/",
+          "ex": [
+            "Plant roots take water from the soil.",
+            "Strong plant roots can break a sidewalk.",
+            "Plant roots hold the soil in place during heavy rain."
+          ]
+        },
+        {
+          "word": "strong winds",
+          "def": "Winds that blow very hard and fast",
+          "ipa": "/strɔŋ wɪndz/",
+          "ex": [
+            "Strong winds broke several trees on our street.",
+            "The flight was late because of strong winds.",
+            "Strong winds make wildfires much harder to fight."
+          ]
+        },
+        {
+          "word": "innocent",
+          "def": "Not guilty of a crime",
+          "ipa": "/ˈɪnəsənt/",
+          "ex": [
+            "The man in jail says he is innocent.",
+            "New tests showed that she was innocent.",
+            "A person is innocent until a court decides otherwise."
+          ]
+        },
+        {
+          "word": "mistrial",
+          "def": "A trial that ends with no result, often because the jury cannot agree",
+          "ipa": "/ˈmɪsˌtraɪəl/",
+          "ex": [
+            "The judge declared a mistrial after the jury could not agree.",
+            "A mistrial means the case may start again.",
+            "The mistrial was a surprise to both lawyers."
+          ]
+        },
+        {
+          "word": "retrial",
+          "def": "A new trial for the same case, often with a new jury",
+          "ipa": "/ˈriˌtraɪəl/",
+          "ex": [
+            "The retrial will begin in the spring.",
+            "Her lawyer asked the court for a retrial.",
+            "The retrial had a completely new jury."
+          ]
+        },
+        {
+          "word": "evidence",
+          "def": "Facts, objects or words that help show what is true in a court",
+          "ipa": "/ˈɛvədəns/",
+          "ex": [
+            "The police found new evidence in the car.",
+            "There was not enough evidence to charge him.",
+            "The video was the most important evidence in the case."
+          ]
+        },
+        {
+          "word": "Cell phone tower",
+          "def": "A tall tower that sends and receives signals for cell phones",
+          "ipa": "/sɛl foʊn ˈtaʊər/",
+          "ex": [
+            "A new cell phone tower was built near our school.",
+            "My phone has a weak signal far from a cell phone tower.",
+            "The cell phone tower stands on top of the hill."
+          ]
+        },
+        {
+          "word": "sentence",
+          "def": "The punishment a judge gives to a person found guilty",
+          "ipa": "/ˈsɛntəns/",
+          "ex": [
+            "The judge gave him a sentence of two years in prison.",
+            "Her sentence was shorter than people expected.",
+            "He finished his sentence and went home."
+          ]
+        },
+        {
+          "word": "punishment",
+          "def": "Something bad that happens to a person because they did something wrong",
+          "ipa": "/ˈpʌnɪʃmənt/",
+          "ex": [
+            "The punishment for stealing can be prison.",
+            "As a punishment, he could not use his phone for a week.",
+            "Many people thought the punishment was too light."
+          ]
+        },
+        {
+          "word": "disappointed",
+          "def": "Sad because something did not happen the way you wanted",
+          "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+          "ex": [
+            "I was disappointed when the concert was canceled.",
+            "The coach was disappointed with the score.",
+            "She felt disappointed after the job interview."
+          ]
+        },
+        {
+          "word": "appeal",
+          "def": "A request to a higher court to change a court's decision",
+          "ipa": "/əˈpil/",
+          "ex": [
+            "The company lost its appeal last month.",
+            "His lawyers have 30 days to file an appeal.",
+            "The appeal could take more than a year."
+          ]
+        },
+        {
+          "word": "higher court",
+          "def": "A court that can check and change the decisions of a lower court",
+          "ipa": "/ˈhaɪər kɔrt/",
+          "ex": [
+            "The case went to a higher court in the state capital.",
+            "A higher court agreed with the first judge.",
+            "Only a higher court can change that decision."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A jury found a man guilty of arson for the fire that became the deadly Palisades Fire. Its verdict came at a second trial, because the first jury could not agree on whether he was guilty.",
+          "a": true,
+          "why": "The jury found him guilty of arson at the retrial. His first trial ended in a mistrial, but prosecutors did not give up."
+        },
+        {
+          "s": "At his first trial in June 2026, a man was found guilty of setting a huge fire near the coast. A judge then gave him 20 years in prison, and his lawyers have already filed an appeal.",
+          "a": false,
+          "why": "Close, but the first trial ended in a mistrial. The guilty verdict came at the retrial, his sentence comes in March 2027, and his lawyers only said they will look into an appeal."
+        },
+        {
+          "s": "Builders in Los Angeles have finished new homes for families who lost houses in the January 2025 wildfires. City officials say thousands of people will return to their neighborhoods by spring.",
+          "a": false,
+          "why": "This story is about a court decision. A jury found a man guilty of starting the fire that burned down more than 6,800 buildings."
+        }
+      ],
+      "tf": [
+        {
+          "s": "A jury found the man guilty of starting the Palisades Fire.",
+          "a": true,
+          "why": "The jury found him guilty of arson. The fire killed 12 people and burned down more than 6,800 buildings."
+        },
+        {
+          "s": "The Palisades Fire was a new fire with no link to the first small fire.",
+          "a": false,
+          "why": "It was the same fire. It kept burning in plant roots under the ground and broke out again on January 7."
+        },
+        {
+          "s": "At the first trial, the jury found the man guilty.",
+          "a": false,
+          "why": "The first trial ended in a mistrial because the jury could not agree. Prosecutors did not give up, so the case went to a new trial."
+        },
+        {
+          "s": "At the retrial, prosecutors laid out evidence that he was on the hill.",
+          "a": true,
+          "why": "Photos showed his car below the hill, and cell phone tower data backed up their claim."
+        },
+        {
+          "s": "The prosecutors' experts said that fireworks started the fire.",
+          "a": false,
+          "why": "The prosecutors' experts ruled out other causes, such as fireworks. It was the man's lawyer who said fireworks may have caused it."
+        },
+        {
+          "s": "The man's lawyer said they will look into an appeal and other options.",
+          "a": true,
+          "why": "His lawyer was disappointed but respected the jury. An appeal asks a higher court to review the case."
+        }
+      ]
+    },
+    {
       "id": "png-drought-crisis-2026",
       "number": 251,
       "headline": "Papua New Guinea families run short of food and water",
