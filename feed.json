@@ -1,6 +1,514 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "stories": [
+    {
+      "id": "png-drought-crisis-2026",
+      "number": 251,
+      "headline": "Papua New Guinea families run short of food and water",
+      "badge": "World",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n251-png-drought-crisis-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "El Niño-driven drought in Papua New Guinea a 'national crisis' as rivers dry up and local farms fail (The Guardian)",
+          "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea"
+        },
+        {
+          "title": "From drought to deluge: 'Super' El Niño's expanding reach (UN News)",
+          "url": "https://news.un.org/en/story/2026/10/1168537"
+        },
+        {
+          "title": "PNG faces crisis due to impacts of El Niño, sends warning to rest of Pacific (PINA)",
+          "url": "https://pina.com.fj/2026/10/21/png-faces-crisis-due-to-impacts-of-el-nino-sends-warning-to-rest-of-pacific/"
+        },
+        {
+          "title": "Starvation fears as water sources dry up (The National)",
+          "url": "https://www.thenational.com.pg/starvation-fears-as-water-sources-dry-up/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "In the mountains of Papua New Guinea, a Pacific island country north of Australia, many families are [[skipping meals]]. A long [[drought]], a time with very little rain, has {{set in}}. Rivers and [[creeks]] have {{dried up}}. Family [[food gardens]], small farms that grow most of their food, are failing. A manager at a large international [[aid group]] says some families have {{cut back}} to one meal a day.",
+          "verbs": [
+            {
+              "display": "set in",
+              "base": "set in",
+              "correct": "To begin and seem likely to last",
+              "wrong": "To be measured by weather experts",
+              "correctFirst": true,
+              "why": "Winter sets in early in the mountains. Cold weather often sets in by late October. In Papua New Guinea, a long drought has set in."
+            },
+            {
+              "display": "dried up",
+              "base": "dry up",
+              "correct": "To have no water left at all",
+              "wrong": "To change direction toward the sea",
+              "correctFirst": false,
+              "why": "Small streams dry up every summer. The pond behind our school dries up when it does not rain. Rivers and creeks in Papua New Guinea have dried up."
+            },
+            {
+              "display": "cut back",
+              "base": "cut back",
+              "correct": "To eat or use less than before",
+              "wrong": "To share food with neighbors",
+              "correctFirst": true,
+              "why": "When money is short, my family cuts back to one coffee a day. Many students cut back to two meals a day before payday. A manager at a large international aid group says some families have cut back to one meal a day."
+            }
+          ]
+        },
+        {
+          "text": "The drought is linked to El Niño, a natural warming of the Pacific Ocean that changes weather. Some areas have had less than a quarter of their usual rain since August, the Guardian reported on October 30. As many as 8 million people are [[affected]], the weather service says. The UN says 1.2 million people need [[food aid]]. Food prices are {{going up}}. In the high mountains, [[frosts]] have also {{wiped out}} sweet potato crops, officials say.",
+          "verbs": [
+            {
+              "display": "going up",
+              "base": "go up",
+              "correct": "To become more expensive",
+              "wrong": "To be sold in local markets",
+              "correctFirst": false,
+              "why": "Bus fares go up every January. The price of fruit goes up when the weather is bad. Food prices in Papua New Guinea are going up."
+            },
+            {
+              "display": "wiped out",
+              "base": "wipe out",
+              "correct": "To destroy something completely",
+              "wrong": "To cover plants to keep them warm",
+              "correctFirst": true,
+              "why": "A single storm often wipes out a farmer's whole crop. Hungry insects wipe out the corn in some years. In the high mountains of Papua New Guinea, frosts have wiped out sweet potato crops."
+            }
+          ]
+        },
+        {
+          "text": "One mother says she and her children {{head out}} every afternoon to walk miles for water. Schools and [[health centers]] open for only half a day, a resident says. Without water, some clinics {{turn away}} patients who need overnight care. Rivers are too low for boats, so some [[remote]] villages are {{cut off}}. The capital's electricity is made at [[dams]], and their water is low. So the power company has planned [[blackouts]]. They could {{drag on}} for up to 10 months.",
+          "verbs": [
+            {
+              "display": "head out",
+              "base": "head out",
+              "correct": "To leave to go somewhere",
+              "wrong": "To wait in line at a well",
+              "correctFirst": false,
+              "why": "We head out at seven every morning. My neighbor heads out to the store after lunch. One mother and her children head out every afternoon to walk miles for water."
+            },
+            {
+              "display": "turn away",
+              "base": "turn away",
+              "correct": "To refuse to accept someone",
+              "wrong": "To give someone free medicine",
+              "correctFirst": true,
+              "why": "The restaurant turns away people without a reservation. The shelter never turns away a hungry person. Without water, some clinics turn away patients who need overnight care."
+            },
+            {
+              "display": "cut off",
+              "base": "cut off",
+              "correct": "To separate a place from others",
+              "wrong": "To bring water to a place by boat",
+              "correctFirst": false,
+              "why": "Deep snow often cuts off the mountain town in winter. A flood sometimes cuts off our street from the main road. Rivers are too low for boats, so some remote villages are cut off."
+            },
+            {
+              "display": "drag on",
+              "base": "drag on",
+              "correct": "To last longer than people want",
+              "wrong": "To start again after a short stop",
+              "correctFirst": true,
+              "why": "Long meetings often drag on past dinner time. The rainy season sometimes drags on into June. The blackouts in the capital could drag on for up to 10 months."
+            }
+          ]
+        },
+        {
+          "text": "The government has [[declared]] a national [[humanitarian crisis]]. It has {{set up}} a [[task force]], a team for one urgent job. It says it approved a [[support package]] of 1.65 billion kina, about 370 million U.S. dollars. The prime minister has told provinces to {{gear up}} for a long [[dry season]]. Churches, [[labor unions]] and business groups have {{spoken out}}. They say there is no clear plan to protect people most [[at risk]].",
+          "verbs": [
+            {
+              "display": "set up",
+              "base": "set up",
+              "correct": "To create a new group",
+              "wrong": "To send a team abroad",
+              "correctFirst": false,
+              "why": "Many towns set up a special team after a big storm. Schools often set up a club for new students. The government has set up a task force for the drought."
+            },
+            {
+              "display": "gear up",
+              "base": "gear up",
+              "correct": "To get ready for something",
+              "wrong": "To request money for something",
+              "correctFirst": true,
+              "why": "Stores gear up for the holidays in October. Farmers gear up for the harvest every fall. The prime minister has told provinces to gear up for a long dry season."
+            },
+            {
+              "display": "spoken out",
+              "base": "speak out",
+              "correct": "To say strongly and publicly what you think",
+              "wrong": "To collect money for poor families",
+              "correctFirst": false,
+              "why": "Some teachers speak out when a school rule is unfair. Doctors often speak out about the dangers of smoking. Churches, labor unions and business groups have spoken out about the drought."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Set in",
+          "def": "To begin and seem likely to last",
+          "ipa": "/sɛt ɪn/",
+          "ex": [
+            "The rain set in just as we started our picnic.",
+            "Once winter sets in, the roads get icy.",
+            "Panic set in when the power failed at the concert."
+          ]
+        },
+        {
+          "verb": "Dry up",
+          "def": "To have no water left at all",
+          "ipa": "/draɪ ʌp/",
+          "ex": [
+            "The lake behind our house dried up during the heat wave.",
+            "Without rain, the farm's well may dry up.",
+            "The creek near the trail dries up every August."
+          ]
+        },
+        {
+          "verb": "Cut back",
+          "def": "To eat or use less than before",
+          "ipa": "/kʌt bæk/",
+          "ex": [
+            "We cut back to one car when gas got expensive.",
+            "My doctor told me to cut back to one cup of coffee a day.",
+            "After losing his job, he cut back to the cheapest phone plan."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become more expensive",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "Rent goes up a little every year in our city.",
+            "The price of eggs went up again in March.",
+            "Ticket prices will go up after Friday."
+          ]
+        },
+        {
+          "verb": "Wipe out",
+          "def": "To destroy something completely",
+          "ipa": "/waɪp aʊt/",
+          "ex": [
+            "The fire wiped out half of the forest.",
+            "A bad flood wiped out the town's only bridge.",
+            "One mistake wiped out all of his savings."
+          ]
+        },
+        {
+          "verb": "Head out",
+          "def": "To leave to go somewhere",
+          "ipa": "/hɛd aʊt/",
+          "ex": [
+            "We should head out before it gets dark.",
+            "She headed out to the gym after work.",
+            "What time do you want to head out tomorrow?"
+          ]
+        },
+        {
+          "verb": "Turn away",
+          "def": "To refuse to accept someone",
+          "ipa": "/tɝn əˈweɪ/",
+          "ex": [
+            "The club turned us away because it was full.",
+            "The school had to turn away some new students this fall.",
+            "Hundreds of fans were turned away at the gate."
+          ]
+        },
+        {
+          "verb": "Cut off",
+          "def": "To separate a place from others",
+          "ipa": "/kʌt ɔf/",
+          "ex": [
+            "The storm cut off the island for three days.",
+            "A fallen tree cut off the only road to the farm.",
+            "High water can cut off the village from the nearest town."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To last longer than people want",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The trial dragged on for two years.",
+            "I hope this meeting doesn't drag on much longer.",
+            "The cold weather dragged on well into April."
+          ]
+        },
+        {
+          "verb": "Set up",
+          "def": "To create a new group",
+          "ipa": "/sɛt ʌp/",
+          "ex": [
+            "The mayor set up a committee to study traffic.",
+            "Parents set up a group to help the school library.",
+            "Our company set up a team to answer customer emails."
+          ]
+        },
+        {
+          "verb": "Gear up",
+          "def": "To get ready for something",
+          "ipa": "/ɡɪr ʌp/",
+          "ex": [
+            "The team is gearing up for the big game.",
+            "Shops gear up for back-to-school sales in August.",
+            "The city is gearing up for a huge snowstorm."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say strongly and publicly what you think",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "She spoke out about safety problems at her factory.",
+            "More parents are speaking out about school lunches.",
+            "He was afraid to speak out at the meeting."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "skipping meals",
+          "def": "Not eating a meal that you would usually eat",
+          "ipa": "/ˈskɪpɪŋ milz/",
+          "ex": [
+            "Skipping meals can make you feel tired.",
+            "He is skipping meals to save money for rent.",
+            "Doctors warn students against skipping meals before exams."
+          ]
+        },
+        {
+          "word": "drought",
+          "def": "A long time with little or no rain",
+          "ipa": "/draʊt/",
+          "ex": [
+            "The drought killed most of the grass in our yard.",
+            "Farmers lost their crops during the drought.",
+            "Some states have water rules during a drought."
+          ]
+        },
+        {
+          "word": "creeks",
+          "def": "Small, narrow streams of water",
+          "ipa": "/kriks/",
+          "ex": [
+            "The kids like to catch frogs in the creeks near camp.",
+            "Two creeks meet just behind the old mill.",
+            "After the storm, the creeks were full and fast."
+          ]
+        },
+        {
+          "word": "food gardens",
+          "def": "Small pieces of land where families grow food to eat",
+          "ipa": "/fud ˈɡɑrdənz/",
+          "ex": [
+            "Many schools now have food gardens for students.",
+            "The neighbors share tomatoes from their food gardens.",
+            "Food gardens help families save money at the store."
+          ]
+        },
+        {
+          "word": "aid group",
+          "def": "A group that helps people in a disaster or in great need",
+          "ipa": "/eɪd ɡrup/",
+          "ex": [
+            "An aid group brought blankets to the shelter.",
+            "My cousin works for an aid group in Africa.",
+            "The aid group gives clean water to families after floods."
+          ]
+        },
+        {
+          "word": "affected",
+          "def": "Harmed or changed by something",
+          "ipa": "/əˈfɛktɪd/",
+          "ex": [
+            "Thousands of homes were affected by the storm.",
+            "The new rule affected every worker in the company.",
+            "Children are often the most affected by bad news at home."
+          ]
+        },
+        {
+          "word": "food aid",
+          "def": "Free food given to people who do not have enough",
+          "ipa": "/fud eɪd/",
+          "ex": [
+            "The town handed food aid to families after the flood.",
+            "Food aid arrived by plane in the remote area.",
+            "Many countries send food aid during a disaster."
+          ]
+        },
+        {
+          "word": "frosts",
+          "def": "Thin ice that forms on plants on very cold nights",
+          "ipa": "/frɔsts/",
+          "ex": [
+            "Early frosts damaged the apple trees last spring.",
+            "Hard frosts can kill young plants in the garden.",
+            "Light frosts are common here in early October."
+          ]
+        },
+        {
+          "word": "health centers",
+          "def": "Small places where people get basic medical care",
+          "ipa": "/hɛlθ ˈsɛntərz/",
+          "ex": [
+            "The town has two health centers but no hospital.",
+            "Health centers give free flu shots in the fall.",
+            "She works as a nurse at one of the city's health centers."
+          ]
+        },
+        {
+          "word": "remote",
+          "def": "Far away from towns and cities",
+          "ipa": "/rɪˈmoʊt/",
+          "ex": [
+            "They live on a remote farm with no neighbors.",
+            "The phone signal is weak in remote areas.",
+            "Doctors sometimes fly to remote villages."
+          ]
+        },
+        {
+          "word": "dams",
+          "def": "Walls built across rivers to store water, often to make electricity",
+          "ipa": "/dæmz/",
+          "ex": [
+            "The dams on this river make electricity for the whole valley.",
+            "Water poured over the dams after the heavy rain.",
+            "Some dams store water for farms and cities."
+          ]
+        },
+        {
+          "word": "blackouts",
+          "def": "Times when there is no electricity in an area",
+          "ipa": "/ˈblækˌaʊts/",
+          "ex": [
+            "Summer heat sometimes causes blackouts in the city.",
+            "We keep candles at home for blackouts.",
+            "The storm caused blackouts across three states."
+          ]
+        },
+        {
+          "word": "declared",
+          "def": "Said officially and in public",
+          "ipa": "/dɪˈklɛrd/",
+          "ex": [
+            "The governor declared a state of emergency.",
+            "The judge declared the man not guilty.",
+            "The city declared Friday a holiday."
+          ]
+        },
+        {
+          "word": "humanitarian crisis",
+          "def": "A situation where many people need help to stay alive and safe",
+          "ipa": "/hjuˌmænɪˈtɛriən ˈkraɪsɪs/",
+          "ex": [
+            "The war caused a humanitarian crisis in the region.",
+            "Aid groups warned of a humanitarian crisis after the earthquake.",
+            "Leaders met to talk about the humanitarian crisis."
+          ]
+        },
+        {
+          "word": "task force",
+          "def": "A group of people chosen to deal with one problem",
+          "ipa": "/tæsk fɔrs/",
+          "ex": [
+            "The mayor formed a task force on homelessness.",
+            "A task force will study the safety of the bridge.",
+            "She was asked to join the school's task force on bullying."
+          ]
+        },
+        {
+          "word": "support package",
+          "def": "A plan of money and help for people in trouble",
+          "ipa": "/səˈpɔrt ˈpækɪdʒ/",
+          "ex": [
+            "The state approved a support package for small farms.",
+            "Workers who lost jobs got a support package.",
+            "The support package helps families pay their bills."
+          ]
+        },
+        {
+          "word": "dry season",
+          "def": "The part of the year when there is very little rain",
+          "ipa": "/draɪ ˈsizən/",
+          "ex": [
+            "Fires are common in the dry season.",
+            "The roads are easier to drive in the dry season.",
+            "Tourists often visit during the dry season."
+          ]
+        },
+        {
+          "word": "labor unions",
+          "def": "Groups of workers who join together to protect their rights",
+          "ipa": "/ˈleɪbər ˈjunjənz/",
+          "ex": [
+            "Labor unions asked for higher pay for nurses.",
+            "Many factory workers belong to labor unions.",
+            "The labor unions met with the company's leaders."
+          ]
+        },
+        {
+          "word": "at risk",
+          "def": "In danger of being harmed",
+          "ipa": "/æt rɪsk/",
+          "ex": [
+            "Older people are more at risk in very hot weather.",
+            "Homes near the river are at risk of flooding.",
+            "Smoking puts your health at risk."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "A drought linked to El Niño has dried up rivers and family farms across Papua New Guinea. Families now eat less, and schools, clinics and the power supply all struggle without enough water.",
+          "a": true,
+          "why": "Rivers and creeks have dried up and food gardens are failing. Some families have cut back to one meal a day, and clinics turn away some patients."
+        },
+        {
+          "s": "Papua New Guinea faces a serious lack of rain, and many villages are short of food and water. Aid groups say officials have done nothing, so churches now lead the whole national response.",
+          "a": false,
+          "why": "Close, but the government has declared a crisis and set up a task force. A group of churches and unions has spoken out, saying the plan is not clear."
+        },
+        {
+          "s": "Heavy rain from El Niño has flooded the capital of Papua New Guinea. Thousands of families left their homes as the water rose, and the main airport closed for several days for repairs.",
+          "a": false,
+          "why": "Papua New Guinea faces a long drought, not floods. Rivers have dried up, and food prices are going up across the country."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Rivers and creeks have dried up in many parts of Papua New Guinea.",
+          "a": true,
+          "why": "A long drought has set in, and rivers and creeks have dried up."
+        },
+        {
+          "s": "Some families have cut back to one meal a day.",
+          "a": true,
+          "why": "A manager at an aid group says some families now eat only one meal a day."
+        },
+        {
+          "s": "Food prices are going down because of the drought.",
+          "a": false,
+          "why": "Food prices are going up, and hard frosts have wiped out some crops in high areas."
+        },
+        {
+          "s": "A lack of water has made some clinics turn away patients.",
+          "a": true,
+          "why": "Some clinics turn away patients who need to stay overnight because they do not have enough water."
+        },
+        {
+          "s": "The government has not set up any team to deal with the drought.",
+          "a": false,
+          "why": "The government has set up a task force and approved a large support package."
+        },
+        {
+          "s": "A group of churches and business groups says the national plan is very clear.",
+          "a": false,
+          "why": "The group has spoken out and says there is no clear plan to protect the people most at risk."
+        }
+      ]
+    },
     {
       "id": "bangladesh-first-nuclear-power-2026",
       "number": 250,
