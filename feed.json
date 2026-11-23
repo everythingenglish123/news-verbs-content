@@ -2,6 +2,456 @@
   "updated": "2026-11-23",
   "stories": [
     {
+      "id": "cop31-no-deal-2026",
+      "number": 255,
+      "headline": "World climate talks in Turkey end without a deal",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n255-cop31-no-deal-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows (BBC)",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+        },
+        {
+          "title": "Global climate summit collapses as countries fail to agree on moving away from fossil fuels (CNN)",
+          "url": "https://www.cnn.com/2026/11/22/climate/cop31-summit-collapses-in-fossil-fuel-failure"
+        },
+        {
+          "title": "Climate change talks fall apart in final hours over fossil fuels (NPR)",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
+        },
+        {
+          "title": "U.N. COP31 climate conference ends with no agreement after fossil fuel debate reaches standstill (CBS News)",
+          "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 22, 2026, nearly 200 countries at a United Nations [[climate summit]] failed to agree on a main deal to fight climate change. Turkey hosted it on its [[southern coast]], and Australia led the [[negotiations]], or talks. The talks were due to {{wrap up}} on November 20. They {{dragged on}} for two more days, a record for these summits. They {{fell apart}} over two questions.",
+          "verbs": [
+            {
+              "display": "wrap up",
+              "base": "wrap up",
+              "correct": "To finish something, like a meeting",
+              "wrong": "To pay the bill for a meeting",
+              "correctFirst": true,
+              "why": "Our team meetings wrap up at noon on Fridays. The school play wraps up with a song from every class. The climate talks were due to wrap up on Friday, November 20, 2026."
+            },
+            {
+              "display": "dragged on",
+              "base": "drag on",
+              "correct": "To last longer than expected",
+              "wrong": "To end with a group photo",
+              "correctFirst": false,
+              "why": "Long meetings often drag on past dinner time. The rainy season sometimes drags on into June. The climate talks in Turkey dragged on for two more days."
+            },
+            {
+              "display": "fell apart",
+              "base": "fall apart",
+              "correct": "To fail completely",
+              "wrong": "To fill a big hall",
+              "correctFirst": true,
+              "why": "Many plans fall apart when nobody agrees on money. Some business deals fall apart when one side asks for more. In the end, the climate talks fell apart over fossil fuels and money."
+            }
+          ]
+        },
+        {
+          "text": "The first was [[fossil fuels]]: coal, oil and gas. Burning them is the main cause of [[global warming]]. An early version of the deal said the world should {{phase out}} fossil fuels, or slowly stop using them. Some [[oil-producing countries]] {{pushed back}}. Russia, one of them, said dropping these fuels fast would make energy too expensive. Later versions {{left out}} the words \"fossil fuels.\" So the European Union and Pacific island nations [[rejected]] the final version. The European Union's two lead [[officials]] {{walked out}}, one report said.",
+          "verbs": [
+            {
+              "display": "phase out",
+              "base": "phase out",
+              "correct": "To slowly stop using something",
+              "wrong": "To give something a new name",
+              "correctFirst": false,
+              "why": "Many cities phase out old buses over several years. Some schools phase out paper books and use tablets. An early version of the deal said the world should phase out fossil fuels."
+            },
+            {
+              "display": "pushed back",
+              "base": "push back",
+              "correct": "To oppose an idea strongly",
+              "wrong": "To grow food for the summit",
+              "correctFirst": true,
+              "why": "Workers often push back when a company cuts their pay. Parents push back when a school plans longer days. Some oil-producing countries pushed back against the early version."
+            },
+            {
+              "display": "left out",
+              "base": "leave out",
+              "correct": "To not include something",
+              "wrong": "To make something louder",
+              "correctFirst": false,
+              "why": "Short news reports often leave out small details. My recipe leaves out sugar for a healthier cake. Later versions of the deal left out any mention of fossil fuels."
+            },
+            {
+              "display": "walked out",
+              "base": "walk out",
+              "correct": "To leave a meeting to show you disagree",
+              "wrong": "To become a new member country",
+              "correctFirst": true,
+              "why": "Some workers walk out of a meeting when they feel ignored. Students sometimes walk out of class to protest a new rule. The European Union's two lead officials walked out over the final version."
+            }
+          ]
+        },
+        {
+          "text": "The second was money. Poorer countries face more [[heat waves]] and [[droughts]], long periods with no rain. They wanted rich countries to {{step up}} and pay to help them [[adapt]] to hotter weather. At the 2025 summit, countries agreed to [[triple]] that money. But the final version gave no clear numbers. Every country must agree on a deal, a rule called [[consensus]]. So if even one country {{holds out}}, there is no deal. The talks last failed like this in 2009.",
+          "verbs": [
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To do more to help",
+              "wrong": "To build a bigger hall",
+              "correctFirst": false,
+              "why": "Neighbors often step up when a family needs help. Big companies step up after a storm with food and water. Poorer countries wanted rich countries to step up and pay to help them adapt."
+            },
+            {
+              "display": "holds out",
+              "base": "hold out",
+              "correct": "To keep saying no to a deal",
+              "wrong": "To sign a deal for others",
+              "correctFirst": true,
+              "why": "Some workers hold out for better pay before they sign a contract. A few buyers hold out until the price drops. At these summits, if even one country holds out, there is no deal."
+            }
+          ]
+        },
+        {
+          "text": "The head of the United Nations said he was \"[[deeply disappointed]].\" Countries still made progress on smaller plans, such as help for workers as countries move to [[clean energy]]. The United Nations' top climate official said he would {{look into}} changing how the summits make decisions. He said they have had problems before and {{come back}} stronger. The next summit is in Ethiopia in November 2027.",
+          "verbs": [
+            {
+              "display": "look into",
+              "base": "look into",
+              "correct": "To study something carefully",
+              "wrong": "To send something by mail",
+              "correctFirst": false,
+              "why": "The city looks into every complaint about noisy roads. My doctor looks into the reason when I feel tired. The United Nations' top climate official said he would look into changing how the summits make decisions."
+            },
+            {
+              "display": "come back",
+              "base": "come back",
+              "correct": "To recover after a hard time",
+              "wrong": "To hold a meeting online",
+              "correctFirst": true,
+              "why": "Many small towns come back after a big flood. Some sports teams come back stronger after a bad year. The climate official said the summits have had problems before and come back stronger."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Wrap up",
+          "def": "To finish something, like a meeting",
+          "ipa": "/ræp ʌp/",
+          "ex": [
+            "Let's wrap up the meeting by five.",
+            "The teacher wrapped up the lesson with a short quiz.",
+            "The festival wraps up on Sunday night."
+          ]
+        },
+        {
+          "verb": "Drag on",
+          "def": "To last longer than expected",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The movie dragged on for three hours.",
+            "The court case dragged on for years.",
+            "Winter always seems to drag on in Chicago."
+          ]
+        },
+        {
+          "verb": "Fall apart",
+          "def": "To fail completely",
+          "ipa": "/fɔl əˈpɑrt/",
+          "ex": [
+            "Their wedding plans fell apart after the hotel closed.",
+            "The deal fell apart over the price.",
+            "The team's season fell apart after its best player got hurt."
+          ]
+        },
+        {
+          "verb": "Phase out",
+          "def": "To slowly stop using something",
+          "ipa": "/feɪz aʊt/",
+          "ex": [
+            "The company will phase out its old phones next year.",
+            "Many stores are phasing out plastic bags.",
+            "The state plans to phase out gas cars by 2035."
+          ]
+        },
+        {
+          "verb": "Push back",
+          "def": "To oppose an idea strongly",
+          "ipa": "/pʊʃ bæk/",
+          "ex": [
+            "Teachers pushed back against the new rules.",
+            "Many drivers pushed back when the city raised parking prices.",
+            "If you don't like the plan, push back."
+          ]
+        },
+        {
+          "verb": "Leave out",
+          "def": "To not include something",
+          "ipa": "/liv aʊt/",
+          "ex": [
+            "Don't leave out any important facts.",
+            "She left out the onions because her son hates them.",
+            "The list left out two of the best players."
+          ]
+        },
+        {
+          "verb": "Walk out",
+          "def": "To leave a meeting to show you disagree",
+          "ipa": "/wɔk aʊt/",
+          "ex": [
+            "Two board members walked out when the vote was called.",
+            "Several people walked out of the meeting in anger.",
+            "The actors walked out of the talks with the studio."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To do more to help",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "When the manager got sick, Maria stepped up.",
+            "We need more volunteers to step up this year.",
+            "Local families stepped up to pay for the new park."
+          ]
+        },
+        {
+          "verb": "Hold out",
+          "def": "To keep saying no to a deal",
+          "ipa": "/hoʊld aʊt/",
+          "ex": [
+            "The workers held out for a better contract.",
+            "One senator held out until the very end.",
+            "She held out for a higher price for her house."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study something carefully",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The police are looking into the fire.",
+            "I'll look into cheaper flights for our trip.",
+            "The school promised to look into the problem."
+          ]
+        },
+        {
+          "verb": "Come back",
+          "def": "To recover after a hard time",
+          "ipa": "/kʌm bæk/",
+          "ex": [
+            "The town came back after the flood.",
+            "After the crash, the company came back stronger.",
+            "Our local team came back after two bad seasons."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "climate summit",
+          "def": "A big meeting where world leaders talk about the climate",
+          "ipa": "/ˈklaɪmət ˈsʌmɪt/",
+          "ex": [
+            "The president flew to Brazil for a climate summit.",
+            "Thousands of reporters went to the climate summit.",
+            "The next climate summit will be in Africa."
+          ]
+        },
+        {
+          "word": "southern coast",
+          "def": "The land next to the sea in the south of a country",
+          "ipa": "/ˈsʌðərn koʊst/",
+          "ex": [
+            "We spent a week on the southern coast of Spain.",
+            "The southern coast is warm all year.",
+            "Many fishing towns sit along the southern coast."
+          ]
+        },
+        {
+          "word": "negotiations",
+          "def": "Long talks where groups try to reach an agreement",
+          "ipa": "/nɪˌɡoʊʃiˈeɪʃənz/",
+          "ex": [
+            "The negotiations between the union and the company lasted all night.",
+            "Both sides want the negotiations to end soon.",
+            "The negotiations about the new contract were difficult."
+          ]
+        },
+        {
+          "word": "fossil fuels",
+          "def": "Fuels from the ground, such as coal, oil and gas",
+          "ipa": "/ˈfɑsəl ˈfjuəlz/",
+          "ex": [
+            "Most cars still run on fossil fuels.",
+            "Burning fossil fuels puts carbon in the air.",
+            "The city wants to use fewer fossil fuels."
+          ]
+        },
+        {
+          "word": "global warming",
+          "def": "The rise in the earth's average temperature",
+          "ipa": "/ˈɡloʊbəl ˈwɔrmɪŋ/",
+          "ex": [
+            "Global warming makes summers hotter.",
+            "Our science teacher explained global warming with a simple chart.",
+            "Melting ice is one sign of global warming."
+          ]
+        },
+        {
+          "word": "oil-producing countries",
+          "def": "Countries that take oil from the ground and sell it",
+          "ipa": "/ˈɔɪl prəˌdusɪŋ ˈkʌntriz/",
+          "ex": [
+            "Many oil-producing countries earn a lot when prices are high.",
+            "Gas prices change when oil-producing countries sell less.",
+            "Some oil-producing countries are building solar farms."
+          ]
+        },
+        {
+          "word": "rejected",
+          "def": "Said no to something",
+          "ipa": "/rɪˈdʒɛktɪd/",
+          "ex": [
+            "The bank rejected his request for a loan.",
+            "She rejected the job offer because the pay was low.",
+            "The city council rejected the plan for a new mall."
+          ]
+        },
+        {
+          "word": "officials",
+          "def": "People with important jobs in a government or group",
+          "ipa": "/əˈfɪʃəlz/",
+          "ex": [
+            "City officials closed the park after the storm.",
+            "School officials met with parents on Monday.",
+            "Health officials asked people to wash their hands."
+          ]
+        },
+        {
+          "word": "heat waves",
+          "def": "Periods of very hot weather that last several days",
+          "ipa": "/hit weɪvz/",
+          "ex": [
+            "Old people need extra care during heat waves.",
+            "The city opens cooling centers during heat waves.",
+            "Heat waves are common in Texas in August."
+          ]
+        },
+        {
+          "word": "droughts",
+          "def": "Long periods with little or no rain",
+          "ipa": "/draʊts/",
+          "ex": [
+            "Farmers lose crops during droughts.",
+            "Long droughts can leave rivers almost empty.",
+            "The state saves water to prepare for droughts."
+          ]
+        },
+        {
+          "word": "adapt",
+          "def": "To change so you can do well in a new situation",
+          "ipa": "/əˈdæpt/",
+          "ex": [
+            "Children adapt quickly to a new school.",
+            "We had to adapt to working from home.",
+            "Some plants adapt to very dry weather."
+          ]
+        },
+        {
+          "word": "triple",
+          "def": "To make something three times bigger",
+          "ipa": "/ˈtrɪpəl/",
+          "ex": [
+            "The store plans to triple its size.",
+            "Prices could triple in ten years.",
+            "The team hopes to triple the number of fans."
+          ]
+        },
+        {
+          "word": "consensus",
+          "def": "An agreement that everyone in a group accepts",
+          "ipa": "/kənˈsɛnsəs/",
+          "ex": [
+            "The family reached a consensus on where to eat.",
+            "There is no consensus about the best plan.",
+            "The board needs a consensus before it votes."
+          ]
+        },
+        {
+          "word": "deeply disappointed",
+          "def": "Very sad because something did not happen as you hoped",
+          "ipa": "/ˈdipli ˌdɪsəˈpɔɪntɪd/",
+          "ex": [
+            "The fans were deeply disappointed after the loss.",
+            "She was deeply disappointed when the trip was canceled.",
+            "I am deeply disappointed by the test results."
+          ]
+        },
+        {
+          "word": "clean energy",
+          "def": "Power that does not make much pollution, like sun or wind power",
+          "ipa": "/klin ˈɛnərdʒi/",
+          "ex": [
+            "Our town gets half its power from clean energy.",
+            "Many new jobs are in clean energy.",
+            "Solar panels are a popular kind of clean energy."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Nearly 200 countries at a United Nations climate summit in Turkey could not agree on a main deal. They were split over coal, oil and gas, and over money for poorer countries.",
+          "a": true,
+          "why": "The talks fell apart over two questions. Some oil-producing countries pushed back on a plan to stop using fossil fuels, and poorer countries wanted rich countries to step up with money."
+        },
+        {
+          "s": "The climate deal in Turkey failed because rich nations refused to mention fossil fuels. Angry oil-producing nations then walked out of the room at the final meeting.",
+          "a": false,
+          "why": "Close, but some oil-producing countries were the ones who pushed back. The European Union's two lead officials walked out because the final version left out fossil fuels."
+        },
+        {
+          "s": "Turkey opened a large new solar power plant on its southern coast in November. The government says the plant will send clean electricity to about one million homes.",
+          "a": false,
+          "why": "This story is about climate talks that failed. Nearly 200 countries could not agree on a main deal after the talks dragged on for two more days."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The climate talks in Turkey fell apart without a main deal.",
+          "a": true,
+          "why": "Nearly 200 countries failed to agree on a main deal, so the talks ended with no agreement on the biggest questions."
+        },
+        {
+          "s": "The talks wrapped up early, before their planned last day.",
+          "a": false,
+          "why": "The talks were due to finish on Friday, November 20, but they dragged on for two more days."
+        },
+        {
+          "s": "The final version of the deal asked the world to phase out fossil fuels.",
+          "a": false,
+          "why": "Only an early version said that. Some oil-producing countries pushed back, and later versions left out the words completely."
+        },
+        {
+          "s": "The European Union rejected the final version of the deal.",
+          "a": true,
+          "why": "The European Union and Pacific island nations said no to it, and the European Union's two lead officials walked out."
+        },
+        {
+          "s": "Poorer countries wanted rich countries to step up with money.",
+          "a": true,
+          "why": "They wanted money to help them adapt to hotter weather, but the final version gave no clear numbers."
+        },
+        {
+          "s": "One country alone cannot stop a deal at these summits.",
+          "a": false,
+          "why": "Every country must agree on a deal, a rule called consensus. If even one country holds out, there is no deal."
+        }
+      ]
+    },
+    {
       "id": "mice-learn-by-watching-2026",
       "number": 254,
       "headline": "Mice get better at fighting just by watching",
