@@ -2,6 +2,488 @@
   "updated": "2026-11-24",
   "stories": [
     {
+      "id": "kyoto-tourist-bus-fares-2026",
+      "number": 259,
+      "headline": "Kyoto plans higher bus fares for visitors",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n259-kyoto-tourist-bus-fares-2026-flat.webp",
+      "position": "center 50%",
+      "sources": [
+        {
+          "title": "Kyoto unveils dual pricing for city buses and Nijo Castle (The Straits Times, from Kyodo News)",
+          "url": "https://www.straitstimes.com/asia/east-asia/kyoto-unveils-draft-ordinance-for-dual-pricing-on-city-buses"
+        },
+        {
+          "title": "Kyoto Plans Two-Tier Prices for City Buses and Nijo Castle (Japan Cheapo)",
+          "url": "https://japancheapo.com/travel/kyoto-two-tier-pricing-plan/"
+        },
+        {
+          "title": "Japanese city considers dual pricing on public transport to tackle overtourism (The Telegraph, via Yahoo News)",
+          "url": "https://www.yahoo.com/news/japanese-city-considers-dual-pricing-070000514.html"
+        },
+        {
+          "title": "Kyoto plans different castle fees and bus fares for locals and visitors (The Nation Thailand)",
+          "url": "https://www.nationthailand.com/news/world/40071765"
+        },
+        {
+          "title": "Kyoto city bus dual pricing draft ordinance, in Japanese (Saga Shimbun, from Kyodo News)",
+          "url": "https://www.saga-s.co.jp/articles/-/1831776"
+        },
+        {
+          "title": "Kyoto city buses: 360 yen for non-residents, 200 yen for residents, in Japanese (Tabiris)",
+          "url": "https://tabiris.com/archives/kyotobus-neage/"
+        },
+        {
+          "title": "Non-resident fare 1.8 times higher under Kyoto bus plan, in Japanese (Kumamoto Nichinichi Shimbun, from Kyodo News)",
+          "url": "https://kumanichi.com/articles/2041790"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "A bus ride in Japan's old capital city could cost visitors almost twice what locals pay. On November 17, 2026, the city government {{put forward}} a [[draft law]] with two bus prices. The adult [[fare]], the price of one ride, is 230 yen. It would {{come down}} to 200 yen for [[residents]]. It would {{go up}} to 360 yen for [[non-residents]], people who live outside the city.",
+          "verbs": [
+            {
+              "display": "put forward",
+              "base": "put forward",
+              "correct": "To offer a plan for discussion",
+              "wrong": "To sell a plan to a company",
+              "correctFirst": true,
+              "why": "She puts forward a new idea at every meeting. Parents put forward plans for the school each year. The city government put forward a draft law with two bus prices on November 17, 2026."
+            },
+            {
+              "display": "come down",
+              "base": "come down",
+              "correct": "To become lower in price",
+              "wrong": "To stop running on a route",
+              "correctFirst": false,
+              "why": "Gas prices come down when fewer people drive. Hotel rates come down after the busy season. For residents, the bus fare would come down to 200 yen."
+            },
+            {
+              "display": "go up",
+              "base": "go up",
+              "correct": "To become higher in price",
+              "wrong": "To be printed on a ticket",
+              "correctFirst": true,
+              "why": "Rents go up in many cities every year. Plane tickets go up in the summer. For non-residents, the bus fare would go up to 360 yen."
+            }
+          ]
+        },
+        {
+          "text": "That group includes people from other parts of Japan, not only foreign tourists. The city calls this Japan's first such plan for public transportation. The target is [[overtourism]], when too many visitors make [[daily life]] harder for locals. In February 2025, the mayor said the city gets about 50 million [[tourist visits]] a year but has 1.5 million residents. Tourists {{pour in}}. The mayor said some residents could not {{get on}} [[packed]] buses.",
+          "verbs": [
+            {
+              "display": "pour in",
+              "base": "pour in",
+              "correct": "To arrive as a very large crowd",
+              "wrong": "To vote on a new city law",
+              "correctFirst": false,
+              "why": "Fans pour in when the stadium gates open. Shoppers pour in on the first day of a big sale. Tourists pour in, and the mayor said Kyoto gets about 50 million tourist visits a year."
+            },
+            {
+              "display": "get on",
+              "base": "get on",
+              "correct": "To enter a bus or train",
+              "wrong": "To paint a bus or train",
+              "correctFirst": true,
+              "why": "I get on the bus at the corner every morning. Passengers get on the train through the middle doors. In February 2025, the mayor said some residents could not get on packed buses."
+            }
+          ]
+        },
+        {
+          "text": "The higher visitor fare would {{make up for}} the money lost on the cheaper resident fare. To get that fare, residents would have to {{sign up}} [[in advance]] and link a [[national identity card]] to a [[transit card]]. Residents paying [[in cash]] would {{miss out on}} it. For non-residents who ride often, such as [[commuters]], the city would {{give part of the difference back}} as transit points.",
+          "verbs": [
+            {
+              "display": "make up for",
+              "base": "make up for",
+              "correct": "To replace money that is lost",
+              "wrong": "To sell tickets to a castle",
+              "correctFirst": false,
+              "why": "Strong December sales make up for a slow summer. A second job makes up for her lost income. The higher visitor fare would make up for the money lost on the cheaper resident fare."
+            },
+            {
+              "display": "sign up",
+              "base": "sign up",
+              "correct": "To register to use a service",
+              "wrong": "To count the riders on a bus",
+              "correctFirst": true,
+              "why": "Students sign up online to use the school gym. Many customers sign up to get the store's weekly deals. Residents would have to sign up in advance to get the lower bus fare."
+            },
+            {
+              "display": "miss out on",
+              "base": "miss out on",
+              "correct": "To not get something good",
+              "wrong": "To carry something in a bag",
+              "correctFirst": false,
+              "why": "People who arrive late miss out on the free lunch. Workers who skip the meeting miss out on useful news. Residents who pay in cash would miss out on the lower fare."
+            },
+            {
+              "display": "give part of the difference back",
+              "base": "give back",
+              "correct": "To return something to someone",
+              "wrong": "To write something on a bus seat",
+              "correctFirst": true,
+              "why": "My neighbor always gives my tools back the next day. The store gives your money back if the shoes do not fit. For non-residents who ride often, the city would give part of the difference back as transit points."
+            }
+          ]
+        },
+        {
+          "text": "The city also wants two prices at a famous old castle from June 2027. A full ticket costs 1,300 yen. Non-residents would pay 2,000 yen and residents 1,000 yen. The city says the extra money would help {{fix up}} the site. Neither plan was final in November 2026. The [[city assembly]], the elected group that makes local laws, was due to {{take up}} the bus plan in a [[session]] opening on November 24. The fares would also need national government [[approval]]. The city hopes to start them in the [[budget year]] beginning April 2027.",
+          "verbs": [
+            {
+              "display": "fix up",
+              "base": "fix up",
+              "correct": "To repair and improve a place",
+              "wrong": "To sing songs about a place",
+              "correctFirst": true,
+              "why": "Volunteers fix up the park every spring. My parents fix up old houses and sell them. The city says the extra money from castle tickets would help fix up the site."
+            },
+            {
+              "display": "take up",
+              "base": "take up",
+              "correct": "To begin to discuss a plan",
+              "wrong": "To print a plan on a bus ticket",
+              "correctFirst": false,
+              "why": "The school board takes up the budget at its next meeting. Congress takes up the new bill in January. The city assembly was due to take up the bus plan in a session opening on November 24."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Put forward",
+          "def": "To offer a plan for discussion",
+          "ipa": "/pʊt ˈfɔrwərd/",
+          "ex": [
+            "The mayor put forward a plan for new bike lanes.",
+            "Two teachers put forward a better schedule.",
+            "Our team will put forward three ideas on Monday."
+          ]
+        },
+        {
+          "verb": "Come down",
+          "def": "To become lower in price",
+          "ipa": "/kʌm daʊn/",
+          "ex": [
+            "Egg prices finally came down in the spring.",
+            "I will buy the laptop when the price comes down.",
+            "Our electric bill came down after we got new windows."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher in price",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "The price of coffee went up again.",
+            "Our rent will go up in January.",
+            "Movie tickets go up almost every year."
+          ]
+        },
+        {
+          "verb": "Pour in",
+          "def": "To arrive as a very large crowd",
+          "ipa": "/pɔr ɪn/",
+          "ex": [
+            "Thousands of fans poured in before the concert.",
+            "Customers poured in when the new store opened.",
+            "Families pour in when the beach gets warm."
+          ]
+        },
+        {
+          "verb": "Get on",
+          "def": "To enter a bus or train",
+          "ipa": "/ɡɛt ɑn/",
+          "ex": [
+            "Please let people off before you get on the train.",
+            "We got on the bus near the library.",
+            "She got on the wrong bus this morning."
+          ]
+        },
+        {
+          "verb": "Make up for",
+          "def": "To replace money that is lost",
+          "ipa": "/meɪk ʌp fɔr/",
+          "ex": [
+            "The bonus made up for the money I lost last year.",
+            "Extra shifts can make up for a smaller paycheck.",
+            "The sale did not make up for the store's losses."
+          ]
+        },
+        {
+          "verb": "Sign up",
+          "def": "To register to use a service",
+          "ipa": "/saɪn ʌp/",
+          "ex": [
+            "You can sign up on the library's website.",
+            "I signed up to get a free gym pass.",
+            "It takes two minutes to sign up."
+          ]
+        },
+        {
+          "verb": "Miss out on",
+          "def": "To not get something good",
+          "ipa": "/mɪs aʊt ɑn/",
+          "ex": [
+            "I missed out on the discount because I came too late.",
+            "Don't miss out on the free tickets.",
+            "Some students miss out on good programs."
+          ]
+        },
+        {
+          "verb": "Give back",
+          "def": "To return something to someone",
+          "ipa": "/ɡɪv bæk/",
+          "ex": [
+            "Please give my pen back after class.",
+            "The store gave me my money back.",
+            "He gave the keys back to the owner."
+          ]
+        },
+        {
+          "verb": "Fix up",
+          "def": "To repair and improve a place",
+          "ipa": "/fɪks ʌp/",
+          "ex": [
+            "We fixed up the old kitchen last year.",
+            "They want to fix up the town library.",
+            "Neighbors helped fix up the playground."
+          ]
+        },
+        {
+          "verb": "Take up",
+          "def": "To begin to discuss a plan",
+          "ipa": "/teɪk ʌp/",
+          "ex": [
+            "The council will take up the parking plan on Monday.",
+            "Lawmakers took up the bill after the break.",
+            "The committee takes up the issue next week."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "draft law",
+          "def": "A written plan for a law that is not yet approved",
+          "ipa": "/dræft lɔ/",
+          "ex": [
+            "Lawmakers changed the draft law twice.",
+            "The draft law would protect old trees.",
+            "Reporters read the draft law before the vote."
+          ]
+        },
+        {
+          "word": "fare",
+          "def": "The money you pay to ride a bus, train or plane",
+          "ipa": "/fɛr/",
+          "ex": [
+            "The train fare is cheaper at night.",
+            "Children under five ride without paying a fare.",
+            "I keep coins in my bag for the bus fare."
+          ]
+        },
+        {
+          "word": "residents",
+          "def": "People who live in a certain place",
+          "ipa": "/ˈrɛzɪdənts/",
+          "ex": [
+            "The residents of our building share a garden.",
+            "Local residents asked for a new park.",
+            "The pool is free for residents."
+          ]
+        },
+        {
+          "word": "non-residents",
+          "def": "People who do not live in a certain place",
+          "ipa": "/ˌnɑnˈrɛzɪdənts/",
+          "ex": [
+            "The town library charges non-residents a small fee.",
+            "Parking costs more for non-residents.",
+            "The state college has higher prices for non-residents."
+          ]
+        },
+        {
+          "word": "overtourism",
+          "def": "A problem caused by too many visitors in one place",
+          "ipa": "/ˌoʊvərˈtʊrɪzəm/",
+          "ex": [
+            "Overtourism can damage old buildings.",
+            "The island limits boats because of overtourism.",
+            "Some beach towns struggle with overtourism."
+          ]
+        },
+        {
+          "word": "daily life",
+          "def": "The normal things you do every day",
+          "ipa": "/ˈdeɪli laɪf/",
+          "ex": [
+            "A smartphone is part of daily life for most people.",
+            "The storm changed daily life in our town.",
+            "Noise from the airport affects our daily life."
+          ]
+        },
+        {
+          "word": "tourist visits",
+          "def": "Trips that people make to a place for fun",
+          "ipa": "/ˈtʊrɪst ˈvɪzɪts/",
+          "ex": [
+            "Tourist visits rise when the weather gets warm.",
+            "The museum counts tourist visits every month.",
+            "The new airport brought more tourist visits."
+          ]
+        },
+        {
+          "word": "packed",
+          "def": "Very full of people",
+          "ipa": "/pækt/",
+          "ex": [
+            "The subway is packed at 8 a.m.",
+            "We ate at a packed restaurant.",
+            "The gym is packed in January."
+          ]
+        },
+        {
+          "word": "in advance",
+          "def": "Before something happens",
+          "ipa": "/ɪn ədˈvæns/",
+          "ex": [
+            "Please buy your tickets in advance.",
+            "We planned the meal in advance.",
+            "Call in advance if you need a ride."
+          ]
+        },
+        {
+          "word": "national identity card",
+          "def": "An official government card that shows who you are",
+          "ipa": "/ˈnæʃənəl aɪˈdɛntəti kɑrd/",
+          "ex": [
+            "Many countries give each adult a national identity card.",
+            "She showed her national identity card at the bank.",
+            "He lost his national identity card on vacation."
+          ]
+        },
+        {
+          "word": "transit card",
+          "def": "A card you use to pay for buses and trains",
+          "ipa": "/ˈtrænzɪt kɑrd/",
+          "ex": [
+            "I added 20 dollars to my transit card.",
+            "Tap your transit card when you board.",
+            "Students get a free transit card from the school."
+          ]
+        },
+        {
+          "word": "in cash",
+          "def": "With paper money and coins",
+          "ipa": "/ɪn kæʃ/",
+          "ex": [
+            "He paid for the bike in cash.",
+            "The small shop only takes payment in cash.",
+            "I like to keep some money in cash."
+          ]
+        },
+        {
+          "word": "commuters",
+          "def": "People who travel regularly to work or school",
+          "ipa": "/kəˈmjutərz/",
+          "ex": [
+            "The morning train is full of commuters.",
+            "Commuters were late because of the snow.",
+            "Many commuters read on the bus."
+          ]
+        },
+        {
+          "word": "city assembly",
+          "def": "A group of elected people who make a city's laws",
+          "ipa": "/ˈsɪti əˈsɛmbli/",
+          "ex": [
+            "The city assembly voted for a new park.",
+            "She won a seat on the city assembly.",
+            "Parents spoke to the city assembly about school buses."
+          ]
+        },
+        {
+          "word": "session",
+          "def": "A period of time when a lawmaking group meets",
+          "ipa": "/ˈsɛʃən/",
+          "ex": [
+            "The new session starts in January.",
+            "Lawmakers passed the bill late in the session.",
+            "The state's session lasts three months."
+          ]
+        },
+        {
+          "word": "approval",
+          "def": "Official permission to do something",
+          "ipa": "/əˈpruvəl/",
+          "ex": [
+            "The new drug needs government approval.",
+            "We are waiting for approval to build a garage.",
+            "The school gave its approval for the trip."
+          ]
+        },
+        {
+          "word": "budget year",
+          "def": "The 12 months a government uses for its money plans",
+          "ipa": "/ˈbʌdʒɪt jɪr/",
+          "ex": [
+            "The state's budget year starts in July.",
+            "The town spent less in the last budget year.",
+            "Each budget year brings new spending plans."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Kyoto wants people from outside the city to pay more for its buses while residents pay less. Officials see this as a response to overtourism, and local lawmakers were due to debate it.",
+          "a": true,
+          "why": "The city put forward a draft law with a higher fare for non-residents and a lower one for residents. The city assembly was due to take up the plan."
+        },
+        {
+          "s": "Japan's government has ordered foreign tourists to pay extra on buses across the country. Every Japanese rider will get a cheaper ticket, and the new prices began on November 17.",
+          "a": false,
+          "why": "Close, but this is one city's plan, and it is not final. Anyone who lives outside Kyoto would see the fare go up, including people from other parts of Japan."
+        },
+        {
+          "s": "A new high-speed train will carry visitors from the airport straight to Kyoto's temples. Railway officials expect the line to cut travel times in half by the end of the decade.",
+          "a": false,
+          "why": "There is no new train line here. Kyoto put forward a plan for two bus fares, one for residents and one for non-residents."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Kyoto's plan would make the bus fare go up for people from outside the city.",
+          "a": true,
+          "why": "The fare would go up to 360 yen for non-residents, and it would be cheaper for residents."
+        },
+        {
+          "s": "Only foreign tourists would pay the higher bus fare in Kyoto.",
+          "a": false,
+          "why": "The fare would go up for anyone who lives outside the city, including people from other parts of Japan."
+        },
+        {
+          "s": "The new fares would start as soon as the city put forward the plan.",
+          "a": false,
+          "why": "The city hopes to start the new fares in the budget year that begins in April 2027."
+        },
+        {
+          "s": "Residents would have to sign up in advance to get the lower fare.",
+          "a": true,
+          "why": "They would sign up and link a national identity card to a transit card."
+        },
+        {
+          "s": "The higher visitor fare would make up for money lost on the resident fare.",
+          "a": true,
+          "why": "The higher visitor fare would make up for the money lost by cutting the resident fare."
+        },
+        {
+          "s": "Residents who pay in cash would still get the lower fare.",
+          "a": false,
+          "why": "Residents who pay in cash would miss out on the lower fare."
+        }
+      ]
+    },
+    {
       "id": "nvidia-huang-returns-2026",
       "number": 258,
       "headline": "Nvidia brings back Jensen Huang as its boss",
