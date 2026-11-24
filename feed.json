@@ -2,6 +2,522 @@
   "updated": "2026-11-24",
   "stories": [
     {
+      "id": "nvidia-huang-returns-2026",
+      "number": 258,
+      "headline": "Nvidia brings back Jensen Huang as its boss",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n258-nvidia-huang-returns-2026-flat.webp",
+      "position": "center 60%",
+      "sources": [
+        {
+          "title": "Trump claims credit as Jensen Huang returns to Nvidia (NPR)",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump"
+        },
+        {
+          "title": "Nvidia reinstates Jensen Huang as CEO (CBS News)",
+          "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
+        },
+        {
+          "title": "Jensen Huang reinstated as Nvidia CEO after Trump pushes board (NBC News)",
+          "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864"
+        },
+        {
+          "title": "Nvidia reinstates Jensen Huang as CEO: Live updates (CNN Business)",
+          "url": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 23, 2026, Nvidia's [[board of directors]], the group in charge of the company, voted to {{bring back}} Jensen Huang as its boss. Nvidia is an American company that makes computer chips for artificial intelligence. Huang helped start it in 1993. On November 12, he {{stepped down}} as [[chief executive]], the top boss. He left after reports about his [[private life]], including a relationship with a woman U.S. officials [[suspected]] of being a Chinese spy. China has [[denied]] this.",
+          "verbs": [
+            {
+              "display": "bring back",
+              "base": "bring back",
+              "correct": "To return someone to an old job",
+              "wrong": "To give someone a big prize",
+              "correctFirst": true,
+              "why": "Many sports teams bring back an old coach after a bad season. Our school brings back retired teachers when it needs extra help. On November 23, 2026, Nvidia's board voted to bring back Jensen Huang as its boss."
+            },
+            {
+              "display": "stepped down",
+              "base": "step down",
+              "correct": "To leave an important job",
+              "wrong": "To move to a job in another city",
+              "correctFirst": false,
+              "why": "Some team captains step down when they get older. A company boss often steps down after a big mistake. On November 12, Huang stepped down as chief executive, the top boss."
+            }
+          ]
+        },
+        {
+          "text": "On November 17, the board's leader had {{ruled out}} his return. Now the board voted [[unanimously]], with every member saying yes. After hearing from [[senior officials]] in the U.S. government, it said Huang was not a [[national security risk]], a danger to the country's safety. President Trump had [[urged]] the board to rehire him. He {{called in}} to a TV business show and said he had {{won them over}}. The board said its [[investigation]] into the reports would {{go on}}.",
+          "verbs": [
+            {
+              "display": "ruled out",
+              "base": "rule out",
+              "correct": "To say something will not happen",
+              "wrong": "To fix a broken machine",
+              "correctFirst": true,
+              "why": "The weather report rules out snow for the weekend. The city rules out a new bridge because it costs too much. On November 17, the board's leader had ruled out his return."
+            },
+            {
+              "display": "called in",
+              "base": "call in",
+              "correct": "To phone a radio or TV show",
+              "wrong": "To sell a radio or TV company",
+              "correctFirst": false,
+              "why": "Many listeners call in to the morning radio show. My uncle calls in to a sports show every Sunday. President Trump called in to a TV business show and said he had won them over."
+            },
+            {
+              "display": "won them over",
+              "base": "win over",
+              "correct": "To get someone's support or agreement",
+              "wrong": "To take someone's place at their job",
+              "correctFirst": true,
+              "why": "A good teacher wins over a shy class with kind words. Our new neighbor wins people over with her homemade bread. President Trump called in to a TV business show and said he had won them over."
+            },
+            {
+              "display": "go on",
+              "base": "go on",
+              "correct": "To continue for more time",
+              "wrong": "To become a new company",
+              "correctFirst": false,
+              "why": "The meeting usually goes on for two hours. The rain often goes on all night in the spring. The board said its investigation into the reports would go on."
+            }
+          ]
+        },
+        {
+          "text": "On November 20, investors had {{sold off}} many technology shares, or small parts of companies. After the vote, the stock market {{bounced back}}. Nvidia's [[stock price]] rose about 31 percent, its best day since 2003. The [[gain]] {{added up to}} about $952 billion in [[market value]], the total value of all its shares. Two main U.S. [[stock indexes]], which follow the prices of many big companies, had their best day since April 2025.",
+          "verbs": [
+            {
+              "display": "sold off",
+              "base": "sell off",
+              "correct": "To sell a lot of something quickly",
+              "wrong": "To lend money to a company",
+              "correctFirst": true,
+              "why": "Some people sell off their shares when the news is bad. Farmers sell off some of their cows when the summer is dry. On November 20, investors had sold off many technology shares."
+            },
+            {
+              "display": "bounced back",
+              "base": "bounce back",
+              "correct": "To get better after a bad time",
+              "wrong": "To move to a new building",
+              "correctFirst": false,
+              "why": "Small towns usually bounce back after a big storm. A good team bounces back after a loss. After the vote, the stock market bounced back."
+            },
+            {
+              "display": "added up to",
+              "base": "add up to",
+              "correct": "To make a total amount of",
+              "wrong": "To be paid in cash",
+              "correctFirst": true,
+              "why": "Small daily costs add up to a lot of money each year. Ten minutes of reading a day adds up to many books. The gain added up to about $952 billion in market value."
+            }
+          ]
+        },
+        {
+          "text": "Huang {{showed up}} at the company's offices in California that day, and workers [[cheered]]. Thousands of them had {{stood by}} him and signed a [[petition]], a letter asking for his return. \"I can't wait to {{get back to}} work,\" he said. But [[lawmakers]] from both main parties {{spoke out}} against the board's decision. Huang was [[scheduled]] to answer questions in Congress on December 1 and December 3.",
+          "verbs": [
+            {
+              "display": "showed up",
+              "base": "show up",
+              "correct": "To arrive at a place",
+              "wrong": "To build a new office",
+              "correctFirst": false,
+              "why": "My brother always shows up late to family dinners. Many fans show up early to get good seats. Huang showed up at the company's offices in California that day."
+            },
+            {
+              "display": "stood by",
+              "base": "stand by",
+              "correct": "To support someone in a hard time",
+              "wrong": "To teach someone a new skill at work",
+              "correctFirst": true,
+              "why": "Good friends stand by you when you lose your job. Her family stands by her after the accident. Thousands of them had stood by him and signed a petition."
+            },
+            {
+              "display": "get back to",
+              "base": "get back to",
+              "correct": "To start again after a break",
+              "wrong": "To sell something you own",
+              "correctFirst": false,
+              "why": "After lunch, I get back to my homework. Most people get back to work after a short vacation. \"I can't wait to get back to work,\" he said."
+            },
+            {
+              "display": "spoke out",
+              "base": "speak out",
+              "correct": "To say in public that you disagree",
+              "wrong": "To take a long break from their work",
+              "correctFirst": true,
+              "why": "Some parents speak out when a school closes. Doctors often speak out about unsafe food. Lawmakers from both main parties spoke out against the board's decision."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Bring back",
+          "def": "To return someone to an old job",
+          "ipa": "/brɪŋ bæk/",
+          "ex": [
+            "The restaurant brought back its old cook after the new one quit.",
+            "Fans want the team to bring back their favorite player.",
+            "The company brought her back as a manager after two years."
+          ]
+        },
+        {
+          "verb": "Step down",
+          "def": "To leave an important job",
+          "ipa": "/stɛp daʊn/",
+          "ex": [
+            "The mayor stepped down after ten years in office.",
+            "She will step down as team captain next spring.",
+            "Many people asked the club president to step down."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To say something will not happen",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The mayor ruled out a new tax for next year.",
+            "We can't rule out rain on Saturday.",
+            "The team ruled out selling its best player."
+          ]
+        },
+        {
+          "verb": "Call in",
+          "def": "To phone a radio or TV show",
+          "ipa": "/kɔl ɪn/",
+          "ex": [
+            "Hundreds of people called in to the radio show.",
+            "She called in to ask the doctor on TV a question.",
+            "You can call in to the show at this number."
+          ]
+        },
+        {
+          "verb": "Win over",
+          "def": "To get someone's support or agreement",
+          "ipa": "/wɪn ˈoʊvər/",
+          "ex": [
+            "The singer won over the crowd with her first song.",
+            "He worked hard to win over his new boss.",
+            "The plan won over most of the parents."
+          ]
+        },
+        {
+          "verb": "Go on",
+          "def": "To continue for more time",
+          "ipa": "/ɡoʊ ɑn/",
+          "ex": [
+            "The party went on until midnight.",
+            "The noise went on for hours.",
+            "How long will this heat go on?"
+          ]
+        },
+        {
+          "verb": "Sell off",
+          "def": "To sell a lot of something quickly",
+          "ipa": "/sɛl ɔf/",
+          "ex": [
+            "The store sold off its winter coats in March.",
+            "He sold off his old records to pay for college.",
+            "Many people sold off their shares after the bad news."
+          ]
+        },
+        {
+          "verb": "Bounce back",
+          "def": "To get better after a bad time",
+          "ipa": "/baʊns bæk/",
+          "ex": [
+            "She bounced back fast after the flu.",
+            "Sales bounced back in the summer.",
+            "The town bounced back after the flood."
+          ]
+        },
+        {
+          "verb": "Add up to",
+          "def": "To make a total amount of",
+          "ipa": "/æd ʌp tu/",
+          "ex": [
+            "The small bills added up to $300.",
+            "His late fees added up to more than the book cost.",
+            "All those short walks add up to a lot of exercise."
+          ]
+        },
+        {
+          "verb": "Show up",
+          "def": "To arrive at a place",
+          "ipa": "/ʃoʊ ʌp/",
+          "ex": [
+            "Only five people showed up for the meeting.",
+            "He showed up at my door with flowers.",
+            "Please show up on time for the test."
+          ]
+        },
+        {
+          "verb": "Stand by",
+          "def": "To support someone in a hard time",
+          "ipa": "/stænd baɪ/",
+          "ex": [
+            "Her husband stood by her during her illness.",
+            "I will stand by you no matter what.",
+            "The fans stood by the team after many losses."
+          ]
+        },
+        {
+          "verb": "Get back to",
+          "def": "To start again after a break",
+          "ipa": "/ɡɛt bæk tu/",
+          "ex": [
+            "Let's get back to the lesson.",
+            "After a long weekend, it's hard to get back to work.",
+            "She got back to her book after dinner."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To say in public that you disagree",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "Many students spoke out against the new rule.",
+            "He was afraid to speak out at work.",
+            "The singer spoke out about the high ticket prices."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "board of directors",
+          "def": "A group of people chosen to make big decisions for a company",
+          "ipa": "/bɔrd əv dəˈrɛktərz/",
+          "ex": [
+            "The board of directors meets four times a year.",
+            "She was asked to join the bank's board of directors.",
+            "The board of directors chose a new company boss."
+          ]
+        },
+        {
+          "word": "chief executive",
+          "def": "The person with the highest job in a company",
+          "ipa": "/tʃif ɪɡˈzɛkjətɪv/",
+          "ex": [
+            "The chief executive spoke to all the workers on Monday.",
+            "He became chief executive of a small airline.",
+            "Our chief executive answers questions from reporters."
+          ]
+        },
+        {
+          "word": "private life",
+          "def": "The part of your life that is about your family, friends and home, not your job",
+          "ipa": "/ˈpraɪvət laɪf/",
+          "ex": [
+            "The actor never talks about his private life.",
+            "She keeps her private life away from her work.",
+            "Reporters asked the singer about her private life."
+          ]
+        },
+        {
+          "word": "suspected",
+          "def": "Thought that someone did something wrong, without being sure",
+          "ipa": "/səˈspɛktɪd/",
+          "ex": [
+            "The police suspected the driver of stealing the car.",
+            "Her parents suspected that she skipped school.",
+            "Many people suspected the store owner of lying."
+          ]
+        },
+        {
+          "word": "denied",
+          "def": "Said that something is not true",
+          "ipa": "/dɪˈnaɪd/",
+          "ex": [
+            "He denied that he took the money.",
+            "The company denied the report about its prices.",
+            "She denied breaking the window."
+          ]
+        },
+        {
+          "word": "unanimously",
+          "def": "With every person in a group agreeing",
+          "ipa": "/juˈnænəməsli/",
+          "ex": [
+            "The city council voted unanimously for the new park.",
+            "The judges unanimously chose her as the winner.",
+            "The club unanimously agreed to raise the price."
+          ]
+        },
+        {
+          "word": "senior officials",
+          "def": "People with important jobs high up in a government",
+          "ipa": "/ˈsinjər əˈfɪʃəlz/",
+          "ex": [
+            "Senior officials met with the president on Friday.",
+            "Two senior officials will visit the flooded town.",
+            "The plan was approved by senior officials."
+          ]
+        },
+        {
+          "word": "national security risk",
+          "def": "A possible danger to the safety of a country",
+          "ipa": "/ˈnæʃənəl sɪˈkjʊrəti rɪsk/",
+          "ex": [
+            "The government said the old software was a national security risk.",
+            "Some lawmakers called the deal a national security risk.",
+            "A national security risk can lead to new laws."
+          ]
+        },
+        {
+          "word": "urged",
+          "def": "Asked someone strongly to do something",
+          "ipa": "/ɝdʒd/",
+          "ex": [
+            "My doctor urged me to eat less sugar.",
+            "The teacher urged the students to read every day.",
+            "Police urged drivers to stay home during the storm."
+          ]
+        },
+        {
+          "word": "investigation",
+          "def": "A careful search for the facts about something",
+          "ipa": "/ɪnˌvɛstəˈɡeɪʃən/",
+          "ex": [
+            "The police started an investigation into the fire.",
+            "The investigation took almost a year.",
+            "The school asked for an investigation into the missing money."
+          ]
+        },
+        {
+          "word": "stock price",
+          "def": "The amount of money one share of a company costs",
+          "ipa": "/stɑk praɪs/",
+          "ex": [
+            "The stock price fell after the bad sales report.",
+            "Her company's stock price doubled in two years.",
+            "Investors watch the stock price every day."
+          ]
+        },
+        {
+          "word": "gain",
+          "def": "An increase in amount or value",
+          "ipa": "/ɡeɪn/",
+          "ex": [
+            "My weight gain over the winter surprised me.",
+            "The store saw a big gain in sales in December.",
+            "A small gain each month helps your savings grow."
+          ]
+        },
+        {
+          "word": "market value",
+          "def": "How much something is worth if it is sold today",
+          "ipa": "/ˈmɑrkɪt ˈvælju/",
+          "ex": [
+            "The market value of our house rose last year.",
+            "The car lost half its market value in three years.",
+            "The market value of gold is very high now."
+          ]
+        },
+        {
+          "word": "stock indexes",
+          "def": "Lists that follow the prices of a group of shares to show how a market is doing",
+          "ipa": "/stɑk ˈɪnˌdɛksɪz/",
+          "ex": [
+            "The news shows the main stock indexes every evening.",
+            "Stock indexes fell around the world on Tuesday.",
+            "Many people check stock indexes before they invest."
+          ]
+        },
+        {
+          "word": "cheered",
+          "def": "Shouted to show you are happy or support someone",
+          "ipa": "/tʃɪrd/",
+          "ex": [
+            "The crowd cheered when the team scored.",
+            "Her friends cheered as she crossed the finish line.",
+            "The children cheered when the snow began."
+          ]
+        },
+        {
+          "word": "petition",
+          "def": "A letter signed by many people asking someone to do or change something",
+          "ipa": "/pəˈtɪʃən/",
+          "ex": [
+            "Over 2,000 parents signed a petition for a new school.",
+            "She started a petition to save the old library.",
+            "The petition asks the city for more bike paths."
+          ]
+        },
+        {
+          "word": "lawmakers",
+          "def": "People elected to make a country's or state's laws",
+          "ipa": "/ˈlɔˌmeɪkərz/",
+          "ex": [
+            "Lawmakers voted on the new tax plan.",
+            "Many lawmakers want cheaper medicine.",
+            "The lawmakers met with teachers from across the state."
+          ]
+        },
+        {
+          "word": "scheduled",
+          "def": "Planned to happen at a certain time",
+          "ipa": "/ˈskɛdʒuld/",
+          "ex": [
+            "The meeting is scheduled for 3 p.m.",
+            "Her flight is scheduled to leave at noon.",
+            "The concert is scheduled for next Friday."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Nvidia's board rehired one of its founders as chief executive only 11 days after he quit over reports about his private life. Nvidia's shares jumped, but lawmakers questioned the choice.",
+          "a": true,
+          "why": "The board voted to bring Huang back on November 23, 2026. Nvidia's stock price rose about 31 percent, and lawmakers from both main parties spoke out."
+        },
+        {
+          "s": "Nvidia's workers voted to give their old boss his job again after a government search cleared him of any wrongdoing. The vote also ended the company's own review of what happened.",
+          "a": false,
+          "why": "Close, but the board voted, not the workers. The board said its own investigation into the reports would go on."
+        },
+        {
+          "s": "Nvidia said it plans to build a large new chip factory in Texas that will hire thousands of people. The company expects the first chips made there to be ready for buyers in 2028.",
+          "a": false,
+          "why": "This story is about Nvidia's board deciding to bring back Jensen Huang as chief executive after he stepped down on November 12."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Nvidia's board voted to bring back Jensen Huang as its chief executive.",
+          "a": true,
+          "why": "On November 23, 2026, the board voted unanimously to bring him back, 11 days after he left."
+        },
+        {
+          "s": "Huang stepped down because Nvidia's sales were falling.",
+          "a": false,
+          "why": "He stepped down after reports about his private life, including a relationship with a woman suspected of being a spy."
+        },
+        {
+          "s": "The board said Huang's return was a national security risk.",
+          "a": false,
+          "why": "The board said he was not a risk, based on what senior officials told it. It said its own investigation would go on."
+        },
+        {
+          "s": "President Trump said he had won the board over.",
+          "a": true,
+          "why": "He called in to a TV business show and said he had spoken to the board."
+        },
+        {
+          "s": "Nvidia's stock price fell after the board brought Huang back.",
+          "a": false,
+          "why": "The market bounced back, and Nvidia's stock price rose about 31 percent in one day."
+        },
+        {
+          "s": "Lawmakers from both main parties spoke out against the board's decision.",
+          "a": true,
+          "why": "They spoke out after the vote. Huang was scheduled to answer questions in Congress on December 1 and December 3."
+        }
+      ]
+    },
+    {
       "id": "goncourt-winner-uses-ai-2026",
       "number": 257,
       "headline": "France's top book prize winner says he used AI",
