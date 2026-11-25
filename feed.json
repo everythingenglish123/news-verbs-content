@@ -2,6 +2,494 @@
   "updated": "2026-11-25",
   "stories": [
     {
+      "id": "eu-indonesia-trade-deal-2026",
+      "number": 261,
+      "headline": "Indonesia and the EU sign a big trade deal",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n261-eu-indonesia-trade-deal-2026-flat.webp",
+      "position": "center 55%",
+      "sources": [
+        {
+          "title": "RI eyes $2.8b export boost to EU following trade deal signing (The Jakarta Post)",
+          "url": "https://www.thejakartapost.com/business/2026/11/22/ri-eyes-2-8b-export-boost-to-eu-following-trade-deal-signing"
+        },
+        {
+          "title": "IEU-CEPA to expand Indonesia's flagship exports: Trade Minister (ANTARA)",
+          "url": "https://en.antaranews.com/news/444459/ieu-cepa-to-expand-indonesias-flagship-exports-trade-minister"
+        },
+        {
+          "title": "Indonesia, EU sign 'ambitious' trade deal (AFP via South China Morning Post)",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal"
+        },
+        {
+          "title": "EU governments authorise signature of trade deal agreement with Indonesia (Reuters via The Star)",
+          "url": "https://www.thestar.com.my/news/world/2026/11/19/eu-governments-authorise-signature-of-trade-deal-agreement-with-indonesia"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 21, 2026, the European Union, a group of countries in Europe, signed a [[trade deal]] with Indonesia in Belgium, home of the EU's [[main offices]]. A trade deal makes buying and selling between countries easier. They also signed a second agreement to protect [[investors]]. The talks {{dragged on}} for about a decade. EU governments {{signed off on}} the deal on November 18. Indonesia is Southeast Asia's [[largest economy]].",
+          "verbs": [
+            {
+              "display": "dragged on",
+              "base": "drag on",
+              "correct": "To last longer than expected",
+              "wrong": "To be priced in euros",
+              "correctFirst": true,
+              "why": "Some meetings drag on until late at night. A bad cold sometimes drags on for weeks. The trade talks between the EU and Indonesia dragged on for about a decade."
+            },
+            {
+              "display": "signed off on",
+              "base": "sign off on",
+              "correct": "To give official approval",
+              "wrong": "To sell goods at a market",
+              "correctFirst": false,
+              "why": "The manager signs off on every new hire. Parents sign off on school trips before children can go. EU governments signed off on the trade deal on November 18, 2026."
+            }
+          ]
+        },
+        {
+          "text": "The deal will {{do away with}} [[tariffs]], or taxes on goods from other countries, on over 98 percent of European goods sold to Indonesia, the EU says. Indonesia's 50 percent tariff on European cars will end within five years. [[In return]], the EU will drop tariffs [[right away]] on about 90 percent of the types of Indonesian goods. It will {{phase out}} tariffs on most other goods over 3 to 15 years.",
+          "verbs": [
+            {
+              "display": "do away with",
+              "base": "do away with",
+              "correct": "To end or remove something",
+              "wrong": "To wrap something in paper",
+              "correctFirst": true,
+              "why": "Many restaurants do away with paper menus and use phones instead. Some schools do away with homework for young children. The deal will do away with tariffs on over 98 percent of European goods sold to Indonesia."
+            },
+            {
+              "display": "phase out",
+              "base": "phase out",
+              "correct": "To remove something slowly, in steps",
+              "wrong": "To check goods at the border",
+              "correctFirst": false,
+              "why": "Car makers phase out old models over a few years. Some stores phase out plastic bags over many months. The EU will phase out most of its other tariffs on Indonesian goods over 3 to 15 years."
+            }
+          ]
+        },
+        {
+          "text": "Indonesia expects its sales to the EU to {{go up}} by about 14 percent. [[Clothing]], shoes and [[vegetable oils]] should gain the most. Worries about palm oil and [[deforestation]], the clearing of forests, {{held up}} the talks. The deal has a [[special section]] on palm oil to help {{iron out}} these problems. Both sides also hoped to reduce [[harm]] from U.S. tariffs. The EU wants to {{branch out}} and trade with more [[parts of the world]].",
+          "verbs": [
+            {
+              "display": "go up",
+              "base": "go up",
+              "correct": "To become higher",
+              "wrong": "To be sent by plane",
+              "correctFirst": true,
+              "why": "Rent goes up in many cities every year. Ticket prices go up during the summer. Indonesia expects its sales to the EU to go up by about 14 percent."
+            },
+            {
+              "display": "held up",
+              "base": "hold up",
+              "correct": "To make something take longer",
+              "wrong": "To make something cheaper",
+              "correctFirst": false,
+              "why": "Heavy snow often holds up flights in winter. A missing form sometimes holds up a bank loan. Worries about palm oil and the clearing of forests held up the trade talks."
+            },
+            {
+              "display": "iron out",
+              "base": "iron out",
+              "correct": "To fix small problems",
+              "wrong": "To pay a small fee",
+              "correctFirst": true,
+              "why": "Business partners iron out problems before they sign a contract. A good manager irons out problems between team members. The deal has a special section on palm oil to help iron out these problems."
+            },
+            {
+              "display": "branch out",
+              "base": "branch out",
+              "correct": "To start doing new things",
+              "wrong": "To close a country's ports",
+              "correctFirst": false,
+              "why": "Many bakeries branch out and sell coffee too. Some farmers branch out into new crops when prices fall. The EU wants to branch out and trade with more parts of the world."
+            }
+          ]
+        },
+        {
+          "text": "The deal still had to {{go through}} the European Parliament, where EU [[lawmakers]] vote. Indonesia also had to [[ratify]] it, or give it final approval. Officials hoped it could {{kick in}} early in 2027. Lower EU tariffs on Indonesian goods under an older program were set to {{run out}} on January 1, 2027. Indonesia's economy minister called the signing a [[milestone]], not an [[end goal]]. The EU said the deal would {{pay off}}, making both economies billions of euros larger by 2042.",
+          "verbs": [
+            {
+              "display": "go through",
+              "base": "go through",
+              "correct": "To be officially approved",
+              "wrong": "To be weighed on a scale",
+              "correctFirst": true,
+              "why": "Some house sales never go through. A big bank loan often takes weeks to go through. The trade deal still had to go through the European Parliament."
+            },
+            {
+              "display": "kick in",
+              "base": "kick in",
+              "correct": "To start to have an effect",
+              "wrong": "To be shipped by sea",
+              "correctFirst": false,
+              "why": "The medicine kicks in after about twenty minutes. New tax rules usually kick in on January 1. Officials hoped the trade deal could kick in early in 2027."
+            },
+            {
+              "display": "run out",
+              "base": "run out",
+              "correct": "To end after a set time",
+              "wrong": "To be carried by truck",
+              "correctFirst": true,
+              "why": "Our lease runs out at the end of the month. Many free trials run out after one month. Lower EU tariffs on Indonesian goods under an older program were set to run out on January 1, 2027."
+            },
+            {
+              "display": "pay off",
+              "base": "pay off",
+              "correct": "To bring good results",
+              "wrong": "To be kept in a warehouse",
+              "correctFirst": false,
+              "why": "Hard work at school often pays off later in life. A good ad usually pays off with more customers. The EU said the trade deal would pay off, making both economies billions of euros larger by 2042."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Drag on",
+          "def": "To last longer than expected",
+          "ipa": "/dræɡ ɑn/",
+          "ex": [
+            "The court case dragged on for three years.",
+            "The meeting dragged on past lunch.",
+            "Their argument about the car dragged on for days."
+          ]
+        },
+        {
+          "verb": "Sign off on",
+          "def": "To give official approval",
+          "ipa": "/saɪn ɔf ɑn/",
+          "ex": [
+            "The mayor signed off on the new park.",
+            "My boss has to sign off on my vacation days.",
+            "The school board signed off on the new budget."
+          ]
+        },
+        {
+          "verb": "Do away with",
+          "def": "To end or remove something",
+          "ipa": "/du əˈweɪ wɪð/",
+          "ex": [
+            "The airline did away with free snacks.",
+            "Our city did away with parking meters downtown.",
+            "The company plans to do away with paper checks."
+          ]
+        },
+        {
+          "verb": "Phase out",
+          "def": "To remove something slowly, in steps",
+          "ipa": "/feɪz aʊt/",
+          "ex": [
+            "The bank will phase out its old credit cards next year.",
+            "Our school is phasing out paper tests.",
+            "The city plans to phase out diesel buses by 2030."
+          ]
+        },
+        {
+          "verb": "Go up",
+          "def": "To become higher",
+          "ipa": "/ɡoʊ ʌp/",
+          "ex": [
+            "Gas prices went up again in June.",
+            "The price of eggs went up last month.",
+            "Our rent will go up next year."
+          ]
+        },
+        {
+          "verb": "Hold up",
+          "def": "To make something take longer",
+          "ipa": "/hoʊld ʌp/",
+          "ex": [
+            "An accident held up traffic for an hour.",
+            "The storm held up our delivery.",
+            "Paperwork held up the sale of the house."
+          ]
+        },
+        {
+          "verb": "Iron out",
+          "def": "To fix small problems",
+          "ipa": "/ˈaɪərn aʊt/",
+          "ex": [
+            "We need to iron out a few details before the trip.",
+            "The two companies ironed out their differences.",
+            "The lawyers ironed out the last problems in the contract."
+          ]
+        },
+        {
+          "verb": "Branch out",
+          "def": "To start doing new things",
+          "ipa": "/bræntʃ aʊt/",
+          "ex": [
+            "The bookstore branched out into selling toys.",
+            "After ten years as a singer, she branched out into acting.",
+            "The coffee shop branched out with a lunch menu."
+          ]
+        },
+        {
+          "verb": "Go through",
+          "def": "To be officially approved",
+          "ipa": "/ɡoʊ θru/",
+          "ex": [
+            "The new law went through after a long debate.",
+            "Her loan finally went through on Friday.",
+            "The sale of the house went through last week."
+          ]
+        },
+        {
+          "verb": "Kick in",
+          "def": "To start to have an effect",
+          "ipa": "/kɪk ɪn/",
+          "ex": [
+            "The new minimum wage kicks in next month.",
+            "Her health insurance kicks in after 30 days.",
+            "The painkillers kicked in quickly."
+          ]
+        },
+        {
+          "verb": "Run out",
+          "def": "To end after a set time",
+          "ipa": "/rʌn aʊt/",
+          "ex": [
+            "The warranty on my laptop runs out next year.",
+            "The lease on our apartment runs out in June.",
+            "His contract runs out at the end of the season."
+          ]
+        },
+        {
+          "verb": "Pay off",
+          "def": "To bring good results",
+          "ipa": "/peɪ ɔf/",
+          "ex": [
+            "All that practice paid off at the game.",
+            "Her hard work paid off with a promotion.",
+            "The new store design paid off with higher sales."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "trade deal",
+          "def": "An agreement that makes it easier for countries to trade",
+          "ipa": "/treɪd dil/",
+          "ex": [
+            "The new trade deal makes cheese from France cheaper.",
+            "Farmers hope the trade deal will help them sell more corn.",
+            "The two countries spent years talking about a trade deal."
+          ]
+        },
+        {
+          "word": "main offices",
+          "def": "The most important buildings where a group or company works",
+          "ipa": "/meɪn ˈɔfɪsɪz/",
+          "ex": [
+            "The bank has its main offices in New York.",
+            "Visitors must check in at the main offices.",
+            "The company moved its main offices to Texas."
+          ]
+        },
+        {
+          "word": "investors",
+          "def": "People or companies that give money to a business to earn more",
+          "ipa": "/ɪnˈvɛstərz/",
+          "ex": [
+            "The new store needs investors to open.",
+            "Investors were happy with the company's profits.",
+            "Some investors lost money when the factory closed."
+          ]
+        },
+        {
+          "word": "largest economy",
+          "def": "The country or area that makes and sells the most",
+          "ipa": "/ˈlɑrdʒɪst ɪˈkɑnəmi/",
+          "ex": [
+            "The United States has the largest economy in the world.",
+            "California has the largest economy of any U.S. state.",
+            "Brazil is the largest economy in South America."
+          ]
+        },
+        {
+          "word": "tariffs",
+          "def": "Taxes on goods that come from other countries",
+          "ipa": "/ˈtærɪfs/",
+          "ex": [
+            "New tariffs made imported cars more expensive.",
+            "The president raised tariffs on steel.",
+            "Shoppers pay more when tariffs go higher."
+          ]
+        },
+        {
+          "word": "In return",
+          "def": "As payment or thanks for something",
+          "ipa": "/ɪn rɪˈtɝn/",
+          "ex": [
+            "I helped him move. In return, he bought me dinner.",
+            "She watches my dog. In return, I water her plants.",
+            "The city gave the company land. In return, it promised 500 jobs."
+          ]
+        },
+        {
+          "word": "right away",
+          "def": "Now, without waiting",
+          "ipa": "/raɪt əˈweɪ/",
+          "ex": [
+            "Please call me right away if you need help.",
+            "The doctor saw us right away.",
+            "We started the project right away."
+          ]
+        },
+        {
+          "word": "Clothing",
+          "def": "Things people wear, like shirts and pants",
+          "ipa": "/ˈkloʊðɪŋ/",
+          "ex": [
+            "Clothing is cheaper at the outlet mall.",
+            "Clothing for children is on the second floor.",
+            "Clothing made from cotton is good for hot weather."
+          ]
+        },
+        {
+          "word": "vegetable oils",
+          "def": "Oils made from plants, used for cooking and many products",
+          "ipa": "/ˈvɛdʒtəbəl ɔɪlz/",
+          "ex": [
+            "Many cooks use vegetable oils instead of butter.",
+            "Vegetable oils are also used in soap.",
+            "The store sells several vegetable oils, including corn oil."
+          ]
+        },
+        {
+          "word": "deforestation",
+          "def": "The cutting of trees across large areas of forest",
+          "ipa": "/diˌfɔrɪˈsteɪʃən/",
+          "ex": [
+            "Deforestation leaves many animals without a home.",
+            "The country is trying to slow deforestation.",
+            "Scientists study how deforestation changes the weather."
+          ]
+        },
+        {
+          "word": "special section",
+          "def": "A separate part of a document or place for one topic",
+          "ipa": "/ˈspɛʃəl ˈsɛkʃən/",
+          "ex": [
+            "The newspaper has a special section on sports.",
+            "The contract has a special section about overtime pay.",
+            "The library has a special section for children's books."
+          ]
+        },
+        {
+          "word": "parts of the world",
+          "def": "Areas or regions of the earth",
+          "ipa": "/pɑrts əv ðə wɝld/",
+          "ex": [
+            "In some parts of the world, it rains almost every day.",
+            "The company sells its phones in many parts of the world.",
+            "Tea is popular in many parts of the world."
+          ]
+        },
+        {
+          "word": "lawmakers",
+          "def": "People who are elected to make laws",
+          "ipa": "/ˈlɔˌmeɪkərz/",
+          "ex": [
+            "Lawmakers voted on the new school budget.",
+            "The lawmakers met with farmers about the dry summer.",
+            "Many lawmakers want lower taxes for families."
+          ]
+        },
+        {
+          "word": "harm",
+          "def": "Damage or a bad effect on someone or something",
+          "ipa": "/hɑrm/",
+          "ex": [
+            "Too much sun can do harm to your skin.",
+            "The storm did little harm to the town.",
+            "The new rule caused harm to small shops."
+          ]
+        },
+        {
+          "word": "ratify",
+          "def": "To give a law or agreement final official approval",
+          "ipa": "/ˈrætəˌfaɪ/",
+          "ex": [
+            "The Senate must ratify the agreement.",
+            "Enough states voted to ratify the change.",
+            "The union members will ratify the new contract on Monday."
+          ]
+        },
+        {
+          "word": "milestone",
+          "def": "An important point or event in a process",
+          "ipa": "/ˈmaɪlˌstoʊn/",
+          "ex": [
+            "Graduating from college is a big milestone.",
+            "The company reached a milestone of one million customers.",
+            "A baby's first steps are an exciting milestone."
+          ]
+        },
+        {
+          "word": "end goal",
+          "def": "The final result someone wants to reach",
+          "ipa": "/ɛnd ɡoʊl/",
+          "ex": [
+            "Our end goal is to buy a house.",
+            "The end goal of the program is to help people find jobs.",
+            "Saving money every week helps me reach my end goal."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "The European Union and Indonesia signed a deal that will end most taxes on goods traded between them. Indonesia hopes to sell more to Europe, but lawmakers still had to approve it.",
+          "a": true,
+          "why": "The deal will do away with tariffs on almost all goods. It still had to go through the European Parliament, and Indonesia had to ratify it."
+        },
+        {
+          "s": "Indonesia agreed to drop its tariffs on European products, while Europe keeps its own taxes on Indonesian goods. The new rules for both sides start right away, with no further votes.",
+          "a": false,
+          "why": "Close, but both sides will do away with tariffs. The deal can only kick in after the European Parliament and Indonesia approve it."
+        },
+        {
+          "s": "Indonesia stopped selling palm oil to other countries for three months to keep cooking oil cheap at home. Farmers protested the ban outside government buildings in several cities.",
+          "a": false,
+          "why": "This story is about a trade deal between the EU and Indonesia. The two sides signed it after talks dragged on for about a decade."
+        }
+      ],
+      "tf": [
+        {
+          "s": "The EU and Indonesia signed a trade deal after talks dragged on for years.",
+          "a": true,
+          "why": "They signed the deal on November 21, 2026, after about a decade of talks."
+        },
+        {
+          "s": "The deal will do away with tariffs on only a few kinds of goods.",
+          "a": false,
+          "why": "It will end tariffs on over 98 percent of European goods sold to Indonesia, and on most Indonesian goods too."
+        },
+        {
+          "s": "Indonesia expects its sales to the EU to fall because of the deal.",
+          "a": false,
+          "why": "Indonesia expects its sales to the EU to go up by about 14 percent."
+        },
+        {
+          "s": "Worries about palm oil and forests held up the trade talks.",
+          "a": true,
+          "why": "Fears about palm oil and the clearing of forests slowed the talks, so the deal has a special section to iron out these problems."
+        },
+        {
+          "s": "The EU wants to branch out and trade with more parts of the world.",
+          "a": true,
+          "why": "Both sides also hoped the deal would reduce the harm from U.S. tariffs, so the EU wants more trade partners."
+        },
+        {
+          "s": "The trade deal started on the same day that it was signed.",
+          "a": false,
+          "why": "It still had to go through the European Parliament, and officials hoped it could kick in early in 2027."
+        }
+      ]
+    },
+    {
       "id": "apple-new-ceo-iphone-demand-2026",
       "number": 260,
       "headline": "Apple cannot make foldable iPhones fast enough",
