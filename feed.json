@@ -2,6 +2,472 @@
   "updated": "2026-11-27",
   "stories": [
     {
+      "id": "waymo-freeway-ban-2026",
+      "number": 265,
+      "headline": "Waymo pauses driverless taxi rides on U.S. freeways",
+      "badge": "Money",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n265-waymo-freeway-ban-2026-flat.webp",
+      "position": "center 65%",
+      "sources": [
+        {
+          "title": "Waymo temporarily pulls driverless taxis from all US freeways (BBC News)",
+          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo"
+        },
+        {
+          "title": "California bans Waymo self-driving cars from freeways (The Guardian)",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways"
+        },
+        {
+          "title": "Waymo pauses robotaxi rides on US freeways after California ban (CNA)",
+          "url": "https://www.channelnewsasia.com/business/waymo-pauses-robotaxi-rides-us-freeways-after-california-ban-6560726"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 17, 2026, the [[driverless]] taxi company Waymo said it had {{called off}} all rides on U.S. freeways, the big, fast highways with no traffic lights. Waymo said the [[pause]] was [[temporary]]. Waymo has the same owner as Google. It runs the country's largest group, or [[fleet]], of self-driving cars. The decision came after California officials {{stepped in}} and [[banned]] its driverless cars from every state freeway.",
+          "verbs": [
+            {
+              "display": "called off",
+              "base": "call off",
+              "correct": "To stop or cancel something",
+              "wrong": "To paint a car a new color",
+              "correctFirst": true,
+              "why": "Schools call off classes when a big storm comes. Coaches call off practice on very hot days. Waymo said it had called off all its freeway rides."
+            },
+            {
+              "display": "stepped in",
+              "base": "step in",
+              "correct": "To act to stop a problem",
+              "wrong": "To leave a job in government",
+              "correctFirst": false,
+              "why": "A teacher steps in when two students start to fight. The city steps in when a building becomes unsafe. California officials stepped in and banned Waymo's driverless cars from state freeways."
+            }
+          ]
+        },
+        {
+          "text": "California's motor vehicle department called Waymo's freeway service an \"[[imminent hazard]] to [[public safety]],\" a danger that could soon hurt people. The ban {{kicked in}} on November 11. On November 5, three Waymo cars had {{ended up}} in a [[construction zone]] south of San Francisco. That is part of a road closed for [[repair work]], with workers and machines nearby. Waymo {{pointed out}} that nobody was hurt and no cars crashed. A video from November 6 appeared to show a Waymo car trying to {{get around}} [[highway patrol]] cars, state police cars that were slowing traffic [[on purpose]].",
+          "verbs": [
+            {
+              "display": "kicked in",
+              "base": "kick in",
+              "correct": "To start having an effect",
+              "wrong": "To be painted a bright color",
+              "correctFirst": true,
+              "why": "The medicine kicks in after about 20 minutes. A new rule often kicks in on the first day of the year. California's ban on Waymo's driverless cars kicked in on November 11."
+            },
+            {
+              "display": "ended up",
+              "base": "end up",
+              "correct": "To arrive somewhere without planning it",
+              "wrong": "To be sold cheaply to a new owner",
+              "correctFirst": false,
+              "why": "Tourists often end up on the wrong train. Lost hikers sometimes end up far from their camp. Three Waymo cars ended up in a construction zone south of San Francisco."
+            },
+            {
+              "display": "pointed out",
+              "base": "point out",
+              "correct": "To tell people an important fact",
+              "wrong": "To pay a fine to the state",
+              "correctFirst": false,
+              "why": "Doctors point out that sleep is important for good health. My sister always points out that the store closes early on Sundays. Waymo pointed out that nobody was hurt in the construction zone."
+            },
+            {
+              "display": "get around",
+              "base": "get around",
+              "correct": "To avoid something blocking your way",
+              "wrong": "To play loud music on a car radio",
+              "correctFirst": true,
+              "why": "Drivers get around a fallen tree by using the other lane. Bike riders get around parked cars every day. A video appeared to show a Waymo car trying to get around highway patrol cars."
+            }
+          ]
+        },
+        {
+          "text": "Waymo {{rolled out}} freeway rides in 2025. By November 2026, it operated in 15 U.S. cities, but only a few had freeway trips, including San Francisco and Los Angeles. Waymo said it stopped those trips outside California so it could {{look into}} how its cars were [[performing]]. Its taxis continued to use regular city streets. Waymo's website says its cars have 95 percent fewer crashes with [[serious injuries]] than human drivers.",
+          "verbs": [
+            {
+              "display": "rolled out",
+              "base": "roll out",
+              "correct": "To offer a new service to the public",
+              "wrong": "To draw a picture of a new service",
+              "correctFirst": true,
+              "why": "Phone companies roll out new plans every year. Banks roll out new apps for their customers. Waymo rolled out freeway rides in 2025."
+            },
+            {
+              "display": "look into",
+              "base": "look into",
+              "correct": "To study something to learn more",
+              "wrong": "To buy new parts for a car",
+              "correctFirst": false,
+              "why": "The police look into every report of a stolen car. My manager looks into each complaint from a customer. Waymo said it stopped freeway trips so it could look into how its cars were performing."
+            }
+          ]
+        },
+        {
+          "text": "California said the ban would stay until Waymo showed it had made [[effective]] changes. The state said similar [[incidents]] happened on May 18, 2026. Waymo said it was working with officials to {{bring back}} freeway rides. The pause {{set back}} a company trying to [[expand]] quickly. It came as [[rivals]] such as Tesla and Amazon were trying to {{catch up}} with it.",
+          "verbs": [
+            {
+              "display": "bring back",
+              "base": "bring back",
+              "correct": "To start offering something again",
+              "wrong": "To draw something on a road map",
+              "correctFirst": true,
+              "why": "The cafe brings back its pumpkin soup every fall. Our gym brings back evening classes in January. Waymo said it was working with state officials to bring back freeway rides."
+            },
+            {
+              "display": "set back",
+              "base": "set back",
+              "correct": "To slow someone's progress",
+              "wrong": "To move a company to a new city",
+              "correctFirst": false,
+              "why": "Bad weather sets back the work on our new school. An injury often sets a young player back for months. The pause set back a company trying to expand quickly."
+            },
+            {
+              "display": "catch up",
+              "base": "catch up",
+              "correct": "To reach the same level as others",
+              "wrong": "To sell cars at a low price",
+              "correctFirst": true,
+              "why": "New students work hard to catch up with the class. Small shops try to catch up with big online stores. Rivals such as Tesla and Amazon were trying to catch up with Waymo."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Call off",
+          "def": "To stop or cancel something",
+          "ipa": "/kɔl ɔf/",
+          "ex": [
+            "The city called off the parade because of the storm.",
+            "Workers called off the strike after the new offer.",
+            "We called off our trip for now because my mother got sick."
+          ]
+        },
+        {
+          "verb": "Step in",
+          "def": "To act to stop a problem",
+          "ipa": "/stɛp ɪn/",
+          "ex": [
+            "The coach stepped in before the argument got worse.",
+            "The government stepped in to help the failing bank.",
+            "My mother always steps in when my brothers fight."
+          ]
+        },
+        {
+          "verb": "Kick in",
+          "def": "To start having an effect",
+          "ipa": "/kɪk ɪn/",
+          "ex": [
+            "The new speed limit kicks in next month.",
+            "The pills kicked in and my headache stopped.",
+            "The higher prices kicked in on Monday."
+          ]
+        },
+        {
+          "verb": "End up",
+          "def": "To arrive somewhere without planning it",
+          "ipa": "/ɛnd ʌp/",
+          "ex": [
+            "We took a wrong turn and ended up at the airport.",
+            "How did my keys end up in the kitchen?",
+            "He got lost and ended up in another town."
+          ]
+        },
+        {
+          "verb": "Point out",
+          "def": "To tell people an important fact",
+          "ipa": "/pɔɪnt aʊt/",
+          "ex": [
+            "She pointed out that the meeting was on the wrong day.",
+            "He pointed out that we had no money left.",
+            "My teacher pointed out that the test was only for practice."
+          ]
+        },
+        {
+          "verb": "Get around",
+          "def": "To avoid something blocking your way",
+          "ipa": "/ɡɛt əˈraʊnd/",
+          "ex": [
+            "We got around the traffic jam by using a side street.",
+            "The boat got around the rocks safely.",
+            "Can the truck get around that hole in the road?"
+          ]
+        },
+        {
+          "verb": "Roll out",
+          "def": "To offer a new service to the public",
+          "ipa": "/roʊl aʊt/",
+          "ex": [
+            "The bus company rolled out a new night service.",
+            "The school will roll out online classes in the fall.",
+            "Our bank rolled out a faster way to pay bills."
+          ]
+        },
+        {
+          "verb": "Look into",
+          "def": "To study something to learn more",
+          "ipa": "/lʊk ˈɪntu/",
+          "ex": [
+            "The school is looking into the problem with the buses.",
+            "I asked the bank to look into the missing money.",
+            "Reporters looked into why the bridge was closed."
+          ]
+        },
+        {
+          "verb": "Bring back",
+          "def": "To start offering something again",
+          "ipa": "/brɪŋ bæk/",
+          "ex": [
+            "The restaurant brought back its old lunch menu.",
+            "The store brought back its old return policy.",
+            "The city brought back free summer concerts."
+          ]
+        },
+        {
+          "verb": "Set back",
+          "def": "To slow someone's progress",
+          "ipa": "/sɛt bæk/",
+          "ex": [
+            "The storm set the project back by two weeks.",
+            "Losing that client set our small business back.",
+            "A long illness set her back at school."
+          ]
+        },
+        {
+          "verb": "Catch up",
+          "def": "To reach the same level as others",
+          "ipa": "/kætʃ ʌp/",
+          "ex": [
+            "I missed a week of class and need to catch up.",
+            "Our team scored twice to catch up with the leaders.",
+            "She studies every night to catch up with her classmates."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "driverless",
+          "def": "Able to move without a person driving it",
+          "ipa": "/ˈdraɪvərləs/",
+          "ex": [
+            "Some airports use driverless trains between terminals.",
+            "Would you ride in a driverless bus?",
+            "The farm is testing a driverless tractor."
+          ]
+        },
+        {
+          "word": "pause",
+          "def": "A short time when something stops before it may start again",
+          "ipa": "/pɔz/",
+          "ex": [
+            "There was a long pause before she answered.",
+            "There was a pause in the game while the players rested.",
+            "After a pause, the music started again."
+          ]
+        },
+        {
+          "word": "temporary",
+          "def": "Lasting for only a limited time",
+          "ipa": "/ˈtɛmpəˌrɛri/",
+          "ex": [
+            "He found a temporary job for the summer.",
+            "The road closure is only temporary.",
+            "We moved into a temporary apartment after the fire."
+          ]
+        },
+        {
+          "word": "fleet",
+          "def": "A group of vehicles run by one company or person",
+          "ipa": "/flit/",
+          "ex": [
+            "The airline added ten planes to its fleet.",
+            "The city bought a new fleet of buses.",
+            "Her company manages a fleet of delivery trucks."
+          ]
+        },
+        {
+          "word": "banned",
+          "def": "Officially said that something is not allowed",
+          "ipa": "/bænd/",
+          "ex": [
+            "The school banned phones in class.",
+            "The city banned smoking in its parks.",
+            "Our apartment building banned large dogs."
+          ]
+        },
+        {
+          "word": "imminent hazard",
+          "def": "A danger that is likely to cause harm very soon",
+          "ipa": "/ˈɪmənənt ˈhæzərd/",
+          "ex": [
+            "The broken bridge was an imminent hazard to drivers.",
+            "Inspectors called the old wiring an imminent hazard.",
+            "The fire department treats a gas leak as an imminent hazard."
+          ]
+        },
+        {
+          "word": "public safety",
+          "def": "The protection of people from danger in a community",
+          "ipa": "/ˈpʌblɪk ˈseɪfti/",
+          "ex": [
+            "The mayor promised to spend more on public safety.",
+            "Police and firefighters work for public safety.",
+            "The bridge was closed for public safety."
+          ]
+        },
+        {
+          "word": "construction zone",
+          "def": "An area where people are building or repairing something",
+          "ipa": "/kənˈstrʌkʃən zoʊn/",
+          "ex": [
+            "Please drive slowly in a construction zone.",
+            "Our bus goes through a construction zone every morning.",
+            "Workers wear bright vests in the construction zone."
+          ]
+        },
+        {
+          "word": "repair work",
+          "def": "The job of fixing something that is damaged",
+          "ipa": "/rɪˈpɛr wɜrk/",
+          "ex": [
+            "The repair work on our roof took three days.",
+            "The museum is closed for repair work.",
+            "Repair work on the pipe starts Monday."
+          ]
+        },
+        {
+          "word": "highway patrol",
+          "def": "The police who watch traffic on major roads",
+          "ipa": "/ˈhaɪˌweɪ pəˈtroʊl/",
+          "ex": [
+            "The highway patrol closed the road after the storm.",
+            "A highway patrol officer stopped the speeding truck.",
+            "My cousin works for the state highway patrol."
+          ]
+        },
+        {
+          "word": "on purpose",
+          "def": "Done because you wanted to, not by accident",
+          "ipa": "/ɑn ˈpɜrpəs/",
+          "ex": [
+            "I left the door open on purpose.",
+            "Did he break the window on purpose?",
+            "She arrived early on purpose."
+          ]
+        },
+        {
+          "word": "performing",
+          "def": "Doing a job or task well or badly",
+          "ipa": "/pərˈfɔrmɪŋ/",
+          "ex": [
+            "Our new computers are performing very well.",
+            "The team is performing better this season.",
+            "How is the new engine performing?"
+          ]
+        },
+        {
+          "word": "serious injuries",
+          "def": "Bad damage to the body that needs medical care",
+          "ipa": "/ˈsɪriəs ˈɪndʒəriz/",
+          "ex": [
+            "Seat belts help prevent serious injuries.",
+            "Two climbers had serious injuries after the fall.",
+            "Doctors treated her serious injuries at the hospital."
+          ]
+        },
+        {
+          "word": "effective",
+          "def": "Working well and giving the result you want",
+          "ipa": "/ɪˈfɛktɪv/",
+          "ex": [
+            "This is an effective way to save money.",
+            "The new medicine is very effective.",
+            "Short lessons can be more effective than long ones."
+          ]
+        },
+        {
+          "word": "incidents",
+          "def": "Events that are unusual, unpleasant or dangerous",
+          "ipa": "/ˈɪnsədənts/",
+          "ex": [
+            "The school reported two incidents on its buses.",
+            "Police are studying several incidents near the park.",
+            "There were no incidents during the parade."
+          ]
+        },
+        {
+          "word": "expand",
+          "def": "To grow larger or reach more places",
+          "ipa": "/ɪkˈspænd/",
+          "ex": [
+            "The bakery plans to expand to a second city.",
+            "Our college wants to expand its nursing program.",
+            "Small businesses often expand slowly."
+          ]
+        },
+        {
+          "word": "rivals",
+          "def": "People or companies trying to beat each other",
+          "ipa": "/ˈraɪvəlz/",
+          "ex": [
+            "The two stores have been rivals for years.",
+            "Her rivals trained hard for the race.",
+            "The company lowered prices to beat its rivals."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Waymo paused its freeway rides across the U.S. after California banned its driverless cars from state freeways. Officials acted because the cars kept entering areas where crews were working.",
+          "a": true,
+          "why": "California stepped in after cars ended up in construction zones. Waymo then called off freeway rides everywhere and said the pause was temporary."
+        },
+        {
+          "s": "Driverless taxis hurt several road workers in a California crash, so the state stopped them on its highways. The company now says those trips will return once new software gets approved.",
+          "a": false,
+          "why": "Close, but nobody was hurt. Waymo pointed out that no injuries or crashes happened in the construction zone."
+        },
+        {
+          "s": "Thousands of self-driving cars were recalled because a software problem let them go onto flooded roads. Engineers are now updating the system in each city where the company operates.",
+          "a": false,
+          "why": "This is about a freeway pause. California stepped in after Waymo cars entered construction zones, and the company called off its freeway rides."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Waymo called off its driverless rides on every U.S. freeway.",
+          "a": true,
+          "why": "Waymo said on November 17, 2026, that it had called off all rides on U.S. freeways."
+        },
+        {
+          "s": "Waymo said its freeway pause would be permanent.",
+          "a": false,
+          "why": "Waymo called the pause temporary and said it was working to bring back freeway rides."
+        },
+        {
+          "s": "California officials stepped in because they saw a danger to the public.",
+          "a": true,
+          "why": "The state stepped in and called Waymo's freeway service an imminent hazard to public safety."
+        },
+        {
+          "s": "People were hurt when Waymo cars ended up in a construction zone.",
+          "a": false,
+          "why": "Waymo pointed out that nobody was hurt and no cars crashed in the construction zone."
+        },
+        {
+          "s": "Waymo said it wanted to look into how its cars were performing.",
+          "a": true,
+          "why": "The company stopped freeway trips outside California too so it could look into its cars' performance."
+        },
+        {
+          "s": "Waymo's taxis also stopped driving on regular city streets.",
+          "a": false,
+          "why": "Waymo only called off its freeway rides. Its taxis continued to drive on city streets."
+        }
+      ]
+    },
+    {
       "id": "australia-social-media-court-2026",
       "number": 264,
       "headline": "Australia's top court hears social media ban challenge",
