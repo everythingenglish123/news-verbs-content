@@ -2,6 +2,518 @@
   "updated": "2026-11-28",
   "stories": [
     {
+      "id": "solomon-islands-australia-pact-2026",
+      "number": 269,
+      "headline": "Solomon Islands signs a security treaty with Australia",
+      "badge": "Geopolitics",
+      "meta": "",
+      "image": "https://pub-fac2339b221540219db448914fa48d93.r2.dev/images/n269-solomon-islands-australia-pact-2026-flat.webp",
+      "position": "center 45%",
+      "sources": [
+        {
+          "title": "Solomon Islands ends controversial security pact with China for Australian treaty (BBC News)",
+          "url": "https://www.bbc.com/news/articles/ckdd1z2gvlgno"
+        },
+        {
+          "title": "Australia signs 'historic' pact with Solomon Islands in blow to China (ABC News Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550"
+        },
+        {
+          "title": "Signing of the Australia-Solomon Islands Treaty (Prime Minister of Australia)",
+          "url": "https://www.pm.gov.au/media/signing-australia-solomon-islands-treaty"
+        }
+      ],
+      "chunks": [
+        {
+          "text": "On November 25, 2026, Solomon Islands signed a [[security treaty]] with Australia. A treaty is a [[formal agreement]] between countries. Solomon Islands is an [[island nation]] in the South Pacific. Its prime minister took about two dozen [[lawmakers]] to Australia's capital for the signing. The treaty {{grew out of}} talks in June 2026, when he visited Australia. It {{lays out}} Australian help with police, [[border protection]], schools and jobs.",
+          "verbs": [
+            {
+              "display": "grew out of",
+              "base": "grow out of",
+              "correct": "To begin as a result of something",
+              "wrong": "To be signed by many people",
+              "correctFirst": true,
+              "why": "Many small companies grow out of a simple idea. Some close friendships grow out of a shared class at school. The treaty grew out of talks in June 2026."
+            },
+            {
+              "display": "lays out",
+              "base": "lay out",
+              "correct": "To explain the parts of a plan",
+              "wrong": "To keep a record of talks",
+              "correctFirst": false,
+              "why": "The coach lays out the plan before every game. A good teacher lays out the plan for the year on the first day. The treaty lays out Australian help with police, border protection, schools and jobs."
+            }
+          ]
+        },
+        {
+          "text": "A day earlier, Australian media reported on Solomon Islands' 2022 [[security pact]], or agreement, with China. They said Solomon Islands had told China it would {{pull out}} of the pact. The pact, signed by a former prime minister, let China {{send in}} police teams. It was never [[made public]]. It {{stirred up}} [[fears]] in Australia and the U.S. that China wanted a [[foothold]], a starting point for power, in the Pacific.",
+          "verbs": [
+            {
+              "display": "pull out",
+              "base": "pull out",
+              "correct": "To leave an agreement",
+              "wrong": "To win an election",
+              "correctFirst": true,
+              "why": "Some players pull out of a contract early. A country sometimes pulls out of a trade deal after an election. Reports said Solomon Islands had told China it would pull out of the 2022 pact."
+            },
+            {
+              "display": "send in",
+              "base": "send in",
+              "correct": "To send officers to a place",
+              "wrong": "To elect a new leader",
+              "correctFirst": false,
+              "why": "The city sends in extra police after a big storm. The government sends in soldiers when a flood hits. The 2022 pact let China send in police teams to Solomon Islands."
+            },
+            {
+              "display": "stirred up",
+              "base": "stir up",
+              "correct": "To cause bad feelings",
+              "wrong": "To pass a new law",
+              "correctFirst": true,
+              "why": "A rude post online often stirs up anger. Rumors about job cuts stir up fear at work. The 2022 pact stirred up fears in Australia and the U.S."
+            }
+          ]
+        },
+        {
+          "text": "The China pact was set to {{run out}} in April 2027. Reports said the country would not [[renew]] it, or make it last longer. The new treaty {{rules out}} any foreign [[military base]] there. Solomon Islands will first ask members of the Pacific Islands Forum for [[security help]]. This group of Pacific nations includes Australia but not China. Australia will help {{build up}} the country's [[police force]]. It will also {{step up}} support for [[free education]].",
+          "verbs": [
+            {
+              "display": "run out",
+              "base": "run out",
+              "correct": "To end at a set time",
+              "wrong": "To give a long speech",
+              "correctFirst": false,
+              "why": "My phone contract runs out in March. The free trial runs out after thirty days. The China pact was set to run out in April 2027."
+            },
+            {
+              "display": "rules out",
+              "base": "rule out",
+              "correct": "To say something will not happen",
+              "wrong": "To make someone a minister",
+              "correctFirst": true,
+              "why": "The coach rules out any changes to the team before the final. The company rules out job cuts for the rest of the year. The new treaty rules out any foreign military base in Solomon Islands."
+            },
+            {
+              "display": "build up",
+              "base": "build up",
+              "correct": "To make something stronger",
+              "wrong": "To swear an oath of office",
+              "correctFirst": false,
+              "why": "Daily exercise builds up your heart. Reading every night builds up a child's language skills. Australia will help build up the police force in Solomon Islands."
+            },
+            {
+              "display": "step up",
+              "base": "step up",
+              "correct": "To increase something",
+              "wrong": "To appoint a new judge",
+              "correctFirst": true,
+              "why": "Stores step up their hiring before the busy season. The city steps up bus service during big games. Australia will step up support for free education in Solomon Islands."
+            }
+          ]
+        },
+        {
+          "text": "Australia will {{open up}} jobs in Australia for Solomon Islanders in [[child care]] and care for older people. Solomon Islands' prime minister {{held back}} [[details]] about the China pact. He said a [[secrecy clause]] keeps it private. China's foreign ministry did not confirm or deny the reports. The former prime minister who signed that pact now leads the [[opposition]], the parties not in power. He {{spoke out}} against ending it. The current prime minister {{brushed off}} the risk of a vote to remove him.",
+          "verbs": [
+            {
+              "display": "open up",
+              "base": "open up",
+              "correct": "To make something available",
+              "wrong": "To arrest someone",
+              "correctFirst": false,
+              "why": "A new factory opens up hundreds of jobs in a small town. Free classes open up new chances for adults. Australia will open up more jobs in Australia for Solomon Islanders in child care."
+            },
+            {
+              "display": "held back",
+              "base": "hold back",
+              "correct": "To keep information secret",
+              "wrong": "To sign a document in public",
+              "correctFirst": true,
+              "why": "Some patients hold back details from their doctor. Police often hold back the names of people in a crash. Solomon Islands' prime minister held back details about the China pact."
+            },
+            {
+              "display": "spoke out",
+              "base": "speak out",
+              "correct": "To criticize something publicly",
+              "wrong": "To study a report for years",
+              "correctFirst": false,
+              "why": "Many parents speak out when a school closes. Some workers speak out about unsafe jobs. The opposition leader spoke out against ending the pact with China."
+            },
+            {
+              "display": "brushed off",
+              "base": "brush off",
+              "correct": "To treat something as unimportant",
+              "wrong": "To give someone a medal",
+              "correctFirst": true,
+              "why": "My brother brushes off every cold and goes to work. Some players brush off bad news about their team. The current prime minister brushed off the risk of a vote to remove him."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "verb": "Grow out of",
+          "def": "To begin as a result of something",
+          "ipa": "/ɡroʊ aʊt əv/",
+          "ex": [
+            "The festival grew out of a small street party.",
+            "Her bakery grew out of a hobby.",
+            "The new law grew out of years of complaints."
+          ]
+        },
+        {
+          "verb": "Lay out",
+          "def": "To explain the parts of a plan",
+          "ipa": "/leɪ aʊt/",
+          "ex": [
+            "The manager laid out the plan for next year.",
+            "The report lays out three ways to save money.",
+            "She laid out her plan for the new store."
+          ]
+        },
+        {
+          "verb": "Pull out",
+          "def": "To leave an agreement",
+          "ipa": "/pʊl aʊt/",
+          "ex": [
+            "The country pulled out of the trade agreement.",
+            "Two companies pulled out of the deal at the last minute.",
+            "The company pulled out of the contract after one year."
+          ]
+        },
+        {
+          "verb": "Send in",
+          "def": "To send officers to a place",
+          "ipa": "/sɛnd ɪn/",
+          "ex": [
+            "The governor sent in the National Guard after the flood.",
+            "The city sent in more police after the protest.",
+            "The state sent in police officers to help the small town."
+          ]
+        },
+        {
+          "verb": "Stir up",
+          "def": "To cause bad feelings",
+          "ipa": "/stɝ ʌp/",
+          "ex": [
+            "His comments stirred up a lot of anger.",
+            "The new tax stirred up anger in the city.",
+            "The rumor stirred up fear among the workers."
+          ]
+        },
+        {
+          "verb": "Run out",
+          "def": "To end at a set time",
+          "ipa": "/rʌn aʊt/",
+          "ex": [
+            "My passport runs out next year.",
+            "The lease on our apartment runs out in June.",
+            "The trade deal ran out after ten years."
+          ]
+        },
+        {
+          "verb": "Rule out",
+          "def": "To say something will not happen",
+          "ipa": "/rul aʊt/",
+          "ex": [
+            "The mayor ruled out a tax increase next year.",
+            "The team has ruled out a move to another city.",
+            "The president ruled out sending troops."
+          ]
+        },
+        {
+          "verb": "Build up",
+          "def": "To make something stronger",
+          "ipa": "/bɪld ʌp/",
+          "ex": [
+            "The coach wants to build up the team's defense.",
+            "Lifting weights builds up your muscles.",
+            "The country is building up its army."
+          ]
+        },
+        {
+          "verb": "Step up",
+          "def": "To increase something",
+          "ipa": "/stɛp ʌp/",
+          "ex": [
+            "The police stepped up patrols downtown.",
+            "The company stepped up production in the fall.",
+            "The school stepped up its efforts to stop bullying."
+          ]
+        },
+        {
+          "verb": "Open up",
+          "def": "To make something available",
+          "ipa": "/ˈoʊpən ʌp/",
+          "ex": [
+            "The new law opened up more jobs for young people.",
+            "A college degree can open up many chances.",
+            "The program opens up new places for students."
+          ]
+        },
+        {
+          "verb": "Hold back",
+          "def": "To keep information secret",
+          "ipa": "/hoʊld bæk/",
+          "ex": [
+            "The police held back the name of the driver.",
+            "I think she is holding back the truth.",
+            "The company held back details about the sale."
+          ]
+        },
+        {
+          "verb": "Speak out",
+          "def": "To criticize something publicly",
+          "ipa": "/spik aʊt/",
+          "ex": [
+            "Several teachers spoke out against the new rule.",
+            "She spoke out about unfair pay.",
+            "Neighbors spoke out against the plan for a new highway."
+          ]
+        },
+        {
+          "verb": "Brush off",
+          "def": "To treat something as unimportant",
+          "ipa": "/brʌʃ ɔf/",
+          "ex": [
+            "He brushed off the criticism and kept working.",
+            "She brushed off questions about her health.",
+            "The coach brushed off talk of a bad season."
+          ]
+        }
+      ],
+      "wordDefs": [
+        {
+          "word": "security treaty",
+          "def": "A formal agreement between countries about keeping people safe",
+          "ipa": "/sɪˈkjʊrəti ˈtriti/",
+          "ex": [
+            "The two nations signed a security treaty to protect their borders.",
+            "A security treaty often means soldiers train together.",
+            "Lawmakers must vote on the new security treaty."
+          ]
+        },
+        {
+          "word": "island nation",
+          "def": "A country made of one or more islands",
+          "ipa": "/ˈaɪlənd ˈneɪʃən/",
+          "ex": [
+            "Japan is an island nation in Asia.",
+            "Many people in an island nation work in fishing.",
+            "Food can cost more in an island nation because it comes by ship."
+          ]
+        },
+        {
+          "word": "lawmakers",
+          "def": "People who are elected to make laws",
+          "ipa": "/ˈlɔˌmeɪkərz/",
+          "ex": [
+            "Lawmakers voted to raise the minimum wage.",
+            "Some lawmakers want to build a new bridge.",
+            "The lawmakers met with teachers about school safety."
+          ]
+        },
+        {
+          "word": "security pact",
+          "def": "An agreement between countries about police, soldiers or safety",
+          "ipa": "/sɪˈkjʊrəti pækt/",
+          "ex": [
+            "The neighbors signed a security pact to fight crime at the border.",
+            "The security pact lets the two armies share information.",
+            "Voters wanted to know more about the security pact."
+          ]
+        },
+        {
+          "word": "foothold",
+          "def": "A first strong position from which you can grow",
+          "ipa": "/ˈfʊtˌhoʊld/",
+          "ex": [
+            "The company wants a foothold in the Asian market.",
+            "The coffee chain gained a foothold in our town with one small store.",
+            "A good first job can give you a foothold in a new field."
+          ]
+        },
+        {
+          "word": "renew",
+          "def": "To make an agreement last for a new period of time",
+          "ipa": "/rɪˈnu/",
+          "ex": [
+            "I need to renew my gym membership this year.",
+            "The team decided to renew the coach's contract.",
+            "We renew our apartment lease every June."
+          ]
+        },
+        {
+          "word": "military base",
+          "def": "A place where an army keeps soldiers and equipment",
+          "ipa": "/ˈmɪlɪˌtɛri beɪs/",
+          "ex": [
+            "My uncle works at a military base in Texas.",
+            "The military base has its own hospital and school.",
+            "Planes leave the military base every morning."
+          ]
+        },
+        {
+          "word": "security help",
+          "def": "Support to keep a country or place safe",
+          "ipa": "/sɪˈkjʊrəti hɛlp/",
+          "ex": [
+            "The small town asked the state for security help during the festival.",
+            "The embassy got extra security help from local police.",
+            "After the storm, the island needed security help to stop crime."
+          ]
+        },
+        {
+          "word": "police force",
+          "def": "All the police officers of a country or city",
+          "ipa": "/pəˈlis fɔrs/",
+          "ex": [
+            "The city plans to hire more people for its police force.",
+            "She joined the police force after college.",
+            "The police force has a new training program."
+          ]
+        },
+        {
+          "word": "child care",
+          "def": "Watching young children while their parents work",
+          "ipa": "/tʃaɪld kɛr/",
+          "ex": [
+            "Child care costs a lot in big cities.",
+            "My company helps workers pay for child care.",
+            "She found a child care center near her office."
+          ]
+        },
+        {
+          "word": "formal agreement",
+          "def": "An official written deal that people or groups sign",
+          "ipa": "/ˈfɔrməl əˈɡrimənt/",
+          "ex": [
+            "The two companies signed a formal agreement to work together.",
+            "A lease is a formal agreement between a renter and an owner.",
+            "The union and the school reached a formal agreement on pay."
+          ]
+        },
+        {
+          "word": "made public",
+          "def": "Shared so that everyone can see or know it",
+          "ipa": "/meɪd ˈpʌblɪk/",
+          "ex": [
+            "The test results will be made public next week.",
+            "The mayor's salary is made public every year.",
+            "The new train schedule was made public on Monday."
+          ]
+        },
+        {
+          "word": "fears",
+          "def": "Feelings that something bad may happen",
+          "ipa": "/fɪrz/",
+          "ex": [
+            "News of job cuts causes fears among workers.",
+            "The storm warning caused fears along the coast.",
+            "Her fears about the exam kept her awake."
+          ]
+        },
+        {
+          "word": "border protection",
+          "def": "Work to control who and what enters a country",
+          "ipa": "/ˈbɔrdər prəˈtɛkʃən/",
+          "ex": [
+            "The government spends more money on border protection every year.",
+            "Border protection officers check bags at the airport.",
+            "The new plan improves border protection along the coast."
+          ]
+        },
+        {
+          "word": "details",
+          "def": "Small facts or pieces of information about something",
+          "ipa": "/dɪˈteɪlz/",
+          "ex": [
+            "The police did not share many details about the crash.",
+            "Please send me the details of the trip.",
+            "The company will announce more details next month."
+          ]
+        },
+        {
+          "word": "free education",
+          "def": "Schooling that families do not have to pay for",
+          "ipa": "/fri ˌɛdʒəˈkeɪʃən/",
+          "ex": [
+            "Every child in the country gets free education until age 18.",
+            "The candidate promised free education at state colleges.",
+            "Free education helps poor families send their kids to school."
+          ]
+        },
+        {
+          "word": "secrecy clause",
+          "def": "A part of an agreement that says it must stay private",
+          "ipa": "/ˈsikrəsi klɔz/",
+          "ex": [
+            "Her work contract has a secrecy clause about new products.",
+            "Because of a secrecy clause, the company cannot share the price.",
+            "The deal includes a secrecy clause, so the details are private."
+          ]
+        },
+        {
+          "word": "opposition",
+          "def": "The main parties or groups that are not in power",
+          "ipa": "/ˌɑpəˈzɪʃən/",
+          "ex": [
+            "The opposition voted against the new budget.",
+            "The leader of the opposition gave a long speech in parliament.",
+            "The opposition wants lower taxes."
+          ]
+        }
+      ],
+      "mainIdea": [
+        {
+          "s": "Solomon Islands signed a security treaty with Australia that bans foreign military bases. Reports said it would leave its 2022 China pact, but its leader did not confirm it.",
+          "a": true,
+          "why": "The treaty rules out any foreign military base there. Australian media reported the plan to pull out of the China pact, and its leader held back details."
+        },
+        {
+          "s": "Solomon Islands openly announced the end of its police deal with China at a signing with Australia. China's government confirmed the news and said it was very unhappy.",
+          "a": false,
+          "why": "Close, but the prime minister held back details about the China pact. China's foreign ministry did not confirm or deny the reports."
+        },
+        {
+          "s": "A strong storm hit Solomon Islands and damaged many roads and homes in the countryside. Australia sent food and water, and its army helped rebuild several schools there.",
+          "a": false,
+          "why": "This story is about a security treaty. Solomon Islands signed it with Australia, and Australia will help build up its police force."
+        }
+      ],
+      "tf": [
+        {
+          "s": "Reports said Solomon Islands would pull out of its security pact with China.",
+          "a": true,
+          "why": "Australian media reported that Solomon Islands had told China it would not renew the 2022 pact."
+        },
+        {
+          "s": "The new treaty allows China to build a military base in Solomon Islands.",
+          "a": false,
+          "why": "The treaty rules out any foreign military base in Solomon Islands."
+        },
+        {
+          "s": "Australia will help build up the police force in Solomon Islands.",
+          "a": true,
+          "why": "The treaty says Australia will help make the country's police stronger."
+        },
+        {
+          "s": "Solomon Islands' prime minister gave full details about the China pact.",
+          "a": false,
+          "why": "He held back details and said the China pact has a secrecy clause."
+        },
+        {
+          "s": "The opposition leader spoke out against ending the pact with China.",
+          "a": true,
+          "why": "The former prime minister who signed the pact warned that ending it could hurt ties with China."
+        },
+        {
+          "s": "Australia and the U.S. were happy about the 2022 security pact with China.",
+          "a": false,
+          "why": "The pact stirred up fears in both countries that China wanted a foothold in the Pacific."
+        }
+      ]
+    },
+    {
       "id": "pakistan-first-astronaut-2026",
       "number": 268,
       "headline": "Pakistan's first astronaut flies on a Chinese rocket",
